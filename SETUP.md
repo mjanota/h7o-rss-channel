@@ -42,10 +42,11 @@ git push -u origin main
 
 ## Krok 5: Hotovo! 🎉
 
-Váš RSS feed je dostupný na:
+Vaše RSS feedy jsou dostupné na:
 
 ```
 https://USERNAME.github.io/rss-channel/h7o_feed.xml
+https://USERNAME.github.io/rss-channel/kosmas_feed.xml
 ```
 
 A webové rozhraní na:
@@ -58,7 +59,7 @@ https://USERNAME.github.io/rss-channel/
 
 - RSS se automaticky aktualizuje každý den v 6:00 UTC
 - Můžete také spustit aktualizaci manuálně:
-  1. Jděte na **Actions** → **Update RSS Feed**
+  1. Jděte na **Actions** → **Update RSS Feeds**
   2. Klikněte na **Run workflow**
   3. Klikněte na zelené tlačítko **Run workflow**
 
