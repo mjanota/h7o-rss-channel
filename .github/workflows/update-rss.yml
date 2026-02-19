@@ -26,11 +26,11 @@ jobs:
       run: uv sync
       
     - name: Run RSS generators
-      run: uv run generate_all.py
+      run: uv run python generate_all.py
       
     - name: Commit and push if changed
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add h7o_feed.xml kosmas_feed.xml articles_cache.json kosmas_cache.json
+        git add h7o_feed.xml kosmas_feed.xml articles_cache.json kosmas_cache.json rss_update_log.md
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds [skip ci]" && git push)
