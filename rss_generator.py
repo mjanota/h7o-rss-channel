@@ -13,18 +13,32 @@ import json
 import os
 import re
 from urllib.parse import urljoin
+from log_utils import RSSLogger
 
 
 class H7oRSSGenerator:
-    def __init__(self, base_url="https://www.h7o.cz/clanky", 
-                 cache_file="articles_cache.json",
-                 rss_file="h7o_feed.xml",
-                 max_age_months=3):
+
+    def __init__(
+        self,
+        base_url="https://www.h7o.cz/clanky",
+        cache_file="articles_cache.json",
+        rss_file="h7o_feed.xml",
+        max_age_months=3,
+        log_file="h7o_generator.log",
+    ):
         self.base_url = base_url
         self.cache_file = cache_file
         self.rss_file = rss_file
         self.max_age_months = max_age_months
+        self.log_file = log_file
         self.articles = []
+
+    def log(self, message):
+        """Zapíše zprávu do log souboru"""
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        log_entry = f"[{timestamp}] {message}\n"
+        with open(self.log_file, "a", encoding="utf-8") as f:
+            f.write(log_entry)
 
     def load_cache(self):
         """Načte uložený stav článků z cache souboru"""
@@ -244,78 +258,100 @@ class H7oRSSGenerator:
         """Hlavní funkce pro spuštění generátoru"""
         print("=== H7O RSS Generator ===\n")
 
-        # Načteme cache
-        cached_articles = self.load_cache()
-        is_first_run = len(cached_articles) == 0
+        logger = RSSLogger()
+        new_items_titles = []
 
-        # Vytvoříme množinu URL z cache pro rychlé porovnání
-        cached_urls = {a["url"] for a in cached_articles}
+        try:
+            # Načteme cache
+            cached_articles = self.load_cache()
+            is_first_run = len(cached_articles) == 0
 
-        if is_first_run:
-            print("První spuštění - stahuji všechny články za poslední 3 měsíce...\n")
-            # Stáhneme všechny relevantní články
-            new_articles = self.fetch_all_articles(cached_urls=cached_urls)
-        else:
-            print(f"Nalezeno {len(cached_articles)} článků v cache.")
-            print("Kontroluji nové články...\n")
-            # Stáhneme jen první stránku pro kontrolu nových článků
-            soup = self.fetch_page(1)
-            if soup:
-                new_articles = self.extract_articles_from_page(soup)
+            # Vytvoříme množinu URL z cache pro rychlé porovnání
+            cached_urls = {a["url"] for a in cached_articles}
+
+            if is_first_run:
+                print(
+                    "První spuštění - stahuji všechny články za poslední 3 měsíce...\n"
+                )
+                # Stáhneme všechny relevantní články
+                new_articles = self.fetch_all_articles(cached_urls=cached_urls)
             else:
-                new_articles = []
+                print(f"Nalezeno {len(cached_articles)} článků v cache.")
+                print("Kontroluji nové články...\n")
+                # Stáhneme jen první stránku pro kontrolu nových článků
+                soup = self.fetch_page(1)
+                if soup:
+                    new_articles = self.extract_articles_from_page(soup)
+                else:
+                    new_articles = []
 
-        # Identifikujeme skutečně nové články
-        truly_new = [a for a in new_articles if a['url'] not in cached_urls]
+            # Identifikujeme skutečně nové články
+            truly_new = [a for a in new_articles if a["url"] not in cached_urls]
+            new_items_titles = [a["title"] for a in truly_new]
 
-        if truly_new:
-            print(f"\nNalezeno {len(truly_new)} nových článků")
-            if len(truly_new) <= 10:
-                for article in truly_new:
-                    print(f"  - {article['title']}")
+            if truly_new:
+                print(f"\nNalezeno {len(truly_new)} nových článků")
+                if len(truly_new) <= 10:
+                    for article in truly_new:
+                        print(f"  - {article['title']}")
+                else:
+                    print(f"  (Zobrazuji prvních 10 z {len(truly_new)})")
+                    for article in truly_new[:10]:
+                        print(f"  - {article['title']}")
             else:
-                print(f"  (Zobrazuji prvních 10 z {len(truly_new)})")
-                for article in truly_new[:10]:
-                    print(f"  - {article['title']}")
-        else:
-            print("\nŽádné nové články nenalezeny.")
+                print("\nŽádné nové články nenalezeny.")
 
-        # Sloučíme nové a cache články
-        all_articles = cached_articles + truly_new
+            # Sloučíme nové a cache články
+            all_articles = cached_articles + truly_new
 
-        # Odstraníme duplicity podle URL
-        unique_articles = list({a['url']: a for a in all_articles}.values())
+            # Odstraníme duplicity podle URL
+            unique_articles = list({a["url"]: a for a in all_articles}.values())
 
-        # Filtrujeme staré články
-        cutoff_date = datetime.now() - timedelta(days=self.max_age_months * 30)
-        filtered_articles = []
+            # Filtrujeme staré články
+            cutoff_date = datetime.now() - timedelta(days=self.max_age_months * 30)
+            filtered_articles = []
 
-        for article in unique_articles:
-            article_date = datetime.fromisoformat(article['date'])
-            if article_date >= cutoff_date:
-                filtered_articles.append(article)
+            for article in unique_articles:
+                article_date = datetime.fromisoformat(article["date"])
+                if article_date >= cutoff_date:
+                    filtered_articles.append(article)
 
-        removed_count = len(unique_articles) - len(filtered_articles)
-        if removed_count > 0:
-            print(f"\nOdstraněno {removed_count} starých článků.")
+            removed_count = len(unique_articles) - len(filtered_articles)
+            if removed_count > 0:
+                print(f"\nOdstraněno {removed_count} starých článků.")
 
-        # Uložíme aktualizovanou cache
-        # Připravíme články pro uložení (bez date_obj)
-        articles_to_save = []
-        for article in filtered_articles:
-            article_copy = article.copy()
-            article_copy.pop('date_obj', None)
-            articles_to_save.append(article_copy)
+            # Uložíme aktualizovanou cache
+            # Připravíme články pro uložení (bez date_obj)
+            articles_to_save = []
+            for article in filtered_articles:
+                article_copy = article.copy()
+                article_copy.pop("date_obj", None)
+                articles_to_save.append(article_copy)
 
-        self.save_cache(articles_to_save)
+            self.save_cache(articles_to_save)
 
-        # Vygenerujeme RSS
-        # Přidáme date_obj zpět pro generování RSS
-        for article in filtered_articles:
-            if 'date_obj' not in article:
-                article['date_obj'] = datetime.fromisoformat(article['date'])
+            # Vygenerujeme RSS
+            # Přidáme date_obj zpět pro generování RSS
+            for article in filtered_articles:
+                if "date_obj" not in article:
+                    article["date_obj"] = datetime.fromisoformat(article["date"])
 
-        self.generate_rss(filtered_articles)
+            self.generate_rss(filtered_articles)
+
+            # Zalogujeme úspěšné spuštění
+            logger.log_run(
+                source_name="H7O - Časopis Host",
+                new_items_count=len(truly_new),
+                new_items_titles=new_items_titles,
+            )
+
+        except Exception as e:
+            error_msg = str(e)
+            print(f"\n❌ Chyba: {error_msg}")
+            logger.log_run(
+                source_name="H7O - Časopis Host", new_items_count=0, error=error_msg
+            )
+            raise
 
         print("\n=== Hotovo ===")
 
