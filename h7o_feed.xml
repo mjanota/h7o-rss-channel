@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>H7O - Časopis Host 7 dní online</title>
+    <link>https://www.h7o.cz/clanky</link>
+    <description>RSS kanál článků z H7O - Časopis Host</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>cs</language>
+    <lastBuildDate>Wed, 18 Feb 2026 16:37:08 +0000</lastBuildDate>
+    <item>
+      <title>Smrt na skus</title>
+      <link>https://www.h7o.cz/clanky/14378-smrt-na-skus</link>
+      <description>Věčná otázka nakladatelů je, zdá se, definitivně vyřešena. Má-li být dnes kniha úspěšná, musí být toxická, potvrzují prózy Jakuba Stanjury.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14378-smrt-na-skus</guid>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Naučil jsem se psát na prahu katastrofy</title>
+      <link>https://www.h7o.cz/clanky/14372-naucil-jsem-se-psat-na-prahu-katastrofy</link>
+      <description>Egyptský básník Mohsen Mohamed je jediným z autorů, který na letošním MAČ musel být jen online. České velvyslanectví v Londýně mu odmítlo udělit vstupní vízum. Bylo to o to překvapivější, že Mohsen žije s českou arabistkou Lucií Ryzovou. Více v rozhovoru, který s autorem vedl Pavel Drábek.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14372-naucil-jsem-se-psat-na-prahu-katastrofy</guid>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dvojlomnost světa</title>
+      <link>https://www.h7o.cz/clanky/14379-dvojlomnost-sveta</link>
+      <description>Působivá „Evropanka“, která vzbuzovala dojem autentických záznamů, ukázala autorovu tematickou sílu, vzbudila silné očekávání svou syrovostí a zároveň prostotou. Najít nové téma anebo nové výrazové prostředky bude možná nyní autorovým hlavním úkolem, píše Marta Ljubková v recenzi na novou knihu…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14379-dvojlomnost-sveta</guid>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mr. Scorsese jako portrét velikána</title>
+      <link>https://www.h7o.cz/clanky/14380-mr-scorsese-jako-portret-velikana</link>
+      <description>Dynamický pětidílní dokument „Mr. Scorsese“ vypráví o jednom z nejlepších filmařů všech dob. Pět hodin stopáže je poctou mistrovi, ale zároveň studií toho, jak vypadá život člověka, který se kompletně odevzdal své tvorbě. A přes mnohá selhání zůstal lidský, laskavý a hlavně zábavný.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14380-mr-scorsese-jako-portret-velikana</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Albatros nad Trhem knih</title>
+      <link>https://www.h7o.cz/clanky/14381-albatros-nad-trhem-knih</link>
+      <description>Albatros Media zvyšují svou aktivitu na poli online antikvariátů a tržišť s knihami. Činí tak ze strategických důvodů.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14381-albatros-nad-trhem-knih</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In memoriam Hiba Abú Nada</title>
+      <link>https://www.h7o.cz/clanky/14382-in-memoriam-hiba-abu-nada</link>
+      <description>Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14382-in-memoriam-hiba-abu-nada</guid>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nerybařím</title>
+      <link>https://www.h7o.cz/clanky/14383-nerybarim</link>
+      <description>„Když mi byly asi tři roky, utopil jsem se v bazénku na zahradě. Od té doby chovám k hladinám podezření,“ píše ve svém fejetonu básník a překladatel Ondřej Buddeus.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14383-nerybarim</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duševní mapa okupace</title>
+      <link>https://www.h7o.cz/clanky/14384-dusevni-mapa-okupace</link>
+      <description>Palestinská autorka Adaníja Šiblí vydala v roce 2017 krátký román o slepé cestě za historií své země. Její „Podružný detail“ vyšel letos v Akropoli v působivém překladu Jitky Jeníkové. Recenzi připravila islamoložka a politoložka Zora Hesová.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14384-dusevni-mapa-okupace</guid>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nejlepší knihy letošního roku</title>
+      <link>https://www.h7o.cz/clanky/14385-nejlepsi-knihy-letosniho-roku</link>
+      <description>Kdo nebilancuje, jako by nebyl. Oslovili jsme proto sami sebe a naši redakční radu takto: Napište jednu až tři knihy s vročením 2025, které vás nejvíce zaujaly. Ke každé můžete nebo nemusíte přidat pár vět.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14385-nejlepsi-knihy-letosniho-roku</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akt odhození rukopisu je vždy náročný</title>
+      <link>https://www.h7o.cz/clanky/14387-akt-odhozeni-rukopisu-je-vzdy-narocny</link>
+      <description>Povídky Michala Talla připomínají jeden z nejstarších literárních žánrů: noční můru. Přesto tato noční můra nevychází z neklidných snů, ale z intenzivního vnímání společensko-politické reality. Kniha „Všechno je v pořádku, všude je láska“ silně rezonovala na Slovensku a nyní vychází v českém…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14387-akt-odhozeni-rukopisu-je-vzdy-narocny</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozmývá se oblast soukromého a veřejného</title>
+      <link>https://www.h7o.cz/clanky/14388-rozmyva-se-oblast-soukromeho-a-verejneho</link>
+      <description>Lucie Jílková z Ústavu pro jazyk český AV ČR se věnuje mediální češtině a jejím proměnám. Nedávno jí o jazyce médií vyšla kniha „Jak moc nás to posunulo?“.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14388-rozmyva-se-oblast-soukromeho-a-verejneho</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In memoriam Rahaf Hunajdik</title>
+      <link>https://www.h7o.cz/clanky/14386-in-memoriam-rahaf-hunajdik</link>
+      <description>Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14386-in-memoriam-rahaf-hunajdik</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odešel britský velikán, který si čím dál víc připadal jako „vyhozený Čech“</title>
+      <link>https://www.h7o.cz/clanky/14390-odesel-britsky-velikan-ktery-si-cim-dal-vic-pripadal-jako-vyhozeny-cech</link>
+      <description>V sobotu 29. listopadu zemřel ve věku 88 let jeden z předních světových dramatiků Tom Stoppard.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14390-odesel-britsky-velikan-ktery-si-cim-dal-vic-pripadal-jako-vyhozeny-cech</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Právo na nudu</title>
+      <link>https://www.h7o.cz/clanky/14389-pravo-na-nudu</link>
+      <description>Podle psychologů v současnosti čelíme „epidemii nudy“. Nudíme se čím dál víc a nudíme se všichni. Jak je to při neustálém přísunu nových informací a vzruchů možné? V rámci sobotního čtení přinášíme text filozofa Ondřeje Galušky z tématu listopadového čísla Hosta.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14389-pravo-na-nudu</guid>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>S Camusem v Gaze</title>
+      <link>https://www.h7o.cz/clanky/14391-s-camusem-v-gaze</link>
+      <description>Svazek Camusovy publicistiky „Úvahy o terorismu“ je příležitostí konfrontovat autorovo politické myšlení se současným dění, píše Jan Němec. Co by si Camus myslel o Hamásu a co o Netanjahuovi?</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14391-s-camusem-v-gaze</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Všichni jsme trochu jako Nick Cave</title>
+      <link>https://www.h7o.cz/clanky/14392-vsichni-jsme-trochu-jako-nick-cave</link>
+      <description>Před pěti lety uspořádala Dánská královská knihovna výstavu artefaktů přibližujících tvorbu a život Nicka Cavea. Prostory zaplnily fotografie, dokumenty a další archiválie s Caveovým otiskem. Nyní je výstava převedena do virtuální podoby a umožňuje proklikat se jeho poklady.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14392-vsichni-jsme-trochu-jako-nick-cave</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Knihobot spouští program na podporu české literatury</title>
+      <link>https://www.h7o.cz/clanky/14398-knihobot-spousti-program-na-podporu-ceske-literatury</link>
+      <description>Populární internetový antikvariát bude finančně podporovat spisovatele i literární projekty. Peníze budou z prodejů nových knih.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14398-knihobot-spousti-program-na-podporu-ceske-literatury</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In memoriam Núruddín Adnán Hažžáž</title>
+      <link>https://www.h7o.cz/clanky/14393-in-memoriam-nuruddin-adnan-hazzaz</link>
+      <description>Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14393-in-memoriam-nuruddin-adnan-hazzaz</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cena literární kritiky: Sbírky 3. čtvrtletí 2025</title>
+      <link>https://www.h7o.cz/clanky/14399-cena-literarni-kritiky-sbirky-3-ctvrtleti-2025</link>
+      <description>Letos už pátá debata Ceny literární kritiky proběhla v ostravském Centru Pant. Diskutovalo se o sbírkách Tomáše Gabriela, Radovana Jursy, Jana Musila, Pavla Novotného a dalších sbírkách vydaných v závěru letošního roku.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14399-cena-literarni-kritiky-sbirky-3-ctvrtleti-2025</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vzestup cringeokracie</title>
+      <link>https://www.h7o.cz/clanky/14400-vzestup-cringeokracie</link>
+      <description>Tomio Okamura v zahradnickém odění seká kartony s rozpočtovými položkami křovinořezem. Zdeněk Hřib pronikající do meme kultury generace alfa jako „Hřibidi toilet“. Alena Schillerová oslovuje mladé voliče na TikToku tetováním českého lva z brněnského majálesu. Vítejte v české cringeokracii!</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14400-vzestup-cringeokracie</guid>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Srdce v pytli</title>
+      <link>https://www.h7o.cz/clanky/14401-srdce-v-pytli</link>
+      <description>Ve svěžím románovém debutu Rity Bullwinkelové „Úder na hlavu“ létají pěsti. Je však pavouk boxerského turnaje nejlepší románovou kompozicí? Více o novince z edice AAA v recenzi Jana Němce.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14401-srdce-v-pytli</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toto není další smutný sloupek</title>
+      <link>https://www.h7o.cz/clanky/14403-toto-neni-dalsi-smutny-sloupek</link>
+      <description>„Tím podstatným pro mě bylo a je, že vždycky se najde někdo, kdo tlaku vzdoruje.“ Poslední sloupek Aleny Machoninové pro časopis Host.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14403-toto-neni-dalsi-smutny-sloupek</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trest za solidaritu. V Íránu zatkli spisovatelky a další kritiky režimu</title>
+      <link>https://www.h7o.cz/clanky/14404-trest-za-solidaritu-a-svedectvi</link>
+      <description>Íránské bezpečnostní složky o víkendu zadržely na pohřbu nedávno zesnulého aktivisty desítky lidí. Mezi nimi i autorky Narghís Mohammadi a Sepideh Qolian.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14404-trest-za-solidaritu-a-svedectvi</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>In memoriam Mahdí Sáid Hassúna</title>
+      <link>https://www.h7o.cz/clanky/14402-in-memoriam-mahdi-said-hassuna</link>
+      <description>Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14402-in-memoriam-mahdi-said-hassuna</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Veselé Vánoce!</title>
+      <link>https://www.h7o.cz/clanky/14406-vesele-vanoce</link>
+      <description>I díky „Vánoční koledě“, s níž proslulo sousloví „Merry Christmas“, slavíme Vánoce, jak je známe. Dne 19. prosince 1843 vychází Dickensova „Vánoční koleda“ poprvé — a snad nikdy naposledy.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14406-vesele-vanoce</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dějiny situací</title>
+      <link>https://www.h7o.cz/clanky/14405-dejiny-situaci</link>
+      <description>Kanadská básnířka Anne Carson je jednou z nejznámějších autorek současnosti, jejíž dílo v českém jazyce dosud chybělo. Napravit to má překlad její nejznámější knihy „Autobiografie rudé“, kterou v příštím týdnu vydá nakladatelství Argo v překladu básníka Tomáše Gabriela.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14405-dejiny-situaci</guid>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nechal bych Boha být Bohem</title>
+      <link>https://www.h7o.cz/clanky/14407-nechal-bych-boha-byt-bohem</link>
+      <description>Josefína Formanová si v rozhovoru s teologem a komparatistou Tomášem Sixtou povídá o proměnách víry, duchovním zneužívání a křehkosti. Vyprazdňují se kostely navždy, nebo naopak dorůstá generace, která si k víře znovu hledá cestu?  Zveme k předvánočnímu čtení…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14407-nechal-bych-boha-byt-bohem</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bezejmenné, v sutinách ztracené spisovatelky a spisovatelé</title>
+      <link>https://www.h7o.cz/clanky/14408-bezejmenne-v-sutinach-ztracene-spisovatelky-a-spisovatele</link>
+      <description>Před Vánoci patřily seriálové čtvrtky palestinským autorkám a autorům, kteří byli zabiti během okupace Gazy izraelskou armádou. Jejich texty doplnili prozaickými, básnickými či esejistickými reakcemi české autorky a autoři. Seriál uzavírá text Vesny Evans, věnovaný všem těm ztraceným v sutinách.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14408-bezejmenne-v-sutinach-ztracene-spisovatelky-a-spisovatele</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Téma jako alibi</title>
+      <link>https://www.h7o.cz/clanky/14411-tema-jako-alibi</link>
+      <description>Zažíváme homogenizaci literatury skrze clustery několika témat? A je problém v samotných tématech nebo v tom, že na ně i myšlení o literatuře čím dál víc redukujeme? O co tím případně přicházíme? Více v komentáři Ondřeje Nezbedy.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14411-tema-jako-alibi</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nejsem fanouškem zrcadlových vydání</title>
+      <link>https://www.h7o.cz/clanky/14409-nejsem-fanouskem-zrcadlovych-vydani</link>
+      <description>Americká poezie patří k nejvydávanějším a nejsledovanějším u nás. Dokazují to četné antologie, ale i překlady celých sbírek, jež za poslední půlstoletí vycházely. S editorem Janem Zikmundem hovoříme o tom, jak vznikala nová antologie a jak vypadá společenská kritika v současné americké poezii.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14409-nejsem-fanouskem-zrcadlovych-vydani</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nakladatelství ukončilo spolupráci s bestselleristou Walliamsem. Měl obtěžovat zaměstnankyně</title>
+      <link>https://www.h7o.cz/clanky/14412-nakladatelstvi-ukoncilo-spolupraci-s-bestselleristou-walliamsem</link>
+      <description>Autor dětských knih, komik a herec David Walliams čelí obvinění ze sexuálního obtěžování. Spolupráci s ním rozvázalo nakladatelství HarperCollins i literární festival.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14412-nakladatelstvi-ukoncilo-spolupraci-s-bestselleristou-walliamsem</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>S kým se spřáhnout</title>
+      <link>https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout</link>
+      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii inauguruje úvaha o lsti táborového vidění světa.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vzpouru nemám v krvi</title>
+      <link>https://www.h7o.cz/clanky/14413-vzpouru-nemam-v-krvi</link>
+      <description>Básník Vít Slíva se 11. ledna dožívá pětasedmdesáti let. Na počátku roku poslal kolegům literátům novoročenku pro rok 2026. Verše na péefku se staly inspirací tohoto rozhovoru, v němž vyzývám autora k reakci ke každému řádku jeho rýmovaného přání.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14413-vzpouru-nemam-v-krvi</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krvavá zrnka korálů</title>
+      <link>https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu</link>
+      <description>Dne 10. ledna roku 1986, tedy přesně před čtyřiceti lety, zemřel český básník, publicista a nositel Nobelovy ceny za literaturu Jaroslav Seifert. K tomuto výročí publikujeme ukázku z monografie Vratislava Maňáka „Orchestrace jedné denunciace“, kterou v prosinci vydalo nakladatelství Karolinum.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čtyřikrát Venezuela</title>
+      <link>https://www.h7o.cz/clanky/14415-ctyrikrat-venezuela</link>
+      <description>Těkavá pozornost světa se v posledních týdnech upřela na Venezuelu. Co se v Caracasu děje, to lze pochopit nejen prostřednictvím zpravodajství, ale i skrze literaturu. Přinášíme dva tipy na non-fiction a dva na romány.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14415-ctyrikrat-venezuela</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Environmentální spravedlnost se u nás teprve zabydluje</title>
+      <link>https://www.h7o.cz/clanky/14416-environmentalni-spravedlnost-se-u-nas-teprve-zabydluje</link>
+      <description>V knize „Environmentální spravedlnost v etnické americké literatuře“ zkoumá autorský kolektiv, jak domorodé komunity čelí dopadům environmentálního rasismu. Co znamená environmentální spravedlnost a jak se projevuje v literatuře, vysvětluje v rozhovoru jeden z editorů knihy Petr Kopecký.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14416-environmentalni-spravedlnost-se-u-nas-teprve-zabydluje</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tehdy televize za něco ještě stála. Vážně?</title>
+      <link>https://www.h7o.cz/clanky/14417-tehdy-televize-za-neco-jeste-stala-vazne</link>
+      <description>Hudební televize MTV odstartovala 1. srpna 1981. Stanice, která od počátku vysílala čtyřiadvacet hodin denně, pomohla proměnit hudbu v primárně vizuální médium a redefinovala podobu popkultury na několik dekád. Na konci roku 2025 přestala vysílat hudbu.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14417-tehdy-televize-za-neco-jeste-stala-vazne</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volme Hodnoty</title>
+      <link>https://www.h7o.cz/clanky/14418-volme-hodnoty</link>
+      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí o chronických neduzích akademických odměn, českých daní a jejich možných řešeních.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14418-volme-hodnoty</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slovo tělem</title>
+      <link>https://www.h7o.cz/clanky/14419-slovo-telem</link>
+      <description>Pro sbírku Lucie L. Fišerové je podstatná její dualita, dvojjedinost, neustálé napětí mezi zaujatým pozorováním vnějšího světa a hlubokým osobním prožitkem, mezi přesným teoretickým jazykem a opatrným dotýkáním se „zjevení a zamlčení“.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14419-slovo-telem</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příliš mnoho, ale ne dost</title>
+      <link>https://www.h7o.cz/clanky/14420-prilis-mnoho-ale-ne-dost</link>
+      <description>Film P. T. Andersona „Jedna bitva za druhou“ sbírá úspěch za úspěchem a ještě tomu jistě není konec, Oscary se blíží. Ne všichni vědí, že ve filmu je kus DNA Thomase Pynchona, konkrétně jeho románu „Vineland“. Pynchon však na podzim vydal nový, dlouho očekávaný román „Shadow Ticket“. Má naději být…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14420-prilis-mnoho-ale-ne-dost</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jde o to ticho vyslovit, a ne mlčet</title>
+      <link>https://www.h7o.cz/clanky/14421-jde-o-to-ticho-vyslovit-a-ne-mlcet</link>
+      <description>„Když si uvědomím, že nelze všechno jasně definovat, pak pokus o definici už je od začátku nějak naplněný ironií, nemožností, a tudíž je to velice zajímavý básnický podnik.“ S Josefem Hrdličkou o nejnovější sbírce „MOST přes MOST“, klidu zahrady a události, jež sbírku rozdělila na předtím a potom.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14421-jde-o-to-ticho-vyslovit-a-ne-mlcet</guid>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jdu, kam mě vede příběh</title>
+      <link>https://www.h7o.cz/clanky/14425-jdu-kam-me-vede-pribeh</link>
+      <description>Spisovatel Julian Barnes vydal nový román. Zároveň oznámil, že bude jeho poslední.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14425-jdu-kam-me-vede-pribeh</guid>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čas na další experiment</title>
+      <link>https://www.h7o.cz/clanky/14422-cas-na-dalsi-experiment</link>
+      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí, která navrhuje aplikovat postupy randomizovaných pokusů v legislativě.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14422-cas-na-dalsi-experiment</guid>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obecní přízraky Sudet</title>
+      <link>https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet</link>
+      <description>O pohraničí říká, že ho mapuje, jako když řeka zachytává nánosy bahna, napadané listí či odpad. Básník a vodohospodář Michal Grac vydal debut „Obecní ampliony“ a s vodou souvisí i rozhovor nad jeho básní o zatopených Sudetech na dně přehrady Slezská Harta.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet</guid>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proti iluzím</title>
+      <link>https://www.h7o.cz/clanky/14427-proti-iluzim</link>
+      <description>Knihy Michaila Šiškina a Carla Masaly neposkytují útěšný zážitek. Šiškinova analýza ruské minulosti a přítomnosti a Masalou uvažovaná varianta budoucnosti se nezamýšleně doplňují a vytvářejí zcela neiluzorní dvojblok vůči iluzím o povaze ruské politické moci.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14427-proti-iluzim</guid>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za Alenou Kučerovou do Lhoty</title>
+      <link>https://www.h7o.cz/clanky/14429-za-alenou-kucerovou-do-lhoty</link>
+      <description>Dne 23. ledna zemřela ve svých 90 letech významná česká grafička Alena Kučerová. Pro svou tvorbu vyvinula osobitou techniku zpracování grafické matrice. Plech na výrobu konzerv perforovala nikoli úderem, ale tlakem ruky na průbojník. Osobní vzpomínku na ni sepsala historička umění Lucie B. Šiklová.…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14429-za-alenou-kucerovou-do-lhoty</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otcovská požehnání pro mladé básnictvo</title>
+      <link>https://www.h7o.cz/clanky/14430-otcovska-pozehnani-pro-mlade-basnictvo</link>
+      <description>„Sebevědomý debut“, „dospělý debut“, „tak mladý a tak vyzrálý“. Formulace a perspektiva, jimiž etablovaní básníci, básnířky i nakladatelství hodnotí v reflexích i anotacích debuty mladého básnictva. Jako by bez požehnání etablovaných nemohl mít debutující hlas relevanci sám o sobě.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14430-otcovska-pozehnani-pro-mlade-basnictvo</guid>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ještě se peče</title>
+      <link>https://www.h7o.cz/clanky/14431-jeste-se-pece</link>
+      <description>Vláda připravuje zrušení koncesionářských poplatků. Zároveň však nepředstavila nový model financování médií veřejné služby.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14431-jeste-se-pece</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Konečně konec!?</title>
+      <link>https://www.h7o.cz/clanky/14432-konecne-konec</link>
+      <description>V závěru divokého měsíce ledna přinášíme závěrečný divoký text ze série Petra Turečka. Evoluční biolog tu se sarkasmem sobě vlastním dekonstruuje nostalgii po ještě nadějeplných nultých letech mimo jiné jako frustraci Západu, který to tolikrát fatálně nezvládl s Ruskem.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14432-konecne-konec</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Psát se má s ozvěnou</title>
+      <link>https://www.h7o.cz/clanky/14433-psat-se-ma-s-ozvenou</link>
+      <description>„Při četbě sbírky Jiřího Kotena se mi neustále před očima objevovala mědirytina ‚Smrt a knihomil‘ od Johanna Rudolpha Schellenberga, na níž stojí smrt za plnou knihovnou, kterou převrhuje na sedícího učence,“ píše v recenzi sbírky „Směsné strofy“ Roman Polách.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14433-psat-se-ma-s-ozvenou</guid>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Násilí v díle  Michela Houellebecqa</title>
+      <link>https://www.h7o.cz/clanky/14434-nasili-v-dile-michela-houellebecqa</link>
+      <description>Jak slavného francouzského spisovatele ovlivnila jeho adolescentní četba H. P. Lovecrafta.
+Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkové.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14434-nasili-v-dile-michela-houellebecqa</guid>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nejzavšivenější ze zavšivených</title>
+      <link>https://www.h7o.cz/clanky/14428-nejzavsivenejsi-ze-zavsivenych</link>
+      <description>Jsou psi skutečně jako Kristus, jak ve svém románu „Sympatie“ tvrdí Rodrigo Blanco Calderón? A platí to i o legendárním psovi Simona Bolívara Nevadovi?</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14428-nejzavsivenejsi-ze-zavsivenych</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Šotoušové sobě i nám</title>
+      <link>https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam</link>
+      <description>Tak jako každý rok i letos se můžete v tištěném časopisu Host těšit na nové sloupkaře. Jedním z nich je básník Lubomír Tichý, který se ve sloupku „Rabbit Hole“ bude věnovat různým tendencím a jevům v tiktokovém prostředí.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozřezat, skenovat, trénovat. AI se cvičila i na fyzických knihách</title>
+      <link>https://www.h7o.cz/clanky/14437-rozrezat-skenovat-trenovat-ai-se-cvicila-i-na-fyzickych-knihach</link>
+      <description>Společnost Anthropic využívala k vývoji chatbota Claude i texty z fyzických kopií knih. Ukazují to soudem nově odtajněné dokumenty.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14437-rozrezat-skenovat-trenovat-ai-se-cvicila-i-na-fyzickych-knihach</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kdo se bude smát naposled</title>
+      <link>https://www.h7o.cz/clanky/14436-kdo-se-bude-smat-naposled</link>
+      <description>… ten se bude smát nejlépe? Říká se, že únor je z nejtruchlivějších měsíců roku. Do pošmourných dní proto v pravidelném seriálu přinášíme sloupky hudebníka a filozofa Ondřeje Galušky na téma smíchu a úsměvů — třebaže ne vždy tak úplně vítězných.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14436-kdo-se-bude-smat-naposled</guid>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hněv nesmí zůstat sám</title>
+      <link>https://www.h7o.cz/clanky/14438-hnev-nesmi-zustat-sam</link>
+      <description>„Svět se brutálně militarizuje — a když chci poezií zachytit současný vibe, nemůžu mluvit včerejším jazykem,“ říká básník a nakladatel Aleš Kauer o své básnické sbírce „Lebka hoří neonovým snem“, která byla nominována na letošní Cenu literární kritiky v kategorii poezie.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14438-hnev-nesmi-zustat-sam</guid>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sochy z mlhy</title>
+      <link>https://www.h7o.cz/clanky/14439-sochy-z-mlhy</link>
+      <description>„Sníh jsou písmena padající z nebe,“ napsal japonský glaciolog Ukichiro Nakaya. Byl sněhovými vločkami tak posedlý, že si začal pěstovat své vlastní. Na Univerzitě Hokkaido ve městě Sapporo k tomu účelu založil celou laboratoř mrazu. Pěstoval si svá vlastní písmena, a stal se tak prvním skutečným…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14439-sochy-z-mlhy</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grögerová byla z mého objevu dojatá</title>
+      <link>https://www.h7o.cz/clanky/14440-gr-gerova-byla-z-meho-objevu-dojata</link>
+      <description>„V případě téhle knihy jsem prostě věděl, že ji musím dát dohromady, protože nikdo jiný to za mě neudělá. Že nevznikne-li, pak ty unikátní hry zapadnou stejně jako kdysi,“ říká básník a germanista Pavel Novotný, editor svazku rozhlasových her autorské dvojice Bohumily Grögerové a Josefa Hiršala.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14440-gr-gerova-byla-z-meho-objevu-dojata</guid>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Olejová skvrna</title>
+      <link>https://www.h7o.cz/clanky/14443-olejova-skvrna</link>
+      <description>„Role kultury v naší společnosti se za poslední dekády silně změnila a v podstatě je prorostlá politikou. Jako by náš vkus — i ten gastronomický — spolehlivě předpovídal naše hodnoty i politické směřování,“ píše v novém pravidelném sloupku Žena a život Anna Durnová.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14443-olejova-skvrna</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nepraktický žert</title>
+      <link>https://www.h7o.cz/clanky/14444-neprakticky-zert</link>
+      <description>Sloupkařský seriál Ondřeje Galušky pokračuje úvahou o souvislosti etiky jednání a duchovnosti idiocie. „Proto až vám někdo namaže písty trumpety vazelínou nebo naleje vodu do kalhot, nastavte druhou nohavici a vězte, že jste v dobré společnosti.“</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14444-neprakticky-zert</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ticho jako možnost promluvy</title>
+      <link>https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy</link>
+      <description>„Básně Josefa Hrdličky jsou významově roztřesené, plné slovních zákrutů, do nichž se čtenář musí, aby je mohl interpretovat, účastně zatoulat. Zároveň nesou zřetelně performativní charakter: nejen označují, uvádějí do přítomnosti,“ píše v recenzi sbírky MOST přes MOST Libor Staněk II.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Je to horor, sociální i intimní</title>
+      <link>https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni</link>
+      <description>Už tuto sobotu HaDivadlo premiéruje adaptaci úspěšného románu Marka Torčíka „Rozložíš paměť“. O přípravě inscenace mluvíme s autorem adaptace, dramaturgem a dramatikem Ondřejem Novotným.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zavřené oči, uši v dlaních</title>
+      <link>https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich</link>
+      <description>„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spíše než o setkání šlo o ponor</title>
+      <link>https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor</link>
+      <description>Je Popeleční středa, a tak přinášíme rozhovor s Martinem Pokorným o jeho aktuálním překladu dvojice klíčových básní T. S. Eliota „Dutí lidé“ a „Popeleční středa“. V rozhovoru  mluví o tom, jak se setkával s Eliotovou poezií, o inspiraci Dantem nebo o tom, proč tyto méně známé básně tvoří klíčový…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

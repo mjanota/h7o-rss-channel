@@ -1,5 +1,3 @@
-*.xml
-*.json
 __pycache__/
 *.py[cod]
 *$py.class
@@ -7,3 +5,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+# Zahrneme XML a JSON soubory pro RSS feed
+!h7o_feed.xml
+!articles_cache.json
