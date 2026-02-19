@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H7O RSS Feed</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 600px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+        
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+        
+        .feed-url {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 10px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            word-break: break-all;
+            margin: 20px 0;
+            border-left: 4px solid #667eea;
+        }
+        
+        .button {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 8px;
+            margin: 10px 10px 10px 0;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+        
+        .button:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .info {
+            background: #e8f4f8;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .info h2 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+        
+        .info ul {
+            margin-left: 20px;
+        }
+        
+        .info li {
+            margin: 8px 0;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        a {
+            color: #667eea;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📰 H7O RSS Feed</h1>
+        <p class="subtitle">Neoficiální RSS kanál článků z <a href="https://www.h7o.cz/clanky" target="_blank">H7O - Časopis Host</a></p>
+        
+        <div class="feed-url" id="feedUrl">
+            <script>
+                const url = window.location.origin + window.location.pathname.replace('index.html', '') + 'h7o_feed.xml';
+                document.getElementById('feedUrl').textContent = url;
+            </script>
+        </div>
+        
+        <a href="h7o_feed.xml" class="button">📡 Zobrazit RSS</a>
+        <a href="#" class="button" onclick="copyToClipboard(); return false;">📋 Kopírovat URL</a>
+        
+        <div class="info">
+            <h2>ℹ️ Jak používat</h2>
+            <ul>
+                <li>Zkopírujte RSS URL výše</li>
+                <li>Vložte ji do vaší oblíbené RSS čtečky (Feedly, Inoreader, NetNewsWire...)</li>
+                <li>Feed se automaticky aktualizuje každý den</li>
+                <li>Obsahuje články za poslední 3 měsíce</li>
+            </ul>
+        </div>
+        
+        <footer>
+            <p>Generováno automaticky pomocí Python scriptu<br>
+            <a href="https://github.com" target="_blank">Zobrazit na GitHubu</a></p>
+        </footer>
+    </div>
+    
+    <script>
+        function copyToClipboard() {
+            const url = window.location.origin + window.location.pathname.replace('index.html', '') + 'h7o_feed.xml';
+            navigator.clipboard.writeText(url).then(() => {
+                const btn = event.target;
+                const originalText = btn.textContent;
+                btn.textContent = '✅ Zkopírováno!';
+                btn.style.background = '#10b981';
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.style.background = '#667eea';
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>

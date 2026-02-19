@@ -1,0 +1,36 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    # Spustí se každý den v 6:00 UTC (7:00 CET)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Umožní manuální spuštění
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        enable-cache: true
+        
+    - name: Set up Python
+      run: uv python install
+      
+    - name: Install dependencies
+      run: uv sync
+      
+    - name: Run RSS generator
+      run: uv run rss_generator.py
+      
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add h7o_feed.xml articles_cache.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed [skip ci]" && git push)

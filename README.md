@@ -57,11 +57,44 @@ generator = H7oRSSGenerator(
 )
 ```
 
-## Automatizace
+## Publikování RSS přes GitHub Pages
 
-Pro pravidelnou aktualizaci můžete použít cron:
+### 1. Vytvořte GitHub repository
 
 ```bash
-# Každý den v 8:00
-0 8 * * * cd /home/mjan/playground/python/rss-channel && uv run python rss_generator.py
+# Přidejte remote repository (nahraďte USERNAME svým GitHub uživatelským jménem)
+git remote add origin https://github.com/USERNAME/rss-channel.git
+git push -u origin main
+```
+
+### 2. Aktivujte GitHub Pages
+
+1. Jděte na **Settings** → **Pages** ve vašem GitHub repository
+2. V sekci **Source** vyberte **GitHub Actions**
+3. Uložte nastavení
+
+### 3. Hotovo!
+
+RSS feed bude dostupný na:
+```
+https://USERNAME.github.io/rss-channel/h7o_feed.xml
+```
+
+### Automatická aktualizace
+
+GitHub Actions automaticky:
+- ✅ Aktualizuje RSS každý den v 6:00 UTC (7:00 CET)
+- ✅ Publikuje změny na GitHub Pages
+- ✅ Můžete spustit manuálně přes záložku "Actions" na GitHubu
+
+## Lokální testování
+
+Pro lokální testování můžete spustit HTTP server:
+
+```bash
+# Spustí server na http://localhost:8080
+uv run server.py
+
+# RSS pak bude dostupný na:
+# http://localhost:8080/h7o_feed.xml
 ```
