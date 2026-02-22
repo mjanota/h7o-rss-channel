@@ -5,6 +5,39 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-22 06:23:57 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 6
+
+**Tituly nových položek:**
+
+1. Dýchej tak, jak chceš žít
+2. Království krve a zrady
+3. Kvantový dech světa I
+4. Dům bez hodin
+5. Kvantová struktura zákonů II
+6. Kvantový celek III
+
+---
+
+## 🕐 2026-02-22 06:23:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Žijeme v království prázdných soklů
+
+---
+
 ## 🕐 2026-02-21 06:21:41 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

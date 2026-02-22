@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Feb 2026 06:21:41 +0000</lastBuildDate>
-    <item>
-      <title>My Little Pony - Omalovánky se samolepkami</title>
-      <link>https://www.kosmas.cz/knihy/564679/my-little-pony-omalovanky-se-samolepkami/</link>
-      <description>My Little Pony - Omalovánky se samolepkami - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564679/my-little-pony-omalovanky-se-samolepkami/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Můj rok 1981</title>
-      <link>https://www.kosmas.cz/knihy/564680/muj-rok-1981/</link>
-      <description>Můj rok 1981</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564680/muj-rok-1981/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Narozeninový příběh pejska a kočičky</title>
-      <link>https://www.kosmas.cz/knihy/564681/narozeninovy-pribeh-pejska-a-kocicky/</link>
-      <description>Narozeninový příběh pejska a kočičky - Vlasta Hurtíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564681/narozeninovy-pribeh-pejska-a-kocicky/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nakresli si vlastní komiks</title>
-      <link>https://www.kosmas.cz/knihy/564682/nakresli-si-vlastni-komiks/</link>
-      <description>Nakresli si vlastní komiks - Zuzana Neubauerová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564682/nakresli-si-vlastni-komiks/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Otazníky detektiva Štiky 3</title>
-      <link>https://www.kosmas.cz/knihy/564689/otazniky-detektiva-stiky-3/</link>
-      <description>Otazníky detektiva Štiky 3 - Jiří Kalousek, Jiří Lapáček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564689/otazniky-detektiva-stiky-3/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poslední rok ve školce</title>
-      <link>https://www.kosmas.cz/knihy/564690/posledni-rok-ve-skolce/</link>
-      <description>Poslední rok ve školce - Jana Burešová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564690/posledni-rok-ve-skolce/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:46:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Feb 2026 06:23:57 +0000</lastBuildDate>
     <item>
       <title>Potterovský průvodce: Lenka Láskorádová</title>
       <link>https://www.kosmas.cz/knihy/564691/potterovsky-pruvodce-lenka-laskoradova/</link>
@@ -707,6 +665,48 @@
       <description>Pravda nebo fikce? 3. díl - Joe Garcia</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565670/pravda-nebo-fikce-3.-dil/</guid>
       <pubDate>Sat, 21 Feb 2026 06:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dýchej tak, jak chceš žít</title>
+      <link>https://www.kosmas.cz/knihy/565367/dychej-tak-jak-chces-zit/</link>
+      <description>Dýchej tak, jak chceš žít - Matteo Pistono</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565367/dychej-tak-jak-chces-zit/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Království krve a zrady</title>
+      <link>https://www.kosmas.cz/knihy/565461/kralovstvi-krve-a-zrady/</link>
+      <description>Království krve a zrady - Holly Renee</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565461/kralovstvi-krve-a-zrady/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kvantový dech světa I</title>
+      <link>https://www.kosmas.cz/knihy/565672/kvantovy-dech-sveta-i/</link>
+      <description>Kvantový dech světa I - Jana Horkelová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565672/kvantovy-dech-sveta-i/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dům bez hodin</title>
+      <link>https://www.kosmas.cz/knihy/565673/dum-bez-hodin/</link>
+      <description>Dům bez hodin - Jana Horkelová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565673/dum-bez-hodin/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kvantová struktura zákonů II</title>
+      <link>https://www.kosmas.cz/knihy/565674/kvantova-struktura-zakonu-ii/</link>
+      <description>Kvantová struktura zákonů II - Jana Horkelová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565674/kvantova-struktura-zakonu-ii/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kvantový celek III</title>
+      <link>https://www.kosmas.cz/knihy/565675/kvantovy-celek-iii/</link>
+      <description>Kvantový celek III - Jana Horkelová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565675/kvantovy-celek-iii/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:23:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,59 @@
 [
   {
+    "title": "Kvantový celek III",
+    "url": "https://www.kosmas.cz/knihy/565675/kvantovy-celek-iii/",
+    "description": "Kvantový celek III - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-02-22T06:23:57.824956+00:00"
+  },
+  {
+    "title": "Kvantová struktura zákonů II",
+    "url": "https://www.kosmas.cz/knihy/565674/kvantova-struktura-zakonu-ii/",
+    "description": "Kvantová struktura zákonů II - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-02-22T06:23:57.824873+00:00"
+  },
+  {
+    "title": "Dům bez hodin",
+    "url": "https://www.kosmas.cz/knihy/565673/dum-bez-hodin/",
+    "description": "Dům bez hodin - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-02-22T06:23:57.824789+00:00"
+  },
+  {
+    "title": "Kvantový dech světa I",
+    "url": "https://www.kosmas.cz/knihy/565672/kvantovy-dech-sveta-i/",
+    "description": "Kvantový dech světa I - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-02-22T06:23:57.824708+00:00"
+  },
+  {
+    "title": "Království krve a zrady",
+    "url": "https://www.kosmas.cz/knihy/565461/kralovstvi-krve-a-zrady/",
+    "description": "Království krve a zrady - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-02-22T06:23:57.823276+00:00"
+  },
+  {
+    "title": "Dýchej tak, jak chceš žít",
+    "url": "https://www.kosmas.cz/knihy/565367/dychej-tak-jak-chces-zit/",
+    "description": "Dýchej tak, jak chceš žít - Matteo Pistono",
+    "authors": [
+      "Matteo Pistono"
+    ],
+    "date": "2026-02-22T06:23:57.823184+00:00"
+  },
+  {
     "title": "Pravda nebo fikce? 3. díl",
     "url": "https://www.kosmas.cz/knihy/565670/pravda-nebo-fikce-3.-dil/",
     "description": "Pravda nebo fikce? 3. díl - Joe Garcia",
@@ -1737,61 +1791,5 @@
       "Bára Stránská"
     ],
     "date": "2026-02-19T12:46:22.249867+00:00"
-  },
-  {
-    "title": "Žár Věčného plamene",
-    "url": "https://www.kosmas.cz/knihy/565492/zar-vecneho-plamene/",
-    "description": "Žár Věčného plamene - Penn Coleová",
-    "authors": [
-      "Penn Coleová"
-    ],
-    "date": "2026-02-19T12:46:22.249692+00:00"
-  },
-  {
-    "title": "Háčkované květiny",
-    "url": "https://www.kosmas.cz/knihy/565479/hackovane-kvetiny/",
-    "description": "Háčkované květiny - Li Li",
-    "authors": [
-      "Li Li"
-    ],
-    "date": "2026-02-19T12:46:22.249592+00:00"
-  },
-  {
-    "title": "Organizační chování",
-    "url": "https://www.kosmas.cz/knihy/565477/organizacni-chovani/",
-    "description": "Organizační chování - Karel Čada, Tereza Králová",
-    "authors": [
-      "Karel Čada",
-      "Tereza Králová"
-    ],
-    "date": "2026-02-19T12:46:22.249495+00:00"
-  },
-  {
-    "title": "Spin diktátoři",
-    "url": "https://www.kosmas.cz/knihy/526407/spin-diktatori/",
-    "description": "Spin diktátoři - Sergej Guriev, Daniel Treisman",
-    "authors": [
-      "Sergej Guriev",
-      "Daniel Treisman"
-    ],
-    "date": "2026-02-19T12:46:22.249398+00:00"
-  },
-  {
-    "title": "Hellboy 12: Bouře a běsy",
-    "url": "https://www.kosmas.cz/knihy/565451/hellboy-12-boure-a-besy/",
-    "description": "Hellboy 12: Bouře a běsy - Mike Mignola",
-    "authors": [
-      "Mike Mignola"
-    ],
-    "date": "2026-02-19T12:46:22.249275+00:00"
-  },
-  {
-    "title": "Hellboy 6: Podivná místa",
-    "url": "https://www.kosmas.cz/knihy/565447/hellboy-6-podivna-mista/",
-    "description": "Hellboy 6: Podivná místa - Mike Mignola",
-    "authors": [
-      "Mike Mignola"
-    ],
-    "date": "2026-02-19T12:46:22.249178+00:00"
   }
 ]

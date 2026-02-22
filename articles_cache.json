@@ -456,14 +456,6 @@
     "category": "recenze"
   },
   {
-    "title": "Dvojlomnost světa",
-    "url": "https://www.h7o.cz/clanky/14379-dvojlomnost-sveta",
-    "description": "Působivá „Evropanka“, která vzbuzovala dojem autentických záznamů, ukázala autorovu tematickou sílu, vzbudila silné očekávání svou syrovostí a zároveň prostotou. Najít nové téma anebo nové výrazové prostředky bude možná nyní autorovým hlavním úkolem, píše Marta Ljubková v recenzi na novou knihu…",
-    "date": "2025-11-24T00:00:00",
-    "author": "Marta Ljubková",
-    "category": "recenze"
-  },
-  {
     "title": "Úsměvy umělých dívek",
     "url": "https://www.h7o.cz/clanky/14447-usmevy-umelych-divek",
     "description": "Nekonečnost je nedokonalá — ne souměrné, pěkně dělitelné číslo, ale zneklidňující hloubka. Je ovšem také etická: podle francouzského filozofa Emmanuela Lévinase nekonečnost nenapadneme, něco v ní nás vždy zarazí. Lidská tvář je tato nekonečnost. Přinášíme další sloupek Ondřeje Galušky.",
@@ -510,5 +502,13 @@
     "date": "2026-02-20T00:00:00",
     "author": "Alexej Sevruk",
     "category": "komentář"
+  },
+  {
+    "title": "Žijeme v království prázdných soklů",
+    "url": "https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu",
+    "description": "Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.",
+    "date": "2026-02-21T00:00:00",
+    "author": "Marie Iljašenko",
+    "category": "rozhovor"
   }
 ]
