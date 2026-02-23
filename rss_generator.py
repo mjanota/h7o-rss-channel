@@ -235,7 +235,8 @@ class H7oRSSGenerator:
         # Seřadíme články podle data (nejnovější první)
         sorted_articles = sorted(articles, key=lambda x: x['date'], reverse=True)
 
-        for article in sorted_articles:
+        # Přidáme položky v opačném pořadí, aby nejnovější byly nahoře v XML
+        for article in reversed(sorted_articles):
             fe = fg.add_entry()
             fe.title(article['title'])
             fe.link(href=article['url'])

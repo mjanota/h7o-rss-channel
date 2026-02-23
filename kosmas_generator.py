@@ -7,7 +7,7 @@ RSS Generator pro novinky z https://www.kosmas.cz/novinky/
 
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from feedgen.feed import FeedGenerator
 import json
 import os
@@ -65,10 +65,14 @@ class KosmasRSSGenerator:
             print(f"Chyba při stahování stránky {page_num}: {e}")
             return None
 
-    def extract_items_from_page(self, soup):
+    def extract_items_from_page(self, soup, base_timestamp=None):
         """Extrahuje informace o novinkách z HTML stránky"""
         items = []
         seen_urls = set()
+
+        # Pokud není zadán base_timestamp, použijeme aktuální čas
+        if base_timestamp is None:
+            base_timestamp = datetime.now(timezone.utc)
 
         # Najdeme hlavní kontejner
         container = soup.find('div', class_='grid-items__pagenumber')
@@ -79,7 +83,7 @@ class KosmasRSSGenerator:
         # Najdeme všechny grid-items
         grid_items = container.find_all('div', class_='grid-item')
 
-        for grid_item in grid_items:
+        for idx, grid_item in enumerate(grid_items):
             try:
                 # Najdeme nadpis
                 title_elem = grid_item.find('h3', class_='g-item__title')
@@ -112,12 +116,15 @@ class KosmasRSSGenerator:
                     description = title
 
                 seen_urls.add(url)
+                # Přiřadíme datum s malým offsetem pro zachování pořadí ze stránky
+                # První položka = base_timestamp, druhá = -1s, třetí = -2s atd.
+                item_timestamp = base_timestamp - timedelta(seconds=idx)
                 item = {
-                    'title': title,
-                    'url': url,
-                    'description': description,
-                    'authors': authors,
-                    'date': datetime.now(timezone.utc).isoformat()
+                    "title": title,
+                    "url": url,
+                    "description": description,
+                    "authors": authors,
+                    "date": item_timestamp.isoformat(),
                 }
                 items.append(item)
 
@@ -136,6 +143,8 @@ class KosmasRSSGenerator:
 
         all_items = []
         page_num = 1
+        # Použijeme stejný base timestamp pro všechny stránky v tomto běhu
+        base_timestamp = datetime.now(timezone.utc)
 
         print(f"Stahuji novinky z Kosmas.cz...")
         print(f"Maximální počet stránek: {max_pages}")
@@ -148,7 +157,11 @@ class KosmasRSSGenerator:
                 print("Chyba při stahování.")
                 break
 
-            items = self.extract_items_from_page(soup)
+            # Předáme base_timestamp s offsetem pro každou stránku
+            page_offset = timedelta(
+                minutes=(page_num - 1) * 20
+            )  # 20 položek na stránku
+            items = self.extract_items_from_page(soup, base_timestamp - page_offset)
 
             if not items:
                 print("Žádné položky nenalezeny.")
@@ -195,7 +208,8 @@ class KosmasRSSGenerator:
         # Seřadíme položky podle data (nejnovější první)
         sorted_items = sorted(items, key=lambda x: x['date'], reverse=True)
 
-        for item in sorted_items[:100]:  # Omezíme na 100 nejnovějších
+        # Přidáme položky v opačném pořadí, aby nejnovější byly nahoře v XML
+        for item in reversed(sorted_items[:100]):  # Omezíme na 100 nejnovějších
             fe = fg.add_entry()
             fe.title(item['title'])
             fe.link(href=item['url'])
@@ -238,7 +252,8 @@ class KosmasRSSGenerator:
                 # Stáhneme jen první stránku pro kontrolu nových položek
                 soup = self.fetch_page(1)
                 if soup:
-                    new_items = self.extract_items_from_page(soup)
+                    base_timestamp = datetime.now(timezone.utc)
+                    new_items = self.extract_items_from_page(soup, base_timestamp)
                 else:
                     new_items = []
 
