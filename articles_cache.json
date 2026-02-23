@@ -1,5 +1,69 @@
 [
   {
+    "title": "Hustý!",
+    "url": "https://www.h7o.cz/clanky/14452-husty",
+    "description": "Že máme v Česku hustou síť knihoven, to se tak nějak ví. Teď však konečně můžeme vidět, jak moc hustá je. Přinášíme ochutnávku datových sloupků, které do Hosta tento rok píše novinář Michal Kašpárek.",
+    "date": "2026-02-23T00:00:00",
+    "author": "Michal Kašpárek",
+    "category": "sloupek"
+  },
+  {
+    "title": "Žijeme v království prázdných soklů",
+    "url": "https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu",
+    "description": "Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.",
+    "date": "2026-02-21T00:00:00",
+    "author": "Marie Iljašenko",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Nepřenechat prostor jiným",
+    "url": "https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym",
+    "description": "Čtyři roky trvající válka a čtyři roky odvážné rezistence Ukrajiny a jejich obyvatel se podepisují i na fungování kultury, jíž věnujeme téma únorového Hosta. Jak vnímají spisovatelé proměnu svého psaní: pociťují rezignaci, potřebu uchovat literaturu v ukrajinštině nebo najít nové způsoby, jak psát?",
+    "date": "2026-02-20T00:00:00",
+    "author": "Alexej Sevruk",
+    "category": "komentář"
+  },
+  {
+    "title": "Úsměvy umělých dívek",
+    "url": "https://www.h7o.cz/clanky/14447-usmevy-umelych-divek",
+    "description": "Nekonečnost je nedokonalá — ne souměrné, pěkně dělitelné číslo, ale zneklidňující hloubka. Je ovšem také etická: podle francouzského filozofa Emmanuela Lévinase nekonečnost nenapadneme, něco v ní nás vždy zarazí. Lidská tvář je tato nekonečnost. Přinášíme další sloupek Ondřeje Galušky.",
+    "date": "2026-02-19T00:00:00",
+    "author": "Ondřej Galuška",
+    "category": "seriál"
+  },
+  {
+    "title": "Spíše než o setkání šlo o ponor",
+    "url": "https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor",
+    "description": "Je Popeleční středa, a tak přinášíme rozhovor s Martinem Pokorným o jeho aktuálním překladu dvojice klíčových básní T. S. Eliota „Dutí lidé“ a „Popeleční středa“. V rozhovoru  mluví o tom, jak se setkával s Eliotovou poezií, o inspiraci Dantem nebo o tom, proč tyto méně známé básně tvoří klíčový…",
+    "date": "2026-02-18T00:00:00",
+    "author": "Libor Staněk II.",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Zavřené oči, uši v dlaních",
+    "url": "https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich",
+    "description": "„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.",
+    "date": "2026-02-17T00:00:00",
+    "author": "Lubomír Tichý",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Je to horor, sociální i intimní",
+    "url": "https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni",
+    "description": "Už tuto sobotu HaDivadlo premiéruje adaptaci úspěšného románu Marka Torčíka „Rozložíš paměť“. O přípravě inscenace mluvíme s autorem adaptace, dramaturgem a dramatikem Ondřejem Novotným.",
+    "date": "2026-02-16T00:00:00",
+    "author": "Jan Němec",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Ticho jako možnost promluvy",
+    "url": "https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy",
+    "description": "„Básně Josefa Hrdličky jsou významově roztřesené, plné slovních zákrutů, do nichž se čtenář musí, aby je mohl interpretovat, účastně zatoulat. Zároveň nesou zřetelně performativní charakter: nejen označují, uvádějí do přítomnosti,“ píše v recenzi sbírky MOST přes MOST Libor Staněk II.",
+    "date": "2026-02-13T00:00:00",
+    "author": "Libor Staněk II.",
+    "category": "recenze"
+  },
+  {
     "title": "Nepraktický žert",
     "url": "https://www.h7o.cz/clanky/14444-neprakticky-zert",
     "description": "Sloupkařský seriál Ondřeje Galušky pokračuje úvahou o souvislosti etiky jednání a duchovnosti idiocie. „Proto až vám někdo namaže písty trumpety vazelínou nebo naleje vodu do kalhot, nastavte druhou nohavici a vězte, že jste v dobré společnosti.“",
@@ -446,69 +510,5 @@
     "date": "2025-11-26T00:00:00",
     "author": "Václav Maxmilián",
     "category": "zprávy"
-  },
-  {
-    "title": "Úsměvy umělých dívek",
-    "url": "https://www.h7o.cz/clanky/14447-usmevy-umelych-divek",
-    "description": "Nekonečnost je nedokonalá — ne souměrné, pěkně dělitelné číslo, ale zneklidňující hloubka. Je ovšem také etická: podle francouzského filozofa Emmanuela Lévinase nekonečnost nenapadneme, něco v ní nás vždy zarazí. Lidská tvář je tato nekonečnost. Přinášíme další sloupek Ondřeje Galušky.",
-    "date": "2026-02-19T00:00:00",
-    "author": "Ondřej Galuška",
-    "category": "seriál"
-  },
-  {
-    "title": "Spíše než o setkání šlo o ponor",
-    "url": "https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor",
-    "description": "Je Popeleční středa, a tak přinášíme rozhovor s Martinem Pokorným o jeho aktuálním překladu dvojice klíčových básní T. S. Eliota „Dutí lidé“ a „Popeleční středa“. V rozhovoru  mluví o tom, jak se setkával s Eliotovou poezií, o inspiraci Dantem nebo o tom, proč tyto méně známé básně tvoří klíčový…",
-    "date": "2026-02-18T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "rozhovor"
-  },
-  {
-    "title": "Zavřené oči, uši v dlaních",
-    "url": "https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich",
-    "description": "„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.",
-    "date": "2026-02-17T00:00:00",
-    "author": "Lubomír Tichý",
-    "category": "rozhovor"
-  },
-  {
-    "title": "Je to horor, sociální i intimní",
-    "url": "https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni",
-    "description": "Už tuto sobotu HaDivadlo premiéruje adaptaci úspěšného románu Marka Torčíka „Rozložíš paměť“. O přípravě inscenace mluvíme s autorem adaptace, dramaturgem a dramatikem Ondřejem Novotným.",
-    "date": "2026-02-16T00:00:00",
-    "author": "Jan Němec",
-    "category": "rozhovor"
-  },
-  {
-    "title": "Ticho jako možnost promluvy",
-    "url": "https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy",
-    "description": "„Básně Josefa Hrdličky jsou významově roztřesené, plné slovních zákrutů, do nichž se čtenář musí, aby je mohl interpretovat, účastně zatoulat. Zároveň nesou zřetelně performativní charakter: nejen označují, uvádějí do přítomnosti,“ píše v recenzi sbírky MOST přes MOST Libor Staněk II.",
-    "date": "2026-02-13T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "recenze"
-  },
-  {
-    "title": "Nepřenechat prostor jiným",
-    "url": "https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym",
-    "description": "Čtyři roky trvající válka a čtyři roky odvážné rezistence Ukrajiny a jejich obyvatel se podepisují i na fungování kultury, jíž věnujeme téma únorového Hosta. Jak vnímají spisovatelé proměnu svého psaní: pociťují rezignaci, potřebu uchovat literaturu v ukrajinštině nebo najít nové způsoby, jak psát?",
-    "date": "2026-02-20T00:00:00",
-    "author": "Alexej Sevruk",
-    "category": "komentář"
-  },
-  {
-    "title": "Žijeme v království prázdných soklů",
-    "url": "https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu",
-    "description": "Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.",
-    "date": "2026-02-21T00:00:00",
-    "author": "Marie Iljašenko",
-    "category": "rozhovor"
-  },
-  {
-    "title": "Hustý!",
-    "url": "https://www.h7o.cz/clanky/14452-husty",
-    "description": "Že máme v Česku hustou síť knihoven, to se tak nějak ví. Teď však konečně můžeme vidět, jak moc hustá je. Přinášíme ochutnávku datových sloupků, které do Hosta tento rok píše novinář Michal Kašpárek.",
-    "date": "2026-02-23T00:00:00",
-    "author": "Michal Kašpárek",
-    "category": "sloupek"
   }
 ]
