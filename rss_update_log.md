@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-23 06:35:29 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. To ti moc přeju
+2. Klamy a manipulace napříč staletími
+3. Po kom se to jmenuje...?
+4. Svědkyně na útěku
+5. Odvaha letět
+6. Kapybary na útěku
+7. Až příliš krásná
+8. S pověstmi za dobrodružstvím – Ve službách kněžny Libuše
+9. Overview of Czech Business Law
+
+---
+
+## 🕐 2026-02-23 06:35:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-02-22 06:23:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

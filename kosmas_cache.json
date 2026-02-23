@@ -1,5 +1,87 @@
 [
   {
+    "title": "Overview of Czech Business Law",
+    "url": "https://www.kosmas.cz/knihy/564178/overview-of-czech-business-law/",
+    "description": "Overview of Czech Business Law - Pavla Tloušťová",
+    "authors": [
+      "Pavla Tloušťová"
+    ],
+    "date": "2026-02-23T06:35:29.541776+00:00"
+  },
+  {
+    "title": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše",
+    "url": "https://www.kosmas.cz/knihy/565686/s-povestmi-za-dobrodruzstvim-ve-sluzbach-knezny-libuse/",
+    "description": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše - Hana Kneblová",
+    "authors": [
+      "Hana Kneblová"
+    ],
+    "date": "2026-02-23T06:35:29.541695+00:00"
+  },
+  {
+    "title": "Až příliš krásná",
+    "url": "https://www.kosmas.cz/knihy/565685/az-prilis-krasna/",
+    "description": "Až příliš krásná - Tammy Greenwood",
+    "authors": [
+      "Tammy Greenwood"
+    ],
+    "date": "2026-02-23T06:35:29.541602+00:00"
+  },
+  {
+    "title": "Kapybary na útěku",
+    "url": "https://www.kosmas.cz/knihy/565683/kapybary-na-uteku/",
+    "description": "Kapybary na útěku - Matthäus Bär",
+    "authors": [
+      "Matthäus Bär"
+    ],
+    "date": "2026-02-23T06:35:29.541518+00:00"
+  },
+  {
+    "title": "Odvaha letět",
+    "url": "https://www.kosmas.cz/knihy/565682/odvaha-letet/",
+    "description": "Odvaha letět - Rebecca Yarros",
+    "authors": [
+      "Rebecca Yarros"
+    ],
+    "date": "2026-02-23T06:35:29.541430+00:00"
+  },
+  {
+    "title": "Svědkyně na útěku",
+    "url": "https://www.kosmas.cz/knihy/565681/svedkyne-na-uteku/",
+    "description": "Svědkyně na útěku - Daniela Hartig",
+    "authors": [
+      "Daniela Hartig"
+    ],
+    "date": "2026-02-23T06:35:29.541345+00:00"
+  },
+  {
+    "title": "Po kom se to jmenuje...?",
+    "url": "https://www.kosmas.cz/knihy/565680/po-kom-se-to-jmenuje/",
+    "description": "Po kom se to jmenuje...? - Jiří Martínek",
+    "authors": [
+      "Jiří Martínek"
+    ],
+    "date": "2026-02-23T06:35:29.541256+00:00"
+  },
+  {
+    "title": "Klamy a manipulace napříč staletími",
+    "url": "https://www.kosmas.cz/knihy/565679/klamy-a-manipulace-napric-staletimi/",
+    "description": "Klamy a manipulace napříč staletími - Tomáš Kolomazník, Zdeněk Rod",
+    "authors": [
+      "Tomáš Kolomazník",
+      "Zdeněk Rod"
+    ],
+    "date": "2026-02-23T06:35:29.541171+00:00"
+  },
+  {
+    "title": "To ti moc přeju",
+    "url": "https://www.kosmas.cz/knihy/563724/to-ti-moc-preju/",
+    "description": "To ti moc přeju - Holly Bourne",
+    "authors": [
+      "Holly Bourne"
+    ],
+    "date": "2026-02-23T06:35:29.539915+00:00"
+  },
+  {
     "title": "Kvantový celek III",
     "url": "https://www.kosmas.cz/knihy/565675/kvantovy-celek-iii/",
     "description": "Kvantový celek III - Jana Horkelová",
@@ -1709,87 +1791,5 @@
     "description": "Host 2025/10",
     "authors": [],
     "date": "2026-02-19T12:46:22.547949+00:00"
-  },
-  {
-    "title": "Lvice z Bretaně",
-    "url": "https://www.kosmas.cz/knihy/564515/lvice-z-bretane/",
-    "description": "Lvice z Bretaně - Gigi Griffis",
-    "authors": [
-      "Gigi Griffis"
-    ],
-    "date": "2026-02-19T12:46:22.547852+00:00"
-  },
-  {
-    "title": "Aristokrat",
-    "url": "https://www.kosmas.cz/knihy/565514/aristokrat/",
-    "description": "Aristokrat - Karel Cubeca",
-    "authors": [
-      "Karel Cubeca"
-    ],
-    "date": "2026-02-19T12:46:22.547713+00:00"
-  },
-  {
-    "title": "Život je změna",
-    "url": "https://www.kosmas.cz/knihy/565506/zivot-je-zmena/",
-    "description": "Život je změna - Barbara Hannay",
-    "authors": [
-      "Barbara Hannay"
-    ],
-    "date": "2026-02-19T12:46:22.547600+00:00"
-  },
-  {
-    "title": "Kolumbijská bohyně v Praze",
-    "url": "https://www.kosmas.cz/knihy/565502/kolumbijska-bohyne-v-praze/",
-    "description": "Kolumbijská bohyně v Praze - Marek Czerný",
-    "authors": [
-      "Marek Czerný"
-    ],
-    "date": "2026-02-19T12:46:22.547490+00:00"
-  },
-  {
-    "title": "Paňčatantra",
-    "url": "https://www.kosmas.cz/knihy/565500/pancatantra/",
-    "description": "Paňčatantra - Jan Mareš, Višnu Šarma",
-    "authors": [
-      "Jan Mareš",
-      "Višnu Šarma"
-    ],
-    "date": "2026-02-19T12:46:22.547382+00:00"
-  },
-  {
-    "title": "Mariborská hypnóza",
-    "url": "https://www.kosmas.cz/knihy/565499/mariborska-hypnoza/",
-    "description": "Mariborská hypnóza - Dora Kaprálová",
-    "authors": [
-      "Dora Kaprálová"
-    ],
-    "date": "2026-02-19T12:46:22.547257+00:00"
-  },
-  {
-    "title": "S nadějí bez křídel",
-    "url": "https://www.kosmas.cz/knihy/565497/s-nadeji-bez-kridel/",
-    "description": "S nadějí bez křídel - Tonny Pacanda",
-    "authors": [
-      "Tonny Pacanda"
-    ],
-    "date": "2026-02-19T12:46:22.250845+00:00"
-  },
-  {
-    "title": "Dívka jménem Alina: Detektiv Kjelsson",
-    "url": "https://www.kosmas.cz/knihy/565495/divka-jmenem-alina-detektiv-kjelsson/",
-    "description": "Dívka jménem Alina: Detektiv Kjelsson - Daniel Janů",
-    "authors": [
-      "Daniel Janů"
-    ],
-    "date": "2026-02-19T12:46:22.250527+00:00"
-  },
-  {
-    "title": "NeManželství",
-    "url": "https://www.kosmas.cz/knihy/565493/nemanzelstvi/",
-    "description": "NeManželství - Bára Stránská",
-    "authors": [
-      "Bára Stránská"
-    ],
-    "date": "2026-02-19T12:46:22.249867+00:00"
   }
 ]
