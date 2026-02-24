@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-24 06:31:18 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Kolaps v Goobersvillu
+2. Srdce chuligána
+3. Stela a šestnáct huskyů
+4. Cvičení FAMU
+5. An Arcane Inheritance
+6. Bridgerton: An Offer From A Gentleman Book 3
+7. Catherine: A Retelling of Wuthering Heights
+8. Convenience Store by the Sea
+9. Dear Debbie
+10. Deathly Grimm
+11. Dragon Cursed
+12. Fake Skating
+13. Get Over It
+14. King of Ashes
+15. King of Beasts
+16. Lies That Summon the Night
+17. Matchmaking for Psychopaths
+18. My Friends
+19. Mythmakers
+
+---
+
+## 🕐 2026-02-24 06:31:17 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-02-23 08:23:14 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
