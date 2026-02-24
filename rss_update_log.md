@@ -5,6 +5,26 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-24 08:14:20 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
+## 🕐 2026-02-24 08:14:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-02-24 08:07:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
