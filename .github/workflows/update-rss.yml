@@ -33,4 +33,4 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add h7o_feed.xml kosmas_feed.xml articles_cache.json kosmas_cache.json rss_update_log.md
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds [skip ci]" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
