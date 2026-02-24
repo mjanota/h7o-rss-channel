@@ -1,4 +1,4 @@
-name: Update RSS Feeds
+name: Update RSS Feeds and Deploy
 
 on:
   schedule:
@@ -6,8 +6,22 @@ on:
     - cron: '0 6 * * *'
   workflow_dispatch: # Umožní manuální spuštění
 
+# Nastaví oprávnění pro GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Povolí jen jedno současné nasazení
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  update-rss:
+  update-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     
     steps:
@@ -34,3 +48,15 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add h7o_feed.xml kosmas_feed.xml articles_cache.json kosmas_cache.json rss_update_log.md
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feeds" && git push)
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+      
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: '.'
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
