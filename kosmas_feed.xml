@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Feb 2026 06:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:07:42 +0000</lastBuildDate>
+    <item>
+      <title>Rebel Witch</title>
+      <link>https://www.kosmas.cz/knihy/565371/rebel-witch/</link>
+      <description>Rebel Witch - Kristen Ciccarelli</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565371/rebel-witch/</guid>
+      <pubDate>Tue, 24 Feb 2026 08:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Throne of Nightmares</title>
+      <link>https://www.kosmas.cz/knihy/565372/throne-of-nightmares/</link>
+      <description>Throne of Nightmares - Kerri Maniscalco</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565372/throne-of-nightmares/</guid>
+      <pubDate>Tue, 24 Feb 2026 08:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wild Card</title>
+      <link>https://www.kosmas.cz/knihy/565375/wild-card/</link>
+      <description>Wild Card - Stephanie Archer</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565375/wild-card/</guid>
+      <pubDate>Tue, 24 Feb 2026 08:07:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Woman in Suite 11</title>
+      <link>https://www.kosmas.cz/knihy/565377/woman-in-suite-11/</link>
+      <description>Woman in Suite 11 - Ruth Ware</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565377/woman-in-suite-11/</guid>
+      <pubDate>Tue, 24 Feb 2026 08:07:23 +0000</pubDate>
+    </item>
     <item>
       <title>Kolaps v Goobersvillu</title>
       <link>https://www.kosmas.cz/knihy/564742/kolaps-v-goobersvillu/</link>
@@ -679,34 +707,6 @@
       <description>Na prahu proměny - Richard Rohr</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565571/na-prahu-promeny/</guid>
       <pubDate>Mon, 23 Feb 2026 07:22:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čarodějka - Dědictví mrazu</title>
-      <link>https://www.kosmas.cz/knihy/563853/carodejka-dedictvi-mrazu/</link>
-      <description>Čarodějka - Dědictví mrazu - Elise Kova</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563853/carodejka-dedictvi-mrazu/</guid>
-      <pubDate>Mon, 23 Feb 2026 07:22:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slunce, které nezapadlo</title>
-      <link>https://www.kosmas.cz/knihy/564213/slunce-ktere-nezapadlo/</link>
-      <description>Slunce, které nezapadlo - Tereza Šmakalová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564213/slunce-ktere-nezapadlo/</guid>
-      <pubDate>Mon, 23 Feb 2026 07:22:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teorie mužského třesku</title>
-      <link>https://www.kosmas.cz/knihy/564208/teorie-muzskeho-tresku/</link>
-      <description>Teorie mužského třesku - Mayim Bialik</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564208/teorie-muzskeho-tresku/</guid>
-      <pubDate>Mon, 23 Feb 2026 07:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Povídky plzeňské</title>
-      <link>https://www.kosmas.cz/knihy/564901/povidky-plzenske/</link>
-      <description>Povídky plzeňské - Ondřej Kouba</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564901/povidky-plzenske/</guid>
-      <pubDate>Mon, 23 Feb 2026 07:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

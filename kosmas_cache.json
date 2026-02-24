@@ -1,5 +1,41 @@
 [
   {
+    "title": "Rebel Witch",
+    "url": "https://www.kosmas.cz/knihy/565371/rebel-witch/",
+    "description": "Rebel Witch - Kristen Ciccarelli",
+    "authors": [
+      "Kristen Ciccarelli"
+    ],
+    "date": "2026-02-24T08:07:26.435916+00:00"
+  },
+  {
+    "title": "Throne of Nightmares",
+    "url": "https://www.kosmas.cz/knihy/565372/throne-of-nightmares/",
+    "description": "Throne of Nightmares - Kerri Maniscalco",
+    "authors": [
+      "Kerri Maniscalco"
+    ],
+    "date": "2026-02-24T08:07:25.435916+00:00"
+  },
+  {
+    "title": "Wild Card",
+    "url": "https://www.kosmas.cz/knihy/565375/wild-card/",
+    "description": "Wild Card - Stephanie Archer",
+    "authors": [
+      "Stephanie Archer"
+    ],
+    "date": "2026-02-24T08:07:24.435916+00:00"
+  },
+  {
+    "title": "Woman in Suite 11",
+    "url": "https://www.kosmas.cz/knihy/565377/woman-in-suite-11/",
+    "description": "Woman in Suite 11 - Ruth Ware",
+    "authors": [
+      "Ruth Ware"
+    ],
+    "date": "2026-02-24T08:07:23.435916+00:00"
+  },
+  {
     "title": "Kolaps v Goobersvillu",
     "url": "https://www.kosmas.cz/knihy/564742/kolaps-v-goobersvillu/",
     "description": "Kolaps v Goobersvillu - Robert H. Lieberman",
@@ -1763,42 +1799,5 @@
       "Caimh McDonnell"
     ],
     "date": "2026-02-23T05:42:55.186166+00:00"
-  },
-  {
-    "title": "Gachiakuta 1",
-    "url": "https://www.kosmas.cz/knihy/563975/gachiakuta-1/",
-    "description": "Gachiakuta 1 - Kei Urana",
-    "authors": [
-      "Kei Urana"
-    ],
-    "date": "2026-02-23T05:42:54.186166+00:00"
-  },
-  {
-    "title": "Gachiakuta 2",
-    "url": "https://www.kosmas.cz/knihy/563976/gachiakuta-2/",
-    "description": "Gachiakuta 2 - Kei Urana",
-    "authors": [
-      "Kei Urana"
-    ],
-    "date": "2026-02-23T05:42:53.186166+00:00"
-  },
-  {
-    "title": "Gachiakuta 3",
-    "url": "https://www.kosmas.cz/knihy/563977/gachiakuta-3/",
-    "description": "Gachiakuta 3 - Kei Urana",
-    "authors": [
-      "Kei Urana"
-    ],
-    "date": "2026-02-23T05:42:52.186166+00:00"
-  },
-  {
-    "title": "Neříkejte tomu ezo",
-    "url": "https://www.kosmas.cz/knihy/563989/nerikejte-tomu-ezo/",
-    "description": "Neříkejte tomu ezo - Magdalena Dušková, Pavel Šplíchal",
-    "authors": [
-      "Magdalena Dušková",
-      "Pavel Šplíchal"
-    ],
-    "date": "2026-02-23T05:23:11.186166+00:00"
   }
 ]

@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-24 08:07:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 4
+
+**Tituly nových položek:**
+
+1. Rebel Witch
+2. Throne of Nightmares
+3. Wild Card
+4. Woman in Suite 11
+
+---
+
+## 🕐 2026-02-24 08:07:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Co nejkrásnější život
+
+---
+
 ## 🕐 2026-02-24 06:31:18 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
