@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-25 06:33:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Poslední epocha
+2. Zdvořilostní návštěva starého přítele
+3. Mickeyho čarodějové: Počátek, první část
+4. Legenda o Sim Čchong 3
+5. Kontexty 1/2026
+6. Afghánistán navždy
+7. Osudný paprsek
+8. Hon na ovci
+9. Obléknu si půlnoc – limitovaná edice
+10. Pastýřská koruna -limitovaná edice
+11. Úžasný Mauric a jeho vzdělaní hlodavci - limitovaná edice
+12. Twisted Wonderland: Příběh z Heartslabyulu 2
+13. Kuchyně špičatých klobouků 1
+14. O princeznách - Čti a nalepuj, kniha se samolepkami
+15. Na statku - Čti a nalepuj, kniha se samolepkami
+16. Na spirále času
+17. Han Hung-su - otec československé koreanistiky
+18. Dubliňané
+19. Kolo času: Cesta nožů
+20. Věci
+
+---
+
+## 🕐 2026-02-25 06:33:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-02-24 08:26:04 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
