@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Feb 2026 06:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:30:28 +0000</lastBuildDate>
+    <item>
+      <title>Konec pulpu</title>
+      <link>https://www.h7o.cz/clanky/14455-konec-pulpu</link>
+      <description>Ve Spojených státech nenápadně končí výroba a distribuce jednoho ze symbolů knižní kultury a literatury minulého století: masového paperbacku.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14455-konec-pulpu</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Co nejkrásnější život</title>
       <link>https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot</link>
@@ -442,13 +449,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Palestinská autorka Adaníja Šiblí vydala v roce 2017 krátký román o slepé cestě za historií své země. Její „Podružný detail“ vyšel letos v Akropoli v působivém překladu Jitky Jeníkové. Recenzi připravila islamoložka a politoložka Zora Hesová.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14384-dusevni-mapa-okupace</guid>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nerybařím</title>
-      <link>https://www.h7o.cz/clanky/14383-nerybarim</link>
-      <description>„Když mi byly asi tři roky, utopil jsem se v bazénku na zahradě. Od té doby chovám k hladinám podezření,“ píše ve svém fejetonu básník a překladatel Ondřej Buddeus.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14383-nerybarim</guid>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

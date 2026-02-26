@@ -488,19 +488,19 @@
     "category": "recenze"
   },
   {
-    "title": "Nerybařím",
-    "url": "https://www.h7o.cz/clanky/14383-nerybarim",
-    "description": "„Když mi byly asi tři roky, utopil jsem se v bazénku na zahradě. Od té doby chovám k hladinám podezření,“ píše ve svém fejetonu básník a překladatel Ondřej Buddeus.",
-    "date": "2025-11-28T00:00:00",
-    "author": "Ondřej Buddeus",
-    "category": "sloupek"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
     "date": "2026-02-24T00:00:00",
     "author": "Anna Řezníčková",
     "category": "sloupek"
+  },
+  {
+    "title": "Konec pulpu",
+    "url": "https://www.h7o.cz/clanky/14455-konec-pulpu",
+    "description": "Ve Spojených státech nenápadně končí výroba a distribuce jednoho ze symbolů knižní kultury a literatury minulého století: masového paperbacku.",
+    "date": "2026-02-25T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "téma"
   }
 ]

@@ -1,5 +1,179 @@
 [
   {
+    "title": "Gurdžijev a divadlo",
+    "url": "https://www.kosmas.cz/knihy/565335/gurdzijev-a-divadlo/",
+    "description": "Gurdžijev a divadlo - Peter Brook, Jean-Claude Carriere, Jerzy Grotowski, Georgij Ivanovič Gurdžijev",
+    "authors": [
+      "Peter Brook",
+      "Jean-Claude Carriere",
+      "Jerzy Grotowski",
+      "Georgij Ivanovič Gurdžijev"
+    ],
+    "date": "2026-02-26T06:30:29.385815+00:00"
+  },
+  {
+    "title": "Zlomené čepele: Čtyři padlé říše - kniha druhá",
+    "url": "https://www.kosmas.cz/knihy/560668/zlomene-cepele-ctyri-padle-rise-kniha-druha/",
+    "description": "Zlomené čepele: Čtyři padlé říše - kniha druhá - Corland Mai",
+    "authors": [
+      "Corland Mai"
+    ],
+    "date": "2026-02-26T06:30:28.385815+00:00"
+  },
+  {
+    "title": "Hračkář",
+    "url": "https://www.kosmas.cz/knihy/558731/hrackar/",
+    "description": "Hračkář - Andrew Mayne",
+    "authors": [
+      "Andrew Mayne"
+    ],
+    "date": "2026-02-26T06:30:27.385815+00:00"
+  },
+  {
+    "title": "Žízeň po životě",
+    "url": "https://www.kosmas.cz/knihy/557488/zizen-po-zivote/",
+    "description": "Žízeň po životě - Irving Stone",
+    "authors": [
+      "Irving Stone"
+    ],
+    "date": "2026-02-26T06:30:26.385815+00:00"
+  },
+  {
+    "title": "Záhada na zámku Styles",
+    "url": "https://www.kosmas.cz/knihy/557503/zahada-na-zamku-styles/",
+    "description": "Záhada na zámku Styles - Agatha Christie",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "date": "2026-02-26T06:30:25.385815+00:00"
+  },
+  {
+    "title": "Dreamworld",
+    "url": "https://www.kosmas.cz/knihy/553233/dreamworld/",
+    "description": "Dreamworld - Pet Shop Boys",
+    "authors": [
+      "Pet Shop Boys"
+    ],
+    "date": "2026-02-26T06:30:24.385815+00:00"
+  },
+  {
+    "title": "Ostrov",
+    "url": "https://www.kosmas.cz/knihy/506370/ostrov/",
+    "description": "Ostrov - Bianca Bellová",
+    "authors": [
+      "Bianca Bellová"
+    ],
+    "date": "2026-02-26T06:30:23.385815+00:00"
+  },
+  {
+    "title": "Turbo-venkov",
+    "url": "https://www.kosmas.cz/knihy/519582/turbo-venkov/",
+    "description": "Turbo-venkov - Radan Haluzík",
+    "authors": [
+      "Radan Haluzík"
+    ],
+    "date": "2026-02-26T06:30:22.385815+00:00"
+  },
+  {
+    "title": "Nadělení",
+    "url": "https://www.kosmas.cz/knihy/564903/nadeleni/",
+    "description": "Nadělení - Daniel Krejčík",
+    "authors": [
+      "Daniel Krejčík"
+    ],
+    "date": "2026-02-26T06:30:21.385815+00:00"
+  },
+  {
+    "title": "Pozdě v listopadu",
+    "url": "https://www.kosmas.cz/knihy/565023/pozde-v-listopadu/",
+    "description": "Pozdě v listopadu - Tove Janssonová",
+    "authors": [
+      "Tove Janssonová"
+    ],
+    "date": "2026-02-26T06:30:19.385815+00:00"
+  },
+  {
+    "title": "Neviditelné dítě a jiné příběhy",
+    "url": "https://www.kosmas.cz/knihy/565025/neviditelne-dite-a-jine-pribehy/",
+    "description": "Neviditelné dítě a jiné příběhy - Tove Janssonová",
+    "authors": [
+      "Tove Janssonová"
+    ],
+    "date": "2026-02-26T06:30:18.385815+00:00"
+  },
+  {
+    "title": "Nepokojná mysl",
+    "url": "https://www.kosmas.cz/knihy/565062/nepokojna-mysl/",
+    "description": "Nepokojná mysl - Hana Valenta",
+    "authors": [
+      "Hana Valenta"
+    ],
+    "date": "2026-02-26T06:30:17.385815+00:00"
+  },
+  {
+    "title": "Poslední slza",
+    "url": "https://www.kosmas.cz/knihy/565063/posledni-slza/",
+    "description": "Poslední slza - Michaela Bartošová",
+    "authors": [
+      "Michaela Bartošová"
+    ],
+    "date": "2026-02-26T06:30:16.385815+00:00"
+  },
+  {
+    "title": "Popy a zahrada",
+    "url": "https://www.kosmas.cz/knihy/565095/popy-a-zahrada/",
+    "description": "Popy a zahrada - Lucie Kollnerová",
+    "authors": [
+      "Lucie Kollnerová"
+    ],
+    "date": "2026-02-26T06:30:15.385815+00:00"
+  },
+  {
+    "title": "ÓÓÓ aneb Velké žvýkačkové neštěstí",
+    "url": "https://www.kosmas.cz/knihy/565106/ooo-aneb-velke-zvykackove-nestesti/",
+    "description": "ÓÓÓ aneb Velké žvýkačkové neštěstí - Johanka Porazilová",
+    "authors": [
+      "Johanka Porazilová"
+    ],
+    "date": "2026-02-26T06:30:14.385815+00:00"
+  },
+  {
+    "title": "Nemáte šanci",
+    "url": "https://www.kosmas.cz/knihy/565344/nemate-sanci/",
+    "description": "Nemáte šanci - Jack Black",
+    "authors": [
+      "Jack Black"
+    ],
+    "date": "2026-02-26T06:30:13.385815+00:00"
+  },
+  {
+    "title": "Kapybary na útěku",
+    "url": "https://www.kosmas.cz/knihy/564660/kapybary-na-uteku/",
+    "description": "Kapybary na útěku - Matthäus Bär",
+    "authors": [
+      "Matthäus Bär"
+    ],
+    "date": "2026-02-26T06:30:12.385815+00:00"
+  },
+  {
+    "title": "Kořeny ženské spirituality",
+    "url": "https://www.kosmas.cz/knihy/564662/koreny-zenske-spirituality/",
+    "description": "Kořeny ženské spirituality - Terezie Dubinová",
+    "authors": [
+      "Terezie Dubinová"
+    ],
+    "date": "2026-02-26T06:30:11.385815+00:00"
+  },
+  {
+    "title": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše",
+    "url": "https://www.kosmas.cz/knihy/564708/s-povestmi-za-dobrodruzstvim-ve-sluzbach-knezny-libuse/",
+    "description": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše - Hana Kneblová",
+    "authors": [
+      "Hana Kneblová"
+    ],
+    "date": "2026-02-26T06:30:10.385815+00:00"
+  },
+  {
     "title": "Poslední epocha",
     "url": "https://www.kosmas.cz/knihy/565668/posledni-epocha/",
     "description": "Poslední epocha - Andrew Mayne",
@@ -1626,183 +1800,5 @@
       "Mike Mignola"
     ],
     "date": "2026-02-23T06:22:54.186166+00:00"
-  },
-  {
-    "title": "Aristokrat",
-    "url": "https://www.kosmas.cz/knihy/564737/aristokrat/",
-    "description": "Aristokrat - Karel Cubeca",
-    "authors": [
-      "Karel Cubeca"
-    ],
-    "date": "2026-02-23T06:22:53.186166+00:00"
-  },
-  {
-    "title": "Nikola Tesla a válka",
-    "url": "https://www.kosmas.cz/knihy/565525/nikola-tesla-a-valka/",
-    "description": "Nikola Tesla a válka - Marc J. Seifer",
-    "authors": [
-      "Marc J. Seifer"
-    ],
-    "date": "2026-02-23T06:22:52.186166+00:00"
-  },
-  {
-    "title": "Polibek Maintré",
-    "url": "https://www.kosmas.cz/knihy/564806/polibek-maintre/",
-    "description": "Polibek Maintré - Kristina Waagnerová M.",
-    "authors": [
-      "Kristina Waagnerová M."
-    ],
-    "date": "2026-02-23T06:03:11.186166+00:00"
-  },
-  {
-    "title": "Digitální marketing v nové éře regulace",
-    "url": "https://www.kosmas.cz/knihy/564866/digitalni-marketing-v-nove-ere-regulace/",
-    "description": "Digitální marketing v nové éře regulace - Petra Koudelková",
-    "authors": [
-      "Petra Koudelková"
-    ],
-    "date": "2026-02-23T06:03:10.186166+00:00"
-  },
-  {
-    "title": "S Wittgensteinem v gay sauně",
-    "url": "https://www.kosmas.cz/knihy/564890/s-wittgensteinem-v-gay-saune/",
-    "description": "S Wittgensteinem v gay sauně - Vratislav Maňák",
-    "authors": [
-      "Vratislav Maňák"
-    ],
-    "date": "2026-02-23T06:03:09.186166+00:00"
-  },
-  {
-    "title": "Milena a Margarete",
-    "url": "https://www.kosmas.cz/knihy/565164/milena-a-margarete/",
-    "description": "Milena a Margarete - Gwen Strauss",
-    "authors": [
-      "Gwen Strauss"
-    ],
-    "date": "2026-02-23T06:03:08.186166+00:00"
-  },
-  {
-    "title": "Básně sebrané",
-    "url": "https://www.kosmas.cz/knihy/557235/basne-sebrane/",
-    "description": "Básně sebrané - J. H. Krchovský",
-    "authors": [
-      "J. H. Krchovský"
-    ],
-    "date": "2026-02-23T06:03:07.186166+00:00"
-  },
-  {
-    "title": "Říše mandal – omalovánky",
-    "url": "https://www.kosmas.cz/knihy/564706/rise-mandal-omalovanky/",
-    "description": "Říše mandal – omalovánky - Andrea Brázdová",
-    "authors": [
-      "Andrea Brázdová"
-    ],
-    "date": "2026-02-23T06:03:06.186166+00:00"
-  },
-  {
-    "title": "Sladká tečka",
-    "url": "https://www.kosmas.cz/knihy/564709/sladka-tecka/",
-    "description": "Sladká tečka - H. Y. Hanna",
-    "authors": [
-      "H. Y. Hanna"
-    ],
-    "date": "2026-02-23T06:03:05.186166+00:00"
-  },
-  {
-    "title": "Nebezpečná místa",
-    "url": "https://www.kosmas.cz/knihy/564762/nebezpecna-mista/",
-    "description": "Nebezpečná místa - Patricia Gibneyová",
-    "authors": [
-      "Patricia Gibneyová"
-    ],
-    "date": "2026-02-23T06:03:04.186166+00:00"
-  },
-  {
-    "title": "Deníky apatykářky 4",
-    "url": "https://www.kosmas.cz/knihy/564269/deniky-apatykarky-4/",
-    "description": "Deníky apatykářky 4 - Hjúganacu, Icuki Nanao, Nekokurage, Tóko Šino",
-    "authors": [
-      "Hjúganacu",
-      "Icuki Nanao",
-      "Nekokurage",
-      "Tóko Šino"
-    ],
-    "date": "2026-02-23T06:03:03.186166+00:00"
-  },
-  {
-    "title": "Útok titánů: Ztracené dívky 1",
-    "url": "https://www.kosmas.cz/knihy/564354/utok-titanu-ztracene-divky-1/",
-    "description": "Útok titánů: Ztracené dívky 1 - Hadžime Isajama, Hiroši Seko, Rjósuke Fudži",
-    "authors": [
-      "Hadžime Isajama",
-      "Hiroši Seko",
-      "Rjósuke Fudži"
-    ],
-    "date": "2026-02-23T06:03:02.186166+00:00"
-  },
-  {
-    "title": "Od lidového umění k výtvarnému folklorismu",
-    "url": "https://www.kosmas.cz/knihy/564404/od-lidoveho-umeni-k-vytvarnemu-folklorismu/",
-    "description": "Od lidového umění k výtvarnému folklorismu - Alena Křížová, a kolektiv autorů",
-    "authors": [
-      "Alena Křížová",
-      "a kolektiv autorů"
-    ],
-    "date": "2026-02-23T06:03:01.186166+00:00"
-  },
-  {
-    "title": "Perfektní alibi",
-    "url": "https://www.kosmas.cz/knihy/564421/perfektni-alibi/",
-    "description": "Perfektní alibi - David Urban, Vladimír Zlý",
-    "authors": [
-      "David Urban",
-      "Vladimír Zlý"
-    ],
-    "date": "2026-02-23T06:03:00.186166+00:00"
-  },
-  {
-    "title": "Kultura německé menšiny v Československu 1945-1989 na základě analýzy konkrétních aktivit v centru i regionech",
-    "url": "https://www.kosmas.cz/knihy/564635/kultura-nemecke-mensiny-v-ceskoslovensku-1945-1989-na-zaklade-analyzy---regionech/",
-    "description": "Kultura německé menšiny v Československu 1945-1989 na základě analýzy konkrétních aktivit v centru i regionech - Eva Kaiserová",
-    "authors": [
-      "Eva Kaiserová"
-    ],
-    "date": "2026-02-23T06:02:59.186166+00:00"
-  },
-  {
-    "title": "Disney - 7 pohádek pro malé hrdiny",
-    "url": "https://www.kosmas.cz/knihy/564637/disney-7-pohadek-pro-male-hrdiny/",
-    "description": "Disney - 7 pohádek pro malé hrdiny - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-02-23T06:02:58.186166+00:00"
-  },
-  {
-    "title": "Star Wars: Mandalorian 2",
-    "url": "https://www.kosmas.cz/knihy/565185/star-wars-mandalorian-2/",
-    "description": "Star Wars: Mandalorian 2 - Júsuke Ósawa",
-    "authors": [
-      "Júsuke Ósawa"
-    ],
-    "date": "2026-02-23T06:02:57.186166+00:00"
-  },
-  {
-    "title": "Made in Abyss - Stvořen v Propasti 2",
-    "url": "https://www.kosmas.cz/knihy/565191/made-in-abyss-stvoren-v-propasti-2/",
-    "description": "Made in Abyss - Stvořen v Propasti 2 - Akihito Cukuši",
-    "authors": [
-      "Akihito Cukuši"
-    ],
-    "date": "2026-02-23T06:02:56.186166+00:00"
-  },
-  {
-    "title": "Hvězdná CREW 4: Vraž mi",
-    "url": "https://www.kosmas.cz/knihy/565195/hvezdna-crew-4-vraz-mi/",
-    "description": "Hvězdná CREW 4: Vraž mi - Christa Faustová",
-    "authors": [
-      "Christa Faustová"
-    ],
-    "date": "2026-02-23T06:02:55.186166+00:00"
   }
 ]
