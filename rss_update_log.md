@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-27 06:26:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Cinepur 163
+2. Putování
+3. Průvodce dějinami celnictví v českých zemích - 2. díl
+4. Astrošimpanz
+5. Život je změna
+6. Beranidlo imaginace
+7. Kde je pan Traktor? Knížka do kočárku
+8. V lese - poslouchej a hledej
+9. 555 samolepek - Staveniště
+10. 555 samolepek - Vlaky
+11. 555 samolepek - Příšerky
+12. Čínská medicína pro zdravou mysl
+13. Záře
+14. Život
+15. Antistresové vykreslovánky
+16. Před oponou, za oponou: Letiště
+17. Tvarované leporelo se zvuky - Podzim
+18. Tvarované leporelo se zvuky - Zima
+19. Tvarované leporelo se zvuky - Divočina
+20. Tajemství táborského Jordánu
+
+---
+
+## 🕐 2026-02-27 06:26:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Smějící se bohové
+
+---
+
 ## 🕐 2026-02-26 06:30:29 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -483,82 +530,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-02-19 13:35:41 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-19 13:35:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-19 13:24:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Emperor Charles IV and the Origins of the Great Schism, c. 1375–1378
-2. Filling in the Gap
-3. Téměř dokonalá lež
-4. U Hlavy mantichory
-5. Ilustrovat klasiku
-
----
-
-## 🕐 2026-02-19 13:21:26 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-19 13:21:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-19 13:22:02 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Emperor Charles IV and the Origins of the Great Schism, c. 1375–1378
-2. Filling in the Gap
-3. Téměř dokonalá lež
-4. U Hlavy mantichory
-5. Ilustrovat klasiku
 
 ---
 

@@ -480,14 +480,6 @@
     "category": "téma"
   },
   {
-    "title": "Duševní mapa okupace",
-    "url": "https://www.h7o.cz/clanky/14384-dusevni-mapa-okupace",
-    "description": "Palestinská autorka Adaníja Šiblí vydala v roce 2017 krátký román o slepé cestě za historií své země. Její „Podružný detail“ vyšel letos v Akropoli v působivém překladu Jitky Jeníkové. Recenzi připravila islamoložka a politoložka Zora Hesová.",
-    "date": "2025-11-29T00:00:00",
-    "author": "Zora Hesová",
-    "category": "recenze"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -502,5 +494,13 @@
     "date": "2026-02-25T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "téma"
+  },
+  {
+    "title": "Smějící se bohové",
+    "url": "https://www.h7o.cz/clanky/14454-smejici-se-bohove",
+    "description": "S Ondřejem Galuškou se bohužel smějeme naposled. Tentokrát nad smíchem bohů. Ačkoli mnozí bohové už pro leckoho nejsou mezi námi, božský šprým a smích přetrvaly a některé se teď jakoby s tajícími ledy uvolňují. Jednoho z toho mrazí. Čtení Galuškova sloupku může způsobit i záchvat.",
+    "date": "2026-02-26T00:00:00",
+    "author": "Ondřej Galuška",
+    "category": "seriál"
   }
 ]
