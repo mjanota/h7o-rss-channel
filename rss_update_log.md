@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-02-28 06:17:01 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Hodnocení v primárním vzdělávání
+2. Parrésia XVIII–XIX (2024–2025)
+3. Stezkami přírodovědného poznání
+4. Velká samolepková knížka Peppa má ráda zvířátka
+5. Moje omalovánky Ledové království
+6. Moje omalovánky Tlapková patrola
+7. Omalovánkový set Lilo & Stitch
+8. Omalovánkový set Ledové království
+9. Divoká příroda - kniha aktivit
+10. Karate Kouč Manuál
+11. Teorie a didaktika karate
+12. Začínáme se suchozemskými želvami
+13. Zákon smečky (4) - Trnitá cesta
+14. Zákon smečky (6) - Psí běsnění
+15. Modřanský Mikeš
+16. Šeptalky: Sestry, které mluví s duchy
+17. Povídky s X
+18. Velká knížka - Hurá na hory pro malé vypravěče
+19. Velká knížka - Hurá k vodě pro malé vypravěče
+20. Velká knížka - Halloween pro malé vypravěče
+
+---
+
+## 🕐 2026-02-28 06:17:00 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Alexandr? Alexandre!
+
+---
+
 ## 🕐 2026-02-27 06:26:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -495,41 +542,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nepřenechat prostor jiným
-
----
-
-## 🕐 2026-02-20 06:28:35 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. Ohniváček a srdce z kamene
-2. Na hraně
-3. Do neznáma s cizincem
-4. Země za kameny v kruhu
-5. Povídky plzeňské
-6. Deník malého Minecrafťáka 2
-7. Čaroděj z Kremlu
-8. Odvážná Vaiana 2 - Pohádky z Oceánie
-9. Nesprávná sestra
-10. Tiché panenky
-11. 3-2-1 STITCH Cestovní hra
-12. Pexeso Vítej v ZOO!
-
----
-
-## 🕐 2026-02-20 06:28:34 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
