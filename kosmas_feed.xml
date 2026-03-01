@@ -7,7 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:24:00 +0000</lastBuildDate>
+    <item>
+      <title>Martin Černohorský</title>
+      <link>https://www.kosmas.cz/knihy/539800/martin-cernohorsky/</link>
+      <description>Martin Černohorský - Martin Bareš, Marie Fojtková, Jiří Grygar, Jana Musilová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/539800/martin-cernohorsky/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Měsíční magie</title>
+      <link>https://www.kosmas.cz/knihy/564747/mesicni-magie/</link>
+      <description>Měsíční magie - Marie Bruce</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564747/mesicni-magie/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 deka duše</title>
+      <link>https://www.kosmas.cz/knihy/564927/20-deka-duse/</link>
+      <description>20 deka duše - Etc, Vladimír Mišík</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564927/20-deka-duse/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kameny věčných 2</title>
+      <link>https://www.kosmas.cz/knihy/565064/kameny-vecnych-2/</link>
+      <description>Kameny věčných 2 - Veronika Tondrová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565064/kameny-vecnych-2/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník malého Minecrafťáka 3</title>
+      <link>https://www.kosmas.cz/knihy/565077/denik-maleho-minecraftaka-3/</link>
+      <description>Deník malého Minecrafťáka 3 - Cube Kid</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565077/denik-maleho-minecraftaka-3/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Korejské mýty a legendy</title>
+      <link>https://www.kosmas.cz/knihy/565222/korejske-myty-a-legendy/</link>
+      <description>Korejské mýty a legendy - Maurizio Riotto</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565222/korejske-myty-a-legendy/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník malého Minecrafťáka 8</title>
+      <link>https://www.kosmas.cz/knihy/565426/denik-maleho-minecraftaka-8/</link>
+      <description>Deník malého Minecrafťáka 8 - Cube Kid</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565426/denik-maleho-minecraftaka-8/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lepím si znovu a znovu Lilo &amp; Stitch</title>
+      <link>https://www.kosmas.cz/knihy/565543/lepim-si-znovu-a-znovu-lilo-stitch/</link>
+      <description>Lepím si znovu a znovu Lilo &amp; Stitch</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565543/lepim-si-znovu-a-znovu-lilo-stitch/</guid>
+      <pubDate>Sun, 01 Mar 2026 06:23:43 +0000</pubDate>
+    </item>
     <item>
       <title>Hodnocení v primárním vzdělávání</title>
       <link>https://www.kosmas.cz/knihy/565482/hodnoceni-v-primarnim-vzdelavani/</link>
@@ -651,62 +707,6 @@
       <description>Dear Debbie - Freida McFadden</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565355/dear-debbie/</guid>
       <pubDate>Tue, 24 Feb 2026 06:31:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deathly Grimm</title>
-      <link>https://www.kosmas.cz/knihy/565356/deathly-grimm/</link>
-      <description>Deathly Grimm - Kathryn Purdie</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565356/deathly-grimm/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dragon Cursed</title>
-      <link>https://www.kosmas.cz/knihy/565357/dragon-cursed/</link>
-      <description>Dragon Cursed - Elise Kova</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565357/dragon-cursed/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fake Skating</title>
-      <link>https://www.kosmas.cz/knihy/565358/fake-skating/</link>
-      <description>Fake Skating - Lynn Painter</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565358/fake-skating/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Get Over It</title>
-      <link>https://www.kosmas.cz/knihy/565359/get-over-it/</link>
-      <description>Get Over It - Ashley Herring Blake</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565359/get-over-it/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>King of Ashes</title>
-      <link>https://www.kosmas.cz/knihy/565360/king-of-ashes/</link>
-      <description>King of Ashes - S. A. Cosby</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565360/king-of-ashes/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>King of Beasts</title>
-      <link>https://www.kosmas.cz/knihy/565361/king-of-beasts/</link>
-      <description>King of Beasts - Catherine Doyle</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565361/king-of-beasts/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lies That Summon the Night</title>
-      <link>https://www.kosmas.cz/knihy/565362/lies-that-summon-the-night/</link>
-      <description>Lies That Summon the Night - Tessonja Odette</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565362/lies-that-summon-the-night/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matchmaking for Psychopaths</title>
-      <link>https://www.kosmas.cz/knihy/565365/matchmaking-for-psychopaths/</link>
-      <description>Matchmaking for Psychopaths - Tasha Coryell</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565365/matchmaking-for-psychopaths/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:31:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

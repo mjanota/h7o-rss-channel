@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-01 06:24:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Martin Černohorský
+2. Měsíční magie
+3. 20 deka duše
+4. Kameny věčných 2
+5. Deník malého Minecrafťáka 3
+6. Korejské mýty a legendy
+7. Deník malého Minecrafťáka 8
+8. Lepím si znovu a znovu Lilo & Stitch
+
+---
+
+## 🕐 2026-03-01 06:23:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-02-28 06:17:01 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -464,84 +495,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-02-22 06:23:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 6
-
-**Tituly nových položek:**
-
-1. Dýchej tak, jak chceš žít
-2. Království krve a zrady
-3. Kvantový dech světa I
-4. Dům bez hodin
-5. Kvantová struktura zákonů II
-6. Kvantový celek III
-
----
-
-## 🕐 2026-02-22 06:23:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Žijeme v království prázdných soklů
-
----
-
-## 🕐 2026-02-21 06:21:41 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Rusko proti modernitě
-2. Výročí
-3. Dvanáct měsíců
-4. Bílo
-5. Jak se kreslí zvířátka krok za krokem
-6. Raketové přivolání
-7. Mozkový restart
-8. Klinická logopedie u dětí
-9. Téměř dokonalá lež
-10. Vražedný Oxford - Osudová krása
-11. Cviky na vaši bolest
-12. Odstraňování vlhkosti
-13. Svět podle Lízy
-14. Čas zvratu
-15. Devět pokračování
-16. Dotek nestvůry
-17. Klíč stínů
-18. Pravda nebo fikce? 3. díl
-
----
-
-## 🕐 2026-02-21 06:21:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nepřenechat prostor jiným
 
 ---
 

@@ -1,5 +1,79 @@
 [
   {
+    "title": "Martin Černohorský",
+    "url": "https://www.kosmas.cz/knihy/539800/martin-cernohorsky/",
+    "description": "Martin Černohorský - Martin Bareš, Marie Fojtková, Jiří Grygar, Jana Musilová",
+    "authors": [
+      "Martin Bareš",
+      "Marie Fojtková",
+      "Jiří Grygar",
+      "Jana Musilová"
+    ],
+    "date": "2026-03-01T06:24:00.576100+00:00"
+  },
+  {
+    "title": "Měsíční magie",
+    "url": "https://www.kosmas.cz/knihy/564747/mesicni-magie/",
+    "description": "Měsíční magie - Marie Bruce",
+    "authors": [
+      "Marie Bruce"
+    ],
+    "date": "2026-03-01T06:23:53.576100+00:00"
+  },
+  {
+    "title": "20 deka duše",
+    "url": "https://www.kosmas.cz/knihy/564927/20-deka-duse/",
+    "description": "20 deka duše - Etc, Vladimír Mišík",
+    "authors": [
+      "Etc",
+      "Vladimír Mišík"
+    ],
+    "date": "2026-03-01T06:23:52.576100+00:00"
+  },
+  {
+    "title": "Kameny věčných 2",
+    "url": "https://www.kosmas.cz/knihy/565064/kameny-vecnych-2/",
+    "description": "Kameny věčných 2 - Veronika Tondrová",
+    "authors": [
+      "Veronika Tondrová"
+    ],
+    "date": "2026-03-01T06:23:51.576100+00:00"
+  },
+  {
+    "title": "Deník malého Minecrafťáka 3",
+    "url": "https://www.kosmas.cz/knihy/565077/denik-maleho-minecraftaka-3/",
+    "description": "Deník malého Minecrafťáka 3 - Cube Kid",
+    "authors": [
+      "Cube Kid"
+    ],
+    "date": "2026-03-01T06:23:50.576100+00:00"
+  },
+  {
+    "title": "Korejské mýty a legendy",
+    "url": "https://www.kosmas.cz/knihy/565222/korejske-myty-a-legendy/",
+    "description": "Korejské mýty a legendy - Maurizio Riotto",
+    "authors": [
+      "Maurizio Riotto"
+    ],
+    "date": "2026-03-01T06:23:49.576100+00:00"
+  },
+  {
+    "title": "Deník malého Minecrafťáka 8",
+    "url": "https://www.kosmas.cz/knihy/565426/denik-maleho-minecraftaka-8/",
+    "description": "Deník malého Minecrafťáka 8 - Cube Kid",
+    "authors": [
+      "Cube Kid"
+    ],
+    "date": "2026-03-01T06:23:48.576100+00:00"
+  },
+  {
+    "title": "Lepím si znovu a znovu Lilo & Stitch",
+    "url": "https://www.kosmas.cz/knihy/565543/lepim-si-znovu-a-znovu-lilo-stitch/",
+    "description": "Lepím si znovu a znovu Lilo & Stitch",
+    "authors": [],
+    "date": "2026-03-01T06:23:43.576100+00:00"
+  },
+  {
     "title": "Hodnocení v primárním vzdělávání",
     "url": "https://www.kosmas.cz/knihy/565482/hodnoceni-v-primarnim-vzdelavani/",
     "description": "Hodnocení v primárním vzdělávání - Martin Skutil",
@@ -1724,79 +1798,5 @@
       "kolektiv"
     ],
     "date": "2026-02-23T07:03:02.186166+00:00"
-  },
-  {
-    "title": "Pavouček Varhánek",
-    "url": "https://www.kosmas.cz/knihy/563957/pavoucek-varhanek/",
-    "description": "Pavouček Varhánek - Martina Viktorie Kopecká",
-    "authors": [
-      "Martina Viktorie Kopecká"
-    ],
-    "date": "2026-02-23T07:03:01.186166+00:00"
-  },
-  {
-    "title": "Údolí Winterset",
-    "url": "https://www.kosmas.cz/knihy/549630/udoli-winterset/",
-    "description": "Údolí Winterset - Jonathan Edward Durham",
-    "authors": [
-      "Jonathan Edward Durham"
-    ],
-    "date": "2026-02-23T07:03:00.186166+00:00"
-  },
-  {
-    "title": "Jak porozumět člověku",
-    "url": "https://www.kosmas.cz/knihy/564044/jak-porozumet-cloveku/",
-    "description": "Jak porozumět člověku - David Brooks",
-    "authors": [
-      "David Brooks"
-    ],
-    "date": "2026-02-23T07:02:59.186166+00:00"
-  },
-  {
-    "title": "Zatopený hřbitov",
-    "url": "https://www.kosmas.cz/knihy/564106/zatopeny-hrbitov/",
-    "description": "Zatopený hřbitov - Goran Tribuson",
-    "authors": [
-      "Goran Tribuson"
-    ],
-    "date": "2026-02-23T07:02:58.186166+00:00"
-  },
-  {
-    "title": "Ptáci lidských sídel",
-    "url": "https://www.kosmas.cz/knihy/564414/ptaci-lidskych-sidel/",
-    "description": "Ptáci lidských sídel - Alena Klvaňová, kolektiv autorů",
-    "authors": [
-      "Alena Klvaňová",
-      "kolektiv autorů"
-    ],
-    "date": "2026-02-23T07:02:57.186166+00:00"
-  },
-  {
-    "title": "Čaroděj z Kremlu",
-    "url": "https://www.kosmas.cz/knihy/565087/carodej-z-kremlu/",
-    "description": "Čaroděj z Kremlu - Giuliano da Empoli",
-    "authors": [
-      "Giuliano da Empoli"
-    ],
-    "date": "2026-02-23T07:02:56.186166+00:00"
-  },
-  {
-    "title": "Násilí a válčení lovců-sběračů",
-    "url": "https://www.kosmas.cz/knihy/256637/nasili-a-valceni-lovcu-sberacu/",
-    "description": "Násilí a válčení lovců-sběračů - Mark W. Allen, Terry L. Jones",
-    "authors": [
-      "Mark W. Allen",
-      "Terry L. Jones"
-    ],
-    "date": "2026-02-23T07:02:55.186166+00:00"
-  },
-  {
-    "title": "Štěstí pro tebe",
-    "url": "https://www.kosmas.cz/knihy/564735/stesti-pro-tebe/",
-    "description": "Štěstí pro tebe - Sussane Craig",
-    "authors": [
-      "Sussane Craig"
-    ],
-    "date": "2026-02-23T07:02:54.186166+00:00"
   }
 ]

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:23:59 +0000</lastBuildDate>
     <item>
       <title>Alexandr? Alexandre!</title>
       <link>https://www.h7o.cz/clanky/14456-alexandr-alexandre</link>
@@ -449,13 +449,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Povídky Michala Talla připomínají jeden z nejstarších literárních žánrů: noční můru. Přesto tato noční můra nevychází z neklidných snů, ale z intenzivního vnímání společensko-politické reality. Kniha „Všechno je v pořádku, všude je láska“ silně rezonovala na Slovensku a nyní vychází v českém…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14387-akt-odhozeni-rukopisu-je-vzdy-narocny</guid>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nejlepší knihy letošního roku</title>
-      <link>https://www.h7o.cz/clanky/14385-nejlepsi-knihy-letosniho-roku</link>
-      <description>Kdo nebilancuje, jako by nebyl. Oslovili jsme proto sami sebe a naši redakční radu takto: Napište jednu až tři knihy s vročením 2025, které vás nejvíce zaujaly. Ke každé můžete nebo nemusíte přidat pár vět.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14385-nejlepsi-knihy-letosniho-roku</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
