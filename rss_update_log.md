@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-02 06:29:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Úvod do dějin umění v učitelství dějepisu základní školy
+2. Moje omalovánky Prasátko Peppa
+3. Moje omalovánky Spidey
+4. Omalovánkový set Tlapková Patrola
+5. Velká knížka - Vánoce pro malé vypravěče
+6. Bylo nás pět
+7. Bílá nemoc
+8. Extrémní sudoku (zelené)
+9. Číselné křížovky (oranžové)
+10. Bingo Prasátko Peppa
+11. Bingo Tlapková patrola
+12. Tajemství a výklad pohádek: Grinch
+13. 30 dní k rovnováze
+
+---
+
+## 🕐 2026-03-02 06:29:45 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-01 06:24:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

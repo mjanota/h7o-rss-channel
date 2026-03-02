@@ -1,5 +1,108 @@
 [
   {
+    "title": "Úvod do dějin umění v učitelství dějepisu základní školy",
+    "url": "https://www.kosmas.cz/knihy/551249/uvod-do-dejin-umeni-v-ucitelstvi-dejepisu-zakladni-skoly/",
+    "description": "Úvod do dějin umění v učitelství dějepisu základní školy - Kamil Štěpánek",
+    "authors": [
+      "Kamil Štěpánek"
+    ],
+    "date": "2026-03-02T06:29:46.525395+00:00"
+  },
+  {
+    "title": "Moje omalovánky Prasátko Peppa",
+    "url": "https://www.kosmas.cz/knihy/565553/moje-omalovanky-prasatko-peppa/",
+    "description": "Moje omalovánky Prasátko Peppa",
+    "authors": [],
+    "date": "2026-03-02T06:29:44.525395+00:00"
+  },
+  {
+    "title": "Moje omalovánky Spidey",
+    "url": "https://www.kosmas.cz/knihy/565554/moje-omalovanky-spidey/",
+    "description": "Moje omalovánky Spidey",
+    "authors": [],
+    "date": "2026-03-02T06:29:43.525395+00:00"
+  },
+  {
+    "title": "Omalovánkový set Tlapková Patrola",
+    "url": "https://www.kosmas.cz/knihy/565564/omalovankovy-set-tlapkova-patrola/",
+    "description": "Omalovánkový set Tlapková Patrola",
+    "authors": [],
+    "date": "2026-03-02T06:29:42.525395+00:00"
+  },
+  {
+    "title": "Velká knížka - Vánoce pro malé vypravěče",
+    "url": "https://www.kosmas.cz/knihy/565764/velka-knizka-vanoce-pro-male-vypravece/",
+    "description": "Velká knížka - Vánoce pro malé vypravěče - Carolin Görtler",
+    "authors": [
+      "Carolin Görtler"
+    ],
+    "date": "2026-03-02T06:29:36.525395+00:00"
+  },
+  {
+    "title": "Bylo nás pět",
+    "url": "https://www.kosmas.cz/knihy/565808/bylo-nas-pet/",
+    "description": "Bylo nás pět - Karel Poláček",
+    "authors": [
+      "Karel Poláček"
+    ],
+    "date": "2026-03-02T06:29:34.525395+00:00"
+  },
+  {
+    "title": "Bílá nemoc",
+    "url": "https://www.kosmas.cz/knihy/565809/bila-nemoc/",
+    "description": "Bílá nemoc - Karel Čapek",
+    "authors": [
+      "Karel Čapek"
+    ],
+    "date": "2026-03-02T06:29:33.525395+00:00"
+  },
+  {
+    "title": "Extrémní sudoku (zelené)",
+    "url": "https://www.kosmas.cz/knihy/565811/extremni-sudoku-zelene/",
+    "description": "Extrémní sudoku (zelené)",
+    "authors": [],
+    "date": "2026-03-02T06:29:32.525395+00:00"
+  },
+  {
+    "title": "Číselné křížovky (oranžové)",
+    "url": "https://www.kosmas.cz/knihy/565812/ciselne-krizovky-oranzove/",
+    "description": "Číselné křížovky (oranžové)",
+    "authors": [],
+    "date": "2026-03-02T06:29:31.525395+00:00"
+  },
+  {
+    "title": "Bingo Prasátko Peppa",
+    "url": "https://www.kosmas.cz/knihy/565850/bingo-prasatko-peppa/",
+    "description": "Bingo Prasátko Peppa",
+    "authors": [],
+    "date": "2026-03-02T06:29:30.525395+00:00"
+  },
+  {
+    "title": "Bingo Tlapková patrola",
+    "url": "https://www.kosmas.cz/knihy/565851/bingo-tlapkova-patrola/",
+    "description": "Bingo Tlapková patrola",
+    "authors": [],
+    "date": "2026-03-02T06:29:29.525395+00:00"
+  },
+  {
+    "title": "Tajemství a výklad pohádek: Grinch",
+    "url": "https://www.kosmas.cz/knihy/565915/tajemstvi-a-vyklad-pohadek-grinch/",
+    "description": "Tajemství a výklad pohádek: Grinch - Jana Šintáková Michalicová",
+    "authors": [
+      "Jana Šintáková Michalicová"
+    ],
+    "date": "2026-03-02T06:29:28.525395+00:00"
+  },
+  {
+    "title": "30 dní k rovnováze",
+    "url": "https://www.kosmas.cz/knihy/565916/30-dni-k-rovnovaze/",
+    "description": "30 dní k rovnováze - Gabriela Kortová",
+    "authors": [
+      "Gabriela Kortová"
+    ],
+    "date": "2026-03-02T06:29:27.525395+00:00"
+  },
+  {
     "title": "Martin Černohorský",
     "url": "https://www.kosmas.cz/knihy/539800/martin-cernohorsky/",
     "description": "Martin Černohorský - Martin Bareš, Marie Fojtková, Jiří Grygar, Jana Musilová",
@@ -1680,123 +1783,5 @@
       "Richard Rohr"
     ],
     "date": "2026-02-23T07:22:55.186166+00:00"
-  },
-  {
-    "title": "Čarodějka - Dědictví mrazu",
-    "url": "https://www.kosmas.cz/knihy/563853/carodejka-dedictvi-mrazu/",
-    "description": "Čarodějka - Dědictví mrazu - Elise Kova",
-    "authors": [
-      "Elise Kova"
-    ],
-    "date": "2026-02-23T07:22:54.186166+00:00"
-  },
-  {
-    "title": "Slunce, které nezapadlo",
-    "url": "https://www.kosmas.cz/knihy/564213/slunce-ktere-nezapadlo/",
-    "description": "Slunce, které nezapadlo - Tereza Šmakalová",
-    "authors": [
-      "Tereza Šmakalová"
-    ],
-    "date": "2026-02-23T07:22:53.186166+00:00"
-  },
-  {
-    "title": "Teorie mužského třesku",
-    "url": "https://www.kosmas.cz/knihy/564208/teorie-muzskeho-tresku/",
-    "description": "Teorie mužského třesku - Mayim Bialik",
-    "authors": [
-      "Mayim Bialik"
-    ],
-    "date": "2026-02-23T07:22:52.186166+00:00"
-  },
-  {
-    "title": "Povídky plzeňské",
-    "url": "https://www.kosmas.cz/knihy/564901/povidky-plzenske/",
-    "description": "Povídky plzeňské - Ondřej Kouba",
-    "authors": [
-      "Ondřej Kouba"
-    ],
-    "date": "2026-02-23T07:03:11.186166+00:00"
-  },
-  {
-    "title": "Stěhování národů",
-    "url": "https://www.kosmas.cz/knihy/564718/stehovani-narodu/",
-    "description": "Stěhování národů - Jarmila Bednaříková",
-    "authors": [
-      "Jarmila Bednaříková"
-    ],
-    "date": "2026-02-23T07:03:10.186166+00:00"
-  },
-  {
-    "title": "Do neznáma s cizincem",
-    "url": "https://www.kosmas.cz/knihy/564875/do-neznama-s-cizincem/",
-    "description": "Do neznáma s cizincem - Michaela Vaščíková",
-    "authors": [
-      "Michaela Vaščíková"
-    ],
-    "date": "2026-02-23T07:03:09.186166+00:00"
-  },
-  {
-    "title": "Skryté místo",
-    "url": "https://www.kosmas.cz/knihy/563960/skryte-misto/",
-    "description": "Skryté místo - Antonín Mazáč",
-    "authors": [
-      "Antonín Mazáč"
-    ],
-    "date": "2026-02-23T07:03:08.186166+00:00"
-  },
-  {
-    "title": "V pasti",
-    "url": "https://www.kosmas.cz/knihy/565616/v-pasti/",
-    "description": "V pasti - Lauren Tarshisová",
-    "authors": [
-      "Lauren Tarshisová"
-    ],
-    "date": "2026-02-23T07:03:07.186166+00:00"
-  },
-  {
-    "title": "Deník malého Minecrafťáka 2",
-    "url": "https://www.kosmas.cz/knihy/564905/denik-maleho-minecraftaka-2/",
-    "description": "Deník malého Minecrafťáka 2 - Cube Kid",
-    "authors": [
-      "Cube Kid"
-    ],
-    "date": "2026-02-23T07:03:06.186166+00:00"
-  },
-  {
-    "title": "We Love Shooting",
-    "url": "https://www.kosmas.cz/knihy/564982/we-love-shooting/",
-    "description": "We Love Shooting - kol., Jiří Žák",
-    "authors": [
-      "kol.",
-      "Jiří Žák"
-    ],
-    "date": "2026-02-23T07:03:05.186166+00:00"
-  },
-  {
-    "title": "Emperor Charles IV and the Origins of the Great Schism, c. 1375–1378",
-    "url": "https://www.kosmas.cz/knihy/565170/emperor-charles-iv-and-the-origins-of-the-great-schism-c.-1375-1378/",
-    "description": "Emperor Charles IV and the Origins of the Great Schism, c. 1375–1378 - Dušan Coufal",
-    "authors": [
-      "Dušan Coufal"
-    ],
-    "date": "2026-02-23T07:03:04.186166+00:00"
-  },
-  {
-    "title": "Coco Wyo - Cozy Corner",
-    "url": "https://www.kosmas.cz/knihy/563850/coco-wyo-cozy-corner/",
-    "description": "Coco Wyo - Cozy Corner - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-02-23T07:03:03.186166+00:00"
-  },
-  {
-    "title": "Coco Wyo - Cozy cuties",
-    "url": "https://www.kosmas.cz/knihy/563854/coco-wyo-cozy-cuties/",
-    "description": "Coco Wyo - Cozy cuties - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-02-23T07:03:02.186166+00:00"
   }
 ]
