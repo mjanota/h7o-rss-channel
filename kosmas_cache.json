@@ -1,5 +1,173 @@
 [
   {
+    "title": "Od textu ke knize a knižní kultuře",
+    "url": "https://www.kosmas.cz/knihy/550643/od-textu-ke-knize-a-knizni-kulture/",
+    "description": "Od textu ke knize a knižní kultuře - Petr Voit",
+    "authors": [
+      "Petr Voit"
+    ],
+    "date": "2026-03-03T06:26:19.728666+00:00"
+  },
+  {
+    "title": "Bridgertonovi: Vikomt, který mě miloval",
+    "url": "https://www.kosmas.cz/knihy/564758/bridgertonovi-vikomt-ktery-me-miloval/",
+    "description": "Bridgertonovi: Vikomt, který mě miloval - Julia Quinnová",
+    "authors": [
+      "Julia Quinnová"
+    ],
+    "date": "2026-03-03T06:26:18.728666+00:00"
+  },
+  {
+    "title": "Bridgertonovi: Nevhodný návrh",
+    "url": "https://www.kosmas.cz/knihy/564759/bridgertonovi-nevhodny-navrh/",
+    "description": "Bridgertonovi: Nevhodný návrh - Julia Quinnová",
+    "authors": [
+      "Julia Quinnová"
+    ],
+    "date": "2026-03-03T06:26:17.728666+00:00"
+  },
+  {
+    "title": "Můj stát. Putování za prezidenty",
+    "url": "https://www.kosmas.cz/knihy/564768/muj-stat.-putovani-za-prezidenty/",
+    "description": "Můj stát. Putování za prezidenty - Martin Velíšek",
+    "authors": [
+      "Martin Velíšek"
+    ],
+    "date": "2026-03-03T06:26:16.728666+00:00"
+  },
+  {
+    "title": "Umění 4/2025",
+    "url": "https://www.kosmas.cz/knihy/565721/umeni-4-2025/",
+    "description": "Umění 4/2025",
+    "authors": [],
+    "date": "2026-03-03T06:26:15.728666+00:00"
+  },
+  {
+    "title": "Maturita: Český jazyk a literatura – Kompletní průvodce přípravou na didaktický test",
+    "url": "https://www.kosmas.cz/knihy/565825/maturita-cesky-jazyk-a-literatura-kompletni-pruvodce-pripravou-na---test/",
+    "description": "Maturita: Český jazyk a literatura – Kompletní průvodce přípravou na didaktický test - Žaneta Csonka, Kristýna Melicharová",
+    "authors": [
+      "Žaneta Csonka",
+      "Kristýna Melicharová"
+    ],
+    "date": "2026-03-03T06:26:14.728666+00:00"
+  },
+  {
+    "title": "Vraždy v Cherringhamu - Smrt za letní noci",
+    "url": "https://www.kosmas.cz/knihy/565891/vrazdy-v-cherringhamu-smrt-za-letni-noci/",
+    "description": "Vraždy v Cherringhamu - Smrt za letní noci - Matthew Costello, Richards Neil",
+    "authors": [
+      "Matthew Costello",
+      "Richards Neil"
+    ],
+    "date": "2026-03-03T06:26:13.728666+00:00"
+  },
+  {
+    "title": "Žití, snění, umírání.",
+    "url": "https://www.kosmas.cz/knihy/565940/ziti-sneni-umirani/",
+    "description": "Žití, snění, umírání. - Rob Nairn",
+    "authors": [
+      "Rob Nairn"
+    ],
+    "date": "2026-03-03T06:26:12.728666+00:00"
+  },
+  {
+    "title": "Host 2026/2",
+    "url": "https://www.kosmas.cz/knihy/565949/host-2026-2/",
+    "description": "Host 2026/2",
+    "authors": [],
+    "date": "2026-03-03T06:26:11.728666+00:00"
+  },
+  {
+    "title": "Dunwichský horor",
+    "url": "https://www.kosmas.cz/knihy/565968/dunwichsky-horor/",
+    "description": "Dunwichský horor - Alena Adamcová, Howard Phillips Lovecraft",
+    "authors": [
+      "Alena Adamcová",
+      "Howard Phillips Lovecraft"
+    ],
+    "date": "2026-03-03T06:26:10.728666+00:00"
+  },
+  {
+    "title": "Sherlock Holmes: Perla z Indie",
+    "url": "https://www.kosmas.cz/knihy/565969/sherlock-holmes-perla-z-indie/",
+    "description": "Sherlock Holmes: Perla z Indie - René Rony",
+    "authors": [
+      "René Rony"
+    ],
+    "date": "2026-03-03T06:26:09.728666+00:00"
+  },
+  {
+    "title": "Bestie ve stínech",
+    "url": "https://www.kosmas.cz/knihy/565971/bestie-ve-stinech/",
+    "description": "Bestie ve stínech - Edogawa Rampo",
+    "authors": [
+      "Edogawa Rampo"
+    ],
+    "date": "2026-03-03T06:26:08.728666+00:00"
+  },
+  {
+    "title": "Živá zahrada jako důkaz",
+    "url": "https://www.kosmas.cz/knihy/565975/ziva-zahrada-jako-dukaz/",
+    "description": "Živá zahrada jako důkaz - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-03-03T06:26:06.728666+00:00"
+  },
+  {
+    "title": "Protestant 2026/2",
+    "url": "https://www.kosmas.cz/knihy/565976/protestant-2026-2/",
+    "description": "Protestant 2026/2",
+    "authors": [],
+    "date": "2026-03-03T06:26:05.728666+00:00"
+  },
+  {
+    "title": "Když něco nesedí",
+    "url": "https://www.kosmas.cz/knihy/565978/kdyz-neco-nesedi/",
+    "description": "Když něco nesedí - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-03-03T06:26:04.728666+00:00"
+  },
+  {
+    "title": "Šepot ve tmě",
+    "url": "https://www.kosmas.cz/knihy/565980/sepot-ve-tme/",
+    "description": "Šepot ve tmě - Tessa Reed",
+    "authors": [
+      "Tessa Reed"
+    ],
+    "date": "2026-03-03T06:26:03.728666+00:00"
+  },
+  {
+    "title": "Bohové na Marsu",
+    "url": "https://www.kosmas.cz/knihy/565989/bohove-na-marsu/",
+    "description": "Bohové na Marsu - Edgar Rice Burroughs",
+    "authors": [
+      "Edgar Rice Burroughs"
+    ],
+    "date": "2026-03-03T06:26:02.728666+00:00"
+  },
+  {
+    "title": "Hříchy Hollywoodu",
+    "url": "https://www.kosmas.cz/knihy/565990/hrichy-hollywoodu/",
+    "description": "Hříchy Hollywoodu - Alessandra Torre",
+    "authors": [
+      "Alessandra Torre"
+    ],
+    "date": "2026-03-03T06:26:01.728666+00:00"
+  },
+  {
+    "title": "Miláčku, zdechni!",
+    "url": "https://www.kosmas.cz/knihy/565991/milacku-zdechni/",
+    "description": "Miláčku, zdechni! - Danka Štoflová",
+    "authors": [
+      "Danka Štoflová"
+    ],
+    "date": "2026-03-03T06:26:00.728666+00:00"
+  },
+  {
     "title": "Úvod do dějin umění v učitelství dějepisu základní školy",
     "url": "https://www.kosmas.cz/knihy/551249/uvod-do-dejin-umeni-v-ucitelstvi-dejepisu-zakladni-skoly/",
     "description": "Úvod do dějin umění v učitelství dějepisu základní školy - Kamil Štěpánek",
@@ -1616,172 +1784,5 @@
       "Miloš Hořejš"
     ],
     "date": "2026-02-23T07:42:54.186166+00:00"
-  },
-  {
-    "title": "Déšť stínů a konců",
-    "url": "https://www.kosmas.cz/knihy/565605/dest-stinu-a-koncu/",
-    "description": "Déšť stínů a konců - Melissa K. Roehrich",
-    "authors": [
-      "Melissa K. Roehrich"
-    ],
-    "date": "2026-02-23T07:42:53.186166+00:00"
-  },
-  {
-    "title": "Nesprávná sestra",
-    "url": "https://www.kosmas.cz/knihy/564186/nespravna-sestra/",
-    "description": "Nesprávná sestra - Claire Douglas",
-    "authors": [
-      "Claire Douglas"
-    ],
-    "date": "2026-02-23T07:42:52.186166+00:00"
-  },
-  {
-    "title": "Rodinná rada",
-    "url": "https://www.kosmas.cz/knihy/563962/rodinna-rada/",
-    "description": "Rodinná rada - Petr Jarchovský",
-    "authors": [
-      "Petr Jarchovský"
-    ],
-    "date": "2026-02-23T07:23:11.186166+00:00"
-  },
-  {
-    "title": "Křídla hvězd",
-    "url": "https://www.kosmas.cz/knihy/564634/kridla-hvezd/",
-    "description": "Křídla hvězd - Allison Saftová",
-    "authors": [
-      "Allison Saftová"
-    ],
-    "date": "2026-02-23T07:23:10.186166+00:00"
-  },
-  {
-    "title": "Kruté lži",
-    "url": "https://www.kosmas.cz/knihy/564665/krute-lzi/",
-    "description": "Kruté lži - R. A. Smyth",
-    "authors": [
-      "R. A. Smyth"
-    ],
-    "date": "2026-02-23T07:23:09.186166+00:00"
-  },
-  {
-    "title": "Planoucí koruny",
-    "url": "https://www.kosmas.cz/knihy/565610/planouci-koruny/",
-    "description": "Planoucí koruny - Catherine Doyle",
-    "authors": [
-      "Catherine Doyle"
-    ],
-    "date": "2026-02-23T07:23:08.186166+00:00"
-  },
-  {
-    "title": "Na hraně",
-    "url": "https://www.kosmas.cz/knihy/564215/na-hrane/",
-    "description": "Na hraně - Jennifer Iacopelli",
-    "authors": [
-      "Jennifer Iacopelli"
-    ],
-    "date": "2026-02-23T07:23:07.186166+00:00"
-  },
-  {
-    "title": "Otazníky detektiva Štiky 3",
-    "url": "https://www.kosmas.cz/knihy/564689/otazniky-detektiva-stiky-3/",
-    "description": "Otazníky detektiva Štiky 3 - Jiří Kalousek, Jiří Lapáček",
-    "authors": [
-      "Jiří Kalousek",
-      "Jiří Lapáček"
-    ],
-    "date": "2026-02-23T07:23:06.186166+00:00"
-  },
-  {
-    "title": "Země za kameny v kruhu",
-    "url": "https://www.kosmas.cz/knihy/564876/zeme-za-kameny-v-kruhu/",
-    "description": "Země za kameny v kruhu - Patrik Peška",
-    "authors": [
-      "Patrik Peška"
-    ],
-    "date": "2026-02-23T07:23:05.186166+00:00"
-  },
-  {
-    "title": "Hermetická tradice",
-    "url": "https://www.kosmas.cz/knihy/564258/hermeticka-tradice/",
-    "description": "Hermetická tradice - Julius Evola",
-    "authors": [
-      "Julius Evola"
-    ],
-    "date": "2026-02-23T07:23:04.186166+00:00"
-  },
-  {
-    "title": "3-2-1 STITCH Cestovní hra",
-    "url": "https://www.kosmas.cz/knihy/564347/3-2-1-stitch-cestovni-hra/",
-    "description": "3-2-1 STITCH Cestovní hra",
-    "authors": [],
-    "date": "2026-02-23T07:23:03.186166+00:00"
-  },
-  {
-    "title": "Filling in the Gap",
-    "url": "https://www.kosmas.cz/knihy/565177/filling-in-the-gap/",
-    "description": "Filling in the Gap - Štefánia Demská, David Eben",
-    "authors": [
-      "Štefánia Demská",
-      "David Eben"
-    ],
-    "date": "2026-02-23T07:23:02.186166+00:00"
-  },
-  {
-    "title": "U Hlavy mantichory",
-    "url": "https://www.kosmas.cz/knihy/565209/u-hlavy-mantichory/",
-    "description": "U Hlavy mantichory - Jakub Hoza",
-    "authors": [
-      "Jakub Hoza"
-    ],
-    "date": "2026-02-23T07:23:01.186166+00:00"
-  },
-  {
-    "title": "Pexeso Vítej v ZOO!",
-    "url": "https://www.kosmas.cz/knihy/565388/pexeso-vitej-v-zoo/",
-    "description": "Pexeso Vítej v ZOO!",
-    "authors": [],
-    "date": "2026-02-23T07:23:00.186166+00:00"
-  },
-  {
-    "title": "Pexeso Human Body",
-    "url": "https://www.kosmas.cz/knihy/565389/pexeso-human-body/",
-    "description": "Pexeso Human Body",
-    "authors": [],
-    "date": "2026-02-23T07:22:59.186166+00:00"
-  },
-  {
-    "title": "Odvážná Vaiana 2 - Pohádky z Oceánie",
-    "url": "https://www.kosmas.cz/knihy/564686/odvazna-vaiana-2-pohadky-z-oceanie/",
-    "description": "Odvážná Vaiana 2 - Pohádky z Oceánie - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-02-23T07:22:58.186166+00:00"
-  },
-  {
-    "title": "Temná krása",
-    "url": "https://www.kosmas.cz/knihy/564723/temna-krasa/",
-    "description": "Temná krása - Lilith Vincent",
-    "authors": [
-      "Lilith Vincent"
-    ],
-    "date": "2026-02-23T07:22:57.186166+00:00"
-  },
-  {
-    "title": "Král lenosti",
-    "url": "https://www.kosmas.cz/knihy/564666/kral-lenosti/",
-    "description": "Král lenosti - Ana Huang",
-    "authors": [
-      "Ana Huang"
-    ],
-    "date": "2026-02-23T07:22:56.186166+00:00"
-  },
-  {
-    "title": "Na prahu proměny",
-    "url": "https://www.kosmas.cz/knihy/565571/na-prahu-promeny/",
-    "description": "Na prahu proměny - Richard Rohr",
-    "authors": [
-      "Richard Rohr"
-    ],
-    "date": "2026-02-23T07:22:55.186166+00:00"
   }
 ]

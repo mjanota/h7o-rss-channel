@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-03 06:26:19 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Od textu ke knize a knižní kultuře
+2. Bridgertonovi: Vikomt, který mě miloval
+3. Bridgertonovi: Nevhodný návrh
+4. Můj stát. Putování za prezidenty
+5. Umění 4/2025
+6. Maturita: Český jazyk a literatura – Kompletní průvodce přípravou na didaktický test
+7. Vraždy v Cherringhamu - Smrt za letní noci
+8. Žití, snění, umírání.
+9. Host 2026/2
+10. Dunwichský horor
+11. Sherlock Holmes: Perla z Indie
+12. Bestie ve stínech
+13. Živá zahrada jako důkaz
+14. Protestant 2026/2
+15. Když něco nesedí
+16. Šepot ve tmě
+17. Bohové na Marsu
+18. Hříchy Hollywoodu
+19. Miláčku, zdechni!
+
+---
+
+## 🕐 2026-03-03 06:26:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Rozzuřený boomer mezi trapností a věčností
+
+---
+
 ## 🕐 2026-03-02 06:29:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -379,152 +425,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-02-24 06:31:17 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-23 08:23:14 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 200
-
-**Tituly nových položek:**
-
-1. To ti moc přeju
-2. Téměř dokonalá lež
-3. Vražedný Oxford - Osudová krása
-4. Cviky na vaši bolest
-5. Svět podle Lízy
-6. Čas zvratu
-7. Devět pokračování
-8. Profesorka
-9. Klíč stínů
-10. Dům bez hodin
-11. Kvantová struktura zákonů II
-12. Kvantový celek III
-13. Klamy a manipulace napříč staletími
-14. Po kom se to jmenuje...?
-15. Svědkyně na útěku
-16. Odvaha letět
-17. Kapybary na útěku
-18. Až příliš krásná
-19. S pověstmi za dobrodružstvím – Ve službách kněžny Libuše
-20. Overview of Czech Business Law
-
-... a dalších 180 položek
-
----
-
-## 🕐 2026-02-23 08:23:11 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 64
-
-**Tituly nových položek:**
-
-1. Hustý!
-2. Žijeme v království prázdných soklů
-3. Nepřenechat prostor jiným
-4. Úsměvy umělých dívek
-5. Spíše než o setkání šlo o ponor
-6. Zavřené oči, uši v dlaních
-7. Je to horor, sociální i intimní
-8. Ticho jako možnost promluvy
-9. Nepraktický žert
-10. Olejová skvrna
-11. Grögerová byla z mého objevu dojatá
-12. Sochy z mlhy
-13. Hněv nesmí zůstat sám
-14. Kdo se bude smát naposled
-15. Rozřezat, skenovat, trénovat. AI se cvičila i na fyzických knihách
-16. Šotoušové sobě i nám
-17. Nejzavšivenější ze zavšivených
-18. Násilí v díle  Michela Houellebecqa
-19. Psát se má s ozvěnou
-20. Konečně konec!?
-
-... a dalších 44 položek
-
----
-
-## 🕐 2026-02-23 08:22:15 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-23 08:22:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-23 08:16:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-23 08:16:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hustý!
-
----
-
-## 🕐 2026-02-23 06:35:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. To ti moc přeju
-2. Klamy a manipulace napříč staletími
-3. Po kom se to jmenuje...?
-4. Svědkyně na útěku
-5. Odvaha letět
-6. Kapybary na útěku
-7. Až příliš krásná
-8. S pověstmi za dobrodružstvím – Ve službách kněžny Libuše
-9. Overview of Czech Business Law
-
----
-
-## 🕐 2026-02-23 06:35:27 UTC
 
 **Zdroj:** H7O - Časopis Host
 

@@ -456,14 +456,6 @@
     "category": "seriál"
   },
   {
-    "title": "Rozmývá se oblast soukromého a veřejného",
-    "url": "https://www.h7o.cz/clanky/14388-rozmyva-se-oblast-soukromeho-a-verejneho",
-    "description": "Lucie Jílková z Ústavu pro jazyk český AV ČR se věnuje mediální češtině a jejím proměnám. Nedávno jí o jazyce médií vyšla kniha „Jak moc nás to posunulo?“.",
-    "date": "2025-12-03T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-02-27T00:00:00",
     "author": "Václav Maxmilián",
     "category": "sloupek"
+  },
+  {
+    "title": "Rozzuřený boomer mezi trapností a věčností",
+    "url": "https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti",
+    "description": "Jáchym Topol po devíti letech vydal nový román, prý možná jeden z posledních napsaných pouze člověkem, jak se při příležitosti vydání knihy a v obavě z AI vyjádřil v Deníku N.  Jak tedy román napsaný pouze člověkem dopadl? Dozvíte se v kritice Marty Ljubkové.",
+    "date": "2026-03-02T00:00:00",
+    "author": "Marta Ljubková",
+    "category": "recenze"
   }
 ]

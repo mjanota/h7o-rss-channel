@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 02 Mar 2026 06:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 06:26:19 +0000</lastBuildDate>
+    <item>
+      <title>Rozzuřený boomer mezi trapností a věčností</title>
+      <link>https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti</link>
+      <description>Jáchym Topol po devíti letech vydal nový román, prý možná jeden z posledních napsaných pouze člověkem, jak se při příležitosti vydání knihy a v obavě z AI vyjádřil v Deníku N.  Jak tedy román napsaný pouze člověkem dopadl? Dozvíte se v kritice Marty Ljubkové.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Alexandr? Alexandre!</title>
       <link>https://www.h7o.cz/clanky/14456-alexandr-alexandre</link>
@@ -435,13 +442,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14386-in-memoriam-rahaf-hunajdik</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozmývá se oblast soukromého a veřejného</title>
-      <link>https://www.h7o.cz/clanky/14388-rozmyva-se-oblast-soukromeho-a-verejneho</link>
-      <description>Lucie Jílková z Ústavu pro jazyk český AV ČR se věnuje mediální češtině a jejím proměnám. Nedávno jí o jazyce médií vyšla kniha „Jak moc nás to posunulo?“.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14388-rozmyva-se-oblast-soukromeho-a-verejneho</guid>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
