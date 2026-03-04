@@ -448,14 +448,6 @@
     "category": "téma"
   },
   {
-    "title": "In memoriam Rahaf Hunajdik",
-    "url": "https://www.h7o.cz/clanky/14386-in-memoriam-rahaf-hunajdik",
-    "description": "Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.",
-    "date": "2025-12-04T00:00:00",
-    "author": "Vesna Evans",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -493,6 +485,14 @@
     "description": "Jáchym Topol po devíti letech vydal nový román, prý možná jeden z posledních napsaných pouze člověkem, jak se při příležitosti vydání knihy a v obavě z AI vyjádřil v Deníku N.  Jak tedy román napsaný pouze člověkem dopadl? Dozvíte se v kritice Marty Ljubkové.",
     "date": "2026-03-02T00:00:00",
     "author": "Marta Ljubková",
+    "category": "recenze"
+  },
+  {
+    "title": "Bedekr po novém Polsku",
+    "url": "https://www.h7o.cz/clanky/14458-bedekr-po-novem-polsku",
+    "description": "„Podobně jako v případě Sudet je i v Odřanie nutné přijmout historii míst s tím, že je jiná než historie těch, kteří ji obývají nyní. A že obě verze jednoho příběhu mohou být stejně pravdivé,“ píše v recenzi na novou knihu z nakladatelství Absynt Václav Maxmilián.",
+    "date": "2026-03-03T00:00:00",
+    "author": "Václav Maxmilián",
     "category": "recenze"
   }
 ]

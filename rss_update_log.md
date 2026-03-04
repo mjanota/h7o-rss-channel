@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-04 06:24:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Zletounova zhouba
+2. Co nevíme o slepicích
+3. Jak řešit logické úlohy z matematiky: Převody jednotek
+4. Pracovní sešit předškoláka 4
+5. Příručka pro malé rybáře a rybářky
+6. Skutečné zločiny na Plzeňsku 3
+7. Vážení truchlící a ostatní hosté
+8. Báječná léta s Jawou
+9. Žár Věčného plamene
+10. Útěk z videohry: Tajemství ostrova přízraků
+11. Naše malé tajemství
+12. Zběsilý lov
+13. Hvězdy fotbalového hřiště - Ronaldo
+14. Městečko
+15. Prokletý kraj
+16. Můj rok 1968
+17. Chladný Casanova
+18. Hvězdy formule 1 - Lewis Hamilton
+19. Jak řešit náročnější úlohy z češtiny
+20. Pečujeme v závěru života
+
+---
+
+## 🕐 2026-03-04 06:24:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Bedekr po novém Polsku
+
+---
+
 ## 🕐 2026-03-03 06:26:19 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -292,139 +339,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-02-25 06:33:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:26:04 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:26:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:20:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:20:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:14:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:14:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-02-24 08:07:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 4
-
-**Tituly nových položek:**
-
-1. Rebel Witch
-2. Throne of Nightmares
-3. Wild Card
-4. Woman in Suite 11
-
----
-
-## 🕐 2026-02-24 08:07:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Co nejkrásnější život
-
----
-
-## 🕐 2026-02-24 06:31:18 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Kolaps v Goobersvillu
-2. Srdce chuligána
-3. Stela a šestnáct huskyů
-4. Cvičení FAMU
-5. An Arcane Inheritance
-6. Bridgerton: An Offer From A Gentleman Book 3
-7. Catherine: A Retelling of Wuthering Heights
-8. Convenience Store by the Sea
-9. Dear Debbie
-10. Deathly Grimm
-11. Dragon Cursed
-12. Fake Skating
-13. Get Over It
-14. King of Ashes
-15. King of Beasts
-16. Lies That Summon the Night
-17. Matchmaking for Psychopaths
-18. My Friends
-19. Mythmakers
-
----
-
-## 🕐 2026-02-24 06:31:17 UTC
 
 **Zdroj:** H7O - Časopis Host
 
