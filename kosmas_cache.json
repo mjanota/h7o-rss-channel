@@ -1,5 +1,180 @@
 [
   {
+    "title": "Dvůr havranů a zkázy",
+    "url": "https://www.kosmas.cz/knihy/565676/dvur-havranu-a-zkazy/",
+    "description": "Dvůr havranů a zkázy - Eliza Raine",
+    "authors": [
+      "Eliza Raine"
+    ],
+    "date": "2026-03-05T06:26:40.197235+00:00"
+  },
+  {
+    "title": "92. policejní revír se hlásí...",
+    "url": "https://www.kosmas.cz/knihy/566085/92.-policejni-revir-se-hlasi/",
+    "description": "92. policejní revír se hlásí... - Ladislav Beran",
+    "authors": [
+      "Ladislav Beran"
+    ],
+    "date": "2026-03-05T06:26:39.197235+00:00"
+  },
+  {
+    "title": "Smrt programátora",
+    "url": "https://www.kosmas.cz/knihy/566086/smrt-programatora/",
+    "description": "Smrt programátora - Stanislav Češka",
+    "authors": [
+      "Stanislav Češka"
+    ],
+    "date": "2026-03-05T06:26:38.197235+00:00"
+  },
+  {
+    "title": "Vlna vzteku",
+    "url": "https://www.kosmas.cz/knihy/566090/vlna-vzteku/",
+    "description": "Vlna vzteku - Linda Castillo",
+    "authors": [
+      "Linda Castillo"
+    ],
+    "date": "2026-03-05T06:26:37.197235+00:00"
+  },
+  {
+    "title": "Kovboj na útěku",
+    "url": "https://www.kosmas.cz/knihy/565970/kovboj-na-uteku/",
+    "description": "Kovboj na útěku - Marie Hamáková",
+    "authors": [
+      "Marie Hamáková"
+    ],
+    "date": "2026-03-05T06:26:36.197235+00:00"
+  },
+  {
+    "title": "Slovo Buddhovo",
+    "url": "https://www.kosmas.cz/knihy/564630/slovo-buddhovo/",
+    "description": "Slovo Buddhovo - Nyánatiloka Maháthera, Michal Štěpánek, Jan Lípa",
+    "authors": [
+      "Nyánatiloka Maháthera",
+      "Michal Štěpánek",
+      "Jan Lípa"
+    ],
+    "date": "2026-03-05T06:26:35.197235+00:00"
+  },
+  {
+    "title": "Život a práce s AI",
+    "url": "https://www.kosmas.cz/knihy/565713/zivot-a-prace-s-ai/",
+    "description": "Život a práce s AI - Ethan Mollick",
+    "authors": [
+      "Ethan Mollick"
+    ],
+    "date": "2026-03-05T06:26:34.197235+00:00"
+  },
+  {
+    "title": "Rodinka ze 141. ulice a skrytá zahrada",
+    "url": "https://www.kosmas.cz/knihy/564699/rodinka-ze-141.-ulice-a-skryta-zahrada/",
+    "description": "Rodinka ze 141. ulice a skrytá zahrada - Karina Yan Glaser",
+    "authors": [
+      "Karina Yan Glaser"
+    ],
+    "date": "2026-03-05T06:26:33.197235+00:00"
+  },
+  {
+    "title": "Až uvidíš moře",
+    "url": "https://www.kosmas.cz/knihy/564857/az-uvidis-more/",
+    "description": "Až uvidíš moře - Scarlett Wilková",
+    "authors": [
+      "Scarlett Wilková"
+    ],
+    "date": "2026-03-05T06:26:32.197235+00:00"
+  },
+  {
+    "title": "Keramická hlína",
+    "url": "https://www.kosmas.cz/knihy/565963/keramicka-hlina/",
+    "description": "Keramická hlína - Sarah Reeves",
+    "authors": [
+      "Sarah Reeves"
+    ],
+    "date": "2026-03-05T06:26:31.197235+00:00"
+  },
+  {
+    "title": "Na dobré stopě - Učení Fráni Drtikola",
+    "url": "https://www.kosmas.cz/knihy/565974/na-dobre-stope-uceni-frani-drtikola/",
+    "description": "Na dobré stopě - Učení Fráni Drtikola - Pavel Šolc, Jan Lípa, Michal Štěpánek",
+    "authors": [
+      "Pavel Šolc",
+      "Jan Lípa",
+      "Michal Štěpánek"
+    ],
+    "date": "2026-03-05T06:26:30.197235+00:00"
+  },
+  {
+    "title": "Full Moon 179/2026",
+    "url": "https://www.kosmas.cz/knihy/566057/full-moon-179-2026/",
+    "description": "Full Moon 179/2026",
+    "authors": [],
+    "date": "2026-03-05T06:26:28.197235+00:00"
+  },
+  {
+    "title": "Historicus inter saecula movens",
+    "url": "https://www.kosmas.cz/knihy/564996/historicus-inter-saecula-movens/",
+    "description": "Historicus inter saecula movens - Ivana Ebelová, Zdeněk Hojda, Zdeněk Nešpor",
+    "authors": [
+      "Ivana Ebelová",
+      "Zdeněk Hojda",
+      "Zdeněk Nešpor"
+    ],
+    "date": "2026-03-05T06:26:27.197235+00:00"
+  },
+  {
+    "title": "Od trestu k terapii",
+    "url": "https://www.kosmas.cz/knihy/564364/od-trestu-k-terapii/",
+    "description": "Od trestu k terapii - Jakub Střelec",
+    "authors": [
+      "Jakub Střelec"
+    ],
+    "date": "2026-03-05T06:26:26.197235+00:00"
+  },
+  {
+    "title": "Prague, Jan Hus and Prague University",
+    "url": "https://www.kosmas.cz/knihy/564990/prague-jan-hus-and-prague-university/",
+    "description": "Prague, Jan Hus and Prague University - Martin Nodl",
+    "authors": [
+      "Martin Nodl"
+    ],
+    "date": "2026-03-05T06:26:25.197235+00:00"
+  },
+  {
+    "title": "Templáři",
+    "url": "https://www.kosmas.cz/knihy/566075/templari/",
+    "description": "Templáři - Xavier Hélary",
+    "authors": [
+      "Xavier Hélary"
+    ],
+    "date": "2026-03-05T06:26:24.197235+00:00"
+  },
+  {
+    "title": "Vyšší Brod 42",
+    "url": "https://www.kosmas.cz/knihy/566076/vyssi-brod-42/",
+    "description": "Vyšší Brod 42 - Hana Vlhová-Wörner",
+    "authors": [
+      "Hana Vlhová-Wörner"
+    ],
+    "date": "2026-03-05T06:26:23.197235+00:00"
+  },
+  {
+    "title": "Mluv se mnou",
+    "url": "https://www.kosmas.cz/knihy/565075/mluv-se-mnou/",
+    "description": "Mluv se mnou - Julie Caplinová",
+    "authors": [
+      "Julie Caplinová"
+    ],
+    "date": "2026-03-05T06:26:22.197235+00:00"
+  },
+  {
+    "title": "Kočička Hamley a první kouzla",
+    "url": "https://www.kosmas.cz/knihy/564663/kocicka-hamley-a-prvni-kouzla/",
+    "description": "Kočička Hamley a první kouzla - Sandra J. Paul",
+    "authors": [
+      "Sandra J. Paul"
+    ],
+    "date": "2026-03-05T06:26:21.197235+00:00"
+  },
+  {
     "title": "Zletounova zhouba",
     "url": "https://www.kosmas.cz/knihy/566048/zletounova-zhouba/",
     "description": "Zletounova zhouba",
@@ -1607,180 +1782,5 @@
       "Hana Kneblová"
     ],
     "date": "2026-02-23T08:22:53.186166+00:00"
-  },
-  {
-    "title": "Overview of Czech Business Law",
-    "url": "https://www.kosmas.cz/knihy/564178/overview-of-czech-business-law/",
-    "description": "Overview of Czech Business Law - Pavla Tloušťová",
-    "authors": [
-      "Pavla Tloušťová"
-    ],
-    "date": "2026-02-23T08:22:52.186166+00:00"
-  },
-  {
-    "title": "Noční údy lamp",
-    "url": "https://www.kosmas.cz/knihy/565302/nocni-udy-lamp/",
-    "description": "Noční údy lamp - Jan Sojka",
-    "authors": [
-      "Jan Sojka"
-    ],
-    "date": "2026-02-23T08:03:11.186166+00:00"
-  },
-  {
-    "title": "Abeceda veteránisty",
-    "url": "https://www.kosmas.cz/knihy/565363/abeceda-veteranisty/",
-    "description": "Abeceda veteránisty - František Fiala, Pavel Kolář",
-    "authors": [
-      "František Fiala",
-      "Pavel Kolář"
-    ],
-    "date": "2026-02-23T08:03:10.186166+00:00"
-  },
-  {
-    "title": "Dýchej tak, jak chceš žít",
-    "url": "https://www.kosmas.cz/knihy/565367/dychej-tak-jak-chces-zit/",
-    "description": "Dýchej tak, jak chceš žít - Matteo Pistono",
-    "authors": [
-      "Matteo Pistono"
-    ],
-    "date": "2026-02-23T08:03:09.186166+00:00"
-  },
-  {
-    "title": "Mozkový restart",
-    "url": "https://www.kosmas.cz/knihy/565374/mozkovy-restart/",
-    "description": "Mozkový restart - Albert Villoldo",
-    "authors": [
-      "Albert Villoldo"
-    ],
-    "date": "2026-02-23T08:03:08.186166+00:00"
-  },
-  {
-    "title": "Klinická logopedie u dětí",
-    "url": "https://www.kosmas.cz/knihy/565376/klinicka-logopedie-u-deti/",
-    "description": "Klinická logopedie u dětí - Zuzana Korandová, Hana Nestávalová, Barbora Richtrová",
-    "authors": [
-      "Zuzana Korandová",
-      "Hana Nestávalová",
-      "Barbora Richtrová"
-    ],
-    "date": "2026-02-23T08:03:07.186166+00:00"
-  },
-  {
-    "title": "Království krve a zrady",
-    "url": "https://www.kosmas.cz/knihy/565461/kralovstvi-krve-a-zrady/",
-    "description": "Království krve a zrady - Holly Renee",
-    "authors": [
-      "Holly Renee"
-    ],
-    "date": "2026-02-23T08:03:06.186166+00:00"
-  },
-  {
-    "title": "Odstraňování vlhkosti",
-    "url": "https://www.kosmas.cz/knihy/565642/odstranovani-vlhkosti/",
-    "description": "Odstraňování vlhkosti - Jaroslav Solař",
-    "authors": [
-      "Jaroslav Solař"
-    ],
-    "date": "2026-02-23T08:03:05.186166+00:00"
-  },
-  {
-    "title": "ADHD je super",
-    "url": "https://www.kosmas.cz/knihy/560564/adhd-je-super/",
-    "description": "ADHD je super - Kim Holderness, Penn Holderness",
-    "authors": [
-      "Kim Holderness",
-      "Penn Holderness"
-    ],
-    "date": "2026-02-23T08:03:04.186166+00:00"
-  },
-  {
-    "title": "Dotek nestvůry",
-    "url": "https://www.kosmas.cz/knihy/562427/dotek-nestvury/",
-    "description": "Dotek nestvůry - Jen Williams",
-    "authors": [
-      "Jen Williams"
-    ],
-    "date": "2026-02-23T08:03:03.186166+00:00"
-  },
-  {
-    "title": "Pravda nebo fikce? 3. díl",
-    "url": "https://www.kosmas.cz/knihy/565670/pravda-nebo-fikce-3.-dil/",
-    "description": "Pravda nebo fikce? 3. díl - Joe Garcia",
-    "authors": [
-      "Joe Garcia"
-    ],
-    "date": "2026-02-23T08:03:02.186166+00:00"
-  },
-  {
-    "title": "Kvantový dech světa I",
-    "url": "https://www.kosmas.cz/knihy/565672/kvantovy-dech-sveta-i/",
-    "description": "Kvantový dech světa I - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-02-23T08:03:01.186166+00:00"
-  },
-  {
-    "title": "Výročí",
-    "url": "https://www.kosmas.cz/knihy/564953/vyroci/",
-    "description": "Výročí - Marek Hlavica",
-    "authors": [
-      "Marek Hlavica"
-    ],
-    "date": "2026-02-23T08:03:00.186166+00:00"
-  },
-  {
-    "title": "Dvanáct měsíců",
-    "url": "https://www.kosmas.cz/knihy/564955/dvanact-mesicu/",
-    "description": "Dvanáct měsíců - Eleanor Corvin",
-    "authors": [
-      "Eleanor Corvin"
-    ],
-    "date": "2026-02-23T08:02:59.186166+00:00"
-  },
-  {
-    "title": "Jeden rok",
-    "url": "https://www.kosmas.cz/knihy/564956/jeden-rok/",
-    "description": "Jeden rok - Eleanor Corvin",
-    "authors": [
-      "Eleanor Corvin"
-    ],
-    "date": "2026-02-23T08:02:58.186166+00:00"
-  },
-  {
-    "title": "Bílo",
-    "url": "https://www.kosmas.cz/knihy/564964/bilo/",
-    "description": "Bílo - Beata Bocek",
-    "authors": [
-      "Beata Bocek"
-    ],
-    "date": "2026-02-23T08:02:57.186166+00:00"
-  },
-  {
-    "title": "Jak se kreslí zvířátka krok za krokem",
-    "url": "https://www.kosmas.cz/knihy/565088/jak-se-kresli-zviratka-krok-za-krokem/",
-    "description": "Jak se kreslí zvířátka krok za krokem - Jaroslava Pechová",
-    "authors": [
-      "Jaroslava Pechová"
-    ],
-    "date": "2026-02-23T08:02:56.186166+00:00"
-  },
-  {
-    "title": "Nežer to!",
-    "url": "https://www.kosmas.cz/knihy/565117/nezer-to/",
-    "description": "Nežer to! - Simone Muellerová",
-    "authors": [
-      "Simone Muellerová"
-    ],
-    "date": "2026-02-23T08:02:55.186166+00:00"
-  },
-  {
-    "title": "Raketové přivolání",
-    "url": "https://www.kosmas.cz/knihy/565118/raketove-privolani/",
-    "description": "Raketové přivolání - Simone Muellerová",
-    "authors": [
-      "Simone Muellerová"
-    ],
-    "date": "2026-02-23T08:02:54.186166+00:00"
   }
 ]

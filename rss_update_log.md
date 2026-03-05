@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-05 06:26:40 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Dvůr havranů a zkázy
+2. 92. policejní revír se hlásí...
+3. Smrt programátora
+4. Vlna vzteku
+5. Kovboj na útěku
+6. Slovo Buddhovo
+7. Život a práce s AI
+8. Rodinka ze 141. ulice a skrytá zahrada
+9. Až uvidíš moře
+10. Keramická hlína
+11. Na dobré stopě - Učení Fráni Drtikola
+12. Full Moon 179/2026
+13. Historicus inter saecula movens
+14. Od trestu k terapii
+15. Prague, Jan Hus and Prague University
+16. Templáři
+17. Vyšší Brod 42
+18. Mluv se mnou
+19. Kočička Hamley a první kouzla
+
+---
+
+## 🕐 2026-03-05 06:26:39 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Není ceny bez nominace
+
+---
+
 ## 🕐 2026-03-04 06:24:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -302,49 +348,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Konec pulpu
-
----
-
-## 🕐 2026-02-25 06:33:31 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Poslední epocha
-2. Zdvořilostní návštěva starého přítele
-3. Mickeyho čarodějové: Počátek, první část
-4. Legenda o Sim Čchong 3
-5. Kontexty 1/2026
-6. Afghánistán navždy
-7. Osudný paprsek
-8. Hon na ovci
-9. Obléknu si půlnoc – limitovaná edice
-10. Pastýřská koruna -limitovaná edice
-11. Úžasný Mauric a jeho vzdělaní hlodavci - limitovaná edice
-12. Twisted Wonderland: Příběh z Heartslabyulu 2
-13. Kuchyně špičatých klobouků 1
-14. O princeznách - Čti a nalepuj, kniha se samolepkami
-15. Na statku - Čti a nalepuj, kniha se samolepkami
-16. Na spirále času
-17. Han Hung-su - otec československé koreanistiky
-18. Dubliňané
-19. Kolo času: Cesta nožů
-20. Věci
-
----
-
-## 🕐 2026-02-25 06:33:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

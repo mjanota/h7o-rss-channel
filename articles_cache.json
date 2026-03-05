@@ -440,14 +440,6 @@
     "category": "téma"
   },
   {
-    "title": "Odešel britský velikán, který si čím dál víc připadal jako „vyhozený Čech“",
-    "url": "https://www.h7o.cz/clanky/14390-odesel-britsky-velikan-ktery-si-cim-dal-vic-pripadal-jako-vyhozeny-cech",
-    "description": "V sobotu 29. listopadu zemřel ve věku 88 let jeden z předních světových dramatiků Tom Stoppard.",
-    "date": "2025-12-05T00:00:00",
-    "author": "Tomáš Kačer",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-03-03T00:00:00",
     "author": "Václav Maxmilián",
     "category": "recenze"
+  },
+  {
+    "title": "Není ceny bez nominace",
+    "url": "https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace",
+    "description": "Po vyhlášení nominací na Cenu literární kritiky zveřejnily své longlisty i jednotlivé poroty soutěže Magnesia Litera. A některé tituly mají šanci uspět i v dalších literárních soutěžích či anketách.",
+    "date": "2026-03-04T00:00:00",
+    "author": "Petr Nagy",
+    "category": "zprávy"
   }
 ]
