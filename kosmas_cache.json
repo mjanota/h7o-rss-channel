@@ -1,5 +1,150 @@
 [
   {
+    "title": "Temné břehy",
+    "url": "https://www.kosmas.cz/knihy/565657/temne-brehy/",
+    "description": "Temné břehy - Kristýna Trpková",
+    "authors": [
+      "Kristýna Trpková"
+    ],
+    "date": "2026-03-06T06:24:57.615299+00:00"
+  },
+  {
+    "title": "Raketa 46",
+    "url": "https://www.kosmas.cz/knihy/565767/raketa-46/",
+    "description": "Raketa 46",
+    "authors": [],
+    "date": "2026-03-06T06:24:55.615299+00:00"
+  },
+  {
+    "title": "Collaborative & Conscious Material Design",
+    "url": "https://www.kosmas.cz/knihy/565799/collaborative-conscious-material-design/",
+    "description": "Collaborative & Conscious Material Design - Valentýna Landa Filípková",
+    "authors": [
+      "Valentýna Landa Filípková"
+    ],
+    "date": "2026-03-06T06:24:54.615299+00:00"
+  },
+  {
+    "title": "The Look of the Internalized Machine Gaze",
+    "url": "https://www.kosmas.cz/knihy/565800/the-look-of-the-internalized-machine-gaze/",
+    "description": "The Look of the Internalized Machine Gaze - Barbora Trnková",
+    "authors": [
+      "Barbora Trnková"
+    ],
+    "date": "2026-03-06T06:24:53.615299+00:00"
+  },
+  {
+    "title": "Walking as Embodied Worldmaking",
+    "url": "https://www.kosmas.cz/knihy/565801/walking-as-embodied-worldmaking/",
+    "description": "Walking as Embodied Worldmaking - Lea Maria Spahn",
+    "authors": [
+      "Lea Maria Spahn"
+    ],
+    "date": "2026-03-06T06:24:52.615299+00:00"
+  },
+  {
+    "title": "Sociální souvislosti aktivního stáří",
+    "url": "https://www.kosmas.cz/knihy/565804/socialni-souvislosti-aktivniho-stari/",
+    "description": "Sociální souvislosti aktivního stáří - Kateřina Šámalová, Igor Tomeš",
+    "authors": [
+      "Kateřina Šámalová",
+      "Igor Tomeš"
+    ],
+    "date": "2026-03-06T06:24:51.615299+00:00"
+  },
+  {
+    "title": "Fonetika a fonologie současné španělštiny",
+    "url": "https://www.kosmas.cz/knihy/565805/fonetika-a-fonologie-soucasne-spanelstiny/",
+    "description": "Fonetika a fonologie současné španělštiny - Petr Čermák",
+    "authors": [
+      "Petr Čermák"
+    ],
+    "date": "2026-03-06T06:24:50.615299+00:00"
+  },
+  {
+    "title": "Avicenna",
+    "url": "https://www.kosmas.cz/knihy/565902/avicenna/",
+    "description": "Avicenna - Meryem Sebtiová",
+    "authors": [
+      "Meryem Sebtiová"
+    ],
+    "date": "2026-03-06T06:24:49.615299+00:00"
+  },
+  {
+    "title": "Neuronální člověk",
+    "url": "https://www.kosmas.cz/knihy/565903/neuronalni-clovek/",
+    "description": "Neuronální člověk - Catherine Malabou",
+    "authors": [
+      "Catherine Malabou"
+    ],
+    "date": "2026-03-06T06:24:48.615299+00:00"
+  },
+  {
+    "title": "Když se řekne komunitní práce",
+    "url": "https://www.kosmas.cz/knihy/565905/kdyz-se-rekne-komunitni-prace/",
+    "description": "Když se řekne komunitní práce - Eliška Hudcová, Jaroslava Šťastná",
+    "authors": [
+      "Eliška Hudcová",
+      "Jaroslava Šťastná"
+    ],
+    "date": "2026-03-06T06:24:47.615299+00:00"
+  },
+  {
+    "title": "Stranou zájmu, pod státním dohledem",
+    "url": "https://www.kosmas.cz/knihy/565906/stranou-zajmu-pod-statnim-dohledem/",
+    "description": "Stranou zájmu, pod státním dohledem - Jan Vašek",
+    "authors": [
+      "Jan Vašek"
+    ],
+    "date": "2026-03-06T06:24:46.615299+00:00"
+  },
+  {
+    "title": "Moje první svaté přijímání",
+    "url": "https://www.kosmas.cz/knihy/565967/moje-prvni-svate-prijimani/",
+    "description": "Moje první svaté přijímání - Leona Jordánová",
+    "authors": [
+      "Leona Jordánová"
+    ],
+    "date": "2026-03-06T06:24:45.615299+00:00"
+  },
+  {
+    "title": "Mezi obcí a státem",
+    "url": "https://www.kosmas.cz/knihy/565988/mezi-obci-a-statem/",
+    "description": "Mezi obcí a státem - Miroslava Breburdová, Martin Klečacký",
+    "authors": [
+      "Miroslava Breburdová",
+      "Martin Klečacký"
+    ],
+    "date": "2026-03-06T06:24:43.615299+00:00"
+  },
+  {
+    "title": "Rostliny Vysočiny v pověstech.  Stromy, keře a keříky",
+    "url": "https://www.kosmas.cz/knihy/566055/rostliny-vysociny-v-povestech.-stromy-kere-a-keriky/",
+    "description": "Rostliny Vysočiny v pověstech.  Stromy, keře a keříky - Pavel Svoboda",
+    "authors": [
+      "Pavel Svoboda"
+    ],
+    "date": "2026-03-06T06:24:42.615299+00:00"
+  },
+  {
+    "title": "František Bílek Nástin jeho života a uměleckého díla",
+    "url": "https://www.kosmas.cz/knihy/566056/frantisek-bilek-nastin-jeho-zivota-a-umeleckeho-dila/",
+    "description": "František Bílek Nástin jeho života a uměleckého díla - Stanislav Kodym",
+    "authors": [
+      "Stanislav Kodym"
+    ],
+    "date": "2026-03-06T06:24:41.615299+00:00"
+  },
+  {
+    "title": "Prvňáčci a jejich mazlíčci",
+    "url": "https://www.kosmas.cz/knihy/566058/prvnacci-a-jejich-mazlicci/",
+    "description": "Prvňáčci a jejich mazlíčci - Zuzana Pospíšilová",
+    "authors": [
+      "Zuzana Pospíšilová"
+    ],
+    "date": "2026-03-06T06:24:40.615299+00:00"
+  },
+  {
     "title": "Dvůr havranů a zkázy",
     "url": "https://www.kosmas.cz/knihy/565676/dvur-havranu-a-zkazy/",
     "description": "Dvůr havranů a zkázy - Eliza Raine",
@@ -1637,150 +1782,5 @@
       "Martin Faith"
     ],
     "date": "2026-02-23T08:23:09.186166+00:00"
-  },
-  {
-    "title": "Cviky na vaši bolest",
-    "url": "https://www.kosmas.cz/knihy/565559/cviky-na-vasi-bolest/",
-    "description": "Cviky na vaši bolest - Kamil Ramík",
-    "authors": [
-      "Kamil Ramík"
-    ],
-    "date": "2026-02-23T08:23:08.186166+00:00"
-  },
-  {
-    "title": "Svět podle Lízy",
-    "url": "https://www.kosmas.cz/knihy/565651/svet-podle-lizy/",
-    "description": "Svět podle Lízy - Lora Slámová",
-    "authors": [
-      "Lora Slámová"
-    ],
-    "date": "2026-02-23T08:23:07.186166+00:00"
-  },
-  {
-    "title": "Čas zvratu",
-    "url": "https://www.kosmas.cz/knihy/565652/cas-zvratu/",
-    "description": "Čas zvratu - Lora Slámová",
-    "authors": [
-      "Lora Slámová"
-    ],
-    "date": "2026-02-23T08:23:06.186166+00:00"
-  },
-  {
-    "title": "Devět pokračování",
-    "url": "https://www.kosmas.cz/knihy/565654/devet-pokracovani/",
-    "description": "Devět pokračování - Adam Brožík",
-    "authors": [
-      "Adam Brožík"
-    ],
-    "date": "2026-02-23T08:23:05.186166+00:00"
-  },
-  {
-    "title": "Profesorka",
-    "url": "https://www.kosmas.cz/knihy/562419/profesorka/",
-    "description": "Profesorka - Freida McFadden",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "date": "2026-02-23T08:23:04.186166+00:00"
-  },
-  {
-    "title": "Klíč stínů",
-    "url": "https://www.kosmas.cz/knihy/560835/klic-stinu/",
-    "description": "Klíč stínů - Susan Stokes-Chapman",
-    "authors": [
-      "Susan Stokes-Chapman"
-    ],
-    "date": "2026-02-23T08:23:03.186166+00:00"
-  },
-  {
-    "title": "Dům bez hodin",
-    "url": "https://www.kosmas.cz/knihy/565673/dum-bez-hodin/",
-    "description": "Dům bez hodin - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-02-23T08:23:02.186166+00:00"
-  },
-  {
-    "title": "Kvantová struktura zákonů II",
-    "url": "https://www.kosmas.cz/knihy/565674/kvantova-struktura-zakonu-ii/",
-    "description": "Kvantová struktura zákonů II - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-02-23T08:23:01.186166+00:00"
-  },
-  {
-    "title": "Kvantový celek III",
-    "url": "https://www.kosmas.cz/knihy/565675/kvantovy-celek-iii/",
-    "description": "Kvantový celek III - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-02-23T08:23:00.186166+00:00"
-  },
-  {
-    "title": "Klamy a manipulace napříč staletími",
-    "url": "https://www.kosmas.cz/knihy/565679/klamy-a-manipulace-napric-staletimi/",
-    "description": "Klamy a manipulace napříč staletími - Tomáš Kolomazník, Zdeněk Rod",
-    "authors": [
-      "Tomáš Kolomazník",
-      "Zdeněk Rod"
-    ],
-    "date": "2026-02-23T08:22:59.186166+00:00"
-  },
-  {
-    "title": "Po kom se to jmenuje...?",
-    "url": "https://www.kosmas.cz/knihy/565680/po-kom-se-to-jmenuje/",
-    "description": "Po kom se to jmenuje...? - Jiří Martínek",
-    "authors": [
-      "Jiří Martínek"
-    ],
-    "date": "2026-02-23T08:22:58.186166+00:00"
-  },
-  {
-    "title": "Svědkyně na útěku",
-    "url": "https://www.kosmas.cz/knihy/565681/svedkyne-na-uteku/",
-    "description": "Svědkyně na útěku - Daniela Hartig",
-    "authors": [
-      "Daniela Hartig"
-    ],
-    "date": "2026-02-23T08:22:57.186166+00:00"
-  },
-  {
-    "title": "Odvaha letět",
-    "url": "https://www.kosmas.cz/knihy/565682/odvaha-letet/",
-    "description": "Odvaha letět - Rebecca Yarros",
-    "authors": [
-      "Rebecca Yarros"
-    ],
-    "date": "2026-02-23T08:22:56.186166+00:00"
-  },
-  {
-    "title": "Kapybary na útěku",
-    "url": "https://www.kosmas.cz/knihy/565683/kapybary-na-uteku/",
-    "description": "Kapybary na útěku - Matthäus Bär",
-    "authors": [
-      "Matthäus Bär"
-    ],
-    "date": "2026-02-23T08:22:55.186166+00:00"
-  },
-  {
-    "title": "Až příliš krásná",
-    "url": "https://www.kosmas.cz/knihy/565685/az-prilis-krasna/",
-    "description": "Až příliš krásná - Tammy Greenwood",
-    "authors": [
-      "Tammy Greenwood"
-    ],
-    "date": "2026-02-23T08:22:54.186166+00:00"
-  },
-  {
-    "title": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše",
-    "url": "https://www.kosmas.cz/knihy/565686/s-povestmi-za-dobrodruzstvim-ve-sluzbach-knezny-libuse/",
-    "description": "S pověstmi za dobrodružstvím – Ve službách kněžny Libuše - Hana Kneblová",
-    "authors": [
-      "Hana Kneblová"
-    ],
-    "date": "2026-02-23T08:22:53.186166+00:00"
   }
 ]

@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-06 06:24:57 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Temné břehy
+2. Raketa 46
+3. Collaborative & Conscious Material Design
+4. The Look of the Internalized Machine Gaze
+5. Walking as Embodied Worldmaking
+6. Sociální souvislosti aktivního stáří
+7. Fonetika a fonologie současné španělštiny
+8. Avicenna
+9. Neuronální člověk
+10. Když se řekne komunitní práce
+11. Stranou zájmu, pod státním dohledem
+12. Moje první svaté přijímání
+13. Mezi obcí a státem
+14. Rostliny Vysočiny v pověstech.  Stromy, keře a keříky
+15. František Bílek Nástin jeho života a uměleckého díla
+16. Prvňáčci a jejich mazlíčci
+
+---
+
+## 🕐 2026-03-06 06:24:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Normalizácia po slovensky
+
+---
+
 ## 🕐 2026-03-05 06:26:40 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -302,52 +345,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Smějící se bohové
-
----
-
-## 🕐 2026-02-26 06:30:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Gurdžijev a divadlo
-2. Zlomené čepele: Čtyři padlé říše - kniha druhá
-3. Hračkář
-4. Žízeň po životě
-5. Záhada na zámku Styles
-6. Dreamworld
-7. Ostrov
-8. Turbo-venkov
-9. Nadělení
-10. Pozdě v listopadu
-11. Neviditelné dítě a jiné příběhy
-12. Nepokojná mysl
-13. Poslední slza
-14. Popy a zahrada
-15. ÓÓÓ aneb Velké žvýkačkové neštěstí
-16. Nemáte šanci
-17. Kapybary na útěku
-18. Kořeny ženské spirituality
-19. S pověstmi za dobrodružstvím – Ve službách kněžny Libuše
-
----
-
-## 🕐 2026-02-26 06:30:28 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Konec pulpu
 
 ---
 

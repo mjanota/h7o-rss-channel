@@ -432,14 +432,6 @@
     "category": "téma"
   },
   {
-    "title": "Právo na nudu",
-    "url": "https://www.h7o.cz/clanky/14389-pravo-na-nudu",
-    "description": "Podle psychologů v současnosti čelíme „epidemii nudy“. Nudíme se čím dál víc a nudíme se všichni. Jak je to při neustálém přísunu nových informací a vzruchů možné? V rámci sobotního čtení přinášíme text filozofa Ondřeje Galušky z tématu listopadového čísla Hosta.",
-    "date": "2025-12-06T00:00:00",
-    "author": "Ondřej Galuška",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-03-04T00:00:00",
     "author": "Petr Nagy",
     "category": "zprávy"
+  },
+  {
+    "title": "Normalizácia po slovensky",
+    "url": "https://www.h7o.cz/clanky/14459-normalizacia-po-slovensky",
+    "description": "Březen je tu, v něm další válka a další převracení otázek po tom, co je ještě normální. Pavel Sibyla, slovenský spisovatel a publicista, přijal výzvu věnovat Hostu sérii březnových sloupků. Ten první je o vnitřní normalizaci na pozadí něčeho, co možná zkratkovitě nazýváme normalizací po slovensku.",
+    "date": "2026-03-05T00:00:00",
+    "author": "Pavel Sibyla",
+    "category": "seriál"
   }
 ]

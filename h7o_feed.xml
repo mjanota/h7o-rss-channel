@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 05 Mar 2026 06:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 06:24:56 +0000</lastBuildDate>
+    <item>
+      <title>Normalizácia po slovensky</title>
+      <link>https://www.h7o.cz/clanky/14459-normalizacia-po-slovensky</link>
+      <description>Březen je tu, v něm další válka a další převracení otázek po tom, co je ještě normální. Pavel Sibyla, slovenský spisovatel a publicista, přijal výzvu věnovat Hostu sérii březnových sloupků. Ten první je o vnitřní normalizaci na pozadí něčeho, co možná zkratkovitě nazýváme normalizací po slovensku.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14459-normalizacia-po-slovensky</guid>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Není ceny bez nominace</title>
       <link>https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace</link>
@@ -435,13 +442,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Svazek Camusovy publicistiky „Úvahy o terorismu“ je příležitostí konfrontovat autorovo politické myšlení se současným dění, píše Jan Němec. Co by si Camus myslel o Hamásu a co o Netanjahuovi?</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14391-s-camusem-v-gaze</guid>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Právo na nudu</title>
-      <link>https://www.h7o.cz/clanky/14389-pravo-na-nudu</link>
-      <description>Podle psychologů v současnosti čelíme „epidemii nudy“. Nudíme se čím dál víc a nudíme se všichni. Jak je to při neustálém přísunu nových informací a vzruchů možné? V rámci sobotního čtení přinášíme text filozofa Ondřeje Galušky z tématu listopadového čísla Hosta.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14389-pravo-na-nudu</guid>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
