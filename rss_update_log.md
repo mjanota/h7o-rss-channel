@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-07 06:18:50 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Marcus Aurelius - Stoický císař
+2. Rumcajs, Manka a Cipísek. Pohádky z lesa Řáholce
+3. Formule 1 - 2026
+4. Háčkování pro každého
+5. Operace Bagration
+6. Co kdyby...se Československo v roce 1938 bránilo?
+7. Všichni panovníci českých zemí (měkká vazba) + plakát
+8. Náměstí Práce
+9. Reflexe č.69
+10. Spasitel
+11. Dějiny Grónska
+12. Temné břehy
+13. Osudy vnučky císařovny Sisi - Rebelka Erzsi
+14. Deadstream
+15. Putování slonů
+16. Digitální antitrust
+17. Příliš dlouhá swingers párty
+18. Václav IV. - Na zármutek nezbyl čas
+
+---
+
+## 🕐 2026-03-07 06:18:49 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Madlenka Jiřího Kotena
+
+---
+
 ## 🕐 2026-03-06 06:24:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,100 +296,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-02-28 06:17:01 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Hodnocení v primárním vzdělávání
-2. Parrésia XVIII–XIX (2024–2025)
-3. Stezkami přírodovědného poznání
-4. Velká samolepková knížka Peppa má ráda zvířátka
-5. Moje omalovánky Ledové království
-6. Moje omalovánky Tlapková patrola
-7. Omalovánkový set Lilo & Stitch
-8. Omalovánkový set Ledové království
-9. Divoká příroda - kniha aktivit
-10. Karate Kouč Manuál
-11. Teorie a didaktika karate
-12. Začínáme se suchozemskými želvami
-13. Zákon smečky (4) - Trnitá cesta
-14. Zákon smečky (6) - Psí běsnění
-15. Modřanský Mikeš
-16. Šeptalky: Sestry, které mluví s duchy
-17. Povídky s X
-18. Velká knížka - Hurá na hory pro malé vypravěče
-19. Velká knížka - Hurá k vodě pro malé vypravěče
-20. Velká knížka - Halloween pro malé vypravěče
-
----
-
-## 🕐 2026-02-28 06:17:00 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Alexandr? Alexandre!
-
----
-
-## 🕐 2026-02-27 06:26:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Cinepur 163
-2. Putování
-3. Průvodce dějinami celnictví v českých zemích - 2. díl
-4. Astrošimpanz
-5. Život je změna
-6. Beranidlo imaginace
-7. Kde je pan Traktor? Knížka do kočárku
-8. V lese - poslouchej a hledej
-9. 555 samolepek - Staveniště
-10. 555 samolepek - Vlaky
-11. 555 samolepek - Příšerky
-12. Čínská medicína pro zdravou mysl
-13. Záře
-14. Život
-15. Antistresové vykreslovánky
-16. Před oponou, za oponou: Letiště
-17. Tvarované leporelo se zvuky - Podzim
-18. Tvarované leporelo se zvuky - Zima
-19. Tvarované leporelo se zvuky - Divočina
-20. Tajemství táborského Jordánu
-
----
-
-## 🕐 2026-02-27 06:26:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Smějící se bohové
 
 ---
 
