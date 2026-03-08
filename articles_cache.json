@@ -424,14 +424,6 @@
     "category": "recenze"
   },
   {
-    "title": "S Camusem v Gaze",
-    "url": "https://www.h7o.cz/clanky/14391-s-camusem-v-gaze",
-    "description": "Svazek Camusovy publicistiky „Úvahy o terorismu“ je příležitostí konfrontovat autorovo politické myšlení se současným dění, píše Jan Němec. Co by si Camus myslel o Hamásu a co o Netanjahuovi?",
-    "date": "2025-12-08T00:00:00",
-    "author": "Jan Němec",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -501,6 +493,14 @@
     "description": "Mezi širší nominace Magnesie Litery za poezii zařadila porota sbírku „Směsné strofy“ Jiřího Kotena. Básníka a literárního teoretika zpovídáme v našem proustovském dotazníku třeba o tom, jaká je jeho největší extravagance nebo kterou knihu považuje za nejpřeceňovanější.",
     "date": "2026-03-06T00:00:00",
     "author": "redakce",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Nevěřím v globální řešení, ale v globální konektivitu",
+    "url": "https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu",
+    "description": "Tento text vznikl jako živé pokračování rozhovoru s filozofem a sociologem Václavem Bělohradským pro únorový Host. Nad českými koláčky od Bulhara a italskou kávou jsme prohloubili hovory o společnosti „z doby těsně před koncem“, rozpoznávání smyslu či ozdravných účincích rozpadu dějin.",
+    "date": "2026-03-07T00:00:00",
+    "author": "Josefína Formanová",
     "category": "rozhovor"
   }
 ]

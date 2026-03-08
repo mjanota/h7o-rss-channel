@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-08 06:22:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. Štafeta
+2. Tonja. Malý hrom z hor
+3. Stalker: Desková hra
+4. W.I.T.C.H. Komiks 4-6
+5. W.I.T.C.H. Komiks 7-9
+6. Stvoření
+7. Óda na život
+8. Návod na vraždu pro hodné holky – sběratelská edice
+9. Nemám hlas jako zvon
+
+---
+
+## 🕐 2026-03-08 06:21:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Nevěřím v globální řešení, ale v globální konektivitu
+
+---
+
 ## 🕐 2026-03-07 06:18:50 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

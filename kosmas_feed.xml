@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 07 Mar 2026 06:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:22:00 +0000</lastBuildDate>
+    <item>
+      <title>Štafeta</title>
+      <link>https://www.kosmas.cz/knihy/564756/stafeta/</link>
+      <description>Štafeta - Maiko Seo</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564756/stafeta/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tonja. Malý hrom z hor</title>
+      <link>https://www.kosmas.cz/knihy/564831/tonja.-maly-hrom-z-hor/</link>
+      <description>Tonja. Malý hrom z hor - Maria Parrová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564831/tonja.-maly-hrom-z-hor/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stalker: Desková hra</title>
+      <link>https://www.kosmas.cz/knihy/565048/stalker-deskova-hra/</link>
+      <description>Stalker: Desková hra - Paweł Samborski</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565048/stalker-deskova-hra/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>W.I.T.C.H. Komiks 4-6</title>
+      <link>https://www.kosmas.cz/knihy/565104/w.i.t.c.h.-komiks-4-6/</link>
+      <description>W.I.T.C.H. Komiks 4-6 - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565104/w.i.t.c.h.-komiks-4-6/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>W.I.T.C.H. Komiks 7-9</title>
+      <link>https://www.kosmas.cz/knihy/565105/w.i.t.c.h.-komiks-7-9/</link>
+      <description>W.I.T.C.H. Komiks 7-9 - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565105/w.i.t.c.h.-komiks-7-9/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stvoření</title>
+      <link>https://www.kosmas.cz/knihy/565429/stvoreni/</link>
+      <description>Stvoření - Lydie Romanská</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565429/stvoreni/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Óda na život</title>
+      <link>https://www.kosmas.cz/knihy/565470/oda-na-zivot/</link>
+      <description>Óda na život - Gisèle Pelicot</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565470/oda-na-zivot/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Návod na vraždu pro hodné holky – sběratelská edice</title>
+      <link>https://www.kosmas.cz/knihy/565705/navod-na-vrazdu-pro-hodne-holky-sberatelska-edice/</link>
+      <description>Návod na vraždu pro hodné holky – sběratelská edice - Holly Jacksonová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565705/navod-na-vrazdu-pro-hodne-holky-sberatelska-edice/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nemám hlas jako zvon</title>
+      <link>https://www.kosmas.cz/knihy/565725/nemam-hlas-jako-zvon/</link>
+      <description>Nemám hlas jako zvon - František Ringo Čech, Jiří Schelinger</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565725/nemam-hlas-jako-zvon/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:21:44 +0000</pubDate>
+    </item>
     <item>
       <title>Marcus Aurelius - Stoický císař</title>
       <link>https://www.kosmas.cz/knihy/565296/marcus-aurelius-stoicky-cisar/</link>
@@ -644,69 +707,6 @@
       <description>Hříchy Hollywoodu - Alessandra Torre</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565990/hrichy-hollywoodu/</guid>
       <pubDate>Tue, 03 Mar 2026 06:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miláčku, zdechni!</title>
-      <link>https://www.kosmas.cz/knihy/565991/milacku-zdechni/</link>
-      <description>Miláčku, zdechni! - Danka Štoflová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565991/milacku-zdechni/</guid>
-      <pubDate>Tue, 03 Mar 2026 06:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Úvod do dějin umění v učitelství dějepisu základní školy</title>
-      <link>https://www.kosmas.cz/knihy/551249/uvod-do-dejin-umeni-v-ucitelstvi-dejepisu-zakladni-skoly/</link>
-      <description>Úvod do dějin umění v učitelství dějepisu základní školy - Kamil Štěpánek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/551249/uvod-do-dejin-umeni-v-ucitelstvi-dejepisu-zakladni-skoly/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moje omalovánky Prasátko Peppa</title>
-      <link>https://www.kosmas.cz/knihy/565553/moje-omalovanky-prasatko-peppa/</link>
-      <description>Moje omalovánky Prasátko Peppa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565553/moje-omalovanky-prasatko-peppa/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moje omalovánky Spidey</title>
-      <link>https://www.kosmas.cz/knihy/565554/moje-omalovanky-spidey/</link>
-      <description>Moje omalovánky Spidey</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565554/moje-omalovanky-spidey/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omalovánkový set Tlapková Patrola</title>
-      <link>https://www.kosmas.cz/knihy/565564/omalovankovy-set-tlapkova-patrola/</link>
-      <description>Omalovánkový set Tlapková Patrola</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565564/omalovankovy-set-tlapkova-patrola/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velká knížka - Vánoce pro malé vypravěče</title>
-      <link>https://www.kosmas.cz/knihy/565764/velka-knizka-vanoce-pro-male-vypravece/</link>
-      <description>Velká knížka - Vánoce pro malé vypravěče - Carolin Görtler</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565764/velka-knizka-vanoce-pro-male-vypravece/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bylo nás pět</title>
-      <link>https://www.kosmas.cz/knihy/565808/bylo-nas-pet/</link>
-      <description>Bylo nás pět - Karel Poláček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565808/bylo-nas-pet/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bílá nemoc</title>
-      <link>https://www.kosmas.cz/knihy/565809/bila-nemoc/</link>
-      <description>Bílá nemoc - Karel Čapek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565809/bila-nemoc/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extrémní sudoku (zelené)</title>
-      <link>https://www.kosmas.cz/knihy/565811/extremni-sudoku-zelene/</link>
-      <description>Extrémní sudoku (zelené)</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565811/extremni-sudoku-zelene/</guid>
-      <pubDate>Mon, 02 Mar 2026 06:29:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 07 Mar 2026 06:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:21:59 +0000</lastBuildDate>
+    <item>
+      <title>Nevěřím v globální řešení, ale v globální konektivitu</title>
+      <link>https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu</link>
+      <description>Tento text vznikl jako živé pokračování rozhovoru s filozofem a sociologem Václavem Bělohradským pro únorový Host. Nad českými koláčky od Bulhara a italskou kávou jsme prohloubili hovory o společnosti „z doby těsně před koncem“, rozpoznávání smyslu či ozdravných účincích rozpadu dějin.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Madlenka Jiřího Kotena</title>
       <link>https://www.h7o.cz/clanky/14462-madlenka-jiriho-kotena</link>
@@ -442,13 +449,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Před pěti lety uspořádala Dánská královská knihovna výstavu artefaktů přibližujících tvorbu a život Nicka Cavea. Prostory zaplnily fotografie, dokumenty a další archiválie s Caveovým otiskem. Nyní je výstava převedena do virtuální podoby a umožňuje proklikat se jeho poklady.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14392-vsichni-jsme-trochu-jako-nick-cave</guid>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>S Camusem v Gaze</title>
-      <link>https://www.h7o.cz/clanky/14391-s-camusem-v-gaze</link>
-      <description>Svazek Camusovy publicistiky „Úvahy o terorismu“ je příležitostí konfrontovat autorovo politické myšlení se současným dění, píše Jan Němec. Co by si Camus myslel o Hamásu a co o Netanjahuovi?</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14391-s-camusem-v-gaze</guid>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
