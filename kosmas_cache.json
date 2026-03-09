@@ -1,5 +1,21 @@
 [
   {
+    "title": "Smrt",
+    "url": "https://www.kosmas.cz/knihy/563727/smrt/",
+    "description": "Smrt - Laura Thalassa",
+    "authors": [
+      "Laura Thalassa"
+    ],
+    "date": "2026-03-09T06:32:34.579000+00:00"
+  },
+  {
+    "title": "Ponorky druhé světové války",
+    "url": "https://www.kosmas.cz/knihy/565860/ponorky-druhe-svetove-valky/",
+    "description": "Ponorky druhé světové války",
+    "authors": [],
+    "date": "2026-03-09T06:32:16.579000+00:00"
+  },
+  {
     "title": "Štafeta",
     "url": "https://www.kosmas.cz/knihy/564756/stafeta/",
     "description": "Štafeta - Maiko Seo",
@@ -1754,23 +1770,5 @@
       "Jaroslav Olša jr."
     ],
     "date": "2026-02-25T06:33:15.159467+00:00"
-  },
-  {
-    "title": "Dubliňané",
-    "url": "https://www.kosmas.cz/knihy/565798/dublinane/",
-    "description": "Dubliňané - James Joyce",
-    "authors": [
-      "James Joyce"
-    ],
-    "date": "2026-02-25T06:33:14.159467+00:00"
-  },
-  {
-    "title": "Kolo času: Cesta nožů",
-    "url": "https://www.kosmas.cz/knihy/564767/kolo-casu-cesta-nozu/",
-    "description": "Kolo času: Cesta nožů - Robert Jordan",
-    "authors": [
-      "Robert Jordan"
-    ],
-    "date": "2026-02-25T06:33:13.159467+00:00"
   }
 ]

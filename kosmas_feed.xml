@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 08 Mar 2026 06:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:32:34 +0000</lastBuildDate>
+    <item>
+      <title>Smrt</title>
+      <link>https://www.kosmas.cz/knihy/563727/smrt/</link>
+      <description>Smrt - Laura Thalassa</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563727/smrt/</guid>
+      <pubDate>Mon, 09 Mar 2026 06:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponorky druhé světové války</title>
+      <link>https://www.kosmas.cz/knihy/565860/ponorky-druhe-svetove-valky/</link>
+      <description>Ponorky druhé světové války</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565860/ponorky-druhe-svetove-valky/</guid>
+      <pubDate>Mon, 09 Mar 2026 06:32:16 +0000</pubDate>
+    </item>
     <item>
       <title>Štafeta</title>
       <link>https://www.kosmas.cz/knihy/564756/stafeta/</link>
@@ -693,20 +707,6 @@
       <description>Šepot ve tmě - Tessa Reed</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565980/sepot-ve-tme/</guid>
       <pubDate>Tue, 03 Mar 2026 06:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bohové na Marsu</title>
-      <link>https://www.kosmas.cz/knihy/565989/bohove-na-marsu/</link>
-      <description>Bohové na Marsu - Edgar Rice Burroughs</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565989/bohove-na-marsu/</guid>
-      <pubDate>Tue, 03 Mar 2026 06:26:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hříchy Hollywoodu</title>
-      <link>https://www.kosmas.cz/knihy/565990/hrichy-hollywoodu/</link>
-      <description>Hříchy Hollywoodu - Alessandra Torre</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565990/hrichy-hollywoodu/</guid>
-      <pubDate>Tue, 03 Mar 2026 06:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 08 Mar 2026 06:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:32:33 +0000</lastBuildDate>
     <item>
       <title>Nevěřím v globální řešení, ale v globální konektivitu</title>
       <link>https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu</link>
@@ -442,13 +442,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Populární internetový antikvariát bude finančně podporovat spisovatele i literární projekty. Peníze budou z prodejů nových knih.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14398-knihobot-spousti-program-na-podporu-ceske-literatury</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Všichni jsme trochu jako Nick Cave</title>
-      <link>https://www.h7o.cz/clanky/14392-vsichni-jsme-trochu-jako-nick-cave</link>
-      <description>Před pěti lety uspořádala Dánská královská knihovna výstavu artefaktů přibližujících tvorbu a život Nicka Cavea. Prostory zaplnily fotografie, dokumenty a další archiválie s Caveovým otiskem. Nyní je výstava převedena do virtuální podoby a umožňuje proklikat se jeho poklady.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14392-vsichni-jsme-trochu-jako-nick-cave</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
