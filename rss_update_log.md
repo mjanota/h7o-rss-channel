@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-10 06:25:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Mystické příběhy pragmatika
+2. Luštění s Garfieldem 2
+3. Solo Leveling 7
+4. Batman 6: Stav strachu
+5. Václav IV. - Na zármutek nezbyl čas
+6. Svědek vraždy
+7. Sakamoto Days 11: Šleha
+8. Milán Cortina 2026
+9. Rychlé šípy - sběratelské vydání - 1. díl
+10. Kuchařka při onemocnění slinivky
+11. Bezezbytková dieta při onemocnění střev
+12. Rósa a Björk
+13. Petr Císařovský Sedm bran / The Seven Gates
+14. Medailistka 1
+15. Na Izraeli záleží
+16. Na skok do divočiny - Příběh podle filmu
+17. Zemětřesení 0.1 / Epicentrum
+18. One Piece - Sběratelský box, část 2: Písečné království
+19. Zaklínač: Konec světa / Otázka ceny
+
+---
+
+## 🕐 2026-03-10 06:24:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Dějiny uzavřené v bytě
+
+---
+
 ## 🕐 2026-03-09 06:32:34 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

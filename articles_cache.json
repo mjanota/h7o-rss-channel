@@ -408,14 +408,6 @@
     "category": "seriál"
   },
   {
-    "title": "Knihobot spouští program na podporu české literatury",
-    "url": "https://www.h7o.cz/clanky/14398-knihobot-spousti-program-na-podporu-ceske-literatury",
-    "description": "Populární internetový antikvariát bude finančně podporovat spisovatele i literární projekty. Peníze budou z prodejů nových knih.",
-    "date": "2025-12-10T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-03-07T00:00:00",
     "author": "Josefína Formanová",
     "category": "rozhovor"
+  },
+  {
+    "title": "Dějiny uzavřené v bytě",
+    "url": "https://www.h7o.cz/clanky/14463-dejiny-uzavrene-v-byte",
+    "description": "Platforma HBO Max nabízí dvoudílnou televizní adaptaci druhého románu Kateřiny Tučkové „Vyhnání Gerty Schnirch“. Vyhnání z názvu zmizelo, jméno protagonistky zůstalo. Co dalšího je jinak a jak se adaptace povedla? Více v recenzi Kamila Činátla.",
+    "date": "2026-03-09T00:00:00",
+    "author": "Kamil Činátl",
+    "category": "recenze"
   }
 ]
