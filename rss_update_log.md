@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-11 06:26:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Zmatky
+2. Ripley pod zemí
+3. Saháme po hvězdách
+4. Kovboj na útěku
+5. 300 sudoku do kapsy
+6. U potoka
+7. Nikdy není pozdě
+8. Jeremyho farma nejen zvířat - Až prasata budou lítat
+9. Kletba říše Nyx
+10. Jak zvířata přišla ke své pověsti
+11. Kyselé bonbony
+12. Zotročení vášňou
+13. Narcis
+14. Nebezpečná smlouva
+15. Siciliánova náruč
+16. Sněhurka v plamenech
+17. Návštěva ve Florencii
+18. Abys o něm nevěděl
+19. Řekl si o ni o Vánocích
+
+---
+
+## 🕐 2026-03-11 06:26:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Boje zamilovaného muže
+
+---
+
 ## 🕐 2026-03-10 06:25:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,99 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Není ceny bez nominace
-
----
-
-## 🕐 2026-03-04 06:24:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Zletounova zhouba
-2. Co nevíme o slepicích
-3. Jak řešit logické úlohy z matematiky: Převody jednotek
-4. Pracovní sešit předškoláka 4
-5. Příručka pro malé rybáře a rybářky
-6. Skutečné zločiny na Plzeňsku 3
-7. Vážení truchlící a ostatní hosté
-8. Báječná léta s Jawou
-9. Žár Věčného plamene
-10. Útěk z videohry: Tajemství ostrova přízraků
-11. Naše malé tajemství
-12. Zběsilý lov
-13. Hvězdy fotbalového hřiště - Ronaldo
-14. Městečko
-15. Prokletý kraj
-16. Můj rok 1968
-17. Chladný Casanova
-18. Hvězdy formule 1 - Lewis Hamilton
-19. Jak řešit náročnější úlohy z češtiny
-20. Pečujeme v závěru života
-
----
-
-## 🕐 2026-03-04 06:24:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Bedekr po novém Polsku
-
----
-
-## 🕐 2026-03-03 06:26:19 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Od textu ke knize a knižní kultuře
-2. Bridgertonovi: Vikomt, který mě miloval
-3. Bridgertonovi: Nevhodný návrh
-4. Můj stát. Putování za prezidenty
-5. Umění 4/2025
-6. Maturita: Český jazyk a literatura – Kompletní průvodce přípravou na didaktický test
-7. Vraždy v Cherringhamu - Smrt za letní noci
-8. Žití, snění, umírání.
-9. Host 2026/2
-10. Dunwichský horor
-11. Sherlock Holmes: Perla z Indie
-12. Bestie ve stínech
-13. Živá zahrada jako důkaz
-14. Protestant 2026/2
-15. Když něco nesedí
-16. Šepot ve tmě
-17. Bohové na Marsu
-18. Hříchy Hollywoodu
-19. Miláčku, zdechni!
-
----
-
-## 🕐 2026-03-03 06:26:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Rozzuřený boomer mezi trapností a věčností
 
 ---
 

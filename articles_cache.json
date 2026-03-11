@@ -400,14 +400,6 @@
     "category": "téma"
   },
   {
-    "title": "In memoriam Núruddín Adnán Hažžáž",
-    "url": "https://www.h7o.cz/clanky/14393-in-memoriam-nuruddin-adnan-hazzaz",
-    "description": "Až do Vánoc patří seriálové čtvrtky textům palestinských autorek a autorů, kteří byli zabiti během okupace Gazy izraelskou armádou. Texty jsou doplněné prozaickými, básnickými či esejistickými reakcemi českých autorek a autorů — v konverzaci nezávislé na hranicích států a limitech lidského života.",
-    "date": "2025-12-11T00:00:00",
-    "author": "Vesna Evans",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -493,6 +485,14 @@
     "description": "Platforma HBO Max nabízí dvoudílnou televizní adaptaci druhého románu Kateřiny Tučkové „Vyhnání Gerty Schnirch“. Vyhnání z názvu zmizelo, jméno protagonistky zůstalo. Co dalšího je jinak a jak se adaptace povedla? Více v recenzi Kamila Činátla.",
     "date": "2026-03-09T00:00:00",
     "author": "Kamil Činátl",
+    "category": "recenze"
+  },
+  {
+    "title": "Boje zamilovaného muže",
+    "url": "https://www.h7o.cz/clanky/14464-boje-zamilovaneho-muze",
+    "description": "„Psaní se stává prostředkem, jak se přihlásit o slovo, aniž by bylo třeba zvyšovat hlas.“\nI tím se projevuje postava adaptace nejoceňovanější části románové hexalogie „Můj boj“ Karla Oveho Knausgårda, „Zamilovaný muž“, kterou v loňském roce nastudovalo Divadlo Na Zábradlí.",
+    "date": "2026-03-10T00:00:00",
+    "author": "Šárka Lojdová",
     "category": "recenze"
   }
 ]
