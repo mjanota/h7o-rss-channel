@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-12 06:27:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Vzplanutí
+2. Tady Vorel, pitevna
+3. Válka rybníkářů
+4. Srdce z ledu
+5. Legendy a latéčka - speciální edice
+6. Hříšný jako Brody
+7. MORDYDY - Islandika
+8. Šťastně i po smrti
+9. Juditino tajemství
+10. Dcery květin: Islandské tajemství
+11. Měsíční zahrada
+12. Železný půlměsíc
+13. Zaječí kamarádi Hup a Hop
+14. Láska bez masek
+15. Pět typů bohatství
+16. Wolf.e
+17. Lásky z kampusu: Metoda
+
+---
+
+## 🕐 2026-03-12 06:27:45 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Zadlužené knihy
+
+---
+
 ## 🕐 2026-03-11 06:26:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,52 +287,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Normalizácia po slovensky
-
----
-
-## 🕐 2026-03-05 06:26:40 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Dvůr havranů a zkázy
-2. 92. policejní revír se hlásí...
-3. Smrt programátora
-4. Vlna vzteku
-5. Kovboj na útěku
-6. Slovo Buddhovo
-7. Život a práce s AI
-8. Rodinka ze 141. ulice a skrytá zahrada
-9. Až uvidíš moře
-10. Keramická hlína
-11. Na dobré stopě - Učení Fráni Drtikola
-12. Full Moon 179/2026
-13. Historicus inter saecula movens
-14. Od trestu k terapii
-15. Prague, Jan Hus and Prague University
-16. Templáři
-17. Vyšší Brod 42
-18. Mluv se mnou
-19. Kočička Hamley a první kouzla
-
----
-
-## 🕐 2026-03-05 06:26:39 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Není ceny bez nominace
 
 ---
 

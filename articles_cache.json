@@ -392,14 +392,6 @@
     "category": "téma"
   },
   {
-    "title": "Cena literární kritiky: Sbírky 3. čtvrtletí 2025",
-    "url": "https://www.h7o.cz/clanky/14399-cena-literarni-kritiky-sbirky-3-ctvrtleti-2025",
-    "description": "Letos už pátá debata Ceny literární kritiky proběhla v ostravském Centru Pant. Diskutovalo se o sbírkách Tomáše Gabriela, Radovana Jursy, Jana Musila, Pavla Novotného a dalších sbírkách vydaných v závěru letošního roku.",
-    "date": "2025-12-12T00:00:00",
-    "author": "Ondřej Nezbeda",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-03-10T00:00:00",
     "author": "Šárka Lojdová",
     "category": "recenze"
+  },
+  {
+    "title": "Zadlužené knihy",
+    "url": "https://www.h7o.cz/clanky/14467-zadluzene-knihy",
+    "description": "Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.",
+    "date": "2026-03-11T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 11 Mar 2026 06:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:27:45 +0000</lastBuildDate>
+    <item>
+      <title>Zadlužené knihy</title>
+      <link>https://www.h7o.cz/clanky/14467-zadluzene-knihy</link>
+      <description>Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14467-zadluzene-knihy</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Boje zamilovaného muže</title>
       <link>https://www.h7o.cz/clanky/14464-boje-zamilovaneho-muze</link>
@@ -436,13 +443,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Tomio Okamura v zahradnickém odění seká kartony s rozpočtovými položkami křovinořezem. Zdeněk Hřib pronikající do meme kultury generace alfa jako „Hřibidi toilet“. Alena Schillerová oslovuje mladé voliče na TikToku tetováním českého lva z brněnského majálesu. Vítejte v české cringeokracii!</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14400-vzestup-cringeokracie</guid>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cena literární kritiky: Sbírky 3. čtvrtletí 2025</title>
-      <link>https://www.h7o.cz/clanky/14399-cena-literarni-kritiky-sbirky-3-ctvrtleti-2025</link>
-      <description>Letos už pátá debata Ceny literární kritiky proběhla v ostravském Centru Pant. Diskutovalo se o sbírkách Tomáše Gabriela, Radovana Jursy, Jana Musila, Pavla Novotného a dalších sbírkách vydaných v závěru letošního roku.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14399-cena-literarni-kritiky-sbirky-3-ctvrtleti-2025</guid>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
