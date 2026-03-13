@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-13 06:26:59 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. 50 a stále v záruce
+2. 50 odstínů klidu (a kafe)
+3. Původ je cíl
+4. Lepší než pomsta
+5. Sedm smrtelných trnů
+6. Jenom chci bejt
+7. Dva krát tři pedály
+8. Úmrtníček
+9. Muminí momentky - Pohodové Cozy omalovánky
+10. Kuchařka při onemocnění jater
+11. Moje srdce mě nakoplo do života
+12. XOXO
+13. Spása
+14. Základy rybaření
+15. Vše o létání
+16. Na cestách s Jiřím Černým
+17. Hříšníku, stůj!
+18. Danred a Hladina neznáma
+19. Nosorožci a labutě
+20. CEO Marketing Manifest I.
+
+---
+
+## 🕐 2026-03-13 06:26:58 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Na polceste medzi sovietskym človekom a večným mestom
+
+---
+
 ## 🕐 2026-03-12 06:27:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,49 +291,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Madlenka Jiřího Kotena
-
----
-
-## 🕐 2026-03-06 06:24:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Temné břehy
-2. Raketa 46
-3. Collaborative & Conscious Material Design
-4. The Look of the Internalized Machine Gaze
-5. Walking as Embodied Worldmaking
-6. Sociální souvislosti aktivního stáří
-7. Fonetika a fonologie současné španělštiny
-8. Avicenna
-9. Neuronální člověk
-10. Když se řekne komunitní práce
-11. Stranou zájmu, pod státním dohledem
-12. Moje první svaté přijímání
-13. Mezi obcí a státem
-14. Rostliny Vysočiny v pověstech.  Stromy, keře a keříky
-15. František Bílek Nástin jeho života a uměleckého díla
-16. Prvňáčci a jejich mazlíčci
-
----
-
-## 🕐 2026-03-06 06:24:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Normalizácia po slovensky
 
 ---
 

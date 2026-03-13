@@ -384,14 +384,6 @@
     "category": "recenze"
   },
   {
-    "title": "Vzestup cringeokracie",
-    "url": "https://www.h7o.cz/clanky/14400-vzestup-cringeokracie",
-    "description": "Tomio Okamura v zahradnickém odění seká kartony s rozpočtovými položkami křovinořezem. Zdeněk Hřib pronikající do meme kultury generace alfa jako „Hřibidi toilet“. Alena Schillerová oslovuje mladé voliče na TikToku tetováním českého lva z brněnského majálesu. Vítejte v české cringeokracii!",
-    "date": "2025-12-13T00:00:00",
-    "author": "Jan Géryk, Jana Tokarská",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-03-11T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Na polceste medzi sovietskym človekom a večným mestom",
+    "url": "https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom",
+    "description": "Mezi Bratislavou a Římem, mezi současným a budoucím Slovenskem. Pavel Sibyla se ve druhém březnovém sloupku zamýšlí nad tím, jak se v posledních letech tvaruje slovenská občanská společnost.",
+    "date": "2026-03-12T00:00:00",
+    "author": "Pavel Sibyla",
+    "category": "seriál"
   }
 ]

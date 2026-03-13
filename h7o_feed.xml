@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:27:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:26:58 +0000</lastBuildDate>
+    <item>
+      <title>Na polceste medzi sovietskym človekom a večným mestom</title>
+      <link>https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom</link>
+      <description>Mezi Bratislavou a Římem, mezi současným a budoucím Slovenskem. Pavel Sibyla se ve druhém březnovém sloupku zamýšlí nad tím, jak se v posledních letech tvaruje slovenská občanská společnost.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Zadlužené knihy</title>
       <link>https://www.h7o.cz/clanky/14467-zadluzene-knihy</link>
@@ -436,13 +443,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Ve svěžím románovém debutu Rity Bullwinkelové „Úder na hlavu“ létají pěsti. Je však pavouk boxerského turnaje nejlepší románovou kompozicí? Více o novince z edice AAA v recenzi Jana Němce.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14401-srdce-v-pytli</guid>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vzestup cringeokracie</title>
-      <link>https://www.h7o.cz/clanky/14400-vzestup-cringeokracie</link>
-      <description>Tomio Okamura v zahradnickém odění seká kartony s rozpočtovými položkami křovinořezem. Zdeněk Hřib pronikající do meme kultury generace alfa jako „Hřibidi toilet“. Alena Schillerová oslovuje mladé voliče na TikToku tetováním českého lva z brněnského majálesu. Vítejte v české cringeokracii!</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14400-vzestup-cringeokracie</guid>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
