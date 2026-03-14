@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-14 06:24:48 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Tři sestry – 40 let pod vobraz
+2. Válka rybníkářů
+3. Dvůr havranů a zkázy
+4. Žijte, jako by nebyla minulost ani budoucnost
+5. Velká kniha křížovek - Léčivá zahrada
+6. Velká kniha křížovek - Vtipy a citáty pro zasmání
+7. Velká kniha křížovek - Toulky českou historií
+8. Zábavná cvičebnice - Předškoláci trénování paměti
+9. Zábavná cvičebnice - Křížovky a osmisměrky
+10. 1. Třída CVIČENÍ A ÚKOLY - BYSTRÝ ŠKOLÁK
+11. Vigilie grave
+12. Securitas Imperii 47
+13. Číselné hříčky pro chytré děti
+14. Josip Plečnik, stredoeurópsky architekt
+15. Czech Modern Architecture
+16. Wohnout - Třicet svíček na dortu
+17. Toulky s tátou
+18. Čaroděj z Kremlu
+
+---
+
+## 🕐 2026-03-14 06:24:47 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Netvor líbající ohnivý kráter
+
+---
+
 ## 🕐 2026-03-13 06:26:59 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,51 +291,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nevěřím v globální řešení, ale v globální konektivitu
-
----
-
-## 🕐 2026-03-07 06:18:50 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Marcus Aurelius - Stoický císař
-2. Rumcajs, Manka a Cipísek. Pohádky z lesa Řáholce
-3. Formule 1 - 2026
-4. Háčkování pro každého
-5. Operace Bagration
-6. Co kdyby...se Československo v roce 1938 bránilo?
-7. Všichni panovníci českých zemí (měkká vazba) + plakát
-8. Náměstí Práce
-9. Reflexe č.69
-10. Spasitel
-11. Dějiny Grónska
-12. Temné břehy
-13. Osudy vnučky císařovny Sisi - Rebelka Erzsi
-14. Deadstream
-15. Putování slonů
-16. Digitální antitrust
-17. Příliš dlouhá swingers párty
-18. Václav IV. - Na zármutek nezbyl čas
-
----
-
-## 🕐 2026-03-07 06:18:49 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Madlenka Jiřího Kotena
 
 ---
 
