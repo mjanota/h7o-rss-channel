@@ -5,6 +5,32 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-15 06:30:32 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 3
+
+**Tituly nových položek:**
+
+1. Srdce z ledu
+2. Balčik
+3. Námořník z domu s cimbuřím
+
+---
+
+## 🕐 2026-03-15 06:30:31 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-14 06:24:48 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,42 +281,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-03-08 06:22:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Štafeta
-2. Tonja. Malý hrom z hor
-3. Stalker: Desková hra
-4. W.I.T.C.H. Komiks 4-6
-5. W.I.T.C.H. Komiks 7-9
-6. Stvoření
-7. Óda na život
-8. Návod na vraždu pro hodné holky – sběratelská edice
-9. Nemám hlas jako zvon
-
----
-
-## 🕐 2026-03-08 06:21:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nevěřím v globální řešení, ale v globální konektivitu
 
 ---
 
