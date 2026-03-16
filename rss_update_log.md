@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-16 06:43:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. Korejské mýty a legendy
+2. Skladiště
+3. První na startu
+4. Perlička na dně
+5. Mondrago – Dračí mláďata: Draci ohně
+6. Vykoupení
+7. Broken Past: Minulost nezměníš
+8. Nejdivočejší sny
+9. Věci
+
+---
+
+## 🕐 2026-03-16 06:43:40 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-15 06:30:32 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -256,31 +288,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Dějiny uzavřené v bytě
-
----
-
-## 🕐 2026-03-09 06:32:34 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Smrt
-2. Ponorky druhé světové války
-
----
-
-## 🕐 2026-03-09 06:32:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

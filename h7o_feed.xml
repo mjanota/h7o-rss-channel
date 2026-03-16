@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 15 Mar 2026 06:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 06:43:40 +0000</lastBuildDate>
     <item>
       <title>Netvor líbající ohnivý kráter</title>
       <link>https://www.h7o.cz/clanky/14469-netvor-libajici-ohnivy-krater</link>
@@ -436,13 +436,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Íránské bezpečnostní složky o víkendu zadržely na pohřbu nedávno zesnulého aktivisty desítky lidí. Mezi nimi i autorky Narghís Mohammadi a Sepideh Qolian.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14404-trest-za-solidaritu-a-svedectvi</guid>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toto není další smutný sloupek</title>
-      <link>https://www.h7o.cz/clanky/14403-toto-neni-dalsi-smutny-sloupek</link>
-      <description>„Tím podstatným pro mě bylo a je, že vždycky se najde někdo, kdo tlaku vzdoruje.“ Poslední sloupek Aleny Machoninové pro časopis Host.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14403-toto-neni-dalsi-smutny-sloupek</guid>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
