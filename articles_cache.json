@@ -360,14 +360,6 @@
     "category": "seriál"
   },
   {
-    "title": "Trest za solidaritu. V Íránu zatkli spisovatelky a další kritiky režimu",
-    "url": "https://www.h7o.cz/clanky/14404-trest-za-solidaritu-a-svedectvi",
-    "description": "Íránské bezpečnostní složky o víkendu zadržely na pohřbu nedávno zesnulého aktivisty desítky lidí. Mezi nimi i autorky Narghís Mohammadi a Sepideh Qolian.",
-    "date": "2025-12-17T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -486,5 +478,13 @@
     "date": "2026-03-13T00:00:00",
     "author": "Libor Staněk II.",
     "category": "recenze"
+  },
+  {
+    "title": "Se Sovětským svazem přišel atom na zem",
+    "url": "https://www.h7o.cz/clanky/14470-se-sovetskym-svazem-prisel-atom-na-zem",
+    "description": "V Sovětském svazu se dobře žilo, vařilo i jedlo, připomíná šéfkuchař Martin T. Pecina ve svém sloupku. Alespoň na stránkách knih.",
+    "date": "2026-03-16T00:00:00",
+    "author": "Martin T. Pecina",
+    "category": "sloupek"
   }
 ]

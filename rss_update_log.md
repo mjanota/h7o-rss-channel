@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-17 06:32:57 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Oskar a já
+2. Byznys pro 21. století
+3. Pravidlo pěti vteřin
+4. Čas čarodějnic 3: Kniha života
+5. Na věky věků
+6. Čas čarodějnic 4: Syn času
+7. Čas čarodějnic 2: Stín noci
+8. Pilíře země
+9. Proč muži chtějí sex a ženy potřebují lásku
+10. Čas čarodějnic
+11. Hon na ovci
+12. Palec v rohlíku
+13. Budějovická mordparta
+14. Cesty do fantazie
+15. Three from Jerusalem
+16. Stíhací eso luftwaffe
+17. Zombiekarnace
+18. Moderní česká architektura
+
+---
+
+## 🕐 2026-03-17 06:32:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Se Sovětským svazem přišel atom na zem
+
+---
+
 ## 🕐 2026-03-16 06:43:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,52 +287,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Boje zamilovaného muže
-
----
-
-## 🕐 2026-03-10 06:25:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Mystické příběhy pragmatika
-2. Luštění s Garfieldem 2
-3. Solo Leveling 7
-4. Batman 6: Stav strachu
-5. Václav IV. - Na zármutek nezbyl čas
-6. Svědek vraždy
-7. Sakamoto Days 11: Šleha
-8. Milán Cortina 2026
-9. Rychlé šípy - sběratelské vydání - 1. díl
-10. Kuchařka při onemocnění slinivky
-11. Bezezbytková dieta při onemocnění střev
-12. Rósa a Björk
-13. Petr Císařovský Sedm bran / The Seven Gates
-14. Medailistka 1
-15. Na Izraeli záleží
-16. Na skok do divočiny - Příběh podle filmu
-17. Zemětřesení 0.1 / Epicentrum
-18. One Piece - Sběratelský box, část 2: Písečné království
-19. Zaklínač: Konec světa / Otázka ceny
-
----
-
-## 🕐 2026-03-10 06:24:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Dějiny uzavřené v bytě
 
 ---
 
