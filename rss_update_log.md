@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-18 06:33:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Věci, které uvidíte, jen když zpomalíte
+2. Rare Places -  Průvodce do kapsy 2.díl
+3. Onyx Storm
+4. Dům ticha
+5. Tajné princezny – Neposlušné štěně
+6. Rozhovory v manažerské praxi
+7. Veřejné zdravotnictví a výchova ke zdraví
+8. Veřejné zdravotnictví a výchova ke zdraví pro SZŠ
+9. Smrti, smrď
+10. Figura
+11. Semínko
+12. Tejpování v těhotenství
+13. Šťastné blues aneb Z deníku Jaroslava Ježka
+14. Jsem asi boomer
+15. Václav Mergl – Mysterium hmoty
+16. Vila Lanna. Příběh domu a lidí
+17. Nový Orient 2/2025
+18. 1984
+19. Alice´s Adventures in Wonderland
+
+---
+
+## 🕐 2026-03-18 06:33:52 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Svazky Knižnice nevznikají ve vzduchoprázdnu
+
+---
+
 ## 🕐 2026-03-17 06:32:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -241,52 +287,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Zadlužené knihy
-
----
-
-## 🕐 2026-03-11 06:26:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Zmatky
-2. Ripley pod zemí
-3. Saháme po hvězdách
-4. Kovboj na útěku
-5. 300 sudoku do kapsy
-6. U potoka
-7. Nikdy není pozdě
-8. Jeremyho farma nejen zvířat - Až prasata budou lítat
-9. Kletba říše Nyx
-10. Jak zvířata přišla ke své pověsti
-11. Kyselé bonbony
-12. Zotročení vášňou
-13. Narcis
-14. Nebezpečná smlouva
-15. Siciliánova náruč
-16. Sněhurka v plamenech
-17. Návštěva ve Florencii
-18. Abys o něm nevěděl
-19. Řekl si o ni o Vánocích
-
----
-
-## 🕐 2026-03-11 06:26:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Boje zamilovaného muže
 
 ---
 
