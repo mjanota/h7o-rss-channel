@@ -344,14 +344,6 @@
     "category": "beletrie"
   },
   {
-    "title": "Veselé Vánoce!",
-    "url": "https://www.h7o.cz/clanky/14406-vesele-vanoce",
-    "description": "I díky „Vánoční koledě“, s níž proslulo sousloví „Merry Christmas“, slavíme Vánoce, jak je známe. Dne 19. prosince 1843 vychází Dickensova „Vánoční koleda“ poprvé — a snad nikdy naposledy.",
-    "date": "2025-12-19T00:00:00",
-    "author": "Josefína Formanová",
-    "category": "sloupek"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -486,5 +478,13 @@
     "date": "2026-03-17T00:00:00",
     "author": "Václav Maxmilián",
     "category": "rozhovor"
+  },
+  {
+    "title": "Člověku zbývá voyeurství",
+    "url": "https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi",
+    "description": "Moltbook je sociální síť pro AI. Platforma plná botů vznikla částečně jako experiment, minulý týden ji však koupila společnost Meta. Technologické firmy ze Silicon Valley tak zjevně nechtějí prostřednictvím AI nahradit jen pracovní sílu, ale rovněž žvanily ze sociálních sítí.",
+    "date": "2026-03-18T00:00:00",
+    "author": "Jakub Jetmar",
+    "category": "sloupek"
   }
 ]

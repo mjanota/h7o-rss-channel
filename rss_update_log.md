@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-19 06:31:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Osamělí hrdinové
+2. Cesta na Sardinii
+3. Kdo štěká, nekouše
+4. Pravidla zabíjení
+5. Balada moře a oblohy
+6. Prázdné duše
+7. Ta bolest nejsi ty
+8. Rusko Leninovo a Stalinovo
+9. Běsná zem
+10. Psi z Essexu
+11. Druhý suvenýr
+12. Městečko Son
+13. Pacička
+14. Císař Karel IV.
+15. Pod obloukem světla
+16. Sport, média a politika
+17. Zhubni bez keců - Diety Nefungují, návyky ANO
+18. Maluj vodou zas a znova – Zvířátka na vsi
+19. Záhada hlavolamu
+
+---
+
+## 🕐 2026-03-19 06:30:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Člověku zbývá voyeurství
+
+---
+
 ## 🕐 2026-03-18 06:33:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,50 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Na polceste medzi sovietskym človekom a večným mestom
-
----
-
-## 🕐 2026-03-12 06:27:46 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Vzplanutí
-2. Tady Vorel, pitevna
-3. Válka rybníkářů
-4. Srdce z ledu
-5. Legendy a latéčka - speciální edice
-6. Hříšný jako Brody
-7. MORDYDY - Islandika
-8. Šťastně i po smrti
-9. Juditino tajemství
-10. Dcery květin: Islandské tajemství
-11. Měsíční zahrada
-12. Železný půlměsíc
-13. Zaječí kamarádi Hup a Hop
-14. Láska bez masek
-15. Pět typů bohatství
-16. Wolf.e
-17. Lásky z kampusu: Metoda
-
----
-
-## 🕐 2026-03-12 06:27:45 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Zadlužené knihy
 
 ---
 

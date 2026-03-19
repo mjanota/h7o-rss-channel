@@ -1,5 +1,178 @@
 [
   {
+    "title": "Osamělí hrdinové",
+    "url": "https://www.kosmas.cz/knihy/564139/osameli-hrdinove/",
+    "description": "Osamělí hrdinové - Pavel Pospěch",
+    "authors": [
+      "Pavel Pospěch"
+    ],
+    "date": "2026-03-19T06:31:00.331683+00:00"
+  },
+  {
+    "title": "Cesta na Sardinii",
+    "url": "https://www.kosmas.cz/knihy/563462/cesta-na-sardinii/",
+    "description": "Cesta na Sardinii - Barbora Majchráková",
+    "authors": [
+      "Barbora Majchráková"
+    ],
+    "date": "2026-03-19T06:30:59.331683+00:00"
+  },
+  {
+    "title": "Kdo štěká, nekouše",
+    "url": "https://www.kosmas.cz/knihy/566226/kdo-steka-nekouse/",
+    "description": "Kdo štěká, nekouše - Marie Rejfová",
+    "authors": [
+      "Marie Rejfová"
+    ],
+    "date": "2026-03-19T06:30:58.331683+00:00"
+  },
+  {
+    "title": "Pravidla zabíjení",
+    "url": "https://www.kosmas.cz/knihy/566227/pravidla-zabijeni/",
+    "description": "Pravidla zabíjení - Chuck Dixon",
+    "authors": [
+      "Chuck Dixon"
+    ],
+    "date": "2026-03-19T06:30:57.331683+00:00"
+  },
+  {
+    "title": "Balada moře a oblohy",
+    "url": "https://www.kosmas.cz/knihy/566339/balada-more-a-oblohy/",
+    "description": "Balada moře a oblohy - Eliot Madeleine",
+    "authors": [
+      "Eliot Madeleine"
+    ],
+    "date": "2026-03-19T06:30:56.331683+00:00"
+  },
+  {
+    "title": "Prázdné duše",
+    "url": "https://www.kosmas.cz/knihy/566517/prazdne-duse/",
+    "description": "Prázdné duše - Ivana Ondriová",
+    "authors": [
+      "Ivana Ondriová"
+    ],
+    "date": "2026-03-19T06:30:55.331683+00:00"
+  },
+  {
+    "title": "Ta bolest nejsi ty",
+    "url": "https://www.kosmas.cz/knihy/563930/ta-bolest-nejsi-ty/",
+    "description": "Ta bolest nejsi ty - Tereza Ševčíková",
+    "authors": [
+      "Tereza Ševčíková"
+    ],
+    "date": "2026-03-19T06:30:54.331683+00:00"
+  },
+  {
+    "title": "Rusko Leninovo a Stalinovo",
+    "url": "https://www.kosmas.cz/knihy/563935/rusko-leninovo-a-stalinovo/",
+    "description": "Rusko Leninovo a Stalinovo - Boris Akunin",
+    "authors": [
+      "Boris Akunin"
+    ],
+    "date": "2026-03-19T06:30:53.331683+00:00"
+  },
+  {
+    "title": "Běsná zem",
+    "url": "https://www.kosmas.cz/knihy/563937/besna-zem/",
+    "description": "Běsná zem - Petr Opršal",
+    "authors": [
+      "Petr Opršal"
+    ],
+    "date": "2026-03-19T06:30:52.331683+00:00"
+  },
+  {
+    "title": "Psi z Essexu",
+    "url": "https://www.kosmas.cz/knihy/563940/psi-z-essexu/",
+    "description": "Psi z Essexu - Dan Jones",
+    "authors": [
+      "Dan Jones"
+    ],
+    "date": "2026-03-19T06:30:51.331683+00:00"
+  },
+  {
+    "title": "Druhý suvenýr",
+    "url": "https://www.kosmas.cz/knihy/563941/druhy-suvenyr/",
+    "description": "Druhý suvenýr - Michael Shaheen",
+    "authors": [
+      "Michael Shaheen"
+    ],
+    "date": "2026-03-19T06:30:50.331683+00:00"
+  },
+  {
+    "title": "Městečko Son",
+    "url": "https://www.kosmas.cz/knihy/563549/mestecko-son/",
+    "description": "Městečko Son - Thomas Enger, Johana Gustawsson",
+    "authors": [
+      "Thomas Enger",
+      "Johana Gustawsson"
+    ],
+    "date": "2026-03-19T06:30:49.331683+00:00"
+  },
+  {
+    "title": "Pacička",
+    "url": "https://www.kosmas.cz/knihy/563558/pacicka/",
+    "description": "Pacička - Daniel Krásný",
+    "authors": [
+      "Daniel Krásný"
+    ],
+    "date": "2026-03-19T06:30:48.331683+00:00"
+  },
+  {
+    "title": "Císař Karel IV.",
+    "url": "https://www.kosmas.cz/knihy/549837/cisar-karel-iv/",
+    "description": "Císař Karel IV. - Olaf B. Rader",
+    "authors": [
+      "Olaf B. Rader"
+    ],
+    "date": "2026-03-19T06:30:47.331683+00:00"
+  },
+  {
+    "title": "Pod obloukem světla",
+    "url": "https://www.kosmas.cz/knihy/565565/pod-obloukem-svetla/",
+    "description": "Pod obloukem světla - Jana Schmausová Vydrová",
+    "authors": [
+      "Jana Schmausová Vydrová"
+    ],
+    "date": "2026-03-19T06:30:45.331683+00:00"
+  },
+  {
+    "title": "Sport, média a politika",
+    "url": "https://www.kosmas.cz/knihy/566259/sport-media-a-politika/",
+    "description": "Sport, média a politika - Jan Děkanovský, Jan Jirák",
+    "authors": [
+      "Jan Děkanovský",
+      "Jan Jirák"
+    ],
+    "date": "2026-03-19T06:30:44.331683+00:00"
+  },
+  {
+    "title": "Zhubni bez keců - Diety Nefungují, návyky ANO",
+    "url": "https://www.kosmas.cz/knihy/566511/zhubni-bez-kecu-diety-nefunguji-navyky-ano/",
+    "description": "Zhubni bez keců - Diety Nefungují, návyky ANO - Ben Carpenter",
+    "authors": [
+      "Ben Carpenter"
+    ],
+    "date": "2026-03-19T06:30:43.331683+00:00"
+  },
+  {
+    "title": "Maluj vodou zas a znova – Zvířátka na vsi",
+    "url": "https://www.kosmas.cz/knihy/566519/maluj-vodou-zas-a-znova-zviratka-na-vsi/",
+    "description": "Maluj vodou zas a znova – Zvířátka na vsi - Miroslava Lánská",
+    "authors": [
+      "Miroslava Lánská"
+    ],
+    "date": "2026-03-19T06:30:42.331683+00:00"
+  },
+  {
+    "title": "Záhada hlavolamu",
+    "url": "https://www.kosmas.cz/knihy/566544/zahada-hlavolamu/",
+    "description": "Záhada hlavolamu - Jaroslav Foglar",
+    "authors": [
+      "Jaroslav Foglar"
+    ],
+    "date": "2026-03-19T06:30:41.331683+00:00"
+  },
+  {
     "title": "Věci, které uvidíte, jen když zpomalíte",
     "url": "https://www.kosmas.cz/knihy/566491/veci-ktere-uvidite-jen-kdyz-zpomalite/",
     "description": "Věci, které uvidíte, jen když zpomalíte - Haemin Sunim",
@@ -1611,181 +1784,5 @@
       "Jaroslava Šťastná"
     ],
     "date": "2026-03-06T06:24:47.615299+00:00"
-  },
-  {
-    "title": "Stranou zájmu, pod státním dohledem",
-    "url": "https://www.kosmas.cz/knihy/565906/stranou-zajmu-pod-statnim-dohledem/",
-    "description": "Stranou zájmu, pod státním dohledem - Jan Vašek",
-    "authors": [
-      "Jan Vašek"
-    ],
-    "date": "2026-03-06T06:24:46.615299+00:00"
-  },
-  {
-    "title": "Moje první svaté přijímání",
-    "url": "https://www.kosmas.cz/knihy/565967/moje-prvni-svate-prijimani/",
-    "description": "Moje první svaté přijímání - Leona Jordánová",
-    "authors": [
-      "Leona Jordánová"
-    ],
-    "date": "2026-03-06T06:24:45.615299+00:00"
-  },
-  {
-    "title": "Mezi obcí a státem",
-    "url": "https://www.kosmas.cz/knihy/565988/mezi-obci-a-statem/",
-    "description": "Mezi obcí a státem - Miroslava Breburdová, Martin Klečacký",
-    "authors": [
-      "Miroslava Breburdová",
-      "Martin Klečacký"
-    ],
-    "date": "2026-03-06T06:24:43.615299+00:00"
-  },
-  {
-    "title": "Rostliny Vysočiny v pověstech.  Stromy, keře a keříky",
-    "url": "https://www.kosmas.cz/knihy/566055/rostliny-vysociny-v-povestech.-stromy-kere-a-keriky/",
-    "description": "Rostliny Vysočiny v pověstech.  Stromy, keře a keříky - Pavel Svoboda",
-    "authors": [
-      "Pavel Svoboda"
-    ],
-    "date": "2026-03-06T06:24:42.615299+00:00"
-  },
-  {
-    "title": "František Bílek Nástin jeho života a uměleckého díla",
-    "url": "https://www.kosmas.cz/knihy/566056/frantisek-bilek-nastin-jeho-zivota-a-umeleckeho-dila/",
-    "description": "František Bílek Nástin jeho života a uměleckého díla - Stanislav Kodym",
-    "authors": [
-      "Stanislav Kodym"
-    ],
-    "date": "2026-03-06T06:24:41.615299+00:00"
-  },
-  {
-    "title": "Prvňáčci a jejich mazlíčci",
-    "url": "https://www.kosmas.cz/knihy/566058/prvnacci-a-jejich-mazlicci/",
-    "description": "Prvňáčci a jejich mazlíčci - Zuzana Pospíšilová",
-    "authors": [
-      "Zuzana Pospíšilová"
-    ],
-    "date": "2026-03-06T06:24:40.615299+00:00"
-  },
-  {
-    "title": "Dvůr havranů a zkázy",
-    "url": "https://www.kosmas.cz/knihy/565676/dvur-havranu-a-zkazy/",
-    "description": "Dvůr havranů a zkázy - Eliza Raine",
-    "authors": [
-      "Eliza Raine"
-    ],
-    "date": "2026-03-05T06:26:40.197235+00:00"
-  },
-  {
-    "title": "92. policejní revír se hlásí...",
-    "url": "https://www.kosmas.cz/knihy/566085/92.-policejni-revir-se-hlasi/",
-    "description": "92. policejní revír se hlásí... - Ladislav Beran",
-    "authors": [
-      "Ladislav Beran"
-    ],
-    "date": "2026-03-05T06:26:39.197235+00:00"
-  },
-  {
-    "title": "Smrt programátora",
-    "url": "https://www.kosmas.cz/knihy/566086/smrt-programatora/",
-    "description": "Smrt programátora - Stanislav Češka",
-    "authors": [
-      "Stanislav Češka"
-    ],
-    "date": "2026-03-05T06:26:38.197235+00:00"
-  },
-  {
-    "title": "Vlna vzteku",
-    "url": "https://www.kosmas.cz/knihy/566090/vlna-vzteku/",
-    "description": "Vlna vzteku - Linda Castillo",
-    "authors": [
-      "Linda Castillo"
-    ],
-    "date": "2026-03-05T06:26:37.197235+00:00"
-  },
-  {
-    "title": "Kovboj na útěku",
-    "url": "https://www.kosmas.cz/knihy/565970/kovboj-na-uteku/",
-    "description": "Kovboj na útěku - Marie Hamáková",
-    "authors": [
-      "Marie Hamáková"
-    ],
-    "date": "2026-03-05T06:26:36.197235+00:00"
-  },
-  {
-    "title": "Slovo Buddhovo",
-    "url": "https://www.kosmas.cz/knihy/564630/slovo-buddhovo/",
-    "description": "Slovo Buddhovo - Nyánatiloka Maháthera, Michal Štěpánek, Jan Lípa",
-    "authors": [
-      "Nyánatiloka Maháthera",
-      "Michal Štěpánek",
-      "Jan Lípa"
-    ],
-    "date": "2026-03-05T06:26:35.197235+00:00"
-  },
-  {
-    "title": "Život a práce s AI",
-    "url": "https://www.kosmas.cz/knihy/565713/zivot-a-prace-s-ai/",
-    "description": "Život a práce s AI - Ethan Mollick",
-    "authors": [
-      "Ethan Mollick"
-    ],
-    "date": "2026-03-05T06:26:34.197235+00:00"
-  },
-  {
-    "title": "Rodinka ze 141. ulice a skrytá zahrada",
-    "url": "https://www.kosmas.cz/knihy/564699/rodinka-ze-141.-ulice-a-skryta-zahrada/",
-    "description": "Rodinka ze 141. ulice a skrytá zahrada - Karina Yan Glaser",
-    "authors": [
-      "Karina Yan Glaser"
-    ],
-    "date": "2026-03-05T06:26:33.197235+00:00"
-  },
-  {
-    "title": "Až uvidíš moře",
-    "url": "https://www.kosmas.cz/knihy/564857/az-uvidis-more/",
-    "description": "Až uvidíš moře - Scarlett Wilková",
-    "authors": [
-      "Scarlett Wilková"
-    ],
-    "date": "2026-03-05T06:26:32.197235+00:00"
-  },
-  {
-    "title": "Keramická hlína",
-    "url": "https://www.kosmas.cz/knihy/565963/keramicka-hlina/",
-    "description": "Keramická hlína - Sarah Reeves",
-    "authors": [
-      "Sarah Reeves"
-    ],
-    "date": "2026-03-05T06:26:31.197235+00:00"
-  },
-  {
-    "title": "Na dobré stopě - Učení Fráni Drtikola",
-    "url": "https://www.kosmas.cz/knihy/565974/na-dobre-stope-uceni-frani-drtikola/",
-    "description": "Na dobré stopě - Učení Fráni Drtikola - Pavel Šolc, Jan Lípa, Michal Štěpánek",
-    "authors": [
-      "Pavel Šolc",
-      "Jan Lípa",
-      "Michal Štěpánek"
-    ],
-    "date": "2026-03-05T06:26:30.197235+00:00"
-  },
-  {
-    "title": "Full Moon 179/2026",
-    "url": "https://www.kosmas.cz/knihy/566057/full-moon-179-2026/",
-    "description": "Full Moon 179/2026",
-    "authors": [],
-    "date": "2026-03-05T06:26:28.197235+00:00"
-  },
-  {
-    "title": "Historicus inter saecula movens",
-    "url": "https://www.kosmas.cz/knihy/564996/historicus-inter-saecula-movens/",
-    "description": "Historicus inter saecula movens - Ivana Ebelová, Zdeněk Hojda, Zdeněk Nešpor",
-    "authors": [
-      "Ivana Ebelová",
-      "Zdeněk Hojda",
-      "Zdeněk Nešpor"
-    ],
-    "date": "2026-03-05T06:26:27.197235+00:00"
   }
 ]
