@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Mar 2026 06:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 06:28:29 +0000</lastBuildDate>
+    <item>
+      <title>Dvojjazyčná kniha o mlčení</title>
+      <link>https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni</link>
+      <description>Prolínáním dvou jazyků bez jakéhokoli tlumočení mají lidé na obou stranách řeky, která může být hranicí mezi dvěma zeměmi nebo jen dvěma těly, možnost zachovat si tělesnou integritu a nepodstoupit ani redukci způsobenou překódováním do cizí řeči, píše Kryštof Mec v recenzi sbírky Dominika Bárta.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kde hľadať nádej</title>
+      <link>https://www.h7o.cz/clanky/14473-kde-h-adat-nadej</link>
+      <description>Podle Pavla Sibyly na tom v Česku ještě nejsme tak zle. „Ak mám pravdu,“ píše slovenský spisovatel ve svém třetím březnovém sloupku, „a ozajstná slovenská cesta vám nehrozí, potom aj vaša mrchavá doba je iná, ako tá naša. A odlišný by mal byť i návod, ako ju premôcť.“ O co se tedy opřít?</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14473-kde-h-adat-nadej</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Člověku zbývá voyeurství</title>
       <link>https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi</link>
@@ -429,13 +443,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Josefína Formanová si v rozhovoru s teologem a komparatistou Tomášem Sixtou povídá o proměnách víry, duchovním zneužívání a křehkosti. Vyprazdňují se kostely navždy, nebo naopak dorůstá generace, která si k víře znovu hledá cestu?  Zveme k předvánočnímu čtení…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14407-nechal-bych-boha-byt-bohem</guid>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dějiny situací</title>
-      <link>https://www.h7o.cz/clanky/14405-dejiny-situaci</link>
-      <description>Kanadská básnířka Anne Carson je jednou z nejznámějších autorek současnosti, jejíž dílo v českém jazyce dosud chybělo. Napravit to má překlad její nejznámější knihy „Autobiografie rudé“, kterou v příštím týdnu vydá nakladatelství Argo v překladu básníka Tomáše Gabriela.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14405-dejiny-situaci</guid>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

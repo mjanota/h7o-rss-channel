@@ -1,5 +1,161 @@
 [
   {
+    "title": "Příběhy z lesa od jara do zimy - Obrázkové čtení",
+    "url": "https://www.kosmas.cz/knihy/566475/pribehy-z-lesa-od-jara-do-zimy-obrazkove-cteni/",
+    "description": "Příběhy z lesa od jara do zimy - Obrázkové čtení - Alena Schejbalová",
+    "authors": [
+      "Alena Schejbalová"
+    ],
+    "date": "2026-03-20T06:28:27.878599+00:00"
+  },
+  {
+    "title": "Rubínový spolek: Všechna naše tajemství",
+    "url": "https://www.kosmas.cz/knihy/566702/rubinovy-spolek-vsechna-nase-tajemstvi/",
+    "description": "Rubínový spolek: Všechna naše tajemství - Jana Hoch",
+    "authors": [
+      "Jana Hoch"
+    ],
+    "date": "2026-03-20T06:28:25.878599+00:00"
+  },
+  {
+    "title": "Luxusní klec",
+    "url": "https://www.kosmas.cz/knihy/566712/luxusni-klec/",
+    "description": "Luxusní klec - Mon CouCou",
+    "authors": [
+      "Mon CouCou"
+    ],
+    "date": "2026-03-20T06:28:24.878599+00:00"
+  },
+  {
+    "title": "Karel Hynek Mácha",
+    "url": "https://www.kosmas.cz/knihy/566714/karel-hynek-macha/",
+    "description": "Karel Hynek Mácha - Otomar Dvořák, Josef \"Pepson\" Snětivý",
+    "authors": [
+      "Otomar Dvořák",
+      "Josef \"Pepson\" Snětivý"
+    ],
+    "date": "2026-03-20T06:28:23.878599+00:00"
+  },
+  {
+    "title": "Poslední slovo",
+    "url": "https://www.kosmas.cz/knihy/566715/posledni-slovo/",
+    "description": "Poslední slovo - Dominik Duka, Marek Šmíd",
+    "authors": [
+      "Dominik Duka",
+      "Marek Šmíd"
+    ],
+    "date": "2026-03-20T06:28:22.878599+00:00"
+  },
+  {
+    "title": "Případ Holečkovi",
+    "url": "https://www.kosmas.cz/knihy/566717/pripad-holeckovi/",
+    "description": "Případ Holečkovi - Bianca Bellová",
+    "authors": [
+      "Bianca Bellová"
+    ],
+    "date": "2026-03-20T06:28:21.878599+00:00"
+  },
+  {
+    "title": "Objektivní nález - Moje nejtěžší mise",
+    "url": "https://www.kosmas.cz/knihy/566718/objektivni-nalez-moje-nejtezsi-mise/",
+    "description": "Objektivní nález - Moje nejtěžší mise - Tomáš Šebek",
+    "authors": [
+      "Tomáš Šebek"
+    ],
+    "date": "2026-03-20T06:28:20.878599+00:00"
+  },
+  {
+    "title": "Hra",
+    "url": "https://www.kosmas.cz/knihy/564224/hra/",
+    "description": "Hra - Bernard Minier",
+    "authors": [
+      "Bernard Minier"
+    ],
+    "date": "2026-03-20T06:28:19.878599+00:00"
+  },
+  {
+    "title": "Zpěv tichých dní",
+    "url": "https://www.kosmas.cz/knihy/566722/zpev-tichych-dni/",
+    "description": "Zpěv tichých dní - Marcela Bramborová",
+    "authors": [
+      "Marcela Bramborová"
+    ],
+    "date": "2026-03-20T06:28:18.878599+00:00"
+  },
+  {
+    "title": "Okraj nebe",
+    "url": "https://www.kosmas.cz/knihy/566723/okraj-nebe/",
+    "description": "Okraj nebe - Evita Naušová",
+    "authors": [
+      "Evita Naušová"
+    ],
+    "date": "2026-03-20T06:28:17.878599+00:00"
+  },
+  {
+    "title": "Ve výslužbě - Návštěvník z minulosti",
+    "url": "https://www.kosmas.cz/knihy/566725/ve-vysluzbe-navstevnik-z-minulosti/",
+    "description": "Ve výslužbě - Návštěvník z minulosti - Martin Goffa",
+    "authors": [
+      "Martin Goffa"
+    ],
+    "date": "2026-03-20T06:28:16.878599+00:00"
+  },
+  {
+    "title": "Prokletí Aurelie W.",
+    "url": "https://www.kosmas.cz/knihy/564695/prokleti-aurelie-w/",
+    "description": "Prokletí Aurelie W. - Avery Annaliese",
+    "authors": [
+      "Avery Annaliese"
+    ],
+    "date": "2026-03-20T06:28:15.878599+00:00"
+  },
+  {
+    "title": "Navždy zlosyn",
+    "url": "https://www.kosmas.cz/knihy/566742/navzdy-zlosyn/",
+    "description": "Navždy zlosyn - Vanessa Len",
+    "authors": [
+      "Vanessa Len"
+    ],
+    "date": "2026-03-20T06:28:14.878599+00:00"
+  },
+  {
+    "title": "Víla Muchomůrka: Klíč k jaru",
+    "url": "https://www.kosmas.cz/knihy/565187/vila-muchomurka-klic-k-jaru/",
+    "description": "Víla Muchomůrka: Klíč k jaru - Ivona Knechtlová",
+    "authors": [
+      "Ivona Knechtlová"
+    ],
+    "date": "2026-03-20T06:28:13.878599+00:00"
+  },
+  {
+    "title": "Z farářova notesu",
+    "url": "https://www.kosmas.cz/knihy/564203/z-fararova-notesu/",
+    "description": "Z farářova notesu - Petr Vaďura",
+    "authors": [
+      "Petr Vaďura"
+    ],
+    "date": "2026-03-20T06:28:12.878599+00:00"
+  },
+  {
+    "title": "Poklad na ostrově",
+    "url": "https://www.kosmas.cz/knihy/565167/poklad-na-ostrove/",
+    "description": "Poklad na ostrově - Robert Louis Stevenson, František Novotný",
+    "authors": [
+      "Robert Louis Stevenson",
+      "František Novotný"
+    ],
+    "date": "2026-03-20T06:28:11.878599+00:00"
+  },
+  {
+    "title": "Rytíř zeleného kříže",
+    "url": "https://www.kosmas.cz/knihy/566746/rytir-zeleneho-krize/",
+    "description": "Rytíř zeleného kříže - František Kalenda",
+    "authors": [
+      "František Kalenda"
+    ],
+    "date": "2026-03-20T06:28:10.878599+00:00"
+  },
+  {
     "title": "Osamělí hrdinové",
     "url": "https://www.kosmas.cz/knihy/564139/osameli-hrdinove/",
     "description": "Osamělí hrdinové - Pavel Pospěch",
@@ -1631,158 +1787,5 @@
       "Petr Koubský"
     ],
     "date": "2026-03-07T06:18:40.213184+00:00"
-  },
-  {
-    "title": "Temné břehy",
-    "url": "https://www.kosmas.cz/knihy/563312/temne-brehy/",
-    "description": "Temné břehy - Kristýna Trpková",
-    "authors": [
-      "Kristýna Trpková"
-    ],
-    "date": "2026-03-07T06:18:39.213184+00:00"
-  },
-  {
-    "title": "Osudy vnučky císařovny Sisi - Rebelka Erzsi",
-    "url": "https://www.kosmas.cz/knihy/565671/osudy-vnucky-cisarovny-sisi-rebelka-erzsi/",
-    "description": "Osudy vnučky císařovny Sisi - Rebelka Erzsi - Dagmar Beňaková",
-    "authors": [
-      "Dagmar Beňaková"
-    ],
-    "date": "2026-03-07T06:18:38.213184+00:00"
-  },
-  {
-    "title": "Deadstream",
-    "url": "https://www.kosmas.cz/knihy/565706/deadstream/",
-    "description": "Deadstream - Mar Romasco-Moore",
-    "authors": [
-      "Mar Romasco-Moore"
-    ],
-    "date": "2026-03-07T06:18:37.213184+00:00"
-  },
-  {
-    "title": "Putování slonů",
-    "url": "https://www.kosmas.cz/knihy/565710/putovani-slonu/",
-    "description": "Putování slonů - Kira Gembriová",
-    "authors": [
-      "Kira Gembriová"
-    ],
-    "date": "2026-03-07T06:18:36.213184+00:00"
-  },
-  {
-    "title": "Digitální antitrust",
-    "url": "https://www.kosmas.cz/knihy/564998/digitalni-antitrust/",
-    "description": "Digitální antitrust - Václav Šmejkal",
-    "authors": [
-      "Václav Šmejkal"
-    ],
-    "date": "2026-03-07T06:18:35.213184+00:00"
-  },
-  {
-    "title": "Příliš dlouhá swingers párty",
-    "url": "https://www.kosmas.cz/knihy/566215/prilis-dlouha-swingers-party/",
-    "description": "Příliš dlouhá swingers párty - František Kotleta",
-    "authors": [
-      "František Kotleta"
-    ],
-    "date": "2026-03-07T06:18:34.213184+00:00"
-  },
-  {
-    "title": "Václav IV. - Na zármutek nezbyl čas",
-    "url": "https://www.kosmas.cz/knihy/566218/vaclav-iv.-na-zarmutek-nezbyl-cas/",
-    "description": "Václav IV. - Na zármutek nezbyl čas - Jaromír Jindra",
-    "authors": [
-      "Jaromír Jindra"
-    ],
-    "date": "2026-03-07T06:18:31.213184+00:00"
-  },
-  {
-    "title": "Temné břehy",
-    "url": "https://www.kosmas.cz/knihy/565657/temne-brehy/",
-    "description": "Temné břehy - Kristýna Trpková",
-    "authors": [
-      "Kristýna Trpková"
-    ],
-    "date": "2026-03-06T06:24:57.615299+00:00"
-  },
-  {
-    "title": "Raketa 46",
-    "url": "https://www.kosmas.cz/knihy/565767/raketa-46/",
-    "description": "Raketa 46",
-    "authors": [],
-    "date": "2026-03-06T06:24:55.615299+00:00"
-  },
-  {
-    "title": "Collaborative & Conscious Material Design",
-    "url": "https://www.kosmas.cz/knihy/565799/collaborative-conscious-material-design/",
-    "description": "Collaborative & Conscious Material Design - Valentýna Landa Filípková",
-    "authors": [
-      "Valentýna Landa Filípková"
-    ],
-    "date": "2026-03-06T06:24:54.615299+00:00"
-  },
-  {
-    "title": "The Look of the Internalized Machine Gaze",
-    "url": "https://www.kosmas.cz/knihy/565800/the-look-of-the-internalized-machine-gaze/",
-    "description": "The Look of the Internalized Machine Gaze - Barbora Trnková",
-    "authors": [
-      "Barbora Trnková"
-    ],
-    "date": "2026-03-06T06:24:53.615299+00:00"
-  },
-  {
-    "title": "Walking as Embodied Worldmaking",
-    "url": "https://www.kosmas.cz/knihy/565801/walking-as-embodied-worldmaking/",
-    "description": "Walking as Embodied Worldmaking - Lea Maria Spahn",
-    "authors": [
-      "Lea Maria Spahn"
-    ],
-    "date": "2026-03-06T06:24:52.615299+00:00"
-  },
-  {
-    "title": "Sociální souvislosti aktivního stáří",
-    "url": "https://www.kosmas.cz/knihy/565804/socialni-souvislosti-aktivniho-stari/",
-    "description": "Sociální souvislosti aktivního stáří - Kateřina Šámalová, Igor Tomeš",
-    "authors": [
-      "Kateřina Šámalová",
-      "Igor Tomeš"
-    ],
-    "date": "2026-03-06T06:24:51.615299+00:00"
-  },
-  {
-    "title": "Fonetika a fonologie současné španělštiny",
-    "url": "https://www.kosmas.cz/knihy/565805/fonetika-a-fonologie-soucasne-spanelstiny/",
-    "description": "Fonetika a fonologie současné španělštiny - Petr Čermák",
-    "authors": [
-      "Petr Čermák"
-    ],
-    "date": "2026-03-06T06:24:50.615299+00:00"
-  },
-  {
-    "title": "Avicenna",
-    "url": "https://www.kosmas.cz/knihy/565902/avicenna/",
-    "description": "Avicenna - Meryem Sebtiová",
-    "authors": [
-      "Meryem Sebtiová"
-    ],
-    "date": "2026-03-06T06:24:49.615299+00:00"
-  },
-  {
-    "title": "Neuronální člověk",
-    "url": "https://www.kosmas.cz/knihy/565903/neuronalni-clovek/",
-    "description": "Neuronální člověk - Catherine Malabou",
-    "authors": [
-      "Catherine Malabou"
-    ],
-    "date": "2026-03-06T06:24:48.615299+00:00"
-  },
-  {
-    "title": "Když se řekne komunitní práce",
-    "url": "https://www.kosmas.cz/knihy/565905/kdyz-se-rekne-komunitni-prace/",
-    "description": "Když se řekne komunitní práce - Eliška Hudcová, Jaroslava Šťastná",
-    "authors": [
-      "Eliška Hudcová",
-      "Jaroslava Šťastná"
-    ],
-    "date": "2026-03-06T06:24:47.615299+00:00"
   }
 ]

@@ -336,14 +336,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "Dějiny situací",
-    "url": "https://www.h7o.cz/clanky/14405-dejiny-situaci",
-    "description": "Kanadská básnířka Anne Carson je jednou z nejznámějších autorek současnosti, jejíž dílo v českém jazyce dosud chybělo. Napravit to má překlad její nejznámější knihy „Autobiografie rudé“, kterou v příštím týdnu vydá nakladatelství Argo v překladu básníka Tomáše Gabriela.",
-    "date": "2025-12-20T00:00:00",
-    "author": "Tomáš Gabriel",
-    "category": "beletrie"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -486,5 +478,21 @@
     "date": "2026-03-18T00:00:00",
     "author": "Jakub Jetmar",
     "category": "sloupek"
+  },
+  {
+    "title": "Dvojjazyčná kniha o mlčení",
+    "url": "https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni",
+    "description": "Prolínáním dvou jazyků bez jakéhokoli tlumočení mají lidé na obou stranách řeky, která může být hranicí mezi dvěma zeměmi nebo jen dvěma těly, možnost zachovat si tělesnou integritu a nepodstoupit ani redukci způsobenou překódováním do cizí řeči, píše Kryštof Mec v recenzi sbírky Dominika Bárta.",
+    "date": "2026-03-20T00:00:00",
+    "author": "Kryštof Mec",
+    "category": "recenze"
+  },
+  {
+    "title": "Kde hľadať nádej",
+    "url": "https://www.h7o.cz/clanky/14473-kde-h-adat-nadej",
+    "description": "Podle Pavla Sibyly na tom v Česku ještě nejsme tak zle. „Ak mám pravdu,“ píše slovenský spisovatel ve svém třetím březnovém sloupku, „a ozajstná slovenská cesta vám nehrozí, potom aj vaša mrchavá doba je iná, ako tá naša. A odlišný by mal byť i návod, ako ju premôcť.“ O co se tedy opřít?",
+    "date": "2026-03-19T00:00:00",
+    "author": "Pavel Sibyla",
+    "category": "seriál"
   }
 ]

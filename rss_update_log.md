@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-20 06:28:29 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Příběhy z lesa od jara do zimy - Obrázkové čtení
+2. Rubínový spolek: Všechna naše tajemství
+3. Luxusní klec
+4. Karel Hynek Mácha
+5. Poslední slovo
+6. Případ Holečkovi
+7. Objektivní nález - Moje nejtěžší mise
+8. Hra
+9. Zpěv tichých dní
+10. Okraj nebe
+11. Ve výslužbě - Návštěvník z minulosti
+12. Prokletí Aurelie W.
+13. Navždy zlosyn
+14. Víla Muchomůrka: Klíč k jaru
+15. Z farářova notesu
+16. Poklad na ostrově
+17. Rytíř zeleného kříže
+
+---
+
+## 🕐 2026-03-20 06:28:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Dvojjazyčná kniha o mlčení
+2. Kde hľadať nádej
+
+---
+
 ## 🕐 2026-03-19 06:31:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,53 +287,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Netvor líbající ohnivý kráter
-
----
-
-## 🕐 2026-03-13 06:26:59 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. 50 a stále v záruce
-2. 50 odstínů klidu (a kafe)
-3. Původ je cíl
-4. Lepší než pomsta
-5. Sedm smrtelných trnů
-6. Jenom chci bejt
-7. Dva krát tři pedály
-8. Úmrtníček
-9. Muminí momentky - Pohodové Cozy omalovánky
-10. Kuchařka při onemocnění jater
-11. Moje srdce mě nakoplo do života
-12. XOXO
-13. Spása
-14. Základy rybaření
-15. Vše o létání
-16. Na cestách s Jiřím Černým
-17. Hříšníku, stůj!
-18. Danred a Hladina neznáma
-19. Nosorožci a labutě
-20. CEO Marketing Manifest I.
-
----
-
-## 🕐 2026-03-13 06:26:58 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Na polceste medzi sovietskym človekom a večným mestom
 
 ---
 
