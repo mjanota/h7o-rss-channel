@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-21 06:21:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Jak získávat přátele a působit na lidi
+2. Japonské ostrovy - Zajímavosti a přízraky 47 prefektur
+3. Prázdné duše
+4. Milostpán
+5. Sto let s Betty
+6. Eliho svět 4: Nový život ve starém světě
+7. Bílá hora: Vše, co jste o ní chtěli vědět
+8. 13 povídek pro Klub knihomolů 10
+9. Doktore, mluvte se mnou
+10. Povolání našich předků
+11. JFK 043 - Lovci artefaktů
+12. Tahle voda je naše
+13. Udíme a grilujeme
+14. In memoriam
+15. Amazing 20
+16. Flora
+17. Hudba srdce
+18. Papírák
+19. Smích ve tmě
+
+---
+
+## 🕐 2026-03-21 06:21:42 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-20 06:28:29 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
