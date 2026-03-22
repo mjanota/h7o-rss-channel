@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-22 06:26:33 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Pravda o Ruby Cooperové
+2. Umění přesvědčit kohokoliv
+3. Haraš
+4. Bez dechu
+5. Čtyři dohody - Modlitby
+6. Krok za krokem do pohody
+7. Moje cesta k miminku
+8. Vrah mezi námi
+9. Balada moře a oblohy
+10. Pekelná sudoku
+11. Jak prezentovat odborné výsledky
+12. Jihlavský architektonický manuál
+13. Sticky Ricky
+14. Chlapec z bloku 66
+15. Sticky Ricky
+16. Chunta
+17. Ulož tmu
+18. Starověký Egypt a jeho všední život
+19. Sluneční soustava - srozumitelně
+20. Iron Maiden – Kompletní příběh
+
+---
+
+## 🕐 2026-03-22 06:26:32 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-21 06:21:44 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -284,51 +327,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-03-14 06:24:48 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Tři sestry – 40 let pod vobraz
-2. Válka rybníkářů
-3. Dvůr havranů a zkázy
-4. Žijte, jako by nebyla minulost ani budoucnost
-5. Velká kniha křížovek - Léčivá zahrada
-6. Velká kniha křížovek - Vtipy a citáty pro zasmání
-7. Velká kniha křížovek - Toulky českou historií
-8. Zábavná cvičebnice - Předškoláci trénování paměti
-9. Zábavná cvičebnice - Křížovky a osmisměrky
-10. 1. Třída CVIČENÍ A ÚKOLY - BYSTRÝ ŠKOLÁK
-11. Vigilie grave
-12. Securitas Imperii 47
-13. Číselné hříčky pro chytré děti
-14. Josip Plečnik, stredoeurópsky architekt
-15. Czech Modern Architecture
-16. Wohnout - Třicet svíček na dortu
-17. Toulky s tátou
-18. Čaroděj z Kremlu
-
----
-
-## 🕐 2026-03-14 06:24:47 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Netvor líbající ohnivý kráter
 
 ---
 

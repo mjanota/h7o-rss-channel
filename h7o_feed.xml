@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:26:32 +0000</lastBuildDate>
     <item>
       <title>Dvojjazyčná kniha o mlčení</title>
       <link>https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni</link>
@@ -436,13 +436,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Před Vánoci patřily seriálové čtvrtky palestinským autorkám a autorům, kteří byli zabiti během okupace Gazy izraelskou armádou. Jejich texty doplnili prozaickými, básnickými či esejistickými reakcemi české autorky a autoři. Seriál uzavírá text Vesny Evans, věnovaný všem těm ztraceným v sutinách.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14408-bezejmenne-v-sutinach-ztracene-spisovatelky-a-spisovatele</guid>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nechal bych Boha být Bohem</title>
-      <link>https://www.h7o.cz/clanky/14407-nechal-bych-boha-byt-bohem</link>
-      <description>Josefína Formanová si v rozhovoru s teologem a komparatistou Tomášem Sixtou povídá o proměnách víry, duchovním zneužívání a křehkosti. Vyprazdňují se kostely navždy, nebo naopak dorůstá generace, která si k víře znovu hledá cestu?  Zveme k předvánočnímu čtení…</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14407-nechal-bych-boha-byt-bohem</guid>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

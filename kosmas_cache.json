@@ -1,5 +1,186 @@
 [
   {
+    "title": "Pravda o Ruby Cooperové",
+    "url": "https://www.kosmas.cz/knihy/565901/pravda-o-ruby-cooperove/",
+    "description": "Pravda o Ruby Cooperové - Liz Nugent",
+    "authors": [
+      "Liz Nugent"
+    ],
+    "date": "2026-03-22T06:26:33.260924+00:00"
+  },
+  {
+    "title": "Umění přesvědčit kohokoliv",
+    "url": "https://www.kosmas.cz/knihy/565986/umeni-presvedcit-kohokoliv/",
+    "description": "Umění přesvědčit kohokoliv - Jonah Berger",
+    "authors": [
+      "Jonah Berger"
+    ],
+    "date": "2026-03-22T06:26:32.260924+00:00"
+  },
+  {
+    "title": "Haraš",
+    "url": "https://www.kosmas.cz/knihy/566116/haras/",
+    "description": "Haraš - Ivo Fencl",
+    "authors": [
+      "Ivo Fencl"
+    ],
+    "date": "2026-03-22T06:26:31.260924+00:00"
+  },
+  {
+    "title": "Bez dechu",
+    "url": "https://www.kosmas.cz/knihy/566185/bez-dechu/",
+    "description": "Bez dechu - Jodi Ellen Malpasová",
+    "authors": [
+      "Jodi Ellen Malpasová"
+    ],
+    "date": "2026-03-22T06:26:30.260924+00:00"
+  },
+  {
+    "title": "Čtyři dohody - Modlitby",
+    "url": "https://www.kosmas.cz/knihy/566187/ctyri-dohody-modlitby/",
+    "description": "Čtyři dohody - Modlitby - Janet Millsová, Miguel Ruiz Don",
+    "authors": [
+      "Janet Millsová",
+      "Miguel Ruiz Don"
+    ],
+    "date": "2026-03-22T06:26:29.260924+00:00"
+  },
+  {
+    "title": "Krok za krokem do pohody",
+    "url": "https://www.kosmas.cz/knihy/566193/krok-za-krokem-do-pohody/",
+    "description": "Krok za krokem do pohody - Nina Barough",
+    "authors": [
+      "Nina Barough"
+    ],
+    "date": "2026-03-22T06:26:28.260924+00:00"
+  },
+  {
+    "title": "Moje cesta k miminku",
+    "url": "https://www.kosmas.cz/knihy/566195/moje-cesta-k-miminku/",
+    "description": "Moje cesta k miminku - Lucie Denková",
+    "authors": [
+      "Lucie Denková"
+    ],
+    "date": "2026-03-22T06:26:27.260924+00:00"
+  },
+  {
+    "title": "Vrah mezi námi",
+    "url": "https://www.kosmas.cz/knihy/566203/vrah-mezi-nami/",
+    "description": "Vrah mezi námi - Lauren Munoz",
+    "authors": [
+      "Lauren Munoz"
+    ],
+    "date": "2026-03-22T06:26:26.260924+00:00"
+  },
+  {
+    "title": "Balada moře a oblohy",
+    "url": "https://www.kosmas.cz/knihy/566206/balada-more-a-oblohy/",
+    "description": "Balada moře a oblohy - Eliot Madeleine",
+    "authors": [
+      "Eliot Madeleine"
+    ],
+    "date": "2026-03-22T06:26:25.260924+00:00"
+  },
+  {
+    "title": "Pekelná sudoku",
+    "url": "https://www.kosmas.cz/knihy/566212/pekelna-sudoku/",
+    "description": "Pekelná sudoku - Petr Sýkora",
+    "authors": [
+      "Petr Sýkora"
+    ],
+    "date": "2026-03-22T06:26:24.260924+00:00"
+  },
+  {
+    "title": "Jak prezentovat odborné výsledky",
+    "url": "https://www.kosmas.cz/knihy/566253/jak-prezentovat-odborne-vysledky/",
+    "description": "Jak prezentovat odborné výsledky - Eva Juláková",
+    "authors": [
+      "Eva Juláková"
+    ],
+    "date": "2026-03-22T06:26:23.260924+00:00"
+  },
+  {
+    "title": "Jihlavský architektonický manuál",
+    "url": "https://www.kosmas.cz/knihy/566279/jihlavsky-architektonicky-manual/",
+    "description": "Jihlavský architektonický manuál - kol., Filip Kochan, Jana Laubová, Jiří Neubert",
+    "authors": [
+      "kol.",
+      "Filip Kochan",
+      "Jana Laubová",
+      "Jiří Neubert"
+    ],
+    "date": "2026-03-22T06:26:22.260924+00:00"
+  },
+  {
+    "title": "Sticky Ricky",
+    "url": "https://www.kosmas.cz/knihy/566333/sticky-ricky/",
+    "description": "Sticky Ricky - Band of Heysek",
+    "authors": [
+      "Band of Heysek"
+    ],
+    "date": "2026-03-22T06:26:21.260924+00:00"
+  },
+  {
+    "title": "Chlapec z bloku 66",
+    "url": "https://www.kosmas.cz/knihy/566335/chlapec-z-bloku-66/",
+    "description": "Chlapec z bloku 66 - Limor Regev",
+    "authors": [
+      "Limor Regev"
+    ],
+    "date": "2026-03-22T06:26:20.260924+00:00"
+  },
+  {
+    "title": "Sticky Ricky",
+    "url": "https://www.kosmas.cz/knihy/566337/sticky-ricky/",
+    "description": "Sticky Ricky - Band of Heysek",
+    "authors": [
+      "Band of Heysek"
+    ],
+    "date": "2026-03-22T06:26:19.260924+00:00"
+  },
+  {
+    "title": "Chunta",
+    "url": "https://www.kosmas.cz/knihy/566338/chunta/",
+    "description": "Chunta - Pilgr Doubrava, Nikl Kyšperský",
+    "authors": [
+      "Pilgr Doubrava",
+      "Nikl Kyšperský"
+    ],
+    "date": "2026-03-22T06:26:18.260924+00:00"
+  },
+  {
+    "title": "Ulož tmu",
+    "url": "https://www.kosmas.cz/knihy/566352/uloz-tmu/",
+    "description": "Ulož tmu - Nauzea Orchestra",
+    "authors": [
+      "Nauzea Orchestra"
+    ],
+    "date": "2026-03-22T06:26:17.260924+00:00"
+  },
+  {
+    "title": "Starověký Egypt a jeho všední život",
+    "url": "https://www.kosmas.cz/knihy/566451/staroveky-egypt-a-jeho-vsedni-zivot/",
+    "description": "Starověký Egypt a jeho všední život",
+    "authors": [],
+    "date": "2026-03-22T06:26:16.260924+00:00"
+  },
+  {
+    "title": "Sluneční soustava - srozumitelně",
+    "url": "https://www.kosmas.cz/knihy/566453/slunecni-soustava-srozumitelne/",
+    "description": "Sluneční soustava - srozumitelně",
+    "authors": [],
+    "date": "2026-03-22T06:26:15.260924+00:00"
+  },
+  {
+    "title": "Iron Maiden – Kompletní příběh",
+    "url": "https://www.kosmas.cz/knihy/566455/iron-maiden-kompletni-pribeh/",
+    "description": "Iron Maiden – Kompletní příběh - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-03-22T06:26:14.260924+00:00"
+  },
+  {
     "title": "Jak získávat přátele a působit na lidi",
     "url": "https://www.kosmas.cz/knihy/565428/jak-ziskavat-pratele-a-pusobit-na-lidi/",
     "description": "Jak získávat přátele a působit na lidi - Dale Carnegie",
@@ -1615,185 +1796,5 @@
       "Jim Davis"
     ],
     "date": "2026-03-10T06:24:58.843435+00:00"
-  },
-  {
-    "title": "Solo Leveling 7",
-    "url": "https://www.kosmas.cz/knihy/566061/solo-leveling-7/",
-    "description": "Solo Leveling 7 - Čchugong, Sorjong Ki",
-    "authors": [
-      "Čchugong",
-      "Sorjong Ki"
-    ],
-    "date": "2026-03-10T06:24:57.843435+00:00"
-  },
-  {
-    "title": "Batman 6: Stav strachu",
-    "url": "https://www.kosmas.cz/knihy/566091/batman-6-stav-strachu/",
-    "description": "Batman 6: Stav strachu - James Tynion IV",
-    "authors": [
-      "James Tynion IV"
-    ],
-    "date": "2026-03-10T06:24:56.843435+00:00"
-  },
-  {
-    "title": "Václav IV. - Na zármutek nezbyl čas",
-    "url": "https://www.kosmas.cz/knihy/565755/vaclav-iv.-na-zarmutek-nezbyl-cas/",
-    "description": "Václav IV. - Na zármutek nezbyl čas - Jaromír Jindra",
-    "authors": [
-      "Jaromír Jindra"
-    ],
-    "date": "2026-03-10T06:24:55.843435+00:00"
-  },
-  {
-    "title": "Svědek vraždy",
-    "url": "https://www.kosmas.cz/knihy/565760/svedek-vrazdy/",
-    "description": "Svědek vraždy - Verity Bright",
-    "authors": [
-      "Verity Bright"
-    ],
-    "date": "2026-03-10T06:24:54.843435+00:00"
-  },
-  {
-    "title": "Sakamoto Days 11: Šleha",
-    "url": "https://www.kosmas.cz/knihy/566148/sakamoto-days-11-sleha/",
-    "description": "Sakamoto Days 11: Šleha - Júto Suzuki",
-    "authors": [
-      "Júto Suzuki"
-    ],
-    "date": "2026-03-10T06:24:53.843435+00:00"
-  },
-  {
-    "title": "Milán Cortina 2026",
-    "url": "https://www.kosmas.cz/knihy/564748/milan-cortina-2026/",
-    "description": "Milán Cortina 2026 - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-03-10T06:24:52.843435+00:00"
-  },
-  {
-    "title": "Rychlé šípy - sběratelské vydání - 1. díl",
-    "url": "https://www.kosmas.cz/knihy/565078/rychle-sipy-sberatelske-vydani-1.-dil/",
-    "description": "Rychlé šípy - sběratelské vydání - 1. díl - Jaroslav Foglar",
-    "authors": [
-      "Jaroslav Foglar"
-    ],
-    "date": "2026-03-10T06:24:51.843435+00:00"
-  },
-  {
-    "title": "Kuchařka při onemocnění slinivky",
-    "url": "https://www.kosmas.cz/knihy/565079/kucharka-pri-onemocneni-slinivky/",
-    "description": "Kuchařka při onemocnění slinivky - Růžena Milatová, Petr Wohl",
-    "authors": [
-      "Růžena Milatová",
-      "Petr Wohl"
-    ],
-    "date": "2026-03-10T06:24:50.843435+00:00"
-  },
-  {
-    "title": "Bezezbytková dieta při onemocnění střev",
-    "url": "https://www.kosmas.cz/knihy/565097/bezezbytkova-dieta-pri-onemocneni-strev/",
-    "description": "Bezezbytková dieta při onemocnění střev - Růžena Milatová, Pavel Wohl",
-    "authors": [
-      "Růžena Milatová",
-      "Pavel Wohl"
-    ],
-    "date": "2026-03-10T06:24:49.843435+00:00"
-  },
-  {
-    "title": "Rósa a Björk",
-    "url": "https://www.kosmas.cz/knihy/565521/rosa-a-bjork/",
-    "description": "Rósa a Björk - Satu Rämö",
-    "authors": [
-      "Satu Rämö"
-    ],
-    "date": "2026-03-10T06:24:48.843435+00:00"
-  },
-  {
-    "title": "Petr Císařovský Sedm bran / The Seven Gates",
-    "url": "https://www.kosmas.cz/knihy/565537/petr-cisarovsky-sedm-bran-the-seven-gates/",
-    "description": "Petr Císařovský Sedm bran / The Seven Gates - Petr Císařovský",
-    "authors": [
-      "Petr Císařovský"
-    ],
-    "date": "2026-03-10T06:24:47.843435+00:00"
-  },
-  {
-    "title": "Medailistka 1",
-    "url": "https://www.kosmas.cz/knihy/566059/medailistka-1/",
-    "description": "Medailistka 1 - Curumaikada",
-    "authors": [
-      "Curumaikada"
-    ],
-    "date": "2026-03-10T06:24:46.843435+00:00"
-  },
-  {
-    "title": "Na Izraeli záleží",
-    "url": "https://www.kosmas.cz/knihy/565709/na-izraeli-zalezi/",
-    "description": "Na Izraeli záleží - Gerald R. McDermott",
-    "authors": [
-      "Gerald R. McDermott"
-    ],
-    "date": "2026-03-10T06:24:45.843435+00:00"
-  },
-  {
-    "title": "Na skok do divočiny - Příběh podle filmu",
-    "url": "https://www.kosmas.cz/knihy/565719/na-skok-do-divociny-pribeh-podle-filmu/",
-    "description": "Na skok do divočiny - Příběh podle filmu - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-03-10T06:24:44.843435+00:00"
-  },
-  {
-    "title": "Zemětřesení 0.1 / Epicentrum",
-    "url": "https://www.kosmas.cz/knihy/565726/zemetreseni-0.1-epicentrum/",
-    "description": "Zemětřesení 0.1 / Epicentrum - Jiří Schelinger",
-    "authors": [
-      "Jiří Schelinger"
-    ],
-    "date": "2026-03-10T06:24:43.843435+00:00"
-  },
-  {
-    "title": "One Piece - Sběratelský box, část 2: Písečné království",
-    "url": "https://www.kosmas.cz/knihy/566088/one-piece-sberatelsky-box-cast-2-pisecne-kralovstvi/",
-    "description": "One Piece - Sběratelský box, část 2: Písečné království",
-    "authors": [],
-    "date": "2026-03-10T06:24:42.843435+00:00"
-  },
-  {
-    "title": "Zaklínač: Konec světa / Otázka ceny",
-    "url": "https://www.kosmas.cz/knihy/566089/zaklinac-konec-sveta-otazka-ceny/",
-    "description": "Zaklínač: Konec světa / Otázka ceny - Magdalena Saliková, Marta Krajewska",
-    "authors": [
-      "Magdalena Saliková",
-      "Marta Krajewska"
-    ],
-    "date": "2026-03-10T06:24:41.843435+00:00"
-  },
-  {
-    "title": "Smrt",
-    "url": "https://www.kosmas.cz/knihy/563727/smrt/",
-    "description": "Smrt - Laura Thalassa",
-    "authors": [
-      "Laura Thalassa"
-    ],
-    "date": "2026-03-09T06:32:34.579000+00:00"
-  },
-  {
-    "title": "Ponorky druhé světové války",
-    "url": "https://www.kosmas.cz/knihy/565860/ponorky-druhe-svetove-valky/",
-    "description": "Ponorky druhé světové války",
-    "authors": [],
-    "date": "2026-03-09T06:32:16.579000+00:00"
-  },
-  {
-    "title": "Štafeta",
-    "url": "https://www.kosmas.cz/knihy/564756/stafeta/",
-    "description": "Štafeta - Maiko Seo",
-    "authors": [
-      "Maiko Seo"
-    ],
-    "date": "2026-03-08T06:22:00.372004+00:00"
   }
 ]
