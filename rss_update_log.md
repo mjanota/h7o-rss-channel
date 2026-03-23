@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-23 06:38:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 6
+
+**Tituly nových položek:**
+
+1. Zamilovaný vikomt
+2. Viktor
+3. Osobní IQ trenér
+4. Láska, vztahy, sex
+5. Zahrada prostřená
+6. Jizerské hory
+
+---
+
+## 🕐 2026-03-23 06:38:21 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-03-22 06:26:33 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -295,32 +324,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-03-16 06:43:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-03-15 06:30:32 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 3
-
-**Tituly nových položek:**
-
-1. Srdce z ledu
-2. Balčik
-3. Námořník z domu s cimbuřím
-
----
-
-## 🕐 2026-03-15 06:30:31 UTC
 
 **Zdroj:** H7O - Časopis Host
 

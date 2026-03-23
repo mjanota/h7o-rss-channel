@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:38:22 +0000</lastBuildDate>
+    <item>
+      <title>Zamilovaný vikomt</title>
+      <link>https://www.kosmas.cz/knihy/566469/zamilovany-vikomt/</link>
+      <description>Zamilovaný vikomt - Eloisa James</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566469/zamilovany-vikomt/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Viktor</title>
+      <link>https://www.kosmas.cz/knihy/566498/viktor/</link>
+      <description>Viktor - Kamil Bouška</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566498/viktor/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Osobní IQ trenér</title>
+      <link>https://www.kosmas.cz/knihy/566499/osobni-iq-trener/</link>
+      <description>Osobní IQ trenér - Wolfgang Reichel</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566499/osobni-iq-trener/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Láska, vztahy, sex</title>
+      <link>https://www.kosmas.cz/knihy/565650/laska-vztahy-sex/</link>
+      <description>Láska, vztahy, sex - Laura Janáčková, kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565650/laska-vztahy-sex/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zahrada prostřená</title>
+      <link>https://www.kosmas.cz/knihy/565747/zahrada-prostrena/</link>
+      <description>Zahrada prostřená - Pavla Horáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565747/zahrada-prostrena/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jizerské hory</title>
+      <link>https://www.kosmas.cz/knihy/566792/jizerske-hory/</link>
+      <description>Jizerské hory - Miloslav Studnička</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566792/jizerske-hory/</guid>
+      <pubDate>Mon, 23 Mar 2026 06:38:06 +0000</pubDate>
+    </item>
     <item>
       <title>Pravda o Ruby Cooperové</title>
       <link>https://www.kosmas.cz/knihy/565901/pravda-o-ruby-cooperove/</link>
@@ -665,48 +707,6 @@
       <description>Alice´s Adventures in Wonderland - Caroll Lewis</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/566523/alice-s-adventures-in-wonderland/</guid>
       <pubDate>Wed, 18 Mar 2026 06:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oskar a já</title>
-      <link>https://www.kosmas.cz/knihy/551370/oskar-a-ja/</link>
-      <description>Oskar a já - Maria Parrová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/551370/oskar-a-ja/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Byznys pro 21. století</title>
-      <link>https://www.kosmas.cz/knihy/566541/byznys-pro-21.-stoleti/</link>
-      <description>Byznys pro 21. století - John Fleming, Kim Kiyosaki, Robert T. Kiyosaki</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566541/byznys-pro-21.-stoleti/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pravidlo pěti vteřin</title>
-      <link>https://www.kosmas.cz/knihy/566542/pravidlo-peti-vterin/</link>
-      <description>Pravidlo pěti vteřin - Mel Robbinsová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566542/pravidlo-peti-vterin/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čas čarodějnic 3: Kniha života</title>
-      <link>https://www.kosmas.cz/knihy/566543/cas-carodejnic-3-kniha-zivota/</link>
-      <description>Čas čarodějnic 3: Kniha života - Deborah Harknessová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566543/cas-carodejnic-3-kniha-zivota/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Na věky věků</title>
-      <link>https://www.kosmas.cz/knihy/564763/na-veky-veku/</link>
-      <description>Na věky věků - Ken Follett</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564763/na-veky-veku/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čas čarodějnic 4: Syn času</title>
-      <link>https://www.kosmas.cz/knihy/566546/cas-carodejnic-4-syn-casu/</link>
-      <description>Čas čarodějnic 4: Syn času - Deborah Harknessová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566546/cas-carodejnic-4-syn-casu/</guid>
-      <pubDate>Tue, 17 Mar 2026 06:32:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

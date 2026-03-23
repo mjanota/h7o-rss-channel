@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:38:21 +0000</lastBuildDate>
     <item>
       <title>Dvojjazyčná kniha o mlčení</title>
       <link>https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni</link>
@@ -429,13 +429,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Zažíváme homogenizaci literatury skrze clustery několika témat? A je problém v samotných tématech nebo v tom, že na ně i myšlení o literatuře čím dál víc redukujeme? O co tím případně přicházíme? Více v komentáři Ondřeje Nezbedy.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14411-tema-jako-alibi</guid>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezejmenné, v sutinách ztracené spisovatelky a spisovatelé</title>
-      <link>https://www.h7o.cz/clanky/14408-bezejmenne-v-sutinach-ztracene-spisovatelky-a-spisovatele</link>
-      <description>Před Vánoci patřily seriálové čtvrtky palestinským autorkám a autorům, kteří byli zabiti během okupace Gazy izraelskou armádou. Jejich texty doplnili prozaickými, básnickými či esejistickými reakcemi české autorky a autoři. Seriál uzavírá text Vesny Evans, věnovaný všem těm ztraceným v sutinách.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14408-bezejmenne-v-sutinach-ztracene-spisovatelky-a-spisovatele</guid>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
