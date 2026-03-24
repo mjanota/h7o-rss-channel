@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-24 06:33:33 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Znamení rožmberské růže
+2. Křišťálový klíč I. - Falknovská huť (1695 - 1713)
+3. Hop a tajemství jezera
+4. Jak jsem se reinkarnoval coby sliz 16
+5. Láska ve střihu cosplaye 13
+6. Vinlandská sága 1
+7. Tuten malej princ
+8. Burning Love
+9. Nevěřím v astrologii
+10. Francouzština ke kafíčku
+11. Co skrývá noc
+12. Smrt Mínótaurova
+13. Jídlem proti času - Cesta ke spokojenosti a dlouhověkosti
+14. Ztracený příběh
+15. Randění s mrzoutem
+16. Útesy smrti
+17. Elementárie
+18. Vanitas: Magická kniha 4
+19. Jak vycvičit Dračí školu: Zletounova zhouba
+20. Mbappé. Fotbalové ikony
+
+---
+
+## 🕐 2026-03-24 06:33:32 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. S Mirem Remem v divočině
+
+---
+
 ## 🕐 2026-03-23 06:38:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -253,83 +300,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Svazky Knižnice nevznikají ve vzduchoprázdnu
-
----
-
-## 🕐 2026-03-17 06:32:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Oskar a já
-2. Byznys pro 21. století
-3. Pravidlo pěti vteřin
-4. Čas čarodějnic 3: Kniha života
-5. Na věky věků
-6. Čas čarodějnic 4: Syn času
-7. Čas čarodějnic 2: Stín noci
-8. Pilíře země
-9. Proč muži chtějí sex a ženy potřebují lásku
-10. Čas čarodějnic
-11. Hon na ovci
-12. Palec v rohlíku
-13. Budějovická mordparta
-14. Cesty do fantazie
-15. Three from Jerusalem
-16. Stíhací eso luftwaffe
-17. Zombiekarnace
-18. Moderní česká architektura
-
----
-
-## 🕐 2026-03-17 06:32:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Se Sovětským svazem přišel atom na zem
-
----
-
-## 🕐 2026-03-16 06:43:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Korejské mýty a legendy
-2. Skladiště
-3. První na startu
-4. Perlička na dně
-5. Mondrago – Dračí mláďata: Draci ohně
-6. Vykoupení
-7. Broken Past: Minulost nezměníš
-8. Nejdivočejší sny
-9. Věci
-
----
-
-## 🕐 2026-03-16 06:43:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
