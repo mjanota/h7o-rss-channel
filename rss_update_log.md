@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-25 06:33:26 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Na Větrné hůrce
+2. Černá lilie
+3. Perchta z Rožmberka aneb Bílá paní
+4. Metráček
+5. Zlý začátek
+6. Prostě vztahy
+7. Poslední medvěd
+8. Případ nitravské mince
+9. Komtur
+10. Život ve staletích – 15. století
+11. Encyklopedie sídelních biskupů v českých zemích
+12. Peníze v moderní kultuře a jiné eseje
+13. Vinnetou  - Poslední výstřel
+14. Byzantská pouť
+15. Robert Ďábel
+16. Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců
+17. Kuděj 2025/2
+18. Ptačí omalovánky Pavlíny Kourkové
+19. Podnikatel versus kapitál – kapitál versus podnikatel
+20. O člověku, který se nebál bát
+
+---
+
+## 🕐 2026-03-25 06:33:25 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Malá jiskra optimismu
+
+---
+
 ## 🕐 2026-03-24 06:33:33 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

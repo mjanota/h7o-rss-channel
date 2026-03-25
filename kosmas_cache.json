@@ -1,5 +1,185 @@
 [
   {
+    "title": "Na Větrné hůrce",
+    "url": "https://www.kosmas.cz/knihy/529551/na-vetrne-hurce/",
+    "description": "Na Větrné hůrce - Emily Brontëová",
+    "authors": [
+      "Emily Brontëová"
+    ],
+    "date": "2026-03-25T06:33:26.305812+00:00"
+  },
+  {
+    "title": "Černá lilie",
+    "url": "https://www.kosmas.cz/knihy/531479/cerna-lilie/",
+    "description": "Černá lilie - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-03-25T06:33:25.305812+00:00"
+  },
+  {
+    "title": "Perchta z Rožmberka aneb Bílá paní",
+    "url": "https://www.kosmas.cz/knihy/553383/perchta-z-rozmberka-aneb-bila-pani/",
+    "description": "Perchta z Rožmberka aneb Bílá paní - Eda Kriseová",
+    "authors": [
+      "Eda Kriseová"
+    ],
+    "date": "2026-03-25T06:33:24.305812+00:00"
+  },
+  {
+    "title": "Metráček",
+    "url": "https://www.kosmas.cz/knihy/551637/metracek/",
+    "description": "Metráček - Stanislav Rudolf",
+    "authors": [
+      "Stanislav Rudolf"
+    ],
+    "date": "2026-03-25T06:33:23.305812+00:00"
+  },
+  {
+    "title": "Zlý začátek",
+    "url": "https://www.kosmas.cz/knihy/546830/zly-zacatek/",
+    "description": "Zlý začátek - Lemony Snicket",
+    "authors": [
+      "Lemony Snicket"
+    ],
+    "date": "2026-03-25T06:33:22.305812+00:00"
+  },
+  {
+    "title": "Prostě vztahy",
+    "url": "https://www.kosmas.cz/knihy/546831/proste-vztahy/",
+    "description": "Prostě vztahy - Honza Vojtko",
+    "authors": [
+      "Honza Vojtko"
+    ],
+    "date": "2026-03-25T06:33:21.305812+00:00"
+  },
+  {
+    "title": "Poslední medvěd",
+    "url": "https://www.kosmas.cz/knihy/546833/posledni-medved/",
+    "description": "Poslední medvěd - Hannah Goldová",
+    "authors": [
+      "Hannah Goldová"
+    ],
+    "date": "2026-03-25T06:33:20.305812+00:00"
+  },
+  {
+    "title": "Případ nitravské mince",
+    "url": "https://www.kosmas.cz/knihy/546838/pripad-nitravske-mince/",
+    "description": "Případ nitravské mince - Stanislav Češka",
+    "authors": [
+      "Stanislav Češka"
+    ],
+    "date": "2026-03-25T06:33:19.305812+00:00"
+  },
+  {
+    "title": "Komtur",
+    "url": "https://www.kosmas.cz/knihy/544433/komtur/",
+    "description": "Komtur - Petr S. Pixy",
+    "authors": [
+      "Petr S. Pixy"
+    ],
+    "date": "2026-03-25T06:33:18.305812+00:00"
+  },
+  {
+    "title": "Život ve staletích – 15. století",
+    "url": "https://www.kosmas.cz/knihy/544434/zivot-ve-staletich-15.-stoleti/",
+    "description": "Život ve staletích – 15. století - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-03-25T06:33:17.305812+00:00"
+  },
+  {
+    "title": "Encyklopedie sídelních biskupů v českých zemích",
+    "url": "https://www.kosmas.cz/knihy/566077/encyklopedie-sidelnich-biskupu-v-ceskych-zemich/",
+    "description": "Encyklopedie sídelních biskupů v českých zemích - Milan Buben",
+    "authors": [
+      "Milan Buben"
+    ],
+    "date": "2026-03-25T06:33:16.305812+00:00"
+  },
+  {
+    "title": "Peníze v moderní kultuře a jiné eseje",
+    "url": "https://www.kosmas.cz/knihy/566079/penize-v-moderni-kulture-a-jine-eseje/",
+    "description": "Peníze v moderní kultuře a jiné eseje - Georg Simmel",
+    "authors": [
+      "Georg Simmel"
+    ],
+    "date": "2026-03-25T06:33:15.305812+00:00"
+  },
+  {
+    "title": "Vinnetou  - Poslední výstřel",
+    "url": "https://www.kosmas.cz/knihy/566083/vinnetou-posledni-vystrel/",
+    "description": "Vinnetou  - Poslední výstřel - Karel May",
+    "authors": [
+      "Karel May"
+    ],
+    "date": "2026-03-25T06:33:14.305812+00:00"
+  },
+  {
+    "title": "Byzantská pouť",
+    "url": "https://www.kosmas.cz/knihy/566087/byzantska-pout/",
+    "description": "Byzantská pouť - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-03-25T06:33:13.305812+00:00"
+  },
+  {
+    "title": "Robert Ďábel",
+    "url": "https://www.kosmas.cz/knihy/566129/robert-dabel/",
+    "description": "Robert Ďábel",
+    "authors": [],
+    "date": "2026-03-25T06:33:12.305812+00:00"
+  },
+  {
+    "title": "Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců",
+    "url": "https://www.kosmas.cz/knihy/566353/cesky-knize-vladislav-i.-zapadni-cechy-a-cesky-stat-za-vlady-premyslovcu/",
+    "description": "Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců - kolektiv autorů, Martin Slepička, Naděžda Morávková",
+    "authors": [
+      "kolektiv autorů",
+      "Martin Slepička",
+      "Naděžda Morávková"
+    ],
+    "date": "2026-03-25T06:33:11.305812+00:00"
+  },
+  {
+    "title": "Kuděj 2025/2",
+    "url": "https://www.kosmas.cz/knihy/566354/kudej-2025-2/",
+    "description": "Kuděj 2025/2",
+    "authors": [],
+    "date": "2026-03-25T06:33:10.305812+00:00"
+  },
+  {
+    "title": "Ptačí omalovánky Pavlíny Kourkové",
+    "url": "https://www.kosmas.cz/knihy/565730/ptaci-omalovanky-pavliny-kourkove/",
+    "description": "Ptačí omalovánky Pavlíny Kourkové - Pavlína Kourková",
+    "authors": [
+      "Pavlína Kourková"
+    ],
+    "date": "2026-03-25T06:33:09.305812+00:00"
+  },
+  {
+    "title": "Podnikatel versus kapitál – kapitál versus podnikatel",
+    "url": "https://www.kosmas.cz/knihy/566462/podnikatel-versus-kapital-kapital-versus-podnikatel/",
+    "description": "Podnikatel versus kapitál – kapitál versus podnikatel - Miloš Hořejš, Eduard Kubů, Barbora Štolleová",
+    "authors": [
+      "Miloš Hořejš",
+      "Eduard Kubů",
+      "Barbora Štolleová"
+    ],
+    "date": "2026-03-25T06:33:08.305812+00:00"
+  },
+  {
+    "title": "O člověku, který se nebál bát",
+    "url": "https://www.kosmas.cz/knihy/566510/o-cloveku-ktery-se-nebal-bat/",
+    "description": "O člověku, který se nebál bát - Jan Krůta",
+    "authors": [
+      "Jan Krůta"
+    ],
+    "date": "2026-03-25T06:33:07.305812+00:00"
+  },
+  {
     "title": "Znamení rožmberské růže",
     "url": "https://www.kosmas.cz/knihy/215379/znameni-rozmberske-ruze/",
     "description": "Znamení rožmberské růže - Vlastimil Vondruška",
@@ -1622,187 +1802,5 @@
       "Axie Oh"
     ],
     "date": "2026-03-13T06:26:48.969989+00:00"
-  },
-  {
-    "title": "Spása",
-    "url": "https://www.kosmas.cz/knihy/565160/spasa/",
-    "description": "Spása - Kristina Ohlssonová",
-    "authors": [
-      "Kristina Ohlssonová"
-    ],
-    "date": "2026-03-13T06:26:47.969989+00:00"
-  },
-  {
-    "title": "Základy rybaření",
-    "url": "https://www.kosmas.cz/knihy/565168/zaklady-rybareni/",
-    "description": "Základy rybaření - Petr Svatek, Jakub Šabata",
-    "authors": [
-      "Petr Svatek",
-      "Jakub Šabata"
-    ],
-    "date": "2026-03-13T06:26:46.969989+00:00"
-  },
-  {
-    "title": "Vše o létání",
-    "url": "https://www.kosmas.cz/knihy/565342/vse-o-letani/",
-    "description": "Vše o létání - Andrea Erne",
-    "authors": [
-      "Andrea Erne"
-    ],
-    "date": "2026-03-13T06:26:45.969989+00:00"
-  },
-  {
-    "title": "Na cestách s Jiřím Černým",
-    "url": "https://www.kosmas.cz/knihy/566399/na-cestach-s-jirim-cernym/",
-    "description": "Na cestách s Jiřím Černým - Petr Sedláček",
-    "authors": [
-      "Petr Sedláček"
-    ],
-    "date": "2026-03-13T06:26:44.969989+00:00"
-  },
-  {
-    "title": "Hříšníku, stůj!",
-    "url": "https://www.kosmas.cz/knihy/566400/hrisniku-stuj/",
-    "description": "Hříšníku, stůj! - Michal Bystrov",
-    "authors": [
-      "Michal Bystrov"
-    ],
-    "date": "2026-03-13T06:26:43.969989+00:00"
-  },
-  {
-    "title": "Danred a Hladina neznáma",
-    "url": "https://www.kosmas.cz/knihy/566419/danred-a-hladina-neznama/",
-    "description": "Danred a Hladina neznáma - Dominik Kameš",
-    "authors": [
-      "Dominik Kameš"
-    ],
-    "date": "2026-03-13T06:26:42.969989+00:00"
-  },
-  {
-    "title": "Nosorožci a labutě",
-    "url": "https://www.kosmas.cz/knihy/566421/nosorozci-a-labute/",
-    "description": "Nosorožci a labutě - Štěpán Jiřička",
-    "authors": [
-      "Štěpán Jiřička"
-    ],
-    "date": "2026-03-13T06:26:41.969989+00:00"
-  },
-  {
-    "title": "CEO Marketing Manifest I.",
-    "url": "https://www.kosmas.cz/knihy/566433/ceo-marketing-manifest-i/",
-    "description": "CEO Marketing Manifest I. - Pavel Hrejsemnou",
-    "authors": [
-      "Pavel Hrejsemnou"
-    ],
-    "date": "2026-03-13T06:26:40.969989+00:00"
-  },
-  {
-    "title": "Vzplanutí",
-    "url": "https://www.kosmas.cz/knihy/566357/vzplanuti/",
-    "description": "Vzplanutí - Jiří Březina",
-    "authors": [
-      "Jiří Březina"
-    ],
-    "date": "2026-03-12T06:27:46.164895+00:00"
-  },
-  {
-    "title": "Tady Vorel, pitevna",
-    "url": "https://www.kosmas.cz/knihy/566358/tady-vorel-pitevna/",
-    "description": "Tady Vorel, pitevna - Blanka Kubíková, František Vorel",
-    "authors": [
-      "Blanka Kubíková",
-      "František Vorel"
-    ],
-    "date": "2026-03-12T06:27:45.164895+00:00"
-  },
-  {
-    "title": "Válka rybníkářů",
-    "url": "https://www.kosmas.cz/knihy/565677/valka-rybnikaru/",
-    "description": "Válka rybníkářů - Vladimír Šlechta",
-    "authors": [
-      "Vladimír Šlechta"
-    ],
-    "date": "2026-03-12T06:27:44.164895+00:00"
-  },
-  {
-    "title": "Srdce z ledu",
-    "url": "https://www.kosmas.cz/knihy/565678/srdce-z-ledu/",
-    "description": "Srdce z ledu - Stacy Green",
-    "authors": [
-      "Stacy Green"
-    ],
-    "date": "2026-03-12T06:27:43.164895+00:00"
-  },
-  {
-    "title": "Legendy a latéčka - speciální edice",
-    "url": "https://www.kosmas.cz/knihy/565463/legendy-a-latecka-specialni-edice/",
-    "description": "Legendy a latéčka - speciální edice - Travis Baldree",
-    "authors": [
-      "Travis Baldree"
-    ],
-    "date": "2026-03-12T06:27:42.164895+00:00"
-  },
-  {
-    "title": "Hříšný jako Brody",
-    "url": "https://www.kosmas.cz/knihy/565979/hrisny-jako-brody/",
-    "description": "Hříšný jako Brody - Jaine Diamond",
-    "authors": [
-      "Jaine Diamond"
-    ],
-    "date": "2026-03-12T06:27:41.164895+00:00"
-  },
-  {
-    "title": "MORDYDY - Islandika",
-    "url": "https://www.kosmas.cz/knihy/565982/mordydy-islandika/",
-    "description": "MORDYDY - Islandika - Petr Kopl",
-    "authors": [
-      "Petr Kopl"
-    ],
-    "date": "2026-03-12T06:27:40.164895+00:00"
-  },
-  {
-    "title": "Šťastně i po smrti",
-    "url": "https://www.kosmas.cz/knihy/565535/stastne-i-po-smrti/",
-    "description": "Šťastně i po smrti - Shivaun Plozza",
-    "authors": [
-      "Shivaun Plozza"
-    ],
-    "date": "2026-03-12T06:27:39.164895+00:00"
-  },
-  {
-    "title": "Juditino tajemství",
-    "url": "https://www.kosmas.cz/knihy/566099/juditino-tajemstvi/",
-    "description": "Juditino tajemství - Veronika Moreira",
-    "authors": [
-      "Veronika Moreira"
-    ],
-    "date": "2026-03-12T06:27:37.164895+00:00"
-  },
-  {
-    "title": "Dcery květin: Islandské tajemství",
-    "url": "https://www.kosmas.cz/knihy/566188/dcery-kvetin-islandske-tajemstvi/",
-    "description": "Dcery květin: Islandské tajemství - Tessa Collins",
-    "authors": [
-      "Tessa Collins"
-    ],
-    "date": "2026-03-12T06:27:36.164895+00:00"
-  },
-  {
-    "title": "Měsíční zahrada",
-    "url": "https://www.kosmas.cz/knihy/566275/mesicni-zahrada/",
-    "description": "Měsíční zahrada - Rosie Hannigan",
-    "authors": [
-      "Rosie Hannigan"
-    ],
-    "date": "2026-03-12T06:27:35.164895+00:00"
-  },
-  {
-    "title": "Železný půlměsíc",
-    "url": "https://www.kosmas.cz/knihy/566355/zelezny-pulmesic/",
-    "description": "Železný půlměsíc - Juraj Červenák",
-    "authors": [
-      "Juraj Červenák"
-    ],
-    "date": "2026-03-12T06:27:34.164895+00:00"
   }
 ]
