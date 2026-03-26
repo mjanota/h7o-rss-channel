@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-26 06:36:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Stříbrné přízraky
+2. Stopy ve sněhu
+3. Hrob na kopci
+4. Návrat Medicejů
+5. Nevinní andělé
+6. Naše zářná léta
+7. Mládežnická atletika – Běhy a chůze
+8. Plánování v mateřské škole
+9. Dal jsem ti oči, a tys je upřela do temnot
+10. Náměty a tipy na práci s nadaným žákem
+11. Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí
+12. Literární archiv 57/2025 - PEN klub a jeho autoři
+13. 100 zajímavostí ze staré Šumavy
+14. Luštění pro děti - vtipy a hádanky
+15. Luštění pro děti - vtipy
+16. Zavolejte sestřičky
+17. Host 2026/3
+18. Nový zlatý věk Země
+19. Runy v přírodní magii
+20. Tajný život vody podle Viktora Schaubergera
+
+---
+
+## 🕐 2026-03-26 06:36:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hledám způsoby, jak rozšířit své výpovědní možnosti
+
+---
+
 ## 🕐 2026-03-25 06:33:26 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,98 +302,6 @@ Uchovává záznamy za poslední týden.
 
 1. Dvojjazyčná kniha o mlčení
 2. Kde hľadať nádej
-
----
-
-## 🕐 2026-03-19 06:31:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Osamělí hrdinové
-2. Cesta na Sardinii
-3. Kdo štěká, nekouše
-4. Pravidla zabíjení
-5. Balada moře a oblohy
-6. Prázdné duše
-7. Ta bolest nejsi ty
-8. Rusko Leninovo a Stalinovo
-9. Běsná zem
-10. Psi z Essexu
-11. Druhý suvenýr
-12. Městečko Son
-13. Pacička
-14. Císař Karel IV.
-15. Pod obloukem světla
-16. Sport, média a politika
-17. Zhubni bez keců - Diety Nefungují, návyky ANO
-18. Maluj vodou zas a znova – Zvířátka na vsi
-19. Záhada hlavolamu
-
----
-
-## 🕐 2026-03-19 06:30:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Člověku zbývá voyeurství
-
----
-
-## 🕐 2026-03-18 06:33:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Věci, které uvidíte, jen když zpomalíte
-2. Rare Places -  Průvodce do kapsy 2.díl
-3. Onyx Storm
-4. Dům ticha
-5. Tajné princezny – Neposlušné štěně
-6. Rozhovory v manažerské praxi
-7. Veřejné zdravotnictví a výchova ke zdraví
-8. Veřejné zdravotnictví a výchova ke zdraví pro SZŠ
-9. Smrti, smrď
-10. Figura
-11. Semínko
-12. Tejpování v těhotenství
-13. Šťastné blues aneb Z deníku Jaroslava Ježka
-14. Jsem asi boomer
-15. Václav Mergl – Mysterium hmoty
-16. Vila Lanna. Příběh domu a lidí
-17. Nový Orient 2/2025
-18. 1984
-19. Alice´s Adventures in Wonderland
-
----
-
-## 🕐 2026-03-18 06:33:52 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Svazky Knižnice nevznikají ve vzduchoprázdnu
 
 ---
 

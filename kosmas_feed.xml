@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Mar 2026 06:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 06:36:42 +0000</lastBuildDate>
+    <item>
+      <title>Stříbrné přízraky</title>
+      <link>https://www.kosmas.cz/knihy/566818/stribrne-prizraky/</link>
+      <description>Stříbrné přízraky - Silvia Moreno-Garcia</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566818/stribrne-prizraky/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stopy ve sněhu</title>
+      <link>https://www.kosmas.cz/knihy/566819/stopy-ve-snehu/</link>
+      <description>Stopy ve sněhu - Egon Trnka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566819/stopy-ve-snehu/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hrob na kopci</title>
+      <link>https://www.kosmas.cz/knihy/566919/hrob-na-kopci/</link>
+      <description>Hrob na kopci - Patricia Gibneyová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566919/hrob-na-kopci/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Návrat Medicejů</title>
+      <link>https://www.kosmas.cz/knihy/564684/navrat-mediceju/</link>
+      <description>Návrat Medicejů - Steve Berry</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564684/navrat-mediceju/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevinní andělé</title>
+      <link>https://www.kosmas.cz/knihy/567011/nevinni-andele/</link>
+      <description>Nevinní andělé - Alison Belshamová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567011/nevinni-andele/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Naše zářná léta</title>
+      <link>https://www.kosmas.cz/knihy/563308/nase-zarna-leta/</link>
+      <description>Naše zářná léta - Sarah Damoff</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563308/nase-zarna-leta/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mládežnická atletika – Běhy a chůze</title>
+      <link>https://www.kosmas.cz/knihy/563502/mladeznicka-atletika-behy-a-chuze/</link>
+      <description>Mládežnická atletika – Běhy a chůze - Wolfgang Killing, kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563502/mladeznicka-atletika-behy-a-chuze/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plánování v mateřské škole</title>
+      <link>https://www.kosmas.cz/knihy/563865/planovani-v-materske-skole/</link>
+      <description>Plánování v mateřské škole - Eva Koželuhová, Miroslava Škardová, Barbora Loudová Stralczynská</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563865/planovani-v-materske-skole/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dal jsem ti oči, a tys je upřela do temnot</title>
+      <link>https://www.kosmas.cz/knihy/555390/dal-jsem-ti-oci-a-tys-je-uprela-do-temnot/</link>
+      <description>Dal jsem ti oči, a tys je upřela do temnot - Irene Solà</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/555390/dal-jsem-ti-oci-a-tys-je-uprela-do-temnot/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Náměty a tipy na práci s nadaným žákem</title>
+      <link>https://www.kosmas.cz/knihy/566126/namety-a-tipy-na-praci-s-nadanym-zakem/</link>
+      <description>Náměty a tipy na práci s nadaným žákem - Jana Rohová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566126/namety-a-tipy-na-praci-s-nadanym-zakem/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí</title>
+      <link>https://www.kosmas.cz/knihy/566244/jak-nestarnout-vedecky-pristup-ke-zdravejsimu-starnuti/</link>
+      <description>Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí - Michael Greger</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566244/jak-nestarnout-vedecky-pristup-ke-zdravejsimu-starnuti/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Literární archiv 57/2025 - PEN klub a jeho autoři</title>
+      <link>https://www.kosmas.cz/knihy/566255/literarni-archiv-57-2025-pen-klub-a-jeho-autori/</link>
+      <description>Literární archiv 57/2025 - PEN klub a jeho autoři - kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566255/literarni-archiv-57-2025-pen-klub-a-jeho-autori/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>100 zajímavostí ze staré Šumavy</title>
+      <link>https://www.kosmas.cz/knihy/565582/100-zajimavosti-ze-stare-sumavy/</link>
+      <description>100 zajímavostí ze staré Šumavy - Tomáš Bernhardt, Pavel Fencl, Petr Mazný, František Nykles</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565582/100-zajimavosti-ze-stare-sumavy/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luštění pro děti - vtipy a hádanky</title>
+      <link>https://www.kosmas.cz/knihy/565660/lusteni-pro-deti-vtipy-a-hadanky/</link>
+      <description>Luštění pro děti - vtipy a hádanky</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565660/lusteni-pro-deti-vtipy-a-hadanky/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Luštění pro děti - vtipy</title>
+      <link>https://www.kosmas.cz/knihy/565661/lusteni-pro-deti-vtipy/</link>
+      <description>Luštění pro děti - vtipy</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565661/lusteni-pro-deti-vtipy/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zavolejte sestřičky</title>
+      <link>https://www.kosmas.cz/knihy/565749/zavolejte-sestricky/</link>
+      <description>Zavolejte sestřičky - Jennifer Worthová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565749/zavolejte-sestricky/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Host 2026/3</title>
+      <link>https://www.kosmas.cz/knihy/565950/host-2026-3/</link>
+      <description>Host 2026/3</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565950/host-2026-3/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nový zlatý věk Země</title>
+      <link>https://www.kosmas.cz/knihy/566926/novy-zlaty-vek-zeme/</link>
+      <description>Nový zlatý věk Země - Diana Cooper</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566926/novy-zlaty-vek-zeme/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Runy v přírodní magii</title>
+      <link>https://www.kosmas.cz/knihy/566927/runy-v-prirodni-magii/</link>
+      <description>Runy v přírodní magii - Nicolette Miele</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566927/runy-v-prirodni-magii/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajný život vody podle Viktora Schaubergera</title>
+      <link>https://www.kosmas.cz/knihy/566928/tajny-zivot-vody-podle-viktora-schaubergera/</link>
+      <description>Tajný život vody podle Viktora Schaubergera - Alick Bartholomew</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566928/tajny-zivot-vody-podle-viktora-schaubergera/</guid>
+      <pubDate>Thu, 26 Mar 2026 06:36:23 +0000</pubDate>
+    </item>
     <item>
       <title>Na Větrné hůrce</title>
       <link>https://www.kosmas.cz/knihy/529551/na-vetrne-hurce/</link>
@@ -567,146 +707,6 @@
       <description>In memoriam - Alice Winnová</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/566803/in-memoriam/</guid>
       <pubDate>Sat, 21 Mar 2026 06:21:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amazing 20</title>
-      <link>https://www.kosmas.cz/knihy/566804/amazing-20/</link>
-      <description>Amazing 20</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566804/amazing-20/</guid>
-      <pubDate>Sat, 21 Mar 2026 06:21:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flora</title>
-      <link>https://www.kosmas.cz/knihy/566805/flora/</link>
-      <description>Flora - Jonáš Zbořil</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566805/flora/</guid>
-      <pubDate>Sat, 21 Mar 2026 06:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hudba srdce</title>
-      <link>https://www.kosmas.cz/knihy/566806/hudba-srdce/</link>
-      <description>Hudba srdce - Karel Veselý</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566806/hudba-srdce/</guid>
-      <pubDate>Sat, 21 Mar 2026 06:21:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Papírák</title>
-      <link>https://www.kosmas.cz/knihy/566807/papirak/</link>
-      <description>Papírák - Billy O'Callaghan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566807/papirak/</guid>
-      <pubDate>Sat, 21 Mar 2026 06:21:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smích ve tmě</title>
-      <link>https://www.kosmas.cz/knihy/566811/smich-ve-tme/</link>
-      <description>Smích ve tmě - Vladimir Nabokov</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566811/smich-ve-tme/</guid>
-      <pubDate>Sat, 21 Mar 2026 06:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příběhy z lesa od jara do zimy - Obrázkové čtení</title>
-      <link>https://www.kosmas.cz/knihy/566475/pribehy-z-lesa-od-jara-do-zimy-obrazkove-cteni/</link>
-      <description>Příběhy z lesa od jara do zimy - Obrázkové čtení - Alena Schejbalová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566475/pribehy-z-lesa-od-jara-do-zimy-obrazkove-cteni/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rubínový spolek: Všechna naše tajemství</title>
-      <link>https://www.kosmas.cz/knihy/566702/rubinovy-spolek-vsechna-nase-tajemstvi/</link>
-      <description>Rubínový spolek: Všechna naše tajemství - Jana Hoch</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566702/rubinovy-spolek-vsechna-nase-tajemstvi/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luxusní klec</title>
-      <link>https://www.kosmas.cz/knihy/566712/luxusni-klec/</link>
-      <description>Luxusní klec - Mon CouCou</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566712/luxusni-klec/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karel Hynek Mácha</title>
-      <link>https://www.kosmas.cz/knihy/566714/karel-hynek-macha/</link>
-      <description>Karel Hynek Mácha - Otomar Dvořák, Josef "Pepson" Snětivý</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566714/karel-hynek-macha/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poslední slovo</title>
-      <link>https://www.kosmas.cz/knihy/566715/posledni-slovo/</link>
-      <description>Poslední slovo - Dominik Duka, Marek Šmíd</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566715/posledni-slovo/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Případ Holečkovi</title>
-      <link>https://www.kosmas.cz/knihy/566717/pripad-holeckovi/</link>
-      <description>Případ Holečkovi - Bianca Bellová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566717/pripad-holeckovi/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Objektivní nález - Moje nejtěžší mise</title>
-      <link>https://www.kosmas.cz/knihy/566718/objektivni-nalez-moje-nejtezsi-mise/</link>
-      <description>Objektivní nález - Moje nejtěžší mise - Tomáš Šebek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566718/objektivni-nalez-moje-nejtezsi-mise/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hra</title>
-      <link>https://www.kosmas.cz/knihy/564224/hra/</link>
-      <description>Hra - Bernard Minier</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564224/hra/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zpěv tichých dní</title>
-      <link>https://www.kosmas.cz/knihy/566722/zpev-tichych-dni/</link>
-      <description>Zpěv tichých dní - Marcela Bramborová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566722/zpev-tichych-dni/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okraj nebe</title>
-      <link>https://www.kosmas.cz/knihy/566723/okraj-nebe/</link>
-      <description>Okraj nebe - Evita Naušová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566723/okraj-nebe/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ve výslužbě - Návštěvník z minulosti</title>
-      <link>https://www.kosmas.cz/knihy/566725/ve-vysluzbe-navstevnik-z-minulosti/</link>
-      <description>Ve výslužbě - Návštěvník z minulosti - Martin Goffa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566725/ve-vysluzbe-navstevnik-z-minulosti/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prokletí Aurelie W.</title>
-      <link>https://www.kosmas.cz/knihy/564695/prokleti-aurelie-w/</link>
-      <description>Prokletí Aurelie W. - Avery Annaliese</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564695/prokleti-aurelie-w/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Navždy zlosyn</title>
-      <link>https://www.kosmas.cz/knihy/566742/navzdy-zlosyn/</link>
-      <description>Navždy zlosyn - Vanessa Len</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566742/navzdy-zlosyn/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Víla Muchomůrka: Klíč k jaru</title>
-      <link>https://www.kosmas.cz/knihy/565187/vila-muchomurka-klic-k-jaru/</link>
-      <description>Víla Muchomůrka: Klíč k jaru - Ivona Knechtlová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565187/vila-muchomurka-klic-k-jaru/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Z farářova notesu</title>
-      <link>https://www.kosmas.cz/knihy/564203/z-fararova-notesu/</link>
-      <description>Z farářova notesu - Petr Vaďura</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564203/z-fararova-notesu/</guid>
-      <pubDate>Fri, 20 Mar 2026 06:28:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
