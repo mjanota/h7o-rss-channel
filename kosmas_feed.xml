@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 28 Mar 2026 06:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 06:34:34 +0000</lastBuildDate>
+    <item>
+      <title>Zrození mistra</title>
+      <link>https://www.kosmas.cz/knihy/565740/zrozeni-mistra/</link>
+      <description>Zrození mistra - David Jan Žák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565740/zrozeni-mistra/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zaříkávač draků: Přísaha psanců</title>
+      <link>https://www.kosmas.cz/knihy/565741/zarikavac-draku-prisaha-psancu/</link>
+      <description>Zaříkávač draků: Přísaha psanců - Boris Koch</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565741/zarikavac-draku-prisaha-psancu/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:34:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hvězdný prach v nás</title>
+      <link>https://www.kosmas.cz/knihy/565783/hvezdny-prach-v-nas/</link>
+      <description>Hvězdný prach v nás - Rosa de Sar</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565783/hvezdny-prach-v-nas/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nerovně sjednoceni</title>
+      <link>https://www.kosmas.cz/knihy/566146/nerovne-sjednoceni/</link>
+      <description>Nerovně sjednoceni - Stefen Mau</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566146/nerovne-sjednoceni/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:34:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Surrealisté - Jejich bouřlivé osudy</title>
+      <link>https://www.kosmas.cz/knihy/566198/surrealiste-jejich-bourlive-osudy/</link>
+      <description>Surrealisté - Jejich bouřlivé osudy - Sue Roe</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566198/surrealiste-jejich-bourlive-osudy/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:34:29 +0000</pubDate>
+    </item>
     <item>
       <title>Háčkované čtverce – Karty</title>
       <link>https://www.kosmas.cz/knihy/566924/hackovane-ctverce-karty/</link>
@@ -672,41 +707,6 @@
       <description>Elementárie - Šárka Przewozná</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/564842/elementarie/</guid>
       <pubDate>Tue, 24 Mar 2026 06:33:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vanitas: Magická kniha 4</title>
-      <link>https://www.kosmas.cz/knihy/564850/vanitas-magicka-kniha-4/</link>
-      <description>Vanitas: Magická kniha 4 - Džun Močizuki</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564850/vanitas-magicka-kniha-4/</guid>
-      <pubDate>Tue, 24 Mar 2026 06:33:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak vycvičit Dračí školu: Zletounova zhouba</title>
-      <link>https://www.kosmas.cz/knihy/565227/jak-vycvicit-draci-skolu-zletounova-zhouba/</link>
-      <description>Jak vycvičit Dračí školu: Zletounova zhouba - Cressida Cowellová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565227/jak-vycvicit-draci-skolu-zletounova-zhouba/</guid>
-      <pubDate>Tue, 24 Mar 2026 06:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mbappé. Fotbalové ikony</title>
-      <link>https://www.kosmas.cz/knihy/565228/mbappe.-fotbalove-ikony/</link>
-      <description>Mbappé. Fotbalové ikony - Ivana Jančová, Zuzana Jančová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565228/mbappe.-fotbalove-ikony/</guid>
-      <pubDate>Tue, 24 Mar 2026 06:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zamilovaný vikomt</title>
-      <link>https://www.kosmas.cz/knihy/566469/zamilovany-vikomt/</link>
-      <description>Zamilovaný vikomt - Eloisa James</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566469/zamilovany-vikomt/</guid>
-      <pubDate>Mon, 23 Mar 2026 06:38:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viktor</title>
-      <link>https://www.kosmas.cz/knihy/566498/viktor/</link>
-      <description>Viktor - Kamil Bouška</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566498/viktor/</guid>
-      <pubDate>Mon, 23 Mar 2026 06:38:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

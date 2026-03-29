@@ -1,5 +1,50 @@
 [
   {
+    "title": "Zrození mistra",
+    "url": "https://www.kosmas.cz/knihy/565740/zrozeni-mistra/",
+    "description": "Zrození mistra - David Jan Žák",
+    "authors": [
+      "David Jan Žák"
+    ],
+    "date": "2026-03-29T06:34:34.767292+00:00"
+  },
+  {
+    "title": "Zaříkávač draků: Přísaha psanců",
+    "url": "https://www.kosmas.cz/knihy/565741/zarikavac-draku-prisaha-psancu/",
+    "description": "Zaříkávač draků: Přísaha psanců - Boris Koch",
+    "authors": [
+      "Boris Koch"
+    ],
+    "date": "2026-03-29T06:34:33.767292+00:00"
+  },
+  {
+    "title": "Hvězdný prach v nás",
+    "url": "https://www.kosmas.cz/knihy/565783/hvezdny-prach-v-nas/",
+    "description": "Hvězdný prach v nás - Rosa de Sar",
+    "authors": [
+      "Rosa de Sar"
+    ],
+    "date": "2026-03-29T06:34:31.767292+00:00"
+  },
+  {
+    "title": "Nerovně sjednoceni",
+    "url": "https://www.kosmas.cz/knihy/566146/nerovne-sjednoceni/",
+    "description": "Nerovně sjednoceni - Stefen Mau",
+    "authors": [
+      "Stefen Mau"
+    ],
+    "date": "2026-03-29T06:34:30.767292+00:00"
+  },
+  {
+    "title": "Surrealisté - Jejich bouřlivé osudy",
+    "url": "https://www.kosmas.cz/knihy/566198/surrealiste-jejich-bourlive-osudy/",
+    "description": "Surrealisté - Jejich bouřlivé osudy - Sue Roe",
+    "authors": [
+      "Sue Roe"
+    ],
+    "date": "2026-03-29T06:34:29.767292+00:00"
+  },
+  {
     "title": "Háčkované čtverce – Karty",
     "url": "https://www.kosmas.cz/knihy/566924/hackovane-ctverce-karty/",
     "description": "Háčkované čtverce – Karty - Claire Montgomerie",
@@ -1756,50 +1801,5 @@
       "Patrik Wirkner"
     ],
     "date": "2026-03-18T06:33:37.511379+00:00"
-  },
-  {
-    "title": "Nový Orient 2/2025",
-    "url": "https://www.kosmas.cz/knihy/566450/novy-orient-2-2025/",
-    "description": "Nový Orient 2/2025",
-    "authors": [],
-    "date": "2026-03-18T06:33:36.511379+00:00"
-  },
-  {
-    "title": "1984",
-    "url": "https://www.kosmas.cz/knihy/566522/1984/",
-    "description": "1984 - George Orwell",
-    "authors": [
-      "George Orwell"
-    ],
-    "date": "2026-03-18T06:33:35.511379+00:00"
-  },
-  {
-    "title": "Alice´s Adventures in Wonderland",
-    "url": "https://www.kosmas.cz/knihy/566523/alice-s-adventures-in-wonderland/",
-    "description": "Alice´s Adventures in Wonderland - Caroll Lewis",
-    "authors": [
-      "Caroll Lewis"
-    ],
-    "date": "2026-03-18T06:33:34.511379+00:00"
-  },
-  {
-    "title": "Oskar a já",
-    "url": "https://www.kosmas.cz/knihy/551370/oskar-a-ja/",
-    "description": "Oskar a já - Maria Parrová",
-    "authors": [
-      "Maria Parrová"
-    ],
-    "date": "2026-03-17T06:32:57.821836+00:00"
-  },
-  {
-    "title": "Byznys pro 21. století",
-    "url": "https://www.kosmas.cz/knihy/566541/byznys-pro-21.-stoleti/",
-    "description": "Byznys pro 21. století - John Fleming, Kim Kiyosaki, Robert T. Kiyosaki",
-    "authors": [
-      "John Fleming",
-      "Kim Kiyosaki",
-      "Robert T. Kiyosaki"
-    ],
-    "date": "2026-03-17T06:32:55.821836+00:00"
   }
 ]
