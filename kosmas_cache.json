@@ -1,5 +1,61 @@
 [
   {
+    "title": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026",
+    "url": "https://www.kosmas.cz/knihy/566407/45-zkusebnich-otazek-z-prakticke-udrzby-pro-zaky-autoskol-skupin-cde-2026/",
+    "description": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026 - Asociace autoškol ČR",
+    "authors": [
+      "Asociace autoškol ČR"
+    ],
+    "date": "2026-03-30T06:50:02.869780+00:00"
+  },
+  {
+    "title": "Posilte svůj mozek",
+    "url": "https://www.kosmas.cz/knihy/566235/posilte-svuj-mozek/",
+    "description": "Posilte svůj mozek - David Perlmutter, Albert Villoldo",
+    "authors": [
+      "David Perlmutter",
+      "Albert Villoldo"
+    ],
+    "date": "2026-03-30T06:50:01.869780+00:00"
+  },
+  {
+    "title": "Asistovaná reprodukce... před podpisem informovaného souhlasu",
+    "url": "https://www.kosmas.cz/knihy/566340/asistovana-reprodukce...-pred-podpisem-informovaneho-souhlasu/",
+    "description": "Asistovaná reprodukce... před podpisem informovaného souhlasu - Hana Konečná, kol.",
+    "authors": [
+      "Hana Konečná",
+      "kol."
+    ],
+    "date": "2026-03-30T06:50:00.869780+00:00"
+  },
+  {
+    "title": "Severní Itálie karavanem",
+    "url": "https://www.kosmas.cz/knihy/566362/severni-italie-karavanem/",
+    "description": "Severní Itálie karavanem - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-03-30T06:49:59.869780+00:00"
+  },
+  {
+    "title": "Jadran karavanem",
+    "url": "https://www.kosmas.cz/knihy/566363/jadran-karavanem/",
+    "description": "Jadran karavanem - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-03-30T06:49:58.869780+00:00"
+  },
+  {
+    "title": "Zabíječ orků",
+    "url": "https://www.kosmas.cz/knihy/566711/zabijec-orku/",
+    "description": "Zabíječ orků - Nathan Long",
+    "authors": [
+      "Nathan Long"
+    ],
+    "date": "2026-03-30T06:49:53.869780+00:00"
+  },
+  {
     "title": "Zrození mistra",
     "url": "https://www.kosmas.cz/knihy/565740/zrozeni-mistra/",
     "description": "Zrození mistra - David Jan Žák",
@@ -1746,60 +1802,5 @@
       "Petr Wittlich"
     ],
     "date": "2026-03-18T06:33:43.511379+00:00"
-  },
-  {
-    "title": "Semínko",
-    "url": "https://www.kosmas.cz/knihy/566328/seminko/",
-    "description": "Semínko - Lenka Ondrůšková",
-    "authors": [
-      "Lenka Ondrůšková"
-    ],
-    "date": "2026-03-18T06:33:42.511379+00:00"
-  },
-  {
-    "title": "Tejpování v těhotenství",
-    "url": "https://www.kosmas.cz/knihy/566346/tejpovani-v-tehotenstvi/",
-    "description": "Tejpování v těhotenství - Robert Kreutzer",
-    "authors": [
-      "Robert Kreutzer"
-    ],
-    "date": "2026-03-18T06:33:41.511379+00:00"
-  },
-  {
-    "title": "Šťastné blues aneb Z deníku Jaroslava Ježka",
-    "url": "https://www.kosmas.cz/knihy/566366/stastne-blues-aneb-z-deniku-jaroslava-jezka/",
-    "description": "Šťastné blues aneb Z deníku Jaroslava Ježka - František Cinger",
-    "authors": [
-      "František Cinger"
-    ],
-    "date": "2026-03-18T06:33:40.511379+00:00"
-  },
-  {
-    "title": "Jsem asi boomer",
-    "url": "https://www.kosmas.cz/knihy/566370/jsem-asi-boomer/",
-    "description": "Jsem asi boomer - Michal Horák",
-    "authors": [
-      "Michal Horák"
-    ],
-    "date": "2026-03-18T06:33:39.511379+00:00"
-  },
-  {
-    "title": "Václav Mergl – Mysterium hmoty",
-    "url": "https://www.kosmas.cz/knihy/566438/vaclav-mergl-mysterium-hmoty/",
-    "description": "Václav Mergl – Mysterium hmoty - Pavel Horáček",
-    "authors": [
-      "Pavel Horáček"
-    ],
-    "date": "2026-03-18T06:33:38.511379+00:00"
-  },
-  {
-    "title": "Vila Lanna. Příběh domu a lidí",
-    "url": "https://www.kosmas.cz/knihy/566445/vila-lanna.-pribeh-domu-a-lidi/",
-    "description": "Vila Lanna. Příběh domu a lidí - Milan Hlavačka, Patrik Wirkner",
-    "authors": [
-      "Milan Hlavačka",
-      "Patrik Wirkner"
-    ],
-    "date": "2026-03-18T06:33:37.511379+00:00"
   }
 ]
