@@ -1,5 +1,183 @@
 [
   {
+    "title": "Čas vrahů",
+    "url": "https://www.kosmas.cz/knihy/566186/cas-vrahu/",
+    "description": "Čas vrahů - Petr Nutil",
+    "authors": [
+      "Petr Nutil"
+    ],
+    "date": "2026-03-31T06:40:01.405235+00:00"
+  },
+  {
+    "title": "Dotek osudu",
+    "url": "https://www.kosmas.cz/knihy/566189/dotek-osudu/",
+    "description": "Dotek osudu - Lisa Reganová",
+    "authors": [
+      "Lisa Reganová"
+    ],
+    "date": "2026-03-31T06:40:00.405235+00:00"
+  },
+  {
+    "title": "Dědictví skotských templářů",
+    "url": "https://www.kosmas.cz/knihy/567214/dedictvi-skotskych-templaru/",
+    "description": "Dědictví skotských templářů - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-03-31T06:39:59.405235+00:00"
+  },
+  {
+    "title": "Ohavné mordy boleslavské",
+    "url": "https://www.kosmas.cz/knihy/567215/ohavne-mordy-boleslavske/",
+    "description": "Ohavné mordy boleslavské - Jiří Dobrylovský, Jana Vitoušová",
+    "authors": [
+      "Jiří Dobrylovský",
+      "Jana Vitoušová"
+    ],
+    "date": "2026-03-31T06:39:58.405235+00:00"
+  },
+  {
+    "title": "Pod andaluským nebem",
+    "url": "https://www.kosmas.cz/knihy/567216/pod-andaluskym-nebem/",
+    "description": "Pod andaluským nebem - Jo Thomas",
+    "authors": [
+      "Jo Thomas"
+    ],
+    "date": "2026-03-31T06:39:57.405235+00:00"
+  },
+  {
+    "title": "Případ pana Lály",
+    "url": "https://www.kosmas.cz/knihy/567217/pripad-pana-laly/",
+    "description": "Případ pana Lály - Petr Eidler",
+    "authors": [
+      "Petr Eidler"
+    ],
+    "date": "2026-03-31T06:39:56.405235+00:00"
+  },
+  {
+    "title": "Vražedné ego",
+    "url": "https://www.kosmas.cz/knihy/567218/vrazedne-ego/",
+    "description": "Vražedné ego - Martina Novotná",
+    "authors": [
+      "Martina Novotná"
+    ],
+    "date": "2026-03-31T06:39:55.405235+00:00"
+  },
+  {
+    "title": "Podkin Jednoouško: Uki a vyhnanci",
+    "url": "https://www.kosmas.cz/knihy/565727/podkin-jednoousko-uki-a-vyhnanci/",
+    "description": "Podkin Jednoouško: Uki a vyhnanci - Kieran Larwood",
+    "authors": [
+      "Kieran Larwood"
+    ],
+    "date": "2026-03-31T06:39:54.405235+00:00"
+  },
+  {
+    "title": "Když je spolkly vlny",
+    "url": "https://www.kosmas.cz/knihy/566344/kdyz-je-spolkly-vlny/",
+    "description": "Když je spolkly vlny - Mark Smith",
+    "authors": [
+      "Mark Smith"
+    ],
+    "date": "2026-03-31T06:39:53.405235+00:00"
+  },
+  {
+    "title": "Daughter of Chaos",
+    "url": "https://www.kosmas.cz/knihy/567142/daughter-of-chaos/",
+    "description": "Daughter of Chaos - A. S. Webb",
+    "authors": [
+      "A. S. Webb"
+    ],
+    "date": "2026-03-31T06:39:52.405235+00:00"
+  },
+  {
+    "title": "Isabela a bílé mraky",
+    "url": "https://www.kosmas.cz/knihy/565192/isabela-a-bile-mraky/",
+    "description": "Isabela a bílé mraky - Ivana Peroutková",
+    "authors": [
+      "Ivana Peroutková"
+    ],
+    "date": "2026-03-31T06:39:51.405235+00:00"
+  },
+  {
+    "title": "Valentýnka a narozeniny",
+    "url": "https://www.kosmas.cz/knihy/565214/valentynka-a-narozeniny/",
+    "description": "Valentýnka a narozeniny - Ivana Peroutková",
+    "authors": [
+      "Ivana Peroutková"
+    ],
+    "date": "2026-03-31T06:39:50.405235+00:00"
+  },
+  {
+    "title": "O Ježíškovi",
+    "url": "https://www.kosmas.cz/knihy/533208/o-jeziskovi/",
+    "description": "O Ježíškovi - David Laňka",
+    "authors": [
+      "David Laňka"
+    ],
+    "date": "2026-03-31T06:39:49.405235+00:00"
+  },
+  {
+    "title": "Libuše Kyndrová Fotografie/photographs",
+    "url": "https://www.kosmas.cz/knihy/566147/libuse-kyndrova-fotografie-photographs/",
+    "description": "Libuše Kyndrová Fotografie/photographs - Jaroslav Boček",
+    "authors": [
+      "Jaroslav Boček"
+    ],
+    "date": "2026-03-31T06:39:48.405235+00:00"
+  },
+  {
+    "title": "Peter Morée mezi Východem a Západem",
+    "url": "https://www.kosmas.cz/knihy/566922/peter-moree-mezi-vychodem-a-zapadem/",
+    "description": "Peter Morée mezi Východem a Západem - Ota Halama, Michael Pfann",
+    "authors": [
+      "Ota Halama",
+      "Michael Pfann"
+    ],
+    "date": "2026-03-31T06:39:47.405235+00:00"
+  },
+  {
+    "title": "Háčkujeme squishies",
+    "url": "https://www.kosmas.cz/knihy/566600/hackujeme-squishies/",
+    "description": "Háčkujeme squishies - Yvonne Rapp",
+    "authors": [
+      "Yvonne Rapp"
+    ],
+    "date": "2026-03-31T06:39:46.405235+00:00"
+  },
+  {
+    "title": "Háčkování pro děti – Super Easy",
+    "url": "https://www.kosmas.cz/knihy/566602/hackovani-pro-deti-super-easy/",
+    "description": "Háčkování pro děti – Super Easy - Sarah Prieur",
+    "authors": [
+      "Sarah Prieur"
+    ],
+    "date": "2026-03-31T06:39:45.405235+00:00"
+  },
+  {
+    "title": "Samolepkové aktivity Dopravní prostředky",
+    "url": "https://www.kosmas.cz/knihy/567008/samolepkove-aktivity-dopravni-prostredky/",
+    "description": "Samolepkové aktivity Dopravní prostředky",
+    "authors": [],
+    "date": "2026-03-31T06:39:44.405235+00:00"
+  },
+  {
+    "title": "Samolepkové aktivity Halloween",
+    "url": "https://www.kosmas.cz/knihy/567018/samolepkove-aktivity-halloween/",
+    "description": "Samolepkové aktivity Halloween",
+    "authors": [],
+    "date": "2026-03-31T06:39:43.405235+00:00"
+  },
+  {
+    "title": "Art of Rhetoric",
+    "url": "https://www.kosmas.cz/knihy/567137/art-of-rhetoric/",
+    "description": "Art of Rhetoric - Aristotelés",
+    "authors": [
+      "Aristotelés"
+    ],
+    "date": "2026-03-31T06:39:42.405235+00:00"
+  },
+  {
     "title": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026",
     "url": "https://www.kosmas.cz/knihy/566407/45-zkusebnich-otazek-z-prakticke-udrzby-pro-zaky-autoskol-skupin-cde-2026/",
     "description": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026 - Asociace autoškol ČR",
@@ -1619,188 +1797,5 @@
       "Petr Opršal"
     ],
     "date": "2026-03-19T06:30:52.331683+00:00"
-  },
-  {
-    "title": "Psi z Essexu",
-    "url": "https://www.kosmas.cz/knihy/563940/psi-z-essexu/",
-    "description": "Psi z Essexu - Dan Jones",
-    "authors": [
-      "Dan Jones"
-    ],
-    "date": "2026-03-19T06:30:51.331683+00:00"
-  },
-  {
-    "title": "Druhý suvenýr",
-    "url": "https://www.kosmas.cz/knihy/563941/druhy-suvenyr/",
-    "description": "Druhý suvenýr - Michael Shaheen",
-    "authors": [
-      "Michael Shaheen"
-    ],
-    "date": "2026-03-19T06:30:50.331683+00:00"
-  },
-  {
-    "title": "Městečko Son",
-    "url": "https://www.kosmas.cz/knihy/563549/mestecko-son/",
-    "description": "Městečko Son - Thomas Enger, Johana Gustawsson",
-    "authors": [
-      "Thomas Enger",
-      "Johana Gustawsson"
-    ],
-    "date": "2026-03-19T06:30:49.331683+00:00"
-  },
-  {
-    "title": "Pacička",
-    "url": "https://www.kosmas.cz/knihy/563558/pacicka/",
-    "description": "Pacička - Daniel Krásný",
-    "authors": [
-      "Daniel Krásný"
-    ],
-    "date": "2026-03-19T06:30:48.331683+00:00"
-  },
-  {
-    "title": "Císař Karel IV.",
-    "url": "https://www.kosmas.cz/knihy/549837/cisar-karel-iv/",
-    "description": "Císař Karel IV. - Olaf B. Rader",
-    "authors": [
-      "Olaf B. Rader"
-    ],
-    "date": "2026-03-19T06:30:47.331683+00:00"
-  },
-  {
-    "title": "Pod obloukem světla",
-    "url": "https://www.kosmas.cz/knihy/565565/pod-obloukem-svetla/",
-    "description": "Pod obloukem světla - Jana Schmausová Vydrová",
-    "authors": [
-      "Jana Schmausová Vydrová"
-    ],
-    "date": "2026-03-19T06:30:45.331683+00:00"
-  },
-  {
-    "title": "Sport, média a politika",
-    "url": "https://www.kosmas.cz/knihy/566259/sport-media-a-politika/",
-    "description": "Sport, média a politika - Jan Děkanovský, Jan Jirák",
-    "authors": [
-      "Jan Děkanovský",
-      "Jan Jirák"
-    ],
-    "date": "2026-03-19T06:30:44.331683+00:00"
-  },
-  {
-    "title": "Zhubni bez keců - Diety Nefungují, návyky ANO",
-    "url": "https://www.kosmas.cz/knihy/566511/zhubni-bez-kecu-diety-nefunguji-navyky-ano/",
-    "description": "Zhubni bez keců - Diety Nefungují, návyky ANO - Ben Carpenter",
-    "authors": [
-      "Ben Carpenter"
-    ],
-    "date": "2026-03-19T06:30:43.331683+00:00"
-  },
-  {
-    "title": "Maluj vodou zas a znova – Zvířátka na vsi",
-    "url": "https://www.kosmas.cz/knihy/566519/maluj-vodou-zas-a-znova-zviratka-na-vsi/",
-    "description": "Maluj vodou zas a znova – Zvířátka na vsi - Miroslava Lánská",
-    "authors": [
-      "Miroslava Lánská"
-    ],
-    "date": "2026-03-19T06:30:42.331683+00:00"
-  },
-  {
-    "title": "Záhada hlavolamu",
-    "url": "https://www.kosmas.cz/knihy/566544/zahada-hlavolamu/",
-    "description": "Záhada hlavolamu - Jaroslav Foglar",
-    "authors": [
-      "Jaroslav Foglar"
-    ],
-    "date": "2026-03-19T06:30:41.331683+00:00"
-  },
-  {
-    "title": "Věci, které uvidíte, jen když zpomalíte",
-    "url": "https://www.kosmas.cz/knihy/566491/veci-ktere-uvidite-jen-kdyz-zpomalite/",
-    "description": "Věci, které uvidíte, jen když zpomalíte - Haemin Sunim",
-    "authors": [
-      "Haemin Sunim"
-    ],
-    "date": "2026-03-18T06:33:53.511379+00:00"
-  },
-  {
-    "title": "Rare Places -  Průvodce do kapsy 2.díl",
-    "url": "https://www.kosmas.cz/knihy/565544/rare-places-pruvodce-do-kapsy-2.dil/",
-    "description": "Rare Places -  Průvodce do kapsy 2.díl - Ondřej Filgas, Šimon Švirák",
-    "authors": [
-      "Ondřej Filgas",
-      "Šimon Švirák"
-    ],
-    "date": "2026-03-18T06:33:51.511379+00:00"
-  },
-  {
-    "title": "Onyx Storm",
-    "url": "https://www.kosmas.cz/knihy/565881/onyx-storm/",
-    "description": "Onyx Storm - Rebecca Yarros",
-    "authors": [
-      "Rebecca Yarros"
-    ],
-    "date": "2026-03-18T06:33:50.511379+00:00"
-  },
-  {
-    "title": "Dům ticha",
-    "url": "https://www.kosmas.cz/knihy/566190/dum-ticha/",
-    "description": "Dům ticha - Kiersten White",
-    "authors": [
-      "Kiersten White"
-    ],
-    "date": "2026-03-18T06:33:49.511379+00:00"
-  },
-  {
-    "title": "Tajné princezny – Neposlušné štěně",
-    "url": "https://www.kosmas.cz/knihy/566196/tajne-princezny-neposlusne-stene/",
-    "description": "Tajné princezny – Neposlušné štěně - Rosie Banksová",
-    "authors": [
-      "Rosie Banksová"
-    ],
-    "date": "2026-03-18T06:33:48.511379+00:00"
-  },
-  {
-    "title": "Rozhovory v manažerské praxi",
-    "url": "https://www.kosmas.cz/knihy/566197/rozhovory-v-manazerske-praxi/",
-    "description": "Rozhovory v manažerské praxi - Eduard Bermann",
-    "authors": [
-      "Eduard Bermann"
-    ],
-    "date": "2026-03-18T06:33:47.511379+00:00"
-  },
-  {
-    "title": "Veřejné zdravotnictví a výchova ke zdraví",
-    "url": "https://www.kosmas.cz/knihy/566201/verejne-zdravotnictvi-a-vychova-ke-zdravi/",
-    "description": "Veřejné zdravotnictví a výchova ke zdraví - Lidmila Hamplová",
-    "authors": [
-      "Lidmila Hamplová"
-    ],
-    "date": "2026-03-18T06:33:46.511379+00:00"
-  },
-  {
-    "title": "Veřejné zdravotnictví a výchova ke zdraví pro SZŠ",
-    "url": "https://www.kosmas.cz/knihy/566202/verejne-zdravotnictvi-a-vychova-ke-zdravi-pro-szs/",
-    "description": "Veřejné zdravotnictví a výchova ke zdraví pro SZŠ - Lidmila Hamplová",
-    "authors": [
-      "Lidmila Hamplová"
-    ],
-    "date": "2026-03-18T06:33:45.511379+00:00"
-  },
-  {
-    "title": "Smrti, smrď",
-    "url": "https://www.kosmas.cz/knihy/566287/smrti-smrd/",
-    "description": "Smrti, smrď - M. A. Rek",
-    "authors": [
-      "M. A. Rek"
-    ],
-    "date": "2026-03-18T06:33:44.511379+00:00"
-  },
-  {
-    "title": "Figura",
-    "url": "https://www.kosmas.cz/knihy/566323/figura/",
-    "description": "Figura - Petr Wittlich",
-    "authors": [
-      "Petr Wittlich"
-    ],
-    "date": "2026-03-18T06:33:43.511379+00:00"
   }
 ]

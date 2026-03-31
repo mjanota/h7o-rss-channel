@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-03-31 06:40:01 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Čas vrahů
+2. Dotek osudu
+3. Dědictví skotských templářů
+4. Ohavné mordy boleslavské
+5. Pod andaluským nebem
+6. Případ pana Lály
+7. Vražedné ego
+8. Podkin Jednoouško: Uki a vyhnanci
+9. Když je spolkly vlny
+10. Daughter of Chaos
+11. Isabela a bílé mraky
+12. Valentýnka a narozeniny
+13. O Ježíškovi
+14. Libuše Kyndrová Fotografie/photographs
+15. Peter Morée mezi Východem a Západem
+16. Háčkujeme squishies
+17. Háčkování pro děti – Super Easy
+18. Samolepkové aktivity Dopravní prostředky
+19. Samolepkové aktivity Halloween
+20. Art of Rhetoric
+
+---
+
+## 🕐 2026-03-31 06:40:00 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Ticho jako uvnitř kulky
+
+---
+
 ## 🕐 2026-03-30 06:50:02 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -249,53 +296,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Malá jiskra optimismu
-
----
-
-## 🕐 2026-03-24 06:33:33 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Znamení rožmberské růže
-2. Křišťálový klíč I. - Falknovská huť (1695 - 1713)
-3. Hop a tajemství jezera
-4. Jak jsem se reinkarnoval coby sliz 16
-5. Láska ve střihu cosplaye 13
-6. Vinlandská sága 1
-7. Tuten malej princ
-8. Burning Love
-9. Nevěřím v astrologii
-10. Francouzština ke kafíčku
-11. Co skrývá noc
-12. Smrt Mínótaurova
-13. Jídlem proti času - Cesta ke spokojenosti a dlouhověkosti
-14. Ztracený příběh
-15. Randění s mrzoutem
-16. Útesy smrti
-17. Elementárie
-18. Vanitas: Magická kniha 4
-19. Jak vycvičit Dračí školu: Zletounova zhouba
-20. Mbappé. Fotbalové ikony
-
----
-
-## 🕐 2026-03-24 06:33:32 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. S Mirem Remem v divočině
 
 ---
 
