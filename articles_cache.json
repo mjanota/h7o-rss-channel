@@ -534,5 +534,13 @@
     "date": "2026-03-31T00:00:00",
     "author": "Míla Janišová",
     "category": "recenze"
+  },
+  {
+    "title": "Umělohmotná recenze",
+    "url": "https://www.h7o.cz/clanky/14482-umelohmotna-recenze",
+    "description": "Deník The New York Times rozvázal spolupráci s novinářem kvůli recenzi knihy. Napsala ji za něj AI.",
+    "date": "2026-04-01T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

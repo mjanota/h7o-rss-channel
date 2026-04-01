@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-01 06:46:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Smrt parašutisty Bohuslava Kouby
+2. Bratři ve válce
+3. Operace Anthropoid : Epilog
+4. Geschichten aus dem Isergebirge in Comics
+5. Dějiny Saúdské Arábie
+6. Odpočet smrti
+7. Věčný outsider?
+8. Ve spárech múzy
+9. Star Wars - Jedi: Padlý řád 1
+10. Velké omalovánky Prasátko Peppa
+11. Samolepkové aktivity Farma
+12. Samolepkové aktivity Na horách
+13. Samolepkové aktivity U moře
+14. Samolepkové aktivity Dinosauři
+15. Tetování s aktivitami Dům myšek Sam & Julie
+16. Omalovánky a 100 tetování Spidey
+17. Omalovánky a 100 tetování Dinosauři
+18. Omalovánky a 100 tetování Roztomilá zvířátka
+19. 100 samolepek s omalovánkovými listy Lilo & Stitch
+
+---
+
+## 🕐 2026-04-01 06:46:23 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Umělohmotná recenze
+
+---
+
 ## 🕐 2026-03-31 06:40:01 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -249,53 +295,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hledám způsoby, jak rozšířit své výpovědní možnosti
-
----
-
-## 🕐 2026-03-25 06:33:26 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Na Větrné hůrce
-2. Černá lilie
-3. Perchta z Rožmberka aneb Bílá paní
-4. Metráček
-5. Zlý začátek
-6. Prostě vztahy
-7. Poslední medvěd
-8. Případ nitravské mince
-9. Komtur
-10. Život ve staletích – 15. století
-11. Encyklopedie sídelních biskupů v českých zemích
-12. Peníze v moderní kultuře a jiné eseje
-13. Vinnetou  - Poslední výstřel
-14. Byzantská pouť
-15. Robert Ďábel
-16. Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců
-17. Kuděj 2025/2
-18. Ptačí omalovánky Pavlíny Kourkové
-19. Podnikatel versus kapitál – kapitál versus podnikatel
-20. O člověku, který se nebál bát
-
----
-
-## 🕐 2026-03-25 06:33:25 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Malá jiskra optimismu
 
 ---
 
