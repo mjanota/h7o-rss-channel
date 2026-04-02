@@ -1,5 +1,157 @@
 [
   {
+    "title": "Bridgertonovi: Vévoda a já",
+    "url": "https://www.kosmas.cz/knihy/567167/bridgertonovi-vevoda-a-ja/",
+    "description": "Bridgertonovi: Vévoda a já - Julia Quinnová",
+    "authors": [
+      "Julia Quinnová"
+    ],
+    "date": "2026-04-02T06:37:58.673964+00:00"
+  },
+  {
+    "title": "Odvaha letět",
+    "url": "https://www.kosmas.cz/knihy/567438/odvaha-letet/",
+    "description": "Odvaha letět - Rebecca Yarros",
+    "authors": [
+      "Rebecca Yarros"
+    ],
+    "date": "2026-04-02T06:37:57.673964+00:00"
+  },
+  {
+    "title": "Podvod zlatého faraona",
+    "url": "https://www.kosmas.cz/knihy/567439/podvod-zlateho-faraona/",
+    "description": "Podvod zlatého faraona - Petra Klabouchová",
+    "authors": [
+      "Petra Klabouchová"
+    ],
+    "date": "2026-04-02T06:37:56.673964+00:00"
+  },
+  {
+    "title": "Optimismus pro samouky",
+    "url": "https://www.kosmas.cz/knihy/567071/optimismus-pro-samouky/",
+    "description": "Optimismus pro samouky - Rudolf Červenka",
+    "authors": [
+      "Rudolf Červenka"
+    ],
+    "date": "2026-04-02T06:37:55.673964+00:00"
+  },
+  {
+    "title": "Afrodíté včera a dnes",
+    "url": "https://www.kosmas.cz/knihy/567134/afrodite-vcera-a-dnes/",
+    "description": "Afrodíté včera a dnes - Jan Bažant, Roman Prahl, Alena Sakissian",
+    "authors": [
+      "Jan Bažant",
+      "Roman Prahl",
+      "Alena Sakissian"
+    ],
+    "date": "2026-04-02T06:37:54.673964+00:00"
+  },
+  {
+    "title": "Sešit pocitů",
+    "url": "https://www.kosmas.cz/knihy/567234/sesit-pocitu/",
+    "description": "Sešit pocitů - Jana Draberová",
+    "authors": [
+      "Jana Draberová"
+    ],
+    "date": "2026-04-02T06:37:52.673964+00:00"
+  },
+  {
+    "title": "Maluj jako umělec - MIRÓ",
+    "url": "https://www.kosmas.cz/knihy/567327/maluj-jako-umelec-miro/",
+    "description": "Maluj jako umělec - MIRÓ",
+    "authors": [],
+    "date": "2026-04-02T06:37:51.673964+00:00"
+  },
+  {
+    "title": "Maluj jako umělec - Vincent Van GOGH",
+    "url": "https://www.kosmas.cz/knihy/567328/maluj-jako-umelec-vincent-van-gogh/",
+    "description": "Maluj jako umělec - Vincent Van GOGH",
+    "authors": [],
+    "date": "2026-04-02T06:37:50.673964+00:00"
+  },
+  {
+    "title": "Maluj jako umělec - SALVADOR DALÍ",
+    "url": "https://www.kosmas.cz/knihy/567329/maluj-jako-umelec-salvador-dali/",
+    "description": "Maluj jako umělec - SALVADOR DALÍ",
+    "authors": [],
+    "date": "2026-04-02T06:37:49.673964+00:00"
+  },
+  {
+    "title": "Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj",
+    "url": "https://www.kosmas.cz/knihy/567332/dopravni-prostredky-moje-velka-knizka-poznej-a-pojmenuj/",
+    "description": "Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj",
+    "authors": [],
+    "date": "2026-04-02T06:37:48.673964+00:00"
+  },
+  {
+    "title": "Zvířátka - Moje velká knížka - Poznej a Pojmenuj",
+    "url": "https://www.kosmas.cz/knihy/567335/zviratka-moje-velka-knizka-poznej-a-pojmenuj/",
+    "description": "Zvířátka - Moje velká knížka - Poznej a Pojmenuj",
+    "authors": [],
+    "date": "2026-04-02T06:37:47.673964+00:00"
+  },
+  {
+    "title": "HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky",
+    "url": "https://www.kosmas.cz/knihy/567336/hrave-uceni-pisanka-napis-a-smaz-zas-a-znovu-drazkovane-linky/",
+    "description": "HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky",
+    "authors": [],
+    "date": "2026-04-02T06:37:46.673964+00:00"
+  },
+  {
+    "title": "HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž",
+    "url": "https://www.kosmas.cz/knihy/567337/hrave-uceni-cisla-a-pocitani-napis-a-smaz/",
+    "description": "HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž",
+    "authors": [],
+    "date": "2026-04-02T06:37:45.673964+00:00"
+  },
+  {
+    "title": "Kamarádi ze statku - Látková knížka pro nejmenší",
+    "url": "https://www.kosmas.cz/knihy/567338/kamaradi-ze-statku-latkova-knizka-pro-nejmensi/",
+    "description": "Kamarádi ze statku - Látková knížka pro nejmenší",
+    "authors": [],
+    "date": "2026-04-02T06:37:44.673964+00:00"
+  },
+  {
+    "title": "Áďa a já",
+    "url": "https://www.kosmas.cz/knihy/567421/ada-a-ja/",
+    "description": "Áďa a já - Rich Pink, Rox Pink",
+    "authors": [
+      "Rich Pink",
+      "Rox Pink"
+    ],
+    "date": "2026-04-02T06:37:42.673964+00:00"
+  },
+  {
+    "title": "Za hranicí systému",
+    "url": "https://www.kosmas.cz/knihy/567422/za-hranici-systemu/",
+    "description": "Za hranicí systému - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-04-02T06:37:41.673964+00:00"
+  },
+  {
+    "title": "Kat a čarodějnice",
+    "url": "https://www.kosmas.cz/knihy/567425/kat-a-carodejnice/",
+    "description": "Kat a čarodějnice - Zuzana Listopadová",
+    "authors": [
+      "Zuzana Listopadová"
+    ],
+    "date": "2026-04-02T06:37:40.673964+00:00"
+  },
+  {
+    "title": "Můj logopedický sešit: Úroveň 1 – jednodušší",
+    "url": "https://www.kosmas.cz/knihy/566128/muj-logopedicky-sesit-uroven-1-jednodussi/",
+    "description": "Můj logopedický sešit: Úroveň 1 – jednodušší - Ivana Hrubá Eliášová, Eva Kolesová, Mária Košútová, Adriána Šugárová",
+    "authors": [
+      "Ivana Hrubá Eliášová",
+      "Eva Kolesová",
+      "Mária Košútová",
+      "Adriána Šugárová"
+    ],
+    "date": "2026-04-02T06:37:39.673964+00:00"
+  },
+  {
     "title": "Smrt parašutisty Bohuslava Kouby",
     "url": "https://www.kosmas.cz/knihy/566585/smrt-parasutisty-bohuslava-kouby/",
     "description": "Smrt parašutisty Bohuslava Kouby - Michal Dlouhý",
@@ -1615,167 +1767,5 @@
       "Hana Militká"
     ],
     "date": "2026-03-21T06:21:37.183575+00:00"
-  },
-  {
-    "title": "Doktore, mluvte se mnou",
-    "url": "https://www.kosmas.cz/knihy/566789/doktore-mluvte-se-mnou/",
-    "description": "Doktore, mluvte se mnou - Ivana Karásková",
-    "authors": [
-      "Ivana Karásková"
-    ],
-    "date": "2026-03-21T06:21:36.183575+00:00"
-  },
-  {
-    "title": "Povolání našich předků",
-    "url": "https://www.kosmas.cz/knihy/566794/povolani-nasich-predku/",
-    "description": "Povolání našich předků - Stanislava Jarolímková",
-    "authors": [
-      "Stanislava Jarolímková"
-    ],
-    "date": "2026-03-21T06:21:35.183575+00:00"
-  },
-  {
-    "title": "JFK 043 - Lovci artefaktů",
-    "url": "https://www.kosmas.cz/knihy/566795/jfk-043-lovci-artefaktu/",
-    "description": "JFK 043 - Lovci artefaktů - Libor Machala",
-    "authors": [
-      "Libor Machala"
-    ],
-    "date": "2026-03-21T06:21:34.183575+00:00"
-  },
-  {
-    "title": "Tahle voda je naše",
-    "url": "https://www.kosmas.cz/knihy/566796/tahle-voda-je-nase/",
-    "description": "Tahle voda je naše - A. Gravensteen",
-    "authors": [
-      "A. Gravensteen"
-    ],
-    "date": "2026-03-21T06:21:33.183575+00:00"
-  },
-  {
-    "title": "Udíme a grilujeme",
-    "url": "https://www.kosmas.cz/knihy/566797/udime-a-grilujeme/",
-    "description": "Udíme a grilujeme - Markus Kaufer",
-    "authors": [
-      "Markus Kaufer"
-    ],
-    "date": "2026-03-21T06:21:32.183575+00:00"
-  },
-  {
-    "title": "In memoriam",
-    "url": "https://www.kosmas.cz/knihy/566803/in-memoriam/",
-    "description": "In memoriam - Alice Winnová",
-    "authors": [
-      "Alice Winnová"
-    ],
-    "date": "2026-03-21T06:21:30.183575+00:00"
-  },
-  {
-    "title": "Amazing 20",
-    "url": "https://www.kosmas.cz/knihy/566804/amazing-20/",
-    "description": "Amazing 20",
-    "authors": [],
-    "date": "2026-03-21T06:21:29.183575+00:00"
-  },
-  {
-    "title": "Flora",
-    "url": "https://www.kosmas.cz/knihy/566805/flora/",
-    "description": "Flora - Jonáš Zbořil",
-    "authors": [
-      "Jonáš Zbořil"
-    ],
-    "date": "2026-03-21T06:21:28.183575+00:00"
-  },
-  {
-    "title": "Hudba srdce",
-    "url": "https://www.kosmas.cz/knihy/566806/hudba-srdce/",
-    "description": "Hudba srdce - Karel Veselý",
-    "authors": [
-      "Karel Veselý"
-    ],
-    "date": "2026-03-21T06:21:27.183575+00:00"
-  },
-  {
-    "title": "Papírák",
-    "url": "https://www.kosmas.cz/knihy/566807/papirak/",
-    "description": "Papírák - Billy O'Callaghan",
-    "authors": [
-      "Billy O'Callaghan"
-    ],
-    "date": "2026-03-21T06:21:26.183575+00:00"
-  },
-  {
-    "title": "Smích ve tmě",
-    "url": "https://www.kosmas.cz/knihy/566811/smich-ve-tme/",
-    "description": "Smích ve tmě - Vladimir Nabokov",
-    "authors": [
-      "Vladimir Nabokov"
-    ],
-    "date": "2026-03-21T06:21:25.183575+00:00"
-  },
-  {
-    "title": "Příběhy z lesa od jara do zimy - Obrázkové čtení",
-    "url": "https://www.kosmas.cz/knihy/566475/pribehy-z-lesa-od-jara-do-zimy-obrazkove-cteni/",
-    "description": "Příběhy z lesa od jara do zimy - Obrázkové čtení - Alena Schejbalová",
-    "authors": [
-      "Alena Schejbalová"
-    ],
-    "date": "2026-03-20T06:28:27.878599+00:00"
-  },
-  {
-    "title": "Rubínový spolek: Všechna naše tajemství",
-    "url": "https://www.kosmas.cz/knihy/566702/rubinovy-spolek-vsechna-nase-tajemstvi/",
-    "description": "Rubínový spolek: Všechna naše tajemství - Jana Hoch",
-    "authors": [
-      "Jana Hoch"
-    ],
-    "date": "2026-03-20T06:28:25.878599+00:00"
-  },
-  {
-    "title": "Luxusní klec",
-    "url": "https://www.kosmas.cz/knihy/566712/luxusni-klec/",
-    "description": "Luxusní klec - Mon CouCou",
-    "authors": [
-      "Mon CouCou"
-    ],
-    "date": "2026-03-20T06:28:24.878599+00:00"
-  },
-  {
-    "title": "Karel Hynek Mácha",
-    "url": "https://www.kosmas.cz/knihy/566714/karel-hynek-macha/",
-    "description": "Karel Hynek Mácha - Otomar Dvořák, Josef \"Pepson\" Snětivý",
-    "authors": [
-      "Otomar Dvořák",
-      "Josef \"Pepson\" Snětivý"
-    ],
-    "date": "2026-03-20T06:28:23.878599+00:00"
-  },
-  {
-    "title": "Poslední slovo",
-    "url": "https://www.kosmas.cz/knihy/566715/posledni-slovo/",
-    "description": "Poslední slovo - Dominik Duka, Marek Šmíd",
-    "authors": [
-      "Dominik Duka",
-      "Marek Šmíd"
-    ],
-    "date": "2026-03-20T06:28:22.878599+00:00"
-  },
-  {
-    "title": "Případ Holečkovi",
-    "url": "https://www.kosmas.cz/knihy/566717/pripad-holeckovi/",
-    "description": "Případ Holečkovi - Bianca Bellová",
-    "authors": [
-      "Bianca Bellová"
-    ],
-    "date": "2026-03-20T06:28:21.878599+00:00"
-  },
-  {
-    "title": "Objektivní nález - Moje nejtěžší mise",
-    "url": "https://www.kosmas.cz/knihy/566718/objektivni-nalez-moje-nejtezsi-mise/",
-    "description": "Objektivní nález - Moje nejtěžší mise - Tomáš Šebek",
-    "authors": [
-      "Tomáš Šebek"
-    ],
-    "date": "2026-03-20T06:28:20.878599+00:00"
   }
 ]

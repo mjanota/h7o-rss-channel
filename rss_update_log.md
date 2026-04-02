@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-02 06:37:58 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Bridgertonovi: Vévoda a já
+2. Odvaha letět
+3. Podvod zlatého faraona
+4. Optimismus pro samouky
+5. Afrodíté včera a dnes
+6. Sešit pocitů
+7. Maluj jako umělec - MIRÓ
+8. Maluj jako umělec - Vincent Van GOGH
+9. Maluj jako umělec - SALVADOR DALÍ
+10. Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj
+11. Zvířátka - Moje velká knížka - Poznej a Pojmenuj
+12. HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky
+13. HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž
+14. Kamarádi ze statku - Látková knížka pro nejmenší
+15. Áďa a já
+16. Za hranicí systému
+17. Kat a čarodějnice
+18. Můj logopedický sešit: Úroveň 1 – jednodušší
+
+---
+
+## 🕐 2026-04-02 06:37:57 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Starej dobrej satanáš
+
+---
+
 ## 🕐 2026-04-01 06:46:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -248,53 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Šestnásť poznámok o viere
-
----
-
-## 🕐 2026-03-26 06:36:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Stříbrné přízraky
-2. Stopy ve sněhu
-3. Hrob na kopci
-4. Návrat Medicejů
-5. Nevinní andělé
-6. Naše zářná léta
-7. Mládežnická atletika – Běhy a chůze
-8. Plánování v mateřské škole
-9. Dal jsem ti oči, a tys je upřela do temnot
-10. Náměty a tipy na práci s nadaným žákem
-11. Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí
-12. Literární archiv 57/2025 - PEN klub a jeho autoři
-13. 100 zajímavostí ze staré Šumavy
-14. Luštění pro děti - vtipy a hádanky
-15. Luštění pro děti - vtipy
-16. Zavolejte sestřičky
-17. Host 2026/3
-18. Nový zlatý věk Země
-19. Runy v přírodní magii
-20. Tajný život vody podle Viktora Schaubergera
-
----
-
-## 🕐 2026-03-26 06:36:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hledám způsoby, jak rozšířit své výpovědní možnosti
 
 ---
 
