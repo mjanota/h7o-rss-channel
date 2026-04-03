@@ -5,6 +5,46 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-03 06:37:19 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Sólo Jak mít radost z vaření jen pro sebe
+2. Nespoutaná energie
+3. Prague Legends
+4. Bula & Drbola - Nepřemožení
+5. Neplaťte daně zbytečně!
+6. Bohové jste vy
+7. Nejdelší z cest
+8. Hry. Archimedův zákon. Bouřlivé časy /Větrné mlýny/
+9. Poslední slovo
+10. Skladatelka duše
+11. Ztráta kontroly
+12. Ztraceni v čase
+13. Tomy a přátelé
+14. Šťastné blues aneb Z deníku Jaroslava Ježka
+15. Královský gambit - SPQR I
+16. Poklesky maloměsta
+17. Měsíc s dýmkou
+
+---
+
+## 🕐 2026-04-03 06:37:18 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-02 06:37:58 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +286,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Cenu literární kritiky získali Borkovec za prózu a Kauer za poezii
-
----
-
-## 🕐 2026-03-27 06:37:02 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Motýlí ostrov
-2. Otiskni prstíky - Na farmě
-3. Otiskni prstíky - Vozidla
-4. Zvuková hudební kniha Můj první orchestr
-5. Tvarované leporelo - Slova na farmě
-6. Tvarované leporelo - Čísla na cestě
-7. Tvarované leporelo - Barvy v zoo
-8. Jednorožci Velká kniha aktivit
-9. První slova První dotyky Barvy
-10. Katatymně imaginativní psychoterapie
-11. Poznávej dotykem Zvířata ze zahrady
-12. Kouzelní jednorožci 400 samolepek
-13. Princezny a jednorožci Box s knížkou a magnety
-14. Zámoří
-15. Archa Mars
-16. Čarodějná spolužačka
-17. Dobytí říše Inků
-18. Slepá místa medicíny
-19. Logos 2025/2026
-20. Velká kniha Atlas psů
-
----
-
-## 🕐 2026-03-27 06:37:01 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Šestnásť poznámok o viere
 
 ---
 
