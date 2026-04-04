@@ -1,5 +1,95 @@
 [
   {
+    "title": "Dívčí válka 12",
+    "url": "https://www.kosmas.cz/knihy/554655/divci-valka-12/",
+    "description": "Dívčí válka 12 - Kóiči Óniši",
+    "authors": [
+      "Kóiči Óniši"
+    ],
+    "date": "2026-04-04T06:31:36.279890+00:00"
+  },
+  {
+    "title": "Vyhnání Gerty Schnirch",
+    "url": "https://www.kosmas.cz/knihy/566247/vyhnani-gerty-schnirch/",
+    "description": "Vyhnání Gerty Schnirch - Kateřina Tučková",
+    "authors": [
+      "Kateřina Tučková"
+    ],
+    "date": "2026-04-04T06:31:32.279890+00:00"
+  },
+  {
+    "title": "Mariborská hypnóza",
+    "url": "https://www.kosmas.cz/knihy/566402/mariborska-hypnoza/",
+    "description": "Mariborská hypnóza - Dora Kaprálová",
+    "authors": [
+      "Dora Kaprálová"
+    ],
+    "date": "2026-04-04T06:31:31.279890+00:00"
+  },
+  {
+    "title": "Tajemství a výklad pohádek: Třetí princ",
+    "url": "https://www.kosmas.cz/knihy/567469/tajemstvi-a-vyklad-pohadek-treti-princ/",
+    "description": "Tajemství a výklad pohádek: Třetí princ - Jana Šintáková Michalicová",
+    "authors": [
+      "Jana Šintáková Michalicová"
+    ],
+    "date": "2026-04-04T06:31:25.279890+00:00"
+  },
+  {
+    "title": "Každý blázní po svém",
+    "url": "https://www.kosmas.cz/knihy/567471/kazdy-blazni-po-svem/",
+    "description": "Každý blázní po svém - Milan Hausner",
+    "authors": [
+      "Milan Hausner"
+    ],
+    "date": "2026-04-04T06:31:24.279890+00:00"
+  },
+  {
+    "title": "Pobožný střelec",
+    "url": "https://www.kosmas.cz/knihy/567472/pobozny-strelec/",
+    "description": "Pobožný střelec - Bob Hurikán",
+    "authors": [
+      "Bob Hurikán"
+    ],
+    "date": "2026-04-04T06:31:23.279890+00:00"
+  },
+  {
+    "title": "Vlákna osudu",
+    "url": "https://www.kosmas.cz/knihy/567473/vlakna-osudu/",
+    "description": "Vlákna osudu - Jana Beranová",
+    "authors": [
+      "Jana Beranová"
+    ],
+    "date": "2026-04-04T06:31:22.279890+00:00"
+  },
+  {
+    "title": "Strašidelná vagina",
+    "url": "https://www.kosmas.cz/knihy/567474/strasidelna-vagina/",
+    "description": "Strašidelná vagina - Carlton Mellick III",
+    "authors": [
+      "Carlton Mellick III"
+    ],
+    "date": "2026-04-04T06:31:21.279890+00:00"
+  },
+  {
+    "title": "Vampýrská akademie 3- Stínem políbená (2023)",
+    "url": "https://www.kosmas.cz/knihy/567475/vampyrska-akademie-3-stinem-polibena-2023/",
+    "description": "Vampýrská akademie 3- Stínem políbená (2023) - Richelle Mead",
+    "authors": [
+      "Richelle Mead"
+    ],
+    "date": "2026-04-04T06:31:20.279890+00:00"
+  },
+  {
+    "title": "... stačilo jen říct Jáchymov",
+    "url": "https://www.kosmas.cz/knihy/567476/...-stacilo-jen-rict-jachymov/",
+    "description": "... stačilo jen říct Jáchymov - Anna Strnadová",
+    "authors": [
+      "Anna Strnadová"
+    ],
+    "date": "2026-04-04T06:31:19.279890+00:00"
+  },
+  {
     "title": "Sólo Jak mít radost z vaření jen pro sebe",
     "url": "https://www.kosmas.cz/knihy/567481/solo-jak-mit-radost-z-vareni-jen-pro-sebe/",
     "description": "Sólo Jak mít radost z vaření jen pro sebe - Darina Křivánková",
@@ -1677,96 +1767,5 @@
       "Liz Nugent"
     ],
     "date": "2026-03-22T06:26:33.260924+00:00"
-  },
-  {
-    "title": "Umění přesvědčit kohokoliv",
-    "url": "https://www.kosmas.cz/knihy/565986/umeni-presvedcit-kohokoliv/",
-    "description": "Umění přesvědčit kohokoliv - Jonah Berger",
-    "authors": [
-      "Jonah Berger"
-    ],
-    "date": "2026-03-22T06:26:32.260924+00:00"
-  },
-  {
-    "title": "Haraš",
-    "url": "https://www.kosmas.cz/knihy/566116/haras/",
-    "description": "Haraš - Ivo Fencl",
-    "authors": [
-      "Ivo Fencl"
-    ],
-    "date": "2026-03-22T06:26:31.260924+00:00"
-  },
-  {
-    "title": "Bez dechu",
-    "url": "https://www.kosmas.cz/knihy/566185/bez-dechu/",
-    "description": "Bez dechu - Jodi Ellen Malpasová",
-    "authors": [
-      "Jodi Ellen Malpasová"
-    ],
-    "date": "2026-03-22T06:26:30.260924+00:00"
-  },
-  {
-    "title": "Čtyři dohody - Modlitby",
-    "url": "https://www.kosmas.cz/knihy/566187/ctyri-dohody-modlitby/",
-    "description": "Čtyři dohody - Modlitby - Janet Millsová, Miguel Ruiz Don",
-    "authors": [
-      "Janet Millsová",
-      "Miguel Ruiz Don"
-    ],
-    "date": "2026-03-22T06:26:29.260924+00:00"
-  },
-  {
-    "title": "Krok za krokem do pohody",
-    "url": "https://www.kosmas.cz/knihy/566193/krok-za-krokem-do-pohody/",
-    "description": "Krok za krokem do pohody - Nina Barough",
-    "authors": [
-      "Nina Barough"
-    ],
-    "date": "2026-03-22T06:26:28.260924+00:00"
-  },
-  {
-    "title": "Moje cesta k miminku",
-    "url": "https://www.kosmas.cz/knihy/566195/moje-cesta-k-miminku/",
-    "description": "Moje cesta k miminku - Lucie Denková",
-    "authors": [
-      "Lucie Denková"
-    ],
-    "date": "2026-03-22T06:26:27.260924+00:00"
-  },
-  {
-    "title": "Vrah mezi námi",
-    "url": "https://www.kosmas.cz/knihy/566203/vrah-mezi-nami/",
-    "description": "Vrah mezi námi - Lauren Munoz",
-    "authors": [
-      "Lauren Munoz"
-    ],
-    "date": "2026-03-22T06:26:26.260924+00:00"
-  },
-  {
-    "title": "Balada moře a oblohy",
-    "url": "https://www.kosmas.cz/knihy/566206/balada-more-a-oblohy/",
-    "description": "Balada moře a oblohy - Eliot Madeleine",
-    "authors": [
-      "Eliot Madeleine"
-    ],
-    "date": "2026-03-22T06:26:25.260924+00:00"
-  },
-  {
-    "title": "Pekelná sudoku",
-    "url": "https://www.kosmas.cz/knihy/566212/pekelna-sudoku/",
-    "description": "Pekelná sudoku - Petr Sýkora",
-    "authors": [
-      "Petr Sýkora"
-    ],
-    "date": "2026-03-22T06:26:24.260924+00:00"
-  },
-  {
-    "title": "Jak prezentovat odborné výsledky",
-    "url": "https://www.kosmas.cz/knihy/566253/jak-prezentovat-odborne-vysledky/",
-    "description": "Jak prezentovat odborné výsledky - Eva Juláková",
-    "authors": [
-      "Eva Juláková"
-    ],
-    "date": "2026-03-22T06:26:23.260924+00:00"
   }
 ]

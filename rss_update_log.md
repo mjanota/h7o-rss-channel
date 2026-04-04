@@ -5,6 +5,39 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-04 06:31:37 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 10
+
+**Tituly nových položek:**
+
+1. Dívčí válka 12
+2. Vyhnání Gerty Schnirch
+3. Mariborská hypnóza
+4. Tajemství a výklad pohádek: Třetí princ
+5. Každý blázní po svém
+6. Pobožný střelec
+7. Vlákna osudu
+8. Strašidelná vagina
+9. Vampýrská akademie 3- Stínem políbená (2023)
+10. ... stačilo jen říct Jáchymov
+
+---
+
+## 🕐 2026-04-04 06:31:35 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-03 06:37:19 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -241,51 +274,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-03-28 06:30:09 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Háčkované čtverce – Karty
-2. Randál
-3. Zalyžařivší si lyžař
-4. Historická detektivka
-5. AC/DC – Kompletní příběh
-6. Kytara pro každého
-7. Historie v barvě
-8. Druhá světová v barvě
-9. Powerjóga 2.0 – Midlife Revolution
-10. Šachy pro každého
-11. Králové a královny
-12. Dotek osudu
-13. Den pro Šakala
-14. Lunulae
-15. Nevymyšlené životy
-16. V otázkách jsou odpovědi
-17. Nebezpečná místa
-18. Bridgertonovi: Vikomt, který mě miloval
-
----
-
-## 🕐 2026-03-28 06:30:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Cenu literární kritiky získali Borkovec za prózu a Kauer za poezii
 
 ---
 
