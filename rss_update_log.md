@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-05 06:35:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Hra
+2. Traťové pohádky
+
+---
+
+## 🕐 2026-04-05 06:35:55 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-04 06:31:37 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,34 +271,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Reasons to Live: americké povídkářky, které si zaslouží žít
-
----
-
-## 🕐 2026-03-29 06:34:34 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Zrození mistra
-2. Zaříkávač draků: Přísaha psanců
-3. Hvězdný prach v nás
-4. Nerovně sjednoceni
-5. Surrealisté - Jejich bouřlivé osudy
-
----
-
-## 🕐 2026-03-29 06:34:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

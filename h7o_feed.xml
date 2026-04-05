@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 04 Apr 2026 06:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 06:35:55 +0000</lastBuildDate>
     <item>
       <title>Starej dobrej satanáš</title>
       <link>https://www.h7o.cz/clanky/14483-starej-dobrej-satanas</link>
@@ -485,13 +485,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Americká poezie patří k nejvydávanějším a nejsledovanějším u nás. Dokazují to četné antologie, ale i překlady celých sbírek, jež za poslední půlstoletí vycházely. S editorem Janem Zikmundem hovoříme o tom, jak vznikala nová antologie a jak vypadá společenská kritika v současné americké poezii.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14409-nejsem-fanouskem-zrcadlovych-vydani</guid>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Téma jako alibi</title>
-      <link>https://www.h7o.cz/clanky/14411-tema-jako-alibi</link>
-      <description>Zažíváme homogenizaci literatury skrze clustery několika témat? A je problém v samotných tématech nebo v tom, že na ně i myšlení o literatuře čím dál víc redukujeme? O co tím případně přicházíme? Více v komentáři Ondřeje Nezbedy.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14411-tema-jako-alibi</guid>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
