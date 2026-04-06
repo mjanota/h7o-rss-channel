@@ -5,6 +5,26 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-06 06:50:40 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
+## 🕐 2026-04-06 06:50:39 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-05 06:35:56 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -238,39 +258,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Ticho jako uvnitř kulky
-
----
-
-## 🕐 2026-03-30 06:50:02 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 6
-
-**Tituly nových položek:**
-
-1. 45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026
-2. Posilte svůj mozek
-3. Asistovaná reprodukce... před podpisem informovaného souhlasu
-4. Severní Itálie karavanem
-5. Jadran karavanem
-6. Zabíječ orků
-
----
-
-## 🕐 2026-03-30 06:50:01 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Reasons to Live: americké povídkářky, které si zaslouží žít
 
 ---
 
