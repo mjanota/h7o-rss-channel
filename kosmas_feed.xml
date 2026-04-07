@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 06:42:34 +0000</lastBuildDate>
+    <item>
+      <title>Normální dítě</title>
+      <link>https://www.kosmas.cz/knihy/564100/normalni-dite/</link>
+      <description>Normální dítě - Tereza Kopecká</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564100/normalni-dite/</guid>
+      <pubDate>Tue, 07 Apr 2026 06:42:22 +0000</pubDate>
+    </item>
     <item>
       <title>Hra</title>
       <link>https://www.kosmas.cz/knihy/567448/hra/</link>
@@ -700,13 +707,6 @@
       <description>Randál - Chris Berdik</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/566933/randal/</guid>
       <pubDate>Sat, 28 Mar 2026 06:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zalyžařivší si lyžař</title>
-      <link>https://www.kosmas.cz/knihy/567054/zalyzarivsi-si-lyzar/</link>
-      <description>Zalyžařivší si lyžař - Jiří Kabele</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567054/zalyzarivsi-si-lyzar/</guid>
-      <pubDate>Sat, 28 Mar 2026 06:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

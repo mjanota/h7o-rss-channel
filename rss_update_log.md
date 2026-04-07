@@ -5,6 +5,34 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-07 06:42:34 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Normální dítě
+
+---
+
+## 🕐 2026-04-07 06:42:33 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Kluci stočení do klubíčka
+
+---
+
 ## 🕐 2026-04-06 06:50:40 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -211,53 +239,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Umělohmotná recenze
-
----
-
-## 🕐 2026-03-31 06:40:01 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Čas vrahů
-2. Dotek osudu
-3. Dědictví skotských templářů
-4. Ohavné mordy boleslavské
-5. Pod andaluským nebem
-6. Případ pana Lály
-7. Vražedné ego
-8. Podkin Jednoouško: Uki a vyhnanci
-9. Když je spolkly vlny
-10. Daughter of Chaos
-11. Isabela a bílé mraky
-12. Valentýnka a narozeniny
-13. O Ježíškovi
-14. Libuše Kyndrová Fotografie/photographs
-15. Peter Morée mezi Východem a Západem
-16. Háčkujeme squishies
-17. Háčkování pro děti – Super Easy
-18. Samolepkové aktivity Dopravní prostředky
-19. Samolepkové aktivity Halloween
-20. Art of Rhetoric
-
----
-
-## 🕐 2026-03-31 06:40:00 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Ticho jako uvnitř kulky
 
 ---
 

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 06:42:33 +0000</lastBuildDate>
+    <item>
+      <title>Kluci stočení do klubíčka</title>
+      <link>https://www.h7o.cz/clanky/14484-kluci-stoceni-do-klubicka</link>
+      <description>„Možná tedy platí, že se čeští a slovenští incelové na internetu nesdružují, rozhodně ale nelze popřít existenci kluků a mužů, kteří se kolektivně utápí v zoufalství ohledně svého vzhledu nebo chabých sociálních schopností,“ píše v pravidelném sloupku z králičích nor TikToku básník Lubomír Tichý.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14484-kluci-stoceni-do-klubicka</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Starej dobrej satanáš</title>
       <link>https://www.h7o.cz/clanky/14483-starej-dobrej-satanas</link>
@@ -471,13 +478,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii inauguruje úvaha o lsti táborového vidění světa.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout</guid>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nakladatelství ukončilo spolupráci s bestselleristou Walliamsem. Měl obtěžovat zaměstnankyně</title>
-      <link>https://www.h7o.cz/clanky/14412-nakladatelstvi-ukoncilo-spolupraci-s-bestselleristou-walliamsem</link>
-      <description>Autor dětských knih, komik a herec David Walliams čelí obvinění ze sexuálního obtěžování. Spolupráci s ním rozvázalo nakladatelství HarperCollins i literární festival.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14412-nakladatelstvi-ukoncilo-spolupraci-s-bestselleristou-walliamsem</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
