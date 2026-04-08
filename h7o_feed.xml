@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 07 Apr 2026 06:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 06:43:38 +0000</lastBuildDate>
+    <item>
+      <title>Hoď ho do stroje</title>
+      <link>https://www.h7o.cz/clanky/14486-hod-ho-do-stroje</link>
+      <description>Umělá inteligence proměňuje nakladatelskou praxi. Redaktoři si nechávají technologií „číst“ rukopisy a zároveň je tak poskytují třetím stranám.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14486-hod-ho-do-stroje</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Kluci stočení do klubíčka</title>
       <link>https://www.h7o.cz/clanky/14484-kluci-stoceni-do-klubicka</link>
@@ -471,13 +478,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Básník Vít Slíva se 11. ledna dožívá pětasedmdesáti let. Na počátku roku poslal kolegům literátům novoročenku pro rok 2026. Verše na péefku se staly inspirací tohoto rozhovoru, v němž vyzývám autora k reakci ke každému řádku jeho rýmovaného přání.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14413-vzpouru-nemam-v-krvi</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>S kým se spřáhnout</title>
-      <link>https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout</link>
-      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii inauguruje úvaha o lsti táborového vidění světa.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout</guid>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

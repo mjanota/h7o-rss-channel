@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-08 06:43:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Pouto prokletí
+2. Bridgertonovi: Vévoda a já
+3. Metra světa
+4. Pozdní hypogonadismus
+5. Převážně báječný rok
+6. Velká lekce focení a úprav
+7. Lednice
+8. Český Krumlov
+9. Karlštejn
+10. Pernštejn
+11. Skanzen
+12. Tank M4 Sherman
+13. Abeceda intenzivní medicíny
+14. Albánie - Zblízka
+15. Sardinie - Zblízka
+16. Jižní Korea - Zblízka
+17. Řeka bohů - Anubisova hrozba
+18. Rusko proti modernitě
+19. České pohádky
+20. Příběhy starých pražských domů
+
+---
+
+## 🕐 2026-04-08 06:43:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hoď ho do stroje
+
+---
+
 ## 🕐 2026-04-07 06:42:34 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

@@ -288,14 +288,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "S kým se spřáhnout",
-    "url": "https://www.h7o.cz/clanky/14410-s-kym-se-sprahnout",
-    "description": "Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii inauguruje úvaha o lsti táborového vidění světa.",
-    "date": "2026-01-08T00:00:00",
-    "author": "Petr Tureček",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -534,5 +526,13 @@
     "date": "2026-04-07T00:00:00",
     "author": "Lubomír Tichý",
     "category": "sloupek"
+  },
+  {
+    "title": "Hoď ho do stroje",
+    "url": "https://www.h7o.cz/clanky/14486-hod-ho-do-stroje",
+    "description": "Umělá inteligence proměňuje nakladatelskou praxi. Redaktoři si nechávají technologií „číst“ rukopisy a zároveň je tak poskytují třetím stranám.",
+    "date": "2026-04-08T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]
