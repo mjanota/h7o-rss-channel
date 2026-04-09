@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Apr 2026 06:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:44:05 +0000</lastBuildDate>
+    <item>
+      <title>Nebuď ubrečenej</title>
+      <link>https://www.h7o.cz/clanky/14485-nebud-ubrecenej</link>
+      <description>Důvodů k pláči máme každý den mnoho. Trump se zase rozhodl zničit svět. Zase jsme úspěšně dolétli k Měsíci. Zase stovky lidí padly za oběť aktuálním válkám. Možná to není od věci – totiž zaplakat. Václav Sklenář se v návaznosti na amerického esejistu Marka Edmundsona zamýšlí proč.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14485-nebud-ubrecenej</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hoď ho do stroje</title>
       <link>https://www.h7o.cz/clanky/14486-hod-ho-do-stroje</link>
@@ -471,13 +478,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Dne 10. ledna roku 1986, tedy přesně před čtyřiceti lety, zemřel český básník, publicista a nositel Nobelovy ceny za literaturu Jaroslav Seifert. K tomuto výročí publikujeme ukázku z monografie Vratislava Maňáka „Orchestrace jedné denunciace“, kterou v prosinci vydalo nakladatelství Karolinum.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu</guid>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vzpouru nemám v krvi</title>
-      <link>https://www.h7o.cz/clanky/14413-vzpouru-nemam-v-krvi</link>
-      <description>Básník Vít Slíva se 11. ledna dožívá pětasedmdesáti let. Na počátku roku poslal kolegům literátům novoročenku pro rok 2026. Verše na péefku se staly inspirací tohoto rozhovoru, v němž vyzývám autora k reakci ke každému řádku jeho rýmovaného přání.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14413-vzpouru-nemam-v-krvi</guid>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

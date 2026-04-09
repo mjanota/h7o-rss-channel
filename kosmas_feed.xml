@@ -7,7 +7,140 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 08 Apr 2026 06:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:44:06 +0000</lastBuildDate>
+    <item>
+      <title>Sestry</title>
+      <link>https://www.kosmas.cz/knihy/567268/sestry/</link>
+      <description>Sestry - Martin Uhlíř</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567268/sestry/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krev na kolejích</title>
+      <link>https://www.kosmas.cz/knihy/567415/krev-na-kolejich/</link>
+      <description>Krev na kolejích - J.R. Ellis</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567415/krev-na-kolejich/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bílý most</title>
+      <link>https://www.kosmas.cz/knihy/567419/bily-most/</link>
+      <description>Bílý most - Marek Havlík</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567419/bily-most/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Který bohatý člověk může být spasen?</title>
+      <link>https://www.kosmas.cz/knihy/567326/ktery-bohaty-clovek-muze-byt-spasen/</link>
+      <description>Který bohatý člověk může být spasen? - Klement Alexandrijský</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567326/ktery-bohaty-clovek-muze-byt-spasen/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czech Grand Design 20!</title>
+      <link>https://www.kosmas.cz/knihy/567340/czech-grand-design-20/</link>
+      <description>Czech Grand Design 20!</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567340/czech-grand-design-20/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nástěnný kalendář Alfons Mucha 2027</title>
+      <link>https://www.kosmas.cz/knihy/567413/nastenny-kalendar-alfons-mucha-2027/</link>
+      <description>Nástěnný kalendář Alfons Mucha 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567413/nastenny-kalendar-alfons-mucha-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Josef Mištera: Ora et labora</title>
+      <link>https://www.kosmas.cz/knihy/567417/josef-mistera-ora-et-labora/</link>
+      <description>Josef Mištera: Ora et labora - Josef Mištěra</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567417/josef-mistera-ora-et-labora/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poznámkový kalendář Alphonse Mucha</title>
+      <link>https://www.kosmas.cz/knihy/567418/poznamkovy-kalendar-alphonse-mucha/</link>
+      <description>Poznámkový kalendář Alphonse Mucha</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567418/poznamkovy-kalendar-alphonse-mucha/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blahodárná setkání nad záhadami duše</title>
+      <link>https://www.kosmas.cz/knihy/567435/blahodarna-setkani-nad-zahadami-duse/</link>
+      <description>Blahodárná setkání nad záhadami duše - Pavel Kalvach</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567435/blahodarna-setkani-nad-zahadami-duse/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027</title>
+      <link>https://www.kosmas.cz/knihy/567451/nastenny-kalendar-slovanska-epopej-alphonse-mucha-2027/</link>
+      <description>Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567451/nastenny-kalendar-slovanska-epopej-alphonse-mucha-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poznámkový kalendář Praha 2027</title>
+      <link>https://www.kosmas.cz/knihy/567456/poznamkovy-kalendar-praha-2027/</link>
+      <description>Poznámkový kalendář Praha 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567456/poznamkovy-kalendar-praha-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nástěnný kalendář Praha 2027</title>
+      <link>https://www.kosmas.cz/knihy/567457/nastenny-kalendar-praha-2027/</link>
+      <description>Nástěnný kalendář Praha 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567457/nastenny-kalendar-praha-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poznámkový kalendář Praha 2027</title>
+      <link>https://www.kosmas.cz/knihy/567458/poznamkovy-kalendar-praha-2027/</link>
+      <description>Poznámkový kalendář Praha 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567458/poznamkovy-kalendar-praha-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poznámkový kalendář Česká republika 2027</title>
+      <link>https://www.kosmas.cz/knihy/567459/poznamkovy-kalendar-ceska-republika-2027/</link>
+      <description>Poznámkový kalendář Česká republika 2027</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567459/poznamkovy-kalendar-ceska-republika-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Studentský diář Harry Potter (září 2026 – prosinec 2027)</title>
+      <link>https://www.kosmas.cz/knihy/567461/studentsky-diar-harry-potter-zari-2026-prosinec-2027/</link>
+      <description>Studentský diář Harry Potter (září 2026 – prosinec 2027)</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567461/studentsky-diar-harry-potter-zari-2026-prosinec-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Studentský diář Kuromi (září 2026 – prosinec 2027)</title>
+      <link>https://www.kosmas.cz/knihy/567462/studentsky-diar-kuromi-zari-2026-prosinec-2027/</link>
+      <description>Studentský diář Kuromi (září 2026 – prosinec 2027)</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567462/studentsky-diar-kuromi-zari-2026-prosinec-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Školní diář Axolotl (září 2026 – prosinec 2027)</title>
+      <link>https://www.kosmas.cz/knihy/567464/skolni-diar-axolotl-zari-2026-prosinec-2027/</link>
+      <description>Školní diář Axolotl (září 2026 – prosinec 2027)</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567464/skolni-diar-axolotl-zari-2026-prosinec-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Školní diář Gamer (září 2026 – prosinec 2027)</title>
+      <link>https://www.kosmas.cz/knihy/567465/skolni-diar-gamer-zari-2026-prosinec-2027/</link>
+      <description>Školní diář Gamer (září 2026 – prosinec 2027)</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567465/skolni-diar-gamer-zari-2026-prosinec-2027/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cesta svobodného ducha</title>
+      <link>https://www.kosmas.cz/knihy/566870/cesta-svobodneho-ducha/</link>
+      <description>Cesta svobodného ducha - Ali Yansori</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566870/cesta-svobodneho-ducha/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:43:47 +0000</pubDate>
+    </item>
     <item>
       <title>Pouto prokletí</title>
       <link>https://www.kosmas.cz/knihy/566486/pouto-prokleti/</link>
@@ -574,139 +707,6 @@
       <description>Samolepkové aktivity U moře</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567016/samolepkove-aktivity-u-more/</guid>
       <pubDate>Wed, 01 Apr 2026 06:46:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samolepkové aktivity Dinosauři</title>
-      <link>https://www.kosmas.cz/knihy/567017/samolepkove-aktivity-dinosauri/</link>
-      <description>Samolepkové aktivity Dinosauři</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567017/samolepkove-aktivity-dinosauri/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tetování s aktivitami Dům myšek Sam &amp; Julie</title>
-      <link>https://www.kosmas.cz/knihy/567020/tetovani-s-aktivitami-dum-mysek-sam-julie/</link>
-      <description>Tetování s aktivitami Dům myšek Sam &amp; Julie</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567020/tetovani-s-aktivitami-dum-mysek-sam-julie/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omalovánky a 100 tetování Spidey</title>
-      <link>https://www.kosmas.cz/knihy/567021/omalovanky-a-100-tetovani-spidey/</link>
-      <description>Omalovánky a 100 tetování Spidey</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567021/omalovanky-a-100-tetovani-spidey/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omalovánky a 100 tetování Dinosauři</title>
-      <link>https://www.kosmas.cz/knihy/567023/omalovanky-a-100-tetovani-dinosauri/</link>
-      <description>Omalovánky a 100 tetování Dinosauři</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567023/omalovanky-a-100-tetovani-dinosauri/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omalovánky a 100 tetování Roztomilá zvířátka</title>
-      <link>https://www.kosmas.cz/knihy/567024/omalovanky-a-100-tetovani-roztomila-zviratka/</link>
-      <description>Omalovánky a 100 tetování Roztomilá zvířátka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567024/omalovanky-a-100-tetovani-roztomila-zviratka/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>100 samolepek s omalovánkovými listy Lilo &amp; Stitch</title>
-      <link>https://www.kosmas.cz/knihy/567047/100-samolepek-s-omalovankovymi-listy-lilo-stitch/</link>
-      <description>100 samolepek s omalovánkovými listy Lilo &amp; Stitch</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567047/100-samolepek-s-omalovankovymi-listy-lilo-stitch/</guid>
-      <pubDate>Wed, 01 Apr 2026 06:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čas vrahů</title>
-      <link>https://www.kosmas.cz/knihy/566186/cas-vrahu/</link>
-      <description>Čas vrahů - Petr Nutil</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566186/cas-vrahu/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:40:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dotek osudu</title>
-      <link>https://www.kosmas.cz/knihy/566189/dotek-osudu/</link>
-      <description>Dotek osudu - Lisa Reganová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566189/dotek-osudu/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dědictví skotských templářů</title>
-      <link>https://www.kosmas.cz/knihy/567214/dedictvi-skotskych-templaru/</link>
-      <description>Dědictví skotských templářů - Vlastimil Vondruška</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567214/dedictvi-skotskych-templaru/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ohavné mordy boleslavské</title>
-      <link>https://www.kosmas.cz/knihy/567215/ohavne-mordy-boleslavske/</link>
-      <description>Ohavné mordy boleslavské - Jiří Dobrylovský, Jana Vitoušová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567215/ohavne-mordy-boleslavske/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pod andaluským nebem</title>
-      <link>https://www.kosmas.cz/knihy/567216/pod-andaluskym-nebem/</link>
-      <description>Pod andaluským nebem - Jo Thomas</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567216/pod-andaluskym-nebem/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Případ pana Lály</title>
-      <link>https://www.kosmas.cz/knihy/567217/pripad-pana-laly/</link>
-      <description>Případ pana Lály - Petr Eidler</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567217/pripad-pana-laly/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vražedné ego</title>
-      <link>https://www.kosmas.cz/knihy/567218/vrazedne-ego/</link>
-      <description>Vražedné ego - Martina Novotná</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567218/vrazedne-ego/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podkin Jednoouško: Uki a vyhnanci</title>
-      <link>https://www.kosmas.cz/knihy/565727/podkin-jednoousko-uki-a-vyhnanci/</link>
-      <description>Podkin Jednoouško: Uki a vyhnanci - Kieran Larwood</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565727/podkin-jednoousko-uki-a-vyhnanci/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Když je spolkly vlny</title>
-      <link>https://www.kosmas.cz/knihy/566344/kdyz-je-spolkly-vlny/</link>
-      <description>Když je spolkly vlny - Mark Smith</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566344/kdyz-je-spolkly-vlny/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daughter of Chaos</title>
-      <link>https://www.kosmas.cz/knihy/567142/daughter-of-chaos/</link>
-      <description>Daughter of Chaos - A. S. Webb</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567142/daughter-of-chaos/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Isabela a bílé mraky</title>
-      <link>https://www.kosmas.cz/knihy/565192/isabela-a-bile-mraky/</link>
-      <description>Isabela a bílé mraky - Ivana Peroutková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565192/isabela-a-bile-mraky/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Valentýnka a narozeniny</title>
-      <link>https://www.kosmas.cz/knihy/565214/valentynka-a-narozeniny/</link>
-      <description>Valentýnka a narozeniny - Ivana Peroutková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565214/valentynka-a-narozeniny/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>O Ježíškovi</title>
-      <link>https://www.kosmas.cz/knihy/533208/o-jeziskovi/</link>
-      <description>O Ježíškovi - David Laňka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/533208/o-jeziskovi/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:39:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

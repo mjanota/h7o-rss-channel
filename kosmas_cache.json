@@ -1,5 +1,152 @@
 [
   {
+    "title": "Sestry",
+    "url": "https://www.kosmas.cz/knihy/567268/sestry/",
+    "description": "Sestry - Martin Uhlíř",
+    "authors": [
+      "Martin Uhlíř"
+    ],
+    "date": "2026-04-09T06:44:05.915292+00:00"
+  },
+  {
+    "title": "Krev na kolejích",
+    "url": "https://www.kosmas.cz/knihy/567415/krev-na-kolejich/",
+    "description": "Krev na kolejích - J.R. Ellis",
+    "authors": [
+      "J.R. Ellis"
+    ],
+    "date": "2026-04-09T06:44:04.915292+00:00"
+  },
+  {
+    "title": "Bílý most",
+    "url": "https://www.kosmas.cz/knihy/567419/bily-most/",
+    "description": "Bílý most - Marek Havlík",
+    "authors": [
+      "Marek Havlík"
+    ],
+    "date": "2026-04-09T06:44:03.915292+00:00"
+  },
+  {
+    "title": "Který bohatý člověk může být spasen?",
+    "url": "https://www.kosmas.cz/knihy/567326/ktery-bohaty-clovek-muze-byt-spasen/",
+    "description": "Který bohatý člověk může být spasen? - Klement Alexandrijský",
+    "authors": [
+      "Klement Alexandrijský"
+    ],
+    "date": "2026-04-09T06:44:02.915292+00:00"
+  },
+  {
+    "title": "Czech Grand Design 20!",
+    "url": "https://www.kosmas.cz/knihy/567340/czech-grand-design-20/",
+    "description": "Czech Grand Design 20!",
+    "authors": [],
+    "date": "2026-04-09T06:44:01.915292+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Alfons Mucha 2027",
+    "url": "https://www.kosmas.cz/knihy/567413/nastenny-kalendar-alfons-mucha-2027/",
+    "description": "Nástěnný kalendář Alfons Mucha 2027",
+    "authors": [],
+    "date": "2026-04-09T06:44:00.915292+00:00"
+  },
+  {
+    "title": "Josef Mištera: Ora et labora",
+    "url": "https://www.kosmas.cz/knihy/567417/josef-mistera-ora-et-labora/",
+    "description": "Josef Mištera: Ora et labora - Josef Mištěra",
+    "authors": [
+      "Josef Mištěra"
+    ],
+    "date": "2026-04-09T06:43:59.915292+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Alphonse Mucha",
+    "url": "https://www.kosmas.cz/knihy/567418/poznamkovy-kalendar-alphonse-mucha/",
+    "description": "Poznámkový kalendář Alphonse Mucha",
+    "authors": [],
+    "date": "2026-04-09T06:43:58.915292+00:00"
+  },
+  {
+    "title": "Blahodárná setkání nad záhadami duše",
+    "url": "https://www.kosmas.cz/knihy/567435/blahodarna-setkani-nad-zahadami-duse/",
+    "description": "Blahodárná setkání nad záhadami duše - Pavel Kalvach",
+    "authors": [
+      "Pavel Kalvach"
+    ],
+    "date": "2026-04-09T06:43:57.915292+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027",
+    "url": "https://www.kosmas.cz/knihy/567451/nastenny-kalendar-slovanska-epopej-alphonse-mucha-2027/",
+    "description": "Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027",
+    "authors": [],
+    "date": "2026-04-09T06:43:56.915292+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Praha 2027",
+    "url": "https://www.kosmas.cz/knihy/567456/poznamkovy-kalendar-praha-2027/",
+    "description": "Poznámkový kalendář Praha 2027",
+    "authors": [],
+    "date": "2026-04-09T06:43:55.915292+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Praha 2027",
+    "url": "https://www.kosmas.cz/knihy/567457/nastenny-kalendar-praha-2027/",
+    "description": "Nástěnný kalendář Praha 2027",
+    "authors": [],
+    "date": "2026-04-09T06:43:54.915292+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Praha 2027",
+    "url": "https://www.kosmas.cz/knihy/567458/poznamkovy-kalendar-praha-2027/",
+    "description": "Poznámkový kalendář Praha 2027",
+    "authors": [],
+    "date": "2026-04-09T06:43:53.915292+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Česká republika 2027",
+    "url": "https://www.kosmas.cz/knihy/567459/poznamkovy-kalendar-ceska-republika-2027/",
+    "description": "Poznámkový kalendář Česká republika 2027",
+    "authors": [],
+    "date": "2026-04-09T06:43:52.915292+00:00"
+  },
+  {
+    "title": "Studentský diář Harry Potter (září 2026 – prosinec 2027)",
+    "url": "https://www.kosmas.cz/knihy/567461/studentsky-diar-harry-potter-zari-2026-prosinec-2027/",
+    "description": "Studentský diář Harry Potter (září 2026 – prosinec 2027)",
+    "authors": [],
+    "date": "2026-04-09T06:43:51.915292+00:00"
+  },
+  {
+    "title": "Studentský diář Kuromi (září 2026 – prosinec 2027)",
+    "url": "https://www.kosmas.cz/knihy/567462/studentsky-diar-kuromi-zari-2026-prosinec-2027/",
+    "description": "Studentský diář Kuromi (září 2026 – prosinec 2027)",
+    "authors": [],
+    "date": "2026-04-09T06:43:50.915292+00:00"
+  },
+  {
+    "title": "Školní diář Axolotl (září 2026 – prosinec 2027)",
+    "url": "https://www.kosmas.cz/knihy/567464/skolni-diar-axolotl-zari-2026-prosinec-2027/",
+    "description": "Školní diář Axolotl (září 2026 – prosinec 2027)",
+    "authors": [],
+    "date": "2026-04-09T06:43:49.915292+00:00"
+  },
+  {
+    "title": "Školní diář Gamer (září 2026 – prosinec 2027)",
+    "url": "https://www.kosmas.cz/knihy/567465/skolni-diar-gamer-zari-2026-prosinec-2027/",
+    "description": "Školní diář Gamer (září 2026 – prosinec 2027)",
+    "authors": [],
+    "date": "2026-04-09T06:43:48.915292+00:00"
+  },
+  {
+    "title": "Cesta svobodného ducha",
+    "url": "https://www.kosmas.cz/knihy/566870/cesta-svobodneho-ducha/",
+    "description": "Cesta svobodného ducha - Ali Yansori",
+    "authors": [
+      "Ali Yansori"
+    ],
+    "date": "2026-04-09T06:43:47.915292+00:00"
+  },
+  {
     "title": "Pouto prokletí",
     "url": "https://www.kosmas.cz/knihy/566486/pouto-prokleti/",
     "description": "Pouto prokletí - Saara El-Arifi",
@@ -1584,177 +1731,5 @@
       "Lemony Snicket"
     ],
     "date": "2026-03-25T06:33:22.305812+00:00"
-  },
-  {
-    "title": "Prostě vztahy",
-    "url": "https://www.kosmas.cz/knihy/546831/proste-vztahy/",
-    "description": "Prostě vztahy - Honza Vojtko",
-    "authors": [
-      "Honza Vojtko"
-    ],
-    "date": "2026-03-25T06:33:21.305812+00:00"
-  },
-  {
-    "title": "Poslední medvěd",
-    "url": "https://www.kosmas.cz/knihy/546833/posledni-medved/",
-    "description": "Poslední medvěd - Hannah Goldová",
-    "authors": [
-      "Hannah Goldová"
-    ],
-    "date": "2026-03-25T06:33:20.305812+00:00"
-  },
-  {
-    "title": "Případ nitravské mince",
-    "url": "https://www.kosmas.cz/knihy/546838/pripad-nitravske-mince/",
-    "description": "Případ nitravské mince - Stanislav Češka",
-    "authors": [
-      "Stanislav Češka"
-    ],
-    "date": "2026-03-25T06:33:19.305812+00:00"
-  },
-  {
-    "title": "Komtur",
-    "url": "https://www.kosmas.cz/knihy/544433/komtur/",
-    "description": "Komtur - Petr S. Pixy",
-    "authors": [
-      "Petr S. Pixy"
-    ],
-    "date": "2026-03-25T06:33:18.305812+00:00"
-  },
-  {
-    "title": "Život ve staletích – 15. století",
-    "url": "https://www.kosmas.cz/knihy/544434/zivot-ve-staletich-15.-stoleti/",
-    "description": "Život ve staletích – 15. století - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-03-25T06:33:17.305812+00:00"
-  },
-  {
-    "title": "Encyklopedie sídelních biskupů v českých zemích",
-    "url": "https://www.kosmas.cz/knihy/566077/encyklopedie-sidelnich-biskupu-v-ceskych-zemich/",
-    "description": "Encyklopedie sídelních biskupů v českých zemích - Milan Buben",
-    "authors": [
-      "Milan Buben"
-    ],
-    "date": "2026-03-25T06:33:16.305812+00:00"
-  },
-  {
-    "title": "Peníze v moderní kultuře a jiné eseje",
-    "url": "https://www.kosmas.cz/knihy/566079/penize-v-moderni-kulture-a-jine-eseje/",
-    "description": "Peníze v moderní kultuře a jiné eseje - Georg Simmel",
-    "authors": [
-      "Georg Simmel"
-    ],
-    "date": "2026-03-25T06:33:15.305812+00:00"
-  },
-  {
-    "title": "Vinnetou  - Poslední výstřel",
-    "url": "https://www.kosmas.cz/knihy/566083/vinnetou-posledni-vystrel/",
-    "description": "Vinnetou  - Poslední výstřel - Karel May",
-    "authors": [
-      "Karel May"
-    ],
-    "date": "2026-03-25T06:33:14.305812+00:00"
-  },
-  {
-    "title": "Byzantská pouť",
-    "url": "https://www.kosmas.cz/knihy/566087/byzantska-pout/",
-    "description": "Byzantská pouť - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-03-25T06:33:13.305812+00:00"
-  },
-  {
-    "title": "Robert Ďábel",
-    "url": "https://www.kosmas.cz/knihy/566129/robert-dabel/",
-    "description": "Robert Ďábel",
-    "authors": [],
-    "date": "2026-03-25T06:33:12.305812+00:00"
-  },
-  {
-    "title": "Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců",
-    "url": "https://www.kosmas.cz/knihy/566353/cesky-knize-vladislav-i.-zapadni-cechy-a-cesky-stat-za-vlady-premyslovcu/",
-    "description": "Český kníže Vladislav I., západní Čechy a český stát za vlády Přemyslovců - kolektiv autorů, Martin Slepička, Naděžda Morávková",
-    "authors": [
-      "kolektiv autorů",
-      "Martin Slepička",
-      "Naděžda Morávková"
-    ],
-    "date": "2026-03-25T06:33:11.305812+00:00"
-  },
-  {
-    "title": "Kuděj 2025/2",
-    "url": "https://www.kosmas.cz/knihy/566354/kudej-2025-2/",
-    "description": "Kuděj 2025/2",
-    "authors": [],
-    "date": "2026-03-25T06:33:10.305812+00:00"
-  },
-  {
-    "title": "Ptačí omalovánky Pavlíny Kourkové",
-    "url": "https://www.kosmas.cz/knihy/565730/ptaci-omalovanky-pavliny-kourkove/",
-    "description": "Ptačí omalovánky Pavlíny Kourkové - Pavlína Kourková",
-    "authors": [
-      "Pavlína Kourková"
-    ],
-    "date": "2026-03-25T06:33:09.305812+00:00"
-  },
-  {
-    "title": "Podnikatel versus kapitál – kapitál versus podnikatel",
-    "url": "https://www.kosmas.cz/knihy/566462/podnikatel-versus-kapital-kapital-versus-podnikatel/",
-    "description": "Podnikatel versus kapitál – kapitál versus podnikatel - Miloš Hořejš, Eduard Kubů, Barbora Štolleová",
-    "authors": [
-      "Miloš Hořejš",
-      "Eduard Kubů",
-      "Barbora Štolleová"
-    ],
-    "date": "2026-03-25T06:33:08.305812+00:00"
-  },
-  {
-    "title": "O člověku, který se nebál bát",
-    "url": "https://www.kosmas.cz/knihy/566510/o-cloveku-ktery-se-nebal-bat/",
-    "description": "O člověku, který se nebál bát - Jan Krůta",
-    "authors": [
-      "Jan Krůta"
-    ],
-    "date": "2026-03-25T06:33:07.305812+00:00"
-  },
-  {
-    "title": "Znamení rožmberské růže",
-    "url": "https://www.kosmas.cz/knihy/215379/znameni-rozmberske-ruze/",
-    "description": "Znamení rožmberské růže - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-03-24T06:33:33.248526+00:00"
-  },
-  {
-    "title": "Křišťálový klíč I. - Falknovská huť (1695 - 1713)",
-    "url": "https://www.kosmas.cz/knihy/257799/kristalovy-klic-i.-falknovska-hut-1695-1713/",
-    "description": "Křišťálový klíč I. - Falknovská huť (1695 - 1713) - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-03-24T06:33:32.248526+00:00"
-  },
-  {
-    "title": "Hop a tajemství jezera",
-    "url": "https://www.kosmas.cz/knihy/565411/hop-a-tajemstvi-jezera/",
-    "description": "Hop a tajemství jezera - Marianne Dubuc",
-    "authors": [
-      "Marianne Dubuc"
-    ],
-    "date": "2026-03-24T06:33:31.248526+00:00"
-  },
-  {
-    "title": "Jak jsem se reinkarnoval coby sliz 16",
-    "url": "https://www.kosmas.cz/knihy/566422/jak-jsem-se-reinkarnoval-coby-sliz-16/",
-    "description": "Jak jsem se reinkarnoval coby sliz 16 - Fuse, Taiki Kawakami",
-    "authors": [
-      "Fuse",
-      "Taiki Kawakami"
-    ],
-    "date": "2026-03-24T06:33:30.248526+00:00"
   }
 ]

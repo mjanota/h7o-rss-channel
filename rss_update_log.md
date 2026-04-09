@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-09 06:44:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Sestry
+2. Krev na kolejích
+3. Bílý most
+4. Který bohatý člověk může být spasen?
+5. Czech Grand Design 20!
+6. Nástěnný kalendář Alfons Mucha 2027
+7. Josef Mištera: Ora et labora
+8. Poznámkový kalendář Alphonse Mucha
+9. Blahodárná setkání nad záhadami duše
+10. Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027
+11. Poznámkový kalendář Praha 2027
+12. Nástěnný kalendář Praha 2027
+13. Poznámkový kalendář Praha 2027
+14. Poznámkový kalendář Česká republika 2027
+15. Studentský diář Harry Potter (září 2026 – prosinec 2027)
+16. Studentský diář Kuromi (září 2026 – prosinec 2027)
+17. Školní diář Axolotl (září 2026 – prosinec 2027)
+18. Školní diář Gamer (září 2026 – prosinec 2027)
+19. Cesta svobodného ducha
+
+---
+
+## 🕐 2026-04-09 06:44:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Nebuď ubrečenej
+
+---
+
 ## 🕐 2026-04-08 06:43:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -195,97 +241,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-04-02 06:37:58 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Bridgertonovi: Vévoda a já
-2. Odvaha letět
-3. Podvod zlatého faraona
-4. Optimismus pro samouky
-5. Afrodíté včera a dnes
-6. Sešit pocitů
-7. Maluj jako umělec - MIRÓ
-8. Maluj jako umělec - Vincent Van GOGH
-9. Maluj jako umělec - SALVADOR DALÍ
-10. Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj
-11. Zvířátka - Moje velká knížka - Poznej a Pojmenuj
-12. HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky
-13. HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž
-14. Kamarádi ze statku - Látková knížka pro nejmenší
-15. Áďa a já
-16. Za hranicí systému
-17. Kat a čarodějnice
-18. Můj logopedický sešit: Úroveň 1 – jednodušší
-
----
-
-## 🕐 2026-04-02 06:37:57 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Starej dobrej satanáš
-
----
-
-## 🕐 2026-04-01 06:46:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Smrt parašutisty Bohuslava Kouby
-2. Bratři ve válce
-3. Operace Anthropoid : Epilog
-4. Geschichten aus dem Isergebirge in Comics
-5. Dějiny Saúdské Arábie
-6. Odpočet smrti
-7. Věčný outsider?
-8. Ve spárech múzy
-9. Star Wars - Jedi: Padlý řád 1
-10. Velké omalovánky Prasátko Peppa
-11. Samolepkové aktivity Farma
-12. Samolepkové aktivity Na horách
-13. Samolepkové aktivity U moře
-14. Samolepkové aktivity Dinosauři
-15. Tetování s aktivitami Dům myšek Sam & Julie
-16. Omalovánky a 100 tetování Spidey
-17. Omalovánky a 100 tetování Dinosauři
-18. Omalovánky a 100 tetování Roztomilá zvířátka
-19. 100 samolepek s omalovánkovými listy Lilo & Stitch
-
----
-
-## 🕐 2026-04-01 06:46:23 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Umělohmotná recenze
 
 ---
 
