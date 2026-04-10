@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 09 Apr 2026 06:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 06:48:46 +0000</lastBuildDate>
+    <item>
+      <title>Je tady něco, co obnažuje naše meze</title>
+      <link>https://www.h7o.cz/clanky/14489-je-tady-neco-co-obnazuje-nase-meze</link>
+      <description>Básník Jan Musil nedávno debutoval sbírkou „Poslední život: Bildungspoema z minulosti a budoucnosti“. Své verše ale už dříve publikoval pod jménem Jana Koukal, je také redaktorem časopisu Plav a koordinátorem zahraniční spolupráce v Českém literárním centru. Rozhovor s ním vedl Roman Polách.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14489-je-tady-neco-co-obnazuje-nase-meze</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nebuď ubrečenej</title>
       <link>https://www.h7o.cz/clanky/14485-nebud-ubrecenej</link>
@@ -471,13 +478,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Těkavá pozornost světa se v posledních týdnech upřela na Venezuelu. Co se v Caracasu děje, to lze pochopit nejen prostřednictvím zpravodajství, ale i skrze literaturu. Přinášíme dva tipy na non-fiction a dva na romány.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14415-ctyrikrat-venezuela</guid>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krvavá zrnka korálů</title>
-      <link>https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu</link>
-      <description>Dne 10. ledna roku 1986, tedy přesně před čtyřiceti lety, zemřel český básník, publicista a nositel Nobelovy ceny za literaturu Jaroslav Seifert. K tomuto výročí publikujeme ukázku z monografie Vratislava Maňáka „Orchestrace jedné denunciace“, kterou v prosinci vydalo nakladatelství Karolinum.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu</guid>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

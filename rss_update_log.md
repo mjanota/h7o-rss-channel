@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-10 06:48:47 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Můj pes je erotoman
+2. The Singles
+3. Šero
+4. Případ podezřelého arcibiskupa
+5. Život na pavoučím vlákně
+6. Canisterapie  praktický rádce
+7. Skryté perly tureckého pobřeží
+8. Sefer Jecira
+9. Předepíšeme vám kočku 2
+10. Javari
+11. Sable Peak: Cesta na vrchol
+12. Bestie z Römerstadtu
+13. Dědic z Havaje
+14. Rachelina tajemství
+15. Riviéra plná touhy
+16. Slib jedné noci
+17. Nejznámější horory
+18. Verše Mariny Cvětajevové
+19. Recituje Irena Kačírková
+
+---
+
+## 🕐 2026-04-10 06:48:46 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Je tady něco, co obnažuje naše meze
+
+---
+
 ## 🕐 2026-04-09 06:44:06 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -195,46 +241,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-04-04 06:31:35 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-03 06:37:19 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Sólo Jak mít radost z vaření jen pro sebe
-2. Nespoutaná energie
-3. Prague Legends
-4. Bula & Drbola - Nepřemožení
-5. Neplaťte daně zbytečně!
-6. Bohové jste vy
-7. Nejdelší z cest
-8. Hry. Archimedův zákon. Bouřlivé časy /Větrné mlýny/
-9. Poslední slovo
-10. Skladatelka duše
-11. Ztráta kontroly
-12. Ztraceni v čase
-13. Tomy a přátelé
-14. Šťastné blues aneb Z deníku Jaroslava Ježka
-15. Královský gambit - SPQR I
-16. Poklesky maloměsta
-17. Měsíc s dýmkou
-
----
-
-## 🕐 2026-04-03 06:37:18 UTC
 
 **Zdroj:** H7O - Časopis Host
 

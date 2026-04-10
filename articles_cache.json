@@ -272,14 +272,6 @@
     "category": "téma"
   },
   {
-    "title": "Krvavá zrnka korálů",
-    "url": "https://www.h7o.cz/clanky/14414-krvava-zrnka-koralu",
-    "description": "Dne 10. ledna roku 1986, tedy přesně před čtyřiceti lety, zemřel český básník, publicista a nositel Nobelovy ceny za literaturu Jaroslav Seifert. K tomuto výročí publikujeme ukázku z monografie Vratislava Maňáka „Orchestrace jedné denunciace“, kterou v prosinci vydalo nakladatelství Karolinum.",
-    "date": "2026-01-10T00:00:00",
-    "author": "Vratislav Maňák",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -534,5 +526,13 @@
     "date": "2026-04-09T00:00:00",
     "author": "Václav Sklenář",
     "category": "seriál"
+  },
+  {
+    "title": "Je tady něco, co obnažuje naše meze",
+    "url": "https://www.h7o.cz/clanky/14489-je-tady-neco-co-obnazuje-nase-meze",
+    "description": "Básník Jan Musil nedávno debutoval sbírkou „Poslední život: Bildungspoema z minulosti a budoucnosti“. Své verše ale už dříve publikoval pod jménem Jana Koukal, je také redaktorem časopisu Plav a koordinátorem zahraniční spolupráce v Českém literárním centru. Rozhovor s ním vedl Roman Polách.",
+    "date": "2026-04-10T00:00:00",
+    "author": "Roman Polách",
+    "category": "rozhovor"
   }
 ]

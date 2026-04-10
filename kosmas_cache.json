@@ -1,5 +1,176 @@
 [
   {
+    "title": "Můj pes je erotoman",
+    "url": "https://www.kosmas.cz/knihy/567586/muj-pes-je-erotoman/",
+    "description": "Můj pes je erotoman - Jan Zlatohlávek",
+    "authors": [
+      "Jan Zlatohlávek"
+    ],
+    "date": "2026-04-10T06:48:47.803718+00:00"
+  },
+  {
+    "title": "The Singles",
+    "url": "https://www.kosmas.cz/knihy/567298/the-singles/",
+    "description": "The Singles - Phil Collins",
+    "authors": [
+      "Phil Collins"
+    ],
+    "date": "2026-04-10T06:48:46.803718+00:00"
+  },
+  {
+    "title": "Šero",
+    "url": "https://www.kosmas.cz/knihy/566864/sero/",
+    "description": "Šero - Sára Saudková",
+    "authors": [
+      "Sára Saudková"
+    ],
+    "date": "2026-04-10T06:48:45.803718+00:00"
+  },
+  {
+    "title": "Případ podezřelého arcibiskupa",
+    "url": "https://www.kosmas.cz/knihy/566898/pripad-podezreleho-arcibiskupa/",
+    "description": "Případ podezřelého arcibiskupa - Stanislav Češka",
+    "authors": [
+      "Stanislav Češka"
+    ],
+    "date": "2026-04-10T06:48:44.803718+00:00"
+  },
+  {
+    "title": "Život na pavoučím vlákně",
+    "url": "https://www.kosmas.cz/knihy/566900/zivot-na-pavoucim-vlakne/",
+    "description": "Život na pavoučím vlákně - Anna Strnadová",
+    "authors": [
+      "Anna Strnadová"
+    ],
+    "date": "2026-04-10T06:48:43.803718+00:00"
+  },
+  {
+    "title": "Canisterapie  praktický rádce",
+    "url": "https://www.kosmas.cz/knihy/567027/canisterapie-prakticky-radce/",
+    "description": "Canisterapie  praktický rádce - Marie Adámková",
+    "authors": [
+      "Marie Adámková"
+    ],
+    "date": "2026-04-10T06:48:42.803718+00:00"
+  },
+  {
+    "title": "Skryté perly tureckého pobřeží",
+    "url": "https://www.kosmas.cz/knihy/567060/skryte-perly-tureckeho-pobrezi/",
+    "description": "Skryté perly tureckého pobřeží - Lukáš Lhoťan",
+    "authors": [
+      "Lukáš Lhoťan"
+    ],
+    "date": "2026-04-10T06:48:41.803718+00:00"
+  },
+  {
+    "title": "Sefer Jecira",
+    "url": "https://www.kosmas.cz/knihy/567652/sefer-jecira/",
+    "description": "Sefer Jecira - Helena Benish",
+    "authors": [
+      "Helena Benish"
+    ],
+    "date": "2026-04-10T06:48:40.803718+00:00"
+  },
+  {
+    "title": "Předepíšeme vám kočku 2",
+    "url": "https://www.kosmas.cz/knihy/567674/predepiseme-vam-kocku-2/",
+    "description": "Předepíšeme vám kočku 2 - Šó Išida",
+    "authors": [
+      "Šó Išida"
+    ],
+    "date": "2026-04-10T06:48:39.803718+00:00"
+  },
+  {
+    "title": "Javari",
+    "url": "https://www.kosmas.cz/knihy/567676/javari/",
+    "description": "Javari - Miroslav Haluza",
+    "authors": [
+      "Miroslav Haluza"
+    ],
+    "date": "2026-04-10T06:48:38.803718+00:00"
+  },
+  {
+    "title": "Sable Peak: Cesta na vrchol",
+    "url": "https://www.kosmas.cz/knihy/567681/sable-peak-cesta-na-vrchol/",
+    "description": "Sable Peak: Cesta na vrchol - Devney Perry",
+    "authors": [
+      "Devney Perry"
+    ],
+    "date": "2026-04-10T06:48:37.803718+00:00"
+  },
+  {
+    "title": "Bestie z Römerstadtu",
+    "url": "https://www.kosmas.cz/knihy/567682/bestie-z-romerstadtu/",
+    "description": "Bestie z Römerstadtu - Martin Bahulík",
+    "authors": [
+      "Martin Bahulík"
+    ],
+    "date": "2026-04-10T06:48:36.803718+00:00"
+  },
+  {
+    "title": "Dědic z Havaje",
+    "url": "https://www.kosmas.cz/knihy/567688/dedic-z-havaje/",
+    "description": "Dědic z Havaje - Emmy Graysonová",
+    "authors": [
+      "Emmy Graysonová"
+    ],
+    "date": "2026-04-10T06:48:35.803718+00:00"
+  },
+  {
+    "title": "Rachelina tajemství",
+    "url": "https://www.kosmas.cz/knihy/567692/rachelina-tajemstvi/",
+    "description": "Rachelina tajemství - Cat Schieldová",
+    "authors": [
+      "Cat Schieldová"
+    ],
+    "date": "2026-04-10T06:48:34.803718+00:00"
+  },
+  {
+    "title": "Riviéra plná touhy",
+    "url": "https://www.kosmas.cz/knihy/567693/riviera-plna-touhy/",
+    "description": "Riviéra plná touhy - Heidi Riceová",
+    "authors": [
+      "Heidi Riceová"
+    ],
+    "date": "2026-04-10T06:48:33.803718+00:00"
+  },
+  {
+    "title": "Slib jedné noci",
+    "url": "https://www.kosmas.cz/knihy/567694/slib-jedne-noci/",
+    "description": "Slib jedné noci - Sharon Kendricková",
+    "authors": [
+      "Sharon Kendricková"
+    ],
+    "date": "2026-04-10T06:48:32.803718+00:00"
+  },
+  {
+    "title": "Nejznámější horory",
+    "url": "https://www.kosmas.cz/knihy/567703/nejznamejsi-horory/",
+    "description": "Nejznámější horory - Pavel Rímský",
+    "authors": [
+      "Pavel Rímský"
+    ],
+    "date": "2026-04-10T06:48:30.803718+00:00"
+  },
+  {
+    "title": "Verše Mariny Cvětajevové",
+    "url": "https://www.kosmas.cz/knihy/567704/verse-mariny-cvetajevove/",
+    "description": "Verše Mariny Cvětajevové",
+    "authors": [],
+    "date": "2026-04-10T06:48:29.803718+00:00"
+  },
+  {
+    "title": "Recituje Irena Kačírková",
+    "url": "https://www.kosmas.cz/knihy/567705/recituje-irena-kacirkova/",
+    "description": "Recituje Irena Kačírková - Else Lasker - Schüllerová, Christian Morgenstern, Eduard Mörike",
+    "authors": [
+      "Else Lasker - Schüllerová",
+      "Christian Morgenstern",
+      "Eduard Mörike"
+    ],
+    "date": "2026-04-10T06:48:28.803718+00:00"
+  },
+  {
     "title": "Sestry",
     "url": "https://www.kosmas.cz/knihy/567268/sestry/",
     "description": "Sestry - Martin Uhlíř",
@@ -1560,176 +1731,5 @@
       "Sarah Damoff"
     ],
     "date": "2026-03-26T06:36:37.546161+00:00"
-  },
-  {
-    "title": "Mládežnická atletika – Běhy a chůze",
-    "url": "https://www.kosmas.cz/knihy/563502/mladeznicka-atletika-behy-a-chuze/",
-    "description": "Mládežnická atletika – Běhy a chůze - Wolfgang Killing, kol.",
-    "authors": [
-      "Wolfgang Killing",
-      "kol."
-    ],
-    "date": "2026-03-26T06:36:36.546161+00:00"
-  },
-  {
-    "title": "Plánování v mateřské škole",
-    "url": "https://www.kosmas.cz/knihy/563865/planovani-v-materske-skole/",
-    "description": "Plánování v mateřské škole - Eva Koželuhová, Miroslava Škardová, Barbora Loudová Stralczynská",
-    "authors": [
-      "Eva Koželuhová",
-      "Miroslava Škardová",
-      "Barbora Loudová Stralczynská"
-    ],
-    "date": "2026-03-26T06:36:35.546161+00:00"
-  },
-  {
-    "title": "Dal jsem ti oči, a tys je upřela do temnot",
-    "url": "https://www.kosmas.cz/knihy/555390/dal-jsem-ti-oci-a-tys-je-uprela-do-temnot/",
-    "description": "Dal jsem ti oči, a tys je upřela do temnot - Irene Solà",
-    "authors": [
-      "Irene Solà"
-    ],
-    "date": "2026-03-26T06:36:34.546161+00:00"
-  },
-  {
-    "title": "Náměty a tipy na práci s nadaným žákem",
-    "url": "https://www.kosmas.cz/knihy/566126/namety-a-tipy-na-praci-s-nadanym-zakem/",
-    "description": "Náměty a tipy na práci s nadaným žákem - Jana Rohová",
-    "authors": [
-      "Jana Rohová"
-    ],
-    "date": "2026-03-26T06:36:33.546161+00:00"
-  },
-  {
-    "title": "Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí",
-    "url": "https://www.kosmas.cz/knihy/566244/jak-nestarnout-vedecky-pristup-ke-zdravejsimu-starnuti/",
-    "description": "Jak nestárnout - Vědecký přístup ke zdravějšímu stárnutí - Michael Greger",
-    "authors": [
-      "Michael Greger"
-    ],
-    "date": "2026-03-26T06:36:32.546161+00:00"
-  },
-  {
-    "title": "Literární archiv 57/2025 - PEN klub a jeho autoři",
-    "url": "https://www.kosmas.cz/knihy/566255/literarni-archiv-57-2025-pen-klub-a-jeho-autori/",
-    "description": "Literární archiv 57/2025 - PEN klub a jeho autoři - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-03-26T06:36:31.546161+00:00"
-  },
-  {
-    "title": "100 zajímavostí ze staré Šumavy",
-    "url": "https://www.kosmas.cz/knihy/565582/100-zajimavosti-ze-stare-sumavy/",
-    "description": "100 zajímavostí ze staré Šumavy - Tomáš Bernhardt, Pavel Fencl, Petr Mazný, František Nykles",
-    "authors": [
-      "Tomáš Bernhardt",
-      "Pavel Fencl",
-      "Petr Mazný",
-      "František Nykles"
-    ],
-    "date": "2026-03-26T06:36:30.546161+00:00"
-  },
-  {
-    "title": "Luštění pro děti - vtipy a hádanky",
-    "url": "https://www.kosmas.cz/knihy/565660/lusteni-pro-deti-vtipy-a-hadanky/",
-    "description": "Luštění pro děti - vtipy a hádanky",
-    "authors": [],
-    "date": "2026-03-26T06:36:29.546161+00:00"
-  },
-  {
-    "title": "Luštění pro děti - vtipy",
-    "url": "https://www.kosmas.cz/knihy/565661/lusteni-pro-deti-vtipy/",
-    "description": "Luštění pro děti - vtipy",
-    "authors": [],
-    "date": "2026-03-26T06:36:28.546161+00:00"
-  },
-  {
-    "title": "Zavolejte sestřičky",
-    "url": "https://www.kosmas.cz/knihy/565749/zavolejte-sestricky/",
-    "description": "Zavolejte sestřičky - Jennifer Worthová",
-    "authors": [
-      "Jennifer Worthová"
-    ],
-    "date": "2026-03-26T06:36:27.546161+00:00"
-  },
-  {
-    "title": "Host 2026/3",
-    "url": "https://www.kosmas.cz/knihy/565950/host-2026-3/",
-    "description": "Host 2026/3",
-    "authors": [],
-    "date": "2026-03-26T06:36:26.546161+00:00"
-  },
-  {
-    "title": "Nový zlatý věk Země",
-    "url": "https://www.kosmas.cz/knihy/566926/novy-zlaty-vek-zeme/",
-    "description": "Nový zlatý věk Země - Diana Cooper",
-    "authors": [
-      "Diana Cooper"
-    ],
-    "date": "2026-03-26T06:36:25.546161+00:00"
-  },
-  {
-    "title": "Runy v přírodní magii",
-    "url": "https://www.kosmas.cz/knihy/566927/runy-v-prirodni-magii/",
-    "description": "Runy v přírodní magii - Nicolette Miele",
-    "authors": [
-      "Nicolette Miele"
-    ],
-    "date": "2026-03-26T06:36:24.546161+00:00"
-  },
-  {
-    "title": "Tajný život vody podle Viktora Schaubergera",
-    "url": "https://www.kosmas.cz/knihy/566928/tajny-zivot-vody-podle-viktora-schaubergera/",
-    "description": "Tajný život vody podle Viktora Schaubergera - Alick Bartholomew",
-    "authors": [
-      "Alick Bartholomew"
-    ],
-    "date": "2026-03-26T06:36:23.546161+00:00"
-  },
-  {
-    "title": "Na Větrné hůrce",
-    "url": "https://www.kosmas.cz/knihy/529551/na-vetrne-hurce/",
-    "description": "Na Větrné hůrce - Emily Brontëová",
-    "authors": [
-      "Emily Brontëová"
-    ],
-    "date": "2026-03-25T06:33:26.305812+00:00"
-  },
-  {
-    "title": "Černá lilie",
-    "url": "https://www.kosmas.cz/knihy/531479/cerna-lilie/",
-    "description": "Černá lilie - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-03-25T06:33:25.305812+00:00"
-  },
-  {
-    "title": "Perchta z Rožmberka aneb Bílá paní",
-    "url": "https://www.kosmas.cz/knihy/553383/perchta-z-rozmberka-aneb-bila-pani/",
-    "description": "Perchta z Rožmberka aneb Bílá paní - Eda Kriseová",
-    "authors": [
-      "Eda Kriseová"
-    ],
-    "date": "2026-03-25T06:33:24.305812+00:00"
-  },
-  {
-    "title": "Metráček",
-    "url": "https://www.kosmas.cz/knihy/551637/metracek/",
-    "description": "Metráček - Stanislav Rudolf",
-    "authors": [
-      "Stanislav Rudolf"
-    ],
-    "date": "2026-03-25T06:33:23.305812+00:00"
-  },
-  {
-    "title": "Zlý začátek",
-    "url": "https://www.kosmas.cz/knihy/546830/zly-zacatek/",
-    "description": "Zlý začátek - Lemony Snicket",
-    "authors": [
-      "Lemony Snicket"
-    ],
-    "date": "2026-03-25T06:33:22.305812+00:00"
   }
 ]
