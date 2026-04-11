@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-11 06:32:27 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Zákon o soudních poplatcích Komentář
+2. Host 2026/4
+3. Česká literatura 1/2026
+4. Hlavu vzhůru!
+5. Muž z Brna na Onom Světě
+6. Symbol v diagnostice a psychoterapii
+7. Bílé noci
+8. Příšerný host
+9. Co skrývá noc
+10. Za šťastnou hvězdou
+11. Skorzeny. Život na hraně
+12. Kaštánek a sluníčko
+13. Vyhláška o administrativní bezpečnosti Vyhláška o fyzické bezpečnosti
+14. Sable Peak: Cesta na vrchol
+15. Služky pro všechno
+16. Uni 4/2026
+17. Umělá inteligence (AI) ve zdravotnictví
+18. Chlapec v pruhovaném pyžamu
+
+---
+
+## 🕐 2026-04-11 06:32:26 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-10 06:48:47 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -208,39 +249,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-04-05 06:35:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-04 06:31:37 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 10
-
-**Tituly nových položek:**
-
-1. Dívčí válka 12
-2. Vyhnání Gerty Schnirch
-3. Mariborská hypnóza
-4. Tajemství a výklad pohádek: Třetí princ
-5. Každý blázní po svém
-6. Pobožný střelec
-7. Vlákna osudu
-8. Strašidelná vagina
-9. Vampýrská akademie 3- Stínem políbená (2023)
-10. ... stačilo jen říct Jáchymov
-
----
-
-## 🕐 2026-04-04 06:31:35 UTC
 
 **Zdroj:** H7O - Časopis Host
 
