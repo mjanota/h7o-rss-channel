@@ -256,14 +256,6 @@
     "category": "téma"
   },
   {
-    "title": "Environmentální spravedlnost se u nás teprve zabydluje",
-    "url": "https://www.h7o.cz/clanky/14416-environmentalni-spravedlnost-se-u-nas-teprve-zabydluje",
-    "description": "V knize „Environmentální spravedlnost v etnické americké literatuře“ zkoumá autorský kolektiv, jak domorodé komunity čelí dopadům environmentálního rasismu. Co znamená environmentální spravedlnost a jak se projevuje v literatuře, vysvětluje v rozhovoru jeden z editorů knihy Petr Kopecký.",
-    "date": "2026-01-13T00:00:00",
-    "author": "Radek Štěpánek",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -525,6 +517,14 @@
     "description": "Básník Jan Musil nedávno debutoval sbírkou „Poslední život: Bildungspoema z minulosti a budoucnosti“. Své verše ale už dříve publikoval pod jménem Jana Koukal, je také redaktorem časopisu Plav a koordinátorem zahraniční spolupráce v Českém literárním centru. Rozhovor s ním vedl Roman Polách.",
     "date": "2026-04-10T00:00:00",
     "author": "Roman Polách",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Pracovat bez honoráře není dobrovolnictví, ale systémový problém",
+    "url": "https://www.h7o.cz/clanky/14490-pracovat-bez-honorare-neni-dobrovolnictvi-ale-systemovy-problem",
+    "description": "Ministerstvo kultury se opět ocitlo ve středu zájmu. Řeší se především dotační výzvy, ale  aktéři literárního provozu fungují v širším kontextu kulturní politiky, než jsou jen dotace, a nevyhnutelně také v prostředí knižního trhu. S Annou Štičkovou rozebíráme, kde jsou největší potíže těchto…",
+    "date": "2026-04-13T00:00:00",
+    "author": "Jan Němec",
     "category": "rozhovor"
   }
 ]
