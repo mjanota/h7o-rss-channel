@@ -248,14 +248,6 @@
     "category": "seriál"
   },
   {
-    "title": "Tehdy televize za něco ještě stála. Vážně?",
-    "url": "https://www.h7o.cz/clanky/14417-tehdy-televize-za-neco-jeste-stala-vazne",
-    "description": "Hudební televize MTV odstartovala 1. srpna 1981. Stanice, která od počátku vysílala čtyřiadvacet hodin denně, pomohla proměnit hudbu v primárně vizuální médium a redefinovala podobu popkultury na několik dekád. Na konci roku 2025 přestala vysílat hudbu.",
-    "date": "2026-01-14T00:00:00",
-    "author": "Jan Jindřich Karásek",
-    "category": "téma"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -525,6 +517,14 @@
     "description": "Ministerstvo kultury se opět ocitlo ve středu zájmu. Řeší se především dotační výzvy, ale  aktéři literárního provozu fungují v širším kontextu kulturní politiky, než jsou jen dotace, a nevyhnutelně také v prostředí knižního trhu. S Annou Štičkovou rozebíráme, kde jsou největší potíže těchto…",
     "date": "2026-04-13T00:00:00",
     "author": "Jan Němec",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Závratě propojeného světa",
+    "url": "https://www.h7o.cz/clanky/14492-zavrate-propojeneho-sveta",
+    "description": "„Šeptej nahlas“. Kniha o shoegaze, globalizaci i mystice. Získala cenu Vinyla za počin roku a nyní je nominována na cenu Magnesia Litera za publicistiku. S jejím autorem Milošem Hrochem si povídal Martin Brzobohatý.",
+    "date": "2026-04-14T00:00:00",
+    "author": "Martin Brzobohatý",
     "category": "rozhovor"
   }
 ]

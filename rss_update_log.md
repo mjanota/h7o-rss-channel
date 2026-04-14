@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-14 06:48:59 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Vona
+2. Námořník
+3. Dvorní zahradnice: Letní záře
+4. Máš nárok na život - Žij, jako by ti zbýval jen rok
+5. Mé vysněné lásky
+6. Mami, on si začal
+7. Jak se vysloví přísloví
+8. Impérium
+9. Dlouhé stíny
+10. Už mi dávno není padesát
+11. Krvavá aréna
+12. Dokud můžeš
+13. Mostní království - Kniha třetí: Nepohodlný dědic
+14. Ďáblova noc 3: Hříšná posedlost
+15. Kruté světlo
+16. Lákavá kůže
+17. Peníze pro páry
+18. Co myslíš, co vidí
+19. Dcery květin: Islandské tajemství
+20. Měsíční zahrada
+
+---
+
+## 🕐 2026-04-14 06:48:58 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Závratě propojeného světa
+
+---
+
 ## 🕐 2026-04-13 06:58:19 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,34 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hoď ho do stroje
-
----
-
-## 🕐 2026-04-07 06:42:34 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Normální dítě
-
----
-
-## 🕐 2026-04-07 06:42:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Kluci stočení do klubíčka
 
 ---
 

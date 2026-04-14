@@ -1,5 +1,188 @@
 [
   {
+    "title": "Vona",
+    "url": "https://www.kosmas.cz/knihy/567520/vona/",
+    "description": "Vona - Petra Klabouchová",
+    "authors": [
+      "Petra Klabouchová"
+    ],
+    "date": "2026-04-14T06:48:59.126863+00:00"
+  },
+  {
+    "title": "Námořník",
+    "url": "https://www.kosmas.cz/knihy/564610/namornik/",
+    "description": "Námořník - Lars Kepler",
+    "authors": [
+      "Lars Kepler"
+    ],
+    "date": "2026-04-14T06:48:58.126863+00:00"
+  },
+  {
+    "title": "Dvorní zahradnice: Letní záře",
+    "url": "https://www.kosmas.cz/knihy/553684/dvorni-zahradnice-letni-zare/",
+    "description": "Dvorní zahradnice: Letní záře - Rena Rosenthal",
+    "authors": [
+      "Rena Rosenthal"
+    ],
+    "date": "2026-04-14T06:48:57.126863+00:00"
+  },
+  {
+    "title": "Máš nárok na život - Žij, jako by ti zbýval jen rok",
+    "url": "https://www.kosmas.cz/knihy/567409/mas-narok-na-zivot-zij-jako-by-ti-zbyval-jen-rok/",
+    "description": "Máš nárok na život - Žij, jako by ti zbýval jen rok - Alexandra Reinwarth",
+    "authors": [
+      "Alexandra Reinwarth"
+    ],
+    "date": "2026-04-14T06:48:56.126863+00:00"
+  },
+  {
+    "title": "Mé vysněné lásky",
+    "url": "https://www.kosmas.cz/knihy/566504/me-vysnene-lasky/",
+    "description": "Mé vysněné lásky - Sarah Jio",
+    "authors": [
+      "Sarah Jio"
+    ],
+    "date": "2026-04-14T06:48:55.126863+00:00"
+  },
+  {
+    "title": "Mami, on si začal",
+    "url": "https://www.kosmas.cz/knihy/566505/mami-on-si-zacal/",
+    "description": "Mami, on si začal - Nicola Schmidt",
+    "authors": [
+      "Nicola Schmidt"
+    ],
+    "date": "2026-04-14T06:48:54.126863+00:00"
+  },
+  {
+    "title": "Jak se vysloví přísloví",
+    "url": "https://www.kosmas.cz/knihy/567732/jak-se-vyslovi-prislovi/",
+    "description": "Jak se vysloví přísloví - Eugen Brikcius",
+    "authors": [
+      "Eugen Brikcius"
+    ],
+    "date": "2026-04-14T06:48:53.126863+00:00"
+  },
+  {
+    "title": "Impérium",
+    "url": "https://www.kosmas.cz/knihy/567786/imperium/",
+    "description": "Impérium - Marcy Jell",
+    "authors": [
+      "Marcy Jell"
+    ],
+    "date": "2026-04-14T06:48:52.126863+00:00"
+  },
+  {
+    "title": "Dlouhé stíny",
+    "url": "https://www.kosmas.cz/knihy/567809/dlouhe-stiny/",
+    "description": "Dlouhé stíny - Anna Bolavá, Jiří Březina, Veronika Fiedlerová, Daniel Gris",
+    "authors": [
+      "Anna Bolavá",
+      "Jiří Březina",
+      "Veronika Fiedlerová",
+      "Daniel Gris"
+    ],
+    "date": "2026-04-14T06:48:51.126863+00:00"
+  },
+  {
+    "title": "Už mi dávno není padesát",
+    "url": "https://www.kosmas.cz/knihy/567810/uz-mi-davno-neni-padesat/",
+    "description": "Už mi dávno není padesát - Hana Hřebejková",
+    "authors": [
+      "Hana Hřebejková"
+    ],
+    "date": "2026-04-14T06:48:50.126863+00:00"
+  },
+  {
+    "title": "Krvavá aréna",
+    "url": "https://www.kosmas.cz/knihy/567812/krvava-arena/",
+    "description": "Krvavá aréna - David Urban",
+    "authors": [
+      "David Urban"
+    ],
+    "date": "2026-04-14T06:48:49.126863+00:00"
+  },
+  {
+    "title": "Dokud můžeš",
+    "url": "https://www.kosmas.cz/knihy/567816/dokud-muzes/",
+    "description": "Dokud můžeš - Aleš Dostál",
+    "authors": [
+      "Aleš Dostál"
+    ],
+    "date": "2026-04-14T06:48:48.126863+00:00"
+  },
+  {
+    "title": "Mostní království - Kniha třetí: Nepohodlný dědic",
+    "url": "https://www.kosmas.cz/knihy/562059/mostni-kralovstvi-kniha-treti-nepohodlny-dedic/",
+    "description": "Mostní království - Kniha třetí: Nepohodlný dědic - Danielle L. Jensen",
+    "authors": [
+      "Danielle L. Jensen"
+    ],
+    "date": "2026-04-14T06:48:47.126863+00:00"
+  },
+  {
+    "title": "Ďáblova noc 3: Hříšná posedlost",
+    "url": "https://www.kosmas.cz/knihy/564790/dablova-noc-3-hrisna-posedlost/",
+    "description": "Ďáblova noc 3: Hříšná posedlost - Penelope Douglasová",
+    "authors": [
+      "Penelope Douglasová"
+    ],
+    "date": "2026-04-14T06:48:46.126863+00:00"
+  },
+  {
+    "title": "Kruté světlo",
+    "url": "https://www.kosmas.cz/knihy/567844/krute-svetlo/",
+    "description": "Kruté světlo - Sophie Clark",
+    "authors": [
+      "Sophie Clark"
+    ],
+    "date": "2026-04-14T06:48:45.126863+00:00"
+  },
+  {
+    "title": "Lákavá kůže",
+    "url": "https://www.kosmas.cz/knihy/567845/lakava-kuze/",
+    "description": "Lákavá kůže - Tatiana Schlote-Bonne",
+    "authors": [
+      "Tatiana Schlote-Bonne"
+    ],
+    "date": "2026-04-14T06:48:44.126863+00:00"
+  },
+  {
+    "title": "Peníze pro páry",
+    "url": "https://www.kosmas.cz/knihy/567847/penize-pro-pary/",
+    "description": "Peníze pro páry - Ramit Sethi",
+    "authors": [
+      "Ramit Sethi"
+    ],
+    "date": "2026-04-14T06:48:43.126863+00:00"
+  },
+  {
+    "title": "Co myslíš, co vidí",
+    "url": "https://www.kosmas.cz/knihy/565687/co-myslis-co-vidi/",
+    "description": "Co myslíš, co vidí - Alena Machoninová",
+    "authors": [
+      "Alena Machoninová"
+    ],
+    "date": "2026-04-14T06:48:42.126863+00:00"
+  },
+  {
+    "title": "Dcery květin: Islandské tajemství",
+    "url": "https://www.kosmas.cz/knihy/567851/dcery-kvetin-islandske-tajemstvi/",
+    "description": "Dcery květin: Islandské tajemství - Tessa Collins",
+    "authors": [
+      "Tessa Collins"
+    ],
+    "date": "2026-04-14T06:48:41.126863+00:00"
+  },
+  {
+    "title": "Měsíční zahrada",
+    "url": "https://www.kosmas.cz/knihy/567855/mesicni-zahrada/",
+    "description": "Měsíční zahrada - Rosie Hannigan",
+    "authors": [
+      "Rosie Hannigan"
+    ],
+    "date": "2026-04-14T06:48:40.126863+00:00"
+  },
+  {
     "title": "Rozbitá panenka",
     "url": "https://www.kosmas.cz/knihy/565416/rozbita-panenka/",
     "description": "Rozbitá panenka - Jeffery Deaver",
@@ -1562,190 +1745,5 @@
       "Aristotelés"
     ],
     "date": "2026-03-31T06:39:42.405235+00:00"
-  },
-  {
-    "title": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026",
-    "url": "https://www.kosmas.cz/knihy/566407/45-zkusebnich-otazek-z-prakticke-udrzby-pro-zaky-autoskol-skupin-cde-2026/",
-    "description": "45 zkušebních otázek z praktické údržby pro žáky autoškol skupin CDE 2026 - Asociace autoškol ČR",
-    "authors": [
-      "Asociace autoškol ČR"
-    ],
-    "date": "2026-03-30T06:50:02.869780+00:00"
-  },
-  {
-    "title": "Posilte svůj mozek",
-    "url": "https://www.kosmas.cz/knihy/566235/posilte-svuj-mozek/",
-    "description": "Posilte svůj mozek - David Perlmutter, Albert Villoldo",
-    "authors": [
-      "David Perlmutter",
-      "Albert Villoldo"
-    ],
-    "date": "2026-03-30T06:50:01.869780+00:00"
-  },
-  {
-    "title": "Asistovaná reprodukce... před podpisem informovaného souhlasu",
-    "url": "https://www.kosmas.cz/knihy/566340/asistovana-reprodukce...-pred-podpisem-informovaneho-souhlasu/",
-    "description": "Asistovaná reprodukce... před podpisem informovaného souhlasu - Hana Konečná, kol.",
-    "authors": [
-      "Hana Konečná",
-      "kol."
-    ],
-    "date": "2026-03-30T06:50:00.869780+00:00"
-  },
-  {
-    "title": "Severní Itálie karavanem",
-    "url": "https://www.kosmas.cz/knihy/566362/severni-italie-karavanem/",
-    "description": "Severní Itálie karavanem - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-03-30T06:49:59.869780+00:00"
-  },
-  {
-    "title": "Jadran karavanem",
-    "url": "https://www.kosmas.cz/knihy/566363/jadran-karavanem/",
-    "description": "Jadran karavanem - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-03-30T06:49:58.869780+00:00"
-  },
-  {
-    "title": "Zabíječ orků",
-    "url": "https://www.kosmas.cz/knihy/566711/zabijec-orku/",
-    "description": "Zabíječ orků - Nathan Long",
-    "authors": [
-      "Nathan Long"
-    ],
-    "date": "2026-03-30T06:49:53.869780+00:00"
-  },
-  {
-    "title": "Zrození mistra",
-    "url": "https://www.kosmas.cz/knihy/565740/zrozeni-mistra/",
-    "description": "Zrození mistra - David Jan Žák",
-    "authors": [
-      "David Jan Žák"
-    ],
-    "date": "2026-03-29T06:34:34.767292+00:00"
-  },
-  {
-    "title": "Zaříkávač draků: Přísaha psanců",
-    "url": "https://www.kosmas.cz/knihy/565741/zarikavac-draku-prisaha-psancu/",
-    "description": "Zaříkávač draků: Přísaha psanců - Boris Koch",
-    "authors": [
-      "Boris Koch"
-    ],
-    "date": "2026-03-29T06:34:33.767292+00:00"
-  },
-  {
-    "title": "Hvězdný prach v nás",
-    "url": "https://www.kosmas.cz/knihy/565783/hvezdny-prach-v-nas/",
-    "description": "Hvězdný prach v nás - Rosa de Sar",
-    "authors": [
-      "Rosa de Sar"
-    ],
-    "date": "2026-03-29T06:34:31.767292+00:00"
-  },
-  {
-    "title": "Nerovně sjednoceni",
-    "url": "https://www.kosmas.cz/knihy/566146/nerovne-sjednoceni/",
-    "description": "Nerovně sjednoceni - Stefen Mau",
-    "authors": [
-      "Stefen Mau"
-    ],
-    "date": "2026-03-29T06:34:30.767292+00:00"
-  },
-  {
-    "title": "Surrealisté - Jejich bouřlivé osudy",
-    "url": "https://www.kosmas.cz/knihy/566198/surrealiste-jejich-bourlive-osudy/",
-    "description": "Surrealisté - Jejich bouřlivé osudy - Sue Roe",
-    "authors": [
-      "Sue Roe"
-    ],
-    "date": "2026-03-29T06:34:29.767292+00:00"
-  },
-  {
-    "title": "Háčkované čtverce – Karty",
-    "url": "https://www.kosmas.cz/knihy/566924/hackovane-ctverce-karty/",
-    "description": "Háčkované čtverce – Karty - Claire Montgomerie",
-    "authors": [
-      "Claire Montgomerie"
-    ],
-    "date": "2026-03-28T06:30:09.924765+00:00"
-  },
-  {
-    "title": "Randál",
-    "url": "https://www.kosmas.cz/knihy/566933/randal/",
-    "description": "Randál - Chris Berdik",
-    "authors": [
-      "Chris Berdik"
-    ],
-    "date": "2026-03-28T06:30:08.924765+00:00"
-  },
-  {
-    "title": "Zalyžařivší si lyžař",
-    "url": "https://www.kosmas.cz/knihy/567054/zalyzarivsi-si-lyzar/",
-    "description": "Zalyžařivší si lyžař - Jiří Kabele",
-    "authors": [
-      "Jiří Kabele"
-    ],
-    "date": "2026-03-28T06:30:07.924765+00:00"
-  },
-  {
-    "title": "Historická detektivka",
-    "url": "https://www.kosmas.cz/knihy/567104/historicka-detektivka/",
-    "description": "Historická detektivka - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-03-28T06:30:06.924765+00:00"
-  },
-  {
-    "title": "AC/DC – Kompletní příběh",
-    "url": "https://www.kosmas.cz/knihy/567107/ac-dc-kompletni-pribeh/",
-    "description": "AC/DC – Kompletní příběh - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-03-28T06:30:05.924765+00:00"
-  },
-  {
-    "title": "Kytara pro každého",
-    "url": "https://www.kosmas.cz/knihy/567108/kytara-pro-kazdeho/",
-    "description": "Kytara pro každého - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-03-28T06:30:04.924765+00:00"
-  },
-  {
-    "title": "Historie v barvě",
-    "url": "https://www.kosmas.cz/knihy/567109/historie-v-barve/",
-    "description": "Historie v barvě - Lloyd Jordan, Wolfgang Wild",
-    "authors": [
-      "Lloyd Jordan",
-      "Wolfgang Wild"
-    ],
-    "date": "2026-03-28T06:30:03.924765+00:00"
-  },
-  {
-    "title": "Druhá světová v barvě",
-    "url": "https://www.kosmas.cz/knihy/567110/druha-svetova-v-barve/",
-    "description": "Druhá světová v barvě - Alexandr Brummer, Katarína Brummerová, Jiří Suchánek",
-    "authors": [
-      "Alexandr Brummer",
-      "Katarína Brummerová",
-      "Jiří Suchánek"
-    ],
-    "date": "2026-03-28T06:30:02.924765+00:00"
-  },
-  {
-    "title": "Powerjóga 2.0 – Midlife Revolution",
-    "url": "https://www.kosmas.cz/knihy/565513/powerjoga-2.0-midlife-revolution/",
-    "description": "Powerjóga 2.0 – Midlife Revolution - Václav Krejčík",
-    "authors": [
-      "Václav Krejčík"
-    ],
-    "date": "2026-03-28T06:29:59.924765+00:00"
   }
 ]
