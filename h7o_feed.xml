@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:49:25 +0000</lastBuildDate>
+    <item>
+      <title>Cítil jsem potřebu vystoupit z knižního koloběhu</title>
+      <link>https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu</link>
+      <description>Martin Vopěnka po pětatřiceti letech prodává své nakladatelství Práh společnosti Bourdon Ivana Pilipa. Spisovatel, nakladatel a předseda Svazku českých knihkupců a nakladatelů (SČKN) v rozhovoru vysvětluje, co ho k prodeji vedlo a co chystá dál.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Závratě propojeného světa</title>
       <link>https://www.h7o.cz/clanky/14492-zavrate-propojeneho-sveta</link>
@@ -464,13 +471,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Pro sbírku Lucie L. Fišerové je podstatná její dualita, dvojjedinost, neustálé napětí mezi zaujatým pozorováním vnějšího světa a hlubokým osobním prožitkem, mezi přesným teoretickým jazykem a opatrným dotýkáním se „zjevení a zamlčení“.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14419-slovo-telem</guid>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volme Hodnoty</title>
-      <link>https://www.h7o.cz/clanky/14418-volme-hodnoty</link>
-      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí o chronických neduzích akademických odměn, českých daní a jejich možných řešeních.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14418-volme-hodnoty</guid>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -240,14 +240,6 @@
     "category": "recenze"
   },
   {
-    "title": "Volme Hodnoty",
-    "url": "https://www.h7o.cz/clanky/14418-volme-hodnoty",
-    "description": "Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí o chronických neduzích akademických odměn, českých daní a jejich možných řešeních.",
-    "date": "2026-01-15T00:00:00",
-    "author": "Petr Tureček",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -525,6 +517,14 @@
     "description": "„Šeptej nahlas“. Kniha o shoegaze, globalizaci i mystice. Získala cenu Vinyla za počin roku a nyní je nominována na cenu Magnesia Litera za publicistiku. S jejím autorem Milošem Hrochem si povídal Martin Brzobohatý.",
     "date": "2026-04-14T00:00:00",
     "author": "Martin Brzobohatý",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Cítil jsem potřebu vystoupit z knižního koloběhu",
+    "url": "https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu",
+    "description": "Martin Vopěnka po pětatřiceti letech prodává své nakladatelství Práh společnosti Bourdon Ivana Pilipa. Spisovatel, nakladatel a předseda Svazku českých knihkupců a nakladatelů (SČKN) v rozhovoru vysvětluje, co ho k prodeji vedlo a co chystá dál.",
+    "date": "2026-04-15T00:00:00",
+    "author": "Zdeněk Staszek",
     "category": "rozhovor"
   }
 ]

@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-15 06:49:26 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Vaculíkova čítanka pro začátečníky a mírně pokročilé
+2. Smrt na lovu
+3. Pravda v plamenech
+4. Garfield 68: Pomalejší nežere
+5. Clever a Smart: Smekáč Pápěrka
+6. COFFEE FOR YOU
+7. Vona
+8. Star Wars - Vrcholná Republika: Hranice rovnováhy 2
+9. Faidón
+10. Genealogie morálky
+11. Leviatan 6
+12. Cyberpunk 2077: Nakopávač
+13. Batman: Úplněk (Black Label)
+14. [Moje hvězda] 9
+15. Léto, kdy umřel Hikaru 3
+16. O nenasytné černé díře
+17. Tajemství severní oblohy
+18. Obejmu tě
+19. Peppa Pig - Dobrou noc, Peppo!
+
+---
+
+## 🕐 2026-04-15 06:49:25 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Cítil jsem potřebu vystoupit z knižního koloběhu
+
+---
+
 ## 🕐 2026-04-14 06:48:59 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +292,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nebuď ubrečenej
-
----
-
-## 🕐 2026-04-08 06:43:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Pouto prokletí
-2. Bridgertonovi: Vévoda a já
-3. Metra světa
-4. Pozdní hypogonadismus
-5. Převážně báječný rok
-6. Velká lekce focení a úprav
-7. Lednice
-8. Český Krumlov
-9. Karlštejn
-10. Pernštejn
-11. Skanzen
-12. Tank M4 Sherman
-13. Abeceda intenzivní medicíny
-14. Albánie - Zblízka
-15. Sardinie - Zblízka
-16. Jižní Korea - Zblízka
-17. Řeka bohů - Anubisova hrozba
-18. Rusko proti modernitě
-19. České pohádky
-20. Příběhy starých pražských domů
-
----
-
-## 🕐 2026-04-08 06:43:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hoď ho do stroje
 
 ---
 
