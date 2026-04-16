@@ -232,14 +232,6 @@
     "category": "recenze"
   },
   {
-    "title": "Slovo tělem",
-    "url": "https://www.h7o.cz/clanky/14419-slovo-telem",
-    "description": "Pro sbírku Lucie L. Fišerové je podstatná její dualita, dvojjedinost, neustálé napětí mezi zaujatým pozorováním vnějšího světa a hlubokým osobním prožitkem, mezi přesným teoretickým jazykem a opatrným dotýkáním se „zjevení a zamlčení“.",
-    "date": "2026-01-16T00:00:00",
-    "author": "Andrea Popelová",
-    "category": "recenze"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -526,5 +518,13 @@
     "date": "2026-04-15T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "rozhovor"
+  },
+  {
+    "title": "Sedm svatých řádků",
+    "url": "https://www.h7o.cz/clanky/14493-sedm-svatych-radku",
+    "description": "Jsou současné katolické proudy skutečně tak liberální, jak se prezentují? Písmo se zaříká rovností, ale pokud jde o ženy, dodnes měří dvěma metry. A jsme opět u toho: kolik žen se vejde na špičku jehly? Je tu třetí dubnový sloupek filosofa Václava Sklenáře.",
+    "date": "2026-04-16T00:00:00",
+    "author": "Václav Sklenář",
+    "category": "seriál"
   }
 ]

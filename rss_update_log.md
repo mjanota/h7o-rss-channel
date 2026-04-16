@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-16 06:50:20 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Mezi spodními proudy
+2. Šorci
+3. Víra a společnost v českých zemích pozdního středověku
+4. And Now, Back to You
+5. Atmosphere
+6. Ballad of Songbirds and Snakes (A Hunger Games Novel)
+7. Boyfriend
+8. Catching Fire /Deluxe/
+9. Conditions of Will
+10. Crucible,  Men of the Wilds 1
+11. Hunger Games Collection Deluxe  (4 book set)
+12. The Devil´s Star
+13. Do Not Disturb
+14. Door
+15. Face Off
+16. Faraway Inn
+17. Fearless
+
+---
+
+## 🕐 2026-04-16 06:50:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Sedm svatých řádků
+
+---
+
 ## 🕐 2026-04-15 06:49:26 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,52 +290,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Je tady něco, co obnažuje naše meze
-
----
-
-## 🕐 2026-04-09 06:44:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Sestry
-2. Krev na kolejích
-3. Bílý most
-4. Který bohatý člověk může být spasen?
-5. Czech Grand Design 20!
-6. Nástěnný kalendář Alfons Mucha 2027
-7. Josef Mištera: Ora et labora
-8. Poznámkový kalendář Alphonse Mucha
-9. Blahodárná setkání nad záhadami duše
-10. Nástěnný kalendář Slovanská epopej – Alphonse Mucha 2027
-11. Poznámkový kalendář Praha 2027
-12. Nástěnný kalendář Praha 2027
-13. Poznámkový kalendář Praha 2027
-14. Poznámkový kalendář Česká republika 2027
-15. Studentský diář Harry Potter (září 2026 – prosinec 2027)
-16. Studentský diář Kuromi (září 2026 – prosinec 2027)
-17. Školní diář Axolotl (září 2026 – prosinec 2027)
-18. Školní diář Gamer (září 2026 – prosinec 2027)
-19. Cesta svobodného ducha
-
----
-
-## 🕐 2026-04-09 06:44:05 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nebuď ubrečenej
 
 ---
 

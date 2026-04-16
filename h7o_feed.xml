@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 15 Apr 2026 06:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:50:19 +0000</lastBuildDate>
+    <item>
+      <title>Sedm svatých řádků</title>
+      <link>https://www.h7o.cz/clanky/14493-sedm-svatych-radku</link>
+      <description>Jsou současné katolické proudy skutečně tak liberální, jak se prezentují? Písmo se zaříká rovností, ale pokud jde o ženy, dodnes měří dvěma metry. A jsme opět u toho: kolik žen se vejde na špičku jehly? Je tu třetí dubnový sloupek filosofa Václava Sklenáře.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14493-sedm-svatych-radku</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cítil jsem potřebu vystoupit z knižního koloběhu</title>
       <link>https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu</link>
@@ -464,13 +471,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Film P. T. Andersona „Jedna bitva za druhou“ sbírá úspěch za úspěchem a ještě tomu jistě není konec, Oscary se blíží. Ne všichni vědí, že ve filmu je kus DNA Thomase Pynchona, konkrétně jeho románu „Vineland“. Pynchon však na podzim vydal nový, dlouho očekávaný román „Shadow Ticket“. Má naději být…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14420-prilis-mnoho-ale-ne-dost</guid>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Slovo tělem</title>
-      <link>https://www.h7o.cz/clanky/14419-slovo-telem</link>
-      <description>Pro sbírku Lucie L. Fišerové je podstatná její dualita, dvojjedinost, neustálé napětí mezi zaujatým pozorováním vnějšího světa a hlubokým osobním prožitkem, mezi přesným teoretickým jazykem a opatrným dotýkáním se „zjevení a zamlčení“.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14419-slovo-telem</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
