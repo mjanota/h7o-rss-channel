@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-17 06:50:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Netopýří duše
+2. Světlo na Lavélu
+3. Neviditelný
+4. Hrdinské úvahy
+5. Pohřbena zaživa
+6. Případ milovníka starých knih
+7. Javari
+8. Roman Dragoun. Rockový apoštol
+9. Tajemství kavárny na pobřeží
+10. Nepál
+11. Už mi dávno není padesát
+12. Kruté světlo
+13. A jestli se nezabili…
+14. Zázračné houby
+15. Legenda o Mrňousovi
+16. Chytré kvízy - Logopedie
+17. Tři tygři: 10let
+18. Nedomazlenky z dívčí katolické školy
+19. Film a doba 1/2026
+20. Peníze pro páry
+
+---
+
+## 🕐 2026-04-17 06:50:20 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Nechci se přizpůsobovat nové nevědomosti
+
+---
+
 ## 🕐 2026-04-16 06:50:20 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,52 +291,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-04-10 06:48:47 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Můj pes je erotoman
-2. The Singles
-3. Šero
-4. Případ podezřelého arcibiskupa
-5. Život na pavoučím vlákně
-6. Canisterapie  praktický rádce
-7. Skryté perly tureckého pobřeží
-8. Sefer Jecira
-9. Předepíšeme vám kočku 2
-10. Javari
-11. Sable Peak: Cesta na vrchol
-12. Bestie z Römerstadtu
-13. Dědic z Havaje
-14. Rachelina tajemství
-15. Riviéra plná touhy
-16. Slib jedné noci
-17. Nejznámější horory
-18. Verše Mariny Cvětajevové
-19. Recituje Irena Kačírková
-
----
-
-## 🕐 2026-04-10 06:48:46 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Je tady něco, co obnažuje naše meze
 
 ---
 

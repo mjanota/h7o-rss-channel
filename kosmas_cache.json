@@ -1,5 +1,186 @@
 [
   {
+    "title": "Netopýří duše",
+    "url": "https://www.kosmas.cz/knihy/567814/netopyri-duse/",
+    "description": "Netopýří duše - Alex Walló",
+    "authors": [
+      "Alex Walló"
+    ],
+    "date": "2026-04-17T06:50:22.084803+00:00"
+  },
+  {
+    "title": "Světlo na Lavélu",
+    "url": "https://www.kosmas.cz/knihy/567829/svetlo-na-lavelu/",
+    "description": "Světlo na Lavélu - Paullina Simonsová",
+    "authors": [
+      "Paullina Simonsová"
+    ],
+    "date": "2026-04-17T06:50:21.084803+00:00"
+  },
+  {
+    "title": "Neviditelný",
+    "url": "https://www.kosmas.cz/knihy/567261/neviditelny/",
+    "description": "Neviditelný - Herbert George Wells",
+    "authors": [
+      "Herbert George Wells"
+    ],
+    "date": "2026-04-17T06:50:20.084803+00:00"
+  },
+  {
+    "title": "Hrdinské úvahy",
+    "url": "https://www.kosmas.cz/knihy/565419/hrdinske-uvahy/",
+    "description": "Hrdinské úvahy - Alexander Pope",
+    "authors": [
+      "Alexander Pope"
+    ],
+    "date": "2026-04-17T06:50:19.084803+00:00"
+  },
+  {
+    "title": "Pohřbena zaživa",
+    "url": "https://www.kosmas.cz/knihy/565617/pohrbena-zaziva/",
+    "description": "Pohřbena zaživa - Veronika Martinková",
+    "authors": [
+      "Veronika Martinková"
+    ],
+    "date": "2026-04-17T06:50:18.084803+00:00"
+  },
+  {
+    "title": "Případ milovníka starých knih",
+    "url": "https://www.kosmas.cz/knihy/565729/pripad-milovnika-starych-knih/",
+    "description": "Případ milovníka starých knih - Petra Macková Hrochová, Miroslav Macek",
+    "authors": [
+      "Petra Macková Hrochová",
+      "Miroslav Macek"
+    ],
+    "date": "2026-04-17T06:50:17.084803+00:00"
+  },
+  {
+    "title": "Javari",
+    "url": "https://www.kosmas.cz/knihy/563998/javari/",
+    "description": "Javari - Miroslav Haluza",
+    "authors": [
+      "Miroslav Haluza"
+    ],
+    "date": "2026-04-17T06:50:16.084803+00:00"
+  },
+  {
+    "title": "Roman Dragoun. Rockový apoštol",
+    "url": "https://www.kosmas.cz/knihy/564001/roman-dragoun.-rockovy-apostol/",
+    "description": "Roman Dragoun. Rockový apoštol - Roman Dragoun, Petr Gratias, Milan Princ",
+    "authors": [
+      "Roman Dragoun",
+      "Petr Gratias",
+      "Milan Princ"
+    ],
+    "date": "2026-04-17T06:50:15.084803+00:00"
+  },
+  {
+    "title": "Tajemství kavárny na pobřeží",
+    "url": "https://www.kosmas.cz/knihy/564003/tajemstvi-kavarny-na-pobrezi/",
+    "description": "Tajemství kavárny na pobřeží - Heather Webberová",
+    "authors": [
+      "Heather Webberová"
+    ],
+    "date": "2026-04-17T06:50:14.084803+00:00"
+  },
+  {
+    "title": "Nepál",
+    "url": "https://www.kosmas.cz/knihy/564008/nepal/",
+    "description": "Nepál - Stuart Butler",
+    "authors": [
+      "Stuart Butler"
+    ],
+    "date": "2026-04-17T06:50:13.084803+00:00"
+  },
+  {
+    "title": "Už mi dávno není padesát",
+    "url": "https://www.kosmas.cz/knihy/564791/uz-mi-davno-neni-padesat/",
+    "description": "Už mi dávno není padesát - Hana Hřebejková",
+    "authors": [
+      "Hana Hřebejková"
+    ],
+    "date": "2026-04-17T06:50:12.084803+00:00"
+  },
+  {
+    "title": "Kruté světlo",
+    "url": "https://www.kosmas.cz/knihy/564792/krute-svetlo/",
+    "description": "Kruté světlo - Sophie Clark",
+    "authors": [
+      "Sophie Clark"
+    ],
+    "date": "2026-04-17T06:50:11.084803+00:00"
+  },
+  {
+    "title": "A jestli se nezabili…",
+    "url": "https://www.kosmas.cz/knihy/563500/a-jestli-se-nezabili/",
+    "description": "A jestli se nezabili… - Camilla Barnes",
+    "authors": [
+      "Camilla Barnes"
+    ],
+    "date": "2026-04-17T06:50:10.084803+00:00"
+  },
+  {
+    "title": "Zázračné houby",
+    "url": "https://www.kosmas.cz/knihy/562385/zazracne-houby/",
+    "description": "Zázračné houby - Paul Stamets",
+    "authors": [
+      "Paul Stamets"
+    ],
+    "date": "2026-04-17T06:50:09.084803+00:00"
+  },
+  {
+    "title": "Legenda o Mrňousovi",
+    "url": "https://www.kosmas.cz/knihy/563318/legenda-o-mrnousovi/",
+    "description": "Legenda o Mrňousovi - Ilona Komárková",
+    "authors": [
+      "Ilona Komárková"
+    ],
+    "date": "2026-04-17T06:50:08.084803+00:00"
+  },
+  {
+    "title": "Chytré kvízy - Logopedie",
+    "url": "https://www.kosmas.cz/knihy/567675/chytre-kvizy-logopedie/",
+    "description": "Chytré kvízy - Logopedie - Štěpán Peterka",
+    "authors": [
+      "Štěpán Peterka"
+    ],
+    "date": "2026-04-17T06:50:07.084803+00:00"
+  },
+  {
+    "title": "Tři tygři: 10let",
+    "url": "https://www.kosmas.cz/knihy/567782/tri-tygri-10let/",
+    "description": "Tři tygři: 10let - Petr Jiříček",
+    "authors": [
+      "Petr Jiříček"
+    ],
+    "date": "2026-04-17T06:50:06.084803+00:00"
+  },
+  {
+    "title": "Nedomazlenky z dívčí katolické školy",
+    "url": "https://www.kosmas.cz/knihy/567823/nedomazlenky-z-divci-katolicke-skoly/",
+    "description": "Nedomazlenky z dívčí katolické školy - Ondřej Staněk",
+    "authors": [
+      "Ondřej Staněk"
+    ],
+    "date": "2026-04-17T06:50:05.084803+00:00"
+  },
+  {
+    "title": "Film a doba 1/2026",
+    "url": "https://www.kosmas.cz/knihy/567825/film-a-doba-1-2026/",
+    "description": "Film a doba 1/2026",
+    "authors": [],
+    "date": "2026-04-17T06:50:04.084803+00:00"
+  },
+  {
+    "title": "Peníze pro páry",
+    "url": "https://www.kosmas.cz/knihy/567843/penize-pro-pary/",
+    "description": "Peníze pro páry - Ramit Sethi",
+    "authors": [
+      "Ramit Sethi"
+    ],
+    "date": "2026-04-17T06:50:03.084803+00:00"
+  },
+  {
     "title": "Mezi spodními proudy",
     "url": "https://www.kosmas.cz/knihy/564298/mezi-spodnimi-proudy/",
     "description": "Mezi spodními proudy - Stanislav Dvorský, Jakub Řehák",
@@ -1599,175 +1780,5 @@
       "Julia Quinnová"
     ],
     "date": "2026-04-02T06:37:58.673964+00:00"
-  },
-  {
-    "title": "Odvaha letět",
-    "url": "https://www.kosmas.cz/knihy/567438/odvaha-letet/",
-    "description": "Odvaha letět - Rebecca Yarros",
-    "authors": [
-      "Rebecca Yarros"
-    ],
-    "date": "2026-04-02T06:37:57.673964+00:00"
-  },
-  {
-    "title": "Podvod zlatého faraona",
-    "url": "https://www.kosmas.cz/knihy/567439/podvod-zlateho-faraona/",
-    "description": "Podvod zlatého faraona - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-02T06:37:56.673964+00:00"
-  },
-  {
-    "title": "Optimismus pro samouky",
-    "url": "https://www.kosmas.cz/knihy/567071/optimismus-pro-samouky/",
-    "description": "Optimismus pro samouky - Rudolf Červenka",
-    "authors": [
-      "Rudolf Červenka"
-    ],
-    "date": "2026-04-02T06:37:55.673964+00:00"
-  },
-  {
-    "title": "Afrodíté včera a dnes",
-    "url": "https://www.kosmas.cz/knihy/567134/afrodite-vcera-a-dnes/",
-    "description": "Afrodíté včera a dnes - Jan Bažant, Roman Prahl, Alena Sakissian",
-    "authors": [
-      "Jan Bažant",
-      "Roman Prahl",
-      "Alena Sakissian"
-    ],
-    "date": "2026-04-02T06:37:54.673964+00:00"
-  },
-  {
-    "title": "Sešit pocitů",
-    "url": "https://www.kosmas.cz/knihy/567234/sesit-pocitu/",
-    "description": "Sešit pocitů - Jana Draberová",
-    "authors": [
-      "Jana Draberová"
-    ],
-    "date": "2026-04-02T06:37:52.673964+00:00"
-  },
-  {
-    "title": "Maluj jako umělec - MIRÓ",
-    "url": "https://www.kosmas.cz/knihy/567327/maluj-jako-umelec-miro/",
-    "description": "Maluj jako umělec - MIRÓ",
-    "authors": [],
-    "date": "2026-04-02T06:37:51.673964+00:00"
-  },
-  {
-    "title": "Maluj jako umělec - Vincent Van GOGH",
-    "url": "https://www.kosmas.cz/knihy/567328/maluj-jako-umelec-vincent-van-gogh/",
-    "description": "Maluj jako umělec - Vincent Van GOGH",
-    "authors": [],
-    "date": "2026-04-02T06:37:50.673964+00:00"
-  },
-  {
-    "title": "Maluj jako umělec - SALVADOR DALÍ",
-    "url": "https://www.kosmas.cz/knihy/567329/maluj-jako-umelec-salvador-dali/",
-    "description": "Maluj jako umělec - SALVADOR DALÍ",
-    "authors": [],
-    "date": "2026-04-02T06:37:49.673964+00:00"
-  },
-  {
-    "title": "Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj",
-    "url": "https://www.kosmas.cz/knihy/567332/dopravni-prostredky-moje-velka-knizka-poznej-a-pojmenuj/",
-    "description": "Dopravní prostředky - Moje velká knížka - Poznej a Pojmenuj",
-    "authors": [],
-    "date": "2026-04-02T06:37:48.673964+00:00"
-  },
-  {
-    "title": "Zvířátka - Moje velká knížka - Poznej a Pojmenuj",
-    "url": "https://www.kosmas.cz/knihy/567335/zviratka-moje-velka-knizka-poznej-a-pojmenuj/",
-    "description": "Zvířátka - Moje velká knížka - Poznej a Pojmenuj",
-    "authors": [],
-    "date": "2026-04-02T06:37:47.673964+00:00"
-  },
-  {
-    "title": "HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky",
-    "url": "https://www.kosmas.cz/knihy/567336/hrave-uceni-pisanka-napis-a-smaz-zas-a-znovu-drazkovane-linky/",
-    "description": "HRAVÉ UČENÍ - PÍSANKA - Napiš a Smaž zas a znovu - Drážkované linky",
-    "authors": [],
-    "date": "2026-04-02T06:37:46.673964+00:00"
-  },
-  {
-    "title": "HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž",
-    "url": "https://www.kosmas.cz/knihy/567337/hrave-uceni-cisla-a-pocitani-napis-a-smaz/",
-    "description": "HRAVÉ UČENÍ - ČÍSLA A POČÍTÁNÍ- Napiš a Smaž",
-    "authors": [],
-    "date": "2026-04-02T06:37:45.673964+00:00"
-  },
-  {
-    "title": "Kamarádi ze statku - Látková knížka pro nejmenší",
-    "url": "https://www.kosmas.cz/knihy/567338/kamaradi-ze-statku-latkova-knizka-pro-nejmensi/",
-    "description": "Kamarádi ze statku - Látková knížka pro nejmenší",
-    "authors": [],
-    "date": "2026-04-02T06:37:44.673964+00:00"
-  },
-  {
-    "title": "Áďa a já",
-    "url": "https://www.kosmas.cz/knihy/567421/ada-a-ja/",
-    "description": "Áďa a já - Rich Pink, Rox Pink",
-    "authors": [
-      "Rich Pink",
-      "Rox Pink"
-    ],
-    "date": "2026-04-02T06:37:42.673964+00:00"
-  },
-  {
-    "title": "Za hranicí systému",
-    "url": "https://www.kosmas.cz/knihy/567422/za-hranici-systemu/",
-    "description": "Za hranicí systému - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-04-02T06:37:41.673964+00:00"
-  },
-  {
-    "title": "Kat a čarodějnice",
-    "url": "https://www.kosmas.cz/knihy/567425/kat-a-carodejnice/",
-    "description": "Kat a čarodějnice - Zuzana Listopadová",
-    "authors": [
-      "Zuzana Listopadová"
-    ],
-    "date": "2026-04-02T06:37:40.673964+00:00"
-  },
-  {
-    "title": "Můj logopedický sešit: Úroveň 1 – jednodušší",
-    "url": "https://www.kosmas.cz/knihy/566128/muj-logopedicky-sesit-uroven-1-jednodussi/",
-    "description": "Můj logopedický sešit: Úroveň 1 – jednodušší - Ivana Hrubá Eliášová, Eva Kolesová, Mária Košútová, Adriána Šugárová",
-    "authors": [
-      "Ivana Hrubá Eliášová",
-      "Eva Kolesová",
-      "Mária Košútová",
-      "Adriána Šugárová"
-    ],
-    "date": "2026-04-02T06:37:39.673964+00:00"
-  },
-  {
-    "title": "Smrt parašutisty Bohuslava Kouby",
-    "url": "https://www.kosmas.cz/knihy/566585/smrt-parasutisty-bohuslava-kouby/",
-    "description": "Smrt parašutisty Bohuslava Kouby - Michal Dlouhý",
-    "authors": [
-      "Michal Dlouhý"
-    ],
-    "date": "2026-04-01T06:46:25.132947+00:00"
-  },
-  {
-    "title": "Bratři ve válce",
-    "url": "https://www.kosmas.cz/knihy/566586/bratri-ve-valce/",
-    "description": "Bratři ve válce - René Černý",
-    "authors": [
-      "René Černý"
-    ],
-    "date": "2026-04-01T06:46:24.132947+00:00"
-  },
-  {
-    "title": "Operace Anthropoid : Epilog",
-    "url": "https://www.kosmas.cz/knihy/566587/operace-anthropoid-epilog/",
-    "description": "Operace Anthropoid : Epilog - Pavel Kmoch",
-    "authors": [
-      "Pavel Kmoch"
-    ],
-    "date": "2026-04-01T06:46:23.132947+00:00"
   }
 ]
