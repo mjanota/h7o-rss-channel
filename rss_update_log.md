@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-18 06:36:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Falešné burgundské
+2. Sám sebou
+3. Nikdy sami doma
+4. Netopýří duše
+5. Božská Kleopatra
+6. O ráji
+7. Mapy a vlajky
+8. Chata v Jezerní kotlině
+9. Jediný únor je opravdový Měsíc
+10. A Trick of Memory
+11. Anatomie Ateliéru
+12. Muž, který se bál žít
+13. Na startu
+14. Divoká hra
+15. Nina a tajemství vodopádu
+16. Art & Antiques 4/2026
+17. Najdi mě: Ve školce
+18. Petr a Lucie
+
+---
+
+## 🕐 2026-04-18 06:36:45 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-17 06:50:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,47 +285,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-04-12 06:42:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-11 06:32:27 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Zákon o soudních poplatcích Komentář
-2. Host 2026/4
-3. Česká literatura 1/2026
-4. Hlavu vzhůru!
-5. Muž z Brna na Onom Světě
-6. Symbol v diagnostice a psychoterapii
-7. Bílé noci
-8. Příšerný host
-9. Co skrývá noc
-10. Za šťastnou hvězdou
-11. Skorzeny. Život na hraně
-12. Kaštánek a sluníčko
-13. Vyhláška o administrativní bezpečnosti Vyhláška o fyzické bezpečnosti
-14. Sable Peak: Cesta na vrchol
-15. Služky pro všechno
-16. Uni 4/2026
-17. Umělá inteligence (AI) ve zdravotnictví
-18. Chlapec v pruhovaném pyžamu
-
----
-
-## 🕐 2026-04-11 06:32:26 UTC
 
 **Zdroj:** H7O - Časopis Host
 
