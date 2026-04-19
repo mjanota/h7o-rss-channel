@@ -5,6 +5,34 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-19 06:45:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 5
+
+**Tituly nových položek:**
+
+1. Temné zapomnění
+2. Králův rychtář
+3. Můj stín mě slyší
+4. Hokejové bitvy - Nová holka
+5. Jeden záhon stačí
+
+---
+
+## 🕐 2026-04-19 06:45:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-18 06:36:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,46 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Pracovat bez honoráře není dobrovolnictví, ale systémový problém
-
----
-
-## 🕐 2026-04-12 06:42:56 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Rozbitá panenka
-2. Předepíšeme vám kočku 2
-3. 2010:Druhá vesmírná odysea
-4. Jsou i daleko horší matky než ty
-5. Kateřinina válka
-6. Minecraft - Výzvy k přežití - Hrdinská edice
-7. Na množství nehleďte: Společně k vítězství
-8. Nudíš se, Minimoni?
-9. Po roce 1177 př. Kr.
-10. Říkali mi Leni
-11. Hrdinou svého života jsi ty
-12. Naháčci
-13. Mostní království - Kniha třetí: Nehodná následnice
-14. Na konci světa
-15. Vzpomínky na Waterloo
-16. Kůstka, dívka z Prahy
-17. Dívka v bouři
-
----
-
-## 🕐 2026-04-12 06:42:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

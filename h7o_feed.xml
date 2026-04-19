@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 18 Apr 2026 06:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:45:15 +0000</lastBuildDate>
     <item>
       <title>Nechci se přizpůsobovat nové nevědomosti</title>
       <link>https://www.h7o.cz/clanky/14495-nechci-se-prizpusobovat-nove-nevedomosti</link>
@@ -471,13 +471,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>„Když si uvědomím, že nelze všechno jasně definovat, pak pokus o definici už je od začátku nějak naplněný ironií, nemožností, a tudíž je to velice zajímavý básnický podnik.“ S Josefem Hrdličkou o nejnovější sbírce „MOST přes MOST“, klidu zahrady a události, jež sbírku rozdělila na předtím a potom.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14421-jde-o-to-ticho-vyslovit-a-ne-mlcet</guid>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příliš mnoho, ale ne dost</title>
-      <link>https://www.h7o.cz/clanky/14420-prilis-mnoho-ale-ne-dost</link>
-      <description>Film P. T. Andersona „Jedna bitva za druhou“ sbírá úspěch za úspěchem a ještě tomu jistě není konec, Oscary se blíží. Ne všichni vědí, že ve filmu je kus DNA Thomase Pynchona, konkrétně jeho románu „Vineland“. Pynchon však na podzim vydal nový, dlouho očekávaný román „Shadow Ticket“. Má naději být…</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14420-prilis-mnoho-ale-ne-dost</guid>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

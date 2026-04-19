@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 18 Apr 2026 06:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:45:17 +0000</lastBuildDate>
+    <item>
+      <title>Temné zapomnění</title>
+      <link>https://www.kosmas.cz/knihy/566163/temne-zapomneni/</link>
+      <description>Temné zapomnění - Kristen Ciccarelli</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566163/temne-zapomneni/</guid>
+      <pubDate>Sun, 19 Apr 2026 06:45:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Králův rychtář</title>
+      <link>https://www.kosmas.cz/knihy/566192/kraluv-rychtar/</link>
+      <description>Králův rychtář - Světlana Hrabánková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566192/kraluv-rychtar/</guid>
+      <pubDate>Sun, 19 Apr 2026 06:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Můj stín mě slyší</title>
+      <link>https://www.kosmas.cz/knihy/566316/muj-stin-me-slysi/</link>
+      <description>Můj stín mě slyší - Kristýna Koryťáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566316/muj-stin-me-slysi/</guid>
+      <pubDate>Sun, 19 Apr 2026 06:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hokejové bitvy - Nová holka</title>
+      <link>https://www.kosmas.cz/knihy/566343/hokejove-bitvy-nova-holka/</link>
+      <description>Hokejové bitvy - Nová holka - Jackson Ben, Lawrenceová Sam</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566343/hokejove-bitvy-nova-holka/</guid>
+      <pubDate>Sun, 19 Apr 2026 06:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeden záhon stačí</title>
+      <link>https://www.kosmas.cz/knihy/566410/jeden-zahon-staci/</link>
+      <description>Jeden záhon stačí - Richards Huw</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566410/jeden-zahon-staci/</guid>
+      <pubDate>Sun, 19 Apr 2026 06:44:58 +0000</pubDate>
+    </item>
     <item>
       <title>Falešné burgundské</title>
       <link>https://www.kosmas.cz/knihy/567796/falesne-burgundske/</link>
@@ -672,41 +707,6 @@
       <description>Rozbitá panenka - Jeffery Deaver</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565416/rozbita-panenka/</guid>
       <pubDate>Sun, 12 Apr 2026 06:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Předepíšeme vám kočku 2</title>
-      <link>https://www.kosmas.cz/knihy/565440/predepiseme-vam-kocku-2/</link>
-      <description>Předepíšeme vám kočku 2 - Šó Išida</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565440/predepiseme-vam-kocku-2/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>2010:Druhá vesmírná odysea</title>
-      <link>https://www.kosmas.cz/knihy/565066/2010-druha-vesmirna-odysea/</link>
-      <description>2010:Druhá vesmírná odysea - Arthur C. Clarke</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565066/2010-druha-vesmirna-odysea/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jsou i daleko horší matky než ty</title>
-      <link>https://www.kosmas.cz/knihy/565645/jsou-i-daleko-horsi-matky-nez-ty/</link>
-      <description>Jsou i daleko horší matky než ty - Glenn Boozan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565645/jsou-i-daleko-horsi-matky-nez-ty/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kateřinina válka</title>
-      <link>https://www.kosmas.cz/knihy/565646/katerinina-valka/</link>
-      <description>Kateřinina válka - Julia Billetová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565646/katerinina-valka/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Minecraft - Výzvy k přežití - Hrdinská edice</title>
-      <link>https://www.kosmas.cz/knihy/565716/minecraft-vyzvy-k-preziti-hrdinska-edice/</link>
-      <description>Minecraft - Výzvy k přežití - Hrdinská edice - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565716/minecraft-vyzvy-k-preziti-hrdinska-edice/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
