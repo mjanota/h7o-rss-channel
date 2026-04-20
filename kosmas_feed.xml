@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:59:47 +0000</lastBuildDate>
+    <item>
+      <title>Zaříkávání smrti</title>
+      <link>https://www.kosmas.cz/knihy/567733/zarikavani-smrti/</link>
+      <description>Zaříkávání smrti - Hana Fousková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567733/zarikavani-smrti/</guid>
+      <pubDate>Mon, 20 Apr 2026 06:59:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Princezna - 5minutové pohádky</title>
+      <link>https://www.kosmas.cz/knihy/565886/princezna-5minutove-pohadky/</link>
+      <description>Princezna - 5minutové pohádky - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565886/princezna-5minutove-pohadky/</guid>
+      <pubDate>Mon, 20 Apr 2026 06:59:38 +0000</pubDate>
+    </item>
     <item>
       <title>Temné zapomnění</title>
       <link>https://www.kosmas.cz/knihy/566163/temne-zapomneni/</link>
@@ -693,20 +707,6 @@
       <description>Dcery květin: Islandské tajemství - Tessa Collins</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567851/dcery-kvetin-islandske-tajemstvi/</guid>
       <pubDate>Tue, 14 Apr 2026 06:48:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Měsíční zahrada</title>
-      <link>https://www.kosmas.cz/knihy/567855/mesicni-zahrada/</link>
-      <description>Měsíční zahrada - Rosie Hannigan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567855/mesicni-zahrada/</guid>
-      <pubDate>Tue, 14 Apr 2026 06:48:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozbitá panenka</title>
-      <link>https://www.kosmas.cz/knihy/565416/rozbita-panenka/</link>
-      <description>Rozbitá panenka - Jeffery Deaver</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565416/rozbita-panenka/</guid>
-      <pubDate>Sun, 12 Apr 2026 06:42:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

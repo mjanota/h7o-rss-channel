@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-20 06:59:47 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Zaříkávání smrti
+2. Princezna - 5minutové pohádky
+
+---
+
+## 🕐 2026-04-20 06:59:46 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Moucha ztělesňuje božskou přítomnost už tím, jak jí pohrdáme
+
+---
+
 ## 🕐 2026-04-19 06:45:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,30 +284,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Závratě propojeného světa
-
----
-
-## 🕐 2026-04-13 06:58:19 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-13 06:58:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Pracovat bez honoráře není dobrovolnictví, ale systémový problém
 
 ---
 
