@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-21 06:50:48 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Abe Sapien 8: Pusté pobřeží
+2. Abe Sapien 9: Ztracené životy a další příběhy
+3. Hellboy v pekle 2: Karta smrti
+4. Ú.P.V.O. Peklo na zemi 15: V hodině nejtěžší
+5. NĚŽNÁ NAHOTA PRAVDY aneb hrubé jemnosti AVE ABURH
+6. Zemřít v Berlíně
+7. Mor
+8. Okouzlující vévodkyně
+9. Piráti z Karibiku: Útěk z ostrova
+10. Immortal Hulk 9: Nejslabší ze všech
+11. Predátor 1: Den lovce
+12. Dandadan 7
+13. Simpsonovi 4/2026
+14. Naruto 71: Miluju vás
+15. Čarodějova nevěsta 20
+16. Život faráře z Arsu - Svatý Jan Maria Vianney
+17. Příběhy z Bible
+18. Anglicko-český česko-anglický šikovný slovník
+19. Německo-český, česko-německý kapesní slovník
+
+---
+
+## 🕐 2026-04-21 06:50:47 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Diamant v kupce sena
+
+---
+
 ## 🕐 2026-04-20 06:59:47 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,53 +283,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Cítil jsem potřebu vystoupit z knižního koloběhu
-
----
-
-## 🕐 2026-04-14 06:48:59 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Vona
-2. Námořník
-3. Dvorní zahradnice: Letní záře
-4. Máš nárok na život - Žij, jako by ti zbýval jen rok
-5. Mé vysněné lásky
-6. Mami, on si začal
-7. Jak se vysloví přísloví
-8. Impérium
-9. Dlouhé stíny
-10. Už mi dávno není padesát
-11. Krvavá aréna
-12. Dokud můžeš
-13. Mostní království - Kniha třetí: Nepohodlný dědic
-14. Ďáblova noc 3: Hříšná posedlost
-15. Kruté světlo
-16. Lákavá kůže
-17. Peníze pro páry
-18. Co myslíš, co vidí
-19. Dcery květin: Islandské tajemství
-20. Měsíční zahrada
-
----
-
-## 🕐 2026-04-14 06:48:58 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Závratě propojeného světa
 
 ---
 
