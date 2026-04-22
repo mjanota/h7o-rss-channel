@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:50:41 +0000</lastBuildDate>
+    <item>
+      <title>Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři</title>
+      <link>https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost</link>
+      <description>Přes dvě stě spisovatelů odešlo od slavného francouzského nakladatelství Grasset. Protestují proti krokům majitele a miliardáře s vazbami na krajní pravici Vincenta Bollorého.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Diamant v kupce sena</title>
       <link>https://www.h7o.cz/clanky/14497-diamant-v-kupce-sena</link>
@@ -464,13 +471,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>O pohraničí říká, že ho mapuje, jako když řeka zachytává nánosy bahna, napadané listí či odpad. Básník a vodohospodář Michal Grac vydal debut „Obecní ampliony“ a s vodou souvisí i rozhovor nad jeho básní o zatopených Sudetech na dně přehrady Slezská Harta.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet</guid>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čas na další experiment</title>
-      <link>https://www.h7o.cz/clanky/14422-cas-na-dalsi-experiment</link>
-      <description>Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí, která navrhuje aplikovat postupy randomizovaných pokusů v legislativě.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14422-cas-na-dalsi-experiment</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

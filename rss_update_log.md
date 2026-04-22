@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-22 06:50:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Salve 1/26 - velkoměsto
+2. Ve jménu spravedlnosti
+3. Bastard - lučišník
+4. Hvězda 02
+5. Velké ekonomické dějiny
+6. Kavalíři
+7. Generace nula
+8. Údolí javoru
+9. U vás je vždycky tak strašně ticho
+10. Royal Elite: Epilog
+11. Pravda v plamenech
+12. Trénink s mariňákem
+13. O čem sní noční můry
+14. Na cestě k nevzdělanosti
+15. Pobožný střelec
+16. Pohádky Čimického háje
+17. Černí baroni aneb válčili jsme za Čepičky
+18. Obloha ji zavolala domů
+19. Ledový dech
+
+---
+
+## 🕐 2026-04-22 06:50:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři
+
+---
+
 ## 🕐 2026-04-21 06:50:48 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,52 +283,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Sedm svatých řádků
-
----
-
-## 🕐 2026-04-15 06:49:26 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Vaculíkova čítanka pro začátečníky a mírně pokročilé
-2. Smrt na lovu
-3. Pravda v plamenech
-4. Garfield 68: Pomalejší nežere
-5. Clever a Smart: Smekáč Pápěrka
-6. COFFEE FOR YOU
-7. Vona
-8. Star Wars - Vrcholná Republika: Hranice rovnováhy 2
-9. Faidón
-10. Genealogie morálky
-11. Leviatan 6
-12. Cyberpunk 2077: Nakopávač
-13. Batman: Úplněk (Black Label)
-14. [Moje hvězda] 9
-15. Léto, kdy umřel Hikaru 3
-16. O nenasytné černé díře
-17. Tajemství severní oblohy
-18. Obejmu tě
-19. Peppa Pig - Dobrou noc, Peppo!
-
----
-
-## 🕐 2026-04-15 06:49:25 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Cítil jsem potřebu vystoupit z knižního koloběhu
 
 ---
 

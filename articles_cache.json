@@ -200,14 +200,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "Čas na další experiment",
-    "url": "https://www.h7o.cz/clanky/14422-cas-na-dalsi-experiment",
-    "description": "Seriálové čtvrtky letos otevíráme sérií evolučního biologa Petra Turečka. Jeho balík nesmlouvavých komentářů k poměrům v české společnosti, politice i akademii pokračuje esejí, která navrhuje aplikovat postupy randomizovaných pokusů v legislativě.",
-    "date": "2026-01-22T00:00:00",
-    "author": "Petr Tureček",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -526,5 +518,13 @@
     "date": "2026-04-21T00:00:00",
     "author": "Kryštof Mec",
     "category": "recenze"
+  },
+  {
+    "title": "Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři",
+    "url": "https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost",
+    "description": "Přes dvě stě spisovatelů odešlo od slavného francouzského nakladatelství Grasset. Protestují proti krokům majitele a miliardáře s vazbami na krajní pravici Vincenta Bollorého.",
+    "date": "2026-04-22T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]
