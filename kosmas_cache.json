@@ -1,5 +1,185 @@
 [
   {
+    "title": "Skrytá říše",
+    "url": "https://www.kosmas.cz/knihy/568070/skryta-rise/",
+    "description": "Skrytá říše - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-04-23T06:51:08.996854+00:00"
+  },
+  {
+    "title": "Architekt hněvu",
+    "url": "https://www.kosmas.cz/knihy/568068/architekt-hnevu/",
+    "description": "Architekt hněvu - Ondřej Blaho",
+    "authors": [
+      "Ondřej Blaho"
+    ],
+    "date": "2026-04-23T06:51:07.996854+00:00"
+  },
+  {
+    "title": "Nemravné sliby",
+    "url": "https://www.kosmas.cz/knihy/568112/nemravne-sliby/",
+    "description": "Nemravné sliby - Alessandra Torre",
+    "authors": [
+      "Alessandra Torre"
+    ],
+    "date": "2026-04-23T06:51:06.996854+00:00"
+  },
+  {
+    "title": "Muž z Brna na Onom Světě",
+    "url": "https://www.kosmas.cz/knihy/565422/muz-z-brna-na-onom-svete/",
+    "description": "Muž z Brna na Onom Světě - Petra Klabouchová",
+    "authors": [
+      "Petra Klabouchová"
+    ],
+    "date": "2026-04-23T06:51:05.996854+00:00"
+  },
+  {
+    "title": "Zlá babička",
+    "url": "https://www.kosmas.cz/knihy/568209/zla-babicka/",
+    "description": "Zlá babička - Ditta Kůtová",
+    "authors": [
+      "Ditta Kůtová"
+    ],
+    "date": "2026-04-23T06:51:04.996854+00:00"
+  },
+  {
+    "title": "Jak mluvit s dětmi o penězích",
+    "url": "https://www.kosmas.cz/knihy/566784/jak-mluvit-s-detmi-o-penezich/",
+    "description": "Jak mluvit s dětmi o penězích - Martina Burešová",
+    "authors": [
+      "Martina Burešová"
+    ],
+    "date": "2026-04-23T06:51:03.996854+00:00"
+  },
+  {
+    "title": "Z Prahy do Jeruzaléma a zpět",
+    "url": "https://www.kosmas.cz/knihy/567289/z-prahy-do-jeruzalema-a-zpet/",
+    "description": "Z Prahy do Jeruzaléma a zpět - Tomáš Kulka",
+    "authors": [
+      "Tomáš Kulka"
+    ],
+    "date": "2026-04-23T06:51:02.996854+00:00"
+  },
+  {
+    "title": "Život ve 280 znacích",
+    "url": "https://www.kosmas.cz/knihy/568135/zivot-ve-280-znacich/",
+    "description": "Život ve 280 znacích - Alex Nesien",
+    "authors": [
+      "Alex Nesien"
+    ],
+    "date": "2026-04-23T06:51:01.996854+00:00"
+  },
+  {
+    "title": "Temná řeka",
+    "url": "https://www.kosmas.cz/knihy/567513/temna-reka/",
+    "description": "Temná řeka - Ping Lu",
+    "authors": [
+      "Ping Lu"
+    ],
+    "date": "2026-04-23T06:51:00.996854+00:00"
+  },
+  {
+    "title": "Ošetřovatelství v psychiatrii",
+    "url": "https://www.kosmas.cz/knihy/567516/osetrovatelstvi-v-psychiatrii/",
+    "description": "Ošetřovatelství v psychiatrii - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-04-23T06:50:59.996854+00:00"
+  },
+  {
+    "title": "Čteme sami – Dinosauří vajíčko",
+    "url": "https://www.kosmas.cz/knihy/565863/cteme-sami-dinosauri-vajicko/",
+    "description": "Čteme sami – Dinosauří vajíčko - Jana Burešová",
+    "authors": [
+      "Jana Burešová"
+    ],
+    "date": "2026-04-23T06:50:58.996854+00:00"
+  },
+  {
+    "title": "Algoritmus pro dva",
+    "url": "https://www.kosmas.cz/knihy/565864/algoritmus-pro-dva/",
+    "description": "Algoritmus pro dva - Jasmine Leith",
+    "authors": [
+      "Jasmine Leith"
+    ],
+    "date": "2026-04-23T06:50:57.996854+00:00"
+  },
+  {
+    "title": "Čteme sami – genetická metoda - Dinosauří vajíčko",
+    "url": "https://www.kosmas.cz/knihy/565867/cteme-sami-geneticka-metoda-dinosauri-vajicko/",
+    "description": "Čteme sami – genetická metoda - Dinosauří vajíčko - Jana Burešová",
+    "authors": [
+      "Jana Burešová"
+    ],
+    "date": "2026-04-23T06:50:56.996854+00:00"
+  },
+  {
+    "title": "Hranice bolesti",
+    "url": "https://www.kosmas.cz/knihy/565870/hranice-bolesti/",
+    "description": "Hranice bolesti - Eva Brykner",
+    "authors": [
+      "Eva Brykner"
+    ],
+    "date": "2026-04-23T06:50:55.996854+00:00"
+  },
+  {
+    "title": "Hvězdy Ligy mistrů",
+    "url": "https://www.kosmas.cz/knihy/565875/hvezdy-ligy-mistru/",
+    "description": "Hvězdy Ligy mistrů - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-04-23T06:50:54.996854+00:00"
+  },
+  {
+    "title": "Udatný netopýrek",
+    "url": "https://www.kosmas.cz/knihy/565890/udatny-netopyrek/",
+    "description": "Udatný netopýrek - Ivona Březinová",
+    "authors": [
+      "Ivona Březinová"
+    ],
+    "date": "2026-04-23T06:50:53.996854+00:00"
+  },
+  {
+    "title": "Kokoska a kniha zázračných příběhů",
+    "url": "https://www.kosmas.cz/knihy/566053/kokoska-a-kniha-zazracnych-pribehu/",
+    "description": "Kokoska a kniha zázračných příběhů - Markéta Harasimová",
+    "authors": [
+      "Markéta Harasimová"
+    ],
+    "date": "2026-04-23T06:50:52.996854+00:00"
+  },
+  {
+    "title": "Únik z knihovny pana Lemoncella",
+    "url": "https://www.kosmas.cz/knihy/566165/unik-z-knihovny-pana-lemoncella/",
+    "description": "Únik z knihovny pana Lemoncella - Chris Grabenstein",
+    "authors": [
+      "Chris Grabenstein"
+    ],
+    "date": "2026-04-23T06:50:51.996854+00:00"
+  },
+  {
+    "title": "Andělské vykládací karty",
+    "url": "https://www.kosmas.cz/knihy/566241/andelske-vykladaci-karty/",
+    "description": "Andělské vykládací karty - Debbie Malone",
+    "authors": [
+      "Debbie Malone"
+    ],
+    "date": "2026-04-23T06:50:50.996854+00:00"
+  },
+  {
+    "title": "Kouzelný kočičí tarot",
+    "url": "https://www.kosmas.cz/knihy/566243/kouzelny-kocici-tarot/",
+    "description": "Kouzelný kočičí tarot - Lunaea Weatherstone",
+    "authors": [
+      "Lunaea Weatherstone"
+    ],
+    "date": "2026-04-23T06:50:49.996854+00:00"
+  },
+  {
     "title": "Salve 1/26 - velkoměsto",
     "url": "https://www.kosmas.cz/knihy/566621/salve-1-26-velkomesto/",
     "description": "Salve 1/26 - velkoměsto",
@@ -1634,181 +1814,5 @@
       "Marie Adámková"
     ],
     "date": "2026-04-10T06:48:42.803718+00:00"
-  },
-  {
-    "title": "Skryté perly tureckého pobřeží",
-    "url": "https://www.kosmas.cz/knihy/567060/skryte-perly-tureckeho-pobrezi/",
-    "description": "Skryté perly tureckého pobřeží - Lukáš Lhoťan",
-    "authors": [
-      "Lukáš Lhoťan"
-    ],
-    "date": "2026-04-10T06:48:41.803718+00:00"
-  },
-  {
-    "title": "Sefer Jecira",
-    "url": "https://www.kosmas.cz/knihy/567652/sefer-jecira/",
-    "description": "Sefer Jecira - Helena Benish",
-    "authors": [
-      "Helena Benish"
-    ],
-    "date": "2026-04-10T06:48:40.803718+00:00"
-  },
-  {
-    "title": "Předepíšeme vám kočku 2",
-    "url": "https://www.kosmas.cz/knihy/567674/predepiseme-vam-kocku-2/",
-    "description": "Předepíšeme vám kočku 2 - Šó Išida",
-    "authors": [
-      "Šó Išida"
-    ],
-    "date": "2026-04-10T06:48:39.803718+00:00"
-  },
-  {
-    "title": "Javari",
-    "url": "https://www.kosmas.cz/knihy/567676/javari/",
-    "description": "Javari - Miroslav Haluza",
-    "authors": [
-      "Miroslav Haluza"
-    ],
-    "date": "2026-04-10T06:48:38.803718+00:00"
-  },
-  {
-    "title": "Sable Peak: Cesta na vrchol",
-    "url": "https://www.kosmas.cz/knihy/567681/sable-peak-cesta-na-vrchol/",
-    "description": "Sable Peak: Cesta na vrchol - Devney Perry",
-    "authors": [
-      "Devney Perry"
-    ],
-    "date": "2026-04-10T06:48:37.803718+00:00"
-  },
-  {
-    "title": "Bestie z Römerstadtu",
-    "url": "https://www.kosmas.cz/knihy/567682/bestie-z-romerstadtu/",
-    "description": "Bestie z Römerstadtu - Martin Bahulík",
-    "authors": [
-      "Martin Bahulík"
-    ],
-    "date": "2026-04-10T06:48:36.803718+00:00"
-  },
-  {
-    "title": "Dědic z Havaje",
-    "url": "https://www.kosmas.cz/knihy/567688/dedic-z-havaje/",
-    "description": "Dědic z Havaje - Emmy Graysonová",
-    "authors": [
-      "Emmy Graysonová"
-    ],
-    "date": "2026-04-10T06:48:35.803718+00:00"
-  },
-  {
-    "title": "Rachelina tajemství",
-    "url": "https://www.kosmas.cz/knihy/567692/rachelina-tajemstvi/",
-    "description": "Rachelina tajemství - Cat Schieldová",
-    "authors": [
-      "Cat Schieldová"
-    ],
-    "date": "2026-04-10T06:48:34.803718+00:00"
-  },
-  {
-    "title": "Riviéra plná touhy",
-    "url": "https://www.kosmas.cz/knihy/567693/riviera-plna-touhy/",
-    "description": "Riviéra plná touhy - Heidi Riceová",
-    "authors": [
-      "Heidi Riceová"
-    ],
-    "date": "2026-04-10T06:48:33.803718+00:00"
-  },
-  {
-    "title": "Slib jedné noci",
-    "url": "https://www.kosmas.cz/knihy/567694/slib-jedne-noci/",
-    "description": "Slib jedné noci - Sharon Kendricková",
-    "authors": [
-      "Sharon Kendricková"
-    ],
-    "date": "2026-04-10T06:48:32.803718+00:00"
-  },
-  {
-    "title": "Nejznámější horory",
-    "url": "https://www.kosmas.cz/knihy/567703/nejznamejsi-horory/",
-    "description": "Nejznámější horory - Pavel Rímský",
-    "authors": [
-      "Pavel Rímský"
-    ],
-    "date": "2026-04-10T06:48:30.803718+00:00"
-  },
-  {
-    "title": "Verše Mariny Cvětajevové",
-    "url": "https://www.kosmas.cz/knihy/567704/verse-mariny-cvetajevove/",
-    "description": "Verše Mariny Cvětajevové",
-    "authors": [],
-    "date": "2026-04-10T06:48:29.803718+00:00"
-  },
-  {
-    "title": "Recituje Irena Kačírková",
-    "url": "https://www.kosmas.cz/knihy/567705/recituje-irena-kacirkova/",
-    "description": "Recituje Irena Kačírková - Else Lasker - Schüllerová, Christian Morgenstern, Eduard Mörike",
-    "authors": [
-      "Else Lasker - Schüllerová",
-      "Christian Morgenstern",
-      "Eduard Mörike"
-    ],
-    "date": "2026-04-10T06:48:28.803718+00:00"
-  },
-  {
-    "title": "Sestry",
-    "url": "https://www.kosmas.cz/knihy/567268/sestry/",
-    "description": "Sestry - Martin Uhlíř",
-    "authors": [
-      "Martin Uhlíř"
-    ],
-    "date": "2026-04-09T06:44:05.915292+00:00"
-  },
-  {
-    "title": "Krev na kolejích",
-    "url": "https://www.kosmas.cz/knihy/567415/krev-na-kolejich/",
-    "description": "Krev na kolejích - J.R. Ellis",
-    "authors": [
-      "J.R. Ellis"
-    ],
-    "date": "2026-04-09T06:44:04.915292+00:00"
-  },
-  {
-    "title": "Bílý most",
-    "url": "https://www.kosmas.cz/knihy/567419/bily-most/",
-    "description": "Bílý most - Marek Havlík",
-    "authors": [
-      "Marek Havlík"
-    ],
-    "date": "2026-04-09T06:44:03.915292+00:00"
-  },
-  {
-    "title": "Který bohatý člověk může být spasen?",
-    "url": "https://www.kosmas.cz/knihy/567326/ktery-bohaty-clovek-muze-byt-spasen/",
-    "description": "Který bohatý člověk může být spasen? - Klement Alexandrijský",
-    "authors": [
-      "Klement Alexandrijský"
-    ],
-    "date": "2026-04-09T06:44:02.915292+00:00"
-  },
-  {
-    "title": "Czech Grand Design 20!",
-    "url": "https://www.kosmas.cz/knihy/567340/czech-grand-design-20/",
-    "description": "Czech Grand Design 20!",
-    "authors": [],
-    "date": "2026-04-09T06:44:01.915292+00:00"
-  },
-  {
-    "title": "Nástěnný kalendář Alfons Mucha 2027",
-    "url": "https://www.kosmas.cz/knihy/567413/nastenny-kalendar-alfons-mucha-2027/",
-    "description": "Nástěnný kalendář Alfons Mucha 2027",
-    "authors": [],
-    "date": "2026-04-09T06:44:00.915292+00:00"
-  },
-  {
-    "title": "Josef Mištera: Ora et labora",
-    "url": "https://www.kosmas.cz/knihy/567417/josef-mistera-ora-et-labora/",
-    "description": "Josef Mištera: Ora et labora - Josef Mištěra",
-    "authors": [
-      "Josef Mištěra"
-    ],
-    "date": "2026-04-09T06:43:59.915292+00:00"
   }
 ]

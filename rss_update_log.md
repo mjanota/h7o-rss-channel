@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-23 06:51:09 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Skrytá říše
+2. Architekt hněvu
+3. Nemravné sliby
+4. Muž z Brna na Onom Světě
+5. Zlá babička
+6. Jak mluvit s dětmi o penězích
+7. Z Prahy do Jeruzaléma a zpět
+8. Život ve 280 znacích
+9. Temná řeka
+10. Ošetřovatelství v psychiatrii
+11. Čteme sami – Dinosauří vajíčko
+12. Algoritmus pro dva
+13. Čteme sami – genetická metoda - Dinosauří vajíčko
+14. Hranice bolesti
+15. Hvězdy Ligy mistrů
+16. Udatný netopýrek
+17. Kokoska a kniha zázračných příběhů
+18. Únik z knihovny pana Lemoncella
+19. Andělské vykládací karty
+20. Kouzelný kočičí tarot
+
+---
+
+## 🕐 2026-04-23 06:51:07 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Po boku Gándhího a Kinga
+
+---
+
 ## 🕐 2026-04-22 06:50:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -239,50 +286,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nechci se přizpůsobovat nové nevědomosti
-
----
-
-## 🕐 2026-04-16 06:50:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Mezi spodními proudy
-2. Šorci
-3. Víra a společnost v českých zemích pozdního středověku
-4. And Now, Back to You
-5. Atmosphere
-6. Ballad of Songbirds and Snakes (A Hunger Games Novel)
-7. Boyfriend
-8. Catching Fire /Deluxe/
-9. Conditions of Will
-10. Crucible,  Men of the Wilds 1
-11. Hunger Games Collection Deluxe  (4 book set)
-12. The Devil´s Star
-13. Do Not Disturb
-14. Door
-15. Face Off
-16. Faraway Inn
-17. Fearless
-
----
-
-## 🕐 2026-04-16 06:50:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Sedm svatých řádků
 
 ---
 

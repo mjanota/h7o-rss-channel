@@ -192,14 +192,6 @@
     "category": "recenze"
   },
   {
-    "title": "Obecní přízraky Sudet",
-    "url": "https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet",
-    "description": "O pohraničí říká, že ho mapuje, jako když řeka zachytává nánosy bahna, napadané listí či odpad. Básník a vodohospodář Michal Grac vydal debut „Obecní ampliony“ a s vodou souvisí i rozhovor nad jeho básní o zatopených Sudetech na dně přehrady Slezská Harta.",
-    "date": "2026-01-23T00:00:00",
-    "author": "Ivan Motýl",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -526,5 +518,13 @@
     "date": "2026-04-22T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Po boku Gándhího a Kinga",
+    "url": "https://www.h7o.cz/clanky/14499-po-boku-gandhiho-a-kinga",
+    "description": "Pete Hegseth nedávno bezděky oživil slavný projev Tarantinova Julese předtím, než zastřelí bezbranného muže. Ač rámován láskou, je to proslov plný agrese. Václav Sklenář ve svém sloupku připomíná jinou filmovou repliku, která jako by reagovala právě na toto násilí. Poslouchejme Alberta Rosenfielda!",
+    "date": "2026-04-23T00:00:00",
+    "author": "Václav Sklenář",
+    "category": "seriál"
   }
 ]

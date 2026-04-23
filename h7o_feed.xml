@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:51:07 +0000</lastBuildDate>
+    <item>
+      <title>Po boku Gándhího a Kinga</title>
+      <link>https://www.h7o.cz/clanky/14499-po-boku-gandhiho-a-kinga</link>
+      <description>Pete Hegseth nedávno bezděky oživil slavný projev Tarantinova Julese předtím, než zastřelí bezbranného muže. Ač rámován láskou, je to proslov plný agrese. Václav Sklenář ve svém sloupku připomíná jinou filmovou repliku, která jako by reagovala právě na toto násilí. Poslouchejme Alberta Rosenfielda!</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14499-po-boku-gandhiho-a-kinga</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři</title>
       <link>https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost</link>
@@ -464,13 +471,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Knihy Michaila Šiškina a Carla Masaly neposkytují útěšný zážitek. Šiškinova analýza ruské minulosti a přítomnosti a Masalou uvažovaná varianta budoucnosti se nezamýšleně doplňují a vytvářejí zcela neiluzorní dvojblok vůči iluzím o povaze ruské politické moci.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14427-proti-iluzim</guid>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obecní přízraky Sudet</title>
-      <link>https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet</link>
-      <description>O pohraničí říká, že ho mapuje, jako když řeka zachytává nánosy bahna, napadané listí či odpad. Básník a vodohospodář Michal Grac vydal debut „Obecní ampliony“ a s vodou souvisí i rozhovor nad jeho básní o zatopených Sudetech na dně přehrady Slezská Harta.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14426-obecni-prizraky-sudet</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
