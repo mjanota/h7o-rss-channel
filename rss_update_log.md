@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-24 06:52:03 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Yamal
+2. Kočka
+3. 10 bylinkových pohádek
+4. Pozorování ptáků
+5. Zálesák
+6. Jedno temné okno
+7. Vor v zakone
+8. Tajemno napříč stoletími
+9. Smrt je vrahům v patách / Když zákon nestačí
+10. Komplikace
+11. Rozkvetlá
+12. Vražedné peníze
+13. Ohňostroj mezi námi
+14. Týden v Nejistotě
+15. Hovořil se zvěří, ptáky a rybami
+16. Věř si
+17. Edvard Beneš: Paměti - kompletní vydání
+18. Nejsladší píseň
+19. Duch Pankráce
+
+---
+
+## 🕐 2026-04-24 06:52:03 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-23 06:51:09 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -239,53 +281,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-04-17 06:50:22 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Netopýří duše
-2. Světlo na Lavélu
-3. Neviditelný
-4. Hrdinské úvahy
-5. Pohřbena zaživa
-6. Případ milovníka starých knih
-7. Javari
-8. Roman Dragoun. Rockový apoštol
-9. Tajemství kavárny na pobřeží
-10. Nepál
-11. Už mi dávno není padesát
-12. Kruté světlo
-13. A jestli se nezabili…
-14. Zázračné houby
-15. Legenda o Mrňousovi
-16. Chytré kvízy - Logopedie
-17. Tři tygři: 10let
-18. Nedomazlenky z dívčí katolické školy
-19. Film a doba 1/2026
-20. Peníze pro páry
-
----
-
-## 🕐 2026-04-17 06:50:20 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nechci se přizpůsobovat nové nevědomosti
 
 ---
 
