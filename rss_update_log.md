@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-25 06:41:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Valkýry
+2. Líbánky v Římě
+3. Háčkované hračky – želva
+4. 300 sudoku pro mistry
+5. Nálepka nemocná holka
+6. Marathón
+7. To nejlepší se Spejblem a Hurvínkem
+8. Gachiakuta 5
+9. World of Warcraft – Dědictví stínů 2: Nexus
+10. Teenage Mutant Ninja Turtles 2: New York versus Želvy
+11. Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány
+12. Jujutsu Kaisen - Prokleté války 18: Horečka
+13. Vraždy v Dekagonu 5
+14. České pohádky - Boženy Němcové (česko-ukrajinské)
+15. Základy arabštiny a arabská četba se zaměřením na náboženství a kulturu
+16. Adresát Bohuslav Havránek
+17. Oncology
+18. Doporučený postup diagnostiky a léčby těžkého astmatu
+19. Polyvagální cvičení
+
+---
+
+## 🕐 2026-04-25 06:41:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Ztracený ráj se vrací do české kultury
+
+---
+
 ## 🕐 2026-04-24 06:52:03 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -234,47 +280,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-04-19 06:45:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-18 06:36:46 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Falešné burgundské
-2. Sám sebou
-3. Nikdy sami doma
-4. Netopýří duše
-5. Božská Kleopatra
-6. O ráji
-7. Mapy a vlajky
-8. Chata v Jezerní kotlině
-9. Jediný únor je opravdový Měsíc
-10. A Trick of Memory
-11. Anatomie Ateliéru
-12. Muž, který se bál žít
-13. Na startu
-14. Divoká hra
-15. Nina a tajemství vodopádu
-16. Art & Antiques 4/2026
-17. Najdi mě: Ve školce
-18. Petr a Lucie
-
----
-
-## 🕐 2026-04-18 06:36:45 UTC
 
 **Zdroj:** H7O - Časopis Host
 

@@ -1,5 +1,177 @@
 [
   {
+    "title": "Valkýry",
+    "url": "https://www.kosmas.cz/knihy/512610/valkyry/",
+    "description": "Valkýry - Paulo Coelho",
+    "authors": [
+      "Paulo Coelho"
+    ],
+    "date": "2026-04-25T06:41:05.432919+00:00"
+  },
+  {
+    "title": "Líbánky v Římě",
+    "url": "https://www.kosmas.cz/knihy/567408/libanky-v-rime/",
+    "description": "Líbánky v Římě - Irena Kellerová",
+    "authors": [
+      "Irena Kellerová"
+    ],
+    "date": "2026-04-25T06:41:04.432919+00:00"
+  },
+  {
+    "title": "Háčkované hračky – želva",
+    "url": "https://www.kosmas.cz/knihy/567792/hackovane-hracky-zelva/",
+    "description": "Háčkované hračky – želva - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-04-25T06:41:02.432919+00:00"
+  },
+  {
+    "title": "300 sudoku pro mistry",
+    "url": "https://www.kosmas.cz/knihy/567794/300-sudoku-pro-mistry/",
+    "description": "300 sudoku pro mistry",
+    "authors": [],
+    "date": "2026-04-25T06:41:01.432919+00:00"
+  },
+  {
+    "title": "Nálepka nemocná holka",
+    "url": "https://www.kosmas.cz/knihy/567811/nalepka-nemocna-holka/",
+    "description": "Nálepka nemocná holka - Iva Justychová, Tereza Moravcová",
+    "authors": [
+      "Iva Justychová",
+      "Tereza Moravcová"
+    ],
+    "date": "2026-04-25T06:41:00.432919+00:00"
+  },
+  {
+    "title": "Marathón",
+    "url": "https://www.kosmas.cz/knihy/567841/marathon/",
+    "description": "Marathón - Olympic",
+    "authors": [
+      "Olympic"
+    ],
+    "date": "2026-04-25T06:40:59.432919+00:00"
+  },
+  {
+    "title": "To nejlepší se Spejblem a Hurvínkem",
+    "url": "https://www.kosmas.cz/knihy/567842/to-nejlepsi-se-spejblem-a-hurvinkem/",
+    "description": "To nejlepší se Spejblem a Hurvínkem",
+    "authors": [],
+    "date": "2026-04-25T06:40:58.432919+00:00"
+  },
+  {
+    "title": "Gachiakuta 5",
+    "url": "https://www.kosmas.cz/knihy/567873/gachiakuta-5/",
+    "description": "Gachiakuta 5 - Kei Urana",
+    "authors": [
+      "Kei Urana"
+    ],
+    "date": "2026-04-25T06:40:57.432919+00:00"
+  },
+  {
+    "title": "World of Warcraft – Dědictví stínů 2: Nexus",
+    "url": "https://www.kosmas.cz/knihy/567875/world-of-warcraft-dedictvi-stinu-2-nexus/",
+    "description": "World of Warcraft – Dědictví stínů 2: Nexus - Richard A. Knaak",
+    "authors": [
+      "Richard A. Knaak"
+    ],
+    "date": "2026-04-25T06:40:56.432919+00:00"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles 2: New York versus Želvy",
+    "url": "https://www.kosmas.cz/knihy/567876/teenage-mutant-ninja-turtles-2-new-york-versus-zelvy/",
+    "description": "Teenage Mutant Ninja Turtles 2: New York versus Želvy - Jason Aaron",
+    "authors": [
+      "Jason Aaron"
+    ],
+    "date": "2026-04-25T06:40:55.432919+00:00"
+  },
+  {
+    "title": "Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány",
+    "url": "https://www.kosmas.cz/knihy/567880/zabijaci-demonu-ve-skole-1-pozdni-prichody-prisne-zakazany/",
+    "description": "Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány - Nacuki Hokami",
+    "authors": [
+      "Nacuki Hokami"
+    ],
+    "date": "2026-04-25T06:40:54.432919+00:00"
+  },
+  {
+    "title": "Jujutsu Kaisen - Prokleté války 18: Horečka",
+    "url": "https://www.kosmas.cz/knihy/567881/jujutsu-kaisen-proklete-valky-18-horecka/",
+    "description": "Jujutsu Kaisen - Prokleté války 18: Horečka - Gege Akutami",
+    "authors": [
+      "Gege Akutami"
+    ],
+    "date": "2026-04-25T06:40:53.432919+00:00"
+  },
+  {
+    "title": "Vraždy v Dekagonu 5",
+    "url": "https://www.kosmas.cz/knihy/567888/vrazdy-v-dekagonu-5/",
+    "description": "Vraždy v Dekagonu 5 - Jukito Ajacudži",
+    "authors": [
+      "Jukito Ajacudži"
+    ],
+    "date": "2026-04-25T06:40:52.432919+00:00"
+  },
+  {
+    "title": "České pohádky - Boženy Němcové (česko-ukrajinské)",
+    "url": "https://www.kosmas.cz/knihy/567973/ceske-pohadky-bozeny-nemcove-cesko-ukrajinske/",
+    "description": "České pohádky - Boženy Němcové (česko-ukrajinské) - Božena Němcová",
+    "authors": [
+      "Božena Němcová"
+    ],
+    "date": "2026-04-25T06:40:51.432919+00:00"
+  },
+  {
+    "title": "Základy arabštiny a arabská četba se zaměřením na náboženství a kulturu",
+    "url": "https://www.kosmas.cz/knihy/568051/zaklady-arabstiny-a-arabska-cetba-se-zamerenim-na-nabozenstvi-a-kulturu/",
+    "description": "Základy arabštiny a arabská četba se zaměřením na náboženství a kulturu - Mlada Mikulicová",
+    "authors": [
+      "Mlada Mikulicová"
+    ],
+    "date": "2026-04-25T06:40:50.432919+00:00"
+  },
+  {
+    "title": "Adresát Bohuslav Havránek",
+    "url": "https://www.kosmas.cz/knihy/568052/adresat-bohuslav-havranek/",
+    "description": "Adresát Bohuslav Havránek - Marie Havránková, Vladimír Petkevič",
+    "authors": [
+      "Marie Havránková",
+      "Vladimír Petkevič"
+    ],
+    "date": "2026-04-25T06:40:49.432919+00:00"
+  },
+  {
+    "title": "Oncology",
+    "url": "https://www.kosmas.cz/knihy/568053/oncology/",
+    "description": "Oncology - Renata Soumarová",
+    "authors": [
+      "Renata Soumarová"
+    ],
+    "date": "2026-04-25T06:40:48.432919+00:00"
+  },
+  {
+    "title": "Doporučený postup diagnostiky a léčby těžkého astmatu",
+    "url": "https://www.kosmas.cz/knihy/568139/doporuceny-postup-diagnostiky-a-lecby-tezkeho-astmatu/",
+    "description": "Doporučený postup diagnostiky a léčby těžkého astmatu - Irena Krčmová, Vratislav Sedlák, Milan Teřl, kol.",
+    "authors": [
+      "Irena Krčmová",
+      "Vratislav Sedlák",
+      "Milan Teřl",
+      "kol."
+    ],
+    "date": "2026-04-25T06:40:47.432919+00:00"
+  },
+  {
+    "title": "Polyvagální cvičení",
+    "url": "https://www.kosmas.cz/knihy/568162/polyvagalni-cviceni/",
+    "description": "Polyvagální cvičení - Deb Dana",
+    "authors": [
+      "Deb Dana"
+    ],
+    "date": "2026-04-25T06:40:46.432919+00:00"
+  },
+  {
     "title": "Yamal",
     "url": "https://www.kosmas.cz/knihy/567699/yamal/",
     "description": "Yamal - Dan Green, Dan Green, Simon Mugford",
@@ -1641,173 +1813,5 @@
       "Arthur C. Clarke"
     ],
     "date": "2026-04-12T06:42:54.802832+00:00"
-  },
-  {
-    "title": "Jsou i daleko horší matky než ty",
-    "url": "https://www.kosmas.cz/knihy/565645/jsou-i-daleko-horsi-matky-nez-ty/",
-    "description": "Jsou i daleko horší matky než ty - Glenn Boozan",
-    "authors": [
-      "Glenn Boozan"
-    ],
-    "date": "2026-04-12T06:42:53.802832+00:00"
-  },
-  {
-    "title": "Kateřinina válka",
-    "url": "https://www.kosmas.cz/knihy/565646/katerinina-valka/",
-    "description": "Kateřinina válka - Julia Billetová",
-    "authors": [
-      "Julia Billetová"
-    ],
-    "date": "2026-04-12T06:42:52.802832+00:00"
-  },
-  {
-    "title": "Minecraft - Výzvy k přežití - Hrdinská edice",
-    "url": "https://www.kosmas.cz/knihy/565716/minecraft-vyzvy-k-preziti-hrdinska-edice/",
-    "description": "Minecraft - Výzvy k přežití - Hrdinská edice - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-04-12T06:42:51.802832+00:00"
-  },
-  {
-    "title": "Na množství nehleďte: Společně k vítězství",
-    "url": "https://www.kosmas.cz/knihy/565720/na-mnozstvi-nehledte-spolecne-k-vitezstvi/",
-    "description": "Na množství nehleďte: Společně k vítězství - Samuel Toch",
-    "authors": [
-      "Samuel Toch"
-    ],
-    "date": "2026-04-12T06:42:50.802832+00:00"
-  },
-  {
-    "title": "Nudíš se, Minimoni?",
-    "url": "https://www.kosmas.cz/knihy/565722/nudis-se-minimoni/",
-    "description": "Nudíš se, Minimoni? - Rocio Bonilla",
-    "authors": [
-      "Rocio Bonilla"
-    ],
-    "date": "2026-04-12T06:42:49.802832+00:00"
-  },
-  {
-    "title": "Po roce 1177 př. Kr.",
-    "url": "https://www.kosmas.cz/knihy/565728/po-roce-1177-pr.-kr/",
-    "description": "Po roce 1177 př. Kr. - Eric H. Cline",
-    "authors": [
-      "Eric H. Cline"
-    ],
-    "date": "2026-04-12T06:42:48.802832+00:00"
-  },
-  {
-    "title": "Říkali mi Leni",
-    "url": "https://www.kosmas.cz/knihy/565731/rikali-mi-leni/",
-    "description": "Říkali mi Leni - Zdeňka Bezděková",
-    "authors": [
-      "Zdeňka Bezděková"
-    ],
-    "date": "2026-04-12T06:42:47.802832+00:00"
-  },
-  {
-    "title": "Hrdinou svého života jsi ty",
-    "url": "https://www.kosmas.cz/knihy/563791/hrdinou-sveho-zivota-jsi-ty/",
-    "description": "Hrdinou svého života jsi ty - Johana Růžková",
-    "authors": [
-      "Johana Růžková"
-    ],
-    "date": "2026-04-12T06:42:46.802832+00:00"
-  },
-  {
-    "title": "Naháčci",
-    "url": "https://www.kosmas.cz/knihy/563315/nahacci/",
-    "description": "Naháčci - Dorota Ambrožová",
-    "authors": [
-      "Dorota Ambrožová"
-    ],
-    "date": "2026-04-12T06:42:45.802832+00:00"
-  },
-  {
-    "title": "Mostní království - Kniha třetí: Nehodná následnice",
-    "url": "https://www.kosmas.cz/knihy/562059/mostni-kralovstvi-kniha-treti-nehodna-naslednice/",
-    "description": "Mostní království - Kniha třetí: Nehodná následnice - Danielle L. Jensen",
-    "authors": [
-      "Danielle L. Jensen"
-    ],
-    "date": "2026-04-12T06:42:44.802832+00:00"
-  },
-  {
-    "title": "Na konci světa",
-    "url": "https://www.kosmas.cz/knihy/553642/na-konci-sveta/",
-    "description": "Na konci světa - Rudolf Havlík",
-    "authors": [
-      "Rudolf Havlík"
-    ],
-    "date": "2026-04-12T06:42:43.802832+00:00"
-  },
-  {
-    "title": "Vzpomínky na Waterloo",
-    "url": "https://www.kosmas.cz/knihy/567135/vzpominky-na-waterloo/",
-    "description": "Vzpomínky na Waterloo - Jiří Kovařík",
-    "authors": [
-      "Jiří Kovařík"
-    ],
-    "date": "2026-04-12T06:42:39.802832+00:00"
-  },
-  {
-    "title": "Kůstka, dívka z Prahy",
-    "url": "https://www.kosmas.cz/knihy/567210/kustka-divka-z-prahy/",
-    "description": "Kůstka, dívka z Prahy - Arnošt Lustig",
-    "authors": [
-      "Arnošt Lustig"
-    ],
-    "date": "2026-04-12T06:42:38.802832+00:00"
-  },
-  {
-    "title": "Dívka v bouři",
-    "url": "https://www.kosmas.cz/knihy/567260/divka-v-bouri/",
-    "description": "Dívka v bouři - Sheila de Liz",
-    "authors": [
-      "Sheila de Liz"
-    ],
-    "date": "2026-04-12T06:42:37.802832+00:00"
-  },
-  {
-    "title": "Zákon o soudních poplatcích Komentář",
-    "url": "https://www.kosmas.cz/knihy/567734/zakon-o-soudnich-poplatcich-komentar/",
-    "description": "Zákon o soudních poplatcích Komentář - Jiří Večeřa",
-    "authors": [
-      "Jiří Večeřa"
-    ],
-    "date": "2026-04-11T06:32:26.834477+00:00"
-  },
-  {
-    "title": "Host 2026/4",
-    "url": "https://www.kosmas.cz/knihy/567742/host-2026-4/",
-    "description": "Host 2026/4",
-    "authors": [],
-    "date": "2026-04-11T06:32:25.834477+00:00"
-  },
-  {
-    "title": "Česká literatura 1/2026",
-    "url": "https://www.kosmas.cz/knihy/567743/ceska-literatura-1-2026/",
-    "description": "Česká literatura 1/2026",
-    "authors": [],
-    "date": "2026-04-11T06:32:24.834477+00:00"
-  },
-  {
-    "title": "Hlavu vzhůru!",
-    "url": "https://www.kosmas.cz/knihy/565634/hlavu-vzhuru/",
-    "description": "Hlavu vzhůru! - Kateřina Krůtová-Novotná, Jan Mühlfeit",
-    "authors": [
-      "Kateřina Krůtová-Novotná",
-      "Jan Mühlfeit"
-    ],
-    "date": "2026-04-11T06:32:23.834477+00:00"
-  },
-  {
-    "title": "Muž z Brna na Onom Světě",
-    "url": "https://www.kosmas.cz/knihy/567745/muz-z-brna-na-onom-svete/",
-    "description": "Muž z Brna na Onom Světě - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-11T06:32:22.834477+00:00"
   }
 ]

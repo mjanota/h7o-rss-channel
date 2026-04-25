@@ -7,7 +7,140 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 06:41:05 +0000</lastBuildDate>
+    <item>
+      <title>Valkýry</title>
+      <link>https://www.kosmas.cz/knihy/512610/valkyry/</link>
+      <description>Valkýry - Paulo Coelho</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/512610/valkyry/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Líbánky v Římě</title>
+      <link>https://www.kosmas.cz/knihy/567408/libanky-v-rime/</link>
+      <description>Líbánky v Římě - Irena Kellerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567408/libanky-v-rime/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Háčkované hračky – želva</title>
+      <link>https://www.kosmas.cz/knihy/567792/hackovane-hracky-zelva/</link>
+      <description>Háčkované hračky – želva - kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567792/hackovane-hracky-zelva/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>300 sudoku pro mistry</title>
+      <link>https://www.kosmas.cz/knihy/567794/300-sudoku-pro-mistry/</link>
+      <description>300 sudoku pro mistry</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567794/300-sudoku-pro-mistry/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:41:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nálepka nemocná holka</title>
+      <link>https://www.kosmas.cz/knihy/567811/nalepka-nemocna-holka/</link>
+      <description>Nálepka nemocná holka - Iva Justychová, Tereza Moravcová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567811/nalepka-nemocna-holka/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marathón</title>
+      <link>https://www.kosmas.cz/knihy/567841/marathon/</link>
+      <description>Marathón - Olympic</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567841/marathon/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>To nejlepší se Spejblem a Hurvínkem</title>
+      <link>https://www.kosmas.cz/knihy/567842/to-nejlepsi-se-spejblem-a-hurvinkem/</link>
+      <description>To nejlepší se Spejblem a Hurvínkem</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567842/to-nejlepsi-se-spejblem-a-hurvinkem/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gachiakuta 5</title>
+      <link>https://www.kosmas.cz/knihy/567873/gachiakuta-5/</link>
+      <description>Gachiakuta 5 - Kei Urana</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567873/gachiakuta-5/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>World of Warcraft – Dědictví stínů 2: Nexus</title>
+      <link>https://www.kosmas.cz/knihy/567875/world-of-warcraft-dedictvi-stinu-2-nexus/</link>
+      <description>World of Warcraft – Dědictví stínů 2: Nexus - Richard A. Knaak</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567875/world-of-warcraft-dedictvi-stinu-2-nexus/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teenage Mutant Ninja Turtles 2: New York versus Želvy</title>
+      <link>https://www.kosmas.cz/knihy/567876/teenage-mutant-ninja-turtles-2-new-york-versus-zelvy/</link>
+      <description>Teenage Mutant Ninja Turtles 2: New York versus Želvy - Jason Aaron</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567876/teenage-mutant-ninja-turtles-2-new-york-versus-zelvy/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány</title>
+      <link>https://www.kosmas.cz/knihy/567880/zabijaci-demonu-ve-skole-1-pozdni-prichody-prisne-zakazany/</link>
+      <description>Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány - Nacuki Hokami</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567880/zabijaci-demonu-ve-skole-1-pozdni-prichody-prisne-zakazany/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jujutsu Kaisen - Prokleté války 18: Horečka</title>
+      <link>https://www.kosmas.cz/knihy/567881/jujutsu-kaisen-proklete-valky-18-horecka/</link>
+      <description>Jujutsu Kaisen - Prokleté války 18: Horečka - Gege Akutami</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567881/jujutsu-kaisen-proklete-valky-18-horecka/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vraždy v Dekagonu 5</title>
+      <link>https://www.kosmas.cz/knihy/567888/vrazdy-v-dekagonu-5/</link>
+      <description>Vraždy v Dekagonu 5 - Jukito Ajacudži</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567888/vrazdy-v-dekagonu-5/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>České pohádky - Boženy Němcové (česko-ukrajinské)</title>
+      <link>https://www.kosmas.cz/knihy/567973/ceske-pohadky-bozeny-nemcove-cesko-ukrajinske/</link>
+      <description>České pohádky - Boženy Němcové (česko-ukrajinské) - Božena Němcová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567973/ceske-pohadky-bozeny-nemcove-cesko-ukrajinske/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Základy arabštiny a arabská četba se zaměřením na náboženství a kulturu</title>
+      <link>https://www.kosmas.cz/knihy/568051/zaklady-arabstiny-a-arabska-cetba-se-zamerenim-na-nabozenstvi-a-kulturu/</link>
+      <description>Základy arabštiny a arabská četba se zaměřením na náboženství a kulturu - Mlada Mikulicová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568051/zaklady-arabstiny-a-arabska-cetba-se-zamerenim-na-nabozenstvi-a-kulturu/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adresát Bohuslav Havránek</title>
+      <link>https://www.kosmas.cz/knihy/568052/adresat-bohuslav-havranek/</link>
+      <description>Adresát Bohuslav Havránek - Marie Havránková, Vladimír Petkevič</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568052/adresat-bohuslav-havranek/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oncology</title>
+      <link>https://www.kosmas.cz/knihy/568053/oncology/</link>
+      <description>Oncology - Renata Soumarová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568053/oncology/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doporučený postup diagnostiky a léčby těžkého astmatu</title>
+      <link>https://www.kosmas.cz/knihy/568139/doporuceny-postup-diagnostiky-a-lecby-tezkeho-astmatu/</link>
+      <description>Doporučený postup diagnostiky a léčby těžkého astmatu - Irena Krčmová, Vratislav Sedlák, Milan Teřl, kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568139/doporuceny-postup-diagnostiky-a-lecby-tezkeho-astmatu/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polyvagální cvičení</title>
+      <link>https://www.kosmas.cz/knihy/568162/polyvagalni-cviceni/</link>
+      <description>Polyvagální cvičení - Deb Dana</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568162/polyvagalni-cviceni/</guid>
+      <pubDate>Sat, 25 Apr 2026 06:40:46 +0000</pubDate>
+    </item>
     <item>
       <title>Yamal</title>
       <link>https://www.kosmas.cz/knihy/567699/yamal/</link>
@@ -574,139 +707,6 @@
       <description>Králův rychtář - Světlana Hrabánková</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/566192/kraluv-rychtar/</guid>
       <pubDate>Sun, 19 Apr 2026 06:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Můj stín mě slyší</title>
-      <link>https://www.kosmas.cz/knihy/566316/muj-stin-me-slysi/</link>
-      <description>Můj stín mě slyší - Kristýna Koryťáková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566316/muj-stin-me-slysi/</guid>
-      <pubDate>Sun, 19 Apr 2026 06:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hokejové bitvy - Nová holka</title>
-      <link>https://www.kosmas.cz/knihy/566343/hokejove-bitvy-nova-holka/</link>
-      <description>Hokejové bitvy - Nová holka - Jackson Ben, Lawrenceová Sam</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566343/hokejove-bitvy-nova-holka/</guid>
-      <pubDate>Sun, 19 Apr 2026 06:44:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeden záhon stačí</title>
-      <link>https://www.kosmas.cz/knihy/566410/jeden-zahon-staci/</link>
-      <description>Jeden záhon stačí - Richards Huw</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566410/jeden-zahon-staci/</guid>
-      <pubDate>Sun, 19 Apr 2026 06:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Falešné burgundské</title>
-      <link>https://www.kosmas.cz/knihy/567796/falesne-burgundske/</link>
-      <description>Falešné burgundské - Laurent Ponsot</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567796/falesne-burgundske/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sám sebou</title>
-      <link>https://www.kosmas.cz/knihy/567799/sam-sebou/</link>
-      <description>Sám sebou - Anil Seth</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567799/sam-sebou/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nikdy sami doma</title>
-      <link>https://www.kosmas.cz/knihy/567800/nikdy-sami-doma/</link>
-      <description>Nikdy sami doma - Rob Dunn</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567800/nikdy-sami-doma/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Netopýří duše</title>
-      <link>https://www.kosmas.cz/knihy/565484/netopyri-duse/</link>
-      <description>Netopýří duše - Alex Walló</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565484/netopyri-duse/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Božská Kleopatra</title>
-      <link>https://www.kosmas.cz/knihy/567838/bozska-kleopatra/</link>
-      <description>Božská Kleopatra - Valery Esperian</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567838/bozska-kleopatra/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>O ráji</title>
-      <link>https://www.kosmas.cz/knihy/567949/o-raji/</link>
-      <description>O ráji - Svatý Ambrož</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567949/o-raji/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mapy a vlajky</title>
-      <link>https://www.kosmas.cz/knihy/567961/mapy-a-vlajky/</link>
-      <description>Mapy a vlajky - Joe Fullmann</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567961/mapy-a-vlajky/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chata v Jezerní kotlině</title>
-      <link>https://www.kosmas.cz/knihy/567963/chata-v-jezerni-kotline/</link>
-      <description>Chata v Jezerní kotlině - Jaroslav Foglar</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567963/chata-v-jezerni-kotline/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jediný únor je opravdový Měsíc</title>
-      <link>https://www.kosmas.cz/knihy/567988/jediny-unor-je-opravdovy-mesic/</link>
-      <description>Jediný únor je opravdový Měsíc - Elena Pecenová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567988/jediny-unor-je-opravdovy-mesic/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Trick of Memory</title>
-      <link>https://www.kosmas.cz/knihy/567133/a-trick-of-memory/</link>
-      <description>A Trick of Memory - Martin Barre</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567133/a-trick-of-memory/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatomie Ateliéru</title>
-      <link>https://www.kosmas.cz/knihy/567224/anatomie-atelieru/</link>
-      <description>Anatomie Ateliéru - William Kentridge</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567224/anatomie-atelieru/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muž, který se bál žít</title>
-      <link>https://www.kosmas.cz/knihy/567228/muz-ktery-se-bal-zit/</link>
-      <description>Muž, který se bál žít - Miguel Ángel Montero</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567228/muz-ktery-se-bal-zit/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Na startu</title>
-      <link>https://www.kosmas.cz/knihy/567231/na-startu/</link>
-      <description>Na startu - Jenni Fletcher</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567231/na-startu/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Divoká hra</title>
-      <link>https://www.kosmas.cz/knihy/567505/divoka-hra/</link>
-      <description>Divoká hra - Julie Caplinová, Cassie Connor</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567505/divoka-hra/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nina a tajemství vodopádu</title>
-      <link>https://www.kosmas.cz/knihy/567509/nina-a-tajemstvi-vodopadu/</link>
-      <description>Nina a tajemství vodopádu - Zuzana Barilová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567509/nina-a-tajemstvi-vodopadu/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Art &amp; Antiques 4/2026</title>
-      <link>https://www.kosmas.cz/knihy/563173/art-antiques-4-2026/</link>
-      <description>Art &amp; Antiques 4/2026</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563173/art-antiques-4-2026/</guid>
-      <pubDate>Sat, 18 Apr 2026 06:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
