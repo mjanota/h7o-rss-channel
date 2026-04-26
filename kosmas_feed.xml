@@ -7,7 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 25 Apr 2026 06:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 06:49:27 +0000</lastBuildDate>
+    <item>
+      <title>Sladký příběh</title>
+      <link>https://www.kosmas.cz/knihy/568190/sladky-pribeh/</link>
+      <description>Sladký příběh - Carlton Mellick III</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568190/sladky-pribeh/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sběratelství: status</title>
+      <link>https://www.kosmas.cz/knihy/568200/sberatelstvi-status/</link>
+      <description>Sběratelství: status - Barbora Hájková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568200/sberatelstvi-status/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krvestín</title>
+      <link>https://www.kosmas.cz/knihy/568328/krvestin/</link>
+      <description>Krvestín - Jana Karhanová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568328/krvestin/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pouto přísahy</title>
+      <link>https://www.kosmas.cz/knihy/566156/pouto-prisahy/</link>
+      <description>Pouto přísahy - Tracy Deonn</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566156/pouto-prisahy/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pozemské rozkoše</title>
+      <link>https://www.kosmas.cz/knihy/566154/pozemske-rozkose/</link>
+      <description>Pozemské rozkoše - Goldy Moldavsky</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566154/pozemske-rozkose/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nesmrtelné následky</title>
+      <link>https://www.kosmas.cz/knihy/568333/nesmrtelne-nasledky/</link>
+      <description>Nesmrtelné následky - I. V. Marie</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568333/nesmrtelne-nasledky/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vděk</title>
+      <link>https://www.kosmas.cz/knihy/568334/vdek/</link>
+      <description>Vděk - Tracy Wolffová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568334/vdek/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ela v zemi medvědů</title>
+      <link>https://www.kosmas.cz/knihy/568335/ela-v-zemi-medvedu/</link>
+      <description>Ela v zemi medvědů - Michaela Fišarová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568335/ela-v-zemi-medvedu/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mezi nebem a zemí</title>
+      <link>https://www.kosmas.cz/knihy/568336/mezi-nebem-a-zemi/</link>
+      <description>Mezi nebem a zemí - Mariana Zapata</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568336/mezi-nebem-a-zemi/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lesní víla Modlinka</title>
+      <link>https://www.kosmas.cz/knihy/568343/lesni-vila-modlinka/</link>
+      <description>Lesní víla Modlinka - Dominika Mecová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568343/lesni-vila-modlinka/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aréna!</title>
+      <link>https://www.kosmas.cz/knihy/568348/arena/</link>
+      <description>Aréna! - Miroslav Beinhauer, Marek Dohnal, Tomáš Šiřina</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568348/arena/</guid>
+      <pubDate>Sun, 26 Apr 2026 06:49:08 +0000</pubDate>
+    </item>
     <item>
       <title>Valkýry</title>
       <link>https://www.kosmas.cz/knihy/512610/valkyry/</link>
@@ -630,83 +707,6 @@
       <description>Dandadan 7 - Tacu Jukinobu</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567869/dandadan-7/</guid>
       <pubDate>Tue, 21 Apr 2026 06:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simpsonovi 4/2026</title>
-      <link>https://www.kosmas.cz/knihy/567870/simpsonovi-4-2026/</link>
-      <description>Simpsonovi 4/2026 - Matt Groening</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567870/simpsonovi-4-2026/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naruto 71: Miluju vás</title>
-      <link>https://www.kosmas.cz/knihy/567871/naruto-71-miluju-vas/</link>
-      <description>Naruto 71: Miluju vás - Masaši Kišimoto</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567871/naruto-71-miluju-vas/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čarodějova nevěsta 20</title>
-      <link>https://www.kosmas.cz/knihy/567872/carodejova-nevesta-20/</link>
-      <description>Čarodějova nevěsta 20 - Kore Jamazaki</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567872/carodejova-nevesta-20/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Život faráře z Arsu - Svatý Jan Maria Vianney</title>
-      <link>https://www.kosmas.cz/knihy/568022/zivot-farare-z-arsu-svaty-jan-maria-vianney/</link>
-      <description>Život faráře z Arsu - Svatý Jan Maria Vianney - Marc Joulin</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568022/zivot-farare-z-arsu-svaty-jan-maria-vianney/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příběhy z Bible</title>
-      <link>https://www.kosmas.cz/knihy/568023/pribehy-z-bible/</link>
-      <description>Příběhy z Bible - Thea Brink</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568023/pribehy-z-bible/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anglicko-český česko-anglický šikovný slovník</title>
-      <link>https://www.kosmas.cz/knihy/568024/anglicko-cesky-cesko-anglicky-sikovny-slovnik/</link>
-      <description>Anglicko-český česko-anglický šikovný slovník - kolektiv autorů</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568024/anglicko-cesky-cesko-anglicky-sikovny-slovnik/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Německo-český, česko-německý kapesní slovník</title>
-      <link>https://www.kosmas.cz/knihy/568025/nemecko-cesky-cesko-nemecky-kapesni-slovnik/</link>
-      <description>Německo-český, česko-německý kapesní slovník - kolektiv autorů</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568025/nemecko-cesky-cesko-nemecky-kapesni-slovnik/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zaříkávání smrti</title>
-      <link>https://www.kosmas.cz/knihy/567733/zarikavani-smrti/</link>
-      <description>Zaříkávání smrti - Hana Fousková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567733/zarikavani-smrti/</guid>
-      <pubDate>Mon, 20 Apr 2026 06:59:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Princezna - 5minutové pohádky</title>
-      <link>https://www.kosmas.cz/knihy/565886/princezna-5minutove-pohadky/</link>
-      <description>Princezna - 5minutové pohádky - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565886/princezna-5minutove-pohadky/</guid>
-      <pubDate>Mon, 20 Apr 2026 06:59:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Temné zapomnění</title>
-      <link>https://www.kosmas.cz/knihy/566163/temne-zapomneni/</link>
-      <description>Temné zapomnění - Kristen Ciccarelli</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566163/temne-zapomneni/</guid>
-      <pubDate>Sun, 19 Apr 2026 06:45:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Králův rychtář</title>
-      <link>https://www.kosmas.cz/knihy/566192/kraluv-rychtar/</link>
-      <description>Králův rychtář - Světlana Hrabánková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566192/kraluv-rychtar/</guid>
-      <pubDate>Sun, 19 Apr 2026 06:45:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

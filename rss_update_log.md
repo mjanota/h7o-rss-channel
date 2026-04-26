@@ -5,6 +5,40 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-26 06:49:27 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 11
+
+**Tituly nových položek:**
+
+1. Sladký příběh
+2. Sběratelství: status
+3. Krvestín
+4. Pouto přísahy
+5. Pozemské rozkoše
+6. Nesmrtelné následky
+7. Vděk
+8. Ela v zemi medvědů
+9. Mezi nebem a zemí
+10. Lesní víla Modlinka
+11. Aréna!
+
+---
+
+## 🕐 2026-04-26 06:49:26 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-25 06:41:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -258,34 +292,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Moucha ztělesňuje božskou přítomnost už tím, jak jí pohrdáme
-
----
-
-## 🕐 2026-04-19 06:45:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Temné zapomnění
-2. Králův rychtář
-3. Můj stín mě slyší
-4. Hokejové bitvy - Nová holka
-5. Jeden záhon stačí
-
----
-
-## 🕐 2026-04-19 06:45:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
