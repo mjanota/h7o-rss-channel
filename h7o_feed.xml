@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:08:28 +0000</lastBuildDate>
+    <item>
+      <title>Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit</title>
+      <link>https://www.h7o.cz/clanky/14501-spisovatel-ktery-se-boji-ze-nekoho-urazi-to-rovnou-muze-zabalit</link>
+      <description>Michal Sýkora je rodákem z Olomouce a v jeho textech je to cítit. Je pedagogem, literárním teoretikem a autorem detektivek. Jeho poslední dílo „Žádné dobré zprávy“ bylo v kategorii pro nejlepší  detektivku nominované na cenu Magnesia Litera.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14501-spisovatel-ktery-se-boji-ze-nekoho-urazi-to-rovnou-muze-zabalit</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ztracený ráj se vrací do české kultury</title>
       <link>https://www.h7o.cz/clanky/14500-ztraceny-raj-se-vraci-do-ceske-kultury</link>
@@ -457,13 +464,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>Vláda připravuje zrušení koncesionářských poplatků. Zároveň však nepředstavila nový model financování médií veřejné služby.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14431-jeste-se-pece</guid>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Otcovská požehnání pro mladé básnictvo</title>
-      <link>https://www.h7o.cz/clanky/14430-otcovska-pozehnani-pro-mlade-basnictvo</link>
-      <description>„Sebevědomý debut“, „dospělý debut“, „tak mladý a tak vyzrálý“. Formulace a perspektiva, jimiž etablovaní básníci, básnířky i nakladatelství hodnotí v reflexích i anotacích debuty mladého básnictva. Jako by bez požehnání etablovaných nemohl mít debutující hlas relevanci sám o sobě.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14430-otcovska-pozehnani-pro-mlade-basnictvo</guid>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

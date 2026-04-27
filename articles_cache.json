@@ -168,14 +168,6 @@
     "category": "komentář"
   },
   {
-    "title": "Otcovská požehnání pro mladé básnictvo",
-    "url": "https://www.h7o.cz/clanky/14430-otcovska-pozehnani-pro-mlade-basnictvo",
-    "description": "„Sebevědomý debut“, „dospělý debut“, „tak mladý a tak vyzrálý“. Formulace a perspektiva, jimiž etablovaní básníci, básnířky i nakladatelství hodnotí v reflexích i anotacích debuty mladého básnictva. Jako by bez požehnání etablovaných nemohl mít debutující hlas relevanci sám o sobě.",
-    "date": "2026-01-27T00:00:00",
-    "author": "Dominik Bárt",
-    "category": "komentář"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -518,5 +510,13 @@
     "date": "2026-04-24T00:00:00",
     "author": "Daniel Soukup",
     "category": "recenze"
+  },
+  {
+    "title": "Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit",
+    "url": "https://www.h7o.cz/clanky/14501-spisovatel-ktery-se-boji-ze-nekoho-urazi-to-rovnou-muze-zabalit",
+    "description": "Michal Sýkora je rodákem z Olomouce a v jeho textech je to cítit. Je pedagogem, literárním teoretikem a autorem detektivek. Jeho poslední dílo „Žádné dobré zprávy“ bylo v kategorii pro nejlepší  detektivku nominované na cenu Magnesia Litera.",
+    "date": "2026-04-27T00:00:00",
+    "author": "Zuzana Babinčáková",
+    "category": "rozhovor"
   }
 ]

@@ -7,7 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:08:28 +0000</lastBuildDate>
+    <item>
+      <title>Vyděšená k smrti</title>
+      <link>https://www.kosmas.cz/knihy/568288/vydesena-k-smrti/</link>
+      <description>Vyděšená k smrti - Rachel Amphlett</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568288/vydesena-k-smrti/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kouzla náhody</title>
+      <link>https://www.kosmas.cz/knihy/567853/kouzla-nahody/</link>
+      <description>Kouzla náhody - Lenka Flášarová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567853/kouzla-nahody/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atopický ekzém</title>
+      <link>https://www.kosmas.cz/knihy/568311/atopicky-ekzem/</link>
+      <description>Atopický ekzém - Věra Pekárková Zíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568311/atopicky-ekzem/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juditino tajemství</title>
+      <link>https://www.kosmas.cz/knihy/568312/juditino-tajemstvi/</link>
+      <description>Juditino tajemství - Veronika Moreira</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568312/juditino-tajemstvi/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Golem 02/2026</title>
+      <link>https://www.kosmas.cz/knihy/568313/golem-02-2026/</link>
+      <description>Golem 02/2026</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568313/golem-02-2026/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Války s odpadem</title>
+      <link>https://www.kosmas.cz/knihy/565769/valky-s-odpadem/</link>
+      <description>Války s odpadem - Alexander Clapp</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565769/valky-s-odpadem/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Věda o pomstě</title>
+      <link>https://www.kosmas.cz/knihy/568316/veda-o-pomste/</link>
+      <description>Věda o pomstě - James Kimmel jr.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568316/veda-o-pomste/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tam, kde štěkají kočky</title>
+      <link>https://www.kosmas.cz/knihy/568318/tam-kde-stekaji-kocky/</link>
+      <description>Tam, kde štěkají kočky - Stanislav Beran</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568318/tam-kde-stekaji-kocky/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Republika zlodějů</title>
+      <link>https://www.kosmas.cz/knihy/568324/republika-zlodeju/</link>
+      <description>Republika zlodějů - Scott Lynch</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568324/republika-zlodeju/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taste - Chuť mého života</title>
+      <link>https://www.kosmas.cz/knihy/567235/taste-chut-meho-zivota/</link>
+      <description>Taste - Chuť mého života - Stanley Tucci</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567235/taste-chut-meho-zivota/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevěřím v astrologii</title>
+      <link>https://www.kosmas.cz/knihy/568326/neverim-v-astrologii/</link>
+      <description>Nevěřím v astrologii - Debra Silverman</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568326/neverim-v-astrologii/</guid>
+      <pubDate>Mon, 27 Apr 2026 07:08:09 +0000</pubDate>
+    </item>
     <item>
       <title>Sladký příběh</title>
       <link>https://www.kosmas.cz/knihy/568190/sladky-pribeh/</link>
@@ -630,83 +707,6 @@
       <description>Abe Sapien 8: Pusté pobřeží - Mike Mignola, Allie Scott</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567950/abe-sapien-8-puste-pobrezi/</guid>
       <pubDate>Tue, 21 Apr 2026 06:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abe Sapien 9: Ztracené životy a další příběhy</title>
-      <link>https://www.kosmas.cz/knihy/567951/abe-sapien-9-ztracene-zivoty-a-dalsi-pribehy/</link>
-      <description>Abe Sapien 9: Ztracené životy a další příběhy - Mike Mignola, Allie Scott</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567951/abe-sapien-9-ztracene-zivoty-a-dalsi-pribehy/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hellboy v pekle 2: Karta smrti</title>
-      <link>https://www.kosmas.cz/knihy/567952/hellboy-v-pekle-2-karta-smrti/</link>
-      <description>Hellboy v pekle 2: Karta smrti - Mike Mignola</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567952/hellboy-v-pekle-2-karta-smrti/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ú.P.V.O. Peklo na zemi 15: V hodině nejtěžší</title>
-      <link>https://www.kosmas.cz/knihy/567953/u.p.v.o.-peklo-na-zemi-15-v-hodine-nejtezsi/</link>
-      <description>Ú.P.V.O. Peklo na zemi 15: V hodině nejtěžší - Mike Mignola, John Arcudi</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567953/u.p.v.o.-peklo-na-zemi-15-v-hodine-nejtezsi/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>NĚŽNÁ NAHOTA PRAVDY aneb hrubé jemnosti AVE ABURH</title>
-      <link>https://www.kosmas.cz/knihy/567741/nezna-nahota-pravdy-aneb-hrube-jemnosti-ave-aburh/</link>
-      <description>NĚŽNÁ NAHOTA PRAVDY aneb hrubé jemnosti AVE ABURH - Eva Hrubá</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567741/nezna-nahota-pravdy-aneb-hrube-jemnosti-ave-aburh/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zemřít v Berlíně</title>
-      <link>https://www.kosmas.cz/knihy/567815/zemrit-v-berline/</link>
-      <description>Zemřít v Berlíně - Jean Mabire</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567815/zemrit-v-berline/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mor</title>
-      <link>https://www.kosmas.cz/knihy/567817/mor/</link>
-      <description>Mor - House of Cards, Michal Nanoru</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567817/mor/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Okouzlující vévodkyně</title>
-      <link>https://www.kosmas.cz/knihy/567840/okouzlujici-vevodkyne/</link>
-      <description>Okouzlující vévodkyně - Eloisa James</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567840/okouzlujici-vevodkyne/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piráti z Karibiku: Útěk z ostrova</title>
-      <link>https://www.kosmas.cz/knihy/567866/pirati-z-karibiku-utek-z-ostrova/</link>
-      <description>Piráti z Karibiku: Útěk z ostrova - Chris Schweizer</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567866/pirati-z-karibiku-utek-z-ostrova/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Immortal Hulk 9: Nejslabší ze všech</title>
-      <link>https://www.kosmas.cz/knihy/567867/immortal-hulk-9-nejslabsi-ze-vsech/</link>
-      <description>Immortal Hulk 9: Nejslabší ze všech - Al Ewing</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567867/immortal-hulk-9-nejslabsi-ze-vsech/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Predátor 1: Den lovce</title>
-      <link>https://www.kosmas.cz/knihy/567868/predator-1-den-lovce/</link>
-      <description>Predátor 1: Den lovce - Ed Brisson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567868/predator-1-den-lovce/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dandadan 7</title>
-      <link>https://www.kosmas.cz/knihy/567869/dandadan-7/</link>
-      <description>Dandadan 7 - Tacu Jukinobu</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567869/dandadan-7/</guid>
-      <pubDate>Tue, 21 Apr 2026 06:50:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

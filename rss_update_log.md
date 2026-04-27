@@ -5,6 +5,44 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-27 07:08:28 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 11
+
+**Tituly nových položek:**
+
+1. Vyděšená k smrti
+2. Kouzla náhody
+3. Atopický ekzém
+4. Juditino tajemství
+5. Golem 02/2026
+6. Války s odpadem
+7. Věda o pomstě
+8. Tam, kde štěkají kočky
+9. Republika zlodějů
+10. Taste - Chuť mého života
+11. Nevěřím v astrologii
+
+---
+
+## 🕐 2026-04-27 07:08:28 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit
+
+---
+
 ## 🕐 2026-04-26 06:49:27 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -263,35 +301,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Diamant v kupce sena
-
----
-
-## 🕐 2026-04-20 06:59:47 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Zaříkávání smrti
-2. Princezna - 5minutové pohádky
-
----
-
-## 🕐 2026-04-20 06:59:46 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Moucha ztělesňuje božskou přítomnost už tím, jak jí pohrdáme
 
 ---
 
