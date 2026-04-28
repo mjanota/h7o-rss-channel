@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:07:59 +0000</lastBuildDate>
+    <item>
+      <title>Nestagnovat v nostalgii</title>
+      <link>https://www.h7o.cz/clanky/14502-nestagnovat-v-nostalgii</link>
+      <description>Adam Tomáš, prozaik, dramaturg a rozhlasový redaktor, nedávno debutoval v nakladatelství Paseka povídkovou sbírkou „Nostalgie si bere vás“. Nejen o světě, kde lidé zvrací písek a sesypávají se na každém rohu, ale také o geniu loci a počátcích tvorby jsme vedli následující rozhovor.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14502-nestagnovat-v-nostalgii</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit</title>
       <link>https://www.h7o.cz/clanky/14501-spisovatel-ktery-se-boji-ze-nekoho-urazi-to-rovnou-muze-zabalit</link>
@@ -457,13 +464,6 @@ Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkov
       <description>V závěru divokého měsíce ledna přinášíme závěrečný divoký text ze série Petra Turečka. Evoluční biolog tu se sarkasmem sobě vlastním dekonstruuje nostalgii po ještě nadějeplných nultých letech mimo jiné jako frustraci Západu, který to tolikrát fatálně nezvládl s Ruskem.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14432-konecne-konec</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ještě se peče</title>
-      <link>https://www.h7o.cz/clanky/14431-jeste-se-pece</link>
-      <description>Vláda připravuje zrušení koncesionářských poplatků. Zároveň však nepředstavila nový model financování médií veřejné služby.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14431-jeste-se-pece</guid>
-      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

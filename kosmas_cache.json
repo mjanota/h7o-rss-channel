@@ -1,5 +1,127 @@
 [
   {
+    "title": "Naprosté motivy",
+    "url": "https://www.kosmas.cz/knihy/568133/naproste-motivy/",
+    "description": "Naprosté motivy - Josef Mlejnek st.",
+    "authors": [
+      "Josef Mlejnek st."
+    ],
+    "date": "2026-04-28T07:07:59.729387+00:00"
+  },
+  {
+    "title": "Ke startu připravit!",
+    "url": "https://www.kosmas.cz/knihy/567977/ke-startu-pripravit/",
+    "description": "Ke startu připravit! - Przemek Liput",
+    "authors": [
+      "Przemek Liput"
+    ],
+    "date": "2026-04-28T07:07:58.729387+00:00"
+  },
+  {
+    "title": "Právní biografie jednoho fideikomisu",
+    "url": "https://www.kosmas.cz/knihy/568217/pravni-biografie-jednoho-fideikomisu/",
+    "description": "Právní biografie jednoho fideikomisu - Michal Novotný",
+    "authors": [
+      "Michal Novotný"
+    ],
+    "date": "2026-04-28T07:07:57.729387+00:00"
+  },
+  {
+    "title": "Dědictví",
+    "url": "https://www.kosmas.cz/knihy/568363/dedictvi/",
+    "description": "Dědictví - Moa Herngren",
+    "authors": [
+      "Moa Herngren"
+    ],
+    "date": "2026-04-28T07:07:55.729387+00:00"
+  },
+  {
+    "title": "Umění rozhodnout se",
+    "url": "https://www.kosmas.cz/knihy/566507/umeni-rozhodnout-se/",
+    "description": "Umění rozhodnout se - Tereza Sladká",
+    "authors": [
+      "Tereza Sladká"
+    ],
+    "date": "2026-04-28T07:07:53.729387+00:00"
+  },
+  {
+    "title": "Poruchy chůze a stability",
+    "url": "https://www.kosmas.cz/knihy/568366/poruchy-chuze-a-stability/",
+    "description": "Poruchy chůze a stability - Ota Gál, Martina Hoskovcová, Evžen Růžička, kolektiv",
+    "authors": [
+      "Ota Gál",
+      "Martina Hoskovcová",
+      "Evžen Růžička",
+      "kolektiv"
+    ],
+    "date": "2026-04-28T07:07:52.729387+00:00"
+  },
+  {
+    "title": "Malý kousek Paříže",
+    "url": "https://www.kosmas.cz/knihy/568367/maly-kousek-parize/",
+    "description": "Malý kousek Paříže - Adéla Mervartová",
+    "authors": [
+      "Adéla Mervartová"
+    ],
+    "date": "2026-04-28T07:07:51.729387+00:00"
+  },
+  {
+    "title": "Červ",
+    "url": "https://www.kosmas.cz/knihy/568370/cerv/",
+    "description": "Červ - František Kozmon",
+    "authors": [
+      "František Kozmon"
+    ],
+    "date": "2026-04-28T07:07:48.729387+00:00"
+  },
+  {
+    "title": "Od deníků k výzkumu",
+    "url": "https://www.kosmas.cz/knihy/568371/od-deniku-k-vyzkumu/",
+    "description": "Od deníků k výzkumu - Lucie Jarkovská, Martina Nosková",
+    "authors": [
+      "Lucie Jarkovská",
+      "Martina Nosková"
+    ],
+    "date": "2026-04-28T07:07:47.729387+00:00"
+  },
+  {
+    "title": "Frankenstein",
+    "url": "https://www.kosmas.cz/knihy/568372/frankenstein/",
+    "description": "Frankenstein - Gemma Barder, Mary Shelleyová",
+    "authors": [
+      "Gemma Barder",
+      "Mary Shelleyová"
+    ],
+    "date": "2026-04-28T07:07:46.729387+00:00"
+  },
+  {
+    "title": "Čína - Císařova závěť",
+    "url": "https://www.kosmas.cz/knihy/568375/cina-cisarova-zavet/",
+    "description": "Čína - Císařova závěť - Veronika Válková",
+    "authors": [
+      "Veronika Válková"
+    ],
+    "date": "2026-04-28T07:07:44.729387+00:00"
+  },
+  {
+    "title": "Stanley Tucci: U jednoho stolu",
+    "url": "https://www.kosmas.cz/knihy/566413/stanley-tucci-u-jednoho-stolu/",
+    "description": "Stanley Tucci: U jednoho stolu - Stanley Tucci",
+    "authors": [
+      "Stanley Tucci"
+    ],
+    "date": "2026-04-28T07:07:42.729387+00:00"
+  },
+  {
+    "title": "Můj první hrabě",
+    "url": "https://www.kosmas.cz/knihy/567229/muj-prvni-hrabe/",
+    "description": "Můj první hrabě - Ella Quinnová",
+    "authors": [
+      "Ella Quinnová"
+    ],
+    "date": "2026-04-28T07:07:41.729387+00:00"
+  },
+  {
     "title": "Vyděšená k smrti",
     "url": "https://www.kosmas.cz/knihy/568288/vydesena-k-smrti/",
     "description": "Vyděšená k smrti - Rachel Amphlett",
@@ -1692,123 +1814,5 @@
       "Petra Klabouchová"
     ],
     "date": "2026-04-15T06:49:20.256313+00:00"
-  },
-  {
-    "title": "Star Wars - Vrcholná Republika: Hranice rovnováhy 2",
-    "url": "https://www.kosmas.cz/knihy/567661/star-wars-vrcholna-republika-hranice-rovnovahy-2/",
-    "description": "Star Wars - Vrcholná Republika: Hranice rovnováhy 2 - Šima Šinja",
-    "authors": [
-      "Šima Šinja"
-    ],
-    "date": "2026-04-15T06:49:18.256313+00:00"
-  },
-  {
-    "title": "Faidón",
-    "url": "https://www.kosmas.cz/knihy/567687/faidon/",
-    "description": "Faidón - Platón",
-    "authors": [
-      "Platón"
-    ],
-    "date": "2026-04-15T06:49:17.256313+00:00"
-  },
-  {
-    "title": "Genealogie morálky",
-    "url": "https://www.kosmas.cz/knihy/567691/genealogie-moralky/",
-    "description": "Genealogie morálky - Friedrich Nietzsche",
-    "authors": [
-      "Friedrich Nietzsche"
-    ],
-    "date": "2026-04-15T06:49:16.256313+00:00"
-  },
-  {
-    "title": "Leviatan 6",
-    "url": "https://www.kosmas.cz/knihy/567819/leviatan-6/",
-    "description": "Leviatan 6 - Kjongtchak I",
-    "authors": [
-      "Kjongtchak I"
-    ],
-    "date": "2026-04-15T06:49:15.256313+00:00"
-  },
-  {
-    "title": "Cyberpunk 2077: Nakopávač",
-    "url": "https://www.kosmas.cz/knihy/567821/cyberpunk-2077-nakopavac/",
-    "description": "Cyberpunk 2077: Nakopávač - Tomasz Marchewka",
-    "authors": [
-      "Tomasz Marchewka"
-    ],
-    "date": "2026-04-15T06:49:14.256313+00:00"
-  },
-  {
-    "title": "Batman: Úplněk (Black Label)",
-    "url": "https://www.kosmas.cz/knihy/567822/batman-uplnek-black-label/",
-    "description": "Batman: Úplněk (Black Label) - Rodney Barnes",
-    "authors": [
-      "Rodney Barnes"
-    ],
-    "date": "2026-04-15T06:49:13.256313+00:00"
-  },
-  {
-    "title": "[Moje hvězda] 9",
-    "url": "https://www.kosmas.cz/knihy/566990/moje-hvezda-9/",
-    "description": "[Moje hvězda] 9 - Aka Akasaka, Mengo Jokojari",
-    "authors": [
-      "Aka Akasaka",
-      "Mengo Jokojari"
-    ],
-    "date": "2026-04-15T06:49:12.256313+00:00"
-  },
-  {
-    "title": "Léto, kdy umřel Hikaru 3",
-    "url": "https://www.kosmas.cz/knihy/566991/leto-kdy-umrel-hikaru-3/",
-    "description": "Léto, kdy umřel Hikaru 3 - Mokumokuren",
-    "authors": [
-      "Mokumokuren"
-    ],
-    "date": "2026-04-15T06:49:11.256313+00:00"
-  },
-  {
-    "title": "O nenasytné černé díře",
-    "url": "https://www.kosmas.cz/knihy/567376/o-nenasytne-cerne-dire/",
-    "description": "O nenasytné černé díře - Václav Pavlík",
-    "authors": [
-      "Václav Pavlík"
-    ],
-    "date": "2026-04-15T06:49:10.256313+00:00"
-  },
-  {
-    "title": "Tajemství severní oblohy",
-    "url": "https://www.kosmas.cz/knihy/567377/tajemstvi-severni-oblohy/",
-    "description": "Tajemství severní oblohy - Václav Pavlík",
-    "authors": [
-      "Václav Pavlík"
-    ],
-    "date": "2026-04-15T06:49:09.256313+00:00"
-  },
-  {
-    "title": "Obejmu tě",
-    "url": "https://www.kosmas.cz/knihy/567406/obejmu-te/",
-    "description": "Obejmu tě - Silvie Minaříková",
-    "authors": [
-      "Silvie Minaříková"
-    ],
-    "date": "2026-04-15T06:49:08.256313+00:00"
-  },
-  {
-    "title": "Peppa Pig - Dobrou noc, Peppo!",
-    "url": "https://www.kosmas.cz/knihy/566141/peppa-pig-dobrou-noc-peppo/",
-    "description": "Peppa Pig - Dobrou noc, Peppo! - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-04-15T06:49:07.256313+00:00"
-  },
-  {
-    "title": "Vona",
-    "url": "https://www.kosmas.cz/knihy/567520/vona/",
-    "description": "Vona - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-14T06:48:59.126863+00:00"
   }
 ]

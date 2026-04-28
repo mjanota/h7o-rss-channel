@@ -5,6 +5,46 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-28 07:08:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Naprosté motivy
+2. Ke startu připravit!
+3. Právní biografie jednoho fideikomisu
+4. Dědictví
+5. Umění rozhodnout se
+6. Poruchy chůze a stability
+7. Malý kousek Paříže
+8. Červ
+9. Od deníků k výzkumu
+10. Frankenstein
+11. Čína - Císařova závěť
+12. Stanley Tucci: U jednoho stolu
+13. Můj první hrabě
+
+---
+
+## 🕐 2026-04-28 07:07:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Nestagnovat v nostalgii
+
+---
+
 ## 🕐 2026-04-27 07:08:28 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,52 +295,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři
-
----
-
-## 🕐 2026-04-21 06:50:48 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Abe Sapien 8: Pusté pobřeží
-2. Abe Sapien 9: Ztracené životy a další příběhy
-3. Hellboy v pekle 2: Karta smrti
-4. Ú.P.V.O. Peklo na zemi 15: V hodině nejtěžší
-5. NĚŽNÁ NAHOTA PRAVDY aneb hrubé jemnosti AVE ABURH
-6. Zemřít v Berlíně
-7. Mor
-8. Okouzlující vévodkyně
-9. Piráti z Karibiku: Útěk z ostrova
-10. Immortal Hulk 9: Nejslabší ze všech
-11. Predátor 1: Den lovce
-12. Dandadan 7
-13. Simpsonovi 4/2026
-14. Naruto 71: Miluju vás
-15. Čarodějova nevěsta 20
-16. Život faráře z Arsu - Svatý Jan Maria Vianney
-17. Příběhy z Bible
-18. Anglicko-český česko-anglický šikovný slovník
-19. Německo-český, česko-německý kapesní slovník
-
----
-
-## 🕐 2026-04-21 06:50:47 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Diamant v kupce sena
 
 ---
 

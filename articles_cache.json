@@ -160,14 +160,6 @@
     "category": "seriál"
   },
   {
-    "title": "Ještě se peče",
-    "url": "https://www.h7o.cz/clanky/14431-jeste-se-pece",
-    "description": "Vláda připravuje zrušení koncesionářských poplatků. Zároveň však nepředstavila nový model financování médií veřejné služby.",
-    "date": "2026-01-28T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "komentář"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -518,5 +510,13 @@
     "date": "2026-04-27T00:00:00",
     "author": "Zuzana Babinčáková",
     "category": "rozhovor"
+  },
+  {
+    "title": "Nestagnovat v nostalgii",
+    "url": "https://www.h7o.cz/clanky/14502-nestagnovat-v-nostalgii",
+    "description": "Adam Tomáš, prozaik, dramaturg a rozhlasový redaktor, nedávno debutoval v nakladatelství Paseka povídkovou sbírkou „Nostalgie si bere vás“. Nejen o světě, kde lidé zvrací písek a sesypávají se na každém rohu, ale také o geniu loci a počátcích tvorby jsme vedli následující rozhovor.",
+    "date": "2026-04-28T00:00:00",
+    "author": "",
+    "category": ""
   }
 ]
