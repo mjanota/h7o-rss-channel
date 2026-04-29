@@ -1,5 +1,178 @@
 [
   {
+    "title": "Nezbedné obrázky - modrý sešit",
+    "url": "https://www.kosmas.cz/knihy/568251/nezbedne-obrazky-modry-sesit/",
+    "description": "Nezbedné obrázky - modrý sešit",
+    "authors": [],
+    "date": "2026-04-29T07:02:55.192449+00:00"
+  },
+  {
+    "title": "Radost z učení",
+    "url": "https://www.kosmas.cz/knihy/567543/radost-z-uceni/",
+    "description": "Radost z učení - Aletha Solterová",
+    "authors": [
+      "Aletha Solterová"
+    ],
+    "date": "2026-04-29T07:02:54.192449+00:00"
+  },
+  {
+    "title": "Přístup zaměřený na člověka",
+    "url": "https://www.kosmas.cz/knihy/567544/pristup-zamereny-na-cloveka/",
+    "description": "Přístup zaměřený na člověka - Petr Mikoška",
+    "authors": [
+      "Petr Mikoška"
+    ],
+    "date": "2026-04-29T07:02:53.192449+00:00"
+  },
+  {
+    "title": "Srdeční selhání",
+    "url": "https://www.kosmas.cz/knihy/568471/srdecni-selhani/",
+    "description": "Srdeční selhání - Filip Málek, Petr Neužil, Martin Polák, kolektiv",
+    "authors": [
+      "Filip Málek",
+      "Petr Neužil",
+      "Martin Polák",
+      "kolektiv"
+    ],
+    "date": "2026-04-29T07:02:52.192449+00:00"
+  },
+  {
+    "title": "Řeznice z Malé Barmy",
+    "url": "https://www.kosmas.cz/knihy/568476/reznice-z-male-barmy/",
+    "description": "Řeznice z Malé Barmy - Hakan Nesser",
+    "authors": [
+      "Hakan Nesser"
+    ],
+    "date": "2026-04-29T07:02:51.192449+00:00"
+  },
+  {
+    "title": "Město duchů",
+    "url": "https://www.kosmas.cz/knihy/568480/mesto-duchu/",
+    "description": "Město duchů - Kevin Chen",
+    "authors": [
+      "Kevin Chen"
+    ],
+    "date": "2026-04-29T07:02:50.192449+00:00"
+  },
+  {
+    "title": "Výzvy a inovace v sociální práci se seniory",
+    "url": "https://www.kosmas.cz/knihy/568483/vyzvy-a-inovace-v-socialni-praci-se-seniory/",
+    "description": "Výzvy a inovace v sociální práci se seniory - Helena Machulová, Lenka Žižka Motlová",
+    "authors": [
+      "Helena Machulová",
+      "Lenka Žižka Motlová"
+    ],
+    "date": "2026-04-29T07:02:49.192449+00:00"
+  },
+  {
+    "title": "Sladké očekávání",
+    "url": "https://www.kosmas.cz/knihy/568485/sladke-ocekavani/",
+    "description": "Sladké očekávání - Hannah Lynn",
+    "authors": [
+      "Hannah Lynn"
+    ],
+    "date": "2026-04-29T07:02:48.192449+00:00"
+  },
+  {
+    "title": "Od prince ke králi",
+    "url": "https://www.kosmas.cz/knihy/568487/od-prince-ke-krali/",
+    "description": "Od prince ke králi - Jan František Bím",
+    "authors": [
+      "Jan František Bím"
+    ],
+    "date": "2026-04-29T07:02:47.192449+00:00"
+  },
+  {
+    "title": "Ulička tajných vášní - Skandální lady Constance",
+    "url": "https://www.kosmas.cz/knihy/567835/ulicka-tajnych-vasni-skandalni-lady-constance/",
+    "description": "Ulička tajných vášní - Skandální lady Constance - Scarlett Peckham",
+    "authors": [
+      "Scarlett Peckham"
+    ],
+    "date": "2026-04-29T07:02:46.192449+00:00"
+  },
+  {
+    "title": "Eliška Andílek",
+    "url": "https://www.kosmas.cz/knihy/568490/eliska-andilek/",
+    "description": "Eliška Andílek - Pavlína Jurková",
+    "authors": [
+      "Pavlína Jurková"
+    ],
+    "date": "2026-04-29T07:02:45.192449+00:00"
+  },
+  {
+    "title": "Šumavský upír",
+    "url": "https://www.kosmas.cz/knihy/567771/sumavsky-upir/",
+    "description": "Šumavský upír - Miloslav Švandrlík",
+    "authors": [
+      "Miloslav Švandrlík"
+    ],
+    "date": "2026-04-29T07:02:44.192449+00:00"
+  },
+  {
+    "title": "Domov zlatem spravený",
+    "url": "https://www.kosmas.cz/knihy/565138/domov-zlatem-spraveny/",
+    "description": "Domov zlatem spravený - Sanae Hošio",
+    "authors": [
+      "Sanae Hošio"
+    ],
+    "date": "2026-04-29T07:02:43.192449+00:00"
+  },
+  {
+    "title": "Ostrov země",
+    "url": "https://www.kosmas.cz/knihy/565431/ostrov-zeme/",
+    "description": "Ostrov země - Futurum",
+    "authors": [
+      "Futurum"
+    ],
+    "date": "2026-04-29T07:02:42.192449+00:00"
+  },
+  {
+    "title": "Dědictví skotských templářů",
+    "url": "https://www.kosmas.cz/knihy/563143/dedictvi-skotskych-templaru/",
+    "description": "Dědictví skotských templářů - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-04-29T07:02:41.192449+00:00"
+  },
+  {
+    "title": "První Evropané",
+    "url": "https://www.kosmas.cz/knihy/550424/prvni-evropane/",
+    "description": "První Evropané - Jan Turek",
+    "authors": [
+      "Jan Turek"
+    ],
+    "date": "2026-04-29T07:02:40.192449+00:00"
+  },
+  {
+    "title": "Přítelkyně paní Maigretové",
+    "url": "https://www.kosmas.cz/knihy/568006/pritelkyne-pani-maigretove/",
+    "description": "Přítelkyně paní Maigretové - Georges Simenon",
+    "authors": [
+      "Georges Simenon"
+    ],
+    "date": "2026-04-29T07:02:39.192449+00:00"
+  },
+  {
+    "title": "Moře času",
+    "url": "https://www.kosmas.cz/knihy/568037/more-casu/",
+    "description": "Moře času - Jiří Žáček",
+    "authors": [
+      "Jiří Žáček"
+    ],
+    "date": "2026-04-29T07:02:38.192449+00:00"
+  },
+  {
+    "title": "KáPéZetka Ne-mu-síš",
+    "url": "https://www.kosmas.cz/knihy/568095/kapezetka-ne-mu-sis/",
+    "description": "KáPéZetka Ne-mu-síš - Kateřina Šťastná",
+    "authors": [
+      "Kateřina Šťastná"
+    ],
+    "date": "2026-04-29T07:02:37.192449+00:00"
+  },
+  {
     "title": "Naprosté motivy",
     "url": "https://www.kosmas.cz/knihy/568133/naproste-motivy/",
     "description": "Naprosté motivy - Josef Mlejnek st.",
@@ -1643,176 +1816,5 @@
       "Taylor Jenkins Reid"
     ],
     "date": "2026-04-16T06:50:13.823052+00:00"
-  },
-  {
-    "title": "Ballad of Songbirds and Snakes (A Hunger Games Novel)",
-    "url": "https://www.kosmas.cz/knihy/567886/ballad-of-songbirds-and-snakes-a-hunger-games-novel/",
-    "description": "Ballad of Songbirds and Snakes (A Hunger Games Novel) - Suzanne Collins",
-    "authors": [
-      "Suzanne Collins"
-    ],
-    "date": "2026-04-16T06:50:12.823052+00:00"
-  },
-  {
-    "title": "Boyfriend",
-    "url": "https://www.kosmas.cz/knihy/567890/boyfriend/",
-    "description": "Boyfriend - Freida McFadden",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "date": "2026-04-16T06:50:11.823052+00:00"
-  },
-  {
-    "title": "Catching Fire /Deluxe/",
-    "url": "https://www.kosmas.cz/knihy/567891/catching-fire-deluxe/",
-    "description": "Catching Fire /Deluxe/ - Suzanne Collins",
-    "authors": [
-      "Suzanne Collins"
-    ],
-    "date": "2026-04-16T06:50:10.823052+00:00"
-  },
-  {
-    "title": "Conditions of Will",
-    "url": "https://www.kosmas.cz/knihy/567893/conditions-of-will/",
-    "description": "Conditions of Will - Jessa Hastings",
-    "authors": [
-      "Jessa Hastings"
-    ],
-    "date": "2026-04-16T06:50:09.823052+00:00"
-  },
-  {
-    "title": "Crucible,  Men of the Wilds 1",
-    "url": "https://www.kosmas.cz/knihy/567894/crucible-men-of-the-wilds-1/",
-    "description": "Crucible,  Men of the Wilds 1 - B.B. Reid",
-    "authors": [
-      "B.B. Reid"
-    ],
-    "date": "2026-04-16T06:50:08.823052+00:00"
-  },
-  {
-    "title": "Hunger Games Collection Deluxe  (4 book set)",
-    "url": "https://www.kosmas.cz/knihy/567896/hunger-games-collection-deluxe-4-book-set/",
-    "description": "Hunger Games Collection Deluxe  (4 book set) - Suzanne Collins",
-    "authors": [
-      "Suzanne Collins"
-    ],
-    "date": "2026-04-16T06:50:07.823052+00:00"
-  },
-  {
-    "title": "The Devil´s Star",
-    "url": "https://www.kosmas.cz/knihy/567897/the-devil-s-star/",
-    "description": "The Devil´s Star - Jo Nesbo",
-    "authors": [
-      "Jo Nesbo"
-    ],
-    "date": "2026-04-16T06:50:06.823052+00:00"
-  },
-  {
-    "title": "Do Not Disturb",
-    "url": "https://www.kosmas.cz/knihy/567899/do-not-disturb/",
-    "description": "Do Not Disturb - Freida McFadden",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "date": "2026-04-16T06:50:05.823052+00:00"
-  },
-  {
-    "title": "Door",
-    "url": "https://www.kosmas.cz/knihy/567900/door/",
-    "description": "Door - Magda Szabó",
-    "authors": [
-      "Magda Szabó"
-    ],
-    "date": "2026-04-16T06:50:04.823052+00:00"
-  },
-  {
-    "title": "Face Off",
-    "url": "https://www.kosmas.cz/knihy/567902/face-off/",
-    "description": "Face Off - Chelsea Curto",
-    "authors": [
-      "Chelsea Curto"
-    ],
-    "date": "2026-04-16T06:50:03.823052+00:00"
-  },
-  {
-    "title": "Faraway Inn",
-    "url": "https://www.kosmas.cz/knihy/567903/faraway-inn/",
-    "description": "Faraway Inn - Sarah Beth Durst",
-    "authors": [
-      "Sarah Beth Durst"
-    ],
-    "date": "2026-04-16T06:50:02.823052+00:00"
-  },
-  {
-    "title": "Fearless",
-    "url": "https://www.kosmas.cz/knihy/567904/fearless/",
-    "description": "Fearless - Lauren Roberts",
-    "authors": [
-      "Lauren Roberts"
-    ],
-    "date": "2026-04-16T06:50:01.823052+00:00"
-  },
-  {
-    "title": "Vaculíkova čítanka pro začátečníky a mírně pokročilé",
-    "url": "https://www.kosmas.cz/knihy/567257/vaculikova-citanka-pro-zacatecniky-a-mirne-pokrocile/",
-    "description": "Vaculíkova čítanka pro začátečníky a mírně pokročilé - Ludvík Vaculík",
-    "authors": [
-      "Ludvík Vaculík"
-    ],
-    "date": "2026-04-15T06:49:26.256313+00:00"
-  },
-  {
-    "title": "Smrt na lovu",
-    "url": "https://www.kosmas.cz/knihy/567802/smrt-na-lovu/",
-    "description": "Smrt na lovu - Ann Granger",
-    "authors": [
-      "Ann Granger"
-    ],
-    "date": "2026-04-15T06:49:25.256313+00:00"
-  },
-  {
-    "title": "Pravda v plamenech",
-    "url": "https://www.kosmas.cz/knihy/567804/pravda-v-plamenech/",
-    "description": "Pravda v plamenech - Jaroslava Černá",
-    "authors": [
-      "Jaroslava Černá"
-    ],
-    "date": "2026-04-15T06:49:24.256313+00:00"
-  },
-  {
-    "title": "Garfield 68: Pomalejší nežere",
-    "url": "https://www.kosmas.cz/knihy/566443/garfield-68-pomalejsi-nezere/",
-    "description": "Garfield 68: Pomalejší nežere - Jim Davis",
-    "authors": [
-      "Jim Davis"
-    ],
-    "date": "2026-04-15T06:49:23.256313+00:00"
-  },
-  {
-    "title": "Clever a Smart: Smekáč Pápěrka",
-    "url": "https://www.kosmas.cz/knihy/566446/clever-a-smart-smekac-paperka/",
-    "description": "Clever a Smart: Smekáč Pápěrka - Francisco Ibánez",
-    "authors": [
-      "Francisco Ibánez"
-    ],
-    "date": "2026-04-15T06:49:22.256313+00:00"
-  },
-  {
-    "title": "COFFEE FOR YOU",
-    "url": "https://www.kosmas.cz/knihy/566700/coffee-for-you/",
-    "description": "COFFEE FOR YOU - Libor Kubánek",
-    "authors": [
-      "Libor Kubánek"
-    ],
-    "date": "2026-04-15T06:49:21.256313+00:00"
-  },
-  {
-    "title": "Vona",
-    "url": "https://www.kosmas.cz/knihy/564615/vona/",
-    "description": "Vona - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-15T06:49:20.256313+00:00"
   }
 ]

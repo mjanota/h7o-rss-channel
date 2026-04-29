@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-29 07:02:55 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Nezbedné obrázky - modrý sešit
+2. Radost z učení
+3. Přístup zaměřený na člověka
+4. Srdeční selhání
+5. Řeznice z Malé Barmy
+6. Město duchů
+7. Výzvy a inovace v sociální práci se seniory
+8. Sladké očekávání
+9. Od prince ke králi
+10. Ulička tajných vášní - Skandální lady Constance
+11. Eliška Andílek
+12. Šumavský upír
+13. Domov zlatem spravený
+14. Ostrov země
+15. Dědictví skotských templářů
+16. První Evropané
+17. Přítelkyně paní Maigretové
+18. Moře času
+19. KáPéZetka Ne-mu-síš
+
+---
+
+## 🕐 2026-04-29 07:02:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-28 07:08:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -249,52 +291,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Po boku Gándhího a Kinga
-
----
-
-## 🕐 2026-04-22 06:50:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Salve 1/26 - velkoměsto
-2. Ve jménu spravedlnosti
-3. Bastard - lučišník
-4. Hvězda 02
-5. Velké ekonomické dějiny
-6. Kavalíři
-7. Generace nula
-8. Údolí javoru
-9. U vás je vždycky tak strašně ticho
-10. Royal Elite: Epilog
-11. Pravda v plamenech
-12. Trénink s mariňákem
-13. O čem sní noční můry
-14. Na cestě k nevzdělanosti
-15. Pobožný střelec
-16. Pohádky Čimického háje
-17. Černí baroni aneb válčili jsme za Čepičky
-18. Obloha ji zavolala domů
-19. Ledový dech
-
----
-
-## 🕐 2026-04-22 06:50:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři
 
 ---
 
