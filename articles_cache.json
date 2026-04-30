@@ -144,14 +144,6 @@
     "category": "téma"
   },
   {
-    "title": "Psát se má s ozvěnou",
-    "url": "https://www.h7o.cz/clanky/14433-psat-se-ma-s-ozvenou",
-    "description": "„Při četbě sbírky Jiřího Kotena se mi neustále před očima objevovala mědirytina ‚Smrt a knihomil‘ od Johanna Rudolpha Schellenberga, na níž stojí smrt za plnou knihovnou, kterou převrhuje na sedícího učence,“ píše v recenzi sbírky „Směsné strofy“ Roman Polách.",
-    "date": "2026-01-30T00:00:00",
-    "author": "Roman Polách",
-    "category": "recenze"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -510,5 +502,21 @@
     "date": "2026-04-28T00:00:00",
     "author": "",
     "category": ""
+  },
+  {
+    "title": "Luxusní smrt",
+    "url": "https://www.h7o.cz/clanky/14504-luxusni-smrt",
+    "description": "V Praze vystoupil Reinhold Messner. Uhrančivé vyprávění zahájil vzpomínkou. Narodil se v údolí a vždy toužil po světle. Když poprvé zdolal nejvyšší vrchy Jižního Tyrolska, věděl, že té krásy se nikdy nenabaží. A že ho to asi zabije. Na krásu se ale dá umřít i méně dramaticky, píše Václav Sklenář.",
+    "date": "2026-04-30T00:00:00",
+    "author": "Václav Sklenář",
+    "category": "seriál"
+  },
+  {
+    "title": "Skutečně zabíjíme lidi",
+    "url": "https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi",
+    "description": "Spojené státy americké společně s Izraelem napadly Írán před dvěma měsíci. Pozornost se za tu dobu stočila od zabíjení k ekonomickým dopadům útoku a diplomatickým řešením. Konflikt však odhalil i pokračující sbližování technologického a válečného sektoru i proměnu politiky.",
+    "date": "2026-04-29T00:00:00",
+    "author": "Jakub Jetmar",
+    "category": "sloupek"
   }
 ]

@@ -5,6 +5,54 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-04-30 07:05:24 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Můj stát. Putování s českým lvem za sedmi státními symboly
+2. Helena Zmatlíková dětem
+3. Kočka na kolejích
+4. Hodinový hoteliér
+5. Matematika plná koroptví
+6. Brutlyrik
+7. Dharmašlap
+8. Hegemonie a marginalita ve slovanském areálu
+9. Případ výjimečné klibny
+10. Kronika druhé světové války
+11. Gianluigi Buffon: umění pádů
+12. Marvel - Spidey a jeho úžasní přátelé: Odvážná záchrana
+13. Mezi nebem a zemí
+14. Orlík
+15. Volná jízda
+16. Víc než pomsta
+17. Vražda v knihkupectví
+18. Za pohádkou s vodníkem Leknínkem
+19. Tam, kde štěkají kočky
+20. Koťátko Cesmína - Jasmínčina zvířátka
+
+---
+
+## 🕐 2026-04-30 07:05:23 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Luxusní smrt
+2. Skutečně zabíjíme lidi
+
+---
+
 ## 🕐 2026-04-29 07:02:55 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,53 +292,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-04-23 06:51:09 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Skrytá říše
-2. Architekt hněvu
-3. Nemravné sliby
-4. Muž z Brna na Onom Světě
-5. Zlá babička
-6. Jak mluvit s dětmi o penězích
-7. Z Prahy do Jeruzaléma a zpět
-8. Život ve 280 znacích
-9. Temná řeka
-10. Ošetřovatelství v psychiatrii
-11. Čteme sami – Dinosauří vajíčko
-12. Algoritmus pro dva
-13. Čteme sami – genetická metoda - Dinosauří vajíčko
-14. Hranice bolesti
-15. Hvězdy Ligy mistrů
-16. Udatný netopýrek
-17. Kokoska a kniha zázračných příběhů
-18. Únik z knihovny pana Lemoncella
-19. Andělské vykládací karty
-20. Kouzelný kočičí tarot
-
----
-
-## 🕐 2026-04-23 06:51:07 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Po boku Gándhího a Kinga
 
 ---
 

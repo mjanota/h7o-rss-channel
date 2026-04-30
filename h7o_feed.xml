@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:05:23 +0000</lastBuildDate>
+    <item>
+      <title>Luxusní smrt</title>
+      <link>https://www.h7o.cz/clanky/14504-luxusni-smrt</link>
+      <description>V Praze vystoupil Reinhold Messner. Uhrančivé vyprávění zahájil vzpomínkou. Narodil se v údolí a vždy toužil po světle. Když poprvé zdolal nejvyšší vrchy Jižního Tyrolska, věděl, že té krásy se nikdy nenabaží. A že ho to asi zabije. Na krásu se ale dá umřít i méně dramaticky, píše Václav Sklenář.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14504-luxusni-smrt</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skutečně zabíjíme lidi</title>
+      <link>https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi</link>
+      <description>Spojené státy americké společně s Izraelem napadly Írán před dvěma měsíci. Pozornost se za tu dobu stočila od zabíjení k ekonomickým dopadům útoku a diplomatickým řešením. Konflikt však odhalil i pokračující sbližování technologického a válečného sektoru i proměnu politiky.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nestagnovat v nostalgii</title>
       <link>https://www.h7o.cz/clanky/14502-nestagnovat-v-nostalgii</link>
@@ -450,13 +464,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
 Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkové.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14434-nasili-v-dile-michela-houellebecqa</guid>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Psát se má s ozvěnou</title>
-      <link>https://www.h7o.cz/clanky/14433-psat-se-ma-s-ozvenou</link>
-      <description>„Při četbě sbírky Jiřího Kotena se mi neustále před očima objevovala mědirytina ‚Smrt a knihomil‘ od Johanna Rudolpha Schellenberga, na níž stojí smrt za plnou knihovnou, kterou převrhuje na sedícího učence,“ píše v recenzi sbírky „Směsné strofy“ Roman Polách.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14433-psat-se-ma-s-ozvenou</guid>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
