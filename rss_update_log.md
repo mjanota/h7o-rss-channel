@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-01 07:07:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Bezlepková kuchařka
+2. Bezlepkové slavnosti - Sváteční menu nejen pro celiaky
+3. Bezlepkové pečení pro každého
+4. Ateliér radostné tvorby. Atelier of Joyful Creativity in Prague
+5. Anatomie lži
+6. Knížka do kočárku - Koťátko a kamarádi
+7. Město duchů
+8. Až dohraje černej vinyl
+9. Básně do Slezska II
+10. Jiné básně
+11. SONETISSIMO
+12. Víra vrytá pod kůži
+13. Kontexty 2/2026
+
+---
+
+## 🕐 2026-05-01 07:07:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-04-30 07:05:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -250,48 +286,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Ztracený ráj se vrací do české kultury
-
----
-
-## 🕐 2026-04-24 06:52:03 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Yamal
-2. Kočka
-3. 10 bylinkových pohádek
-4. Pozorování ptáků
-5. Zálesák
-6. Jedno temné okno
-7. Vor v zakone
-8. Tajemno napříč stoletími
-9. Smrt je vrahům v patách / Když zákon nestačí
-10. Komplikace
-11. Rozkvetlá
-12. Vražedné peníze
-13. Ohňostroj mezi námi
-14. Týden v Nejistotě
-15. Hovořil se zvěří, ptáky a rybami
-16. Věř si
-17. Edvard Beneš: Paměti - kompletní vydání
-18. Nejsladší píseň
-19. Duch Pankráce
-
----
-
-## 🕐 2026-04-24 06:52:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

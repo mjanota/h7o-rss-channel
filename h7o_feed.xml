@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 07:07:05 +0000</lastBuildDate>
     <item>
       <title>Luxusní smrt</title>
       <link>https://www.h7o.cz/clanky/14504-luxusni-smrt</link>
@@ -456,14 +456,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Jsou psi skutečně jako Kristus, jak ve svém románu „Sympatie“ tvrdí Rodrigo Blanco Calderón? A platí to i o legendárním psovi Simona Bolívara Nevadovi?</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14428-nejzavsivenejsi-ze-zavsivenych</guid>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Násilí v díle  Michela Houellebecqa</title>
-      <link>https://www.h7o.cz/clanky/14434-nasili-v-dile-michela-houellebecqa</link>
-      <description>Jak slavného francouzského spisovatele ovlivnila jeho adolescentní četba H. P. Lovecrafta.
-Aneb čteme Houellebecqa správně? Více v eseji romanistky Daniely Sochůrkové.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14434-nasili-v-dile-michela-houellebecqa</guid>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
