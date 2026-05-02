@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 01 May 2026 07:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 06:50:54 +0000</lastBuildDate>
+    <item>
+      <title>Balonky zakázány</title>
+      <link>https://www.kosmas.cz/knihy/568440/balonky-zakazany/</link>
+      <description>Balonky zakázány - Robert Zola Christensen</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568440/balonky-zakazany/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Emilie a 121. patro</title>
+      <link>https://www.kosmas.cz/knihy/568456/emilie-a-121.-patro/</link>
+      <description>Emilie a 121. patro - Martina Macháčová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568456/emilie-a-121.-patro/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beatles - kompletní příběh</title>
+      <link>https://www.kosmas.cz/knihy/568507/beatles-kompletni-pribeh/</link>
+      <description>Beatles - kompletní příběh - kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568507/beatles-kompletni-pribeh/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nazývačka</title>
+      <link>https://www.kosmas.cz/knihy/568538/nazyvacka/</link>
+      <description>Nazývačka - Jedediah Berry</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568538/nazyvacka/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kruh dní</title>
+      <link>https://www.kosmas.cz/knihy/568540/kruh-dni/</link>
+      <description>Kruh dní - Ken Follett</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568540/kruh-dni/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saving 6</title>
+      <link>https://www.kosmas.cz/knihy/568541/saving-6/</link>
+      <description>Saving 6 - Chloe Walsh</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568541/saving-6/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Černý sněhulák</title>
+      <link>https://www.kosmas.cz/knihy/568543/cerny-snehulak/</link>
+      <description>Černý sněhulák - Marie Jakoubková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568543/cerny-snehulak/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dotek břečťanu</title>
+      <link>https://www.kosmas.cz/knihy/568544/dotek-brectanu/</link>
+      <description>Dotek břečťanu - Ivy Green</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568544/dotek-brectanu/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meze růstu</title>
+      <link>https://www.kosmas.cz/knihy/567288/meze-rustu/</link>
+      <description>Meze růstu - William W. Behrens III., Dennis L. Meadows, Donella H. Meadowsová, Jørgen Randers</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567288/meze-rustu/</guid>
+      <pubDate>Sat, 02 May 2026 06:50:35 +0000</pubDate>
+    </item>
     <item>
       <title>Bezlepková kuchařka</title>
       <link>https://www.kosmas.cz/knihy/567266/bezlepkova-kucharka/</link>
@@ -644,69 +707,6 @@
       <description>300 sudoku pro mistry</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567794/300-sudoku-pro-mistry/</guid>
       <pubDate>Sat, 25 Apr 2026 06:41:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nálepka nemocná holka</title>
-      <link>https://www.kosmas.cz/knihy/567811/nalepka-nemocna-holka/</link>
-      <description>Nálepka nemocná holka - Iva Justychová, Tereza Moravcová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567811/nalepka-nemocna-holka/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:41:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marathón</title>
-      <link>https://www.kosmas.cz/knihy/567841/marathon/</link>
-      <description>Marathón - Olympic</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567841/marathon/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>To nejlepší se Spejblem a Hurvínkem</title>
-      <link>https://www.kosmas.cz/knihy/567842/to-nejlepsi-se-spejblem-a-hurvinkem/</link>
-      <description>To nejlepší se Spejblem a Hurvínkem</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567842/to-nejlepsi-se-spejblem-a-hurvinkem/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gachiakuta 5</title>
-      <link>https://www.kosmas.cz/knihy/567873/gachiakuta-5/</link>
-      <description>Gachiakuta 5 - Kei Urana</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567873/gachiakuta-5/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>World of Warcraft – Dědictví stínů 2: Nexus</title>
-      <link>https://www.kosmas.cz/knihy/567875/world-of-warcraft-dedictvi-stinu-2-nexus/</link>
-      <description>World of Warcraft – Dědictví stínů 2: Nexus - Richard A. Knaak</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567875/world-of-warcraft-dedictvi-stinu-2-nexus/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Teenage Mutant Ninja Turtles 2: New York versus Želvy</title>
-      <link>https://www.kosmas.cz/knihy/567876/teenage-mutant-ninja-turtles-2-new-york-versus-zelvy/</link>
-      <description>Teenage Mutant Ninja Turtles 2: New York versus Želvy - Jason Aaron</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567876/teenage-mutant-ninja-turtles-2-new-york-versus-zelvy/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány</title>
-      <link>https://www.kosmas.cz/knihy/567880/zabijaci-demonu-ve-skole-1-pozdni-prichody-prisne-zakazany/</link>
-      <description>Zabijáci démonů ve škole 1: Pozdní příchody přísně zakázány - Nacuki Hokami</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567880/zabijaci-demonu-ve-skole-1-pozdni-prichody-prisne-zakazany/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jujutsu Kaisen - Prokleté války 18: Horečka</title>
-      <link>https://www.kosmas.cz/knihy/567881/jujutsu-kaisen-proklete-valky-18-horecka/</link>
-      <description>Jujutsu Kaisen - Prokleté války 18: Horečka - Gege Akutami</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567881/jujutsu-kaisen-proklete-valky-18-horecka/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vraždy v Dekagonu 5</title>
-      <link>https://www.kosmas.cz/knihy/567888/vrazdy-v-dekagonu-5/</link>
-      <description>Vraždy v Dekagonu 5 - Jukito Ajacudži</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567888/vrazdy-v-dekagonu-5/</guid>
-      <pubDate>Sat, 25 Apr 2026 06:40:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
