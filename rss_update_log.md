@@ -5,6 +5,26 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-03 07:02:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
+## 🕐 2026-05-03 07:02:16 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-02 06:50:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -238,40 +258,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit
-
----
-
-## 🕐 2026-04-26 06:49:27 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 11
-
-**Tituly nových položek:**
-
-1. Sladký příběh
-2. Sběratelství: status
-3. Krvestín
-4. Pouto přísahy
-5. Pozemské rozkoše
-6. Nesmrtelné následky
-7. Vděk
-8. Ela v zemi medvědů
-9. Mezi nebem a zemí
-10. Lesní víla Modlinka
-11. Aréna!
-
----
-
-## 🕐 2026-04-26 06:49:26 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

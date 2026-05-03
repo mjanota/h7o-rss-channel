@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 02 May 2026 06:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:02:16 +0000</lastBuildDate>
     <item>
       <title>Luxusní smrt</title>
       <link>https://www.h7o.cz/clanky/14504-luxusni-smrt</link>
@@ -449,13 +449,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Tak jako každý rok i letos se můžete v tištěném časopisu Host těšit na nové sloupkaře. Jedním z nich je básník Lubomír Tichý, který se ve sloupku „Rabbit Hole“ bude věnovat různým tendencím a jevům v tiktokovém prostředí.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nejzavšivenější ze zavšivených</title>
-      <link>https://www.h7o.cz/clanky/14428-nejzavsivenejsi-ze-zavsivenych</link>
-      <description>Jsou psi skutečně jako Kristus, jak ve svém románu „Sympatie“ tvrdí Rodrigo Blanco Calderón? A platí to i o legendárním psovi Simona Bolívara Nevadovi?</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14428-nejzavsivenejsi-ze-zavsivenych</guid>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
