@@ -120,14 +120,6 @@
     "category": "zprávy"
   },
   {
-    "title": "Šotoušové sobě i nám",
-    "url": "https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam",
-    "description": "Tak jako každý rok i letos se můžete v tištěném časopisu Host těšit na nové sloupkaře. Jedním z nich je básník Lubomír Tichý, který se ve sloupku „Rabbit Hole“ bude věnovat různým tendencím a jevům v tiktokovém prostředí.",
-    "date": "2026-02-03T00:00:00",
-    "author": "Lubomír Tichý",
-    "category": "sloupek"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -502,5 +494,13 @@
     "date": "2026-04-29T00:00:00",
     "author": "Jakub Jetmar",
     "category": "sloupek"
+  },
+  {
+    "title": "Potřebujeme existenciální zkušenost lásky k životu",
+    "url": "https://www.h7o.cz/clanky/14505-potrebujeme-existencialni-zkusenost-lasky-k-zivotu",
+    "description": "Básník a psychoterapeut Adam Borzič vydal knihu „Spiritualita posvátné země“. Argumentuje v ní, že bez toho, abychom přírodu vnímali jako posvátnou a jako součást vlastního těla, její ničení nezastavíme. Proč potřebujeme svět opět zakouzlit?",
+    "date": "2026-05-04T00:00:00",
+    "author": "Jan Němec",
+    "category": "rozhovor"
   }
 ]

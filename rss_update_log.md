@@ -5,6 +5,30 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-04 07:17:27 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
+## 🕐 2026-05-04 07:17:26 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Potřebujeme existenciální zkušenost lásky k životu
+
+---
+
 ## 🕐 2026-05-03 07:02:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -220,44 +244,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nestagnovat v nostalgii
-
----
-
-## 🕐 2026-04-27 07:08:28 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 11
-
-**Tituly nových položek:**
-
-1. Vyděšená k smrti
-2. Kouzla náhody
-3. Atopický ekzém
-4. Juditino tajemství
-5. Golem 02/2026
-6. Války s odpadem
-7. Věda o pomstě
-8. Tam, kde štěkají kočky
-9. Republika zlodějů
-10. Taste - Chuť mého života
-11. Nevěřím v astrologii
-
----
-
-## 🕐 2026-04-27 07:08:28 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit
 
 ---
 

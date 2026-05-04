@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 03 May 2026 07:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:17:26 +0000</lastBuildDate>
+    <item>
+      <title>Potřebujeme existenciální zkušenost lásky k životu</title>
+      <link>https://www.h7o.cz/clanky/14505-potrebujeme-existencialni-zkusenost-lasky-k-zivotu</link>
+      <description>Básník a psychoterapeut Adam Borzič vydal knihu „Spiritualita posvátné země“. Argumentuje v ní, že bez toho, abychom přírodu vnímali jako posvátnou a jako součást vlastního těla, její ničení nezastavíme. Proč potřebujeme svět opět zakouzlit?</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14505-potrebujeme-existencialni-zkusenost-lasky-k-zivotu</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Luxusní smrt</title>
       <link>https://www.h7o.cz/clanky/14504-luxusni-smrt</link>
@@ -442,13 +449,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Společnost Anthropic využívala k vývoji chatbota Claude i texty z fyzických kopií knih. Ukazují to soudem nově odtajněné dokumenty.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14437-rozrezat-skenovat-trenovat-ai-se-cvicila-i-na-fyzickych-knihach</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Šotoušové sobě i nám</title>
-      <link>https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam</link>
-      <description>Tak jako každý rok i letos se můžete v tištěném časopisu Host těšit na nové sloupkaře. Jedním z nich je básník Lubomír Tichý, který se ve sloupku „Rabbit Hole“ bude věnovat různým tendencím a jevům v tiktokovém prostředí.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14435-sotousove-sobe-i-nam</guid>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
