@@ -112,14 +112,6 @@
     "category": "seriál"
   },
   {
-    "title": "Rozřezat, skenovat, trénovat. AI se cvičila i na fyzických knihách",
-    "url": "https://www.h7o.cz/clanky/14437-rozrezat-skenovat-trenovat-ai-se-cvicila-i-na-fyzickych-knihach",
-    "description": "Společnost Anthropic využívala k vývoji chatbota Claude i texty z fyzických kopií knih. Ukazují to soudem nově odtajněné dokumenty.",
-    "date": "2026-02-04T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -502,5 +494,13 @@
     "date": "2026-05-04T00:00:00",
     "author": "Jan Němec",
     "category": "rozhovor"
+  },
+  {
+    "title": "Tříštičky",
+    "url": "https://www.h7o.cz/clanky/14506-tristicky",
+    "description": "„Kouzelný vrch“ Thomase Manna je „gigantický román o tom, že si jeho hrdina Hans Castorp půjčí tužku — a pak si ji půjčí ještě jednou! Přepadá mě z toho dokonalá závrať,“ píše ve svém pravidelném sloupku pro časopis Host Marek Šindelka.",
+    "date": "2026-05-05T00:00:00",
+    "author": "Marek Šindelka",
+    "category": "sloupek"
   }
 ]
