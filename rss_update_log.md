@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-06 07:09:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Život v pitlane
+2. Cestujeme po Turecku
+3. Tajemné stezky - Za skrytou krásou Ašska
+4. JFK 043 - Lovci artefaktů
+5. Tak o co jde?
+6. Břeclav – Pohansko XI.
+7. Mému mladšímu já
+8. Strážce svaté relikvie
+9. Hry, sítě, porno
+10. Popelčina velká noc
+11. Napravený nepřítel
+12. Pomsta po řecku
+13. Dědic říše
+14. Nedovolené potěšení slečny Claiborneové
+15. Dáma s maskou
+16. Co manželka nevěděla
+17. Penzion v Portugalsku
+18. Marný boj
+19. Nakonec lásku našli
+
+---
+
+## 🕐 2026-05-06 07:09:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Llama před soudem
+
+---
+
 ## 🕐 2026-05-05 06:59:14 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -209,88 +255,6 @@ Uchovává záznamy za poslední týden.
 
 1. Luxusní smrt
 2. Skutečně zabíjíme lidi
-
----
-
-## 🕐 2026-04-29 07:02:55 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Nezbedné obrázky - modrý sešit
-2. Radost z učení
-3. Přístup zaměřený na člověka
-4. Srdeční selhání
-5. Řeznice z Malé Barmy
-6. Město duchů
-7. Výzvy a inovace v sociální práci se seniory
-8. Sladké očekávání
-9. Od prince ke králi
-10. Ulička tajných vášní - Skandální lady Constance
-11. Eliška Andílek
-12. Šumavský upír
-13. Domov zlatem spravený
-14. Ostrov země
-15. Dědictví skotských templářů
-16. První Evropané
-17. Přítelkyně paní Maigretové
-18. Moře času
-19. KáPéZetka Ne-mu-síš
-
----
-
-## 🕐 2026-04-29 07:02:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-04-28 07:08:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Naprosté motivy
-2. Ke startu připravit!
-3. Právní biografie jednoho fideikomisu
-4. Dědictví
-5. Umění rozhodnout se
-6. Poruchy chůze a stability
-7. Malý kousek Paříže
-8. Červ
-9. Od deníků k výzkumu
-10. Frankenstein
-11. Čína - Císařova závěť
-12. Stanley Tucci: U jednoho stolu
-13. Můj první hrabě
-
----
-
-## 🕐 2026-04-28 07:07:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nestagnovat v nostalgii
 
 ---
 
