@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-07 07:14:20 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Bronzová vež
+2. Moucha, Myš a lži
+3. Podpalubí
+4. Sad kostí
+5. Měsíc mého života
+6. Důkazní nouze
+7. Květnová nevěsta
+8. Malá noční vražda
+9. Válečný pilot
+10. Slova tak sladká a smrtící
+11. Pod palbou hloubkařů – DODATKY
+12. Osvícení
+13. Kovbojové na moři
+14. Sladké Česko
+15. Nesmíš mi sem s myšmi
+16. Anesteziologie, resuscitace a intenzivní medicína pro studenty a absolventy lékařských fakult. Anest
+17. Stručný přehled oftalmologie
+18. Dobrodružství v útulku – Splněný sen
+
+---
+
+## 🕐 2026-05-07 07:14:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Víc než práce s textem
+
+---
+
 ## 🕐 2026-05-06 07:09:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -207,54 +252,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-04-30 07:05:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Můj stát. Putování s českým lvem za sedmi státními symboly
-2. Helena Zmatlíková dětem
-3. Kočka na kolejích
-4. Hodinový hoteliér
-5. Matematika plná koroptví
-6. Brutlyrik
-7. Dharmašlap
-8. Hegemonie a marginalita ve slovanském areálu
-9. Případ výjimečné klibny
-10. Kronika druhé světové války
-11. Gianluigi Buffon: umění pádů
-12. Marvel - Spidey a jeho úžasní přátelé: Odvážná záchrana
-13. Mezi nebem a zemí
-14. Orlík
-15. Volná jízda
-16. Víc než pomsta
-17. Vražda v knihkupectví
-18. Za pohádkou s vodníkem Leknínkem
-19. Tam, kde štěkají kočky
-20. Koťátko Cesmína - Jasmínčina zvířátka
-
----
-
-## 🕐 2026-04-30 07:05:23 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Luxusní smrt
-2. Skutečně zabíjíme lidi
 
 ---
 

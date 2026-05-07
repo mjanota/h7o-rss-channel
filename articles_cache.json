@@ -96,14 +96,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Hněv nesmí zůstat sám",
-    "url": "https://www.h7o.cz/clanky/14438-hnev-nesmi-zustat-sam",
-    "description": "„Svět se brutálně militarizuje — a když chci poezií zachytit současný vibe, nemůžu mluvit včerejším jazykem,“ říká básník a nakladatel Aleš Kauer o své básnické sbírce „Lebka hoří neonovým snem“, která byla nominována na letošní Cenu literární kritiky v kategorii poezie.",
-    "date": "2026-02-06T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -502,5 +494,13 @@
     "date": "2026-05-06T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Víc než práce s textem",
+    "url": "https://www.h7o.cz/clanky/14508-vic-nez-prace-s-textem",
+    "description": "Akademie věd ČR v létě pořádá VII. kongres světové bohemistiky, jehož se zúčastní 250 expertek a expertů na český jazyk, literaturu a kulturu. V příštích měsících vám nabídneme rozhovory s některými z nich. Ten první s Michelle Woods, americkou translatoložkou a profesorkou anglické literatury.",
+    "date": "2026-05-07T00:00:00",
+    "author": "Klára Kudlová a Ludmila Rosenbaumová",
+    "category": "seriál"
   }
 ]
