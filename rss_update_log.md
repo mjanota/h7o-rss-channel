@@ -5,6 +5,43 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-08 06:47:30 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 14
+
+**Tituly nových položek:**
+
+1. Pilíře stvoření
+2. Mrtvé duše nezpívají
+3. Robert Saudek
+4. Nové příběhy se šťastným koncem – Rozespalý netopýr
+5. Zvrácené hry
+6. Nespokojenost
+7. Kriminalistické otazníky
+8. Propletené osudy
+9. Říkačky a říkadla
+10. Císař radosti
+11. Ošukej mě
+12. Nemilovaná
+13. Zvrácený osud
+14. Adam ze Zbraslavi a případ kralevice Jana
+
+---
+
+## 🕐 2026-05-08 06:47:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-07 07:14:20 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

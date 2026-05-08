@@ -1,5 +1,132 @@
 [
   {
+    "title": "Pilíře stvoření",
+    "url": "https://www.kosmas.cz/knihy/555689/pilire-stvoreni/",
+    "description": "Pilíře stvoření - Richard Panek",
+    "authors": [
+      "Richard Panek"
+    ],
+    "date": "2026-05-08T06:47:30.457185+00:00"
+  },
+  {
+    "title": "Mrtvé duše nezpívají",
+    "url": "https://www.kosmas.cz/knihy/564616/mrtve-duse-nezpivaji/",
+    "description": "Mrtvé duše nezpívají - Jussi Adler-Olsen, Stine Boltherová, Line Holmová",
+    "authors": [
+      "Jussi Adler-Olsen",
+      "Stine Boltherová",
+      "Line Holmová"
+    ],
+    "date": "2026-05-08T06:47:29.457185+00:00"
+  },
+  {
+    "title": "Robert Saudek",
+    "url": "https://www.kosmas.cz/knihy/568605/robert-saudek/",
+    "description": "Robert Saudek - Michal Topor",
+    "authors": [
+      "Michal Topor"
+    ],
+    "date": "2026-05-08T06:47:27.457185+00:00"
+  },
+  {
+    "title": "Nové příběhy se šťastným koncem – Rozespalý netopýr",
+    "url": "https://www.kosmas.cz/knihy/568722/nove-pribehy-se-stastnym-koncem-rozespaly-netopyr/",
+    "description": "Nové příběhy se šťastným koncem – Rozespalý netopýr - Ladislava Horová",
+    "authors": [
+      "Ladislava Horová"
+    ],
+    "date": "2026-05-08T06:47:22.457185+00:00"
+  },
+  {
+    "title": "Zvrácené hry",
+    "url": "https://www.kosmas.cz/knihy/568723/zvracene-hry/",
+    "description": "Zvrácené hry - Elena Lawson",
+    "authors": [
+      "Elena Lawson"
+    ],
+    "date": "2026-05-08T06:47:21.457185+00:00"
+  },
+  {
+    "title": "Nespokojenost",
+    "url": "https://www.kosmas.cz/knihy/568728/nespokojenost/",
+    "description": "Nespokojenost - Beatriz Serrano",
+    "authors": [
+      "Beatriz Serrano"
+    ],
+    "date": "2026-05-08T06:47:20.457185+00:00"
+  },
+  {
+    "title": "Kriminalistické otazníky",
+    "url": "https://www.kosmas.cz/knihy/568729/kriminalisticke-otazniky/",
+    "description": "Kriminalistické otazníky - Ondřej Krotil",
+    "authors": [
+      "Ondřej Krotil"
+    ],
+    "date": "2026-05-08T06:47:19.457185+00:00"
+  },
+  {
+    "title": "Propletené osudy",
+    "url": "https://www.kosmas.cz/knihy/568730/propletene-osudy/",
+    "description": "Propletené osudy - Rebecca Ross",
+    "authors": [
+      "Rebecca Ross"
+    ],
+    "date": "2026-05-08T06:47:18.457185+00:00"
+  },
+  {
+    "title": "Říkačky a říkadla",
+    "url": "https://www.kosmas.cz/knihy/566596/rikacky-a-rikadla/",
+    "description": "Říkačky a říkadla - Lucie Forštová",
+    "authors": [
+      "Lucie Forštová"
+    ],
+    "date": "2026-05-08T06:47:17.457185+00:00"
+  },
+  {
+    "title": "Císař radosti",
+    "url": "https://www.kosmas.cz/knihy/568732/cisar-radosti/",
+    "description": "Císař radosti - Ocean Vuong",
+    "authors": [
+      "Ocean Vuong"
+    ],
+    "date": "2026-05-08T06:47:16.457185+00:00"
+  },
+  {
+    "title": "Ošukej mě",
+    "url": "https://www.kosmas.cz/knihy/568733/osukej-me/",
+    "description": "Ošukej mě",
+    "authors": [],
+    "date": "2026-05-08T06:47:15.457185+00:00"
+  },
+  {
+    "title": "Nemilovaná",
+    "url": "https://www.kosmas.cz/knihy/568741/nemilovana/",
+    "description": "Nemilovaná - Ivona Knechtlová, Arnošt Lustig",
+    "authors": [
+      "Ivona Knechtlová",
+      "Arnošt Lustig"
+    ],
+    "date": "2026-05-08T06:47:14.457185+00:00"
+  },
+  {
+    "title": "Zvrácený osud",
+    "url": "https://www.kosmas.cz/knihy/566170/zvraceny-osud/",
+    "description": "Zvrácený osud - Monica Dake",
+    "authors": [
+      "Monica Dake"
+    ],
+    "date": "2026-05-08T06:47:12.457185+00:00"
+  },
+  {
+    "title": "Adam ze Zbraslavi a případ kralevice Jana",
+    "url": "https://www.kosmas.cz/knihy/566065/adam-ze-zbraslavi-a-pripad-kralevice-jana/",
+    "description": "Adam ze Zbraslavi a případ kralevice Jana - Hana Whitton",
+    "authors": [
+      "Hana Whitton"
+    ],
+    "date": "2026-05-08T06:47:11.457185+00:00"
+  },
+  {
     "title": "Bronzová vež",
     "url": "https://www.kosmas.cz/knihy/568509/bronzova-vez/",
     "description": "Bronzová vež - Petr Jaroněk",
@@ -1699,131 +1826,5 @@
       "Iva Sušická"
     ],
     "date": "2026-04-24T06:51:49.958492+00:00"
-  },
-  {
-    "title": "Hovořil se zvěří, ptáky a rybami",
-    "url": "https://www.kosmas.cz/knihy/568291/hovoril-se-zveri-ptaky-a-rybami/",
-    "description": "Hovořil se zvěří, ptáky a rybami - Konrad Lorenz",
-    "authors": [
-      "Konrad Lorenz"
-    ],
-    "date": "2026-04-24T06:51:48.958492+00:00"
-  },
-  {
-    "title": "Věř si",
-    "url": "https://www.kosmas.cz/knihy/564004/ver-si/",
-    "description": "Věř si - Tama Kivesová",
-    "authors": [
-      "Tama Kivesová"
-    ],
-    "date": "2026-04-24T06:51:47.958492+00:00"
-  },
-  {
-    "title": "Edvard Beneš: Paměti - kompletní vydání",
-    "url": "https://www.kosmas.cz/knihy/568297/edvard-benes-pameti-kompletni-vydani/",
-    "description": "Edvard Beneš: Paměti - kompletní vydání - Edvard Beneš",
-    "authors": [
-      "Edvard Beneš"
-    ],
-    "date": "2026-04-24T06:51:46.958492+00:00"
-  },
-  {
-    "title": "Nejsladší píseň",
-    "url": "https://www.kosmas.cz/knihy/567610/nejsladsi-pisen/",
-    "description": "Nejsladší píseň - Richard Wurmbrand",
-    "authors": [
-      "Richard Wurmbrand"
-    ],
-    "date": "2026-04-24T06:51:45.958492+00:00"
-  },
-  {
-    "title": "Duch Pankráce",
-    "url": "https://www.kosmas.cz/knihy/567611/duch-pankrace/",
-    "description": "Duch Pankráce - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-24T06:51:44.958492+00:00"
-  },
-  {
-    "title": "Skrytá říše",
-    "url": "https://www.kosmas.cz/knihy/568070/skryta-rise/",
-    "description": "Skrytá říše - Holly Renee",
-    "authors": [
-      "Holly Renee"
-    ],
-    "date": "2026-04-23T06:51:08.996854+00:00"
-  },
-  {
-    "title": "Architekt hněvu",
-    "url": "https://www.kosmas.cz/knihy/568068/architekt-hnevu/",
-    "description": "Architekt hněvu - Ondřej Blaho",
-    "authors": [
-      "Ondřej Blaho"
-    ],
-    "date": "2026-04-23T06:51:07.996854+00:00"
-  },
-  {
-    "title": "Nemravné sliby",
-    "url": "https://www.kosmas.cz/knihy/568112/nemravne-sliby/",
-    "description": "Nemravné sliby - Alessandra Torre",
-    "authors": [
-      "Alessandra Torre"
-    ],
-    "date": "2026-04-23T06:51:06.996854+00:00"
-  },
-  {
-    "title": "Muž z Brna na Onom Světě",
-    "url": "https://www.kosmas.cz/knihy/565422/muz-z-brna-na-onom-svete/",
-    "description": "Muž z Brna na Onom Světě - Petra Klabouchová",
-    "authors": [
-      "Petra Klabouchová"
-    ],
-    "date": "2026-04-23T06:51:05.996854+00:00"
-  },
-  {
-    "title": "Zlá babička",
-    "url": "https://www.kosmas.cz/knihy/568209/zla-babicka/",
-    "description": "Zlá babička - Ditta Kůtová",
-    "authors": [
-      "Ditta Kůtová"
-    ],
-    "date": "2026-04-23T06:51:04.996854+00:00"
-  },
-  {
-    "title": "Jak mluvit s dětmi o penězích",
-    "url": "https://www.kosmas.cz/knihy/566784/jak-mluvit-s-detmi-o-penezich/",
-    "description": "Jak mluvit s dětmi o penězích - Martina Burešová",
-    "authors": [
-      "Martina Burešová"
-    ],
-    "date": "2026-04-23T06:51:03.996854+00:00"
-  },
-  {
-    "title": "Z Prahy do Jeruzaléma a zpět",
-    "url": "https://www.kosmas.cz/knihy/567289/z-prahy-do-jeruzalema-a-zpet/",
-    "description": "Z Prahy do Jeruzaléma a zpět - Tomáš Kulka",
-    "authors": [
-      "Tomáš Kulka"
-    ],
-    "date": "2026-04-23T06:51:02.996854+00:00"
-  },
-  {
-    "title": "Život ve 280 znacích",
-    "url": "https://www.kosmas.cz/knihy/568135/zivot-ve-280-znacich/",
-    "description": "Život ve 280 znacích - Alex Nesien",
-    "authors": [
-      "Alex Nesien"
-    ],
-    "date": "2026-04-23T06:51:01.996854+00:00"
-  },
-  {
-    "title": "Temná řeka",
-    "url": "https://www.kosmas.cz/knihy/567513/temna-reka/",
-    "description": "Temná řeka - Ping Lu",
-    "authors": [
-      "Ping Lu"
-    ],
-    "date": "2026-04-23T06:51:00.996854+00:00"
   }
 ]
