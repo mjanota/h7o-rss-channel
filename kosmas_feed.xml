@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 08 May 2026 06:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:54:15 +0000</lastBuildDate>
+    <item>
+      <title>Satanovi koně</title>
+      <link>https://www.kosmas.cz/knihy/568294/satanovi-kone/</link>
+      <description>Satanovi koně - Zdeněk Pošíval</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568294/satanovi-kone/</guid>
+      <pubDate>Sat, 09 May 2026 06:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joštík, Justýna a pták Pelmeňák</title>
+      <link>https://www.kosmas.cz/knihy/568545/jostik-justyna-a-ptak-pelmenak/</link>
+      <description>Joštík, Justýna a pták Pelmeňák - Vladimir Mačinský</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568545/jostik-justyna-a-ptak-pelmenak/</guid>
+      <pubDate>Sat, 09 May 2026 06:54:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník tygřice</title>
+      <link>https://www.kosmas.cz/knihy/566310/denik-tygrice/</link>
+      <description>Deník tygřice - Jiřina Tomaštíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566310/denik-tygrice/</guid>
+      <pubDate>Sat, 09 May 2026 06:54:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rival Darling</title>
+      <link>https://www.kosmas.cz/knihy/568734/rival-darling/</link>
+      <description>Rival Darling - Alexandra Moody</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568734/rival-darling/</guid>
+      <pubDate>Sat, 09 May 2026 06:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dům rodu Safírů</title>
+      <link>https://www.kosmas.cz/knihy/566094/dum-rodu-safiru/</link>
+      <description>Dům rodu Safírů - Marissa Meyerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566094/dum-rodu-safiru/</guid>
+      <pubDate>Sat, 09 May 2026 06:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Nights at Freddy's: Storky z Pizzaplexu #1</title>
+      <link>https://www.kosmas.cz/knihy/568740/five-nights-at-freddy-s-storky-z-pizzaplexu-1/</link>
+      <description>Five Nights at Freddy's: Storky z Pizzaplexu #1 - Scott Cawthon</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568740/five-nights-at-freddy-s-storky-z-pizzaplexu-1/</guid>
+      <pubDate>Sat, 09 May 2026 06:53:57 +0000</pubDate>
+    </item>
     <item>
       <title>Pilíře stvoření</title>
       <link>https://www.kosmas.cz/knihy/555689/pilire-stvoreni/</link>
@@ -665,48 +707,6 @@
       <description>Můj stát. Putování s českým lvem za sedmi státními symboly - Martin Velíšek</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/566847/muj-stat.-putovani-s-ceskym-lvem-za-sedmi-statnimi-symboly/</guid>
       <pubDate>Thu, 30 Apr 2026 07:05:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Helena Zmatlíková dětem</title>
-      <link>https://www.kosmas.cz/knihy/566239/helena-zmatlikova-detem/</link>
-      <description>Helena Zmatlíková dětem - Helena Zmatlíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566239/helena-zmatlikova-detem/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kočka na kolejích</title>
-      <link>https://www.kosmas.cz/knihy/567400/kocka-na-kolejich/</link>
-      <description>Kočka na kolejích - Josef Topol</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567400/kocka-na-kolejich/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hodinový hoteliér</title>
-      <link>https://www.kosmas.cz/knihy/567401/hodinovy-hotelier/</link>
-      <description>Hodinový hoteliér - Pavel Landovský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567401/hodinovy-hotelier/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matematika plná koroptví</title>
-      <link>https://www.kosmas.cz/knihy/567484/matematika-plna-koroptvi/</link>
-      <description>Matematika plná koroptví - Milena Fucimanová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567484/matematika-plna-koroptvi/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brutlyrik</title>
-      <link>https://www.kosmas.cz/knihy/568195/brutlyrik/</link>
-      <description>Brutlyrik - Jaroslav Švadlena</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568195/brutlyrik/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dharmašlap</title>
-      <link>https://www.kosmas.cz/knihy/568197/dharmaslap/</link>
-      <description>Dharmašlap - Jaroslav Švadlena</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568197/dharmaslap/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

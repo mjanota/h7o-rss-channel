@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-09 06:54:15 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 6
+
+**Tituly nových položek:**
+
+1. Satanovi koně
+2. Joštík, Justýna a pták Pelmeňák
+3. Deník tygřice
+4. Rival Darling
+5. Dům rodu Safírů
+6. Five Nights at Freddy's: Storky z Pizzaplexu #1
+
+---
+
+## 🕐 2026-05-09 06:54:14 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-08 06:47:30 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -215,74 +244,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-05-03 07:02:16 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-05-02 06:50:54 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Balonky zakázány
-2. Emilie a 121. patro
-3. Beatles - kompletní příběh
-4. Nazývačka
-5. Kruh dní
-6. Saving 6
-7. Černý sněhulák
-8. Dotek břečťanu
-9. Meze růstu
-
----
-
-## 🕐 2026-05-02 06:50:53 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-05-01 07:07:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Bezlepková kuchařka
-2. Bezlepkové slavnosti - Sváteční menu nejen pro celiaky
-3. Bezlepkové pečení pro každého
-4. Ateliér radostné tvorby. Atelier of Joyful Creativity in Prague
-5. Anatomie lži
-6. Knížka do kočárku - Koťátko a kamarádi
-7. Město duchů
-8. Až dohraje černej vinyl
-9. Básně do Slezska II
-10. Jiné básně
-11. SONETISSIMO
-12. Víra vrytá pod kůži
-13. Kontexty 2/2026
-
----
-
-## 🕐 2026-05-01 07:07:05 UTC
 
 **Zdroj:** H7O - Časopis Host
 

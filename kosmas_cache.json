@@ -1,5 +1,59 @@
 [
   {
+    "title": "Satanovi koně",
+    "url": "https://www.kosmas.cz/knihy/568294/satanovi-kone/",
+    "description": "Satanovi koně - Zdeněk Pošíval",
+    "authors": [
+      "Zdeněk Pošíval"
+    ],
+    "date": "2026-05-09T06:54:14.641762+00:00"
+  },
+  {
+    "title": "Joštík, Justýna a pták Pelmeňák",
+    "url": "https://www.kosmas.cz/knihy/568545/jostik-justyna-a-ptak-pelmenak/",
+    "description": "Joštík, Justýna a pták Pelmeňák - Vladimir Mačinský",
+    "authors": [
+      "Vladimir Mačinský"
+    ],
+    "date": "2026-05-09T06:54:08.641762+00:00"
+  },
+  {
+    "title": "Deník tygřice",
+    "url": "https://www.kosmas.cz/knihy/566310/denik-tygrice/",
+    "description": "Deník tygřice - Jiřina Tomaštíková",
+    "authors": [
+      "Jiřina Tomaštíková"
+    ],
+    "date": "2026-05-09T06:54:05.641762+00:00"
+  },
+  {
+    "title": "Rival Darling",
+    "url": "https://www.kosmas.cz/knihy/568734/rival-darling/",
+    "description": "Rival Darling - Alexandra Moody",
+    "authors": [
+      "Alexandra Moody"
+    ],
+    "date": "2026-05-09T06:54:00.641762+00:00"
+  },
+  {
+    "title": "Dům rodu Safírů",
+    "url": "https://www.kosmas.cz/knihy/566094/dum-rodu-safiru/",
+    "description": "Dům rodu Safírů - Marissa Meyerová",
+    "authors": [
+      "Marissa Meyerová"
+    ],
+    "date": "2026-05-09T06:53:58.641762+00:00"
+  },
+  {
+    "title": "Five Nights at Freddy's: Storky z Pizzaplexu #1",
+    "url": "https://www.kosmas.cz/knihy/568740/five-nights-at-freddy-s-storky-z-pizzaplexu-1/",
+    "description": "Five Nights at Freddy's: Storky z Pizzaplexu #1 - Scott Cawthon",
+    "authors": [
+      "Scott Cawthon"
+    ],
+    "date": "2026-05-09T06:53:57.641762+00:00"
+  },
+  {
     "title": "Pilíře stvoření",
     "url": "https://www.kosmas.cz/knihy/555689/pilire-stvoreni/",
     "description": "Pilíře stvoření - Richard Panek",
@@ -1772,59 +1826,5 @@
       "Zuzana Muchová-Daxnerová"
     ],
     "date": "2026-04-24T06:51:56.958492+00:00"
-  },
-  {
-    "title": "Smrt je vrahům v patách / Když zákon nestačí",
-    "url": "https://www.kosmas.cz/knihy/568256/smrt-je-vrahum-v-patach-kdyz-zakon-nestaci/",
-    "description": "Smrt je vrahům v patách / Když zákon nestačí - Jiljí Kocian",
-    "authors": [
-      "Jiljí Kocian"
-    ],
-    "date": "2026-04-24T06:51:55.958492+00:00"
-  },
-  {
-    "title": "Komplikace",
-    "url": "https://www.kosmas.cz/knihy/568270/komplikace/",
-    "description": "Komplikace - Danielle Steel",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "date": "2026-04-24T06:51:53.958492+00:00"
-  },
-  {
-    "title": "Rozkvetlá",
-    "url": "https://www.kosmas.cz/knihy/568281/rozkvetla/",
-    "description": "Rozkvetlá - Renáta Krejčí",
-    "authors": [
-      "Renáta Krejčí"
-    ],
-    "date": "2026-04-24T06:51:52.958492+00:00"
-  },
-  {
-    "title": "Vražedné peníze",
-    "url": "https://www.kosmas.cz/knihy/564789/vrazedne-penize/",
-    "description": "Vražedné peníze - Cara Hunterová",
-    "authors": [
-      "Cara Hunterová"
-    ],
-    "date": "2026-04-24T06:51:51.958492+00:00"
-  },
-  {
-    "title": "Ohňostroj mezi námi",
-    "url": "https://www.kosmas.cz/knihy/565423/ohnostroj-mezi-nami/",
-    "description": "Ohňostroj mezi námi - Kyra Groh",
-    "authors": [
-      "Kyra Groh"
-    ],
-    "date": "2026-04-24T06:51:50.958492+00:00"
-  },
-  {
-    "title": "Týden v Nejistotě",
-    "url": "https://www.kosmas.cz/knihy/568290/tyden-v-nejistote/",
-    "description": "Týden v Nejistotě - Iva Sušická",
-    "authors": [
-      "Iva Sušická"
-    ],
-    "date": "2026-04-24T06:51:49.958492+00:00"
   }
 ]
