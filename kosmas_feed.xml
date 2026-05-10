@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 09 May 2026 06:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 07:06:44 +0000</lastBuildDate>
+    <item>
+      <title>Ordinace</title>
+      <link>https://www.kosmas.cz/knihy/567984/ordinace/</link>
+      <description>Ordinace - Petra Dvořáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567984/ordinace/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Impérium</title>
+      <link>https://www.kosmas.cz/knihy/568036/imperium/</link>
+      <description>Impérium - Roman Bureš</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568036/imperium/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disonance a fata morgána</title>
+      <link>https://www.kosmas.cz/knihy/568054/disonance-a-fata-morgana/</link>
+      <description>Disonance a fata morgána - Vladimír Papoušek, a kolektiv autorů</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568054/disonance-a-fata-morgana/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vysocí muži jen neradi tančí</title>
+      <link>https://www.kosmas.cz/knihy/568240/vysoci-muzi-jen-neradi-tanci/</link>
+      <description>Vysocí muži jen neradi tančí - Pavel Frydrych</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568240/vysoci-muzi-jen-neradi-tanci/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oheň svatého Antonína</title>
+      <link>https://www.kosmas.cz/knihy/568314/ohen-svateho-antonina/</link>
+      <description>Oheň svatého Antonína - Nicolas Pegon</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568314/ohen-svateho-antonina/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polina</title>
+      <link>https://www.kosmas.cz/knihy/568317/polina/</link>
+      <description>Polina - Bastien Vivès</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568317/polina/</guid>
+      <pubDate>Sun, 10 May 2026 07:06:37 +0000</pubDate>
+    </item>
     <item>
       <title>Satanovi koně</title>
       <link>https://www.kosmas.cz/knihy/568294/satanovi-kone/</link>
@@ -665,48 +707,6 @@
       <description>Až dohraje černej vinyl - Zdeněk Lebl</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568232/az-dohraje-cernej-vinyl/</guid>
       <pubDate>Fri, 01 May 2026 07:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Básně do Slezska II</title>
-      <link>https://www.kosmas.cz/knihy/568233/basne-do-slezska-ii/</link>
-      <description>Básně do Slezska II - Břetislav Pletnicki</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568233/basne-do-slezska-ii/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jiné básně</title>
-      <link>https://www.kosmas.cz/knihy/568237/jine-basne/</link>
-      <description>Jiné básně - Břetislav Pletnicki</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568237/jine-basne/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>SONETISSIMO</title>
-      <link>https://www.kosmas.cz/knihy/568239/sonetissimo/</link>
-      <description>SONETISSIMO - Zdeněk Lebl</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568239/sonetissimo/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Víra vrytá pod kůži</title>
-      <link>https://www.kosmas.cz/knihy/568283/vira-vryta-pod-kuzi/</link>
-      <description>Víra vrytá pod kůži - Martin Drlíček, Zuzana Faktorová Frantová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568283/vira-vryta-pod-kuzi/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kontexty 2/2026</title>
-      <link>https://www.kosmas.cz/knihy/568424/kontexty-2-2026/</link>
-      <description>Kontexty 2/2026</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568424/kontexty-2-2026/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Můj stát. Putování s českým lvem za sedmi státními symboly</title>
-      <link>https://www.kosmas.cz/knihy/566847/muj-stat.-putovani-s-ceskym-lvem-za-sedmi-statnimi-symboly/</link>
-      <description>Můj stát. Putování s českým lvem za sedmi státními symboly - Martin Velíšek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566847/muj-stat.-putovani-s-ceskym-lvem-za-sedmi-statnimi-symboly/</guid>
-      <pubDate>Thu, 30 Apr 2026 07:05:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-10 07:06:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 6
+
+**Tituly nových položek:**
+
+1. Ordinace
+2. Impérium
+3. Disonance a fata morgána
+4. Vysocí muži jen neradi tančí
+5. Oheň svatého Antonína
+6. Polina
+
+---
+
+## 🕐 2026-05-10 07:06:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-09 06:54:15 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -230,26 +259,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Potřebujeme existenciální zkušenost lásky k životu
-
----
-
-## 🕐 2026-05-03 07:02:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-05-03 07:02:16 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
