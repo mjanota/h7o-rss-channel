@@ -5,6 +5,34 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-11 07:29:35 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. U mě pořád dobrý
+
+---
+
+## 🕐 2026-05-11 07:29:34 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Opilost
+
+---
+
 ## 🕐 2026-05-10 07:06:44 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -235,30 +263,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Tříštičky
-
----
-
-## 🕐 2026-05-04 07:17:27 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-05-04 07:17:26 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Potřebujeme existenciální zkušenost lásky k životu
 
 ---
 

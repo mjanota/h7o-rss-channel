@@ -80,14 +80,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Grögerová byla z mého objevu dojatá",
-    "url": "https://www.h7o.cz/clanky/14440-gr-gerova-byla-z-meho-objevu-dojata",
-    "description": "„V případě téhle knihy jsem prostě věděl, že ji musím dát dohromady, protože nikdo jiný to za mě neudělá. Že nevznikne-li, pak ty unikátní hry zapadnou stejně jako kdysi,“ říká básník a germanista Pavel Novotný, editor svazku rozhlasových her autorské dvojice Bohumily Grögerové a Josefa Hiršala.",
-    "date": "2026-02-10T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-07T00:00:00",
     "author": "Klára Kudlová a Ludmila Rosenbaumová",
     "category": "seriál"
+  },
+  {
+    "title": "Opilost",
+    "url": "https://www.h7o.cz/clanky/14509-opilost",
+    "description": "V rubrice Druhá vášeň se spisovatelů ptáme na to, co je pro ně stejně důležité jako psaní, ale co s psaním vůbec nesouvisí. A někdy taky ano. Jaká je druhá vášeň Petra Šestáka?",
+    "date": "2026-05-11T00:00:00",
+    "author": "Petr Šesták",
+    "category": "sloupek"
   }
 ]
