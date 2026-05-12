@@ -72,14 +72,6 @@
     "category": "seriál"
   },
   {
-    "title": "Olejová skvrna",
-    "url": "https://www.h7o.cz/clanky/14443-olejova-skvrna",
-    "description": "„Role kultury v naší společnosti se za poslední dekády silně změnila a v podstatě je prorostlá politikou. Jako by náš vkus — i ten gastronomický — spolehlivě předpovídal naše hodnoty i politické směřování,“ píše v novém pravidelném sloupku Žena a život Anna Durnová.",
-    "date": "2026-02-11T00:00:00",
-    "author": "Anna Durnová",
-    "category": "sloupek"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-11T00:00:00",
     "author": "Petr Šesták",
     "category": "sloupek"
+  },
+  {
+    "title": "Přijmout nejistotu jako východisko",
+    "url": "https://www.h7o.cz/clanky/14513-prijmout-nejistotu-jako-vychodisko",
+    "description": "V básních Jana Škroba lze vnímat konejšivou přítomnost mezilidského i mezidruhového pochopení, stejně jako postapokalyptické situace. Už předchozí díla oceňovaného básníka v sobě nesla element dobrodružného zkoumání. „Zámoří“ nás ale zanese zase o kus dál.",
+    "date": "2026-05-12T00:00:00",
+    "author": "Olga Wawracz",
+    "category": "rozhovor"
   }
 ]

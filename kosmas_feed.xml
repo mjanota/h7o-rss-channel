@@ -7,7 +7,133 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 May 2026 07:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:12:53 +0000</lastBuildDate>
+    <item>
+      <title>Totalita</title>
+      <link>https://www.kosmas.cz/knihy/568484/totalita/</link>
+      <description>Totalita - Oto Ungerman</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568484/totalita/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mimosys</title>
+      <link>https://www.kosmas.cz/knihy/568429/mimosys/</link>
+      <description>Mimosys - Martin Fendrych</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568429/mimosys/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Žádná zeď neexistuje</title>
+      <link>https://www.kosmas.cz/knihy/567678/zadna-zed-neexistuje/</link>
+      <description>Žádná zeď neexistuje - Allie Bailey</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567678/zadna-zed-neexistuje/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Válka ševců</title>
+      <link>https://www.kosmas.cz/knihy/565961/valka-sevcu/</link>
+      <description>Válka ševců - Martin Jemelka, Svatopluk Herc, Ondřej Ševeček, Vojtěch Kessler</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565961/valka-sevcu/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Benátky. Návod k užívání</title>
+      <link>https://www.kosmas.cz/knihy/565581/benatky.-navod-k-uzivani/</link>
+      <description>Benátky. Návod k užívání - Marcel Sauer, Klára Fialová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565581/benatky.-navod-k-uzivani/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paměť a dějiny č. 1/2026</title>
+      <link>https://www.kosmas.cz/knihy/568505/pamet-a-dejiny-c.-1-2026/</link>
+      <description>Paměť a dějiny č. 1/2026</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568505/pamet-a-dejiny-c.-1-2026/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebezpečná hra</title>
+      <link>https://www.kosmas.cz/knihy/568800/nebezpecna-hra/</link>
+      <description>Nebezpečná hra - Julie Garwood</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568800/nebezpecna-hra/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražda v maringotce</title>
+      <link>https://www.kosmas.cz/knihy/568823/vrazda-v-maringotce/</link>
+      <description>Vražda v maringotce - Irina Shapiro</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568823/vrazda-v-maringotce/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražda v kryptě</title>
+      <link>https://www.kosmas.cz/knihy/568824/vrazda-v-krypte/</link>
+      <description>Vražda v kryptě - Irina Shapiro</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568824/vrazda-v-krypte/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražda ve mlýně</title>
+      <link>https://www.kosmas.cz/knihy/568826/vrazda-ve-mlyne/</link>
+      <description>Vražda ve mlýně - Irina Shapiro</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568826/vrazda-ve-mlyne/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražda v opatství</title>
+      <link>https://www.kosmas.cz/knihy/568827/vrazda-v-opatstvi/</link>
+      <description>Vražda v opatství - Irina Shapiro</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568827/vrazda-v-opatstvi/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>V kleci</title>
+      <link>https://www.kosmas.cz/knihy/568828/v-kleci/</link>
+      <description>V kleci - Ellison Cooper</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568828/v-kleci/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Už jsem ti to říkala?</title>
+      <link>https://www.kosmas.cz/knihy/568829/uz-jsem-ti-to-rikala/</link>
+      <description>Už jsem ti to říkala? - Lauren Graham</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568829/uz-jsem-ti-to-rikala/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Školák Kája Mařík</title>
+      <link>https://www.kosmas.cz/knihy/568831/skolak-kaja-marik/</link>
+      <description>Školák Kája Mařík - Felix Háj</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568831/skolak-kaja-marik/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stín</title>
+      <link>https://www.kosmas.cz/knihy/568832/stin/</link>
+      <description>Stín - Adam Przechrzta</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568832/stin/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sherlock Holmes a Rudá věž</title>
+      <link>https://www.kosmas.cz/knihy/568833/sherlock-holmes-a-ruda-vez/</link>
+      <description>Sherlock Holmes a Rudá věž - Mark A. Latham</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568833/sherlock-holmes-a-ruda-vez/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sherlock Holmes a krvavá zrada</title>
+      <link>https://www.kosmas.cz/knihy/568835/sherlock-holmes-a-krvava-zrada/</link>
+      <description>Sherlock Holmes a krvavá zrada - Mark A. Latham</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568835/sherlock-holmes-a-krvava-zrada/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sherlock Holmes a Ďáblův prach</title>
+      <link>https://www.kosmas.cz/knihy/568836/sherlock-holmes-a-dabluv-prach/</link>
+      <description>Sherlock Holmes a Ďáblův prach - James Lovegrove</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568836/sherlock-holmes-a-dabluv-prach/</guid>
+      <pubDate>Tue, 12 May 2026 07:12:34 +0000</pubDate>
+    </item>
     <item>
       <title>U mě pořád dobrý</title>
       <link>https://www.kosmas.cz/knihy/568725/u-me-porad-dobry/</link>
@@ -581,132 +707,6 @@
       <description>Rod bijících srdcí - Olivia Wildenstein</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/565877/rod-bijicich-srdci/</guid>
       <pubDate>Tue, 05 May 2026 06:58:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pýcha a předsudek - grafický román</title>
-      <link>https://www.kosmas.cz/knihy/565878/pycha-a-predsudek-graficky-roman/</link>
-      <description>Pýcha a předsudek - grafický román - Jane Austenová, Claudia Kühn, Tara Spruit</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565878/pycha-a-predsudek-graficky-roman/</guid>
-      <pubDate>Tue, 05 May 2026 06:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Na zlaté hraně</title>
-      <link>https://www.kosmas.cz/knihy/565880/na-zlate-hrane/</link>
-      <description>Na zlaté hraně - Layne Fargo</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565880/na-zlate-hrane/</guid>
-      <pubDate>Tue, 05 May 2026 06:58:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Balonky zakázány</title>
-      <link>https://www.kosmas.cz/knihy/568440/balonky-zakazany/</link>
-      <description>Balonky zakázány - Robert Zola Christensen</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568440/balonky-zakazany/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emilie a 121. patro</title>
-      <link>https://www.kosmas.cz/knihy/568456/emilie-a-121.-patro/</link>
-      <description>Emilie a 121. patro - Martina Macháčová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568456/emilie-a-121.-patro/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beatles - kompletní příběh</title>
-      <link>https://www.kosmas.cz/knihy/568507/beatles-kompletni-pribeh/</link>
-      <description>Beatles - kompletní příběh - kol.</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568507/beatles-kompletni-pribeh/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nazývačka</title>
-      <link>https://www.kosmas.cz/knihy/568538/nazyvacka/</link>
-      <description>Nazývačka - Jedediah Berry</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568538/nazyvacka/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kruh dní</title>
-      <link>https://www.kosmas.cz/knihy/568540/kruh-dni/</link>
-      <description>Kruh dní - Ken Follett</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568540/kruh-dni/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saving 6</title>
-      <link>https://www.kosmas.cz/knihy/568541/saving-6/</link>
-      <description>Saving 6 - Chloe Walsh</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568541/saving-6/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Černý sněhulák</title>
-      <link>https://www.kosmas.cz/knihy/568543/cerny-snehulak/</link>
-      <description>Černý sněhulák - Marie Jakoubková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568543/cerny-snehulak/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dotek břečťanu</title>
-      <link>https://www.kosmas.cz/knihy/568544/dotek-brectanu/</link>
-      <description>Dotek břečťanu - Ivy Green</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568544/dotek-brectanu/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meze růstu</title>
-      <link>https://www.kosmas.cz/knihy/567288/meze-rustu/</link>
-      <description>Meze růstu - William W. Behrens III., Dennis L. Meadows, Donella H. Meadowsová, Jørgen Randers</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567288/meze-rustu/</guid>
-      <pubDate>Sat, 02 May 2026 06:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezlepková kuchařka</title>
-      <link>https://www.kosmas.cz/knihy/567266/bezlepkova-kucharka/</link>
-      <description>Bezlepková kuchařka - Zdeňka Mazúrová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567266/bezlepkova-kucharka/</guid>
-      <pubDate>Fri, 01 May 2026 07:07:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezlepkové slavnosti - Sváteční menu nejen pro celiaky</title>
-      <link>https://www.kosmas.cz/knihy/567313/bezlepkove-slavnosti-svatecni-menu-nejen-pro-celiaky/</link>
-      <description>Bezlepkové slavnosti - Sváteční menu nejen pro celiaky - Zdeňka Mazúrová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567313/bezlepkove-slavnosti-svatecni-menu-nejen-pro-celiaky/</guid>
-      <pubDate>Fri, 01 May 2026 07:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezlepkové pečení pro každého</title>
-      <link>https://www.kosmas.cz/knihy/567316/bezlepkove-peceni-pro-kazdeho/</link>
-      <description>Bezlepkové pečení pro každého - Zdeňka Mazúrová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567316/bezlepkove-peceni-pro-kazdeho/</guid>
-      <pubDate>Fri, 01 May 2026 07:07:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ateliér radostné tvorby. Atelier of Joyful Creativity in Prague</title>
-      <link>https://www.kosmas.cz/knihy/567689/atelier-radostne-tvorby.-atelier-of-joyful-creativity-in-prague/</link>
-      <description>Ateliér radostné tvorby. Atelier of Joyful Creativity in Prague - Piot Gierowski, Jan H. Vitvar, Vladimír Drábek, Jaromír Typlt</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567689/atelier-radostne-tvorby.-atelier-of-joyful-creativity-in-prague/</guid>
-      <pubDate>Fri, 01 May 2026 07:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anatomie lži</title>
-      <link>https://www.kosmas.cz/knihy/567798/anatomie-lzi/</link>
-      <description>Anatomie lži - Dan Brown</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567798/anatomie-lzi/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Knížka do kočárku - Koťátko a kamarádi</title>
-      <link>https://www.kosmas.cz/knihy/567989/knizka-do-kocarku-kotatko-a-kamaradi/</link>
-      <description>Knížka do kočárku - Koťátko a kamarádi</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567989/knizka-do-kocarku-kotatko-a-kamaradi/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Město duchů</title>
-      <link>https://www.kosmas.cz/knihy/567996/mesto-duchu/</link>
-      <description>Město duchů - Kevin Chen</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567996/mesto-duchu/</guid>
-      <pubDate>Fri, 01 May 2026 07:06:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

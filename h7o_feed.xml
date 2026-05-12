@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 May 2026 07:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:12:52 +0000</lastBuildDate>
+    <item>
+      <title>Přijmout nejistotu jako východisko</title>
+      <link>https://www.h7o.cz/clanky/14513-prijmout-nejistotu-jako-vychodisko</link>
+      <description>V básních Jana Škroba lze vnímat konejšivou přítomnost mezilidského i mezidruhového pochopení, stejně jako postapokalyptické situace. Už předchozí díla oceňovaného básníka v sobě nesla element dobrodružného zkoumání. „Zámoří“ nás ale zanese zase o kus dál.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14513-prijmout-nejistotu-jako-vychodisko</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Opilost</title>
       <link>https://www.h7o.cz/clanky/14509-opilost</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Sloupkařský seriál Ondřeje Galušky pokračuje úvahou o souvislosti etiky jednání a duchovnosti idiocie. „Proto až vám někdo namaže písty trumpety vazelínou nebo naleje vodu do kalhot, nastavte druhou nohavici a vězte, že jste v dobré společnosti.“</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14444-neprakticky-zert</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Olejová skvrna</title>
-      <link>https://www.h7o.cz/clanky/14443-olejova-skvrna</link>
-      <description>„Role kultury v naší společnosti se za poslední dekády silně změnila a v podstatě je prorostlá politikou. Jako by náš vkus — i ten gastronomický — spolehlivě předpovídal naše hodnoty i politické směřování,“ píše v novém pravidelném sloupku Žena a život Anna Durnová.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14443-olejova-skvrna</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

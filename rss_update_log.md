@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-12 07:12:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Totalita
+2. Mimosys
+3. Žádná zeď neexistuje
+4. Válka ševců
+5. Benátky. Návod k užívání
+6. Paměť a dějiny č. 1/2026
+7. Nebezpečná hra
+8. Vražda v maringotce
+9. Vražda v kryptě
+10. Vražda ve mlýně
+11. Vražda v opatství
+12. V kleci
+13. Už jsem ti to říkala?
+14. Školák Kája Mařík
+15. Stín
+16. Sherlock Holmes a Rudá věž
+17. Sherlock Holmes a krvavá zrada
+18. Sherlock Holmes a Ďáblův prach
+
+---
+
+## 🕐 2026-05-12 07:12:52 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přijmout nejistotu jako východisko
+
+---
+
 ## 🕐 2026-05-11 07:29:35 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -216,53 +261,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Llama před soudem
-
----
-
-## 🕐 2026-05-05 06:59:14 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Klíče k volnosti
-2. Volání po vzpouře
-3. Spokojené tělo po padesátce
-4. Zlomené duše
-5. Káčko, kafíčko a konec světa
-6. Autismus a náročné chování
-7. Wednesday: Oficiální omalovánky
-8. Autoatlas Česko Slovensko 2026/27
-9. Francois Villon
-10. Medvídek Pú  - Malá kniha velkých mouder
-11. Rudé město
-12. Star Wars - Mandalorian a Grogu - Nové dobrodružství
-13. Tajemství nadlidské síly
-14. Legenda
-15. O nás zvířatech
-16. Maková pole
-17. Amanda Blacková: Ztracený amulet
-18. Rod bijících srdcí
-19. Pýcha a předsudek - grafický román
-20. Na zlaté hraně
-
----
-
-## 🕐 2026-05-05 06:59:13 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Tříštičky
 
 ---
 
