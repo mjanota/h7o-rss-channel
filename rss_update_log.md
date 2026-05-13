@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-13 07:17:20 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Zima v ráji
+2. Závrať
+3. Léto v příbězích
+4. Rakouské hrady a zříceniny I
+5. Mozek v dobré kondici - Aktivity nejen pro babičky a dědy
+6. Atlas světového fotbalu
+7. Gigantická DINOPÉDIE Odpoví skoro na vše
+8. PROČ? Mega encyklopedie - Odpoví skoro na vše
+9. Digitální marketing v nové éře regulace
+10. Souvislosti 1/2026
+11. Školák Kája Mařík 2
+12. Muž z labyrintu
+13. Zimní lidé
+14. Neohlížej se
+15. Abeceda lásky
+16. Nachové pustiny
+17. Julie ráda maluje
+18. Vábení Sirén
+
+---
+
+## 🕐 2026-05-13 07:17:17 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Viking type raid
+
+---
+
 ## 🕐 2026-05-12 07:12:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -215,52 +260,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Víc než práce s textem
-
----
-
-## 🕐 2026-05-06 07:09:05 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Život v pitlane
-2. Cestujeme po Turecku
-3. Tajemné stezky - Za skrytou krásou Ašska
-4. JFK 043 - Lovci artefaktů
-5. Tak o co jde?
-6. Břeclav – Pohansko XI.
-7. Mému mladšímu já
-8. Strážce svaté relikvie
-9. Hry, sítě, porno
-10. Popelčina velká noc
-11. Napravený nepřítel
-12. Pomsta po řecku
-13. Dědic říše
-14. Nedovolené potěšení slečny Claiborneové
-15. Dáma s maskou
-16. Co manželka nevěděla
-17. Penzion v Portugalsku
-18. Marný boj
-19. Nakonec lásku našli
-
----
-
-## 🕐 2026-05-06 07:09:04 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Llama před soudem
 
 ---
 

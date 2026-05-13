@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 12 May 2026 07:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:17:17 +0000</lastBuildDate>
+    <item>
+      <title>Viking type raid</title>
+      <link>https://www.h7o.cz/clanky/14517-viking-type-raid</link>
+      <description>Sobotní zápas Slavie a Sparty spojil českou společnost, která si notovala nad odsouzením fanouškovského primitivismu. Pojmosloví a emocionalita mladé generace nám možná dopomohou k trochu pestřejšímu obrazu nájezdu na hrací plochu.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14517-viking-type-raid</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Přijmout nejistotu jako východisko</title>
       <link>https://www.h7o.cz/clanky/14513-prijmout-nejistotu-jako-vychodisko</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>„Básně Josefa Hrdličky jsou významově roztřesené, plné slovních zákrutů, do nichž se čtenář musí, aby je mohl interpretovat, účastně zatoulat. Zároveň nesou zřetelně performativní charakter: nejen označují, uvádějí do přítomnosti,“ píše v recenzi sbírky MOST přes MOST Libor Staněk II.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nepraktický žert</title>
-      <link>https://www.h7o.cz/clanky/14444-neprakticky-zert</link>
-      <description>Sloupkařský seriál Ondřeje Galušky pokračuje úvahou o souvislosti etiky jednání a duchovnosti idiocie. „Proto až vám někdo namaže písty trumpety vazelínou nebo naleje vodu do kalhot, nastavte druhou nohavici a vězte, že jste v dobré společnosti.“</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14444-neprakticky-zert</guid>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

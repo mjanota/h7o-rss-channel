@@ -64,14 +64,6 @@
     "category": "recenze"
   },
   {
-    "title": "Nepraktický žert",
-    "url": "https://www.h7o.cz/clanky/14444-neprakticky-zert",
-    "description": "Sloupkařský seriál Ondřeje Galušky pokračuje úvahou o souvislosti etiky jednání a duchovnosti idiocie. „Proto až vám někdo namaže písty trumpety vazelínou nebo naleje vodu do kalhot, nastavte druhou nohavici a vězte, že jste v dobré společnosti.“",
-    "date": "2026-02-12T00:00:00",
-    "author": "Ondřej Galuška",
-    "category": "seriál"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-12T00:00:00",
     "author": "Olga Wawracz",
     "category": "rozhovor"
+  },
+  {
+    "title": "Viking type raid",
+    "url": "https://www.h7o.cz/clanky/14517-viking-type-raid",
+    "description": "Sobotní zápas Slavie a Sparty spojil českou společnost, která si notovala nad odsouzením fanouškovského primitivismu. Pojmosloví a emocionalita mladé generace nám možná dopomohou k trochu pestřejšímu obrazu nájezdu na hrací plochu.",
+    "date": "2026-05-13T00:00:00",
+    "author": "Jan Géryk",
+    "category": "sloupek"
   }
 ]

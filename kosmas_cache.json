@@ -1,5 +1,158 @@
 [
   {
+    "title": "Zima v ráji",
+    "url": "https://www.kosmas.cz/knihy/553910/zima-v-raji/",
+    "description": "Zima v ráji - Harry Harrison",
+    "authors": [
+      "Harry Harrison"
+    ],
+    "date": "2026-05-13T07:17:20.215665+00:00"
+  },
+  {
+    "title": "Závrať",
+    "url": "https://www.kosmas.cz/knihy/568474/zavrat/",
+    "description": "Závrať - Harald Jähner",
+    "authors": [
+      "Harald Jähner"
+    ],
+    "date": "2026-05-13T07:17:19.215665+00:00"
+  },
+  {
+    "title": "Léto v příbězích",
+    "url": "https://www.kosmas.cz/knihy/567976/leto-v-pribezich/",
+    "description": "Léto v příbězích - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-05-13T07:17:17.215665+00:00"
+  },
+  {
+    "title": "Rakouské hrady a zříceniny I",
+    "url": "https://www.kosmas.cz/knihy/568059/rakouske-hrady-a-zriceniny-i/",
+    "description": "Rakouské hrady a zříceniny I - Petr Fabian, Anna Petruželková",
+    "authors": [
+      "Petr Fabian",
+      "Anna Petruželková"
+    ],
+    "date": "2026-05-13T07:17:16.215665+00:00"
+  },
+  {
+    "title": "Mozek v dobré kondici - Aktivity nejen pro babičky a dědy",
+    "url": "https://www.kosmas.cz/knihy/568307/mozek-v-dobre-kondici-aktivity-nejen-pro-babicky-a-dedy/",
+    "description": "Mozek v dobré kondici - Aktivity nejen pro babičky a dědy",
+    "authors": [],
+    "date": "2026-05-13T07:17:15.215665+00:00"
+  },
+  {
+    "title": "Atlas světového fotbalu",
+    "url": "https://www.kosmas.cz/knihy/568308/atlas-svetoveho-fotbalu/",
+    "description": "Atlas světového fotbalu",
+    "authors": [],
+    "date": "2026-05-13T07:17:14.215665+00:00"
+  },
+  {
+    "title": "Gigantická DINOPÉDIE Odpoví skoro na vše",
+    "url": "https://www.kosmas.cz/knihy/568309/giganticka-dinopedie-odpovi-skoro-na-vse/",
+    "description": "Gigantická DINOPÉDIE Odpoví skoro na vše",
+    "authors": [],
+    "date": "2026-05-13T07:17:13.215665+00:00"
+  },
+  {
+    "title": "PROČ? Mega encyklopedie - Odpoví skoro na vše",
+    "url": "https://www.kosmas.cz/knihy/568310/proc-mega-encyklopedie-odpovi-skoro-na-vse/",
+    "description": "PROČ? Mega encyklopedie - Odpoví skoro na vše",
+    "authors": [],
+    "date": "2026-05-13T07:17:12.215665+00:00"
+  },
+  {
+    "title": "Digitální marketing v nové éře regulace",
+    "url": "https://www.kosmas.cz/knihy/568912/digitalni-marketing-v-nove-ere-regulace/",
+    "description": "Digitální marketing v nové éře regulace - Petra Koudelková",
+    "authors": [
+      "Petra Koudelková"
+    ],
+    "date": "2026-05-13T07:17:11.215665+00:00"
+  },
+  {
+    "title": "Souvislosti 1/2026",
+    "url": "https://www.kosmas.cz/knihy/568918/souvislosti-1-2026/",
+    "description": "Souvislosti 1/2026",
+    "authors": [],
+    "date": "2026-05-13T07:17:10.215665+00:00"
+  },
+  {
+    "title": "Školák Kája Mařík 2",
+    "url": "https://www.kosmas.cz/knihy/568924/skolak-kaja-marik-2/",
+    "description": "Školák Kája Mařík 2 - Felix Háj",
+    "authors": [
+      "Felix Háj"
+    ],
+    "date": "2026-05-13T07:17:09.215665+00:00"
+  },
+  {
+    "title": "Muž z labyrintu",
+    "url": "https://www.kosmas.cz/knihy/568927/muz-z-labyrintu/",
+    "description": "Muž z labyrintu - Donato Carrisi",
+    "authors": [
+      "Donato Carrisi"
+    ],
+    "date": "2026-05-13T07:17:08.215665+00:00"
+  },
+  {
+    "title": "Zimní lidé",
+    "url": "https://www.kosmas.cz/knihy/568932/zimni-lide/",
+    "description": "Zimní lidé - Jennifer McMahon",
+    "authors": [
+      "Jennifer McMahon"
+    ],
+    "date": "2026-05-13T07:17:07.215665+00:00"
+  },
+  {
+    "title": "Neohlížej se",
+    "url": "https://www.kosmas.cz/knihy/568935/neohlizej-se/",
+    "description": "Neohlížej se - Jennifer L. Armentroutová",
+    "authors": [
+      "Jennifer L. Armentroutová"
+    ],
+    "date": "2026-05-13T07:17:06.215665+00:00"
+  },
+  {
+    "title": "Abeceda lásky",
+    "url": "https://www.kosmas.cz/knihy/567605/abeceda-lasky/",
+    "description": "Abeceda lásky - Miloň Čepelka",
+    "authors": [
+      "Miloň Čepelka"
+    ],
+    "date": "2026-05-13T07:17:05.215665+00:00"
+  },
+  {
+    "title": "Nachové pustiny",
+    "url": "https://www.kosmas.cz/knihy/568949/nachove-pustiny/",
+    "description": "Nachové pustiny - Michal Sirotek",
+    "authors": [
+      "Michal Sirotek"
+    ],
+    "date": "2026-05-13T07:17:04.215665+00:00"
+  },
+  {
+    "title": "Julie ráda maluje",
+    "url": "https://www.kosmas.cz/knihy/566034/julie-rada-maluje/",
+    "description": "Julie ráda maluje - Petra Braunová",
+    "authors": [
+      "Petra Braunová"
+    ],
+    "date": "2026-05-13T07:17:03.215665+00:00"
+  },
+  {
+    "title": "Vábení Sirén",
+    "url": "https://www.kosmas.cz/knihy/568394/vabeni-siren/",
+    "description": "Vábení Sirén - Chris Hayes",
+    "authors": [
+      "Chris Hayes"
+    ],
+    "date": "2026-05-13T07:17:02.215665+00:00"
+  },
+  {
     "title": "Totalita",
     "url": "https://www.kosmas.cz/knihy/568484/totalita/",
     "description": "Totalita - Oto Ungerman",
@@ -1665,169 +1818,5 @@
       "Alexander Clapp"
     ],
     "date": "2026-04-27T07:08:14.900650+00:00"
-  },
-  {
-    "title": "Věda o pomstě",
-    "url": "https://www.kosmas.cz/knihy/568316/veda-o-pomste/",
-    "description": "Věda o pomstě - James Kimmel jr.",
-    "authors": [
-      "James Kimmel jr."
-    ],
-    "date": "2026-04-27T07:08:13.900650+00:00"
-  },
-  {
-    "title": "Tam, kde štěkají kočky",
-    "url": "https://www.kosmas.cz/knihy/568318/tam-kde-stekaji-kocky/",
-    "description": "Tam, kde štěkají kočky - Stanislav Beran",
-    "authors": [
-      "Stanislav Beran"
-    ],
-    "date": "2026-04-27T07:08:12.900650+00:00"
-  },
-  {
-    "title": "Republika zlodějů",
-    "url": "https://www.kosmas.cz/knihy/568324/republika-zlodeju/",
-    "description": "Republika zlodějů - Scott Lynch",
-    "authors": [
-      "Scott Lynch"
-    ],
-    "date": "2026-04-27T07:08:11.900650+00:00"
-  },
-  {
-    "title": "Taste - Chuť mého života",
-    "url": "https://www.kosmas.cz/knihy/567235/taste-chut-meho-zivota/",
-    "description": "Taste - Chuť mého života - Stanley Tucci",
-    "authors": [
-      "Stanley Tucci"
-    ],
-    "date": "2026-04-27T07:08:10.900650+00:00"
-  },
-  {
-    "title": "Nevěřím v astrologii",
-    "url": "https://www.kosmas.cz/knihy/568326/neverim-v-astrologii/",
-    "description": "Nevěřím v astrologii - Debra Silverman",
-    "authors": [
-      "Debra Silverman"
-    ],
-    "date": "2026-04-27T07:08:09.900650+00:00"
-  },
-  {
-    "title": "Sladký příběh",
-    "url": "https://www.kosmas.cz/knihy/568190/sladky-pribeh/",
-    "description": "Sladký příběh - Carlton Mellick III",
-    "authors": [
-      "Carlton Mellick III"
-    ],
-    "date": "2026-04-26T06:49:20.731634+00:00"
-  },
-  {
-    "title": "Sběratelství: status",
-    "url": "https://www.kosmas.cz/knihy/568200/sberatelstvi-status/",
-    "description": "Sběratelství: status - Barbora Hájková",
-    "authors": [
-      "Barbora Hájková"
-    ],
-    "date": "2026-04-26T06:49:19.731634+00:00"
-  },
-  {
-    "title": "Krvestín",
-    "url": "https://www.kosmas.cz/knihy/568328/krvestin/",
-    "description": "Krvestín - Jana Karhanová",
-    "authors": [
-      "Jana Karhanová"
-    ],
-    "date": "2026-04-26T06:49:17.731634+00:00"
-  },
-  {
-    "title": "Pouto přísahy",
-    "url": "https://www.kosmas.cz/knihy/566156/pouto-prisahy/",
-    "description": "Pouto přísahy - Tracy Deonn",
-    "authors": [
-      "Tracy Deonn"
-    ],
-    "date": "2026-04-26T06:49:16.731634+00:00"
-  },
-  {
-    "title": "Pozemské rozkoše",
-    "url": "https://www.kosmas.cz/knihy/566154/pozemske-rozkose/",
-    "description": "Pozemské rozkoše - Goldy Moldavsky",
-    "authors": [
-      "Goldy Moldavsky"
-    ],
-    "date": "2026-04-26T06:49:15.731634+00:00"
-  },
-  {
-    "title": "Nesmrtelné následky",
-    "url": "https://www.kosmas.cz/knihy/568333/nesmrtelne-nasledky/",
-    "description": "Nesmrtelné následky - I. V. Marie",
-    "authors": [
-      "I. V. Marie"
-    ],
-    "date": "2026-04-26T06:49:14.731634+00:00"
-  },
-  {
-    "title": "Vděk",
-    "url": "https://www.kosmas.cz/knihy/568334/vdek/",
-    "description": "Vděk - Tracy Wolffová",
-    "authors": [
-      "Tracy Wolffová"
-    ],
-    "date": "2026-04-26T06:49:13.731634+00:00"
-  },
-  {
-    "title": "Ela v zemi medvědů",
-    "url": "https://www.kosmas.cz/knihy/568335/ela-v-zemi-medvedu/",
-    "description": "Ela v zemi medvědů - Michaela Fišarová",
-    "authors": [
-      "Michaela Fišarová"
-    ],
-    "date": "2026-04-26T06:49:12.731634+00:00"
-  },
-  {
-    "title": "Mezi nebem a zemí",
-    "url": "https://www.kosmas.cz/knihy/568336/mezi-nebem-a-zemi/",
-    "description": "Mezi nebem a zemí - Mariana Zapata",
-    "authors": [
-      "Mariana Zapata"
-    ],
-    "date": "2026-04-26T06:49:10.731634+00:00"
-  },
-  {
-    "title": "Lesní víla Modlinka",
-    "url": "https://www.kosmas.cz/knihy/568343/lesni-vila-modlinka/",
-    "description": "Lesní víla Modlinka - Dominika Mecová",
-    "authors": [
-      "Dominika Mecová"
-    ],
-    "date": "2026-04-26T06:49:09.731634+00:00"
-  },
-  {
-    "title": "Aréna!",
-    "url": "https://www.kosmas.cz/knihy/568348/arena/",
-    "description": "Aréna! - Miroslav Beinhauer, Marek Dohnal, Tomáš Šiřina",
-    "authors": [
-      "Miroslav Beinhauer",
-      "Marek Dohnal",
-      "Tomáš Šiřina"
-    ],
-    "date": "2026-04-26T06:49:08.731634+00:00"
-  },
-  {
-    "title": "Valkýry",
-    "url": "https://www.kosmas.cz/knihy/512610/valkyry/",
-    "description": "Valkýry - Paulo Coelho",
-    "authors": [
-      "Paulo Coelho"
-    ],
-    "date": "2026-04-25T06:41:05.432919+00:00"
-  },
-  {
-    "title": "Líbánky v Římě",
-    "url": "https://www.kosmas.cz/knihy/567408/libanky-v-rime/",
-    "description": "Líbánky v Římě - Irena Kellerová",
-    "authors": [
-      "Irena Kellerová"
-    ],
-    "date": "2026-04-25T06:41:04.432919+00:00"
   }
 ]
