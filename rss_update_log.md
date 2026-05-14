@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-14 07:14:26 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Kryštof a Torpédo
+2. Sokotra
+3. Jezte, ať vám to sluší
+4. Nové povídky malostranské a jedna z Dejvic
+5. Případy soudce Ti: Pomsta Bílého tygra
+6. Stopy v dešti
+7. Přátelé Arnošta Lustiga očima Františka Cingera
+8. Když zavřeš oči
+9. Lordi bolesti
+10. Fašismus
+11. Dobyvatel světa
+12. Nebe je rudý
+13. Bota botanika
+14. Kočky od 311. peruti
+15. Plachý dům
+16. Zoufale nepřipraven
+17. Hořice na Šumavě
+18. Obrana tradičního křesťanství
+19. Střešovice
+20. České úlohy
+
+---
+
+## 🕐 2026-05-14 07:14:24 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Proč lidé hráli divadlo na takovémto místě?
+
+---
+
 ## 🕐 2026-05-13 07:17:20 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -215,51 +262,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-05-07 07:14:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Bronzová vež
-2. Moucha, Myš a lži
-3. Podpalubí
-4. Sad kostí
-5. Měsíc mého života
-6. Důkazní nouze
-7. Květnová nevěsta
-8. Malá noční vražda
-9. Válečný pilot
-10. Slova tak sladká a smrtící
-11. Pod palbou hloubkařů – DODATKY
-12. Osvícení
-13. Kovbojové na moři
-14. Sladké Česko
-15. Nesmíš mi sem s myšmi
-16. Anesteziologie, resuscitace a intenzivní medicína pro studenty a absolventy lékařských fakult. Anest
-17. Stručný přehled oftalmologie
-18. Dobrodružství v útulku – Splněný sen
-
----
-
-## 🕐 2026-05-07 07:14:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Víc než práce s textem
 
 ---
 

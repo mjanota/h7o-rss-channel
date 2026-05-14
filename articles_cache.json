@@ -56,14 +56,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "Ticho jako možnost promluvy",
-    "url": "https://www.h7o.cz/clanky/14445-ticho-jako-moznost-promluvy",
-    "description": "„Básně Josefa Hrdličky jsou významově roztřesené, plné slovních zákrutů, do nichž se čtenář musí, aby je mohl interpretovat, účastně zatoulat. Zároveň nesou zřetelně performativní charakter: nejen označují, uvádějí do přítomnosti,“ píše v recenzi sbírky MOST přes MOST Libor Staněk II.",
-    "date": "2026-02-13T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "recenze"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-13T00:00:00",
     "author": "Jan Géryk",
     "category": "sloupek"
+  },
+  {
+    "title": "Proč lidé hráli divadlo na takovémto místě?",
+    "url": "https://www.h7o.cz/clanky/14510-proc-lide-hrali-divadlo-na-takovemto-miste",
+    "description": "Teatroložka Lisa Peschel z University of York se více než dvě dekády zabývá divadelní kulturou v terezínském ghettu. V čem byly hry z koncentračního tábora specifické? A proč většinu tvořily komedie? Při příležitosti bohemistického kongresu s autorkou hovořil Kryštof Kočtář.",
+    "date": "2026-05-14T00:00:00",
+    "author": "Kryštof Kočtář",
+    "category": "seriál"
   }
 ]
