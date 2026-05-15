@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-15 07:21:45 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Sad kostí
+2. Bronzová vež
+3. Měsíc mého života
+4. Moucha, Myš a lži
+5. Podpalubí
+6. Slova tak sladká a smrtící
+7. Večer, kdy nás opustil
+8. Plno flirtu, plno kouzel
+9. O tom Benešovi
+10. Námořník
+11. Průvodce kempy 2026
+12. Na Boží vlně s televizí Noe
+13. Nejlepší česká slam poetry 2025
+14. Vidět a žasnout
+15. Stínadla se bouří
+16. Och!
+
+---
+
+## 🕐 2026-05-15 07:21:44 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Victus
+
+---
+
 ## 🕐 2026-05-14 07:14:26 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -219,43 +262,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-05-09 06:54:14 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-05-08 06:47:30 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 14
-
-**Tituly nových položek:**
-
-1. Pilíře stvoření
-2. Mrtvé duše nezpívají
-3. Robert Saudek
-4. Nové příběhy se šťastným koncem – Rozespalý netopýr
-5. Zvrácené hry
-6. Nespokojenost
-7. Kriminalistické otazníky
-8. Propletené osudy
-9. Říkačky a říkadla
-10. Císař radosti
-11. Ošukej mě
-12. Nemilovaná
-13. Zvrácený osud
-14. Adam ze Zbraslavi a případ kralevice Jana
-
----
-
-## 🕐 2026-05-08 06:47:29 UTC
 
 **Zdroj:** H7O - Časopis Host
 
