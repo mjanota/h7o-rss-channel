@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-17 07:10:03 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Mozaika vraždy
+2. Lost Hills
+3. Raketové přivolání
+4. Láska v nebezpečí
+5. Dům na ostrově Amelia
+6. Nežer to!
+7. Chci léčit zvířátka
+
+---
+
+## 🕐 2026-05-17 07:10:02 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-16 06:58:36 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -249,35 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Opilost
-
----
-
-## 🕐 2026-05-10 07:06:44 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 6
-
-**Tituly nových položek:**
-
-1. Ordinace
-2. Impérium
-3. Disonance a fata morgána
-4. Vysocí muži jen neradi tančí
-5. Oheň svatého Antonína
-6. Polina
-
----
-
-## 🕐 2026-05-10 07:06:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

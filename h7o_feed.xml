@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 16 May 2026 06:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 07:10:02 +0000</lastBuildDate>
     <item>
       <title>Victus</title>
       <link>https://www.h7o.cz/clanky/14519-victus</link>
@@ -442,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Je to horor, sociální i intimní</title>
-      <link>https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni</link>
-      <description>Už tuto sobotu HaDivadlo premiéruje adaptaci úspěšného románu Marka Torčíka „Rozložíš paměť“. O přípravě inscenace mluvíme s autorem adaptace, dramaturgem a dramatikem Ondřejem Novotným.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14446-je-to-horor-socialni-i-intimni</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

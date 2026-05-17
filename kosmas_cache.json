@@ -1,5 +1,68 @@
 [
   {
+    "title": "Mozaika vraždy",
+    "url": "https://www.kosmas.cz/knihy/567846/mozaika-vrazdy/",
+    "description": "Mozaika vraždy - Jo Murray",
+    "authors": [
+      "Jo Murray"
+    ],
+    "date": "2026-05-17T07:10:03.031990+00:00"
+  },
+  {
+    "title": "Lost Hills",
+    "url": "https://www.kosmas.cz/knihy/567854/lost-hills/",
+    "description": "Lost Hills - Lee Goldberg",
+    "authors": [
+      "Lee Goldberg"
+    ],
+    "date": "2026-05-17T07:10:02.031990+00:00"
+  },
+  {
+    "title": "Raketové přivolání",
+    "url": "https://www.kosmas.cz/knihy/569047/raketove-privolani/",
+    "description": "Raketové přivolání - Simone Muellerová",
+    "authors": [
+      "Simone Muellerová"
+    ],
+    "date": "2026-05-17T07:09:50.031990+00:00"
+  },
+  {
+    "title": "Láska v nebezpečí",
+    "url": "https://www.kosmas.cz/knihy/569053/laska-v-nebezpeci/",
+    "description": "Láska v nebezpečí - Julia Quinnová",
+    "authors": [
+      "Julia Quinnová"
+    ],
+    "date": "2026-05-17T07:09:48.031990+00:00"
+  },
+  {
+    "title": "Dům na ostrově Amelia",
+    "url": "https://www.kosmas.cz/knihy/569055/dum-na-ostrove-amelia/",
+    "description": "Dům na ostrově Amelia - Holloway Hope",
+    "authors": [
+      "Holloway Hope"
+    ],
+    "date": "2026-05-17T07:09:47.031990+00:00"
+  },
+  {
+    "title": "Nežer to!",
+    "url": "https://www.kosmas.cz/knihy/569057/nezer-to/",
+    "description": "Nežer to! - Simone Muellerová",
+    "authors": [
+      "Simone Muellerová"
+    ],
+    "date": "2026-05-17T07:09:45.031990+00:00"
+  },
+  {
+    "title": "Chci léčit zvířátka",
+    "url": "https://www.kosmas.cz/knihy/566029/chci-lecit-zviratka/",
+    "description": "Chci léčit zvířátka - Anna Claybourne",
+    "authors": [
+      "Anna Claybourne"
+    ],
+    "date": "2026-05-17T07:09:44.031990+00:00"
+  },
+  {
     "title": "Revue Prostor 125",
     "url": "https://www.kosmas.cz/knihy/568695/revue-prostor-125/",
     "description": "Revue Prostor 125",
@@ -1747,66 +1810,5 @@
       "Zuzana Faktorová Frantová"
     ],
     "date": "2026-05-01T07:06:48.178046+00:00"
-  },
-  {
-    "title": "Kontexty 2/2026",
-    "url": "https://www.kosmas.cz/knihy/568424/kontexty-2-2026/",
-    "description": "Kontexty 2/2026",
-    "authors": [],
-    "date": "2026-05-01T07:06:47.178046+00:00"
-  },
-  {
-    "title": "Můj stát. Putování s českým lvem za sedmi státními symboly",
-    "url": "https://www.kosmas.cz/knihy/566847/muj-stat.-putovani-s-ceskym-lvem-za-sedmi-statnimi-symboly/",
-    "description": "Můj stát. Putování s českým lvem za sedmi státními symboly - Martin Velíšek",
-    "authors": [
-      "Martin Velíšek"
-    ],
-    "date": "2026-04-30T07:05:24.475028+00:00"
-  },
-  {
-    "title": "Helena Zmatlíková dětem",
-    "url": "https://www.kosmas.cz/knihy/566239/helena-zmatlikova-detem/",
-    "description": "Helena Zmatlíková dětem - Helena Zmatlíková",
-    "authors": [
-      "Helena Zmatlíková"
-    ],
-    "date": "2026-04-30T07:05:23.475028+00:00"
-  },
-  {
-    "title": "Kočka na kolejích",
-    "url": "https://www.kosmas.cz/knihy/567400/kocka-na-kolejich/",
-    "description": "Kočka na kolejích - Josef Topol",
-    "authors": [
-      "Josef Topol"
-    ],
-    "date": "2026-04-30T07:05:22.475028+00:00"
-  },
-  {
-    "title": "Hodinový hoteliér",
-    "url": "https://www.kosmas.cz/knihy/567401/hodinovy-hotelier/",
-    "description": "Hodinový hoteliér - Pavel Landovský",
-    "authors": [
-      "Pavel Landovský"
-    ],
-    "date": "2026-04-30T07:05:21.475028+00:00"
-  },
-  {
-    "title": "Matematika plná koroptví",
-    "url": "https://www.kosmas.cz/knihy/567484/matematika-plna-koroptvi/",
-    "description": "Matematika plná koroptví - Milena Fucimanová",
-    "authors": [
-      "Milena Fucimanová"
-    ],
-    "date": "2026-04-30T07:05:20.475028+00:00"
-  },
-  {
-    "title": "Brutlyrik",
-    "url": "https://www.kosmas.cz/knihy/568195/brutlyrik/",
-    "description": "Brutlyrik - Jaroslav Švadlena",
-    "authors": [
-      "Jaroslav Švadlena"
-    ],
-    "date": "2026-04-30T07:05:19.475028+00:00"
   }
 ]

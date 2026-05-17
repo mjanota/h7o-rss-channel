@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 16 May 2026 06:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 07:10:03 +0000</lastBuildDate>
+    <item>
+      <title>Mozaika vraždy</title>
+      <link>https://www.kosmas.cz/knihy/567846/mozaika-vrazdy/</link>
+      <description>Mozaika vraždy - Jo Murray</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567846/mozaika-vrazdy/</guid>
+      <pubDate>Sun, 17 May 2026 07:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lost Hills</title>
+      <link>https://www.kosmas.cz/knihy/567854/lost-hills/</link>
+      <description>Lost Hills - Lee Goldberg</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567854/lost-hills/</guid>
+      <pubDate>Sun, 17 May 2026 07:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raketové přivolání</title>
+      <link>https://www.kosmas.cz/knihy/569047/raketove-privolani/</link>
+      <description>Raketové přivolání - Simone Muellerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569047/raketove-privolani/</guid>
+      <pubDate>Sun, 17 May 2026 07:09:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Láska v nebezpečí</title>
+      <link>https://www.kosmas.cz/knihy/569053/laska-v-nebezpeci/</link>
+      <description>Láska v nebezpečí - Julia Quinnová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569053/laska-v-nebezpeci/</guid>
+      <pubDate>Sun, 17 May 2026 07:09:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dům na ostrově Amelia</title>
+      <link>https://www.kosmas.cz/knihy/569055/dum-na-ostrove-amelia/</link>
+      <description>Dům na ostrově Amelia - Holloway Hope</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569055/dum-na-ostrove-amelia/</guid>
+      <pubDate>Sun, 17 May 2026 07:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nežer to!</title>
+      <link>https://www.kosmas.cz/knihy/569057/nezer-to/</link>
+      <description>Nežer to! - Simone Muellerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569057/nezer-to/</guid>
+      <pubDate>Sun, 17 May 2026 07:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chci léčit zvířátka</title>
+      <link>https://www.kosmas.cz/knihy/566029/chci-lecit-zviratka/</link>
+      <description>Chci léčit zvířátka - Anna Claybourne</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566029/chci-lecit-zviratka/</guid>
+      <pubDate>Sun, 17 May 2026 07:09:44 +0000</pubDate>
+    </item>
     <item>
       <title>Revue Prostor 125</title>
       <link>https://www.kosmas.cz/knihy/568695/revue-prostor-125/</link>
@@ -658,55 +707,6 @@
       <description>Vysocí muži jen neradi tančí - Pavel Frydrych</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568240/vysoci-muzi-jen-neradi-tanci/</guid>
       <pubDate>Sun, 10 May 2026 07:06:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oheň svatého Antonína</title>
-      <link>https://www.kosmas.cz/knihy/568314/ohen-svateho-antonina/</link>
-      <description>Oheň svatého Antonína - Nicolas Pegon</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568314/ohen-svateho-antonina/</guid>
-      <pubDate>Sun, 10 May 2026 07:06:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Polina</title>
-      <link>https://www.kosmas.cz/knihy/568317/polina/</link>
-      <description>Polina - Bastien Vivès</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568317/polina/</guid>
-      <pubDate>Sun, 10 May 2026 07:06:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Satanovi koně</title>
-      <link>https://www.kosmas.cz/knihy/568294/satanovi-kone/</link>
-      <description>Satanovi koně - Zdeněk Pošíval</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568294/satanovi-kone/</guid>
-      <pubDate>Sat, 09 May 2026 06:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Joštík, Justýna a pták Pelmeňák</title>
-      <link>https://www.kosmas.cz/knihy/568545/jostik-justyna-a-ptak-pelmenak/</link>
-      <description>Joštík, Justýna a pták Pelmeňák - Vladimir Mačinský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568545/jostik-justyna-a-ptak-pelmenak/</guid>
-      <pubDate>Sat, 09 May 2026 06:54:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deník tygřice</title>
-      <link>https://www.kosmas.cz/knihy/566310/denik-tygrice/</link>
-      <description>Deník tygřice - Jiřina Tomaštíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566310/denik-tygrice/</guid>
-      <pubDate>Sat, 09 May 2026 06:54:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rival Darling</title>
-      <link>https://www.kosmas.cz/knihy/568734/rival-darling/</link>
-      <description>Rival Darling - Alexandra Moody</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568734/rival-darling/</guid>
-      <pubDate>Sat, 09 May 2026 06:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dům rodu Safírů</title>
-      <link>https://www.kosmas.cz/knihy/566094/dum-rodu-safiru/</link>
-      <description>Dům rodu Safírů - Marissa Meyerová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566094/dum-rodu-safiru/</guid>
-      <pubDate>Sat, 09 May 2026 06:53:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
