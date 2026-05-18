@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-18 07:41:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Souřadnice Vegy
+2. Přípravy na všechno
+
+---
+
+## 🕐 2026-05-18 07:41:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. O ČSSR jsem toho jako dítě příliš nevěděl
+
+---
+
 ## 🕐 2026-05-17 07:10:03 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,34 +280,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Přijmout nejistotu jako východisko
-
----
-
-## 🕐 2026-05-11 07:29:35 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. U mě pořád dobrý
-
----
-
-## 🕐 2026-05-11 07:29:34 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Opilost
 
 ---
 

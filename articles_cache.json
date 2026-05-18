@@ -40,14 +40,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "Zavřené oči, uši v dlaních",
-    "url": "https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich",
-    "description": "„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.",
-    "date": "2026-02-17T00:00:00",
-    "author": "Lubomír Tichý",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-15T00:00:00",
     "author": "Kryštof Mec",
     "category": "recenze"
+  },
+  {
+    "title": "O ČSSR jsem toho jako dítě příliš nevěděl",
+    "url": "https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel",
+    "description": "Málo se ví, že spisovatel Egon Hostovský měl syna, a ten se navíc sám věnuje psaní. Paul Hostovsky (nar. 1958) patří mezi nejzajímavější americké básníky současnosti. Překlady několika jeho básní se loni objevily v antologii americké poezie „Dinosauři v ulicích“, kterou uspořádal Jan Zikmund. Teď…",
+    "date": "2026-05-18T00:00:00",
+    "author": "Jan Zikmund",
+    "category": "rozhovor"
   }
 ]

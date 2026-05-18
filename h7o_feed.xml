@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 17 May 2026 07:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:41:38 +0000</lastBuildDate>
+    <item>
+      <title>O ČSSR jsem toho jako dítě příliš nevěděl</title>
+      <link>https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel</link>
+      <description>Málo se ví, že spisovatel Egon Hostovský měl syna, a ten se navíc sám věnuje psaní. Paul Hostovsky (nar. 1958) patří mezi nejzajímavější americké básníky současnosti. Překlady několika jeho básní se loni objevily v antologii americké poezie „Dinosauři v ulicích“, kterou uspořádal Jan Zikmund. Teď…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Victus</title>
       <link>https://www.h7o.cz/clanky/14519-victus</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Je Popeleční středa, a tak přinášíme rozhovor s Martinem Pokorným o jeho aktuálním překladu dvojice klíčových básní T. S. Eliota „Dutí lidé“ a „Popeleční středa“. V rozhovoru  mluví o tom, jak se setkával s Eliotovou poezií, o inspiraci Dantem nebo o tom, proč tyto méně známé básně tvoří klíčový…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zavřené oči, uši v dlaních</title>
-      <link>https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich</link>
-      <description>„Srovnával jsem ty vybrané texty podle velikosti, krásy, data sběru, podle lokalit i času,“ říká o své nejnovější knize „Nějaká Cécile a jiné“ její autor Petr Borkovec. Kniha je v letošním roce nominována na Cenu literární kritiky v kategorii prózy. Rozhovor vedl Lubomír Tichý.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14448-zavrene-oci-usi-v-dlanich</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
