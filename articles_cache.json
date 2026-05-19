@@ -32,14 +32,6 @@
     "category": "seriál"
   },
   {
-    "title": "Spíše než o setkání šlo o ponor",
-    "url": "https://www.h7o.cz/clanky/14449-spise-nez-o-setkani-slo-o-ponor",
-    "description": "Je Popeleční středa, a tak přinášíme rozhovor s Martinem Pokorným o jeho aktuálním překladu dvojice klíčových básní T. S. Eliota „Dutí lidé“ a „Popeleční středa“. V rozhovoru  mluví o tom, jak se setkával s Eliotovou poezií, o inspiraci Dantem nebo o tom, proč tyto méně známé básně tvoří klíčový…",
-    "date": "2026-02-18T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-18T00:00:00",
     "author": "Jan Zikmund",
     "category": "rozhovor"
+  },
+  {
+    "title": "Konec malého knihkupectví",
+    "url": "https://www.h7o.cz/clanky/14522-konec-maleho-knihkupectvi",
+    "description": "Nikoho nejspíš nepřekvapí, že malá knihkupectví jsou v posledních letech nucena zavírat, a to nejen z ekonomických důvodů. Příkladem je poslední pobočka knihkupectví Scavino, která se nachází v brněnské Dětské nemocnici.",
+    "date": "2026-05-19T00:00:00",
+    "author": "Barbora Zouharová",
+    "category": "sloupek"
   }
 ]

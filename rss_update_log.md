@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-19 07:28:59 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Kamarádové: Ema nechce jíst, Bert se nechce kamarádit
+2. Píseň o pevnině
+3. Zdravotnické právo
+4. Nový věk impéria
+5. Frieren - Když jedna cesta končí 6
+6. Vetřelci vs. Avengers
+7. Nástupnictví v rodinných firmách
+8. Dívka v ledu EXKLUZIVNÍ VYDÁNÍ
+9. Ztráta Vysvobození
+10. Umírající světlo
+11. Rodinná terapie a teorie jin-jangu
+12. Requiem v české soudobé hudbě
+13. John Constantine - Hellblazer
+14. Konec liDCtva
+15. Košík a lednička plné hlav
+16. Lobo - První nářez
+17. Batman - Já jsem Batman
+18. Kačeři Dana Černého
+19. Medailistka 2
+20. Simpsonovi 5/2026
+
+---
+
+## 🕐 2026-05-19 07:28:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Konec malého knihkupectví
+
+---
+
 ## 🕐 2026-05-18 07:41:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -235,51 +282,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Viking type raid
-
----
-
-## 🕐 2026-05-12 07:12:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Totalita
-2. Mimosys
-3. Žádná zeď neexistuje
-4. Válka ševců
-5. Benátky. Návod k užívání
-6. Paměť a dějiny č. 1/2026
-7. Nebezpečná hra
-8. Vražda v maringotce
-9. Vražda v kryptě
-10. Vražda ve mlýně
-11. Vražda v opatství
-12. V kleci
-13. Už jsem ti to říkala?
-14. Školák Kája Mařík
-15. Stín
-16. Sherlock Holmes a Rudá věž
-17. Sherlock Holmes a krvavá zrada
-18. Sherlock Holmes a Ďáblův prach
-
----
-
-## 🕐 2026-05-12 07:12:52 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Přijmout nejistotu jako východisko
 
 ---
 
