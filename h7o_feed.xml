@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 19 May 2026 07:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:28:54 +0000</lastBuildDate>
+    <item>
+      <title>Cena pro „kultivovanou neurvalost“</title>
+      <link>https://www.h7o.cz/clanky/14523-cena-pro-kultivovanou-neurvalost</link>
+      <description>Laureátkou letošní Ceny Jiřího Ortena se stala Nela Bártová se sbírkou „Házeliště granátů“.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14523-cena-pro-kultivovanou-neurvalost</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Konec malého knihkupectví</title>
       <link>https://www.h7o.cz/clanky/14522-konec-maleho-knihkupectvi</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Čtyři roky trvající válka a čtyři roky odvážné rezistence Ukrajiny a jejich obyvatel se podepisují i na fungování kultury, jíž věnujeme téma únorového Hosta. Jak vnímají spisovatelé proměnu svého psaní: pociťují rezignaci, potřebu uchovat literaturu v ukrajinštině nebo najít nové způsoby, jak psát?</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Úsměvy umělých dívek</title>
-      <link>https://www.h7o.cz/clanky/14447-usmevy-umelych-divek</link>
-      <description>Nekonečnost je nedokonalá — ne souměrné, pěkně dělitelné číslo, ale zneklidňující hloubka. Je ovšem také etická: podle francouzského filozofa Emmanuela Lévinase nekonečnost nenapadneme, něco v ní nás vždy zarazí. Lidská tvář je tato nekonečnost. Přinášíme další sloupek Ondřeje Galušky.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14447-usmevy-umelych-divek</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-20 07:28:55 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Láska v éteru
+2. Tichý prostor intermezza
+3. Romeo a Julie / Romeo and Juliet
+4. Ďáblova slina
+5. Necudná dohoda
+6. Řekni ano tomu pravému
+7. Klub Tygrů – Tajný úkol pro upíra
+8. Klub zhýralců: Bez milosti
+9. Vzpomínky na mrtvé
+10. Nekonečný pád: Návrat domů
+11. Opraváři času: Hlubiny temné minulosti
+12. Dům na ostrově Amelia
+13. Čína a my jako Česká republika
+14. Pátá minuta je o nás
+15. Sylvanas
+16. Z čeho kvete lotos
+17. Francouzští světci v českém středověku
+18. Ukradené lži
+19. Král vlků
+20. Kronika pověstí a legend
+
+---
+
+## 🕐 2026-05-20 07:28:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Cena pro „kultivovanou neurvalost“
+
+---
+
 ## 🕐 2026-05-19 07:28:59 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,51 +284,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Proč lidé hráli divadlo na takovémto místě?
-
----
-
-## 🕐 2026-05-13 07:17:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Zima v ráji
-2. Závrať
-3. Léto v příbězích
-4. Rakouské hrady a zříceniny I
-5. Mozek v dobré kondici - Aktivity nejen pro babičky a dědy
-6. Atlas světového fotbalu
-7. Gigantická DINOPÉDIE Odpoví skoro na vše
-8. PROČ? Mega encyklopedie - Odpoví skoro na vše
-9. Digitální marketing v nové éře regulace
-10. Souvislosti 1/2026
-11. Školák Kája Mařík 2
-12. Muž z labyrintu
-13. Zimní lidé
-14. Neohlížej se
-15. Abeceda lásky
-16. Nachové pustiny
-17. Julie ráda maluje
-18. Vábení Sirén
-
----
-
-## 🕐 2026-05-13 07:17:17 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Viking type raid
 
 ---
 
