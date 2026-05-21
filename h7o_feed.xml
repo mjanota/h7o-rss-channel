@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 20 May 2026 07:28:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:32:48 +0000</lastBuildDate>
+    <item>
+      <title>Nezlomná kyjevská bohemistika</title>
+      <link>https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika</link>
+      <description>„Body nezlomnosti“: dočasná místa veřejné pomoci v Ukrajině, která byla intenzivně využívána zejména během zimních útoků Ruska na energetickou infrastrukturu. Tímto výrazem lze označit i ukrajinskou bohemistiku, o níž mluví ukrajinistka a bohemistka Olena Pogrebnyak. Je tu čtvrteční seriál.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cena pro „kultivovanou neurvalost“</title>
       <link>https://www.h7o.cz/clanky/14523-cena-pro-kultivovanou-neurvalost</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu</guid>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nepřenechat prostor jiným</title>
-      <link>https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym</link>
-      <description>Čtyři roky trvající válka a čtyři roky odvážné rezistence Ukrajiny a jejich obyvatel se podepisují i na fungování kultury, jíž věnujeme téma únorového Hosta. Jak vnímají spisovatelé proměnu svého psaní: pociťují rezignaci, potřebu uchovat literaturu v ukrajinštině nebo najít nové způsoby, jak psát?</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

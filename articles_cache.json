@@ -16,14 +16,6 @@
     "category": "rozhovor"
   },
   {
-    "title": "Nepřenechat prostor jiným",
-    "url": "https://www.h7o.cz/clanky/14450-neprenechat-prostor-jinym",
-    "description": "Čtyři roky trvající válka a čtyři roky odvážné rezistence Ukrajiny a jejich obyvatel se podepisují i na fungování kultury, jíž věnujeme téma únorového Hosta. Jak vnímají spisovatelé proměnu svého psaní: pociťují rezignaci, potřebu uchovat literaturu v ukrajinštině nebo najít nové způsoby, jak psát?",
-    "date": "2026-02-20T00:00:00",
-    "author": "Alexej Sevruk",
-    "category": "komentář"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-20T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Nezlomná kyjevská bohemistika",
+    "url": "https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika",
+    "description": "„Body nezlomnosti“: dočasná místa veřejné pomoci v Ukrajině, která byla intenzivně využívána zejména během zimních útoků Ruska na energetickou infrastrukturu. Tímto výrazem lze označit i ukrajinskou bohemistiku, o níž mluví ukrajinistka a bohemistka Olena Pogrebnyak. Je tu čtvrteční seriál.",
+    "date": "2026-05-21T00:00:00",
+    "author": "Renata Cebe",
+    "category": "seriál"
   }
 ]

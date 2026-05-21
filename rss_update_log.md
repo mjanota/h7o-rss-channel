@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-21 07:32:49 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Tropické noci
+2. Family Matter
+3. Calamity Club
+4. Dark Age, Red Rising 5
+5. Impossible Fortune
+6. Lost Road and Or Writings
+7. Morgoth"s Ring
+8. Morning Star
+9. Our Perfect Storm
+10. Peoples of Middle-Earth
+11. Plays Well with Others
+12. Red Rising 1
+13. Return of  Shadow
+14. Revolve
+15. Seven Dials Mystery
+16. Son of Nobody
+17. Things We Never Say
+18. Wuthering Heights
+19. History of Middle-Earth - Index
+20. Anglicko-český a česko-anglický Praktický slovník
+
+---
+
+## 🕐 2026-05-21 07:32:48 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Nezlomná kyjevská bohemistika
+
+---
+
 ## 🕐 2026-05-20 07:28:55 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,53 +284,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Victus
-
----
-
-## 🕐 2026-05-14 07:14:26 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Kryštof a Torpédo
-2. Sokotra
-3. Jezte, ať vám to sluší
-4. Nové povídky malostranské a jedna z Dejvic
-5. Případy soudce Ti: Pomsta Bílého tygra
-6. Stopy v dešti
-7. Přátelé Arnošta Lustiga očima Františka Cingera
-8. Když zavřeš oči
-9. Lordi bolesti
-10. Fašismus
-11. Dobyvatel světa
-12. Nebe je rudý
-13. Bota botanika
-14. Kočky od 311. peruti
-15. Plachý dům
-16. Zoufale nepřipraven
-17. Hořice na Šumavě
-18. Obrana tradičního křesťanství
-19. Střešovice
-20. České úlohy
-
----
-
-## 🕐 2026-05-14 07:14:24 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Proč lidé hráli divadlo na takovémto místě?
 
 ---
 
