@@ -8,14 +8,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Žijeme v království prázdných soklů",
-    "url": "https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu",
-    "description": "Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.",
-    "date": "2026-02-21T00:00:00",
-    "author": "Marie Iljašenko",
-    "category": "rozhovor"
-  },
-  {
     "title": "Co nejkrásnější život",
     "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
     "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
@@ -494,5 +486,13 @@
     "date": "2026-05-21T00:00:00",
     "author": "Renata Cebe",
     "category": "seriál"
+  },
+  {
+    "title": "Až k vyvanutí",
+    "url": "https://www.h7o.cz/clanky/14524-az-k-vyvanuti",
+    "description": "Nová básnická sbírka Eleny Pecenové „Jediný únor je opravdový Měsíc“ je antitezí její předchozí, experimentální tvorby. Středobodem je tentokrát motiv setkání s umíráním a se smrtí.",
+    "date": "2026-05-22T00:00:00",
+    "author": "Libor Staněk II.",
+    "category": "recenze"
   }
 ]

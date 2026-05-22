@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-22 07:28:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Tajemná postava
+2. Tak na to zapomeň, sestro
+3. Ten poslední
+4. Mistr sportu skáče z dortu
+5. Babky v Mexiku
+6. Malý Humorista
+7. Beautiful Venom
+8. Cruel King
+9. Death Meets Cute
+10. Defender
+11. Devils
+12. Hamnet
+13. Svět železnice 98/květen 2026
+14. Kiss the Villain
+15. Seven Dials
+16. Aeneid
+17. Best Fairy Tales
+18. Classic Fantasy Stories
+19. Classic Horror Stories Collector´s Library
+
+---
+
+## 🕐 2026-05-22 07:28:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Až k vyvanutí
+
+---
+
 ## 🕐 2026-05-21 07:32:49 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -241,49 +287,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-05-15 07:21:45 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Sad kostí
-2. Bronzová vež
-3. Měsíc mého života
-4. Moucha, Myš a lži
-5. Podpalubí
-6. Slova tak sladká a smrtící
-7. Večer, kdy nás opustil
-8. Plno flirtu, plno kouzel
-9. O tom Benešovi
-10. Námořník
-11. Průvodce kempy 2026
-12. Na Boží vlně s televizí Noe
-13. Nejlepší česká slam poetry 2025
-14. Vidět a žasnout
-15. Stínadla se bouří
-16. Och!
-
----
-
-## 🕐 2026-05-15 07:21:44 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Victus
 
 ---
 

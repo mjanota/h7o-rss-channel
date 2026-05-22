@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 21 May 2026 07:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:28:43 +0000</lastBuildDate>
+    <item>
+      <title>Až k vyvanutí</title>
+      <link>https://www.h7o.cz/clanky/14524-az-k-vyvanuti</link>
+      <description>Nová básnická sbírka Eleny Pecenové „Jediný únor je opravdový Měsíc“ je antitezí její předchozí, experimentální tvorby. Středobodem je tentokrát motiv setkání s umíráním a se smrtí.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14524-az-k-vyvanuti</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Nezlomná kyjevská bohemistika</title>
       <link>https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Že máme v Česku hustou síť knihoven, to se tak nějak ví. Teď však konečně můžeme vidět, jak moc hustá je. Přinášíme ochutnávku datových sloupků, které do Hosta tento rok píše novinář Michal Kašpárek.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14452-husty</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Žijeme v království prázdných soklů</title>
-      <link>https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu</link>
-      <description>Tématem únorového Hosta je kultura za války. Zde přinášíme nezkrácenou verzi rozhovoru, který v Kyjevě Marie Iljašenko vedla s literární vědkyní Virou Ahejevou. Mluvily o společenské paměti, identitě, dekolonizaci a rozkvětu ukrajinské kultury.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14451-zijeme-v-kralovstvi-prazdnych-soklu</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
