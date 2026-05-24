@@ -1,5 +1,108 @@
 [
   {
+    "title": "Do vody",
+    "url": "https://www.kosmas.cz/knihy/568398/do-vody/",
+    "description": "Do vody - Paula Hawkins",
+    "authors": [
+      "Paula Hawkins"
+    ],
+    "date": "2026-05-24T07:18:24.139150+00:00"
+  },
+  {
+    "title": "Stříbrný poník",
+    "url": "https://www.kosmas.cz/knihy/568407/stribrny-ponik/",
+    "description": "Stříbrný poník - James Brown, Holly Webbová",
+    "authors": [
+      "James Brown",
+      "Holly Webbová"
+    ],
+    "date": "2026-05-24T07:18:23.139150+00:00"
+  },
+  {
+    "title": "Biologická a cílená léčba",
+    "url": "https://www.kosmas.cz/knihy/568560/biologicka-a-cilena-lecba/",
+    "description": "Biologická a cílená léčba - Hartinger Miroslav Jan, pedagogů: kolektiv, Vladimír Tesař",
+    "authors": [
+      "Hartinger Miroslav Jan",
+      "pedagogů: kolektiv",
+      "Vladimír Tesař"
+    ],
+    "date": "2026-05-24T07:18:22.139150+00:00"
+  },
+  {
+    "title": "Poslední ghetto",
+    "url": "https://www.kosmas.cz/knihy/568579/posledni-ghetto/",
+    "description": "Poslední ghetto - Anna Hájková",
+    "authors": [
+      "Anna Hájková"
+    ],
+    "date": "2026-05-24T07:18:21.139150+00:00"
+  },
+  {
+    "title": "Cesta z obezity",
+    "url": "https://www.kosmas.cz/knihy/568660/cesta-z-obezity/",
+    "description": "Cesta z obezity - Jack Mosley",
+    "authors": [
+      "Jack Mosley"
+    ],
+    "date": "2026-05-24T07:18:20.139150+00:00"
+  },
+  {
+    "title": "Jak se dělá dítě",
+    "url": "https://www.kosmas.cz/knihy/568814/jak-se-dela-dite/",
+    "description": "Jak se dělá dítě - Cory Silverberg",
+    "authors": [
+      "Cory Silverberg"
+    ],
+    "date": "2026-05-24T07:18:19.139150+00:00"
+  },
+  {
+    "title": "Jak si porozumět",
+    "url": "https://www.kosmas.cz/knihy/568818/jak-si-porozumet/",
+    "description": "Jak si porozumět - Andrij Lesiv, Romana Romanyšyn",
+    "authors": [
+      "Andrij Lesiv",
+      "Romana Romanyšyn"
+    ],
+    "date": "2026-05-24T07:18:18.139150+00:00"
+  },
+  {
+    "title": "Vandrovali hudci",
+    "url": "https://www.kosmas.cz/knihy/568834/vandrovali-hudci/",
+    "description": "Vandrovali hudci - Malá česká muzika Jiřího Pospí",
+    "authors": [
+      "Malá česká muzika Jiřího Pospí"
+    ],
+    "date": "2026-05-24T07:18:17.139150+00:00"
+  },
+  {
+    "title": "Příroda a postoje k ní",
+    "url": "https://www.kosmas.cz/knihy/568995/priroda-a-postoje-k-ni/",
+    "description": "Příroda a postoje k ní - David Rozen",
+    "authors": [
+      "David Rozen"
+    ],
+    "date": "2026-05-24T07:18:16.139150+00:00"
+  },
+  {
+    "title": "Symbolika hebrejských znaků",
+    "url": "https://www.kosmas.cz/knihy/569111/symbolika-hebrejskych-znaku/",
+    "description": "Symbolika hebrejských znaků - Jaroslav Achab Haidler",
+    "authors": [
+      "Jaroslav Achab Haidler"
+    ],
+    "date": "2026-05-24T07:18:14.139150+00:00"
+  },
+  {
+    "title": "Zasuň džeka, vyhul zesík",
+    "url": "https://www.kosmas.cz/knihy/569112/zasun-dzeka-vyhul-zesik/",
+    "description": "Zasuň džeka, vyhul zesík - Eduard Svítivý",
+    "authors": [
+      "Eduard Svítivý"
+    ],
+    "date": "2026-05-24T07:18:13.139150+00:00"
+  },
+  {
     "title": "O čem si budeme povídat dnes?",
     "url": "https://www.kosmas.cz/knihy/567962/o-cem-si-budeme-povidat-dnes/",
     "description": "O čem si budeme povídat dnes? - Barbora Černohorská",
@@ -1695,106 +1798,5 @@
       "Felix Háj"
     ],
     "date": "2026-05-12T07:12:38.566171+00:00"
-  },
-  {
-    "title": "Stín",
-    "url": "https://www.kosmas.cz/knihy/568832/stin/",
-    "description": "Stín - Adam Przechrzta",
-    "authors": [
-      "Adam Przechrzta"
-    ],
-    "date": "2026-05-12T07:12:37.566171+00:00"
-  },
-  {
-    "title": "Sherlock Holmes a Rudá věž",
-    "url": "https://www.kosmas.cz/knihy/568833/sherlock-holmes-a-ruda-vez/",
-    "description": "Sherlock Holmes a Rudá věž - Mark A. Latham",
-    "authors": [
-      "Mark A. Latham"
-    ],
-    "date": "2026-05-12T07:12:36.566171+00:00"
-  },
-  {
-    "title": "Sherlock Holmes a krvavá zrada",
-    "url": "https://www.kosmas.cz/knihy/568835/sherlock-holmes-a-krvava-zrada/",
-    "description": "Sherlock Holmes a krvavá zrada - Mark A. Latham",
-    "authors": [
-      "Mark A. Latham"
-    ],
-    "date": "2026-05-12T07:12:35.566171+00:00"
-  },
-  {
-    "title": "Sherlock Holmes a Ďáblův prach",
-    "url": "https://www.kosmas.cz/knihy/568836/sherlock-holmes-a-dabluv-prach/",
-    "description": "Sherlock Holmes a Ďáblův prach - James Lovegrove",
-    "authors": [
-      "James Lovegrove"
-    ],
-    "date": "2026-05-12T07:12:34.566171+00:00"
-  },
-  {
-    "title": "U mě pořád dobrý",
-    "url": "https://www.kosmas.cz/knihy/568725/u-me-porad-dobry/",
-    "description": "U mě pořád dobrý - Veronika Bednářová, Jan Hřebejk",
-    "authors": [
-      "Veronika Bednářová",
-      "Jan Hřebejk"
-    ],
-    "date": "2026-05-11T07:29:23.282466+00:00"
-  },
-  {
-    "title": "Ordinace",
-    "url": "https://www.kosmas.cz/knihy/567984/ordinace/",
-    "description": "Ordinace - Petra Dvořáková",
-    "authors": [
-      "Petra Dvořáková"
-    ],
-    "date": "2026-05-10T07:06:43.287857+00:00"
-  },
-  {
-    "title": "Impérium",
-    "url": "https://www.kosmas.cz/knihy/568036/imperium/",
-    "description": "Impérium - Roman Bureš",
-    "authors": [
-      "Roman Bureš"
-    ],
-    "date": "2026-05-10T07:06:42.287857+00:00"
-  },
-  {
-    "title": "Disonance a fata morgána",
-    "url": "https://www.kosmas.cz/knihy/568054/disonance-a-fata-morgana/",
-    "description": "Disonance a fata morgána - Vladimír Papoušek, a kolektiv autorů",
-    "authors": [
-      "Vladimír Papoušek",
-      "a kolektiv autorů"
-    ],
-    "date": "2026-05-10T07:06:41.287857+00:00"
-  },
-  {
-    "title": "Vysocí muži jen neradi tančí",
-    "url": "https://www.kosmas.cz/knihy/568240/vysoci-muzi-jen-neradi-tanci/",
-    "description": "Vysocí muži jen neradi tančí - Pavel Frydrych",
-    "authors": [
-      "Pavel Frydrych"
-    ],
-    "date": "2026-05-10T07:06:40.287857+00:00"
-  },
-  {
-    "title": "Oheň svatého Antonína",
-    "url": "https://www.kosmas.cz/knihy/568314/ohen-svateho-antonina/",
-    "description": "Oheň svatého Antonína - Nicolas Pegon",
-    "authors": [
-      "Nicolas Pegon"
-    ],
-    "date": "2026-05-10T07:06:38.287857+00:00"
-  },
-  {
-    "title": "Polina",
-    "url": "https://www.kosmas.cz/knihy/568317/polina/",
-    "description": "Polina - Bastien Vivès",
-    "authors": [
-      "Bastien Vivès"
-    ],
-    "date": "2026-05-10T07:06:37.287857+00:00"
   }
 ]

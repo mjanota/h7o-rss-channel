@@ -7,7 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 23 May 2026 07:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 07:18:24 +0000</lastBuildDate>
+    <item>
+      <title>Do vody</title>
+      <link>https://www.kosmas.cz/knihy/568398/do-vody/</link>
+      <description>Do vody - Paula Hawkins</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568398/do-vody/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stříbrný poník</title>
+      <link>https://www.kosmas.cz/knihy/568407/stribrny-ponik/</link>
+      <description>Stříbrný poník - James Brown, Holly Webbová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568407/stribrny-ponik/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biologická a cílená léčba</title>
+      <link>https://www.kosmas.cz/knihy/568560/biologicka-a-cilena-lecba/</link>
+      <description>Biologická a cílená léčba - Hartinger Miroslav Jan, pedagogů: kolektiv, Vladimír Tesař</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568560/biologicka-a-cilena-lecba/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poslední ghetto</title>
+      <link>https://www.kosmas.cz/knihy/568579/posledni-ghetto/</link>
+      <description>Poslední ghetto - Anna Hájková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568579/posledni-ghetto/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cesta z obezity</title>
+      <link>https://www.kosmas.cz/knihy/568660/cesta-z-obezity/</link>
+      <description>Cesta z obezity - Jack Mosley</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568660/cesta-z-obezity/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak se dělá dítě</title>
+      <link>https://www.kosmas.cz/knihy/568814/jak-se-dela-dite/</link>
+      <description>Jak se dělá dítě - Cory Silverberg</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568814/jak-se-dela-dite/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak si porozumět</title>
+      <link>https://www.kosmas.cz/knihy/568818/jak-si-porozumet/</link>
+      <description>Jak si porozumět - Andrij Lesiv, Romana Romanyšyn</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568818/jak-si-porozumet/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vandrovali hudci</title>
+      <link>https://www.kosmas.cz/knihy/568834/vandrovali-hudci/</link>
+      <description>Vandrovali hudci - Malá česká muzika Jiřího Pospí</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568834/vandrovali-hudci/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příroda a postoje k ní</title>
+      <link>https://www.kosmas.cz/knihy/568995/priroda-a-postoje-k-ni/</link>
+      <description>Příroda a postoje k ní - David Rozen</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568995/priroda-a-postoje-k-ni/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Symbolika hebrejských znaků</title>
+      <link>https://www.kosmas.cz/knihy/569111/symbolika-hebrejskych-znaku/</link>
+      <description>Symbolika hebrejských znaků - Jaroslav Achab Haidler</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569111/symbolika-hebrejskych-znaku/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zasuň džeka, vyhul zesík</title>
+      <link>https://www.kosmas.cz/knihy/569112/zasun-dzeka-vyhul-zesik/</link>
+      <description>Zasuň džeka, vyhul zesík - Eduard Svítivý</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569112/zasun-dzeka-vyhul-zesik/</guid>
+      <pubDate>Sun, 24 May 2026 07:18:13 +0000</pubDate>
+    </item>
     <item>
       <title>O čem si budeme povídat dnes?</title>
       <link>https://www.kosmas.cz/knihy/567962/o-cem-si-budeme-povidat-dnes/</link>
@@ -630,83 +707,6 @@
       <description>John Constantine - Hellblazer - Mike Carey, Garth Ennis, Grant Morrison</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568906/john-constantine-hellblazer/</guid>
       <pubDate>Tue, 19 May 2026 07:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konec liDCtva</title>
-      <link>https://www.kosmas.cz/knihy/568909/konec-lidctva/</link>
-      <description>Konec liDCtva - Tom Taylor</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568909/konec-lidctva/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Košík a lednička plné hlav</title>
-      <link>https://www.kosmas.cz/knihy/568911/kosik-a-lednicka-plne-hlav/</link>
-      <description>Košík a lednička plné hlav - Joe Hill</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568911/kosik-a-lednicka-plne-hlav/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lobo - První nářez</title>
-      <link>https://www.kosmas.cz/knihy/568914/lobo-prvni-narez/</link>
-      <description>Lobo - První nářez - Alan Grant</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568914/lobo-prvni-narez/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Batman - Já jsem Batman</title>
-      <link>https://www.kosmas.cz/knihy/568915/batman-ja-jsem-batman/</link>
-      <description>Batman - Já jsem Batman - Tom King</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568915/batman-ja-jsem-batman/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kačeři Dana Černého</title>
-      <link>https://www.kosmas.cz/knihy/568916/kaceri-dana-cerneho/</link>
-      <description>Kačeři Dana Černého - Dan Černý</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568916/kaceri-dana-cerneho/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medailistka 2</title>
-      <link>https://www.kosmas.cz/knihy/568920/medailistka-2/</link>
-      <description>Medailistka 2 - Curumaikada</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568920/medailistka-2/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simpsonovi 5/2026</title>
-      <link>https://www.kosmas.cz/knihy/568923/simpsonovi-5-2026/</link>
-      <description>Simpsonovi 5/2026 - Matt Groening</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568923/simpsonovi-5-2026/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Souřadnice Vegy</title>
-      <link>https://www.kosmas.cz/knihy/569054/souradnice-vegy/</link>
-      <description>Souřadnice Vegy - Pavlína Křivánková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569054/souradnice-vegy/</guid>
-      <pubDate>Mon, 18 May 2026 07:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Přípravy na všechno</title>
-      <link>https://www.kosmas.cz/knihy/568330/pripravy-na-vsechno/</link>
-      <description>Přípravy na všechno - Elsa Aids</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568330/pripravy-na-vsechno/</guid>
-      <pubDate>Mon, 18 May 2026 07:41:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozaika vraždy</title>
-      <link>https://www.kosmas.cz/knihy/567846/mozaika-vrazdy/</link>
-      <description>Mozaika vraždy - Jo Murray</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567846/mozaika-vrazdy/</guid>
-      <pubDate>Sun, 17 May 2026 07:10:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lost Hills</title>
-      <link>https://www.kosmas.cz/knihy/567854/lost-hills/</link>
-      <description>Lost Hills - Lee Goldberg</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567854/lost-hills/</guid>
-      <pubDate>Sun, 17 May 2026 07:10:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
