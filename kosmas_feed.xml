@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 24 May 2026 07:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:52:05 +0000</lastBuildDate>
+    <item>
+      <title>Muž, který ve Svaté zemi prodával vzduch</title>
+      <link>https://www.kosmas.cz/knihy/565083/muz-ktery-ve-svate-zemi-prodaval-vzduch/</link>
+      <description>Muž, který ve Svaté zemi prodával vzduch - Omer Friedlander</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565083/muz-ktery-ve-svate-zemi-prodaval-vzduch/</guid>
+      <pubDate>Mon, 25 May 2026 07:51:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Všímejte si svého těla</title>
+      <link>https://www.kosmas.cz/knihy/563779/vsimejte-si-sveho-tela/</link>
+      <description>Všímejte si svého těla - Erica Hornthal</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563779/vsimejte-si-sveho-tela/</guid>
+      <pubDate>Mon, 25 May 2026 07:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příběh nového Já</title>
+      <link>https://www.kosmas.cz/knihy/567353/pribeh-noveho-ja/</link>
+      <description>Příběh nového Já - Jakub Bednář</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567353/pribeh-noveho-ja/</guid>
+      <pubDate>Mon, 25 May 2026 07:51:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>GLP-1 kuchařka</title>
+      <link>https://www.kosmas.cz/knihy/569342/glp-1-kucharka/</link>
+      <description>GLP-1 kuchařka - Evžen Machytka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569342/glp-1-kucharka/</guid>
+      <pubDate>Mon, 25 May 2026 07:51:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajemství Velkého Vonta</title>
+      <link>https://www.kosmas.cz/knihy/569343/tajemstvi-velkeho-vonta/</link>
+      <description>Tajemství Velkého Vonta - Jaroslav Foglar</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569343/tajemstvi-velkeho-vonta/</guid>
+      <pubDate>Mon, 25 May 2026 07:51:46 +0000</pubDate>
+    </item>
     <item>
       <title>Do vody</title>
       <link>https://www.kosmas.cz/knihy/568398/do-vody/</link>
@@ -672,41 +707,6 @@
       <description>Dívka v ledu EXKLUZIVNÍ VYDÁNÍ - Robert Bryndza</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568813/divka-v-ledu-exkluzivni-vydani/</guid>
       <pubDate>Tue, 19 May 2026 07:28:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztráta Vysvobození</title>
-      <link>https://www.kosmas.cz/knihy/568815/ztrata-vysvobozeni/</link>
-      <description>Ztráta Vysvobození - Graham McNeill</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568815/ztrata-vysvobozeni/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Umírající světlo</title>
-      <link>https://www.kosmas.cz/knihy/568821/umirajici-svetlo/</link>
-      <description>Umírající světlo - Daniel Aubrey</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568821/umirajici-svetlo/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rodinná terapie a teorie jin-jangu</title>
-      <link>https://www.kosmas.cz/knihy/568825/rodinna-terapie-a-teorie-jin-jangu/</link>
-      <description>Rodinná terapie a teorie jin-jangu - Vladislav Chvála, Ludmila Trapková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568825/rodinna-terapie-a-teorie-jin-jangu/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Requiem v české soudobé hudbě</title>
-      <link>https://www.kosmas.cz/knihy/568861/requiem-v-ceske-soudobe-hudbe/</link>
-      <description>Requiem v české soudobé hudbě - Petr Kubačák</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568861/requiem-v-ceske-soudobe-hudbe/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>John Constantine - Hellblazer</title>
-      <link>https://www.kosmas.cz/knihy/568906/john-constantine-hellblazer/</link>
-      <description>John Constantine - Hellblazer - Mike Carey, Garth Ennis, Grant Morrison</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568906/john-constantine-hellblazer/</guid>
-      <pubDate>Tue, 19 May 2026 07:28:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

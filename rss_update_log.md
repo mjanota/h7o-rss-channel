@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-25 07:52:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 5
+
+**Tituly nových položek:**
+
+1. Muž, který ve Svaté zemi prodával vzduch
+2. Všímejte si svého těla
+3. Příběh nového Já
+4. GLP-1 kuchařka
+5. Tajemství Velkého Vonta
+
+---
+
+## 🕐 2026-05-25 07:52:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Harari až harakiri
+
+---
+
 ## 🕐 2026-05-24 07:18:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -263,35 +295,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Konec malého knihkupectví
-
----
-
-## 🕐 2026-05-18 07:41:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Souřadnice Vegy
-2. Přípravy na všechno
-
----
-
-## 🕐 2026-05-18 07:41:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. O ČSSR jsem toho jako dítě příliš nevěděl
 
 ---
 

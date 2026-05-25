@@ -1,13 +1,5 @@
 [
   {
-    "title": "Co nejkrásnější život",
-    "url": "https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot",
-    "description": "V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.",
-    "date": "2026-02-24T00:00:00",
-    "author": "Anna Řezníčková",
-    "category": "sloupek"
-  },
-  {
     "title": "Konec pulpu",
     "url": "https://www.h7o.cz/clanky/14455-konec-pulpu",
     "description": "Ve Spojených státech nenápadně končí výroba a distribuce jednoho ze symbolů knižní kultury a literatury minulého století: masového paperbacku.",
@@ -485,6 +477,14 @@
     "description": "Nová básnická sbírka Eleny Pecenové „Jediný únor je opravdový Měsíc“ je antitezí její předchozí, experimentální tvorby. Středobodem je tentokrát motiv setkání s umíráním a se smrtí.",
     "date": "2026-05-22T00:00:00",
     "author": "Libor Staněk II.",
+    "category": "recenze"
+  },
+  {
+    "title": "Harari až harakiri",
+    "url": "https://www.h7o.cz/clanky/14525-harari-az-harakiri",
+    "description": "Ředitel Knihovny Václava Havla Tomáš Sedláček nedávno přišel s tím, že instituce potřebuje modernizovat: propustit většinu zaměstnanců a nahradit je AI. V tomto kontextu není  bez zajímavosti, že Sedláčkův mladší bratr Lukáš nedávno o AI vydal veleúspěšnou monografii. Tedy…",
+    "date": "2026-05-25T00:00:00",
+    "author": "Jan Němec",
     "category": "recenze"
   }
 ]

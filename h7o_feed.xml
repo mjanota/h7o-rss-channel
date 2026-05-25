@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 24 May 2026 07:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:52:04 +0000</lastBuildDate>
+    <item>
+      <title>Harari až harakiri</title>
+      <link>https://www.h7o.cz/clanky/14525-harari-az-harakiri</link>
+      <description>Ředitel Knihovny Václava Havla Tomáš Sedláček nedávno přišel s tím, že instituce potřebuje modernizovat: propustit většinu zaměstnanců a nahradit je AI. V tomto kontextu není  bez zajímavosti, že Sedláčkův mladší bratr Lukáš nedávno o AI vydal veleúspěšnou monografii. Tedy…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14525-harari-az-harakiri</guid>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Až k vyvanutí</title>
       <link>https://www.h7o.cz/clanky/14524-az-k-vyvanuti</link>
@@ -428,13 +435,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Ve Spojených státech nenápadně končí výroba a distribuce jednoho ze symbolů knižní kultury a literatury minulého století: masového paperbacku.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14455-konec-pulpu</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co nejkrásnější život</title>
-      <link>https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot</link>
-      <description>V zahraničních anketách o nejlepší knihy loňského roku se až překvapivě často ocitala jedna kniha: „Perfection“ italského spisovatele Vincenza Latronica. O knize píše v prozaickém sloupku Anna Řezníčková, jejíž nové básně si můžete zároveň přečíst v aktuálním čísle časopisu „Host“.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14453-co-nejkrasnejsi-zivot</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
