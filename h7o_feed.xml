@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 25 May 2026 07:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:28:04 +0000</lastBuildDate>
+    <item>
+      <title>Smrt a virtualita k sobě mají blíž, než by se mohlo zdát</title>
+      <link>https://www.h7o.cz/clanky/14526-smrt-a-virtualita-k-sobe-maji-bliz-nez-by-se-mohlo-zdat</link>
+      <description>Básnířka Elena Pecenová vydala novou básnickou knihu „Jediný únor je opravdový Měsíc“. Básnická skladba zachycuje procesy spojené se smrtí blízké osoby. Básnířka pro to využívá formu a přístup velmi odlišné od její dřívější tvorby.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14526-smrt-a-virtualita-k-sobe-maji-bliz-nez-by-se-mohlo-zdat</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Harari až harakiri</title>
       <link>https://www.h7o.cz/clanky/14525-harari-az-harakiri</link>
@@ -428,13 +435,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>S Ondřejem Galuškou se bohužel smějeme naposled. Tentokrát nad smíchem bohů. Ačkoli mnozí bohové už pro leckoho nejsou mezi námi, božský šprým a smích přetrvaly a některé se teď jakoby s tajícími ledy uvolňují. Jednoho z toho mrazí. Čtení Galuškova sloupku může způsobit i záchvat.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14454-smejici-se-bohove</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konec pulpu</title>
-      <link>https://www.h7o.cz/clanky/14455-konec-pulpu</link>
-      <description>Ve Spojených státech nenápadně končí výroba a distribuce jednoho ze symbolů knižní kultury a literatury minulého století: masového paperbacku.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14455-konec-pulpu</guid>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

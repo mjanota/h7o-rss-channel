@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-26 07:28:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Záporáci smrti neutečou 6
+2. My girl: Radost s tebou žít 1
+3. Delicious in Dungeon - Chuť podzemí 1
+4. Simpsonovi: Komiksové safari
+5. Modrá CREW 46: Vesper 3 a 4
+6. Vinlandská sága 2
+7. Stitch a samuraj 1
+8. Zrzavý Orm
+9. Yentl a jiné povídky
+10. Protože myslíš pozitivně
+11. Muž, který našel klid
+12. Malé lodě
+13. Mrtvé duše nezpívají
+14. Povídky tenorsaxofonisty
+15. Neúplatný
+16. Romeo a Julie
+17. Úklady a láska
+18. Co nás čeká v porodnici a co doma
+19. Mystik hmoty
+20. Čarodějnické rituály
+
+---
+
+## 🕐 2026-05-26 07:28:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Smrt a virtualita k sobě mají blíž, než by se mohlo zdát
+
+---
+
 ## 🕐 2026-05-25 07:52:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
