@@ -1,13 +1,5 @@
 [
   {
-    "title": "Smějící se bohové",
-    "url": "https://www.h7o.cz/clanky/14454-smejici-se-bohove",
-    "description": "S Ondřejem Galuškou se bohužel smějeme naposled. Tentokrát nad smíchem bohů. Ačkoli mnozí bohové už pro leckoho nejsou mezi námi, božský šprým a smích přetrvaly a některé se teď jakoby s tajícími ledy uvolňují. Jednoho z toho mrazí. Čtení Galuškova sloupku může způsobit i záchvat.",
-    "date": "2026-02-26T00:00:00",
-    "author": "Ondřej Galuška",
-    "category": "seriál"
-  },
-  {
     "title": "Alexandr? Alexandre!",
     "url": "https://www.h7o.cz/clanky/14456-alexandr-alexandre",
     "description": "Celé to začalo jedním zimním soubojem, jenž vyústil v nejsenzačnější konspiraci literární historie. Totiž že z Alexandra Sergejeviče Puškina se stal Alexandre Dumas.",
@@ -486,5 +478,13 @@
     "date": "2026-05-26T00:00:00",
     "author": "Jan B. Peňas",
     "category": "rozhovor"
+  },
+  {
+    "title": "Konec googlování",
+    "url": "https://www.h7o.cz/clanky/14527-konec-googlovani",
+    "description": "Společnost Google minulý týden představila produktové a technologické novinky. Média zaujala — a vyděsila — především aktualizace nástrojů umělé inteligence. AI bude totiž hrát ve vyhledávání mnohem větší roli než doposud. A doplatí na to média a další tvůrci obsahu.",
+    "date": "2026-05-27T00:00:00",
+    "author": "Jakub Jetmar",
+    "category": "sloupek"
   }
 ]

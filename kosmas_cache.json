@@ -1,5 +1,123 @@
 [
   {
+    "title": "Před branami podsvětí",
+    "url": "https://www.kosmas.cz/knihy/569230/pred-branami-podsveti/",
+    "description": "Před branami podsvětí",
+    "authors": [],
+    "date": "2026-05-27T07:41:57.555702+00:00"
+  },
+  {
+    "title": "Okamžiky v přírodě",
+    "url": "https://www.kosmas.cz/knihy/569463/okamziky-v-prirode/",
+    "description": "Okamžiky v přírodě - Gamander López",
+    "authors": [
+      "Gamander López"
+    ],
+    "date": "2026-05-27T07:41:56.555702+00:00"
+  },
+  {
+    "title": "O ponících - Vybarvi si vlastní puzzle",
+    "url": "https://www.kosmas.cz/knihy/569465/o-ponicich-vybarvi-si-vlastni-puzzle/",
+    "description": "O ponících - Vybarvi si vlastní puzzle - Marcela Grez",
+    "authors": [
+      "Marcela Grez"
+    ],
+    "date": "2026-05-27T07:41:55.555702+00:00"
+  },
+  {
+    "title": "Vzhůru na Kouzelný strom",
+    "url": "https://www.kosmas.cz/knihy/568038/vzhuru-na-kouzelny-strom/",
+    "description": "Vzhůru na Kouzelný strom - Enid Blytonová",
+    "authors": [
+      "Enid Blytonová"
+    ],
+    "date": "2026-05-27T07:41:54.555702+00:00"
+  },
+  {
+    "title": "Za posledním řádkem",
+    "url": "https://www.kosmas.cz/knihy/568387/za-poslednim-radkem/",
+    "description": "Za posledním řádkem - Lucie Doležalová, Michal Dragoun, Andrea Hlaváčová Svobodová",
+    "authors": [
+      "Lucie Doležalová",
+      "Michal Dragoun",
+      "Andrea Hlaváčová Svobodová"
+    ],
+    "date": "2026-05-27T07:41:53.555702+00:00"
+  },
+  {
+    "title": "Reimaginace",
+    "url": "https://www.kosmas.cz/knihy/568486/reimaginace/",
+    "description": "Reimaginace - Tomáš Král",
+    "authors": [
+      "Tomáš Král"
+    ],
+    "date": "2026-05-27T07:41:52.555702+00:00"
+  },
+  {
+    "title": "Toxičtí rodiče",
+    "url": "https://www.kosmas.cz/knihy/568840/toxicti-rodice/",
+    "description": "Toxičtí rodiče - Craig Buck, Susan Forwardová",
+    "authors": [
+      "Craig Buck",
+      "Susan Forwardová"
+    ],
+    "date": "2026-05-27T07:41:51.555702+00:00"
+  },
+  {
+    "title": "Povídky tenorsaxofonisty",
+    "url": "https://www.kosmas.cz/knihy/568881/povidky-tenorsaxofonisty/",
+    "description": "Povídky tenorsaxofonisty - Josef Škvorecký",
+    "authors": [
+      "Josef Škvorecký"
+    ],
+    "date": "2026-05-27T07:41:50.555702+00:00"
+  },
+  {
+    "title": "Panna v ledu",
+    "url": "https://www.kosmas.cz/knihy/568884/panna-v-ledu/",
+    "description": "Panna v ledu - Ellis Petersová",
+    "authors": [
+      "Ellis Petersová"
+    ],
+    "date": "2026-05-27T07:41:48.555702+00:00"
+  },
+  {
+    "title": "Anglicko-český, česko-anglický kapesní slovník",
+    "url": "https://www.kosmas.cz/knihy/568897/anglicko-cesky-cesko-anglicky-kapesni-slovnik/",
+    "description": "Anglicko-český, česko-anglický kapesní slovník - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-05-27T07:41:47.555702+00:00"
+  },
+  {
+    "title": "Válka jsme my",
+    "url": "https://www.kosmas.cz/knihy/569040/valka-jsme-my/",
+    "description": "Válka jsme my - Ladislav Kudrna",
+    "authors": [
+      "Ladislav Kudrna"
+    ],
+    "date": "2026-05-27T07:41:41.555702+00:00"
+  },
+  {
+    "title": "Nevyměkni",
+    "url": "https://www.kosmas.cz/knihy/565509/nevymekni/",
+    "description": "Nevyměkni - Stephen King",
+    "authors": [
+      "Stephen King"
+    ],
+    "date": "2026-05-27T07:41:40.555702+00:00"
+  },
+  {
+    "title": "Pohádky pod pokličkou",
+    "url": "https://www.kosmas.cz/knihy/569200/pohadky-pod-poklickou/",
+    "description": "Pohádky pod pokličkou - David Fejfar",
+    "authors": [
+      "David Fejfar"
+    ],
+    "date": "2026-05-27T07:41:38.555702+00:00"
+  },
+  {
     "title": "Záporáci smrti neutečou 6",
     "url": "https://www.kosmas.cz/knihy/568934/zaporaci-smrti-neutecou-6/",
     "description": "Záporáci smrti neutečou 6 - Suwol, Kjoul Kwon",
@@ -1693,117 +1811,5 @@
       "Dalibor Vácha"
     ],
     "date": "2026-05-14T07:14:13.077144+00:00"
-  },
-  {
-    "title": "Plachý dům",
-    "url": "https://www.kosmas.cz/knihy/568610/plachy-dum/",
-    "description": "Plachý dům - Barbora Hrínová",
-    "authors": [
-      "Barbora Hrínová"
-    ],
-    "date": "2026-05-14T07:14:12.077144+00:00"
-  },
-  {
-    "title": "Zoufale nepřipraven",
-    "url": "https://www.kosmas.cz/knihy/568782/zoufale-nepripraven/",
-    "description": "Zoufale nepřipraven - Paul Maliszewski",
-    "authors": [
-      "Paul Maliszewski"
-    ],
-    "date": "2026-05-14T07:14:11.077144+00:00"
-  },
-  {
-    "title": "Hořice na Šumavě",
-    "url": "https://www.kosmas.cz/knihy/568789/horice-na-sumave/",
-    "description": "Hořice na Šumavě - Jan Palkovič",
-    "authors": [
-      "Jan Palkovič"
-    ],
-    "date": "2026-05-14T07:14:10.077144+00:00"
-  },
-  {
-    "title": "Obrana tradičního křesťanství",
-    "url": "https://www.kosmas.cz/knihy/568790/obrana-tradicniho-krestanstvi/",
-    "description": "Obrana tradičního křesťanství - Stanislav Sousedík",
-    "authors": [
-      "Stanislav Sousedík"
-    ],
-    "date": "2026-05-14T07:14:09.077144+00:00"
-  },
-  {
-    "title": "Střešovice",
-    "url": "https://www.kosmas.cz/knihy/568792/stresovice/",
-    "description": "Střešovice - Renáta Kalašová",
-    "authors": [
-      "Renáta Kalašová"
-    ],
-    "date": "2026-05-14T07:14:08.077144+00:00"
-  },
-  {
-    "title": "České úlohy",
-    "url": "https://www.kosmas.cz/knihy/568793/ceske-ulohy/",
-    "description": "České úlohy - Ladislav Klíma",
-    "authors": [
-      "Ladislav Klíma"
-    ],
-    "date": "2026-05-14T07:14:07.077144+00:00"
-  },
-  {
-    "title": "Zima v ráji",
-    "url": "https://www.kosmas.cz/knihy/553910/zima-v-raji/",
-    "description": "Zima v ráji - Harry Harrison",
-    "authors": [
-      "Harry Harrison"
-    ],
-    "date": "2026-05-13T07:17:20.215665+00:00"
-  },
-  {
-    "title": "Závrať",
-    "url": "https://www.kosmas.cz/knihy/568474/zavrat/",
-    "description": "Závrať - Harald Jähner",
-    "authors": [
-      "Harald Jähner"
-    ],
-    "date": "2026-05-13T07:17:19.215665+00:00"
-  },
-  {
-    "title": "Léto v příbězích",
-    "url": "https://www.kosmas.cz/knihy/567976/leto-v-pribezich/",
-    "description": "Léto v příbězích - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-05-13T07:17:17.215665+00:00"
-  },
-  {
-    "title": "Rakouské hrady a zříceniny I",
-    "url": "https://www.kosmas.cz/knihy/568059/rakouske-hrady-a-zriceniny-i/",
-    "description": "Rakouské hrady a zříceniny I - Petr Fabian, Anna Petruželková",
-    "authors": [
-      "Petr Fabian",
-      "Anna Petruželková"
-    ],
-    "date": "2026-05-13T07:17:16.215665+00:00"
-  },
-  {
-    "title": "Mozek v dobré kondici - Aktivity nejen pro babičky a dědy",
-    "url": "https://www.kosmas.cz/knihy/568307/mozek-v-dobre-kondici-aktivity-nejen-pro-babicky-a-dedy/",
-    "description": "Mozek v dobré kondici - Aktivity nejen pro babičky a dědy",
-    "authors": [],
-    "date": "2026-05-13T07:17:15.215665+00:00"
-  },
-  {
-    "title": "Atlas světového fotbalu",
-    "url": "https://www.kosmas.cz/knihy/568308/atlas-svetoveho-fotbalu/",
-    "description": "Atlas světového fotbalu",
-    "authors": [],
-    "date": "2026-05-13T07:17:14.215665+00:00"
-  },
-  {
-    "title": "Gigantická DINOPÉDIE Odpoví skoro na vše",
-    "url": "https://www.kosmas.cz/knihy/568309/giganticka-dinopedie-odpovi-skoro-na-vse/",
-    "description": "Gigantická DINOPÉDIE Odpoví skoro na vše",
-    "authors": [],
-    "date": "2026-05-13T07:17:13.215665+00:00"
   }
 ]

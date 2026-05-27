@@ -5,6 +5,46 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-27 07:41:57 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Před branami podsvětí
+2. Okamžiky v přírodě
+3. O ponících - Vybarvi si vlastní puzzle
+4. Vzhůru na Kouzelný strom
+5. Za posledním řádkem
+6. Reimaginace
+7. Toxičtí rodiče
+8. Povídky tenorsaxofonisty
+9. Panna v ledu
+10. Anglicko-český, česko-anglický kapesní slovník
+11. Válka jsme my
+12. Nevyměkni
+13. Pohádky pod pokličkou
+
+---
+
+## 🕐 2026-05-27 07:41:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Konec googlování
+
+---
+
 ## 🕐 2026-05-26 07:28:06 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -248,100 +288,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Nezlomná kyjevská bohemistika
-
----
-
-## 🕐 2026-05-20 07:28:55 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Láska v éteru
-2. Tichý prostor intermezza
-3. Romeo a Julie / Romeo and Juliet
-4. Ďáblova slina
-5. Necudná dohoda
-6. Řekni ano tomu pravému
-7. Klub Tygrů – Tajný úkol pro upíra
-8. Klub zhýralců: Bez milosti
-9. Vzpomínky na mrtvé
-10. Nekonečný pád: Návrat domů
-11. Opraváři času: Hlubiny temné minulosti
-12. Dům na ostrově Amelia
-13. Čína a my jako Česká republika
-14. Pátá minuta je o nás
-15. Sylvanas
-16. Z čeho kvete lotos
-17. Francouzští světci v českém středověku
-18. Ukradené lži
-19. Král vlků
-20. Kronika pověstí a legend
-
----
-
-## 🕐 2026-05-20 07:28:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Cena pro „kultivovanou neurvalost“
-
----
-
-## 🕐 2026-05-19 07:28:59 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Kamarádové: Ema nechce jíst, Bert se nechce kamarádit
-2. Píseň o pevnině
-3. Zdravotnické právo
-4. Nový věk impéria
-5. Frieren - Když jedna cesta končí 6
-6. Vetřelci vs. Avengers
-7. Nástupnictví v rodinných firmách
-8. Dívka v ledu EXKLUZIVNÍ VYDÁNÍ
-9. Ztráta Vysvobození
-10. Umírající světlo
-11. Rodinná terapie a teorie jin-jangu
-12. Requiem v české soudobé hudbě
-13. John Constantine - Hellblazer
-14. Konec liDCtva
-15. Košík a lednička plné hlav
-16. Lobo - První nářez
-17. Batman - Já jsem Batman
-18. Kačeři Dana Černého
-19. Medailistka 2
-20. Simpsonovi 5/2026
-
----
-
-## 🕐 2026-05-19 07:28:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Konec malého knihkupectví
 
 ---
 
