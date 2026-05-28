@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-28 07:37:30 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Román pro pitomce
+2. Tajné zasvěcení v říši bohů
+3. Pouto pána démonů
+4. Srdce a šíp
+5. Ve výslužbě - Luciferova holka
+6. Výšina
+7. Zapalte hranici
+8. Psychiatrie a pedopsychiatrie
+9. Záhady dávnověku
+10. Nulová historie
+11. Strach
+12. Stopy
+13. Tajemství a výklad pohádek: Tři veteráni
+14. Teribear Záhada vyloupeného skleníku
+15. Den D 6. 6. 1944
+16. Čtenářský klub za mřížemi
+17. Percy Jackson - Moře nestvůr
+
+---
+
+## 🕐 2026-05-28 07:37:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Život po životě literární teorie
+
+---
+
 ## 🕐 2026-05-27 07:41:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -241,53 +285,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Až k vyvanutí
-
----
-
-## 🕐 2026-05-21 07:32:49 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Tropické noci
-2. Family Matter
-3. Calamity Club
-4. Dark Age, Red Rising 5
-5. Impossible Fortune
-6. Lost Road and Or Writings
-7. Morgoth"s Ring
-8. Morning Star
-9. Our Perfect Storm
-10. Peoples of Middle-Earth
-11. Plays Well with Others
-12. Red Rising 1
-13. Return of  Shadow
-14. Revolve
-15. Seven Dials Mystery
-16. Son of Nobody
-17. Things We Never Say
-18. Wuthering Heights
-19. History of Middle-Earth - Index
-20. Anglicko-český a česko-anglický Praktický slovník
-
----
-
-## 🕐 2026-05-21 07:32:48 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Nezlomná kyjevská bohemistika
 
 ---
 

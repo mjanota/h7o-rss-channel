@@ -1,13 +1,5 @@
 [
   {
-    "title": "Alexandr? Alexandre!",
-    "url": "https://www.h7o.cz/clanky/14456-alexandr-alexandre",
-    "description": "Celé to začalo jedním zimním soubojem, jenž vyústil v nejsenzačnější konspiraci literární historie. Totiž že z Alexandra Sergejeviče Puškina se stal Alexandre Dumas.",
-    "date": "2026-02-27T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "sloupek"
-  },
-  {
     "title": "Rozzuřený boomer mezi trapností a věčností",
     "url": "https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti",
     "description": "Jáchym Topol po devíti letech vydal nový román, prý možná jeden z posledních napsaných pouze člověkem, jak se při příležitosti vydání knihy a v obavě z AI vyjádřil v Deníku N.  Jak tedy román napsaný pouze člověkem dopadl? Dozvíte se v kritice Marty Ljubkové.",
@@ -486,5 +478,13 @@
     "date": "2026-05-27T00:00:00",
     "author": "Jakub Jetmar",
     "category": "sloupek"
+  },
+  {
+    "title": "Život po životě literární teorie",
+    "url": "https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie",
+    "description": "Jak se proměnila kritéria literárnosti od období ruského formalismu? Existuje jediná „světová literatura“? Jaký má dnes literární teorie vůbec význam? V rámci seriálu k letošnímu bohemistickému kongresu přinášíme rozhovor s profesorem komparativní literatury Queen Mary University, Galinem Tihanovem.",
+    "date": "2026-05-28T00:00:00",
+    "author": "Anna Škrabánková",
+    "category": "seriál"
   }
 ]
