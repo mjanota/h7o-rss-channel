@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-05-31 07:31:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. Minecraft
+2. Ztracený příběh
+3. Holka, které se nikdo nezastal
+4. Démonova kletba
+5. 00 Rules for Business Success
+6. Třetí dívka
+7. Růže v okovech
+8. Co když to vyjde?
+9. Okouzlující lháři
+
+---
+
+## 🕐 2026-05-31 07:31:24 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-05-30 07:13:29 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -256,40 +288,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Harari až harakiri
-
----
-
-## 🕐 2026-05-24 07:18:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 11
-
-**Tituly nových položek:**
-
-1. Do vody
-2. Stříbrný poník
-3. Biologická a cílená léčba
-4. Poslední ghetto
-5. Cesta z obezity
-6. Jak se dělá dítě
-7. Jak si porozumět
-8. Vandrovali hudci
-9. Příroda a postoje k ní
-10. Symbolika hebrejských znaků
-11. Zasuň džeka, vyhul zesík
-
----
-
-## 🕐 2026-05-24 07:18:23 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

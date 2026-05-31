@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 30 May 2026 07:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 07:31:24 +0000</lastBuildDate>
     <item>
       <title>Potřebujeme tmu, jestli se máme rozkoukat!</title>
       <link>https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat</link>
@@ -442,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>„Podobně jako v případě Sudet je i v Odřanie nutné přijmout historii míst s tím, že je jiná než historie těch, kteří ji obývají nyní. A že obě verze jednoho příběhu mohou být stejně pravdivé,“ píše v recenzi na novou knihu z nakladatelství Absynt Václav Maxmilián.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14458-bedekr-po-novem-polsku</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozzuřený boomer mezi trapností a věčností</title>
-      <link>https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti</link>
-      <description>Jáchym Topol po devíti letech vydal nový román, prý možná jeden z posledních napsaných pouze člověkem, jak se při příležitosti vydání knihy a v obavě z AI vyjádřil v Deníku N.  Jak tedy román napsaný pouze člověkem dopadl? Dozvíte se v kritice Marty Ljubkové.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14457-rozzureny-boomer-mezi-trapnosti-a-vecnosti</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
