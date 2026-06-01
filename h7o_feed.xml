@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 31 May 2026 07:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:07:41 +0000</lastBuildDate>
+    <item>
+      <title>Literární dům</title>
+      <link>https://www.h7o.cz/clanky/14530-literarni-dum</link>
+      <description>„Přitom všichni, celý národ, opravdu naléhavě potřebujeme literární dům. Jen o tom naprostá většina národa nemá nejmenší tušení,“ píše Petr Šesták z Wannsee. Nebyl tam na žádné konferenci, ani kulturní, ty jsou jen o něco málo lepší, byl tam psát.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14530-literarni-dum</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Potřebujeme tmu, jestli se máme rozkoukat!</title>
       <link>https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Po vyhlášení nominací na Cenu literární kritiky zveřejnily své longlisty i jednotlivé poroty soutěže Magnesia Litera. A některé tituly mají šanci uspět i v dalších literárních soutěžích či anketách.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace</guid>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bedekr po novém Polsku</title>
-      <link>https://www.h7o.cz/clanky/14458-bedekr-po-novem-polsku</link>
-      <description>„Podobně jako v případě Sudet je i v Odřanie nutné přijmout historii míst s tím, že je jiná než historie těch, kteří ji obývají nyní. A že obě verze jednoho příběhu mohou být stejně pravdivé,“ píše v recenzi na novou knihu z nakladatelství Absynt Václav Maxmilián.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14458-bedekr-po-novem-polsku</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

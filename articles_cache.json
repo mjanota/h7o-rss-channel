@@ -1,13 +1,5 @@
 [
   {
-    "title": "Bedekr po novém Polsku",
-    "url": "https://www.h7o.cz/clanky/14458-bedekr-po-novem-polsku",
-    "description": "„Podobně jako v případě Sudet je i v Odřanie nutné přijmout historii míst s tím, že je jiná než historie těch, kteří ji obývají nyní. A že obě verze jednoho příběhu mohou být stejně pravdivé,“ píše v recenzi na novou knihu z nakladatelství Absynt Václav Maxmilián.",
-    "date": "2026-03-03T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "recenze"
-  },
-  {
     "title": "Není ceny bez nominace",
     "url": "https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace",
     "description": "Po vyhlášení nominací na Cenu literární kritiky zveřejnily své longlisty i jednotlivé poroty soutěže Magnesia Litera. A některé tituly mají šanci uspět i v dalších literárních soutěžích či anketách.",
@@ -494,5 +486,13 @@
     "date": "2026-05-30T00:00:00",
     "author": "",
     "category": "téma"
+  },
+  {
+    "title": "Literární dům",
+    "url": "https://www.h7o.cz/clanky/14530-literarni-dum",
+    "description": "„Přitom všichni, celý národ, opravdu naléhavě potřebujeme literární dům. Jen o tom naprostá většina národa nemá nejmenší tušení,“ píše Petr Šesták z Wannsee. Nebyl tam na žádné konferenci, ani kulturní, ty jsou jen o něco málo lepší, byl tam psát.",
+    "date": "2026-06-01T00:00:00",
+    "author": "Petr Šesták",
+    "category": "sloupek"
   }
 ]

@@ -5,6 +5,40 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-01 08:07:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Přítel
+2. Prázdninový příběh pejska a kočičky
+3. Narozeninový příběh pejska a kočičky
+4. Nevhodný letní románek
+5. Jak prodat firmu s nemovitostmi
+6. Přišel čas na Druhou : směnu
+7. Zlobivé dítě je mýtus
+
+---
+
+## 🕐 2026-06-01 08:07:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Literární dům
+
+---
+
 ## 🕐 2026-05-31 07:31:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -256,38 +290,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Smrt a virtualita k sobě mají blíž, než by se mohlo zdát
-
----
-
-## 🕐 2026-05-25 07:52:05 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Muž, který ve Svaté zemi prodával vzduch
-2. Všímejte si svého těla
-3. Příběh nového Já
-4. GLP-1 kuchařka
-5. Tajemství Velkého Vonta
-
----
-
-## 🕐 2026-05-25 07:52:04 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Harari až harakiri
 
 ---
 

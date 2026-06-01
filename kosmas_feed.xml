@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 31 May 2026 07:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:07:42 +0000</lastBuildDate>
+    <item>
+      <title>Přítel</title>
+      <link>https://www.kosmas.cz/knihy/569332/pritel/</link>
+      <description>Přítel - Freida McFadden</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569332/pritel/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prázdninový příběh pejska a kočičky</title>
+      <link>https://www.kosmas.cz/knihy/569608/prazdninovy-pribeh-pejska-a-kocicky/</link>
+      <description>Prázdninový příběh pejska a kočičky - Vlasta Hurtíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569608/prazdninovy-pribeh-pejska-a-kocicky/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Narozeninový příběh pejska a kočičky</title>
+      <link>https://www.kosmas.cz/knihy/569609/narozeninovy-pribeh-pejska-a-kocicky/</link>
+      <description>Narozeninový příběh pejska a kočičky - Vlasta Hurtíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569609/narozeninovy-pribeh-pejska-a-kocicky/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevhodný letní románek</title>
+      <link>https://www.kosmas.cz/knihy/569650/nevhodny-letni-romanek/</link>
+      <description>Nevhodný letní románek - Ali Hazelwood</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569650/nevhodny-letni-romanek/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak prodat firmu s nemovitostmi</title>
+      <link>https://www.kosmas.cz/knihy/568595/jak-prodat-firmu-s-nemovitostmi/</link>
+      <description>Jak prodat firmu s nemovitostmi - Jakub Dohnal</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568595/jak-prodat-firmu-s-nemovitostmi/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Přišel čas na Druhou : směnu</title>
+      <link>https://www.kosmas.cz/knihy/569213/prisel-cas-na-druhou-smenu/</link>
+      <description>Přišel čas na Druhou : směnu - kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569213/prisel-cas-na-druhou-smenu/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zlobivé dítě je mýtus</title>
+      <link>https://www.kosmas.cz/knihy/569623/zlobive-dite-je-mytus/</link>
+      <description>Zlobivé dítě je mýtus - Kate Silvertonová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569623/zlobive-dite-je-mytus/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:07:23 +0000</pubDate>
+    </item>
     <item>
       <title>Minecraft</title>
       <link>https://www.kosmas.cz/knihy/569591/minecraft/</link>
@@ -658,55 +707,6 @@
       <description>Úklady a láska - Friedrich von Schiller</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568973/uklady-a-laska/</guid>
       <pubDate>Tue, 26 May 2026 07:27:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co nás čeká v porodnici a co doma</title>
-      <link>https://www.kosmas.cz/knihy/569000/co-nas-ceka-v-porodnici-a-co-doma/</link>
-      <description>Co nás čeká v porodnici a co doma - Milena Dokoupilová, Martin Gregora</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569000/co-nas-ceka-v-porodnici-a-co-doma/</guid>
-      <pubDate>Tue, 26 May 2026 07:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mystik hmoty</title>
-      <link>https://www.kosmas.cz/knihy/569033/mystik-hmoty/</link>
-      <description>Mystik hmoty - Pierre Teilhard de Chardin, Františka Jirousová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569033/mystik-hmoty/</guid>
-      <pubDate>Tue, 26 May 2026 07:27:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čarodějnické rituály</title>
-      <link>https://www.kosmas.cz/knihy/569063/carodejnicke-ritualy/</link>
-      <description>Čarodějnické rituály - Silver Raven Wolf</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569063/carodejnicke-ritualy/</guid>
-      <pubDate>Tue, 26 May 2026 07:27:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muž, který ve Svaté zemi prodával vzduch</title>
-      <link>https://www.kosmas.cz/knihy/565083/muz-ktery-ve-svate-zemi-prodaval-vzduch/</link>
-      <description>Muž, který ve Svaté zemi prodával vzduch - Omer Friedlander</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565083/muz-ktery-ve-svate-zemi-prodaval-vzduch/</guid>
-      <pubDate>Mon, 25 May 2026 07:51:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Všímejte si svého těla</title>
-      <link>https://www.kosmas.cz/knihy/563779/vsimejte-si-sveho-tela/</link>
-      <description>Všímejte si svého těla - Erica Hornthal</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563779/vsimejte-si-sveho-tela/</guid>
-      <pubDate>Mon, 25 May 2026 07:51:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příběh nového Já</title>
-      <link>https://www.kosmas.cz/knihy/567353/pribeh-noveho-ja/</link>
-      <description>Příběh nového Já - Jakub Bednář</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567353/pribeh-noveho-ja/</guid>
-      <pubDate>Mon, 25 May 2026 07:51:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>GLP-1 kuchařka</title>
-      <link>https://www.kosmas.cz/knihy/569342/glp-1-kucharka/</link>
-      <description>GLP-1 kuchařka - Evžen Machytka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569342/glp-1-kucharka/</guid>
-      <pubDate>Mon, 25 May 2026 07:51:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
