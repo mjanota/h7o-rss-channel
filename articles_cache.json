@@ -1,13 +1,5 @@
 [
   {
-    "title": "Není ceny bez nominace",
-    "url": "https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace",
-    "description": "Po vyhlášení nominací na Cenu literární kritiky zveřejnily své longlisty i jednotlivé poroty soutěže Magnesia Litera. A některé tituly mají šanci uspět i v dalších literárních soutěžích či anketách.",
-    "date": "2026-03-04T00:00:00",
-    "author": "Petr Nagy",
-    "category": "zprávy"
-  },
-  {
     "title": "Normalizácia po slovensky",
     "url": "https://www.h7o.cz/clanky/14459-normalizacia-po-slovensky",
     "description": "Březen je tu, v něm další válka a další převracení otázek po tom, co je ještě normální. Pavel Sibyla, slovenský spisovatel a publicista, přijal výzvu věnovat Hostu sérii březnových sloupků. Ten první je o vnitřní normalizaci na pozadí něčeho, co možná zkratkovitě nazýváme normalizací po slovensku.",
@@ -494,5 +486,13 @@
     "date": "2026-06-01T00:00:00",
     "author": "Petr Šesták",
     "category": "sloupek"
+  },
+  {
+    "title": "Připadá mi zajímavé, když politické sdělení není explicitní",
+    "url": "https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni",
+    "description": "„Musel jsem odletět do vesmíru, mluvit s mimozemšťany a vytvářet nové světy, abych mohl mluvit o každodenním životě, našem světě a nás samotných,“ říká v rozhovoru s básníkem Šimonem Leitgebem maďarský básník Gergő Korsós, kterého v příštích týdnech čeká čtenářská tour po několika českých městech.",
+    "date": "2026-06-02T00:00:00",
+    "author": "Šimon Leitgeb",
+    "category": "rozhovor"
   }
 ]

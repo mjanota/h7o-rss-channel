@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:54:55 +0000</lastBuildDate>
+    <item>
+      <title>Připadá mi zajímavé, když politické sdělení není explicitní</title>
+      <link>https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</link>
+      <description>„Musel jsem odletět do vesmíru, mluvit s mimozemšťany a vytvářet nové světy, abych mohl mluvit o každodenním životě, našem světě a nás samotných,“ říká v rozhovoru s básníkem Šimonem Leitgebem maďarský básník Gergő Korsós, kterého v příštích týdnech čeká čtenářská tour po několika českých městech.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Literární dům</title>
       <link>https://www.h7o.cz/clanky/14530-literarni-dum</link>
@@ -435,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Březen je tu, v něm další válka a další převracení otázek po tom, co je ještě normální. Pavel Sibyla, slovenský spisovatel a publicista, přijal výzvu věnovat Hostu sérii březnových sloupků. Ten první je o vnitřní normalizaci na pozadí něčeho, co možná zkratkovitě nazýváme normalizací po slovensku.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14459-normalizacia-po-slovensky</guid>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Není ceny bez nominace</title>
-      <link>https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace</link>
-      <description>Po vyhlášení nominací na Cenu literární kritiky zveřejnily své longlisty i jednotlivé poroty soutěže Magnesia Litera. A některé tituly mají šanci uspět i v dalších literárních soutěžích či anketách.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14461-neni-ceny-bez-nominace</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

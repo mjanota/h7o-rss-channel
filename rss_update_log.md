@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-02 07:54:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. The Boys Of Dungeon Lane
+2. Děti zla
+3. Myší hlídka: Zrození Černé sekery a další příběhy
+4. V Budkově
+5. Překvapení pod Andami
+6. Ten prsten není tvůj!
+7. Spiknutí v San Francisku
+8. V paláci nepřítele
+9. Dokáže ho zkrotit?
+10. Králové Avalieru - Nelítostný vílí král
+11. Velká hra
+12. Lucie v oblacích
+13. Deník malého poseroutky 2 - Rodrick je king
+14. Kulaté omalovánky Mandaly
+15. Kulaté omalovánky Bludiště
+16. Zlatan. Fotbalové superhvězdy
+
+---
+
+## 🕐 2026-06-02 07:54:55 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Připadá mi zajímavé, když politické sdělení není explicitní
+
+---
+
 ## 🕐 2026-06-01 08:07:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,53 +286,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Konec googlování
-
----
-
-## 🕐 2026-05-26 07:28:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Záporáci smrti neutečou 6
-2. My girl: Radost s tebou žít 1
-3. Delicious in Dungeon - Chuť podzemí 1
-4. Simpsonovi: Komiksové safari
-5. Modrá CREW 46: Vesper 3 a 4
-6. Vinlandská sága 2
-7. Stitch a samuraj 1
-8. Zrzavý Orm
-9. Yentl a jiné povídky
-10. Protože myslíš pozitivně
-11. Muž, který našel klid
-12. Malé lodě
-13. Mrtvé duše nezpívají
-14. Povídky tenorsaxofonisty
-15. Neúplatný
-16. Romeo a Julie
-17. Úklady a láska
-18. Co nás čeká v porodnici a co doma
-19. Mystik hmoty
-20. Čarodějnické rituály
-
----
-
-## 🕐 2026-05-26 07:28:04 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Smrt a virtualita k sobě mají blíž, než by se mohlo zdát
 
 ---
 
