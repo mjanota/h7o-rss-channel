@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-03 07:58:32 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Vánoční příběh pejska a kočičky
+2. Adam ze Zbraslavi a případ kralevice Jana
+3. S láskou z parku
+4. Krásný satyr
+5. Policie zasahuje
+6. Růže v okovech
+7. Acheron
+8. Kaidžú č. 8, díl 12
+9. Diliňi Dora
+10. Rok v Jizerských horách
+11. Mládí na hřišti 11: Úplně nejvíc
+12. Moje první obrázkové čtení
+13. Horalova dokonalá nevěsta
+14. Sattasaí
+15. Tajemství forenzní vědy
+16. Torzo stromu
+17. Vězeň za dráty
+18. Epigenetika – chytrý průvodce pro každý den
+19. Bungó Stray Dogs - Toulaví literáti 8
+20. Král všech developerů 2
+
+---
+
+## 🕐 2026-06-03 07:58:31 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-02 07:54:56 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,46 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Život po životě literární teorie
-
----
-
-## 🕐 2026-05-27 07:41:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Před branami podsvětí
-2. Okamžiky v přírodě
-3. O ponících - Vybarvi si vlastní puzzle
-4. Vzhůru na Kouzelný strom
-5. Za posledním řádkem
-6. Reimaginace
-7. Toxičtí rodiče
-8. Povídky tenorsaxofonisty
-9. Panna v ledu
-10. Anglicko-český, česko-anglický kapesní slovník
-11. Válka jsme my
-12. Nevyměkni
-13. Pohádky pod pokličkou
-
----
-
-## 🕐 2026-05-27 07:41:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Konec googlování
 
 ---
 
