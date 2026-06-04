@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-04 07:51:52 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Mariborská hypnóza
+2. Dvůr touhy a zlata
+3. Vraždy pod sluncem: Zločin v Amalfi
+4. Ztracený svět
+5. Rodinné konstelace
+6. Márnice
+7. Lucie v oblacích
+8. Lichočar
+9. Cesty ke svobodě
+10. Rozumím svému koni
+11. Blíž, než se zdá
+12. Božští
+13. Láska na plný plyn
+14. Žalozpěv
+15. Zamilovaný kluk
+16. Kyselá prdel
+
+---
+
+## 🕐 2026-06-04 07:51:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Václav Havel svou roli určitě sehrál
+2. Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy
+
+---
+
 ## 🕐 2026-06-03 07:58:32 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,50 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Parchantský keře a nárazníkové zóny
-
----
-
-## 🕐 2026-05-28 07:37:30 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Román pro pitomce
-2. Tajné zasvěcení v říši bohů
-3. Pouto pána démonů
-4. Srdce a šíp
-5. Ve výslužbě - Luciferova holka
-6. Výšina
-7. Zapalte hranici
-8. Psychiatrie a pedopsychiatrie
-9. Záhady dávnověku
-10. Nulová historie
-11. Strach
-12. Stopy
-13. Tajemství a výklad pohádek: Tři veteráni
-14. Teribear Záhada vyloupeného skleníku
-15. Den D 6. 6. 1944
-16. Čtenářský klub za mřížemi
-17. Percy Jackson - Moře nestvůr
-
----
-
-## 🕐 2026-05-28 07:37:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Život po životě literární teorie
 
 ---
 

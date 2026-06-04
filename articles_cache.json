@@ -1,13 +1,5 @@
 [
   {
-    "title": "Madlenka Jiřího Kotena",
-    "url": "https://www.h7o.cz/clanky/14462-madlenka-jiriho-kotena",
-    "description": "Mezi širší nominace Magnesie Litery za poezii zařadila porota sbírku „Směsné strofy“ Jiřího Kotena. Básníka a literárního teoretika zpovídáme v našem proustovském dotazníku třeba o tom, jaká je jeho největší extravagance nebo kterou knihu považuje za nejpřeceňovanější.",
-    "date": "2026-03-06T00:00:00",
-    "author": "redakce",
-    "category": "rozhovor"
-  },
-  {
     "title": "Nevěřím v globální řešení, ale v globální konektivitu",
     "url": "https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu",
     "description": "Tento text vznikl jako živé pokračování rozhovoru s filozofem a sociologem Václavem Bělohradským pro únorový Host. Nad českými koláčky od Bulhara a italskou kávou jsme prohloubili hovory o společnosti „z doby těsně před koncem“, rozpoznávání smyslu či ozdravných účincích rozpadu dějin.",
@@ -486,5 +478,21 @@
     "date": "2026-06-02T00:00:00",
     "author": "Šimon Leitgeb",
     "category": "rozhovor"
+  },
+  {
+    "title": "Václav Havel svou roli určitě sehrál",
+    "url": "https://www.h7o.cz/clanky/14518-vaclav-havel-svou-roli-urcite-sehral",
+    "description": "Je tu další díl seriálu k letošnímu bohemistickému kongresu. Julie Turková mluvila s běloruským bohemistou a překladatelem Sjarhejem Smatryčenkou, žijícím v Brně, o studiu češtiny, o současné dualitě běloruské kultury, jejím vztahu k Václavu Havlovi a vzájemném kulturnímu vlivu Česka a Běloruska.",
+    "date": "2026-06-04T00:00:00",
+    "author": "Julie Turková",
+    "category": "seriál"
+  },
+  {
+    "title": "Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy",
+    "url": "https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy",
+    "description": "Soutěž Nejkrásnější české knihy roku zná vítěze pro uplynulý rok. Slavnostní vyhlášení výsledků 61. ročníku proběhlo včera ve Studiu hrdinů.",
+    "date": "2026-06-03T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

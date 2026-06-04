@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 03 Jun 2026 07:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:51:51 +0000</lastBuildDate>
+    <item>
+      <title>Václav Havel svou roli určitě sehrál</title>
+      <link>https://www.h7o.cz/clanky/14518-vaclav-havel-svou-roli-urcite-sehral</link>
+      <description>Je tu další díl seriálu k letošnímu bohemistickému kongresu. Julie Turková mluvila s běloruským bohemistou a překladatelem Sjarhejem Smatryčenkou, žijícím v Brně, o studiu češtiny, o současné dualitě běloruské kultury, jejím vztahu k Václavu Havlovi a vzájemném kulturnímu vlivu Česka a Běloruska.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14518-vaclav-havel-svou-roli-urcite-sehral</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy</title>
+      <link>https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy</link>
+      <description>Soutěž Nejkrásnější české knihy roku zná vítěze pro uplynulý rok. Slavnostní vyhlášení výsledků 61. ročníku proběhlo včera ve Studiu hrdinů.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Připadá mi zajímavé, když politické sdělení není explicitní</title>
       <link>https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</link>
@@ -428,13 +442,6 @@ I tím se projevuje postava adaptace nejoceňovanější části románové hex
       <description>Tento text vznikl jako živé pokračování rozhovoru s filozofem a sociologem Václavem Bělohradským pro únorový Host. Nad českými koláčky od Bulhara a italskou kávou jsme prohloubili hovory o společnosti „z doby těsně před koncem“, rozpoznávání smyslu či ozdravných účincích rozpadu dějin.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14460-neverim-v-globalni-reseni-ale-v-globalni-konektivitu</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Madlenka Jiřího Kotena</title>
-      <link>https://www.h7o.cz/clanky/14462-madlenka-jiriho-kotena</link>
-      <description>Mezi širší nominace Magnesie Litery za poezii zařadila porota sbírku „Směsné strofy“ Jiřího Kotena. Básníka a literárního teoretika zpovídáme v našem proustovském dotazníku třeba o tom, jaká je jeho největší extravagance nebo kterou knihu považuje za nejpřeceňovanější.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14462-madlenka-jiriho-kotena</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

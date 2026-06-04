@@ -1,5 +1,152 @@
 [
   {
+    "title": "Mariborská hypnóza",
+    "url": "https://www.kosmas.cz/knihy/569719/mariborska-hypnoza/",
+    "description": "Mariborská hypnóza - Dora Kaprálová",
+    "authors": [
+      "Dora Kaprálová"
+    ],
+    "date": "2026-06-04T07:51:52.187459+00:00"
+  },
+  {
+    "title": "Dvůr touhy a zlata",
+    "url": "https://www.kosmas.cz/knihy/569763/dvur-touhy-a-zlata/",
+    "description": "Dvůr touhy a zlata - Eliza Raine",
+    "authors": [
+      "Eliza Raine"
+    ],
+    "date": "2026-06-04T07:51:51.187459+00:00"
+  },
+  {
+    "title": "Vraždy pod sluncem: Zločin v Amalfi",
+    "url": "https://www.kosmas.cz/knihy/568045/vrazdy-pod-sluncem-zlocin-v-amalfi/",
+    "description": "Vraždy pod sluncem: Zločin v Amalfi - Anders de la Motte, Anette de la Motte",
+    "authors": [
+      "Anders de la Motte",
+      "Anette de la Motte"
+    ],
+    "date": "2026-06-04T07:51:50.187459+00:00"
+  },
+  {
+    "title": "Ztracený svět",
+    "url": "https://www.kosmas.cz/knihy/569788/ztraceny-svet/",
+    "description": "Ztracený svět - Daniel Gris",
+    "authors": [
+      "Daniel Gris"
+    ],
+    "date": "2026-06-04T07:51:49.187459+00:00"
+  },
+  {
+    "title": "Rodinné konstelace",
+    "url": "https://www.kosmas.cz/knihy/568891/rodinne-konstelace/",
+    "description": "Rodinné konstelace - Bert Hellinger, Gabriele ten Hövel",
+    "authors": [
+      "Bert Hellinger",
+      "Gabriele ten Hövel"
+    ],
+    "date": "2026-06-04T07:51:48.187459+00:00"
+  },
+  {
+    "title": "Márnice",
+    "url": "https://www.kosmas.cz/knihy/569232/marnice/",
+    "description": "Márnice - Marie Jakoubková",
+    "authors": [
+      "Marie Jakoubková"
+    ],
+    "date": "2026-06-04T07:51:47.187459+00:00"
+  },
+  {
+    "title": "Lucie v oblacích",
+    "url": "https://www.kosmas.cz/knihy/568494/lucie-v-oblacich/",
+    "description": "Lucie v oblacích - Charlotte Lucas",
+    "authors": [
+      "Charlotte Lucas"
+    ],
+    "date": "2026-06-04T07:51:46.187459+00:00"
+  },
+  {
+    "title": "Lichočar",
+    "url": "https://www.kosmas.cz/knihy/569726/lichocar/",
+    "description": "Lichočar - Přemysl Příhoda",
+    "authors": [
+      "Přemysl Příhoda"
+    ],
+    "date": "2026-06-04T07:51:45.187459+00:00"
+  },
+  {
+    "title": "Cesty ke svobodě",
+    "url": "https://www.kosmas.cz/knihy/569837/cesty-ke-svobode/",
+    "description": "Cesty ke svobodě - Eva Eberlová",
+    "authors": [
+      "Eva Eberlová"
+    ],
+    "date": "2026-06-04T07:51:40.187459+00:00"
+  },
+  {
+    "title": "Rozumím svému koni",
+    "url": "https://www.kosmas.cz/knihy/569838/rozumim-svemu-koni/",
+    "description": "Rozumím svému koni - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-04T07:51:39.187459+00:00"
+  },
+  {
+    "title": "Blíž, než se zdá",
+    "url": "https://www.kosmas.cz/knihy/567539/bliz-nez-se-zda/",
+    "description": "Blíž, než se zdá - Jessica Redland",
+    "authors": [
+      "Jessica Redland"
+    ],
+    "date": "2026-06-04T07:51:38.187459+00:00"
+  },
+  {
+    "title": "Božští",
+    "url": "https://www.kosmas.cz/knihy/567540/bozsti/",
+    "description": "Božští - Jennifer L. Armentroutová",
+    "authors": [
+      "Jennifer L. Armentroutová"
+    ],
+    "date": "2026-06-04T07:51:37.187459+00:00"
+  },
+  {
+    "title": "Láska na plný plyn",
+    "url": "https://www.kosmas.cz/knihy/567542/laska-na-plny-plyn/",
+    "description": "Láska na plný plyn - Jenny L. Howe",
+    "authors": [
+      "Jenny L. Howe"
+    ],
+    "date": "2026-06-04T07:51:36.187459+00:00"
+  },
+  {
+    "title": "Žalozpěv",
+    "url": "https://www.kosmas.cz/knihy/567562/zalozpev/",
+    "description": "Žalozpěv - Camilla Läckberg",
+    "authors": [
+      "Camilla Läckberg"
+    ],
+    "date": "2026-06-04T07:51:35.187459+00:00"
+  },
+  {
+    "title": "Zamilovaný kluk",
+    "url": "https://www.kosmas.cz/knihy/567616/zamilovany-kluk/",
+    "description": "Zamilovaný kluk - Jay Crownover, Rebecca Yarros",
+    "authors": [
+      "Jay Crownover",
+      "Rebecca Yarros"
+    ],
+    "date": "2026-06-04T07:51:34.187459+00:00"
+  },
+  {
+    "title": "Kyselá prdel",
+    "url": "https://www.kosmas.cz/knihy/569422/kysela-prdel/",
+    "description": "Kyselá prdel - Nahoru po schodišti dolů band",
+    "authors": [
+      "Nahoru po schodišti dolů band"
+    ],
+    "date": "2026-06-04T07:51:33.187459+00:00"
+  },
+  {
     "title": "Vánoční příběh pejska a kočičky",
     "url": "https://www.kosmas.cz/knihy/569799/vanocni-pribeh-pejska-a-kocicky/",
     "description": "Vánoční příběh pejska a kočičky - Vlasta Hurtíková",
@@ -1660,145 +1807,5 @@
       "Maggie O’Farrellová"
     ],
     "date": "2026-05-22T07:28:32.440367+00:00"
-  },
-  {
-    "title": "Svět železnice 98/květen 2026",
-    "url": "https://www.kosmas.cz/knihy/569151/svet-zeleznice-98-kveten-2026/",
-    "description": "Svět železnice 98/květen 2026",
-    "authors": [],
-    "date": "2026-05-22T07:28:31.440367+00:00"
-  },
-  {
-    "title": "Kiss the Villain",
-    "url": "https://www.kosmas.cz/knihy/569156/kiss-the-villain/",
-    "description": "Kiss the Villain - Rina Kent",
-    "authors": [
-      "Rina Kent"
-    ],
-    "date": "2026-05-22T07:28:30.440367+00:00"
-  },
-  {
-    "title": "Seven Dials",
-    "url": "https://www.kosmas.cz/knihy/569168/seven-dials/",
-    "description": "Seven Dials - Agatha Christie",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "date": "2026-05-22T07:28:29.440367+00:00"
-  },
-  {
-    "title": "Aeneid",
-    "url": "https://www.kosmas.cz/knihy/569178/aeneid/",
-    "description": "Aeneid - Vergilius",
-    "authors": [
-      "Vergilius"
-    ],
-    "date": "2026-05-22T07:28:28.440367+00:00"
-  },
-  {
-    "title": "Best Fairy Tales",
-    "url": "https://www.kosmas.cz/knihy/569179/best-fairy-tales/",
-    "description": "Best Fairy Tales - Hans Christian Andersen",
-    "authors": [
-      "Hans Christian Andersen"
-    ],
-    "date": "2026-05-22T07:28:27.440367+00:00"
-  },
-  {
-    "title": "Classic Fantasy Stories",
-    "url": "https://www.kosmas.cz/knihy/569180/classic-fantasy-stories/",
-    "description": "Classic Fantasy Stories - Farah Mendlesohn",
-    "authors": [
-      "Farah Mendlesohn"
-    ],
-    "date": "2026-05-22T07:28:26.440367+00:00"
-  },
-  {
-    "title": "Classic Horror Stories Collector´s Library",
-    "url": "https://www.kosmas.cz/knihy/569181/classic-horror-stories-collector-s-library/",
-    "description": "Classic Horror Stories Collector´s Library",
-    "authors": [],
-    "date": "2026-05-22T07:28:25.440367+00:00"
-  },
-  {
-    "title": "Tropické noci",
-    "url": "https://www.kosmas.cz/knihy/568903/tropicke-noci/",
-    "description": "Tropické noci - Jakub Fránek",
-    "authors": [
-      "Jakub Fránek"
-    ],
-    "date": "2026-05-21T07:32:49.283162+00:00"
-  },
-  {
-    "title": "Family Matter",
-    "url": "https://www.kosmas.cz/knihy/569084/family-matter/",
-    "description": "Family Matter - Claire Lynch",
-    "authors": [
-      "Claire Lynch"
-    ],
-    "date": "2026-05-21T07:32:48.283162+00:00"
-  },
-  {
-    "title": "Calamity Club",
-    "url": "https://www.kosmas.cz/knihy/569094/calamity-club/",
-    "description": "Calamity Club - Kathryn Stockettová",
-    "authors": [
-      "Kathryn Stockettová"
-    ],
-    "date": "2026-05-21T07:32:47.283162+00:00"
-  },
-  {
-    "title": "Dark Age, Red Rising 5",
-    "url": "https://www.kosmas.cz/knihy/569101/dark-age-red-rising-5/",
-    "description": "Dark Age, Red Rising 5 - Pierce Brown",
-    "authors": [
-      "Pierce Brown"
-    ],
-    "date": "2026-05-21T07:32:46.283162+00:00"
-  },
-  {
-    "title": "Impossible Fortune",
-    "url": "https://www.kosmas.cz/knihy/569154/impossible-fortune/",
-    "description": "Impossible Fortune - Richard Osman",
-    "authors": [
-      "Richard Osman"
-    ],
-    "date": "2026-05-21T07:32:45.283162+00:00"
-  },
-  {
-    "title": "Lost Road and Or Writings",
-    "url": "https://www.kosmas.cz/knihy/569157/lost-road-and-or-writings/",
-    "description": "Lost Road and Or Writings - J. R. R. Tolkien",
-    "authors": [
-      "J. R. R. Tolkien"
-    ],
-    "date": "2026-05-21T07:32:44.283162+00:00"
-  },
-  {
-    "title": "Morgoth\"s Ring",
-    "url": "https://www.kosmas.cz/knihy/569159/morgoth-s-ring/",
-    "description": "Morgoth\"s Ring - J. R. R. Tolkien",
-    "authors": [
-      "J. R. R. Tolkien"
-    ],
-    "date": "2026-05-21T07:32:43.283162+00:00"
-  },
-  {
-    "title": "Morning Star",
-    "url": "https://www.kosmas.cz/knihy/569160/morning-star/",
-    "description": "Morning Star - Pierce Brown",
-    "authors": [
-      "Pierce Brown"
-    ],
-    "date": "2026-05-21T07:32:42.283162+00:00"
-  },
-  {
-    "title": "Our Perfect Storm",
-    "url": "https://www.kosmas.cz/knihy/569161/our-perfect-storm/",
-    "description": "Our Perfect Storm - Carley Fortune",
-    "authors": [
-      "Carley Fortune"
-    ],
-    "date": "2026-05-21T07:32:41.283162+00:00"
   }
 ]
