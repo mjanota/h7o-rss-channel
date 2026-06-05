@@ -1,5 +1,138 @@
 [
   {
+    "title": "Putinova triáda",
+    "url": "https://www.kosmas.cz/knihy/569721/putinova-triada/",
+    "description": "Putinova triáda - Jiří Fidler",
+    "authors": [
+      "Jiří Fidler"
+    ],
+    "date": "2026-06-05T07:44:44.133178+00:00"
+  },
+  {
+    "title": "Žena přes palubu",
+    "url": "https://www.kosmas.cz/knihy/569046/zena-pres-palubu/",
+    "description": "Žena přes palubu - Portia MacIntosh",
+    "authors": [
+      "Portia MacIntosh"
+    ],
+    "date": "2026-06-05T07:44:43.133178+00:00"
+  },
+  {
+    "title": "Pan Bůh a paní Bohová mají krizi",
+    "url": "https://www.kosmas.cz/knihy/569620/pan-buh-a-pani-bohova-maji-krizi/",
+    "description": "Pan Bůh a paní Bohová mají krizi - Ivan Lupták",
+    "authors": [
+      "Ivan Lupták"
+    ],
+    "date": "2026-06-05T07:44:42.133178+00:00"
+  },
+  {
+    "title": "50 nejlepších drinků",
+    "url": "https://www.kosmas.cz/knihy/569397/50-nejlepsich-drinku/",
+    "description": "50 nejlepších drinků - Tristan Stephenson",
+    "authors": [
+      "Tristan Stephenson"
+    ],
+    "date": "2026-06-05T07:44:41.133178+00:00"
+  },
+  {
+    "title": "Kouzelné čtení - Kvízy do kapsy pro školáky",
+    "url": "https://www.kosmas.cz/knihy/569711/kouzelne-cteni-kvizy-do-kapsy-pro-skolaky/",
+    "description": "Kouzelné čtení - Kvízy do kapsy pro školáky",
+    "authors": [],
+    "date": "2026-06-05T07:44:40.133178+00:00"
+  },
+  {
+    "title": "Komu patří déšť",
+    "url": "https://www.kosmas.cz/knihy/569739/komu-patri-dest/",
+    "description": "Komu patří déšť - Jiří Hort",
+    "authors": [
+      "Jiří Hort"
+    ],
+    "date": "2026-06-05T07:44:38.133178+00:00"
+  },
+  {
+    "title": "Dědictví skotských templářů",
+    "url": "https://www.kosmas.cz/knihy/568809/dedictvi-skotskych-templaru/",
+    "description": "Dědictví skotských templářů - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-06-05T07:44:37.133178+00:00"
+  },
+  {
+    "title": "Ukradené lži",
+    "url": "https://www.kosmas.cz/knihy/568527/ukradene-lzi/",
+    "description": "Ukradené lži - Monty Jay",
+    "authors": [
+      "Monty Jay"
+    ],
+    "date": "2026-06-05T07:44:35.133178+00:00"
+  },
+  {
+    "title": "Famous but Misunderstood",
+    "url": "https://www.kosmas.cz/knihy/569874/famous-but-misunderstood/",
+    "description": "Famous but Misunderstood - Miroslav Novák",
+    "authors": [
+      "Miroslav Novák"
+    ],
+    "date": "2026-06-05T07:44:34.133178+00:00"
+  },
+  {
+    "title": "Neuronální člověk",
+    "url": "https://www.kosmas.cz/knihy/569875/neuronalni-clovek/",
+    "description": "Neuronální člověk - Catherine Malabou",
+    "authors": [
+      "Catherine Malabou"
+    ],
+    "date": "2026-06-05T07:44:33.133178+00:00"
+  },
+  {
+    "title": "Původ je cíl",
+    "url": "https://www.kosmas.cz/knihy/569876/puvod-je-cil/",
+    "description": "Původ je cíl - Marek Kettner",
+    "authors": [
+      "Marek Kettner"
+    ],
+    "date": "2026-06-05T07:44:32.133178+00:00"
+  },
+  {
+    "title": "Stranou zájmu, pod státním dohledem",
+    "url": "https://www.kosmas.cz/knihy/569877/stranou-zajmu-pod-statnim-dohledem/",
+    "description": "Stranou zájmu, pod státním dohledem - Jan Vašek",
+    "authors": [
+      "Jan Vašek"
+    ],
+    "date": "2026-06-05T07:44:31.133178+00:00"
+  },
+  {
+    "title": "Mijamoto Musaši 2",
+    "url": "https://www.kosmas.cz/knihy/568982/mijamoto-musasi-2/",
+    "description": "Mijamoto Musaši 2 - Jakub Zeman",
+    "authors": [
+      "Jakub Zeman"
+    ],
+    "date": "2026-06-05T07:44:30.133178+00:00"
+  },
+  {
+    "title": "Neuróza a lidský růst",
+    "url": "https://www.kosmas.cz/knihy/568885/neuroza-a-lidsky-rust/",
+    "description": "Neuróza a lidský růst - Karen Horneyová",
+    "authors": [
+      "Karen Horneyová"
+    ],
+    "date": "2026-06-05T07:44:29.133178+00:00"
+  },
+  {
+    "title": "Posvátná děvka - moudrost ženského klína",
+    "url": "https://www.kosmas.cz/knihy/569376/posvatna-devka-moudrost-zenskeho-klina/",
+    "description": "Posvátná děvka - moudrost ženského klína - Monika Rozárka",
+    "authors": [
+      "Monika Rozárka"
+    ],
+    "date": "2026-06-05T07:44:26.133178+00:00"
+  },
+  {
     "title": "Mariborská hypnóza",
     "url": "https://www.kosmas.cz/knihy/569719/mariborska-hypnoza/",
     "description": "Mariborská hypnóza - Dora Kaprálová",
@@ -1672,140 +1805,5 @@
       "Iliana Xander"
     ],
     "date": "2026-05-23T07:06:57.835285+00:00"
-  },
-  {
-    "title": "Pojišťovácký šmejdi",
-    "url": "https://www.kosmas.cz/knihy/569331/pojistovacky-smejdi/",
-    "description": "Pojišťovácký šmejdi - Vlastimil Doucha",
-    "authors": [
-      "Vlastimil Doucha"
-    ],
-    "date": "2026-05-23T07:06:56.835285+00:00"
-  },
-  {
-    "title": "James",
-    "url": "https://www.kosmas.cz/knihy/569333/james/",
-    "description": "James - Percival Everett",
-    "authors": [
-      "Percival Everett"
-    ],
-    "date": "2026-05-23T07:06:55.835285+00:00"
-  },
-  {
-    "title": "Zrádkyně Jane Boleynová",
-    "url": "https://www.kosmas.cz/knihy/569335/zradkyne-jane-boleynova/",
-    "description": "Zrádkyně Jane Boleynová - Gregory Philippa",
-    "authors": [
-      "Gregory Philippa"
-    ],
-    "date": "2026-05-23T07:06:54.835285+00:00"
-  },
-  {
-    "title": "Tajemná postava",
-    "url": "https://www.kosmas.cz/knihy/569270/tajemna-postava/",
-    "description": "Tajemná postava - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-05-22T07:28:44.440367+00:00"
-  },
-  {
-    "title": "Tak na to zapomeň, sestro",
-    "url": "https://www.kosmas.cz/knihy/569272/tak-na-to-zapomen-sestro/",
-    "description": "Tak na to zapomeň, sestro - Alena Jakoubková",
-    "authors": [
-      "Alena Jakoubková"
-    ],
-    "date": "2026-05-22T07:28:43.440367+00:00"
-  },
-  {
-    "title": "Ten poslední",
-    "url": "https://www.kosmas.cz/knihy/569276/ten-posledni/",
-    "description": "Ten poslední - Roni Loren",
-    "authors": [
-      "Roni Loren"
-    ],
-    "date": "2026-05-22T07:28:42.440367+00:00"
-  },
-  {
-    "title": "Mistr sportu skáče z dortu",
-    "url": "https://www.kosmas.cz/knihy/568952/mistr-sportu-skace-z-dortu/",
-    "description": "Mistr sportu skáče z dortu - Jan Nejedlý",
-    "authors": [
-      "Jan Nejedlý"
-    ],
-    "date": "2026-05-22T07:28:40.440367+00:00"
-  },
-  {
-    "title": "Babky v Mexiku",
-    "url": "https://www.kosmas.cz/knihy/568953/babky-v-mexiku/",
-    "description": "Babky v Mexiku - Marka Míková",
-    "authors": [
-      "Marka Míková"
-    ],
-    "date": "2026-05-22T07:28:39.440367+00:00"
-  },
-  {
-    "title": "Malý Humorista",
-    "url": "https://www.kosmas.cz/knihy/569043/maly-humorista/",
-    "description": "Malý Humorista - Jan Nejedlý",
-    "authors": [
-      "Jan Nejedlý"
-    ],
-    "date": "2026-05-22T07:28:38.440367+00:00"
-  },
-  {
-    "title": "Beautiful Venom",
-    "url": "https://www.kosmas.cz/knihy/569092/beautiful-venom/",
-    "description": "Beautiful Venom - Rina Kent",
-    "authors": [
-      "Rina Kent"
-    ],
-    "date": "2026-05-22T07:28:37.440367+00:00"
-  },
-  {
-    "title": "Cruel King",
-    "url": "https://www.kosmas.cz/knihy/569098/cruel-king/",
-    "description": "Cruel King - Rina Kent",
-    "authors": [
-      "Rina Kent"
-    ],
-    "date": "2026-05-22T07:28:36.440367+00:00"
-  },
-  {
-    "title": "Death Meets Cute",
-    "url": "https://www.kosmas.cz/knihy/569102/death-meets-cute/",
-    "description": "Death Meets Cute - J. Penner",
-    "authors": [
-      "J. Penner"
-    ],
-    "date": "2026-05-22T07:28:35.440367+00:00"
-  },
-  {
-    "title": "Defender",
-    "url": "https://www.kosmas.cz/knihy/569104/defender/",
-    "description": "Defender - Ana Huang",
-    "authors": [
-      "Ana Huang"
-    ],
-    "date": "2026-05-22T07:28:34.440367+00:00"
-  },
-  {
-    "title": "Devils",
-    "url": "https://www.kosmas.cz/knihy/569105/devils/",
-    "description": "Devils - Joe Abercrombie",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "date": "2026-05-22T07:28:33.440367+00:00"
-  },
-  {
-    "title": "Hamnet",
-    "url": "https://www.kosmas.cz/knihy/569150/hamnet/",
-    "description": "Hamnet - Maggie O’Farrellová",
-    "authors": [
-      "Maggie O’Farrellová"
-    ],
-    "date": "2026-05-22T07:28:32.440367+00:00"
   }
 ]

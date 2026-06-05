@@ -5,6 +5,44 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-05 07:44:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Putinova triáda
+2. Žena přes palubu
+3. Pan Bůh a paní Bohová mají krizi
+4. 50 nejlepších drinků
+5. Kouzelné čtení - Kvízy do kapsy pro školáky
+6. Komu patří déšť
+7. Dědictví skotských templářů
+8. Ukradené lži
+9. Famous but Misunderstood
+10. Neuronální člověk
+11. Původ je cíl
+12. Stranou zájmu, pod státním dohledem
+13. Mijamoto Musaši 2
+14. Neuróza a lidský růst
+15. Posvátná děvka - moudrost ženského klína
+
+---
+
+## 🕐 2026-06-05 07:44:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-04 07:51:52 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,53 +280,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Potřebujeme tmu, jestli se máme rozkoukat!
-
----
-
-## 🕐 2026-05-29 07:36:01 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Tajemství řádu arboriánů
-2. Na tenkém ledě
-3. Lenka Reinerová — Nekonečná přátelství
-4. Sedím na okraji planiny a dívám se dolů na moře
-5. Krátké příběhy pro velký případ
-6. Něco z Pišty
-7. Poslední vzdor
-8. Sociologie hudby
-9. Válečné hry
-10. Sex
-11. Samolepková knížka Příroda
-12. Samolepková knížka Biblické příběhy
-13. Samolepková knížka Koně
-14. 8595593848099
-15. Zábava se samolepkami Tlapková patrola
-16. Zábava se samolepkami Prasátko Peppa
-17. Poznávací samolepková knížka Doprava
-18. Poznávací samolepková knížka Koně
-19. Poznávací samolepková knížka Mazlíčci
-20. Poznávací samolepková knížka Mláďátka
-
----
-
-## 🕐 2026-05-29 07:36:00 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Parchantský keře a nárazníkové zóny
 
 ---
 
