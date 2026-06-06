@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-06 07:16:38 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Umění a jeho objekty
+2. Eliška Andílek
+3. Lustig: Svědek rozvratu lidskosti
+4. Cesty ke svobodě
+5. Asterix 41 - Asterix v Lusitánii
+6. Stitch - Kuchařka
+7. Minipivovary Pexeso
+8. Špionská mise
+9. Synagogy v Čechách
+10. W.I.T.C.H. Komiks 28-30
+11. Dua Lipa (Live From Mexico)
+12. Doba Ježíše Nazaretského
+13. Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů
+14. Krušnohorský poutník
+15. Na Závisti
+16. Smyčka
+17. Originální textilní techniky
+18. Tisk a razítkování pro malé i velké
+
+---
+
+## 🕐 2026-06-06 07:16:37 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Pokřivená realita
+
+---
+
 ## 🕐 2026-06-05 07:44:44 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -236,50 +281,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-05-30 07:13:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Kočičí přátelství - Matýsek
-2. Intestinální rehabilitace, transplantace a související výkony
-3. Probuzení do bohatství
-4. Šenovka
-5. O pevném stisku koaly
-6. Zakázaná láska
-7. Černé tajemství
-8. Příběhy lesní partičky
-9. Tajemství čůrání a kakání
-10. Kardinál Richelieu
-11. Tajemství sídla Blackberry Hill
-12. Informační žurnalistika
-13. Je středověk moderní?
-14. Když máte co říct
-15. Co dělá jed jedem
-16. Stachanovec in Space 3
-17. Případ Aleny Struskové
-
----
-
-## 🕐 2026-05-30 07:13:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Potřebujeme tmu, jestli se máme rozkoukat!
 
 ---
 
