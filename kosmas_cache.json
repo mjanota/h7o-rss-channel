@@ -1,5 +1,118 @@
 [
   {
+    "title": "Hoří ti táta",
+    "url": "https://www.kosmas.cz/knihy/564618/hori-ti-tata/",
+    "description": "Hoří ti táta - Viktorie Hanišová",
+    "authors": [
+      "Viktorie Hanišová"
+    ],
+    "date": "2026-06-07T07:37:08.239724+00:00"
+  },
+  {
+    "title": "Průvodce bolestmi hlavy pro praktické lékaře",
+    "url": "https://www.kosmas.cz/knihy/569485/pruvodce-bolestmi-hlavy-pro-prakticke-lekare/",
+    "description": "Průvodce bolestmi hlavy pro praktické lékaře - Jolana Mračková",
+    "authors": [
+      "Jolana Mračková"
+    ],
+    "date": "2026-06-07T07:37:06.239724+00:00"
+  },
+  {
+    "title": "Fantasy povídky z druhé galaxie",
+    "url": "https://www.kosmas.cz/knihy/569592/fantasy-povidky-z-druhe-galaxie/",
+    "description": "Fantasy povídky z druhé galaxie - Vladimír Němec",
+    "authors": [
+      "Vladimír Němec"
+    ],
+    "date": "2026-06-07T07:37:05.239724+00:00"
+  },
+  {
+    "title": "Pohádky do nemocniční postýlky",
+    "url": "https://www.kosmas.cz/knihy/569602/pohadky-do-nemocnicni-postylky/",
+    "description": "Pohádky do nemocniční postýlky - Thea Mačátová",
+    "authors": [
+      "Thea Mačátová"
+    ],
+    "date": "2026-06-07T07:37:04.239724+00:00"
+  },
+  {
+    "title": "Řím - Poznejte",
+    "url": "https://www.kosmas.cz/knihy/569628/rim-poznejte/",
+    "description": "Řím - Poznejte - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-06-07T07:37:03.239724+00:00"
+  },
+  {
+    "title": "Karel Koutský - Fotografie",
+    "url": "https://www.kosmas.cz/knihy/569777/karel-koutsky-fotografie/",
+    "description": "Karel Koutský - Fotografie",
+    "authors": [],
+    "date": "2026-06-07T07:37:01.239724+00:00"
+  },
+  {
+    "title": "Svět kolem tebe Pexeso",
+    "url": "https://www.kosmas.cz/knihy/569850/svet-kolem-tebe-pexeso/",
+    "description": "Svět kolem tebe Pexeso",
+    "authors": [],
+    "date": "2026-06-07T07:37:00.239724+00:00"
+  },
+  {
+    "title": "Dostihy a sázky Pexeso",
+    "url": "https://www.kosmas.cz/knihy/569851/dostihy-a-sazky-pexeso/",
+    "description": "Dostihy a sázky Pexeso",
+    "authors": [],
+    "date": "2026-06-07T07:36:59.239724+00:00"
+  },
+  {
+    "title": "Kvizour Párty hra",
+    "url": "https://www.kosmas.cz/knihy/569853/kvizour-party-hra/",
+    "description": "Kvizour Párty hra - Zbyněk Otáhal, Štěpán Peterka, Michal Trávníček",
+    "authors": [
+      "Zbyněk Otáhal",
+      "Štěpán Peterka",
+      "Michal Trávníček"
+    ],
+    "date": "2026-06-07T07:36:57.239724+00:00"
+  },
+  {
+    "title": "Pavel z Tarsu a jeho svět",
+    "url": "https://www.kosmas.cz/knihy/569292/pavel-z-tarsu-a-jeho-svet/",
+    "description": "Pavel z Tarsu a jeho svět - Mireia Ryšková",
+    "authors": [
+      "Mireia Ryšková"
+    ],
+    "date": "2026-06-07T07:36:53.239724+00:00"
+  },
+  {
+    "title": "Velvet Blues",
+    "url": "https://www.kosmas.cz/knihy/568701/velvet-blues/",
+    "description": "Velvet Blues - Karolína Ryvolová",
+    "authors": [
+      "Karolína Ryvolová"
+    ],
+    "date": "2026-06-07T07:36:51.239724+00:00"
+  },
+  {
+    "title": "Srdce a šíp",
+    "url": "https://www.kosmas.cz/knihy/569904/srdce-a-sip/",
+    "description": "Srdce a šíp - Frost Kay",
+    "authors": [
+      "Frost Kay"
+    ],
+    "date": "2026-06-07T07:36:50.239724+00:00"
+  },
+  {
+    "title": "Generační konflikt",
+    "url": "https://www.kosmas.cz/knihy/569905/generacni-konflikt/",
+    "description": "Generační konflikt - Petr Honzejk",
+    "authors": [
+      "Petr Honzejk"
+    ],
+    "date": "2026-06-07T07:36:49.239724+00:00"
+  },
+  {
     "title": "Umění a jeho objekty",
     "url": "https://www.kosmas.cz/knihy/542873/umeni-a-jeho-objekty/",
     "description": "Umění a jeho objekty - Richard Arthur Wollheim",
@@ -1679,126 +1792,5 @@
       "Františka Jirousová"
     ],
     "date": "2026-05-26T07:27:48.021185+00:00"
-  },
-  {
-    "title": "Čarodějnické rituály",
-    "url": "https://www.kosmas.cz/knihy/569063/carodejnicke-ritualy/",
-    "description": "Čarodějnické rituály - Silver Raven Wolf",
-    "authors": [
-      "Silver Raven Wolf"
-    ],
-    "date": "2026-05-26T07:27:47.021185+00:00"
-  },
-  {
-    "title": "Muž, který ve Svaté zemi prodával vzduch",
-    "url": "https://www.kosmas.cz/knihy/565083/muz-ktery-ve-svate-zemi-prodaval-vzduch/",
-    "description": "Muž, který ve Svaté zemi prodával vzduch - Omer Friedlander",
-    "authors": [
-      "Omer Friedlander"
-    ],
-    "date": "2026-05-25T07:51:50.421041+00:00"
-  },
-  {
-    "title": "Všímejte si svého těla",
-    "url": "https://www.kosmas.cz/knihy/563779/vsimejte-si-sveho-tela/",
-    "description": "Všímejte si svého těla - Erica Hornthal",
-    "authors": [
-      "Erica Hornthal"
-    ],
-    "date": "2026-05-25T07:51:49.421041+00:00"
-  },
-  {
-    "title": "Příběh nového Já",
-    "url": "https://www.kosmas.cz/knihy/567353/pribeh-noveho-ja/",
-    "description": "Příběh nového Já - Jakub Bednář",
-    "authors": [
-      "Jakub Bednář"
-    ],
-    "date": "2026-05-25T07:51:48.421041+00:00"
-  },
-  {
-    "title": "GLP-1 kuchařka",
-    "url": "https://www.kosmas.cz/knihy/569342/glp-1-kucharka/",
-    "description": "GLP-1 kuchařka - Evžen Machytka",
-    "authors": [
-      "Evžen Machytka"
-    ],
-    "date": "2026-05-25T07:51:47.421041+00:00"
-  },
-  {
-    "title": "Tajemství Velkého Vonta",
-    "url": "https://www.kosmas.cz/knihy/569343/tajemstvi-velkeho-vonta/",
-    "description": "Tajemství Velkého Vonta - Jaroslav Foglar",
-    "authors": [
-      "Jaroslav Foglar"
-    ],
-    "date": "2026-05-25T07:51:46.421041+00:00"
-  },
-  {
-    "title": "Do vody",
-    "url": "https://www.kosmas.cz/knihy/568398/do-vody/",
-    "description": "Do vody - Paula Hawkins",
-    "authors": [
-      "Paula Hawkins"
-    ],
-    "date": "2026-05-24T07:18:24.139150+00:00"
-  },
-  {
-    "title": "Stříbrný poník",
-    "url": "https://www.kosmas.cz/knihy/568407/stribrny-ponik/",
-    "description": "Stříbrný poník - James Brown, Holly Webbová",
-    "authors": [
-      "James Brown",
-      "Holly Webbová"
-    ],
-    "date": "2026-05-24T07:18:23.139150+00:00"
-  },
-  {
-    "title": "Biologická a cílená léčba",
-    "url": "https://www.kosmas.cz/knihy/568560/biologicka-a-cilena-lecba/",
-    "description": "Biologická a cílená léčba - Hartinger Miroslav Jan, pedagogů: kolektiv, Vladimír Tesař",
-    "authors": [
-      "Hartinger Miroslav Jan",
-      "pedagogů: kolektiv",
-      "Vladimír Tesař"
-    ],
-    "date": "2026-05-24T07:18:22.139150+00:00"
-  },
-  {
-    "title": "Poslední ghetto",
-    "url": "https://www.kosmas.cz/knihy/568579/posledni-ghetto/",
-    "description": "Poslední ghetto - Anna Hájková",
-    "authors": [
-      "Anna Hájková"
-    ],
-    "date": "2026-05-24T07:18:21.139150+00:00"
-  },
-  {
-    "title": "Cesta z obezity",
-    "url": "https://www.kosmas.cz/knihy/568660/cesta-z-obezity/",
-    "description": "Cesta z obezity - Jack Mosley",
-    "authors": [
-      "Jack Mosley"
-    ],
-    "date": "2026-05-24T07:18:20.139150+00:00"
-  },
-  {
-    "title": "Jak se dělá dítě",
-    "url": "https://www.kosmas.cz/knihy/568814/jak-se-dela-dite/",
-    "description": "Jak se dělá dítě - Cory Silverberg",
-    "authors": [
-      "Cory Silverberg"
-    ],
-    "date": "2026-05-24T07:18:19.139150+00:00"
-  },
-  {
-    "title": "Jak si porozumět",
-    "url": "https://www.kosmas.cz/knihy/568818/jak-si-porozumet/",
-    "description": "Jak si porozumět - Andrij Lesiv, Romana Romanyšyn",
-    "authors": [
-      "Andrij Lesiv",
-      "Romana Romanyšyn"
-    ],
-    "date": "2026-05-24T07:18:18.139150+00:00"
   }
 ]

@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-07 07:37:08 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Hoří ti táta
+2. Průvodce bolestmi hlavy pro praktické lékaře
+3. Fantasy povídky z druhé galaxie
+4. Pohádky do nemocniční postýlky
+5. Řím - Poznejte
+6. Karel Koutský - Fotografie
+7. Svět kolem tebe Pexeso
+8. Dostihy a sázky Pexeso
+9. Kvizour Párty hra
+10. Pavel z Tarsu a jeho svět
+11. Velvet Blues
+12. Srdce a šíp
+13. Generační konflikt
+
+---
+
+## 🕐 2026-06-07 07:37:07 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-06 07:16:38 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -249,38 +285,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Literární dům
-
----
-
-## 🕐 2026-05-31 07:31:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Minecraft
-2. Ztracený příběh
-3. Holka, které se nikdo nezastal
-4. Démonova kletba
-5. 00 Rules for Business Success
-6. Třetí dívka
-7. Růže v okovech
-8. Co když to vyjde?
-9. Okouzlující lháři
-
----
-
-## 🕐 2026-05-31 07:31:24 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
