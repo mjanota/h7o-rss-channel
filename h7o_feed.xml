@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 07 Jun 2026 07:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 08:02:25 +0000</lastBuildDate>
+    <item>
+      <title>Přesně tu měkkost</title>
+      <link>https://www.h7o.cz/clanky/14546-presne-tu-mekkost</link>
+      <description>Nevim je autonómnym vydavateľstvom sociálneho družstva Tři Ocásci, so zameraním na radikálnu imagináciu, lavicové hodnoty a pestrosť žánrov. Ich odpovede sú kolektívne, ako aj proces vydávania každej jednej knihy. Rozprávame sa o ich začiatkoch, terajškoch a premýšľaní o projektoch a lepšom svete.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14546-presne-tu-mekkost</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pokřivená realita</title>
       <link>https://www.h7o.cz/clanky/14544-pokrivena-realita</link>
@@ -427,14 +434,6 @@
       <description>Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14467-zadluzene-knihy</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boje zamilovaného muže</title>
-      <link>https://www.h7o.cz/clanky/14464-boje-zamilovaneho-muze</link>
-      <description>„Psaní se stává prostředkem, jak se přihlásit o slovo, aniž by bylo třeba zvyšovat hlas.“
-I tím se projevuje postava adaptace nejoceňovanější části románové hexalogie „Můj boj“ Karla Oveho Knausgårda, „Zamilovaný muž“, kterou v loňském roce nastudovalo Divadlo Na Zábradlí.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14464-boje-zamilovaneho-muze</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-08 08:02:27 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 4
+
+**Tituly nových položek:**
+
+1. Lisabon - Poznejte
+2. Podrobná gramatika turečtiny
+3. Maroko - Cesty divočinou
+4. BTS: Megahvězdy K-popu
+
+---
+
+## 🕐 2026-06-08 08:02:25 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přesně tu měkkost
+
+---
+
 ## 🕐 2026-06-07 07:37:08 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

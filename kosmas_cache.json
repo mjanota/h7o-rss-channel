@@ -1,5 +1,39 @@
 [
   {
+    "title": "Lisabon - Poznejte",
+    "url": "https://www.kosmas.cz/knihy/569244/lisabon-poznejte/",
+    "description": "Lisabon - Poznejte",
+    "authors": [],
+    "date": "2026-06-08T08:02:23.212127+00:00"
+  },
+  {
+    "title": "Podrobná gramatika turečtiny",
+    "url": "https://www.kosmas.cz/knihy/569246/podrobna-gramatika-turectiny/",
+    "description": "Podrobná gramatika turečtiny - Petr Kučera",
+    "authors": [
+      "Petr Kučera"
+    ],
+    "date": "2026-06-08T08:02:22.212127+00:00"
+  },
+  {
+    "title": "Maroko - Cesty divočinou",
+    "url": "https://www.kosmas.cz/knihy/569302/maroko-cesty-divocinou/",
+    "description": "Maroko - Cesty divočinou - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-08T08:02:21.212127+00:00"
+  },
+  {
+    "title": "BTS: Megahvězdy K-popu",
+    "url": "https://www.kosmas.cz/knihy/569909/bts-megahvezdy-k-popu/",
+    "description": "BTS: Megahvězdy K-popu - Future Publishing",
+    "authors": [
+      "Future Publishing"
+    ],
+    "date": "2026-06-08T08:02:08.212127+00:00"
+  },
+  {
     "title": "Hoří ti táta",
     "url": "https://www.kosmas.cz/knihy/564618/hori-ti-tata/",
     "description": "Hoří ti táta - Viktorie Hanišová",
@@ -1754,43 +1788,5 @@
       "Hugo von Hofmannsthal"
     ],
     "date": "2026-05-26T07:27:52.021185+00:00"
-  },
-  {
-    "title": "Romeo a Julie",
-    "url": "https://www.kosmas.cz/knihy/568969/romeo-a-julie/",
-    "description": "Romeo a Julie - William Shakespeare",
-    "authors": [
-      "William Shakespeare"
-    ],
-    "date": "2026-05-26T07:27:51.021185+00:00"
-  },
-  {
-    "title": "Úklady a láska",
-    "url": "https://www.kosmas.cz/knihy/568973/uklady-a-laska/",
-    "description": "Úklady a láska - Friedrich von Schiller",
-    "authors": [
-      "Friedrich von Schiller"
-    ],
-    "date": "2026-05-26T07:27:50.021185+00:00"
-  },
-  {
-    "title": "Co nás čeká v porodnici a co doma",
-    "url": "https://www.kosmas.cz/knihy/569000/co-nas-ceka-v-porodnici-a-co-doma/",
-    "description": "Co nás čeká v porodnici a co doma - Milena Dokoupilová, Martin Gregora",
-    "authors": [
-      "Milena Dokoupilová",
-      "Martin Gregora"
-    ],
-    "date": "2026-05-26T07:27:49.021185+00:00"
-  },
-  {
-    "title": "Mystik hmoty",
-    "url": "https://www.kosmas.cz/knihy/569033/mystik-hmoty/",
-    "description": "Mystik hmoty - Pierre Teilhard de Chardin, Františka Jirousová",
-    "authors": [
-      "Pierre Teilhard de Chardin",
-      "Františka Jirousová"
-    ],
-    "date": "2026-05-26T07:27:48.021185+00:00"
   }
 ]

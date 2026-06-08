@@ -1,13 +1,5 @@
 [
   {
-    "title": "Boje zamilovaného muže",
-    "url": "https://www.h7o.cz/clanky/14464-boje-zamilovaneho-muze",
-    "description": "„Psaní se stává prostředkem, jak se přihlásit o slovo, aniž by bylo třeba zvyšovat hlas.“\nI tím se projevuje postava adaptace nejoceňovanější části románové hexalogie „Můj boj“ Karla Oveho Knausgårda, „Zamilovaný muž“, kterou v loňském roce nastudovalo Divadlo Na Zábradlí.",
-    "date": "2026-03-10T00:00:00",
-    "author": "Šárka Lojdová",
-    "category": "recenze"
-  },
-  {
     "title": "Zadlužené knihy",
     "url": "https://www.h7o.cz/clanky/14467-zadluzene-knihy",
     "description": "Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.",
@@ -486,5 +478,13 @@
     "date": "2026-06-05T00:00:00",
     "author": "Barbora Zouharová",
     "category": "recenze"
+  },
+  {
+    "title": "Přesně tu měkkost",
+    "url": "https://www.h7o.cz/clanky/14546-presne-tu-mekkost",
+    "description": "Nevim je autonómnym vydavateľstvom sociálneho družstva Tři Ocásci, so zameraním na radikálnu imagináciu, lavicové hodnoty a pestrosť žánrov. Ich odpovede sú kolektívne, ako aj proces vydávania každej jednej knihy. Rozprávame sa o ich začiatkoch, terajškoch a premýšľaní o projektoch a lepšom svete.",
+    "date": "2026-06-08T00:00:00",
+    "author": "Ema Klubisová",
+    "category": "rozhovor"
   }
 ]
