@@ -1,13 +1,5 @@
 [
   {
-    "title": "Zadlužené knihy",
-    "url": "https://www.h7o.cz/clanky/14467-zadluzene-knihy",
-    "description": "Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.",
-    "date": "2026-03-11T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Na polceste medzi sovietskym človekom a večným mestom",
     "url": "https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom",
     "description": "Mezi Bratislavou a Římem, mezi současným a budoucím Slovenskem. Pavel Sibyla se ve druhém březnovém sloupku zamýšlí nad tím, jak se v posledních letech tvaruje slovenská občanská společnost.",
@@ -486,5 +478,13 @@
     "date": "2026-06-08T00:00:00",
     "author": "Ema Klubisová",
     "category": "rozhovor"
+  },
+  {
+    "title": "In case of emergency, wake me up",
+    "url": "https://www.h7o.cz/clanky/14545-in-case-of-emergency-wake-me-up",
+    "description": "„Já ještě zapluju do oblíbeného podniku na růžku, paní za barem si mě pamatuje, dám si ještě ze tři třetinky, soumrak je neuvěřitelně dlouhý, pozoruju ortodoxní židy všude kolem a jsem neskutečně šťastný, že žiju v Evropě,“ píše básník Filip Klega ve svém fejetonu z literárního festivalu v…",
+    "date": "2026-06-09T00:00:00",
+    "author": "Filip Klega",
+    "category": "sloupek"
   }
 ]

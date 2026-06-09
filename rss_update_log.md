@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-09 07:29:43 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Léto pro dva
+2. Všeho do času
+3. Introdukované dřeviny v českém lesním hospodářství
+4. Teorie fikce jako odnosné tašky
+5. Avengers navěky 1: Mistři pozemské odplaty
+6. Avengers navěky 2: Pilíře
+7. Dvůr touhy a zlata
+8. Jméno
+9. Putinova triáda
+10. Variace
+11. Stitch - Plyšový deník
+12. Meč chaosu
+13. Neapol. Nový svět na cestách
+14. LEGO® Minecraft Dobrodružství v Endu
+15. Kavárna U Anděla: Nezapomenutelná sláva
+16. Ztracený svět
+17. Twisted Wonderland: Příběh z Heartslabyulu 3
+18. Zrádné tropy
+19. Hooky - Magie za školou 3
+20. Batman - Legendy Temného rytíře: Šílenství / Nákaza
+
+---
+
+## 🕐 2026-06-09 07:29:42 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. In case of emergency, wake me up
+
+---
+
 ## 🕐 2026-06-08 08:02:27 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -282,40 +329,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Připadá mi zajímavé, když politické sdělení není explicitní
-
----
-
-## 🕐 2026-06-01 08:07:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 7
-
-**Tituly nových položek:**
-
-1. Přítel
-2. Prázdninový příběh pejska a kočičky
-3. Narozeninový příběh pejska a kočičky
-4. Nevhodný letní románek
-5. Jak prodat firmu s nemovitostmi
-6. Přišel čas na Druhou : směnu
-7. Zlobivé dítě je mýtus
-
----
-
-## 🕐 2026-06-01 08:07:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Literární dům
 
 ---
 

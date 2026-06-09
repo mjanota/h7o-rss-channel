@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 07:29:42 +0000</lastBuildDate>
+    <item>
+      <title>In case of emergency, wake me up</title>
+      <link>https://www.h7o.cz/clanky/14545-in-case-of-emergency-wake-me-up</link>
+      <description>„Já ještě zapluju do oblíbeného podniku na růžku, paní za barem si mě pamatuje, dám si ještě ze tři třetinky, soumrak je neuvěřitelně dlouhý, pozoruju ortodoxní židy všude kolem a jsem neskutečně šťastný, že žiju v Evropě,“ píše básník Filip Klega ve svém fejetonu z literárního festivalu v…</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14545-in-case-of-emergency-wake-me-up</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Přesně tu měkkost</title>
       <link>https://www.h7o.cz/clanky/14546-presne-tu-mekkost</link>
@@ -427,13 +434,6 @@
       <description>Mezi Bratislavou a Římem, mezi současným a budoucím Slovenskem. Pavel Sibyla se ve druhém březnovém sloupku zamýšlí nad tím, jak se v posledních letech tvaruje slovenská občanská společnost.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zadlužené knihy</title>
-      <link>https://www.h7o.cz/clanky/14467-zadluzene-knihy</link>
-      <description>Levné knihy jsou po téměř třiceti letech v existenční krizi. Řetězec míří do insolvence.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14467-zadluzene-knihy</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
