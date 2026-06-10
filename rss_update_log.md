@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-10 07:45:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Letní povídky
+2. Vražedný koláček
+3. Čaj s jedem
+4. Začátek něčeho krásného
+5. Letní návrh
+6. Případy z venkova
+7. Život po životě
+8. O slavných psech a jejich lidech (a naopak)
+9. Malé velké zázraky povzbuzení - s dřevěným stojánkem
+10. Smile,Please!
+11. Smysly a nesmysly kolem nás
+12. Dívka s copem
+13. Tajemná postava
+14. Jednou za modrý měsíc
+15. Přístav volá (sběratelské vydání)
+16. Zápisky z vězení
+17. Žádná zeď neexistuje
+
+---
+
+## 🕐 2026-06-10 07:45:03 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Právo skrýt se před AI
+
+---
+
 ## 🕐 2026-06-09 07:29:43 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -286,49 +330,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-02 07:54:56 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. The Boys Of Dungeon Lane
-2. Děti zla
-3. Myší hlídka: Zrození Černé sekery a další příběhy
-4. V Budkově
-5. Překvapení pod Andami
-6. Ten prsten není tvůj!
-7. Spiknutí v San Francisku
-8. V paláci nepřítele
-9. Dokáže ho zkrotit?
-10. Králové Avalieru - Nelítostný vílí král
-11. Velká hra
-12. Lucie v oblacích
-13. Deník malého poseroutky 2 - Rodrick je king
-14. Kulaté omalovánky Mandaly
-15. Kulaté omalovánky Bludiště
-16. Zlatan. Fotbalové superhvězdy
-
----
-
-## 🕐 2026-06-02 07:54:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Připadá mi zajímavé, když politické sdělení není explicitní
 
 ---
 

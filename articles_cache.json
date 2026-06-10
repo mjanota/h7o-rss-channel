@@ -1,13 +1,5 @@
 [
   {
-    "title": "Na polceste medzi sovietskym človekom a večným mestom",
-    "url": "https://www.h7o.cz/clanky/14468-na-polceste-medzi-sovietskym-clovekom-a-vecnym-mestom",
-    "description": "Mezi Bratislavou a Římem, mezi současným a budoucím Slovenskem. Pavel Sibyla se ve druhém březnovém sloupku zamýšlí nad tím, jak se v posledních letech tvaruje slovenská občanská společnost.",
-    "date": "2026-03-12T00:00:00",
-    "author": "Pavel Sibyla",
-    "category": "seriál"
-  },
-  {
     "title": "Netvor líbající ohnivý kráter",
     "url": "https://www.h7o.cz/clanky/14469-netvor-libajici-ohnivy-krater",
     "description": "Kanadská básnířka a esejistka Anne Carson oživuje v knize „Autobiografie rudé“ starý antický příběh o Geryonovi a Heráklovi, který transformuje do současného vyprávění o dospívání, touze a identitě. Namísto krvelačného boje sledujeme vášnivý vztah a zároveň inovativní posun perspektivy.",
@@ -486,5 +478,13 @@
     "date": "2026-06-09T00:00:00",
     "author": "Filip Klega",
     "category": "sloupek"
+  },
+  {
+    "title": "Právo skrýt se před AI",
+    "url": "https://www.h7o.cz/clanky/14549-pravo-skryt-se-pred-ai",
+    "description": "Google musí nakladatelům a vydavatelům dát právo volby být v AI přehledech. Británie nedávno přijala historické opatření na ochranu obsahu.",
+    "date": "2026-06-10T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

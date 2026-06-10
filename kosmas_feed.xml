@@ -7,7 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 09 Jun 2026 07:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:45:05 +0000</lastBuildDate>
+    <item>
+      <title>Letní povídky</title>
+      <link>https://www.kosmas.cz/knihy/569973/letni-povidky/</link>
+      <description>Letní povídky - Boris Dočekal, kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569973/letni-povidky/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražedný koláček</title>
+      <link>https://www.kosmas.cz/knihy/569985/vrazedny-kolacek/</link>
+      <description>Vražedný koláček - H. Y. Hanna</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569985/vrazedny-kolacek/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čaj s jedem</title>
+      <link>https://www.kosmas.cz/knihy/569986/caj-s-jedem/</link>
+      <description>Čaj s jedem - H. Y. Hanna</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569986/caj-s-jedem/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Začátek něčeho krásného</title>
+      <link>https://www.kosmas.cz/knihy/569987/zacatek-neceho-krasneho/</link>
+      <description>Začátek něčeho krásného - Jessica Redland</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569987/zacatek-neceho-krasneho/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Letní návrh</title>
+      <link>https://www.kosmas.cz/knihy/570007/letni-navrh/</link>
+      <description>Letní návrh - Vi Keelandová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570007/letni-navrh/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Případy z venkova</title>
+      <link>https://www.kosmas.cz/knihy/570011/pripady-z-venkova/</link>
+      <description>Případy z venkova - Agatha Christie</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570011/pripady-z-venkova/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Život po životě</title>
+      <link>https://www.kosmas.cz/knihy/570027/zivot-po-zivote/</link>
+      <description>Život po životě - Gayle Forman</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570027/zivot-po-zivote/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>O slavných psech a jejich lidech (a naopak)</title>
+      <link>https://www.kosmas.cz/knihy/569108/o-slavnych-psech-a-jejich-lidech-a-naopak/</link>
+      <description>O slavných psech a jejich lidech (a naopak) - Daňa Horáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569108/o-slavnych-psech-a-jejich-lidech-a-naopak/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malé velké zázraky povzbuzení - s dřevěným stojánkem</title>
+      <link>https://www.kosmas.cz/knihy/569269/male-velke-zazraky-povzbuzeni-s-drevenym-stojankem/</link>
+      <description>Malé velké zázraky povzbuzení - s dřevěným stojánkem - Sri Chinmoy</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569269/male-velke-zazraky-povzbuzeni-s-drevenym-stojankem/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smile,Please!</title>
+      <link>https://www.kosmas.cz/knihy/569536/smile-please/</link>
+      <description>Smile,Please! - Jíří Slíva</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569536/smile-please/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smysly a nesmysly kolem nás</title>
+      <link>https://www.kosmas.cz/knihy/569714/smysly-a-nesmysly-kolem-nas/</link>
+      <description>Smysly a nesmysly kolem nás - Natálie Dočekalová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569714/smysly-a-nesmysly-kolem-nas/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dívka s copem</title>
+      <link>https://www.kosmas.cz/knihy/569816/divka-s-copem/</link>
+      <description>Dívka s copem - Jaroslav Velinský</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569816/divka-s-copem/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajemná postava</title>
+      <link>https://www.kosmas.cz/knihy/563160/tajemna-postava/</link>
+      <description>Tajemná postava - Vlastimil Vondruška</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563160/tajemna-postava/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jednou za modrý měsíc</title>
+      <link>https://www.kosmas.cz/knihy/569917/jednou-za-modry-mesic/</link>
+      <description>Jednou za modrý měsíc - Ondřej Macl</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569917/jednou-za-modry-mesic/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Přístav volá (sběratelské vydání)</title>
+      <link>https://www.kosmas.cz/knihy/569984/pristav-vola-sberatelske-vydani/</link>
+      <description>Přístav volá (sběratelské vydání) - Jaroslav Foglar, Jan Hosnedl, Roman Šantora</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569984/pristav-vola-sberatelske-vydani/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zápisky z vězení</title>
+      <link>https://www.kosmas.cz/knihy/569999/zapisky-z-vezeni/</link>
+      <description>Zápisky z vězení - Nicolas Sarkozy</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569999/zapisky-z-vezeni/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Žádná zeď neexistuje</title>
+      <link>https://www.kosmas.cz/knihy/570004/zadna-zed-neexistuje/</link>
+      <description>Žádná zeď neexistuje - Allie Bailey</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570004/zadna-zed-neexistuje/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:44:46 +0000</pubDate>
+    </item>
     <item>
       <title>Léto pro dva</title>
       <link>https://www.kosmas.cz/knihy/569886/leto-pro-dva/</link>
@@ -588,125 +707,6 @@
       <description>Láska na plný plyn - Jenny L. Howe</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/567542/laska-na-plny-plyn/</guid>
       <pubDate>Thu, 04 Jun 2026 07:51:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Žalozpěv</title>
-      <link>https://www.kosmas.cz/knihy/567562/zalozpev/</link>
-      <description>Žalozpěv - Camilla Läckberg</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567562/zalozpev/</guid>
-      <pubDate>Thu, 04 Jun 2026 07:51:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zamilovaný kluk</title>
-      <link>https://www.kosmas.cz/knihy/567616/zamilovany-kluk/</link>
-      <description>Zamilovaný kluk - Jay Crownover, Rebecca Yarros</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567616/zamilovany-kluk/</guid>
-      <pubDate>Thu, 04 Jun 2026 07:51:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kyselá prdel</title>
-      <link>https://www.kosmas.cz/knihy/569422/kysela-prdel/</link>
-      <description>Kyselá prdel - Nahoru po schodišti dolů band</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569422/kysela-prdel/</guid>
-      <pubDate>Thu, 04 Jun 2026 07:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vánoční příběh pejska a kočičky</title>
-      <link>https://www.kosmas.cz/knihy/569799/vanocni-pribeh-pejska-a-kocicky/</link>
-      <description>Vánoční příběh pejska a kočičky - Vlasta Hurtíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569799/vanocni-pribeh-pejska-a-kocicky/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adam ze Zbraslavi a případ kralevice Jana</title>
-      <link>https://www.kosmas.cz/knihy/569800/adam-ze-zbraslavi-a-pripad-kralevice-jana/</link>
-      <description>Adam ze Zbraslavi a případ kralevice Jana - Hana Whitton</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569800/adam-ze-zbraslavi-a-pripad-kralevice-jana/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>S láskou z parku</title>
-      <link>https://www.kosmas.cz/knihy/569801/s-laskou-z-parku/</link>
-      <description>S láskou z parku - Jules Wake</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569801/s-laskou-z-parku/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krásný satyr</title>
-      <link>https://www.kosmas.cz/knihy/569802/krasny-satyr/</link>
-      <description>Krásný satyr - Michael Weber</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569802/krasny-satyr/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Policie zasahuje</title>
-      <link>https://www.kosmas.cz/knihy/566153/policie-zasahuje/</link>
-      <description>Policie zasahuje</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566153/policie-zasahuje/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Růže v okovech</title>
-      <link>https://www.kosmas.cz/knihy/565005/ruze-v-okovech/</link>
-      <description>Růže v okovech - Julie Soto</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565005/ruze-v-okovech/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acheron</title>
-      <link>https://www.kosmas.cz/knihy/564751/acheron/</link>
-      <description>Acheron - Tereza D. Reichelová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564751/acheron/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaidžú č. 8, díl 12</title>
-      <link>https://www.kosmas.cz/knihy/569026/kaidzu-c.-8-dil-12/</link>
-      <description>Kaidžú č. 8, díl 12 - Naoja Macumoto</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569026/kaidzu-c.-8-dil-12/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diliňi Dora</title>
-      <link>https://www.kosmas.cz/knihy/569233/dilini-dora/</link>
-      <description>Diliňi Dora - Eva Danišová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569233/dilini-dora/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rok v Jizerských horách</title>
-      <link>https://www.kosmas.cz/knihy/569320/rok-v-jizerskych-horach/</link>
-      <description>Rok v Jizerských horách - Miloslav Nevrlý</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569320/rok-v-jizerskych-horach/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mládí na hřišti 11: Úplně nejvíc</title>
-      <link>https://www.kosmas.cz/knihy/569334/mladi-na-hristi-11-uplne-nejvic/</link>
-      <description>Mládí na hřišti 11: Úplně nejvíc - Kódži Miura</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569334/mladi-na-hristi-11-uplne-nejvic/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moje první obrázkové čtení</title>
-      <link>https://www.kosmas.cz/knihy/569338/moje-prvni-obrazkove-cteni/</link>
-      <description>Moje první obrázkové čtení - Jiří Havel</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569338/moje-prvni-obrazkove-cteni/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horalova dokonalá nevěsta</title>
-      <link>https://www.kosmas.cz/knihy/569339/horalova-dokonala-nevesta/</link>
-      <description>Horalova dokonalá nevěsta - Vanessa Kelly</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569339/horalova-dokonala-nevesta/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sattasaí</title>
-      <link>https://www.kosmas.cz/knihy/569348/sattasai/</link>
-      <description>Sattasaí</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569348/sattasai/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:58:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
