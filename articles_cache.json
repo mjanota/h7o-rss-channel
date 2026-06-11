@@ -1,13 +1,5 @@
 [
   {
-    "title": "Netvor líbající ohnivý kráter",
-    "url": "https://www.h7o.cz/clanky/14469-netvor-libajici-ohnivy-krater",
-    "description": "Kanadská básnířka a esejistka Anne Carson oživuje v knize „Autobiografie rudé“ starý antický příběh o Geryonovi a Heráklovi, který transformuje do současného vyprávění o dospívání, touze a identitě. Namísto krvelačného boje sledujeme vášnivý vztah a zároveň inovativní posun perspektivy.",
-    "date": "2026-03-13T00:00:00",
-    "author": "Libor Staněk II.",
-    "category": "recenze"
-  },
-  {
     "title": "Se Sovětským svazem přišel atom na zem",
     "url": "https://www.h7o.cz/clanky/14470-se-sovetskym-svazem-prisel-atom-na-zem",
     "description": "V Sovětském svazu se dobře žilo, vařilo i jedlo, připomíná šéfkuchař Martin T. Pecina ve svém sloupku. Alespoň na stránkách knih.",
@@ -486,5 +478,13 @@
     "date": "2026-06-10T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "V zahraničním výzkumu nestačí zaplňovat bílá místa",
+    "url": "https://www.h7o.cz/clanky/14532-v-zahranicnim-vyzkumu-nestaci-zaplnovat-bila-mista",
+    "description": "Kafka na tričkách či kafkovské kavárny s bizarními názvy bohemistce Veronice Tuckerové nevadí tolik jako absence promyšlené péče o jeho dílo. Badatelka z Harvardu v bohemistickém seriálu vysvětluje, proč je stále čteme a co znamená učit českou literaturu a jazyk v USA.",
+    "date": "2026-06-11T00:00:00",
+    "author": "Martin Strašák",
+    "category": "seriál"
   }
 ]

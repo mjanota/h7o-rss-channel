@@ -1,5 +1,144 @@
 [
   {
+    "title": "Dej mi pokoj",
+    "url": "https://www.kosmas.cz/knihy/569878/dej-mi-pokoj/",
+    "description": "Dej mi pokoj - Petra Štarková",
+    "authors": [
+      "Petra Štarková"
+    ],
+    "date": "2026-06-11T07:57:31.914406+00:00"
+  },
+  {
+    "title": "Odyssea našich osudů",
+    "url": "https://www.kosmas.cz/knihy/569998/odyssea-nasich-osudu/",
+    "description": "Odyssea našich osudů - Sam Akbarová",
+    "authors": [
+      "Sam Akbarová"
+    ],
+    "date": "2026-06-11T07:57:30.914406+00:00"
+  },
+  {
+    "title": "Její poslední slza",
+    "url": "https://www.kosmas.cz/knihy/570115/jeji-posledni-slza/",
+    "description": "Její poslední slza - Stacy Green",
+    "authors": [
+      "Stacy Green"
+    ],
+    "date": "2026-06-11T07:57:29.914406+00:00"
+  },
+  {
+    "title": "Actium",
+    "url": "https://www.kosmas.cz/knihy/568787/actium/",
+    "description": "Actium - Jean-Yves Delitte",
+    "authors": [
+      "Jean-Yves Delitte"
+    ],
+    "date": "2026-06-11T07:57:28.914406+00:00"
+  },
+  {
+    "title": "Cušima",
+    "url": "https://www.kosmas.cz/knihy/568788/cusima/",
+    "description": "Cušima - Jean-Yves Delitte",
+    "authors": [
+      "Jean-Yves Delitte"
+    ],
+    "date": "2026-06-11T07:57:27.914406+00:00"
+  },
+  {
+    "title": "Balt",
+    "url": "https://www.kosmas.cz/knihy/568986/balt/",
+    "description": "Balt - Jan Wilkanowski, Ola Wilkanowski",
+    "authors": [
+      "Jan Wilkanowski",
+      "Ola Wilkanowski"
+    ],
+    "date": "2026-06-11T07:57:26.914406+00:00"
+  },
+  {
+    "title": "DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ",
+    "url": "https://www.kosmas.cz/knihy/569735/denik-very-segerove-1927-1943-a-deniky-arnosta-kleina-a-marie-kleinove/",
+    "description": "DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ - Petr Psík, T. Fedorovič, I. Gaudesová, T. Raichl",
+    "authors": [
+      "Petr Psík",
+      "T. Fedorovič",
+      "I. Gaudesová",
+      "T. Raichl"
+    ],
+    "date": "2026-06-11T07:57:25.914406+00:00"
+  },
+  {
+    "title": "Etika mezikulturního a mezináboženského dialogu",
+    "url": "https://www.kosmas.cz/knihy/569846/etika-mezikulturniho-a-mezinabozenskeho-dialogu/",
+    "description": "Etika mezikulturního a mezináboženského dialogu - Denisa Červenková",
+    "authors": [
+      "Denisa Červenková"
+    ],
+    "date": "2026-06-11T07:57:24.914406+00:00"
+  },
+  {
+    "title": "Post-Evropa",
+    "url": "https://www.kosmas.cz/knihy/569847/post-evropa/",
+    "description": "Post-Evropa - Yuk Hui",
+    "authors": [
+      "Yuk Hui"
+    ],
+    "date": "2026-06-11T07:57:23.914406+00:00"
+  },
+  {
+    "title": "Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024",
+    "url": "https://www.kosmas.cz/knihy/569848/promeny-struktury-vlastnictvi-periodickeho-tisku-v-ceske-republice-v---1989-2024/",
+    "description": "Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024 - Josef Benda",
+    "authors": [
+      "Josef Benda"
+    ],
+    "date": "2026-06-11T07:57:22.914406+00:00"
+  },
+  {
+    "title": "Dichotismus",
+    "url": "https://www.kosmas.cz/knihy/569849/dichotismus/",
+    "description": "Dichotismus - Olga Dlouhá",
+    "authors": [
+      "Olga Dlouhá"
+    ],
+    "date": "2026-06-11T07:57:21.914406+00:00"
+  },
+  {
+    "title": "Budapešť - TOP 10",
+    "url": "https://www.kosmas.cz/knihy/569894/budapest-top-10/",
+    "description": "Budapešť - TOP 10 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-11T07:57:20.914406+00:00"
+  },
+  {
+    "title": "Korfu a Jónské ostrovy - TOP 10",
+    "url": "https://www.kosmas.cz/knihy/569895/korfu-a-jonske-ostrovy-top-10/",
+    "description": "Korfu a Jónské ostrovy - TOP 10 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-11T07:57:19.914406+00:00"
+  },
+  {
+    "title": "Madeira - TOP10",
+    "url": "https://www.kosmas.cz/knihy/569898/madeira-top10/",
+    "description": "Madeira - TOP10 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-11T07:57:18.914406+00:00"
+  },
+  {
+    "title": "Tokio - TOP 10",
+    "url": "https://www.kosmas.cz/knihy/569899/tokio-top-10/",
+    "description": "Tokio - TOP 10 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-11T07:57:17.914406+00:00"
+  },
+  {
     "title": "Letní povídky",
     "url": "https://www.kosmas.cz/knihy/569973/letni-povidky/",
     "description": "Letní povídky - Boris Dočekal, kol.",
@@ -1670,129 +1809,5 @@
     "description": "Samolepková knížka Koně",
     "authors": [],
     "date": "2026-05-29T07:35:49.122135+00:00"
-  },
-  {
-    "title": "8595593848099",
-    "url": "https://www.kosmas.cz/knihy/569347/8595593848099/",
-    "description": "8595593848099",
-    "authors": [],
-    "date": "2026-05-29T07:35:48.122135+00:00"
-  },
-  {
-    "title": "Zábava se samolepkami Tlapková patrola",
-    "url": "https://www.kosmas.cz/knihy/569349/zabava-se-samolepkami-tlapkova-patrola/",
-    "description": "Zábava se samolepkami Tlapková patrola",
-    "authors": [],
-    "date": "2026-05-29T07:35:47.122135+00:00"
-  },
-  {
-    "title": "Zábava se samolepkami Prasátko Peppa",
-    "url": "https://www.kosmas.cz/knihy/569351/zabava-se-samolepkami-prasatko-peppa/",
-    "description": "Zábava se samolepkami Prasátko Peppa",
-    "authors": [],
-    "date": "2026-05-29T07:35:46.122135+00:00"
-  },
-  {
-    "title": "Poznávací samolepková knížka Doprava",
-    "url": "https://www.kosmas.cz/knihy/569352/poznavaci-samolepkova-knizka-doprava/",
-    "description": "Poznávací samolepková knížka Doprava",
-    "authors": [],
-    "date": "2026-05-29T07:35:45.122135+00:00"
-  },
-  {
-    "title": "Poznávací samolepková knížka Koně",
-    "url": "https://www.kosmas.cz/knihy/569353/poznavaci-samolepkova-knizka-kone/",
-    "description": "Poznávací samolepková knížka Koně",
-    "authors": [],
-    "date": "2026-05-29T07:35:44.122135+00:00"
-  },
-  {
-    "title": "Poznávací samolepková knížka Mazlíčci",
-    "url": "https://www.kosmas.cz/knihy/569354/poznavaci-samolepkova-knizka-mazlicci/",
-    "description": "Poznávací samolepková knížka Mazlíčci",
-    "authors": [],
-    "date": "2026-05-29T07:35:43.122135+00:00"
-  },
-  {
-    "title": "Poznávací samolepková knížka Mláďátka",
-    "url": "https://www.kosmas.cz/knihy/569355/poznavaci-samolepkova-knizka-mladatka/",
-    "description": "Poznávací samolepková knížka Mláďátka",
-    "authors": [],
-    "date": "2026-05-29T07:35:42.122135+00:00"
-  },
-  {
-    "title": "Román pro pitomce",
-    "url": "https://www.kosmas.cz/knihy/569403/roman-pro-pitomce/",
-    "description": "Román pro pitomce - Lukáš Balabán",
-    "authors": [
-      "Lukáš Balabán"
-    ],
-    "date": "2026-05-28T07:37:30.660407+00:00"
-  },
-  {
-    "title": "Tajné zasvěcení v říši bohů",
-    "url": "https://www.kosmas.cz/knihy/569446/tajne-zasveceni-v-risi-bohu/",
-    "description": "Tajné zasvěcení v říši bohů - Radu Cinamar",
-    "authors": [
-      "Radu Cinamar"
-    ],
-    "date": "2026-05-28T07:37:29.660407+00:00"
-  },
-  {
-    "title": "Pouto pána démonů",
-    "url": "https://www.kosmas.cz/knihy/569462/pouto-pana-demonu/",
-    "description": "Pouto pána démonů - Madeleine Eliot",
-    "authors": [
-      "Madeleine Eliot"
-    ],
-    "date": "2026-05-28T07:37:28.660407+00:00"
-  },
-  {
-    "title": "Srdce a šíp",
-    "url": "https://www.kosmas.cz/knihy/569464/srdce-a-sip/",
-    "description": "Srdce a šíp - Frost Kay",
-    "authors": [
-      "Frost Kay"
-    ],
-    "date": "2026-05-28T07:37:27.660407+00:00"
-  },
-  {
-    "title": "Ve výslužbě - Luciferova holka",
-    "url": "https://www.kosmas.cz/knihy/569563/ve-vysluzbe-luciferova-holka/",
-    "description": "Ve výslužbě - Luciferova holka - Martin Goffa",
-    "authors": [
-      "Martin Goffa"
-    ],
-    "date": "2026-05-28T07:37:26.660407+00:00"
-  },
-  {
-    "title": "Výšina",
-    "url": "https://www.kosmas.cz/knihy/569568/vysina/",
-    "description": "Výšina - Markéta Lukášková",
-    "authors": [
-      "Markéta Lukášková"
-    ],
-    "date": "2026-05-28T07:37:25.660407+00:00"
-  },
-  {
-    "title": "Zapalte hranici",
-    "url": "https://www.kosmas.cz/knihy/568193/zapalte-hranici/",
-    "description": "Zapalte hranici - Jana Jašová",
-    "authors": [
-      "Jana Jašová"
-    ],
-    "date": "2026-05-28T07:37:24.660407+00:00"
-  },
-  {
-    "title": "Psychiatrie a pedopsychiatrie",
-    "url": "https://www.kosmas.cz/knihy/569494/psychiatrie-a-pedopsychiatrie/",
-    "description": "Psychiatrie a pedopsychiatrie - Ladislav Hosák, Klára Látalová, Jiří Masopust, Michal Hrdlička",
-    "authors": [
-      "Ladislav Hosák",
-      "Klára Látalová",
-      "Jiří Masopust",
-      "Michal Hrdlička"
-    ],
-    "date": "2026-05-28T07:37:20.660407+00:00"
   }
 ]

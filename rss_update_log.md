@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-11 07:57:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Dej mi pokoj
+2. Odyssea našich osudů
+3. Její poslední slza
+4. Actium
+5. Cušima
+6. Balt
+7. DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ
+8. Etika mezikulturního a mezináboženského dialogu
+9. Post-Evropa
+10. Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024
+11. Dichotismus
+12. Budapešť - TOP 10
+13. Korfu a Jónské ostrovy - TOP 10
+14. Madeira - TOP10
+15. Tokio - TOP 10
+
+---
+
+## 🕐 2026-06-11 07:57:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. V zahraničním výzkumu nestačí zaplňovat bílá místa
+
+---
+
 ## 🕐 2026-06-10 07:45:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,93 +279,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-06-05 07:44:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-06-04 07:51:52 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Mariborská hypnóza
-2. Dvůr touhy a zlata
-3. Vraždy pod sluncem: Zločin v Amalfi
-4. Ztracený svět
-5. Rodinné konstelace
-6. Márnice
-7. Lucie v oblacích
-8. Lichočar
-9. Cesty ke svobodě
-10. Rozumím svému koni
-11. Blíž, než se zdá
-12. Božští
-13. Láska na plný plyn
-14. Žalozpěv
-15. Zamilovaný kluk
-16. Kyselá prdel
-
----
-
-## 🕐 2026-06-04 07:51:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Václav Havel svou roli určitě sehrál
-2. Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy
-
----
-
-## 🕐 2026-06-03 07:58:32 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Vánoční příběh pejska a kočičky
-2. Adam ze Zbraslavi a případ kralevice Jana
-3. S láskou z parku
-4. Krásný satyr
-5. Policie zasahuje
-6. Růže v okovech
-7. Acheron
-8. Kaidžú č. 8, díl 12
-9. Diliňi Dora
-10. Rok v Jizerských horách
-11. Mládí na hřišti 11: Úplně nejvíc
-12. Moje první obrázkové čtení
-13. Horalova dokonalá nevěsta
-14. Sattasaí
-15. Tajemství forenzní vědy
-16. Torzo stromu
-17. Vězeň za dráty
-18. Epigenetika – chytrý průvodce pro každý den
-19. Bungó Stray Dogs - Toulaví literáti 8
-20. Král všech developerů 2
-
----
-
-## 🕐 2026-06-03 07:58:31 UTC
 
 **Zdroj:** H7O - Časopis Host
 
