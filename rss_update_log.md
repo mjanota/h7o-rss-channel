@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-12 07:53:09 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Bílá vrána
+2. Anatomie vraždy
+3. Vražedné roráty
+4. Ta první je vždycky blondýna
+5. Přirozená inteligence
+6. Obdivuhodná zvířata IV. - Psovití a zajíci
+7. Vyprošťovák ze chmur
+8. Live 80
+9. Pokrevní pouta 1-6
+10. Interna
+11. Zvířecí Prvňáčci
+12. Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ
+13. Ročenka pro filosofii a fenomenologický výzkum 2025
+14. Kazuistiky v oftalmologii
+15. Dopravní letadla
+16. Zavařování s bylinkami a kořením
+17. Čs. armáda 1918–1939
+18. Žena přes palubu
+19. Art & Antiques 6/2026
+
+---
+
+## 🕐 2026-06-12 07:53:08 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-11 07:57:31 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -247,44 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Pokřivená realita
-
----
-
-## 🕐 2026-06-05 07:44:44 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Putinova triáda
-2. Žena přes palubu
-3. Pan Bůh a paní Bohová mají krizi
-4. 50 nejlepších drinků
-5. Kouzelné čtení - Kvízy do kapsy pro školáky
-6. Komu patří déšť
-7. Dědictví skotských templářů
-8. Ukradené lži
-9. Famous but Misunderstood
-10. Neuronální člověk
-11. Původ je cíl
-12. Stranou zájmu, pod státním dohledem
-13. Mijamoto Musaši 2
-14. Neuróza a lidský růst
-15. Posvátná děvka - moudrost ženského klína
-
----
-
-## 🕐 2026-06-05 07:44:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

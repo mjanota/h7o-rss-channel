@@ -1,5 +1,174 @@
 [
   {
+    "title": "Bílá vrána",
+    "url": "https://www.kosmas.cz/knihy/569990/bila-vrana/",
+    "description": "Bílá vrána - Michael Robotham",
+    "authors": [
+      "Michael Robotham"
+    ],
+    "date": "2026-06-12T07:53:09.707316+00:00"
+  },
+  {
+    "title": "Anatomie vraždy",
+    "url": "https://www.kosmas.cz/knihy/569991/anatomie-vrazdy/",
+    "description": "Anatomie vraždy - Anna Lee Huber",
+    "authors": [
+      "Anna Lee Huber"
+    ],
+    "date": "2026-06-12T07:53:08.707316+00:00"
+  },
+  {
+    "title": "Vražedné roráty",
+    "url": "https://www.kosmas.cz/knihy/569993/vrazedne-roraty/",
+    "description": "Vražedné roráty - Martina Novotná",
+    "authors": [
+      "Martina Novotná"
+    ],
+    "date": "2026-06-12T07:53:07.707316+00:00"
+  },
+  {
+    "title": "Ta první je vždycky blondýna",
+    "url": "https://www.kosmas.cz/knihy/569994/ta-prvni-je-vzdycky-blondyna/",
+    "description": "Ta první je vždycky blondýna - Alena Jakoubková",
+    "authors": [
+      "Alena Jakoubková"
+    ],
+    "date": "2026-06-12T07:53:06.707316+00:00"
+  },
+  {
+    "title": "Přirozená inteligence",
+    "url": "https://www.kosmas.cz/knihy/570009/prirozena-inteligence/",
+    "description": "Přirozená inteligence - Angus Fletcher",
+    "authors": [
+      "Angus Fletcher"
+    ],
+    "date": "2026-06-12T07:53:05.707316+00:00"
+  },
+  {
+    "title": "Obdivuhodná zvířata IV. - Psovití a zajíci",
+    "url": "https://www.kosmas.cz/knihy/568381/obdivuhodna-zvirata-iv.-psoviti-a-zajici/",
+    "description": "Obdivuhodná zvířata IV. - Psovití a zajíci - Vojtěch Škaloud",
+    "authors": [
+      "Vojtěch Škaloud"
+    ],
+    "date": "2026-06-12T07:53:04.707316+00:00"
+  },
+  {
+    "title": "Vyprošťovák ze chmur",
+    "url": "https://www.kosmas.cz/knihy/569475/vyprostovak-ze-chmur/",
+    "description": "Vyprošťovák ze chmur - Šebestián Pavel Smrčina, Ondřej Havlíček",
+    "authors": [
+      "Šebestián Pavel Smrčina",
+      "Ondřej Havlíček"
+    ],
+    "date": "2026-06-12T07:53:03.707316+00:00"
+  },
+  {
+    "title": "Live 80",
+    "url": "https://www.kosmas.cz/knihy/569618/live-80/",
+    "description": "Live 80 - Framus Five, Michal Prokop",
+    "authors": [
+      "Framus Five",
+      "Michal Prokop"
+    ],
+    "date": "2026-06-12T07:53:02.707316+00:00"
+  },
+  {
+    "title": "Pokrevní pouta 1-6",
+    "url": "https://www.kosmas.cz/knihy/568857/pokrevni-pouta-1-6/",
+    "description": "Pokrevní pouta 1-6 - Richelle Mead",
+    "authors": [
+      "Richelle Mead"
+    ],
+    "date": "2026-06-12T07:53:01.707316+00:00"
+  },
+  {
+    "title": "Interna",
+    "url": "https://www.kosmas.cz/knihy/568896/interna/",
+    "description": "Interna - Richard Češka, kol.",
+    "authors": [
+      "Richard Češka",
+      "kol."
+    ],
+    "date": "2026-06-12T07:53:00.707316+00:00"
+  },
+  {
+    "title": "Zvířecí Prvňáčci",
+    "url": "https://www.kosmas.cz/knihy/569697/zvireci-prvnacci/",
+    "description": "Zvířecí Prvňáčci",
+    "authors": [],
+    "date": "2026-06-12T07:52:59.707316+00:00"
+  },
+  {
+    "title": "Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ",
+    "url": "https://www.kosmas.cz/knihy/569699/pribehy-z-mokre-lhoty-vesele-cteni-o-zviratkach-prvni-cteni/",
+    "description": "Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ",
+    "authors": [],
+    "date": "2026-06-12T07:52:58.707316+00:00"
+  },
+  {
+    "title": "Ročenka pro filosofii a fenomenologický výzkum 2025",
+    "url": "https://www.kosmas.cz/knihy/569712/rocenka-pro-filosofii-a-fenomenologicky-vyzkum-2025/",
+    "description": "Ročenka pro filosofii a fenomenologický výzkum 2025 - Pavel Lněnička, Jaromír Murgaš, Aleš Novák, Marek Vodička",
+    "authors": [
+      "Pavel Lněnička",
+      "Jaromír Murgaš",
+      "Aleš Novák",
+      "Marek Vodička"
+    ],
+    "date": "2026-06-12T07:52:57.707316+00:00"
+  },
+  {
+    "title": "Kazuistiky v oftalmologii",
+    "url": "https://www.kosmas.cz/knihy/569743/kazuistiky-v-oftalmologii/",
+    "description": "Kazuistiky v oftalmologii - Pavel Studený",
+    "authors": [
+      "Pavel Studený"
+    ],
+    "date": "2026-06-12T07:52:56.707316+00:00"
+  },
+  {
+    "title": "Dopravní letadla",
+    "url": "https://www.kosmas.cz/knihy/569854/dopravni-letadla/",
+    "description": "Dopravní letadla - Edward Ward",
+    "authors": [
+      "Edward Ward"
+    ],
+    "date": "2026-06-12T07:52:55.707316+00:00"
+  },
+  {
+    "title": "Zavařování s bylinkami a kořením",
+    "url": "https://www.kosmas.cz/knihy/569855/zavarovani-s-bylinkami-a-korenim/",
+    "description": "Zavařování s bylinkami a kořením",
+    "authors": [],
+    "date": "2026-06-12T07:52:54.707316+00:00"
+  },
+  {
+    "title": "Čs. armáda 1918–1939",
+    "url": "https://www.kosmas.cz/knihy/569856/cs.-armada-1918-1939/",
+    "description": "Čs. armáda 1918–1939 - Ivan Fuksa",
+    "authors": [
+      "Ivan Fuksa"
+    ],
+    "date": "2026-06-12T07:52:53.707316+00:00"
+  },
+  {
+    "title": "Žena přes palubu",
+    "url": "https://www.kosmas.cz/knihy/565338/zena-pres-palubu/",
+    "description": "Žena přes palubu - Portia MacIntosh",
+    "authors": [
+      "Portia MacIntosh"
+    ],
+    "date": "2026-06-12T07:52:51.707316+00:00"
+  },
+  {
+    "title": "Art & Antiques 6/2026",
+    "url": "https://www.kosmas.cz/knihy/563299/art-antiques-6-2026/",
+    "description": "Art & Antiques 6/2026",
+    "authors": [],
+    "date": "2026-06-12T07:52:50.707316+00:00"
+  },
+  {
     "title": "Dej mi pokoj",
     "url": "https://www.kosmas.cz/knihy/569878/dej-mi-pokoj/",
     "description": "Dej mi pokoj - Petra Štarková",
@@ -1637,177 +1806,5 @@
       "Donna Alwaed"
     ],
     "date": "2026-05-30T07:13:16.201236+00:00"
-  },
-  {
-    "title": "Informační žurnalistika",
-    "url": "https://www.kosmas.cz/knihy/569495/informacni-zurnalistika/",
-    "description": "Informační žurnalistika - Jaroslav Čuřík",
-    "authors": [
-      "Jaroslav Čuřík"
-    ],
-    "date": "2026-05-30T07:13:15.201236+00:00"
-  },
-  {
-    "title": "Je středověk moderní?",
-    "url": "https://www.kosmas.cz/knihy/569496/je-stredovek-moderni/",
-    "description": "Je středověk moderní? - Ivan Foletti, Karolina Foletti, Kateřina Jůzlová",
-    "authors": [
-      "Ivan Foletti",
-      "Karolina Foletti",
-      "Kateřina Jůzlová"
-    ],
-    "date": "2026-05-30T07:13:14.201236+00:00"
-  },
-  {
-    "title": "Když máte co říct",
-    "url": "https://www.kosmas.cz/knihy/569497/kdyz-mate-co-rict/",
-    "description": "Když máte co říct - Petr Holík, Ingrid Procházková, Petr Sucháček, Hana Tesák Vrtala",
-    "authors": [
-      "Petr Holík",
-      "Ingrid Procházková",
-      "Petr Sucháček",
-      "Hana Tesák Vrtala"
-    ],
-    "date": "2026-05-30T07:13:13.201236+00:00"
-  },
-  {
-    "title": "Co dělá jed jedem",
-    "url": "https://www.kosmas.cz/knihy/569544/co-dela-jed-jedem/",
-    "description": "Co dělá jed jedem - Igor Linhart",
-    "authors": [
-      "Igor Linhart"
-    ],
-    "date": "2026-05-30T07:13:12.201236+00:00"
-  },
-  {
-    "title": "Stachanovec in Space 3",
-    "url": "https://www.kosmas.cz/knihy/569573/stachanovec-in-space-3/",
-    "description": "Stachanovec in Space 3 - Blażej Kurowski",
-    "authors": [
-      "Blażej Kurowski"
-    ],
-    "date": "2026-05-30T07:13:11.201236+00:00"
-  },
-  {
-    "title": "Případ Aleny Struskové",
-    "url": "https://www.kosmas.cz/knihy/569590/pripad-aleny-struskove/",
-    "description": "Případ Aleny Struskové - Petr Eidler",
-    "authors": [
-      "Petr Eidler"
-    ],
-    "date": "2026-05-30T07:13:10.201236+00:00"
-  },
-  {
-    "title": "Tajemství řádu arboriánů",
-    "url": "https://www.kosmas.cz/knihy/569116/tajemstvi-radu-arborianu/",
-    "description": "Tajemství řádu arboriánů - Ivan Bauer",
-    "authors": [
-      "Ivan Bauer"
-    ],
-    "date": "2026-05-29T07:36:01.122135+00:00"
-  },
-  {
-    "title": "Na tenkém ledě",
-    "url": "https://www.kosmas.cz/knihy/569606/na-tenkem-lede/",
-    "description": "Na tenkém ledě - Michael Connelly",
-    "authors": [
-      "Michael Connelly"
-    ],
-    "date": "2026-05-29T07:36:00.122135+00:00"
-  },
-  {
-    "title": "Lenka Reinerová — Nekonečná přátelství",
-    "url": "https://www.kosmas.cz/knihy/568554/lenka-reinerova-nekonecna-pratelstvi/",
-    "description": "Lenka Reinerová — Nekonečná přátelství - Viera Glosíková",
-    "authors": [
-      "Viera Glosíková"
-    ],
-    "date": "2026-05-29T07:35:59.122135+00:00"
-  },
-  {
-    "title": "Sedím na okraji planiny a dívám se dolů na moře",
-    "url": "https://www.kosmas.cz/knihy/569114/sedim-na-okraji-planiny-a-divam-se-dolu-na-more/",
-    "description": "Sedím na okraji planiny a dívám se dolů na moře - Jiří Pauzar",
-    "authors": [
-      "Jiří Pauzar"
-    ],
-    "date": "2026-05-29T07:35:58.122135+00:00"
-  },
-  {
-    "title": "Krátké příběhy pro velký případ",
-    "url": "https://www.kosmas.cz/knihy/568463/kratke-pribehy-pro-velky-pripad/",
-    "description": "Krátké příběhy pro velký případ - Tomáš Rozsypálek",
-    "authors": [
-      "Tomáš Rozsypálek"
-    ],
-    "date": "2026-05-29T07:35:57.122135+00:00"
-  },
-  {
-    "title": "Něco z Pišty",
-    "url": "https://www.kosmas.cz/knihy/568468/neco-z-pisty/",
-    "description": "Něco z Pišty - Roman Fiala",
-    "authors": [
-      "Roman Fiala"
-    ],
-    "date": "2026-05-29T07:35:56.122135+00:00"
-  },
-  {
-    "title": "Poslední vzdor",
-    "url": "https://www.kosmas.cz/knihy/568593/posledni-vzdor/",
-    "description": "Poslední vzdor - Anna Foster, Richard Otec",
-    "authors": [
-      "Anna Foster",
-      "Richard Otec"
-    ],
-    "date": "2026-05-29T07:35:55.122135+00:00"
-  },
-  {
-    "title": "Sociologie hudby",
-    "url": "https://www.kosmas.cz/knihy/568662/sociologie-hudby/",
-    "description": "Sociologie hudby - Andy Bennett, Raphaël Nowak",
-    "authors": [
-      "Andy Bennett",
-      "Raphaël Nowak"
-    ],
-    "date": "2026-05-29T07:35:54.122135+00:00"
-  },
-  {
-    "title": "Válečné hry",
-    "url": "https://www.kosmas.cz/knihy/569072/valecne-hry/",
-    "description": "Válečné hry - Jan Kotouč",
-    "authors": [
-      "Jan Kotouč"
-    ],
-    "date": "2026-05-29T07:35:53.122135+00:00"
-  },
-  {
-    "title": "Sex",
-    "url": "https://www.kosmas.cz/knihy/569133/sex/",
-    "description": "Sex - Ondřej Trojan",
-    "authors": [
-      "Ondřej Trojan"
-    ],
-    "date": "2026-05-29T07:35:52.122135+00:00"
-  },
-  {
-    "title": "Samolepková knížka Příroda",
-    "url": "https://www.kosmas.cz/knihy/569344/samolepkova-knizka-priroda/",
-    "description": "Samolepková knížka Příroda",
-    "authors": [],
-    "date": "2026-05-29T07:35:51.122135+00:00"
-  },
-  {
-    "title": "Samolepková knížka Biblické příběhy",
-    "url": "https://www.kosmas.cz/knihy/569345/samolepkova-knizka-biblicke-pribehy/",
-    "description": "Samolepková knížka Biblické příběhy",
-    "authors": [],
-    "date": "2026-05-29T07:35:50.122135+00:00"
-  },
-  {
-    "title": "Samolepková knížka Koně",
-    "url": "https://www.kosmas.cz/knihy/569346/samolepkova-knizka-kone/",
-    "description": "Samolepková knížka Koně",
-    "authors": [],
-    "date": "2026-05-29T07:35:49.122135+00:00"
   }
 ]
