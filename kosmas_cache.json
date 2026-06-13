@@ -1,5 +1,114 @@
 [
   {
+    "title": "Mysterium cosmographicum",
+    "url": "https://www.kosmas.cz/knihy/568802/mysterium-cosmographicum/",
+    "description": "Mysterium cosmographicum - Johannes Kepler",
+    "authors": [
+      "Johannes Kepler"
+    ],
+    "date": "2026-06-13T07:31:22.742331+00:00"
+  },
+  {
+    "title": "Bouře ve sklenici",
+    "url": "https://www.kosmas.cz/knihy/568820/boure-ve-sklenici/",
+    "description": "Bouře ve sklenici - Catherine Mann",
+    "authors": [
+      "Catherine Mann"
+    ],
+    "date": "2026-06-13T07:31:21.742331+00:00"
+  },
+  {
+    "title": "Cizinec v jarním vánku 3",
+    "url": "https://www.kosmas.cz/knihy/569025/cizinec-v-jarnim-vanku-3/",
+    "description": "Cizinec v jarním vánku 3 - Kanna Kii",
+    "authors": [
+      "Kanna Kii"
+    ],
+    "date": "2026-06-13T07:31:20.742331+00:00"
+  },
+  {
+    "title": "Minecraft manga: Cesta na konec světa 1",
+    "url": "https://www.kosmas.cz/knihy/569873/minecraft-manga-cesta-na-konec-sveta-1/",
+    "description": "Minecraft manga: Cesta na konec světa 1 - Tazujoši Seto",
+    "authors": [
+      "Tazujoši Seto"
+    ],
+    "date": "2026-06-13T07:31:19.742331+00:00"
+  },
+  {
+    "title": "Aargh! 25",
+    "url": "https://www.kosmas.cz/knihy/570067/aargh-25/",
+    "description": "Aargh! 25 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-13T07:31:13.742331+00:00"
+  },
+  {
+    "title": "Pokoj v barvách štěstí: Detektiv na scestí 1",
+    "url": "https://www.kosmas.cz/knihy/570072/pokoj-v-barvach-stesti-detektiv-na-scesti-1/",
+    "description": "Pokoj v barvách štěstí: Detektiv na scestí 1 - Hakuri",
+    "authors": [
+      "Hakuri"
+    ],
+    "date": "2026-06-13T07:31:12.742331+00:00"
+  },
+  {
+    "title": "Ďábel v detailu 1",
+    "url": "https://www.kosmas.cz/knihy/570074/dabel-v-detailu-1/",
+    "description": "Ďábel v detailu 1 - Stjepan Šejić",
+    "authors": [
+      "Stjepan Šejić"
+    ],
+    "date": "2026-06-13T07:31:11.742331+00:00"
+  },
+  {
+    "title": "Zaklínač: Medvěd a motýl",
+    "url": "https://www.kosmas.cz/knihy/570081/zaklinac-medved-a-motyl/",
+    "description": "Zaklínač: Medvěd a motýl - Simon Spurrier",
+    "authors": [
+      "Simon Spurrier"
+    ],
+    "date": "2026-06-13T07:31:10.742331+00:00"
+  },
+  {
+    "title": "Simpsonovi 6/2026",
+    "url": "https://www.kosmas.cz/knihy/570086/simpsonovi-6-2026/",
+    "description": "Simpsonovi 6/2026 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-13T07:31:09.742331+00:00"
+  },
+  {
+    "title": "Jak jsem se reinkarnoval coby sliz 17",
+    "url": "https://www.kosmas.cz/knihy/569599/jak-jsem-se-reinkarnoval-coby-sliz-17/",
+    "description": "Jak jsem se reinkarnoval coby sliz 17 - Fuse, Taiki Kawakami",
+    "authors": [
+      "Fuse",
+      "Taiki Kawakami"
+    ],
+    "date": "2026-06-13T07:31:07.742331+00:00"
+  },
+  {
+    "title": "Supergirl: Dívka z Kryptonu",
+    "url": "https://www.kosmas.cz/knihy/569692/supergirl-divka-z-kryptonu/",
+    "description": "Supergirl: Dívka z Kryptonu - Jeph Loeb",
+    "authors": [
+      "Jeph Loeb"
+    ],
+    "date": "2026-06-13T07:31:05.742331+00:00"
+  },
+  {
+    "title": "Maškaráda géniů",
+    "url": "https://www.kosmas.cz/knihy/568542/maskarada-geniu/",
+    "description": "Maškaráda géniů - Fritz von Herzmanovsky-Orlando",
+    "authors": [
+      "Fritz von Herzmanovsky-Orlando"
+    ],
+    "date": "2026-06-13T07:31:03.742331+00:00"
+  },
+  {
     "title": "Bílá vrána",
     "url": "https://www.kosmas.cz/knihy/569990/bila-vrana/",
     "description": "Bílá vrána - Michael Robotham",
@@ -1694,117 +1803,5 @@
       "Michaela Červenková"
     ],
     "date": "2026-05-31T07:31:07.557523+00:00"
-  },
-  {
-    "title": "Okouzlující lháři",
-    "url": "https://www.kosmas.cz/knihy/566293/okouzlujici-lhari/",
-    "description": "Okouzlující lháři - Karen M. McManusová",
-    "authors": [
-      "Karen M. McManusová"
-    ],
-    "date": "2026-05-31T07:31:06.557523+00:00"
-  },
-  {
-    "title": "Kočičí přátelství - Matýsek",
-    "url": "https://www.kosmas.cz/knihy/568393/kocici-pratelstvi-matysek/",
-    "description": "Kočičí přátelství - Matýsek - Martina Boučková",
-    "authors": [
-      "Martina Boučková"
-    ],
-    "date": "2026-05-30T07:13:27.201236+00:00"
-  },
-  {
-    "title": "Intestinální rehabilitace, transplantace a související výkony",
-    "url": "https://www.kosmas.cz/knihy/568397/intestinalni-rehabilitace-transplantace-a-souvisejici-vykony/",
-    "description": "Intestinální rehabilitace, transplantace a související výkony - Jiří Froněk, Michal Kudla, Petr Wohl, kolektiv",
-    "authors": [
-      "Jiří Froněk",
-      "Michal Kudla",
-      "Petr Wohl",
-      "kolektiv"
-    ],
-    "date": "2026-05-30T07:13:26.201236+00:00"
-  },
-  {
-    "title": "Probuzení do bohatství",
-    "url": "https://www.kosmas.cz/knihy/568450/probuzeni-do-bohatstvi/",
-    "description": "Probuzení do bohatství - Ivana Kolbabová, Kamila Linhartová",
-    "authors": [
-      "Ivana Kolbabová",
-      "Kamila Linhartová"
-    ],
-    "date": "2026-05-30T07:13:25.201236+00:00"
-  },
-  {
-    "title": "Šenovka",
-    "url": "https://www.kosmas.cz/knihy/568500/senovka/",
-    "description": "Šenovka - Bohumil Augusta",
-    "authors": [
-      "Bohumil Augusta"
-    ],
-    "date": "2026-05-30T07:13:24.201236+00:00"
-  },
-  {
-    "title": "O pevném stisku koaly",
-    "url": "https://www.kosmas.cz/knihy/568562/o-pevnem-stisku-koaly/",
-    "description": "O pevném stisku koaly - Michaela Váňová",
-    "authors": [
-      "Michaela Váňová"
-    ],
-    "date": "2026-05-30T07:13:22.201236+00:00"
-  },
-  {
-    "title": "Zakázaná láska",
-    "url": "https://www.kosmas.cz/knihy/568565/zakazana-laska/",
-    "description": "Zakázaná láska - Ann Penny",
-    "authors": [
-      "Ann Penny"
-    ],
-    "date": "2026-05-30T07:13:21.201236+00:00"
-  },
-  {
-    "title": "Černé tajemství",
-    "url": "https://www.kosmas.cz/knihy/568666/cerne-tajemstvi/",
-    "description": "Černé tajemství - Eugen Gomringer",
-    "authors": [
-      "Eugen Gomringer"
-    ],
-    "date": "2026-05-30T07:13:20.201236+00:00"
-  },
-  {
-    "title": "Příběhy lesní partičky",
-    "url": "https://www.kosmas.cz/knihy/569245/pribehy-lesni-particky/",
-    "description": "Příběhy lesní partičky - Skakunovi & Zindulka",
-    "authors": [
-      "Skakunovi & Zindulka"
-    ],
-    "date": "2026-05-30T07:13:19.201236+00:00"
-  },
-  {
-    "title": "Tajemství čůrání a kakání",
-    "url": "https://www.kosmas.cz/knihy/569393/tajemstvi-curani-a-kakani/",
-    "description": "Tajemství čůrání a kakání - Mariona Sisteré Tolosa",
-    "authors": [
-      "Mariona Sisteré Tolosa"
-    ],
-    "date": "2026-05-30T07:13:18.201236+00:00"
-  },
-  {
-    "title": "Kardinál Richelieu",
-    "url": "https://www.kosmas.cz/knihy/569398/kardinal-richelieu/",
-    "description": "Kardinál Richelieu - Jiří Kovařík",
-    "authors": [
-      "Jiří Kovařík"
-    ],
-    "date": "2026-05-30T07:13:17.201236+00:00"
-  },
-  {
-    "title": "Tajemství sídla Blackberry Hill",
-    "url": "https://www.kosmas.cz/knihy/569323/tajemstvi-sidla-blackberry-hill/",
-    "description": "Tajemství sídla Blackberry Hill - Donna Alwaed",
-    "authors": [
-      "Donna Alwaed"
-    ],
-    "date": "2026-05-30T07:13:16.201236+00:00"
   }
 ]

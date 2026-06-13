@@ -5,6 +5,45 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-13 07:31:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 12
+
+**Tituly nových položek:**
+
+1. Mysterium cosmographicum
+2. Bouře ve sklenici
+3. Cizinec v jarním vánku 3
+4. Minecraft manga: Cesta na konec světa 1
+5. Aargh! 25
+6. Pokoj v barvách štěstí: Detektiv na scestí 1
+7. Ďábel v detailu 1
+8. Zaklínač: Medvěd a motýl
+9. Simpsonovi 6/2026
+10. Jak jsem se reinkarnoval coby sliz 17
+11. Supergirl: Dívka z Kryptonu
+12. Maškaráda géniů
+
+---
+
+## 🕐 2026-06-13 07:31:20 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Svět jedinečností
+
+---
+
 ## 🕐 2026-06-12 07:53:09 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,51 +283,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-06 07:16:38 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Umění a jeho objekty
-2. Eliška Andílek
-3. Lustig: Svědek rozvratu lidskosti
-4. Cesty ke svobodě
-5. Asterix 41 - Asterix v Lusitánii
-6. Stitch - Kuchařka
-7. Minipivovary Pexeso
-8. Špionská mise
-9. Synagogy v Čechách
-10. W.I.T.C.H. Komiks 28-30
-11. Dua Lipa (Live From Mexico)
-12. Doba Ježíše Nazaretského
-13. Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů
-14. Krušnohorský poutník
-15. Na Závisti
-16. Smyčka
-17. Originální textilní techniky
-18. Tisk a razítkování pro malé i velké
-
----
-
-## 🕐 2026-06-06 07:16:37 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Pokřivená realita
 
 ---
 
