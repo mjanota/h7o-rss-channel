@@ -1,5 +1,50 @@
 [
   {
+    "title": "Metoda fluxí a nekonečných řad",
+    "url": "https://www.kosmas.cz/knihy/569315/metoda-fluxi-a-nekonecnych-rad/",
+    "description": "Metoda fluxí a nekonečných řad - Isaac Newton",
+    "authors": [
+      "Isaac Newton"
+    ],
+    "date": "2026-06-14T07:49:32.982686+00:00"
+  },
+  {
+    "title": "Stránka nenalezena",
+    "url": "https://www.kosmas.cz/knihy/570173/stranka-nenalezena/",
+    "description": "Stránka nenalezena - Anna Gruver",
+    "authors": [
+      "Anna Gruver"
+    ],
+    "date": "2026-06-14T07:49:22.982686+00:00"
+  },
+  {
+    "title": "Proč mozek potřebuje přátele",
+    "url": "https://www.kosmas.cz/knihy/570188/proc-mozek-potrebuje-pratele/",
+    "description": "Proč mozek potřebuje přátele - Ben Rein",
+    "authors": [
+      "Ben Rein"
+    ],
+    "date": "2026-06-14T07:49:21.982686+00:00"
+  },
+  {
+    "title": "V srdci Střední Asie",
+    "url": "https://www.kosmas.cz/knihy/563638/v-srdci-stredni-asie/",
+    "description": "V srdci Střední Asie - Nikola Hrušková",
+    "authors": [
+      "Nikola Hrušková"
+    ],
+    "date": "2026-06-14T07:49:17.982686+00:00"
+  },
+  {
+    "title": "Masky bohů 3 - Mýty Západu",
+    "url": "https://www.kosmas.cz/knihy/563641/masky-bohu-3-myty-zapadu/",
+    "description": "Masky bohů 3 - Mýty Západu - Joseph Campbell",
+    "authors": [
+      "Joseph Campbell"
+    ],
+    "date": "2026-06-14T07:49:16.982686+00:00"
+  },
+  {
     "title": "Mysterium cosmographicum",
     "url": "https://www.kosmas.cz/knihy/568802/mysterium-cosmographicum/",
     "description": "Mysterium cosmographicum - Johannes Kepler",
@@ -1757,51 +1802,5 @@
       "Virginia Roberts Guiffre"
     ],
     "date": "2026-05-31T07:31:12.557523+00:00"
-  },
-  {
-    "title": "Démonova kletba",
-    "url": "https://www.kosmas.cz/knihy/569642/demonova-kletba/",
-    "description": "Démonova kletba - Dan Abnett, Mike Lee",
-    "authors": [
-      "Dan Abnett",
-      "Mike Lee"
-    ],
-    "date": "2026-05-31T07:31:11.557523+00:00"
-  },
-  {
-    "title": "00 Rules for Business Success",
-    "url": "https://www.kosmas.cz/knihy/569645/00-rules-for-business-success/",
-    "description": "00 Rules for Business Success - Pavel Hrejsemnou",
-    "authors": [
-      "Pavel Hrejsemnou"
-    ],
-    "date": "2026-05-31T07:31:10.557523+00:00"
-  },
-  {
-    "title": "Třetí dívka",
-    "url": "https://www.kosmas.cz/knihy/566019/treti-divka/",
-    "description": "Třetí dívka - Agatha Christie",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "date": "2026-05-31T07:31:09.557523+00:00"
-  },
-  {
-    "title": "Růže v okovech",
-    "url": "https://www.kosmas.cz/knihy/569649/ruze-v-okovech/",
-    "description": "Růže v okovech - Julie Soto",
-    "authors": [
-      "Julie Soto"
-    ],
-    "date": "2026-05-31T07:31:08.557523+00:00"
-  },
-  {
-    "title": "Co když to vyjde?",
-    "url": "https://www.kosmas.cz/knihy/566211/co-kdyz-to-vyjde/",
-    "description": "Co když to vyjde? - Michaela Červenková",
-    "authors": [
-      "Michaela Červenková"
-    ],
-    "date": "2026-05-31T07:31:07.557523+00:00"
   }
 ]

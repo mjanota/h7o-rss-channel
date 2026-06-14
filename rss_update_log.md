@@ -5,6 +5,34 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-14 07:49:32 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 5
+
+**Tituly nových položek:**
+
+1. Metoda fluxí a nekonečných řad
+2. Stránka nenalezena
+3. Proč mozek potřebuje přátele
+4. V srdci Střední Asie
+5. Masky bohů 3 - Mýty Západu
+
+---
+
+## 🕐 2026-06-14 07:49:31 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-13 07:31:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -247,42 +275,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Přesně tu měkkost
-
----
-
-## 🕐 2026-06-07 07:37:08 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Hoří ti táta
-2. Průvodce bolestmi hlavy pro praktické lékaře
-3. Fantasy povídky z druhé galaxie
-4. Pohádky do nemocniční postýlky
-5. Řím - Poznejte
-6. Karel Koutský - Fotografie
-7. Svět kolem tebe Pexeso
-8. Dostihy a sázky Pexeso
-9. Kvizour Párty hra
-10. Pavel z Tarsu a jeho svět
-11. Velvet Blues
-12. Srdce a šíp
-13. Generační konflikt
-
----
-
-## 🕐 2026-06-07 07:37:07 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

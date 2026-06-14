@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 13 Jun 2026 07:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:49:32 +0000</lastBuildDate>
+    <item>
+      <title>Metoda fluxí a nekonečných řad</title>
+      <link>https://www.kosmas.cz/knihy/569315/metoda-fluxi-a-nekonecnych-rad/</link>
+      <description>Metoda fluxí a nekonečných řad - Isaac Newton</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569315/metoda-fluxi-a-nekonecnych-rad/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:49:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stránka nenalezena</title>
+      <link>https://www.kosmas.cz/knihy/570173/stranka-nenalezena/</link>
+      <description>Stránka nenalezena - Anna Gruver</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570173/stranka-nenalezena/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:49:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proč mozek potřebuje přátele</title>
+      <link>https://www.kosmas.cz/knihy/570188/proc-mozek-potrebuje-pratele/</link>
+      <description>Proč mozek potřebuje přátele - Ben Rein</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570188/proc-mozek-potrebuje-pratele/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:49:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>V srdci Střední Asie</title>
+      <link>https://www.kosmas.cz/knihy/563638/v-srdci-stredni-asie/</link>
+      <description>V srdci Střední Asie - Nikola Hrušková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563638/v-srdci-stredni-asie/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masky bohů 3 - Mýty Západu</title>
+      <link>https://www.kosmas.cz/knihy/563641/masky-bohu-3-myty-zapadu/</link>
+      <description>Masky bohů 3 - Mýty Západu - Joseph Campbell</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563641/masky-bohu-3-myty-zapadu/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:49:16 +0000</pubDate>
+    </item>
     <item>
       <title>Mysterium cosmographicum</title>
       <link>https://www.kosmas.cz/knihy/568802/mysterium-cosmographicum/</link>
@@ -672,41 +707,6 @@
       <description>Dostihy a sázky Pexeso</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/569851/dostihy-a-sazky-pexeso/</guid>
       <pubDate>Sun, 07 Jun 2026 07:36:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kvizour Párty hra</title>
-      <link>https://www.kosmas.cz/knihy/569853/kvizour-party-hra/</link>
-      <description>Kvizour Párty hra - Zbyněk Otáhal, Štěpán Peterka, Michal Trávníček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569853/kvizour-party-hra/</guid>
-      <pubDate>Sun, 07 Jun 2026 07:36:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pavel z Tarsu a jeho svět</title>
-      <link>https://www.kosmas.cz/knihy/569292/pavel-z-tarsu-a-jeho-svet/</link>
-      <description>Pavel z Tarsu a jeho svět - Mireia Ryšková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569292/pavel-z-tarsu-a-jeho-svet/</guid>
-      <pubDate>Sun, 07 Jun 2026 07:36:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velvet Blues</title>
-      <link>https://www.kosmas.cz/knihy/568701/velvet-blues/</link>
-      <description>Velvet Blues - Karolína Ryvolová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568701/velvet-blues/</guid>
-      <pubDate>Sun, 07 Jun 2026 07:36:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Srdce a šíp</title>
-      <link>https://www.kosmas.cz/knihy/569904/srdce-a-sip/</link>
-      <description>Srdce a šíp - Frost Kay</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569904/srdce-a-sip/</guid>
-      <pubDate>Sun, 07 Jun 2026 07:36:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generační konflikt</title>
-      <link>https://www.kosmas.cz/knihy/569905/generacni-konflikt/</link>
-      <description>Generační konflikt - Petr Honzejk</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569905/generacni-konflikt/</guid>
-      <pubDate>Sun, 07 Jun 2026 07:36:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
