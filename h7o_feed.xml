@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 14 Jun 2026 07:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 08:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Výhody obrazového vyprávění: Český komiks míří do Frankfurtu</title>
+      <link>https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu</link>
+      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současném českém komiksu.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Svět jedinečností</title>
       <link>https://www.h7o.cz/clanky/14550-svet-jedinecnosti</link>
@@ -427,13 +434,6 @@
       <description>Moltbook je sociální síť pro AI. Platforma plná botů vznikla částečně jako experiment, minulý týden ji však koupila společnost Meta. Technologické firmy ze Silicon Valley tak zjevně nechtějí prostřednictvím AI nahradit jen pracovní sílu, ale rovněž žvanily ze sociálních sítí.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Svazky Knižnice nevznikají ve vzduchoprázdnu</title>
-      <link>https://www.h7o.cz/clanky/14471-svazky-kniznice-nevznikaji-ve-vzduchoprazdnu</link>
-      <description>Na začátku roku vyšel v edici Česká knižnice svazek próz pražského německého spisovatele Ludwiga Windera. Jedná se o první knihu německého autora tvořícího na českém území, jež v České knižnici vychází. O tom, jak se Česká knižnice proměňuje, hovoříme s členem redakční rady Pavlem Janáčkem.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14471-svazky-kniznice-nevznikaji-ve-vzduchoprazdnu</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

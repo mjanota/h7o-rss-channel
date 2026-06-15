@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-15 08:20:34 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Až tě zabiju
+2. Království tak prokleté a prázdné
+3. Cestuj s Veru
+4. Live 80
+5. Sirota z Manhattanu
+6. Osvícení
+7. Volání po vzpouře
+8. Barvy mého Londýna
+
+---
+
+## 🕐 2026-06-15 08:20:33 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Výhody obrazového vyprávění: Český komiks míří do Frankfurtu
+
+---
+
 ## 🕐 2026-06-14 07:49:32 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,37 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. In case of emergency, wake me up
-
----
-
-## 🕐 2026-06-08 08:02:27 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 4
-
-**Tituly nových položek:**
-
-1. Lisabon - Poznejte
-2. Podrobná gramatika turečtiny
-3. Maroko - Cesty divočinou
-4. BTS: Megahvězdy K-popu
-
----
-
-## 🕐 2026-06-08 08:02:25 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Přesně tu měkkost
 
 ---
 

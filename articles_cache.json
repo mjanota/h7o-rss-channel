@@ -1,13 +1,5 @@
 [
   {
-    "title": "Svazky Knižnice nevznikají ve vzduchoprázdnu",
-    "url": "https://www.h7o.cz/clanky/14471-svazky-kniznice-nevznikaji-ve-vzduchoprazdnu",
-    "description": "Na začátku roku vyšel v edici Česká knižnice svazek próz pražského německého spisovatele Ludwiga Windera. Jedná se o první knihu německého autora tvořícího na českém území, jež v České knižnici vychází. O tom, jak se Česká knižnice proměňuje, hovoříme s členem redakční rady Pavlem Janáčkem.",
-    "date": "2026-03-17T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "rozhovor"
-  },
-  {
     "title": "Člověku zbývá voyeurství",
     "url": "https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi",
     "description": "Moltbook je sociální síť pro AI. Platforma plná botů vznikla částečně jako experiment, minulý týden ji však koupila společnost Meta. Technologické firmy ze Silicon Valley tak zjevně nechtějí prostřednictvím AI nahradit jen pracovní sílu, ale rovněž žvanily ze sociálních sítí.",
@@ -486,5 +478,13 @@
     "date": "2026-06-12T00:00:00",
     "author": "Jan Géryk",
     "category": "recenze"
+  },
+  {
+    "title": "Výhody obrazového vyprávění: Český komiks míří do Frankfurtu",
+    "url": "https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současném českém komiksu.",
+    "date": "2026-06-15T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]
