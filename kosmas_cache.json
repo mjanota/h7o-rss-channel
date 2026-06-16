@@ -1,5 +1,165 @@
 [
   {
+    "title": "Zakynthos - Průvodce do kapsy",
+    "url": "https://www.kosmas.cz/knihy/554798/zakynthos-pruvodce-do-kapsy/",
+    "description": "Zakynthos - Průvodce do kapsy - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-16T08:12:30.240699+00:00"
+  },
+  {
+    "title": "Průvodce sebekoučinkem",
+    "url": "https://www.kosmas.cz/knihy/569295/pruvodce-sebekoucinkem/",
+    "description": "Průvodce sebekoučinkem - Janka Kosecová",
+    "authors": [
+      "Janka Kosecová"
+    ],
+    "date": "2026-06-16T08:12:29.240699+00:00"
+  },
+  {
+    "title": "Dokud nebudeme mít Kristovu podobu",
+    "url": "https://www.kosmas.cz/knihy/569520/dokud-nebudeme-mit-kristovu-podobu/",
+    "description": "Dokud nebudeme mít Kristovu podobu - Karel Šimr",
+    "authors": [
+      "Karel Šimr"
+    ],
+    "date": "2026-06-16T08:12:28.240699+00:00"
+  },
+  {
+    "title": "ArtMill",
+    "url": "https://www.kosmas.cz/knihy/569786/artmill/",
+    "description": "ArtMill - Barbara Benish",
+    "authors": [
+      "Barbara Benish"
+    ],
+    "date": "2026-06-16T08:12:27.240699+00:00"
+  },
+  {
+    "title": "Hrot tužky",
+    "url": "https://www.kosmas.cz/knihy/569817/hrot-tuzky/",
+    "description": "Hrot tužky - Barbora Müllerová",
+    "authors": [
+      "Barbora Müllerová"
+    ],
+    "date": "2026-06-16T08:12:26.240699+00:00"
+  },
+  {
+    "title": "Maska jako zrcadlo",
+    "url": "https://www.kosmas.cz/knihy/569857/maska-jako-zrcadlo/",
+    "description": "Maska jako zrcadlo",
+    "authors": [],
+    "date": "2026-06-16T08:12:25.240699+00:00"
+  },
+  {
+    "title": "Zaměněná písmena",
+    "url": "https://www.kosmas.cz/knihy/569860/zamenena-pismena/",
+    "description": "Zaměněná písmena - Vlastimil Strnad, Lucie Strnadová",
+    "authors": [
+      "Vlastimil Strnad",
+      "Lucie Strnadová"
+    ],
+    "date": "2026-06-16T08:12:24.240699+00:00"
+  },
+  {
+    "title": "City v nádobách",
+    "url": "https://www.kosmas.cz/knihy/569942/city-v-nadobach/",
+    "description": "City v nádobách - Ondřej Chlubna",
+    "authors": [
+      "Ondřej Chlubna"
+    ],
+    "date": "2026-06-16T08:12:23.240699+00:00"
+  },
+  {
+    "title": "Cestuj s Veru",
+    "url": "https://www.kosmas.cz/knihy/568617/cestuj-s-veru/",
+    "description": "Cestuj s Veru - Veronika Válková",
+    "authors": [
+      "Veronika Válková"
+    ],
+    "date": "2026-06-16T08:12:22.240699+00:00"
+  },
+  {
+    "title": "Monstrózní mašiny",
+    "url": "https://www.kosmas.cz/knihy/570015/monstrozni-masiny/",
+    "description": "Monstrózní mašiny - Lucas Riera, Gemma Pérez Herrero",
+    "authors": [
+      "Lucas Riera",
+      "Gemma Pérez Herrero"
+    ],
+    "date": "2026-06-16T08:12:21.240699+00:00"
+  },
+  {
+    "title": "Praha. Centrum pod lupou",
+    "url": "https://www.kosmas.cz/knihy/570159/praha.-centrum-pod-lupou/",
+    "description": "Praha. Centrum pod lupou",
+    "authors": [],
+    "date": "2026-06-16T08:12:20.240699+00:00"
+  },
+  {
+    "title": "Její poslední slza",
+    "url": "https://www.kosmas.cz/knihy/570186/jeji-posledni-slza/",
+    "description": "Její poslední slza - Stacy Green",
+    "authors": [
+      "Stacy Green"
+    ],
+    "date": "2026-06-16T08:12:19.240699+00:00"
+  },
+  {
+    "title": "Kurýr z planety Země",
+    "url": "https://www.kosmas.cz/knihy/570250/kuryr-z-planety-zeme/",
+    "description": "Kurýr z planety Země - Klára Smolíková",
+    "authors": [
+      "Klára Smolíková"
+    ],
+    "date": "2026-06-16T08:12:16.240699+00:00"
+  },
+  {
+    "title": "Marek Dvořák: Už letím",
+    "url": "https://www.kosmas.cz/knihy/569396/marek-dvorak-uz-letim/",
+    "description": "Marek Dvořák: Už letím - Martin Moravec",
+    "authors": [
+      "Martin Moravec"
+    ],
+    "date": "2026-06-16T08:12:15.240699+00:00"
+  },
+  {
+    "title": "Odyssea našich osudů",
+    "url": "https://www.kosmas.cz/knihy/569578/odyssea-nasich-osudu/",
+    "description": "Odyssea našich osudů - Sam Akbarová",
+    "authors": [
+      "Sam Akbarová"
+    ],
+    "date": "2026-06-16T08:12:14.240699+00:00"
+  },
+  {
+    "title": "Ohořelá mysl",
+    "url": "https://www.kosmas.cz/knihy/569580/ohorela-mysl/",
+    "description": "Ohořelá mysl - Emma Ježková",
+    "authors": [
+      "Emma Ježková"
+    ],
+    "date": "2026-06-16T08:12:13.240699+00:00"
+  },
+  {
+    "title": "PÍSMENKOV - Veselá abeceda - Písmenka a básničky pro kluky a holčičky",
+    "url": "https://www.kosmas.cz/knihy/569693/pismenkov-vesela-abeceda-pismenka-a-basnicky-pro-kluky-a-holcicky/",
+    "description": "PÍSMENKOV - Veselá abeceda - Písmenka a básničky pro kluky a holčičky",
+    "authors": [],
+    "date": "2026-06-16T08:12:12.240699+00:00"
+  },
+  {
+    "title": "Kuliferda bude školákem",
+    "url": "https://www.kosmas.cz/knihy/569759/kuliferda-bude-skolakem/",
+    "description": "Kuliferda bude školákem - Hana Nádvorníková, Jana Pechancová, Noemi Žárská",
+    "authors": [
+      "Hana Nádvorníková",
+      "Jana Pechancová",
+      "Noemi Žárská"
+    ],
+    "date": "2026-06-16T08:12:11.240699+00:00"
+  },
+  {
     "title": "Až tě zabiju",
     "url": "https://www.kosmas.cz/knihy/566897/az-te-zabiju/",
     "description": "Až tě zabiju - B.A. Paris",
@@ -1642,168 +1802,5 @@
       "Mun Pekkjong"
     ],
     "date": "2026-06-03T07:58:13.932229+00:00"
-  },
-  {
-    "title": "The Boys Of Dungeon Lane",
-    "url": "https://www.kosmas.cz/knihy/569498/the-boys-of-dungeon-lane/",
-    "description": "The Boys Of Dungeon Lane - Paul McCartney",
-    "authors": [
-      "Paul McCartney"
-    ],
-    "date": "2026-06-02T07:54:55.320118+00:00"
-  },
-  {
-    "title": "Děti zla",
-    "url": "https://www.kosmas.cz/knihy/569502/deti-zla/",
-    "description": "Děti zla - Jeff Lemire",
-    "authors": [
-      "Jeff Lemire"
-    ],
-    "date": "2026-06-02T07:54:54.320118+00:00"
-  },
-  {
-    "title": "Myší hlídka: Zrození Černé sekery a další příběhy",
-    "url": "https://www.kosmas.cz/knihy/569504/mysi-hlidka-zrozeni-cerne-sekery-a-dalsi-pribehy/",
-    "description": "Myší hlídka: Zrození Černé sekery a další příběhy - David Petersen",
-    "authors": [
-      "David Petersen"
-    ],
-    "date": "2026-06-02T07:54:53.320118+00:00"
-  },
-  {
-    "title": "V Budkově",
-    "url": "https://www.kosmas.cz/knihy/569709/v-budkove/",
-    "description": "V Budkově - Zuzana Smatanová",
-    "authors": [
-      "Zuzana Smatanová"
-    ],
-    "date": "2026-06-02T07:54:49.320118+00:00"
-  },
-  {
-    "title": "Překvapení pod Andami",
-    "url": "https://www.kosmas.cz/knihy/569731/prekvapeni-pod-andami/",
-    "description": "Překvapení pod Andami - Melanie Milburneová",
-    "authors": [
-      "Melanie Milburneová"
-    ],
-    "date": "2026-06-02T07:54:48.320118+00:00"
-  },
-  {
-    "title": "Ten prsten není tvůj!",
-    "url": "https://www.kosmas.cz/knihy/569732/ten-prsten-neni-tvuj/",
-    "description": "Ten prsten není tvůj! - Daniela Čermáková",
-    "authors": [
-      "Daniela Čermáková"
-    ],
-    "date": "2026-06-02T07:54:47.320118+00:00"
-  },
-  {
-    "title": "Spiknutí v San Francisku",
-    "url": "https://www.kosmas.cz/knihy/569736/spiknuti-v-san-francisku/",
-    "description": "Spiknutí v San Francisku - Lucy Monroeová",
-    "authors": [
-      "Lucy Monroeová"
-    ],
-    "date": "2026-06-02T07:54:46.320118+00:00"
-  },
-  {
-    "title": "V paláci nepřítele",
-    "url": "https://www.kosmas.cz/knihy/569741/v-palaci-nepritele/",
-    "description": "V paláci nepřítele - Kim Lawrenceová",
-    "authors": [
-      "Kim Lawrenceová"
-    ],
-    "date": "2026-06-02T07:54:45.320118+00:00"
-  },
-  {
-    "title": "Dokáže ho zkrotit?",
-    "url": "https://www.kosmas.cz/knihy/569742/dokaze-ho-zkrotit/",
-    "description": "Dokáže ho zkrotit? - Maisey Yatesová",
-    "authors": [
-      "Maisey Yatesová"
-    ],
-    "date": "2026-06-02T07:54:44.320118+00:00"
-  },
-  {
-    "title": "Králové Avalieru - Nelítostný vílí král",
-    "url": "https://www.kosmas.cz/knihy/569751/kralove-avalieru-nelitostny-vili-kral/",
-    "description": "Králové Avalieru - Nelítostný vílí král - Leia Stone",
-    "authors": [
-      "Leia Stone"
-    ],
-    "date": "2026-06-02T07:54:43.320118+00:00"
-  },
-  {
-    "title": "Velká hra",
-    "url": "https://www.kosmas.cz/knihy/569752/velka-hra/",
-    "description": "Velká hra - Jan Procházka",
-    "authors": [
-      "Jan Procházka"
-    ],
-    "date": "2026-06-02T07:54:42.320118+00:00"
-  },
-  {
-    "title": "Lucie v oblacích",
-    "url": "https://www.kosmas.cz/knihy/569753/lucie-v-oblacich/",
-    "description": "Lucie v oblacích - Charlotte Lucas",
-    "authors": [
-      "Charlotte Lucas"
-    ],
-    "date": "2026-06-02T07:54:41.320118+00:00"
-  },
-  {
-    "title": "Deník malého poseroutky 2 - Rodrick je king",
-    "url": "https://www.kosmas.cz/knihy/567974/denik-maleho-poseroutky-2-rodrick-je-king/",
-    "description": "Deník malého poseroutky 2 - Rodrick je king - Jeff Kinney",
-    "authors": [
-      "Jeff Kinney"
-    ],
-    "date": "2026-06-02T07:54:40.320118+00:00"
-  },
-  {
-    "title": "Kulaté omalovánky Mandaly",
-    "url": "https://www.kosmas.cz/knihy/566644/kulate-omalovanky-mandaly/",
-    "description": "Kulaté omalovánky Mandaly - Michaela Bystrá Radvanová",
-    "authors": [
-      "Michaela Bystrá Radvanová"
-    ],
-    "date": "2026-06-02T07:54:39.320118+00:00"
-  },
-  {
-    "title": "Kulaté omalovánky Bludiště",
-    "url": "https://www.kosmas.cz/knihy/566645/kulate-omalovanky-bludiste/",
-    "description": "Kulaté omalovánky Bludiště - Michaela Bystrá Radvanová",
-    "authors": [
-      "Michaela Bystrá Radvanová"
-    ],
-    "date": "2026-06-02T07:54:38.320118+00:00"
-  },
-  {
-    "title": "Zlatan. Fotbalové superhvězdy",
-    "url": "https://www.kosmas.cz/knihy/565339/zlatan.-fotbalove-superhvezdy/",
-    "description": "Zlatan. Fotbalové superhvězdy - Simon Mugford, Dan Green",
-    "authors": [
-      "Simon Mugford",
-      "Dan Green"
-    ],
-    "date": "2026-06-02T07:54:37.320118+00:00"
-  },
-  {
-    "title": "Přítel",
-    "url": "https://www.kosmas.cz/knihy/569332/pritel/",
-    "description": "Přítel - Freida McFadden",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "date": "2026-06-01T08:07:42.222774+00:00"
-  },
-  {
-    "title": "Prázdninový příběh pejska a kočičky",
-    "url": "https://www.kosmas.cz/knihy/569608/prazdninovy-pribeh-pejska-a-kocicky/",
-    "description": "Prázdninový příběh pejska a kočičky - Vlasta Hurtíková",
-    "authors": [
-      "Vlasta Hurtíková"
-    ],
-    "date": "2026-06-01T08:07:41.222774+00:00"
   }
 ]

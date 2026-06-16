@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:12:29 +0000</lastBuildDate>
+    <item>
+      <title>Šrámkovka se dostane člověku pod kůži</title>
+      <link>https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</link>
+      <description>Šrámkova Sobotka, festival českého jazyka, řeči a literatury, který proběhne od 4. do 11. července, letos slaví jubilejní 70. ročník. Tématem letošního roku je „Hostina“. Jaké chody, chuťovky a delikatesy nabízí letošní program, jsme probírali s jedním z organizátorů festivalu Janem Trčem.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Výhody obrazového vyprávění: Český komiks míří do Frankfurtu</title>
       <link>https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu</link>
@@ -427,13 +434,6 @@
       <description>Podle Pavla Sibyly na tom v Česku ještě nejsme tak zle. „Ak mám pravdu,“ píše slovenský spisovatel ve svém třetím březnovém sloupku, „a ozajstná slovenská cesta vám nehrozí, potom aj vaša mrchavá doba je iná, ako tá naša. A odlišný by mal byť i návod, ako ju premôcť.“ O co se tedy opřít?</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14473-kde-h-adat-nadej</guid>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Člověku zbývá voyeurství</title>
-      <link>https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi</link>
-      <description>Moltbook je sociální síť pro AI. Platforma plná botů vznikla částečně jako experiment, minulý týden ji však koupila společnost Meta. Technologické firmy ze Silicon Valley tak zjevně nechtějí prostřednictvím AI nahradit jen pracovní sílu, ale rovněž žvanily ze sociálních sítí.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

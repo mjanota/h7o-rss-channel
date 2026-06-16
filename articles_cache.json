@@ -1,13 +1,5 @@
 [
   {
-    "title": "Člověku zbývá voyeurství",
-    "url": "https://www.h7o.cz/clanky/14472-cloveku-zbyva-voyeurstvi",
-    "description": "Moltbook je sociální síť pro AI. Platforma plná botů vznikla částečně jako experiment, minulý týden ji však koupila společnost Meta. Technologické firmy ze Silicon Valley tak zjevně nechtějí prostřednictvím AI nahradit jen pracovní sílu, ale rovněž žvanily ze sociálních sítí.",
-    "date": "2026-03-18T00:00:00",
-    "author": "Jakub Jetmar",
-    "category": "sloupek"
-  },
-  {
     "title": "Dvojjazyčná kniha o mlčení",
     "url": "https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni",
     "description": "Prolínáním dvou jazyků bez jakéhokoli tlumočení mají lidé na obou stranách řeky, která může být hranicí mezi dvěma zeměmi nebo jen dvěma těly, možnost zachovat si tělesnou integritu a nepodstoupit ani redukci způsobenou překódováním do cizí řeči, píše Kryštof Mec v recenzi sbírky Dominika Bárta.",
@@ -486,5 +478,13 @@
     "date": "2026-06-15T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Šrámkovka se dostane člověku pod kůži",
+    "url": "https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi",
+    "description": "Šrámkova Sobotka, festival českého jazyka, řeči a literatury, který proběhne od 4. do 11. července, letos slaví jubilejní 70. ročník. Tématem letošního roku je „Hostina“. Jaké chody, chuťovky a delikatesy nabízí letošní program, jsme probírali s jedním z organizátorů festivalu Janem Trčem.",
+    "date": "2026-06-16T00:00:00",
+    "author": "Markéta Pospišilíková",
+    "category": "rozhovor"
   }
 ]

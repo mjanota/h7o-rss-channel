@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-16 08:12:30 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Zakynthos - Průvodce do kapsy
+2. Průvodce sebekoučinkem
+3. Dokud nebudeme mít Kristovu podobu
+4. ArtMill
+5. Hrot tužky
+6. Maska jako zrcadlo
+7. Zaměněná písmena
+8. City v nádobách
+9. Cestuj s Veru
+10. Monstrózní mašiny
+11. Praha. Centrum pod lupou
+12. Její poslední slza
+13. Kurýr z planety Země
+14. Marek Dvořák: Už letím
+15. Odyssea našich osudů
+16. Ohořelá mysl
+17. PÍSMENKOV - Veselá abeceda - Písmenka a básničky pro kluky a holčičky
+18. Kuliferda bude školákem
+
+---
+
+## 🕐 2026-06-16 08:12:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Šrámkovka se dostane člověku pod kůži
+
+---
+
 ## 🕐 2026-06-15 08:20:34 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -232,53 +277,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Právo skrýt se před AI
-
----
-
-## 🕐 2026-06-09 07:29:43 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Léto pro dva
-2. Všeho do času
-3. Introdukované dřeviny v českém lesním hospodářství
-4. Teorie fikce jako odnosné tašky
-5. Avengers navěky 1: Mistři pozemské odplaty
-6. Avengers navěky 2: Pilíře
-7. Dvůr touhy a zlata
-8. Jméno
-9. Putinova triáda
-10. Variace
-11. Stitch - Plyšový deník
-12. Meč chaosu
-13. Neapol. Nový svět na cestách
-14. LEGO® Minecraft Dobrodružství v Endu
-15. Kavárna U Anděla: Nezapomenutelná sláva
-16. Ztracený svět
-17. Twisted Wonderland: Příběh z Heartslabyulu 3
-18. Zrádné tropy
-19. Hooky - Magie za školou 3
-20. Batman - Legendy Temného rytíře: Šílenství / Nákaza
-
----
-
-## 🕐 2026-06-09 07:29:42 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. In case of emergency, wake me up
 
 ---
 
