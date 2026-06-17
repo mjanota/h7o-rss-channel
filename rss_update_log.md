@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-17 08:09:07 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Hepatologie
+2. Svatý Prokop
+3. Divné obrázky
+4. Rande s šéfem
+5. Smrt za zvuku hudby
+6. Anna, cesta ze Sudet
+7. Návrat povaleče
+8. Šílená babička na cestách
+9. Kouzelná třída mezi dinosaury
+10. (Ne)dostupný
+11. LGBT+ ve škole
+12. Oveček vlku se zachtělo
+13. Super Mario Galaktický film - Mario startuje!
+14. Mediální koučink (nejen) pro firmy
+15. Pekárna splněných přání
+16. Lékařem v zemi spícího krokodýla
+17. Samolepky pro nejmenší - s ježkem
+18. Údolí poníků
+
+---
+
+## 🕐 2026-06-17 08:09:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Promptonyma. Proč se všichni jmenují Elias a Elara
+
+---
+
 ## 🕐 2026-06-16 08:12:30 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -233,50 +278,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. V zahraničním výzkumu nestačí zaplňovat bílá místa
-
----
-
-## 🕐 2026-06-10 07:45:05 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Letní povídky
-2. Vražedný koláček
-3. Čaj s jedem
-4. Začátek něčeho krásného
-5. Letní návrh
-6. Případy z venkova
-7. Život po životě
-8. O slavných psech a jejich lidech (a naopak)
-9. Malé velké zázraky povzbuzení - s dřevěným stojánkem
-10. Smile,Please!
-11. Smysly a nesmysly kolem nás
-12. Dívka s copem
-13. Tajemná postava
-14. Jednou za modrý měsíc
-15. Přístav volá (sběratelské vydání)
-16. Zápisky z vězení
-17. Žádná zeď neexistuje
-
----
-
-## 🕐 2026-06-10 07:45:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Právo skrýt se před AI
 
 ---
 

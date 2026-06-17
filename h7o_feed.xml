@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:09:05 +0000</lastBuildDate>
+    <item>
+      <title>Promptonyma. Proč se všichni jmenují Elias a Elara</title>
+      <link>https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara</link>
+      <description>Umělá inteligence při generování příběhů i pseudonym preferuje určitá jména. Není úplně jasné proč, ale některé hypotézy se nabízejí.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara</guid>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Šrámkovka se dostane člověku pod kůži</title>
       <link>https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</link>
@@ -427,13 +434,6 @@
       <description>Prolínáním dvou jazyků bez jakéhokoli tlumočení mají lidé na obou stranách řeky, která může být hranicí mezi dvěma zeměmi nebo jen dvěma těly, možnost zachovat si tělesnou integritu a nepodstoupit ani redukci způsobenou překódováním do cizí řeči, píše Kryštof Mec v recenzi sbírky Dominika Bárta.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kde hľadať nádej</title>
-      <link>https://www.h7o.cz/clanky/14473-kde-h-adat-nadej</link>
-      <description>Podle Pavla Sibyly na tom v Česku ještě nejsme tak zle. „Ak mám pravdu,“ píše slovenský spisovatel ve svém třetím březnovém sloupku, „a ozajstná slovenská cesta vám nehrozí, potom aj vaša mrchavá doba je iná, ako tá naša. A odlišný by mal byť i návod, ako ju premôcť.“ O co se tedy opřít?</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14473-kde-h-adat-nadej</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

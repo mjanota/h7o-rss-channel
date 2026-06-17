@@ -8,14 +8,6 @@
     "category": "recenze"
   },
   {
-    "title": "Kde hľadať nádej",
-    "url": "https://www.h7o.cz/clanky/14473-kde-h-adat-nadej",
-    "description": "Podle Pavla Sibyly na tom v Česku ještě nejsme tak zle. „Ak mám pravdu,“ píše slovenský spisovatel ve svém třetím březnovém sloupku, „a ozajstná slovenská cesta vám nehrozí, potom aj vaša mrchavá doba je iná, ako tá naša. A odlišný by mal byť i návod, ako ju premôcť.“ O co se tedy opřít?",
-    "date": "2026-03-19T00:00:00",
-    "author": "Pavel Sibyla",
-    "category": "seriál"
-  },
-  {
     "title": "S Mirem Remem v divočině",
     "url": "https://www.h7o.cz/clanky/14475-s-mirem-remem-v-divocine",
     "description": "Film Mira Rema „Raději zešílet v divočině“ podle knihy Aleše Palána před týdnem obdržel tři České lvy. Tomáš Hučko režiséra vzal do přírodní rezervace Šúr, kde se nachází největší olšový prales ve střední Evropě, aby si povídali nejen o tomto filmu.",
@@ -486,5 +478,13 @@
     "date": "2026-06-16T00:00:00",
     "author": "Markéta Pospišilíková",
     "category": "rozhovor"
+  },
+  {
+    "title": "Promptonyma. Proč se všichni jmenují Elias a Elara",
+    "url": "https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara",
+    "description": "Umělá inteligence při generování příběhů i pseudonym preferuje určitá jména. Není úplně jasné proč, ale některé hypotézy se nabízejí.",
+    "date": "2026-06-17T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

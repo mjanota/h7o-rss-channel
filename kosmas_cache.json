@@ -1,5 +1,171 @@
 [
   {
+    "title": "Hepatologie",
+    "url": "https://www.kosmas.cz/knihy/569049/hepatologie/",
+    "description": "Hepatologie - kol., Radan Brůha, Petr Urbánek",
+    "authors": [
+      "kol.",
+      "Radan Brůha",
+      "Petr Urbánek"
+    ],
+    "date": "2026-06-17T08:09:07.421494+00:00"
+  },
+  {
+    "title": "Svatý Prokop",
+    "url": "https://www.kosmas.cz/knihy/569934/svaty-prokop/",
+    "description": "Svatý Prokop - Soňa Dvořáčková, Jitka Jonová, Pavlína Mašková, Martin Sovák",
+    "authors": [
+      "Soňa Dvořáčková",
+      "Jitka Jonová",
+      "Pavlína Mašková",
+      "Martin Sovák"
+    ],
+    "date": "2026-06-17T08:09:06.421494+00:00"
+  },
+  {
+    "title": "Divné obrázky",
+    "url": "https://www.kosmas.cz/knihy/570140/divne-obrazky/",
+    "description": "Divné obrázky - Uketsu",
+    "authors": [
+      "Uketsu"
+    ],
+    "date": "2026-06-17T08:09:05.421494+00:00"
+  },
+  {
+    "title": "Rande s šéfem",
+    "url": "https://www.kosmas.cz/knihy/570246/rande-s-sefem/",
+    "description": "Rande s šéfem - Olivia Hayle",
+    "authors": [
+      "Olivia Hayle"
+    ],
+    "date": "2026-06-17T08:09:04.421494+00:00"
+  },
+  {
+    "title": "Smrt za zvuku hudby",
+    "url": "https://www.kosmas.cz/knihy/570247/smrt-za-zvuku-hudby/",
+    "description": "Smrt za zvuku hudby - Luděk Kubát",
+    "authors": [
+      "Luděk Kubát"
+    ],
+    "date": "2026-06-17T08:09:03.421494+00:00"
+  },
+  {
+    "title": "Anna, cesta ze Sudet",
+    "url": "https://www.kosmas.cz/knihy/570248/anna-cesta-ze-sudet/",
+    "description": "Anna, cesta ze Sudet - Jitka Blažková",
+    "authors": [
+      "Jitka Blažková"
+    ],
+    "date": "2026-06-17T08:09:02.421494+00:00"
+  },
+  {
+    "title": "Návrat povaleče",
+    "url": "https://www.kosmas.cz/knihy/570282/navrat-povalece/",
+    "description": "Návrat povaleče - Viki Shock",
+    "authors": [
+      "Viki Shock"
+    ],
+    "date": "2026-06-17T08:09:01.421494+00:00"
+  },
+  {
+    "title": "Šílená babička na cestách",
+    "url": "https://www.kosmas.cz/knihy/569048/silena-babicka-na-cestach/",
+    "description": "Šílená babička na cestách - Martina Boučková",
+    "authors": [
+      "Martina Boučková"
+    ],
+    "date": "2026-06-17T08:08:59.421494+00:00"
+  },
+  {
+    "title": "Kouzelná třída mezi dinosaury",
+    "url": "https://www.kosmas.cz/knihy/569050/kouzelna-trida-mezi-dinosaury/",
+    "description": "Kouzelná třída mezi dinosaury - Zuzana Pospíšilová, Drahomír Trsťan",
+    "authors": [
+      "Zuzana Pospíšilová",
+      "Drahomír Trsťan"
+    ],
+    "date": "2026-06-17T08:08:58.421494+00:00"
+  },
+  {
+    "title": "(Ne)dostupný",
+    "url": "https://www.kosmas.cz/knihy/569069/ne-dostupny/",
+    "description": "(Ne)dostupný - Madeleine Gray",
+    "authors": [
+      "Madeleine Gray"
+    ],
+    "date": "2026-06-17T08:08:57.421494+00:00"
+  },
+  {
+    "title": "LGBT+ ve škole",
+    "url": "https://www.kosmas.cz/knihy/569070/lgbt-ve-skole/",
+    "description": "LGBT+ ve škole - Tereza Lubasová",
+    "authors": [
+      "Tereza Lubasová"
+    ],
+    "date": "2026-06-17T08:08:56.421494+00:00"
+  },
+  {
+    "title": "Oveček vlku se zachtělo",
+    "url": "https://www.kosmas.cz/knihy/569109/ovecek-vlku-se-zachtelo/",
+    "description": "Oveček vlku se zachtělo - Aleš Novotný",
+    "authors": [
+      "Aleš Novotný"
+    ],
+    "date": "2026-06-17T08:08:55.421494+00:00"
+  },
+  {
+    "title": "Super Mario Galaktický film - Mario startuje!",
+    "url": "https://www.kosmas.cz/knihy/569271/super-mario-galakticky-film-mario-startuje/",
+    "description": "Super Mario Galaktický film - Mario startuje! - Benjamin Harper",
+    "authors": [
+      "Benjamin Harper"
+    ],
+    "date": "2026-06-17T08:08:54.421494+00:00"
+  },
+  {
+    "title": "Mediální koučink (nejen) pro firmy",
+    "url": "https://www.kosmas.cz/knihy/569305/medialni-koucink-nejen-pro-firmy/",
+    "description": "Mediální koučink (nejen) pro firmy - Pavel Kučera",
+    "authors": [
+      "Pavel Kučera"
+    ],
+    "date": "2026-06-17T08:08:52.421494+00:00"
+  },
+  {
+    "title": "Pekárna splněných přání",
+    "url": "https://www.kosmas.cz/knihy/569922/pekarna-splnenych-prani/",
+    "description": "Pekárna splněných přání - Emma Davies",
+    "authors": [
+      "Emma Davies"
+    ],
+    "date": "2026-06-17T08:08:51.421494+00:00"
+  },
+  {
+    "title": "Lékařem v zemi spícího krokodýla",
+    "url": "https://www.kosmas.cz/knihy/569931/lekarem-v-zemi-spiciho-krokodyla/",
+    "description": "Lékařem v zemi spícího krokodýla - Ondřej Šimetka",
+    "authors": [
+      "Ondřej Šimetka"
+    ],
+    "date": "2026-06-17T08:08:50.421494+00:00"
+  },
+  {
+    "title": "Samolepky pro nejmenší - s ježkem",
+    "url": "https://www.kosmas.cz/knihy/570164/samolepky-pro-nejmensi-s-jezkem/",
+    "description": "Samolepky pro nejmenší - s ježkem",
+    "authors": [],
+    "date": "2026-06-17T08:08:49.421494+00:00"
+  },
+  {
+    "title": "Údolí poníků",
+    "url": "https://www.kosmas.cz/knihy/570190/udoli-poniku/",
+    "description": "Údolí poníků - Mattes Ellie",
+    "authors": [
+      "Mattes Ellie"
+    ],
+    "date": "2026-06-17T08:08:48.421494+00:00"
+  },
+  {
     "title": "Zakynthos - Průvodce do kapsy",
     "url": "https://www.kosmas.cz/knihy/554798/zakynthos-pruvodce-do-kapsy/",
     "description": "Zakynthos - Průvodce do kapsy - kolektiv autorů",
@@ -1642,165 +1808,5 @@
       "Hana Whitton"
     ],
     "date": "2026-06-03T07:58:31.932229+00:00"
-  },
-  {
-    "title": "S láskou z parku",
-    "url": "https://www.kosmas.cz/knihy/569801/s-laskou-z-parku/",
-    "description": "S láskou z parku - Jules Wake",
-    "authors": [
-      "Jules Wake"
-    ],
-    "date": "2026-06-03T07:58:30.932229+00:00"
-  },
-  {
-    "title": "Krásný satyr",
-    "url": "https://www.kosmas.cz/knihy/569802/krasny-satyr/",
-    "description": "Krásný satyr - Michael Weber",
-    "authors": [
-      "Michael Weber"
-    ],
-    "date": "2026-06-03T07:58:29.932229+00:00"
-  },
-  {
-    "title": "Policie zasahuje",
-    "url": "https://www.kosmas.cz/knihy/566153/policie-zasahuje/",
-    "description": "Policie zasahuje",
-    "authors": [],
-    "date": "2026-06-03T07:58:28.932229+00:00"
-  },
-  {
-    "title": "Růže v okovech",
-    "url": "https://www.kosmas.cz/knihy/565005/ruze-v-okovech/",
-    "description": "Růže v okovech - Julie Soto",
-    "authors": [
-      "Julie Soto"
-    ],
-    "date": "2026-06-03T07:58:27.932229+00:00"
-  },
-  {
-    "title": "Acheron",
-    "url": "https://www.kosmas.cz/knihy/564751/acheron/",
-    "description": "Acheron - Tereza D. Reichelová",
-    "authors": [
-      "Tereza D. Reichelová"
-    ],
-    "date": "2026-06-03T07:58:26.932229+00:00"
-  },
-  {
-    "title": "Kaidžú č. 8, díl 12",
-    "url": "https://www.kosmas.cz/knihy/569026/kaidzu-c.-8-dil-12/",
-    "description": "Kaidžú č. 8, díl 12 - Naoja Macumoto",
-    "authors": [
-      "Naoja Macumoto"
-    ],
-    "date": "2026-06-03T07:58:25.932229+00:00"
-  },
-  {
-    "title": "Diliňi Dora",
-    "url": "https://www.kosmas.cz/knihy/569233/dilini-dora/",
-    "description": "Diliňi Dora - Eva Danišová",
-    "authors": [
-      "Eva Danišová"
-    ],
-    "date": "2026-06-03T07:58:24.932229+00:00"
-  },
-  {
-    "title": "Rok v Jizerských horách",
-    "url": "https://www.kosmas.cz/knihy/569320/rok-v-jizerskych-horach/",
-    "description": "Rok v Jizerských horách - Miloslav Nevrlý",
-    "authors": [
-      "Miloslav Nevrlý"
-    ],
-    "date": "2026-06-03T07:58:23.932229+00:00"
-  },
-  {
-    "title": "Mládí na hřišti 11: Úplně nejvíc",
-    "url": "https://www.kosmas.cz/knihy/569334/mladi-na-hristi-11-uplne-nejvic/",
-    "description": "Mládí na hřišti 11: Úplně nejvíc - Kódži Miura",
-    "authors": [
-      "Kódži Miura"
-    ],
-    "date": "2026-06-03T07:58:22.932229+00:00"
-  },
-  {
-    "title": "Moje první obrázkové čtení",
-    "url": "https://www.kosmas.cz/knihy/569338/moje-prvni-obrazkove-cteni/",
-    "description": "Moje první obrázkové čtení - Jiří Havel",
-    "authors": [
-      "Jiří Havel"
-    ],
-    "date": "2026-06-03T07:58:21.932229+00:00"
-  },
-  {
-    "title": "Horalova dokonalá nevěsta",
-    "url": "https://www.kosmas.cz/knihy/569339/horalova-dokonala-nevesta/",
-    "description": "Horalova dokonalá nevěsta - Vanessa Kelly",
-    "authors": [
-      "Vanessa Kelly"
-    ],
-    "date": "2026-06-03T07:58:20.932229+00:00"
-  },
-  {
-    "title": "Sattasaí",
-    "url": "https://www.kosmas.cz/knihy/569348/sattasai/",
-    "description": "Sattasaí",
-    "authors": [],
-    "date": "2026-06-03T07:58:19.932229+00:00"
-  },
-  {
-    "title": "Tajemství forenzní vědy",
-    "url": "https://www.kosmas.cz/knihy/569400/tajemstvi-forenzni-vedy/",
-    "description": "Tajemství forenzní vědy - Tom Jackson, Paul Knepper",
-    "authors": [
-      "Tom Jackson",
-      "Paul Knepper"
-    ],
-    "date": "2026-06-03T07:58:18.932229+00:00"
-  },
-  {
-    "title": "Torzo stromu",
-    "url": "https://www.kosmas.cz/knihy/569401/torzo-stromu/",
-    "description": "Torzo stromu - Vlasta Špinková",
-    "authors": [
-      "Vlasta Špinková"
-    ],
-    "date": "2026-06-03T07:58:17.932229+00:00"
-  },
-  {
-    "title": "Vězeň za dráty",
-    "url": "https://www.kosmas.cz/knihy/569466/vezen-za-draty/",
-    "description": "Vězeň za dráty - Rajmund Habřina",
-    "authors": [
-      "Rajmund Habřina"
-    ],
-    "date": "2026-06-03T07:58:16.932229+00:00"
-  },
-  {
-    "title": "Epigenetika – chytrý průvodce pro každý den",
-    "url": "https://www.kosmas.cz/knihy/569470/epigenetika-chytry-pruvodce-pro-kazdy-den/",
-    "description": "Epigenetika – chytrý průvodce pro každý den - Blanka Pechková Gololobovová",
-    "authors": [
-      "Blanka Pechková Gololobovová"
-    ],
-    "date": "2026-06-03T07:58:15.932229+00:00"
-  },
-  {
-    "title": "Bungó Stray Dogs - Toulaví literáti 8",
-    "url": "https://www.kosmas.cz/knihy/569554/bungo-stray-dogs-toulavi-literati-8/",
-    "description": "Bungó Stray Dogs - Toulaví literáti 8 - Kafka Asagiri",
-    "authors": [
-      "Kafka Asagiri"
-    ],
-    "date": "2026-06-03T07:58:14.932229+00:00"
-  },
-  {
-    "title": "Král všech developerů 2",
-    "url": "https://www.kosmas.cz/knihy/569555/kral-vsech-developeru-2/",
-    "description": "Král všech developerů 2 - I Hjonmin, Mun Pekkjong",
-    "authors": [
-      "I Hjonmin",
-      "Mun Pekkjong"
-    ],
-    "date": "2026-06-03T07:58:13.932229+00:00"
   }
 ]
