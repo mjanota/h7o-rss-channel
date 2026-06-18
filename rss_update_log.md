@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-18 07:57:57 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Protože
+2. Broučci
+3. Osamělý vlk
+4. 365 kuriozit na dobrou noc
+5. Matky a dcery
+6. Léto pro dva
+7. Gesto a skutečnost 2. Lidé na kře
+8. „Jsou zde, kolona přijela!“
+9. Smrt U bílého jelena
+10. Zrození atomové bomby
+11. Stručné dějiny konce světa
+12. Šnek je pomalý, ale nikdy nemá zpoždění
+13. Maroko
+14. Atomové šelmy: Hřbitov
+15. Finále
+
+---
+
+## 🕐 2026-06-18 07:57:57 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Proč jsme stále ještě barokní?
+
+---
+
 ## 🕐 2026-06-17 08:09:07 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -236,48 +278,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-11 07:57:31 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Dej mi pokoj
-2. Odyssea našich osudů
-3. Její poslední slza
-4. Actium
-5. Cušima
-6. Balt
-7. DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ
-8. Etika mezikulturního a mezináboženského dialogu
-9. Post-Evropa
-10. Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024
-11. Dichotismus
-12. Budapešť - TOP 10
-13. Korfu a Jónské ostrovy - TOP 10
-14. Madeira - TOP10
-15. Tokio - TOP 10
-
----
-
-## 🕐 2026-06-11 07:57:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. V zahraničním výzkumu nestačí zaplňovat bílá místa
 
 ---
 

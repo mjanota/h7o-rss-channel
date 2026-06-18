@@ -1,5 +1,147 @@
 [
   {
+    "title": "Protože",
+    "url": "https://www.kosmas.cz/knihy/570138/protoze/",
+    "description": "Protože - Joshua Mensch",
+    "authors": [
+      "Joshua Mensch"
+    ],
+    "date": "2026-06-18T07:57:57.919895+00:00"
+  },
+  {
+    "title": "Broučci",
+    "url": "https://www.kosmas.cz/knihy/570202/broucci/",
+    "description": "Broučci - Jan Karafiát",
+    "authors": [
+      "Jan Karafiát"
+    ],
+    "date": "2026-06-18T07:57:56.919895+00:00"
+  },
+  {
+    "title": "Osamělý vlk",
+    "url": "https://www.kosmas.cz/knihy/569595/osamely-vlk/",
+    "description": "Osamělý vlk - Jakub Dušek, Petr Pelech, Ondřej Veverka",
+    "authors": [
+      "Jakub Dušek",
+      "Petr Pelech",
+      "Ondřej Veverka"
+    ],
+    "date": "2026-06-18T07:57:54.919895+00:00"
+  },
+  {
+    "title": "365 kuriozit na dobrou noc",
+    "url": "https://www.kosmas.cz/knihy/570216/365-kuriozit-na-dobrou-noc/",
+    "description": "365 kuriozit na dobrou noc - Edward Brooke-Hitching, Oksana Drachkovska",
+    "authors": [
+      "Edward Brooke-Hitching",
+      "Oksana Drachkovska"
+    ],
+    "date": "2026-06-18T07:57:52.919895+00:00"
+  },
+  {
+    "title": "Matky a dcery",
+    "url": "https://www.kosmas.cz/knihy/570245/matky-a-dcery/",
+    "description": "Matky a dcery - Erica James",
+    "authors": [
+      "Erica James"
+    ],
+    "date": "2026-06-18T07:57:51.919895+00:00"
+  },
+  {
+    "title": "Léto pro dva",
+    "url": "https://www.kosmas.cz/knihy/563360/leto-pro-dva/",
+    "description": "Léto pro dva - Kathryn Taylor",
+    "authors": [
+      "Kathryn Taylor"
+    ],
+    "date": "2026-06-18T07:57:47.919895+00:00"
+  },
+  {
+    "title": "Gesto a skutečnost 2. Lidé na kře",
+    "url": "https://www.kosmas.cz/knihy/550371/gesto-a-skutecnost-2.-lide-na-kre/",
+    "description": "Gesto a skutečnost 2. Lidé na kře - Kateřina Piorecká, kolektiv autorů, Marie Brunová, Lukáš Holeček",
+    "authors": [
+      "Kateřina Piorecká",
+      "kolektiv autorů",
+      "Marie Brunová",
+      "Lukáš Holeček"
+    ],
+    "date": "2026-06-18T07:57:46.919895+00:00"
+  },
+  {
+    "title": "„Jsou zde, kolona přijela!“",
+    "url": "https://www.kosmas.cz/knihy/564537/jsou-zde-kolona-prijela/",
+    "description": "„Jsou zde, kolona přijela!“ - Jana Paseková Kasíková",
+    "authors": [
+      "Jana Paseková Kasíková"
+    ],
+    "date": "2026-06-18T07:57:45.919895+00:00"
+  },
+  {
+    "title": "Smrt U bílého jelena",
+    "url": "https://www.kosmas.cz/knihy/564784/smrt-u-bileho-jelena/",
+    "description": "Smrt U bílého jelena - Chris Chibnall",
+    "authors": [
+      "Chris Chibnall"
+    ],
+    "date": "2026-06-18T07:57:44.919895+00:00"
+  },
+  {
+    "title": "Zrození atomové bomby",
+    "url": "https://www.kosmas.cz/knihy/564873/zrozeni-atomove-bomby/",
+    "description": "Zrození atomové bomby - Richard Rhodes",
+    "authors": [
+      "Richard Rhodes"
+    ],
+    "date": "2026-06-18T07:57:43.919895+00:00"
+  },
+  {
+    "title": "Stručné dějiny konce světa",
+    "url": "https://www.kosmas.cz/knihy/566628/strucne-dejiny-konce-sveta/",
+    "description": "Stručné dějiny konce světa - Tom Phillips",
+    "authors": [
+      "Tom Phillips"
+    ],
+    "date": "2026-06-18T07:57:42.919895+00:00"
+  },
+  {
+    "title": "Šnek je pomalý, ale nikdy nemá zpoždění",
+    "url": "https://www.kosmas.cz/knihy/566629/snek-je-pomaly-ale-nikdy-nema-zpozdeni/",
+    "description": "Šnek je pomalý, ale nikdy nemá zpoždění - Jung-mok",
+    "authors": [
+      "Jung-mok"
+    ],
+    "date": "2026-06-18T07:57:41.919895+00:00"
+  },
+  {
+    "title": "Maroko",
+    "url": "https://www.kosmas.cz/knihy/566631/maroko/",
+    "description": "Maroko - Stuart Butler",
+    "authors": [
+      "Stuart Butler"
+    ],
+    "date": "2026-06-18T07:57:40.919895+00:00"
+  },
+  {
+    "title": "Atomové šelmy: Hřbitov",
+    "url": "https://www.kosmas.cz/knihy/566863/atomove-selmy-hrbitov/",
+    "description": "Atomové šelmy: Hřbitov - František Kotleta, Kristýna Sněgoňová",
+    "authors": [
+      "František Kotleta",
+      "Kristýna Sněgoňová"
+    ],
+    "date": "2026-06-18T07:57:39.919895+00:00"
+  },
+  {
+    "title": "Finále",
+    "url": "https://www.kosmas.cz/knihy/567062/finale/",
+    "description": "Finále - Stephanie Garberová",
+    "authors": [
+      "Stephanie Garberová"
+    ],
+    "date": "2026-06-18T07:57:38.919895+00:00"
+  },
+  {
     "title": "Hepatologie",
     "url": "https://www.kosmas.cz/knihy/569049/hepatologie/",
     "description": "Hepatologie - kol., Radan Brůha, Petr Urbánek",
@@ -1671,142 +1813,5 @@
       "Anette de la Motte"
     ],
     "date": "2026-06-04T07:51:50.187459+00:00"
-  },
-  {
-    "title": "Ztracený svět",
-    "url": "https://www.kosmas.cz/knihy/569788/ztraceny-svet/",
-    "description": "Ztracený svět - Daniel Gris",
-    "authors": [
-      "Daniel Gris"
-    ],
-    "date": "2026-06-04T07:51:49.187459+00:00"
-  },
-  {
-    "title": "Rodinné konstelace",
-    "url": "https://www.kosmas.cz/knihy/568891/rodinne-konstelace/",
-    "description": "Rodinné konstelace - Bert Hellinger, Gabriele ten Hövel",
-    "authors": [
-      "Bert Hellinger",
-      "Gabriele ten Hövel"
-    ],
-    "date": "2026-06-04T07:51:48.187459+00:00"
-  },
-  {
-    "title": "Márnice",
-    "url": "https://www.kosmas.cz/knihy/569232/marnice/",
-    "description": "Márnice - Marie Jakoubková",
-    "authors": [
-      "Marie Jakoubková"
-    ],
-    "date": "2026-06-04T07:51:47.187459+00:00"
-  },
-  {
-    "title": "Lucie v oblacích",
-    "url": "https://www.kosmas.cz/knihy/568494/lucie-v-oblacich/",
-    "description": "Lucie v oblacích - Charlotte Lucas",
-    "authors": [
-      "Charlotte Lucas"
-    ],
-    "date": "2026-06-04T07:51:46.187459+00:00"
-  },
-  {
-    "title": "Lichočar",
-    "url": "https://www.kosmas.cz/knihy/569726/lichocar/",
-    "description": "Lichočar - Přemysl Příhoda",
-    "authors": [
-      "Přemysl Příhoda"
-    ],
-    "date": "2026-06-04T07:51:45.187459+00:00"
-  },
-  {
-    "title": "Cesty ke svobodě",
-    "url": "https://www.kosmas.cz/knihy/569837/cesty-ke-svobode/",
-    "description": "Cesty ke svobodě - Eva Eberlová",
-    "authors": [
-      "Eva Eberlová"
-    ],
-    "date": "2026-06-04T07:51:40.187459+00:00"
-  },
-  {
-    "title": "Rozumím svému koni",
-    "url": "https://www.kosmas.cz/knihy/569838/rozumim-svemu-koni/",
-    "description": "Rozumím svému koni - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-04T07:51:39.187459+00:00"
-  },
-  {
-    "title": "Blíž, než se zdá",
-    "url": "https://www.kosmas.cz/knihy/567539/bliz-nez-se-zda/",
-    "description": "Blíž, než se zdá - Jessica Redland",
-    "authors": [
-      "Jessica Redland"
-    ],
-    "date": "2026-06-04T07:51:38.187459+00:00"
-  },
-  {
-    "title": "Božští",
-    "url": "https://www.kosmas.cz/knihy/567540/bozsti/",
-    "description": "Božští - Jennifer L. Armentroutová",
-    "authors": [
-      "Jennifer L. Armentroutová"
-    ],
-    "date": "2026-06-04T07:51:37.187459+00:00"
-  },
-  {
-    "title": "Láska na plný plyn",
-    "url": "https://www.kosmas.cz/knihy/567542/laska-na-plny-plyn/",
-    "description": "Láska na plný plyn - Jenny L. Howe",
-    "authors": [
-      "Jenny L. Howe"
-    ],
-    "date": "2026-06-04T07:51:36.187459+00:00"
-  },
-  {
-    "title": "Žalozpěv",
-    "url": "https://www.kosmas.cz/knihy/567562/zalozpev/",
-    "description": "Žalozpěv - Camilla Läckberg",
-    "authors": [
-      "Camilla Läckberg"
-    ],
-    "date": "2026-06-04T07:51:35.187459+00:00"
-  },
-  {
-    "title": "Zamilovaný kluk",
-    "url": "https://www.kosmas.cz/knihy/567616/zamilovany-kluk/",
-    "description": "Zamilovaný kluk - Jay Crownover, Rebecca Yarros",
-    "authors": [
-      "Jay Crownover",
-      "Rebecca Yarros"
-    ],
-    "date": "2026-06-04T07:51:34.187459+00:00"
-  },
-  {
-    "title": "Kyselá prdel",
-    "url": "https://www.kosmas.cz/knihy/569422/kysela-prdel/",
-    "description": "Kyselá prdel - Nahoru po schodišti dolů band",
-    "authors": [
-      "Nahoru po schodišti dolů band"
-    ],
-    "date": "2026-06-04T07:51:33.187459+00:00"
-  },
-  {
-    "title": "Vánoční příběh pejska a kočičky",
-    "url": "https://www.kosmas.cz/knihy/569799/vanocni-pribeh-pejska-a-kocicky/",
-    "description": "Vánoční příběh pejska a kočičky - Vlasta Hurtíková",
-    "authors": [
-      "Vlasta Hurtíková"
-    ],
-    "date": "2026-06-03T07:58:32.932229+00:00"
-  },
-  {
-    "title": "Adam ze Zbraslavi a případ kralevice Jana",
-    "url": "https://www.kosmas.cz/knihy/569800/adam-ze-zbraslavi-a-pripad-kralevice-jana/",
-    "description": "Adam ze Zbraslavi a případ kralevice Jana - Hana Whitton",
-    "authors": [
-      "Hana Whitton"
-    ],
-    "date": "2026-06-03T07:58:31.932229+00:00"
   }
 ]

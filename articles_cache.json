@@ -1,13 +1,5 @@
 [
   {
-    "title": "Dvojjazyčná kniha o mlčení",
-    "url": "https://www.h7o.cz/clanky/14474-dvojjazycna-kniha-o-mlceni",
-    "description": "Prolínáním dvou jazyků bez jakéhokoli tlumočení mají lidé na obou stranách řeky, která může být hranicí mezi dvěma zeměmi nebo jen dvěma těly, možnost zachovat si tělesnou integritu a nepodstoupit ani redukci způsobenou překódováním do cizí řeči, píše Kryštof Mec v recenzi sbírky Dominika Bárta.",
-    "date": "2026-03-20T00:00:00",
-    "author": "Kryštof Mec",
-    "category": "recenze"
-  },
-  {
     "title": "S Mirem Remem v divočině",
     "url": "https://www.h7o.cz/clanky/14475-s-mirem-remem-v-divocine",
     "description": "Film Mira Rema „Raději zešílet v divočině“ podle knihy Aleše Palána před týdnem obdržel tři České lvy. Tomáš Hučko režiséra vzal do přírodní rezervace Šúr, kde se nachází největší olšový prales ve střední Evropě, aby si povídali nejen o tomto filmu.",
@@ -486,5 +478,13 @@
     "date": "2026-06-17T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Proč jsme stále ještě barokní?",
+    "url": "https://www.h7o.cz/clanky/14516-proc-jsme-stale-jeste-barokni",
+    "description": "Je tu čtvrteční seriál k blížícímu se bohemistickému kongresu. S komenioložkou Lenkou Řezníkovou o baroku, jeho ambivalentních obrazech, inspiracích, imitacích a instrumentalizaci vedl rozhovor Daniel Soukup z Ústavu pro českou literaturu AV ČR.",
+    "date": "2026-06-18T00:00:00",
+    "author": "Daniel Soukup",
+    "category": "seriál"
   }
 ]
