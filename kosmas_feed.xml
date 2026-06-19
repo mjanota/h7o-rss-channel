@@ -7,7 +7,133 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:08:58 +0000</lastBuildDate>
+    <item>
+      <title>Úžasní netopýři</title>
+      <link>https://www.kosmas.cz/knihy/570005/uzasni-netopyri/</link>
+      <description>Úžasní netopýři - Yossi Yovel</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570005/uzasni-netopyri/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giovanniho pokoj</title>
+      <link>https://www.kosmas.cz/knihy/566434/giovanniho-pokoj/</link>
+      <description>Giovanniho pokoj - James Baldwin</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566434/giovanniho-pokoj/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mise v kolonii</title>
+      <link>https://www.kosmas.cz/knihy/570113/mise-v-kolonii/</link>
+      <description>Mise v kolonii - Michael Mammay</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570113/mise-v-kolonii/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Léto v New Yorku</title>
+      <link>https://www.kosmas.cz/knihy/570145/leto-v-new-yorku/</link>
+      <description>Léto v New Yorku - Alex Aster</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570145/leto-v-new-yorku/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Digestoř je kapela</title>
+      <link>https://www.kosmas.cz/knihy/569250/digestor-je-kapela/</link>
+      <description>Digestoř je kapela - Zbyněk Řeháček</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569250/digestor-je-kapela/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krvavý květ</title>
+      <link>https://www.kosmas.cz/knihy/569259/krvavy-kvet/</link>
+      <description>Krvavý květ - Anežka Kočová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569259/krvavy-kvet/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Projektory</title>
+      <link>https://www.kosmas.cz/knihy/569275/projektory/</link>
+      <description>Projektory - Meyer Clemens</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569275/projektory/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ostrov zalitý sluncem</title>
+      <link>https://www.kosmas.cz/knihy/569581/ostrov-zality-sluncem/</link>
+      <description>Ostrov zalitý sluncem - Kate Frost</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569581/ostrov-zality-sluncem/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník citového vyděrače</title>
+      <link>https://www.kosmas.cz/knihy/569783/denik-citoveho-vyderace/</link>
+      <description>Deník citového vyděrače - Simona Monyová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569783/denik-citoveho-vyderace/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krotitelka snů</title>
+      <link>https://www.kosmas.cz/knihy/569808/krotitelka-snu/</link>
+      <description>Krotitelka snů - Simona Monyová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569808/krotitelka-snu/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otcomilky</title>
+      <link>https://www.kosmas.cz/knihy/569809/otcomilky/</link>
+      <description>Otcomilky - Simona Monyová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569809/otcomilky/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sudoku do kapsy</title>
+      <link>https://www.kosmas.cz/knihy/570119/sudoku-do-kapsy/</link>
+      <description>Sudoku do kapsy - Petr Sýkora</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570119/sudoku-do-kapsy/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sudoku na cesty</title>
+      <link>https://www.kosmas.cz/knihy/570121/sudoku-na-cesty/</link>
+      <description>Sudoku na cesty - Petr Sýkora</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570121/sudoku-na-cesty/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czech Fairy Tales / České pohádky /Plot/</title>
+      <link>https://www.kosmas.cz/knihy/570122/czech-fairy-tales-ceske-pohadky-plot/</link>
+      <description>Czech Fairy Tales / České pohádky /Plot/ - Magdalena Wagnerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570122/czech-fairy-tales-ceske-pohadky-plot/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slavnosti sněženek - třetí setkání v Hrabalově Kersku</title>
+      <link>https://www.kosmas.cz/knihy/570175/slavnosti-snezenek-treti-setkani-v-hrabalove-kersku/</link>
+      <description>Slavnosti sněženek - třetí setkání v Hrabalově Kersku - Bronislav Kuba</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570175/slavnosti-snezenek-treti-setkani-v-hrabalove-kersku/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slavnosti sněženek - setkání s Hrabalovou múzou</title>
+      <link>https://www.kosmas.cz/knihy/570176/slavnosti-snezenek-setkani-s-hrabalovou-muzou/</link>
+      <description>Slavnosti sněženek - setkání s Hrabalovou múzou - Bronislav Kuba</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570176/slavnosti-snezenek-setkani-s-hrabalovou-muzou/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku</title>
+      <link>https://www.kosmas.cz/knihy/570177/slavnosti-snezenek-lidske-osudy-a-odhalena-tajemstvi-v-hrabalove-kersku/</link>
+      <description>Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku - Bronislav Kuba</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570177/slavnosti-snezenek-lidske-osudy-a-odhalena-tajemstvi-v-hrabalove-kersku/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem</title>
+      <link>https://www.kosmas.cz/knihy/570178/slavnosti-snezenek-setkani-s-bohumilem-hrabalem-a-jeho-dilem/</link>
+      <description>Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem - Bronislav Kuba</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570178/slavnosti-snezenek-setkani-s-bohumilem-hrabalem-a-jeho-dilem/</guid>
+      <pubDate>Fri, 19 Jun 2026 08:08:40 +0000</pubDate>
+    </item>
     <item>
       <title>Protože</title>
       <link>https://www.kosmas.cz/knihy/570138/protoze/</link>
@@ -581,132 +707,6 @@
       <description>Obdivuhodná zvířata IV. - Psovití a zajíci - Vojtěch Škaloud</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568381/obdivuhodna-zvirata-iv.-psoviti-a-zajici/</guid>
       <pubDate>Fri, 12 Jun 2026 07:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vyprošťovák ze chmur</title>
-      <link>https://www.kosmas.cz/knihy/569475/vyprostovak-ze-chmur/</link>
-      <description>Vyprošťovák ze chmur - Šebestián Pavel Smrčina, Ondřej Havlíček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569475/vyprostovak-ze-chmur/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live 80</title>
-      <link>https://www.kosmas.cz/knihy/569618/live-80/</link>
-      <description>Live 80 - Framus Five, Michal Prokop</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569618/live-80/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:53:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pokrevní pouta 1-6</title>
-      <link>https://www.kosmas.cz/knihy/568857/pokrevni-pouta-1-6/</link>
-      <description>Pokrevní pouta 1-6 - Richelle Mead</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568857/pokrevni-pouta-1-6/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interna</title>
-      <link>https://www.kosmas.cz/knihy/568896/interna/</link>
-      <description>Interna - Richard Češka, kol.</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568896/interna/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zvířecí Prvňáčci</title>
-      <link>https://www.kosmas.cz/knihy/569697/zvireci-prvnacci/</link>
-      <description>Zvířecí Prvňáčci</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569697/zvireci-prvnacci/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ</title>
-      <link>https://www.kosmas.cz/knihy/569699/pribehy-z-mokre-lhoty-vesele-cteni-o-zviratkach-prvni-cteni/</link>
-      <description>Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569699/pribehy-z-mokre-lhoty-vesele-cteni-o-zviratkach-prvni-cteni/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ročenka pro filosofii a fenomenologický výzkum 2025</title>
-      <link>https://www.kosmas.cz/knihy/569712/rocenka-pro-filosofii-a-fenomenologicky-vyzkum-2025/</link>
-      <description>Ročenka pro filosofii a fenomenologický výzkum 2025 - Pavel Lněnička, Jaromír Murgaš, Aleš Novák, Marek Vodička</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569712/rocenka-pro-filosofii-a-fenomenologicky-vyzkum-2025/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kazuistiky v oftalmologii</title>
-      <link>https://www.kosmas.cz/knihy/569743/kazuistiky-v-oftalmologii/</link>
-      <description>Kazuistiky v oftalmologii - Pavel Studený</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569743/kazuistiky-v-oftalmologii/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dopravní letadla</title>
-      <link>https://www.kosmas.cz/knihy/569854/dopravni-letadla/</link>
-      <description>Dopravní letadla - Edward Ward</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569854/dopravni-letadla/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zavařování s bylinkami a kořením</title>
-      <link>https://www.kosmas.cz/knihy/569855/zavarovani-s-bylinkami-a-korenim/</link>
-      <description>Zavařování s bylinkami a kořením</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569855/zavarovani-s-bylinkami-a-korenim/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čs. armáda 1918–1939</title>
-      <link>https://www.kosmas.cz/knihy/569856/cs.-armada-1918-1939/</link>
-      <description>Čs. armáda 1918–1939 - Ivan Fuksa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569856/cs.-armada-1918-1939/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Žena přes palubu</title>
-      <link>https://www.kosmas.cz/knihy/565338/zena-pres-palubu/</link>
-      <description>Žena přes palubu - Portia MacIntosh</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565338/zena-pres-palubu/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Art &amp; Antiques 6/2026</title>
-      <link>https://www.kosmas.cz/knihy/563299/art-antiques-6-2026/</link>
-      <description>Art &amp; Antiques 6/2026</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563299/art-antiques-6-2026/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:52:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dej mi pokoj</title>
-      <link>https://www.kosmas.cz/knihy/569878/dej-mi-pokoj/</link>
-      <description>Dej mi pokoj - Petra Štarková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569878/dej-mi-pokoj/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:57:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odyssea našich osudů</title>
-      <link>https://www.kosmas.cz/knihy/569998/odyssea-nasich-osudu/</link>
-      <description>Odyssea našich osudů - Sam Akbarová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569998/odyssea-nasich-osudu/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:57:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Její poslední slza</title>
-      <link>https://www.kosmas.cz/knihy/570115/jeji-posledni-slza/</link>
-      <description>Její poslední slza - Stacy Green</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570115/jeji-posledni-slza/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:57:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Actium</title>
-      <link>https://www.kosmas.cz/knihy/568787/actium/</link>
-      <description>Actium - Jean-Yves Delitte</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568787/actium/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cušima</title>
-      <link>https://www.kosmas.cz/knihy/568788/cusima/</link>
-      <description>Cušima - Jean-Yves Delitte</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568788/cusima/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:57:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

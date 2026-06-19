@@ -1,5 +1,167 @@
 [
   {
+    "title": "Úžasní netopýři",
+    "url": "https://www.kosmas.cz/knihy/570005/uzasni-netopyri/",
+    "description": "Úžasní netopýři - Yossi Yovel",
+    "authors": [
+      "Yossi Yovel"
+    ],
+    "date": "2026-06-19T08:08:58.258737+00:00"
+  },
+  {
+    "title": "Giovanniho pokoj",
+    "url": "https://www.kosmas.cz/knihy/566434/giovanniho-pokoj/",
+    "description": "Giovanniho pokoj - James Baldwin",
+    "authors": [
+      "James Baldwin"
+    ],
+    "date": "2026-06-19T08:08:57.258737+00:00"
+  },
+  {
+    "title": "Mise v kolonii",
+    "url": "https://www.kosmas.cz/knihy/570113/mise-v-kolonii/",
+    "description": "Mise v kolonii - Michael Mammay",
+    "authors": [
+      "Michael Mammay"
+    ],
+    "date": "2026-06-19T08:08:56.258737+00:00"
+  },
+  {
+    "title": "Léto v New Yorku",
+    "url": "https://www.kosmas.cz/knihy/570145/leto-v-new-yorku/",
+    "description": "Léto v New Yorku - Alex Aster",
+    "authors": [
+      "Alex Aster"
+    ],
+    "date": "2026-06-19T08:08:55.258737+00:00"
+  },
+  {
+    "title": "Digestoř je kapela",
+    "url": "https://www.kosmas.cz/knihy/569250/digestor-je-kapela/",
+    "description": "Digestoř je kapela - Zbyněk Řeháček",
+    "authors": [
+      "Zbyněk Řeháček"
+    ],
+    "date": "2026-06-19T08:08:54.258737+00:00"
+  },
+  {
+    "title": "Krvavý květ",
+    "url": "https://www.kosmas.cz/knihy/569259/krvavy-kvet/",
+    "description": "Krvavý květ - Anežka Kočová",
+    "authors": [
+      "Anežka Kočová"
+    ],
+    "date": "2026-06-19T08:08:53.258737+00:00"
+  },
+  {
+    "title": "Projektory",
+    "url": "https://www.kosmas.cz/knihy/569275/projektory/",
+    "description": "Projektory - Meyer Clemens",
+    "authors": [
+      "Meyer Clemens"
+    ],
+    "date": "2026-06-19T08:08:52.258737+00:00"
+  },
+  {
+    "title": "Ostrov zalitý sluncem",
+    "url": "https://www.kosmas.cz/knihy/569581/ostrov-zality-sluncem/",
+    "description": "Ostrov zalitý sluncem - Kate Frost",
+    "authors": [
+      "Kate Frost"
+    ],
+    "date": "2026-06-19T08:08:51.258737+00:00"
+  },
+  {
+    "title": "Deník citového vyděrače",
+    "url": "https://www.kosmas.cz/knihy/569783/denik-citoveho-vyderace/",
+    "description": "Deník citového vyděrače - Simona Monyová",
+    "authors": [
+      "Simona Monyová"
+    ],
+    "date": "2026-06-19T08:08:50.258737+00:00"
+  },
+  {
+    "title": "Krotitelka snů",
+    "url": "https://www.kosmas.cz/knihy/569808/krotitelka-snu/",
+    "description": "Krotitelka snů - Simona Monyová",
+    "authors": [
+      "Simona Monyová"
+    ],
+    "date": "2026-06-19T08:08:49.258737+00:00"
+  },
+  {
+    "title": "Otcomilky",
+    "url": "https://www.kosmas.cz/knihy/569809/otcomilky/",
+    "description": "Otcomilky - Simona Monyová",
+    "authors": [
+      "Simona Monyová"
+    ],
+    "date": "2026-06-19T08:08:48.258737+00:00"
+  },
+  {
+    "title": "Sudoku do kapsy",
+    "url": "https://www.kosmas.cz/knihy/570119/sudoku-do-kapsy/",
+    "description": "Sudoku do kapsy - Petr Sýkora",
+    "authors": [
+      "Petr Sýkora"
+    ],
+    "date": "2026-06-19T08:08:47.258737+00:00"
+  },
+  {
+    "title": "Sudoku na cesty",
+    "url": "https://www.kosmas.cz/knihy/570121/sudoku-na-cesty/",
+    "description": "Sudoku na cesty - Petr Sýkora",
+    "authors": [
+      "Petr Sýkora"
+    ],
+    "date": "2026-06-19T08:08:46.258737+00:00"
+  },
+  {
+    "title": "Czech Fairy Tales / České pohádky /Plot/",
+    "url": "https://www.kosmas.cz/knihy/570122/czech-fairy-tales-ceske-pohadky-plot/",
+    "description": "Czech Fairy Tales / České pohádky /Plot/ - Magdalena Wagnerová",
+    "authors": [
+      "Magdalena Wagnerová"
+    ],
+    "date": "2026-06-19T08:08:45.258737+00:00"
+  },
+  {
+    "title": "Slavnosti sněženek - třetí setkání v Hrabalově Kersku",
+    "url": "https://www.kosmas.cz/knihy/570175/slavnosti-snezenek-treti-setkani-v-hrabalove-kersku/",
+    "description": "Slavnosti sněženek - třetí setkání v Hrabalově Kersku - Bronislav Kuba",
+    "authors": [
+      "Bronislav Kuba"
+    ],
+    "date": "2026-06-19T08:08:43.258737+00:00"
+  },
+  {
+    "title": "Slavnosti sněženek - setkání s Hrabalovou múzou",
+    "url": "https://www.kosmas.cz/knihy/570176/slavnosti-snezenek-setkani-s-hrabalovou-muzou/",
+    "description": "Slavnosti sněženek - setkání s Hrabalovou múzou - Bronislav Kuba",
+    "authors": [
+      "Bronislav Kuba"
+    ],
+    "date": "2026-06-19T08:08:42.258737+00:00"
+  },
+  {
+    "title": "Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku",
+    "url": "https://www.kosmas.cz/knihy/570177/slavnosti-snezenek-lidske-osudy-a-odhalena-tajemstvi-v-hrabalove-kersku/",
+    "description": "Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku - Bronislav Kuba",
+    "authors": [
+      "Bronislav Kuba"
+    ],
+    "date": "2026-06-19T08:08:41.258737+00:00"
+  },
+  {
+    "title": "Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem",
+    "url": "https://www.kosmas.cz/knihy/570178/slavnosti-snezenek-setkani-s-bohumilem-hrabalem-a-jeho-dilem/",
+    "description": "Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem - Bronislav Kuba",
+    "authors": [
+      "Bronislav Kuba"
+    ],
+    "date": "2026-06-19T08:08:40.258737+00:00"
+  },
+  {
     "title": "Protože",
     "url": "https://www.kosmas.cz/knihy/570138/protoze/",
     "description": "Protože - Joshua Mensch",
@@ -1652,166 +1814,5 @@
       "Alena Isabella Grimmichová"
     ],
     "date": "2026-06-06T07:16:19.943789+00:00"
-  },
-  {
-    "title": "Putinova triáda",
-    "url": "https://www.kosmas.cz/knihy/569721/putinova-triada/",
-    "description": "Putinova triáda - Jiří Fidler",
-    "authors": [
-      "Jiří Fidler"
-    ],
-    "date": "2026-06-05T07:44:44.133178+00:00"
-  },
-  {
-    "title": "Žena přes palubu",
-    "url": "https://www.kosmas.cz/knihy/569046/zena-pres-palubu/",
-    "description": "Žena přes palubu - Portia MacIntosh",
-    "authors": [
-      "Portia MacIntosh"
-    ],
-    "date": "2026-06-05T07:44:43.133178+00:00"
-  },
-  {
-    "title": "Pan Bůh a paní Bohová mají krizi",
-    "url": "https://www.kosmas.cz/knihy/569620/pan-buh-a-pani-bohova-maji-krizi/",
-    "description": "Pan Bůh a paní Bohová mají krizi - Ivan Lupták",
-    "authors": [
-      "Ivan Lupták"
-    ],
-    "date": "2026-06-05T07:44:42.133178+00:00"
-  },
-  {
-    "title": "50 nejlepších drinků",
-    "url": "https://www.kosmas.cz/knihy/569397/50-nejlepsich-drinku/",
-    "description": "50 nejlepších drinků - Tristan Stephenson",
-    "authors": [
-      "Tristan Stephenson"
-    ],
-    "date": "2026-06-05T07:44:41.133178+00:00"
-  },
-  {
-    "title": "Kouzelné čtení - Kvízy do kapsy pro školáky",
-    "url": "https://www.kosmas.cz/knihy/569711/kouzelne-cteni-kvizy-do-kapsy-pro-skolaky/",
-    "description": "Kouzelné čtení - Kvízy do kapsy pro školáky",
-    "authors": [],
-    "date": "2026-06-05T07:44:40.133178+00:00"
-  },
-  {
-    "title": "Komu patří déšť",
-    "url": "https://www.kosmas.cz/knihy/569739/komu-patri-dest/",
-    "description": "Komu patří déšť - Jiří Hort",
-    "authors": [
-      "Jiří Hort"
-    ],
-    "date": "2026-06-05T07:44:38.133178+00:00"
-  },
-  {
-    "title": "Dědictví skotských templářů",
-    "url": "https://www.kosmas.cz/knihy/568809/dedictvi-skotskych-templaru/",
-    "description": "Dědictví skotských templářů - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-06-05T07:44:37.133178+00:00"
-  },
-  {
-    "title": "Ukradené lži",
-    "url": "https://www.kosmas.cz/knihy/568527/ukradene-lzi/",
-    "description": "Ukradené lži - Monty Jay",
-    "authors": [
-      "Monty Jay"
-    ],
-    "date": "2026-06-05T07:44:35.133178+00:00"
-  },
-  {
-    "title": "Famous but Misunderstood",
-    "url": "https://www.kosmas.cz/knihy/569874/famous-but-misunderstood/",
-    "description": "Famous but Misunderstood - Miroslav Novák",
-    "authors": [
-      "Miroslav Novák"
-    ],
-    "date": "2026-06-05T07:44:34.133178+00:00"
-  },
-  {
-    "title": "Neuronální člověk",
-    "url": "https://www.kosmas.cz/knihy/569875/neuronalni-clovek/",
-    "description": "Neuronální člověk - Catherine Malabou",
-    "authors": [
-      "Catherine Malabou"
-    ],
-    "date": "2026-06-05T07:44:33.133178+00:00"
-  },
-  {
-    "title": "Původ je cíl",
-    "url": "https://www.kosmas.cz/knihy/569876/puvod-je-cil/",
-    "description": "Původ je cíl - Marek Kettner",
-    "authors": [
-      "Marek Kettner"
-    ],
-    "date": "2026-06-05T07:44:32.133178+00:00"
-  },
-  {
-    "title": "Stranou zájmu, pod státním dohledem",
-    "url": "https://www.kosmas.cz/knihy/569877/stranou-zajmu-pod-statnim-dohledem/",
-    "description": "Stranou zájmu, pod státním dohledem - Jan Vašek",
-    "authors": [
-      "Jan Vašek"
-    ],
-    "date": "2026-06-05T07:44:31.133178+00:00"
-  },
-  {
-    "title": "Mijamoto Musaši 2",
-    "url": "https://www.kosmas.cz/knihy/568982/mijamoto-musasi-2/",
-    "description": "Mijamoto Musaši 2 - Jakub Zeman",
-    "authors": [
-      "Jakub Zeman"
-    ],
-    "date": "2026-06-05T07:44:30.133178+00:00"
-  },
-  {
-    "title": "Neuróza a lidský růst",
-    "url": "https://www.kosmas.cz/knihy/568885/neuroza-a-lidsky-rust/",
-    "description": "Neuróza a lidský růst - Karen Horneyová",
-    "authors": [
-      "Karen Horneyová"
-    ],
-    "date": "2026-06-05T07:44:29.133178+00:00"
-  },
-  {
-    "title": "Posvátná děvka - moudrost ženského klína",
-    "url": "https://www.kosmas.cz/knihy/569376/posvatna-devka-moudrost-zenskeho-klina/",
-    "description": "Posvátná děvka - moudrost ženského klína - Monika Rozárka",
-    "authors": [
-      "Monika Rozárka"
-    ],
-    "date": "2026-06-05T07:44:26.133178+00:00"
-  },
-  {
-    "title": "Mariborská hypnóza",
-    "url": "https://www.kosmas.cz/knihy/569719/mariborska-hypnoza/",
-    "description": "Mariborská hypnóza - Dora Kaprálová",
-    "authors": [
-      "Dora Kaprálová"
-    ],
-    "date": "2026-06-04T07:51:52.187459+00:00"
-  },
-  {
-    "title": "Dvůr touhy a zlata",
-    "url": "https://www.kosmas.cz/knihy/569763/dvur-touhy-a-zlata/",
-    "description": "Dvůr touhy a zlata - Eliza Raine",
-    "authors": [
-      "Eliza Raine"
-    ],
-    "date": "2026-06-04T07:51:51.187459+00:00"
-  },
-  {
-    "title": "Vraždy pod sluncem: Zločin v Amalfi",
-    "url": "https://www.kosmas.cz/knihy/568045/vrazdy-pod-sluncem-zlocin-v-amalfi/",
-    "description": "Vraždy pod sluncem: Zločin v Amalfi - Anders de la Motte, Anette de la Motte",
-    "authors": [
-      "Anders de la Motte",
-      "Anette de la Motte"
-    ],
-    "date": "2026-06-04T07:51:50.187459+00:00"
   }
 ]

@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-19 08:08:58 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Úžasní netopýři
+2. Giovanniho pokoj
+3. Mise v kolonii
+4. Léto v New Yorku
+5. Digestoř je kapela
+6. Krvavý květ
+7. Projektory
+8. Ostrov zalitý sluncem
+9. Deník citového vyděrače
+10. Krotitelka snů
+11. Otcomilky
+12. Sudoku do kapsy
+13. Sudoku na cesty
+14. Czech Fairy Tales / České pohádky /Plot/
+15. Slavnosti sněženek - třetí setkání v Hrabalově Kersku
+16. Slavnosti sněženek - setkání s Hrabalovou múzou
+17. Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku
+18. Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem
+
+---
+
+## 🕐 2026-06-19 08:08:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-18 07:57:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -236,48 +277,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Svět jedinečností
-
----
-
-## 🕐 2026-06-12 07:53:09 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Bílá vrána
-2. Anatomie vraždy
-3. Vražedné roráty
-4. Ta první je vždycky blondýna
-5. Přirozená inteligence
-6. Obdivuhodná zvířata IV. - Psovití a zajíci
-7. Vyprošťovák ze chmur
-8. Live 80
-9. Pokrevní pouta 1-6
-10. Interna
-11. Zvířecí Prvňáčci
-12. Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ
-13. Ročenka pro filosofii a fenomenologický výzkum 2025
-14. Kazuistiky v oftalmologii
-15. Dopravní letadla
-16. Zavařování s bylinkami a kořením
-17. Čs. armáda 1918–1939
-18. Žena přes palubu
-19. Art & Antiques 6/2026
-
----
-
-## 🕐 2026-06-12 07:53:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
