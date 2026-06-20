@@ -1,5 +1,151 @@
 [
   {
+    "title": "Kouzelné léto",
+    "url": "https://www.kosmas.cz/knihy/569971/kouzelne-leto/",
+    "description": "Kouzelné léto - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-20T07:33:31.603287+00:00"
+  },
+  {
+    "title": "Super Mario Galaktický film - Oficiální kniha aktivit",
+    "url": "https://www.kosmas.cz/knihy/569044/super-mario-galakticky-film-oficialni-kniha-aktivit/",
+    "description": "Super Mario Galaktický film - Oficiální kniha aktivit - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-06-20T07:33:30.603287+00:00"
+  },
+  {
+    "title": "Tajemné stezky - Za tajemstvím Moravského krasu",
+    "url": "https://www.kosmas.cz/knihy/569503/tajemne-stezky-za-tajemstvim-moravskeho-krasu/",
+    "description": "Tajemné stezky - Za tajemstvím Moravského krasu - Martin Oliva",
+    "authors": [
+      "Martin Oliva"
+    ],
+    "date": "2026-06-20T07:33:29.603287+00:00"
+  },
+  {
+    "title": "To je Praha",
+    "url": "https://www.kosmas.cz/knihy/569626/to-je-praha/",
+    "description": "To je Praha - Olga Černá",
+    "authors": [
+      "Olga Černá"
+    ],
+    "date": "2026-06-20T07:33:28.603287+00:00"
+  },
+  {
+    "title": "Hra - Zaměněná písmena",
+    "url": "https://www.kosmas.cz/knihy/569861/hra-zamenena-pismena/",
+    "description": "Hra - Zaměněná písmena - Lucie Strnadová",
+    "authors": [
+      "Lucie Strnadová"
+    ],
+    "date": "2026-06-20T07:33:27.603287+00:00"
+  },
+  {
+    "title": "Hra - Ztracená písmena",
+    "url": "https://www.kosmas.cz/knihy/569863/hra-ztracena-pismena/",
+    "description": "Hra - Ztracená písmena - Lucie Strnadová",
+    "authors": [
+      "Lucie Strnadová"
+    ],
+    "date": "2026-06-20T07:33:26.603287+00:00"
+  },
+  {
+    "title": "Šepoty údolí",
+    "url": "https://www.kosmas.cz/knihy/569936/sepoty-udoli/",
+    "description": "Šepoty údolí - Savka Marenić",
+    "authors": [
+      "Savka Marenić"
+    ],
+    "date": "2026-06-20T07:33:25.603287+00:00"
+  },
+  {
+    "title": "Drobné radosti",
+    "url": "https://www.kosmas.cz/knihy/569968/drobne-radosti/",
+    "description": "Drobné radosti - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-20T07:33:24.603287+00:00"
+  },
+  {
+    "title": "Hřejivý podzim",
+    "url": "https://www.kosmas.cz/knihy/569969/hrejivy-podzim/",
+    "description": "Hřejivý podzim - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-20T07:33:23.603287+00:00"
+  },
+  {
+    "title": "Kvak a Žbluňk jsou kamarádi",
+    "url": "https://www.kosmas.cz/knihy/570001/kvak-a-zblunk-jsou-kamaradi/",
+    "description": "Kvak a Žbluňk jsou kamarádi - Arnold Lobel",
+    "authors": [
+      "Arnold Lobel"
+    ],
+    "date": "2026-06-20T07:33:22.603287+00:00"
+  },
+  {
+    "title": "Runová magie",
+    "url": "https://www.kosmas.cz/knihy/570172/runova-magie/",
+    "description": "Runová magie - Lorena Assisi, Giulia Manzi",
+    "authors": [
+      "Lorena Assisi",
+      "Giulia Manzi"
+    ],
+    "date": "2026-06-20T07:33:17.603287+00:00"
+  },
+  {
+    "title": "Hrdinové",
+    "url": "https://www.kosmas.cz/knihy/570187/hrdinove/",
+    "description": "Hrdinové - Eduard Stehlík",
+    "authors": [
+      "Eduard Stehlík"
+    ],
+    "date": "2026-06-20T07:33:16.603287+00:00"
+  },
+  {
+    "title": "Veselé Vánoce",
+    "url": "https://www.kosmas.cz/knihy/570204/vesele-vanoce/",
+    "description": "Veselé Vánoce - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-20T07:33:15.603287+00:00"
+  },
+  {
+    "title": "Zimní radovánky",
+    "url": "https://www.kosmas.cz/knihy/570208/zimni-radovanky/",
+    "description": "Zimní radovánky - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-20T07:33:14.603287+00:00"
+  },
+  {
+    "title": "Teď je to na tobě",
+    "url": "https://www.kosmas.cz/knihy/570229/ted-je-to-na-tobe/",
+    "description": "Teď je to na tobě - Leona Jordánová",
+    "authors": [
+      "Leona Jordánová"
+    ],
+    "date": "2026-06-20T07:33:13.603287+00:00"
+  },
+  {
+    "title": "Dvě svatební komedie",
+    "url": "https://www.kosmas.cz/knihy/570274/dve-svatebni-komedie/",
+    "description": "Dvě svatební komedie - Theobald Lewis, William Shakespeare",
+    "authors": [
+      "Theobald Lewis",
+      "William Shakespeare"
+    ],
+    "date": "2026-06-20T07:33:12.603287+00:00"
+  },
+  {
     "title": "Úžasní netopýři",
     "url": "https://www.kosmas.cz/knihy/570005/uzasni-netopyri/",
     "description": "Úžasní netopýři - Yossi Yovel",
@@ -1673,146 +1819,5 @@
       "Pavlína Jurková"
     ],
     "date": "2026-06-06T07:16:37.943789+00:00"
-  },
-  {
-    "title": "Lustig: Svědek rozvratu lidskosti",
-    "url": "https://www.kosmas.cz/knihy/568553/lustig-svedek-rozvratu-lidskosti/",
-    "description": "Lustig: Svědek rozvratu lidskosti - Klára Krásenská, Bohumil Melichar",
-    "authors": [
-      "Klára Krásenská",
-      "Bohumil Melichar"
-    ],
-    "date": "2026-06-06T07:16:36.943789+00:00"
-  },
-  {
-    "title": "Cesty ke svobodě",
-    "url": "https://www.kosmas.cz/knihy/568603/cesty-ke-svobode/",
-    "description": "Cesty ke svobodě - Eva Eberlová",
-    "authors": [
-      "Eva Eberlová"
-    ],
-    "date": "2026-06-06T07:16:35.943789+00:00"
-  },
-  {
-    "title": "Asterix 41 - Asterix v Lusitánii",
-    "url": "https://www.kosmas.cz/knihy/567964/asterix-41-asterix-v-lusitanii/",
-    "description": "Asterix 41 - Asterix v Lusitánii - Fabcaro",
-    "authors": [
-      "Fabcaro"
-    ],
-    "date": "2026-06-06T07:16:33.943789+00:00"
-  },
-  {
-    "title": "Stitch - Kuchařka",
-    "url": "https://www.kosmas.cz/knihy/567982/stitch-kucharka/",
-    "description": "Stitch - Kuchařka - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-06T07:16:32.943789+00:00"
-  },
-  {
-    "title": "Minipivovary Pexeso",
-    "url": "https://www.kosmas.cz/knihy/569852/minipivovary-pexeso/",
-    "description": "Minipivovary Pexeso",
-    "authors": [],
-    "date": "2026-06-06T07:16:31.943789+00:00"
-  },
-  {
-    "title": "Špionská mise",
-    "url": "https://www.kosmas.cz/knihy/568002/spionska-mise/",
-    "description": "Špionská mise",
-    "authors": [],
-    "date": "2026-06-06T07:16:30.943789+00:00"
-  },
-  {
-    "title": "Synagogy v Čechách",
-    "url": "https://www.kosmas.cz/knihy/568003/synagogy-v-cechach/",
-    "description": "Synagogy v Čechách - Blanka Rozkošná",
-    "authors": [
-      "Blanka Rozkošná"
-    ],
-    "date": "2026-06-06T07:16:29.943789+00:00"
-  },
-  {
-    "title": "W.I.T.C.H. Komiks 28-30",
-    "url": "https://www.kosmas.cz/knihy/568004/w.i.t.c.h.-komiks-28-30/",
-    "description": "W.I.T.C.H. Komiks 28-30 - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-06T07:16:28.943789+00:00"
-  },
-  {
-    "title": "Dua Lipa (Live From Mexico)",
-    "url": "https://www.kosmas.cz/knihy/569890/dua-lipa-live-from-mexico/",
-    "description": "Dua Lipa (Live From Mexico) - Dua Lipa",
-    "authors": [
-      "Dua Lipa"
-    ],
-    "date": "2026-06-06T07:16:27.943789+00:00"
-  },
-  {
-    "title": "Doba Ježíše Nazaretského",
-    "url": "https://www.kosmas.cz/knihy/569311/doba-jezise-nazaretskeho/",
-    "description": "Doba Ježíše Nazaretského - Mireia Ryšková",
-    "authors": [
-      "Mireia Ryšková"
-    ],
-    "date": "2026-06-06T07:16:26.943789+00:00"
-  },
-  {
-    "title": "Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů",
-    "url": "https://www.kosmas.cz/knihy/569896/historicka-podoba-prava-na-valku-z-pohledu-vybranych-stredovekych-a---filozofu/",
-    "description": "Historická podoba práva na válku z pohledu vybraných středověkých a raně novověkých filozofů - Aneta Kočová",
-    "authors": [
-      "Aneta Kočová"
-    ],
-    "date": "2026-06-06T07:16:25.943789+00:00"
-  },
-  {
-    "title": "Krušnohorský poutník",
-    "url": "https://www.kosmas.cz/knihy/569906/krusnohorsky-poutnik/",
-    "description": "Krušnohorský poutník - Petr Mikšíček",
-    "authors": [
-      "Petr Mikšíček"
-    ],
-    "date": "2026-06-06T07:16:23.943789+00:00"
-  },
-  {
-    "title": "Na Závisti",
-    "url": "https://www.kosmas.cz/knihy/569907/na-zavisti/",
-    "description": "Na Závisti - Marie Irová",
-    "authors": [
-      "Marie Irová"
-    ],
-    "date": "2026-06-06T07:16:22.943789+00:00"
-  },
-  {
-    "title": "Smyčka",
-    "url": "https://www.kosmas.cz/knihy/569908/smycka/",
-    "description": "Smyčka - Radek Gajdošík",
-    "authors": [
-      "Radek Gajdošík"
-    ],
-    "date": "2026-06-06T07:16:21.943789+00:00"
-  },
-  {
-    "title": "Originální textilní techniky",
-    "url": "https://www.kosmas.cz/knihy/569913/originalni-textilni-techniky/",
-    "description": "Originální textilní techniky - Alena Isabella Grimmichová",
-    "authors": [
-      "Alena Isabella Grimmichová"
-    ],
-    "date": "2026-06-06T07:16:20.943789+00:00"
-  },
-  {
-    "title": "Tisk a razítkování pro malé i velké",
-    "url": "https://www.kosmas.cz/knihy/569914/tisk-a-razitkovani-pro-male-i-velke/",
-    "description": "Tisk a razítkování pro malé i velké - Alena Isabella Grimmichová",
-    "authors": [
-      "Alena Isabella Grimmichová"
-    ],
-    "date": "2026-06-06T07:16:19.943789+00:00"
   }
 ]

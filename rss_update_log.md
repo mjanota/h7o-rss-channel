@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-20 07:33:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Kouzelné léto
+2. Super Mario Galaktický film - Oficiální kniha aktivit
+3. Tajemné stezky - Za tajemstvím Moravského krasu
+4. To je Praha
+5. Hra - Zaměněná písmena
+6. Hra - Ztracená písmena
+7. Šepoty údolí
+8. Drobné radosti
+9. Hřejivý podzim
+10. Kvak a Žbluňk jsou kamarádi
+11. Runová magie
+12. Hrdinové
+13. Veselé Vánoce
+14. Zimní radovánky
+15. Teď je to na tobě
+16. Dvě svatební komedie
+
+---
+
+## 🕐 2026-06-20 07:33:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Na okraji a proti
+
+---
+
 ## 🕐 2026-06-19 08:08:58 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -238,45 +281,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-13 07:31:22 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. Mysterium cosmographicum
-2. Bouře ve sklenici
-3. Cizinec v jarním vánku 3
-4. Minecraft manga: Cesta na konec světa 1
-5. Aargh! 25
-6. Pokoj v barvách štěstí: Detektiv na scestí 1
-7. Ďábel v detailu 1
-8. Zaklínač: Medvěd a motýl
-9. Simpsonovi 6/2026
-10. Jak jsem se reinkarnoval coby sliz 17
-11. Supergirl: Dívka z Kryptonu
-12. Maškaráda géniů
-
----
-
-## 🕐 2026-06-13 07:31:20 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Svět jedinečností
 
 ---
 
