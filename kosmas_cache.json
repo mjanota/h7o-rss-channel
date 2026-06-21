@@ -1,5 +1,24 @@
 [
   {
+    "title": "Vybrané kapitoly ze sportovního tréninku",
+    "url": "https://www.kosmas.cz/knihy/570275/vybrane-kapitoly-ze-sportovniho-treninku/",
+    "description": "Vybrané kapitoly ze sportovního tréninku - Michal Hrubý",
+    "authors": [
+      "Michal Hrubý"
+    ],
+    "date": "2026-06-21T07:52:32.223638+00:00"
+  },
+  {
+    "title": "Jak ovládnout supersíly",
+    "url": "https://www.kosmas.cz/knihy/570350/jak-ovladnout-supersily/",
+    "description": "Jak ovládnout supersíly - William Potter, Richard Watson",
+    "authors": [
+      "William Potter",
+      "Richard Watson"
+    ],
+    "date": "2026-06-21T07:52:31.223638+00:00"
+  },
+  {
     "title": "Kouzelné léto",
     "url": "https://www.kosmas.cz/knihy/569971/kouzelne-leto/",
     "description": "Kouzelné léto - kolektiv",
@@ -1801,23 +1820,5 @@
       "Petr Honzejk"
     ],
     "date": "2026-06-07T07:36:49.239724+00:00"
-  },
-  {
-    "title": "Umění a jeho objekty",
-    "url": "https://www.kosmas.cz/knihy/542873/umeni-a-jeho-objekty/",
-    "description": "Umění a jeho objekty - Richard Arthur Wollheim",
-    "authors": [
-      "Richard Arthur Wollheim"
-    ],
-    "date": "2026-06-06T07:16:38.943789+00:00"
-  },
-  {
-    "title": "Eliška Andílek",
-    "url": "https://www.kosmas.cz/knihy/568479/eliska-andilek/",
-    "description": "Eliška Andílek - Pavlína Jurková",
-    "authors": [
-      "Pavlína Jurková"
-    ],
-    "date": "2026-06-06T07:16:37.943789+00:00"
   }
 ]

@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-21 07:52:45 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Vybrané kapitoly ze sportovního tréninku
+2. Jak ovládnout supersíly
+
+---
+
+## 🕐 2026-06-21 07:52:42 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-20 07:33:31 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -253,34 +278,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Výhody obrazového vyprávění: Český komiks míří do Frankfurtu
-
----
-
-## 🕐 2026-06-14 07:49:32 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Metoda fluxí a nekonečných řad
-2. Stránka nenalezena
-3. Proč mozek potřebuje přátele
-4. V srdci Střední Asie
-5. Masky bohů 3 - Mýty Západu
-
----
-
-## 🕐 2026-06-14 07:49:31 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
