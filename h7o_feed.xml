@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 21 Jun 2026 07:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Válka jako šance</title>
+      <link>https://www.h7o.cz/clanky/14555-valka-jako-sance</link>
+      <description>„Kočár umělecké slávy bývá často tažen smrtí, bolestí, utrpením a útlakem (jiných),“ píše Adéla Knapová ve svém pravidelném sloupku z Charkova.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14555-valka-jako-sance</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Na okraji a proti</title>
       <link>https://www.h7o.cz/clanky/14554-na-okraji-a-proti</link>
@@ -427,13 +434,6 @@
       <description>Spisovatel, novinář a literární historik Vratislav Maňák se v posledních dvou knihách odklonil od beletrie a krátce po sobě vydal studii „Orchestrace jedné denunciace“ a eseje „S Wittgensteinem v gay sauně“. I o tom, jaký byl přechod od prózy k esejistice, se dočtete v přítomném rozhovoru.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14477-hledam-zpusoby-jak-rozsirit-sve-vypovedni-moznosti</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malá jiskra optimismu</title>
-      <link>https://www.h7o.cz/clanky/14476-mala-jiskra-optimismu</link>
-      <description>Zemřel německý filozof Jürgen Habermas. Přední představitel frankfurtské školy a kritické teorie se ve svém díle zabýval veřejnou sférou a podobami demokratických institucí. Habermasova perspektiva a snaha pečovat o demokracii a moderní politiku mají smysl i po jeho odchodu. Možná více než kdy…</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14476-mala-jiskra-optimismu</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

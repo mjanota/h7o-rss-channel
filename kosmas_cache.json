@@ -1,5 +1,73 @@
 [
   {
+    "title": "Očarovaná",
+    "url": "https://www.kosmas.cz/knihy/565337/ocarovana/",
+    "description": "Očarovaná - Laura Thalassa",
+    "authors": [
+      "Laura Thalassa"
+    ],
+    "date": "2026-06-22T08:21:04.651153+00:00"
+  },
+  {
+    "title": "Sága půlelfů - Kniha druhá: Koruna stínů",
+    "url": "https://www.kosmas.cz/knihy/570151/saga-pulelfu-kniha-druha-koruna-stinu/",
+    "description": "Sága půlelfů - Kniha druhá: Koruna stínů - Melisssa Blair",
+    "authors": [
+      "Melisssa Blair"
+    ],
+    "date": "2026-06-22T08:21:03.651153+00:00"
+  },
+  {
+    "title": "Kontexty 3/2026",
+    "url": "https://www.kosmas.cz/knihy/570384/kontexty-3-2026/",
+    "description": "Kontexty 3/2026",
+    "authors": [],
+    "date": "2026-06-22T08:20:50.651153+00:00"
+  },
+  {
+    "title": "Kódy, buildy, firmwary",
+    "url": "https://www.kosmas.cz/knihy/569052/kody-buildy-firmwary/",
+    "description": "Kódy, buildy, firmwary - Martin Malý",
+    "authors": [
+      "Martin Malý"
+    ],
+    "date": "2026-06-22T08:20:49.651153+00:00"
+  },
+  {
+    "title": "AI na hraně",
+    "url": "https://www.kosmas.cz/knihy/570436/ai-na-hrane/",
+    "description": "AI na hraně - Milan Novák",
+    "authors": [
+      "Milan Novák"
+    ],
+    "date": "2026-06-22T08:20:48.651153+00:00"
+  },
+  {
+    "title": "Host 2026/6",
+    "url": "https://www.kosmas.cz/knihy/567538/host-2026-6/",
+    "description": "Host 2026/6",
+    "authors": [],
+    "date": "2026-06-22T08:20:47.651153+00:00"
+  },
+  {
+    "title": "Dědička ohně",
+    "url": "https://www.kosmas.cz/knihy/568460/dedicka-ohne/",
+    "description": "Dědička ohně - Sarah J. Maas",
+    "authors": [
+      "Sarah J. Maas"
+    ],
+    "date": "2026-06-22T08:20:46.651153+00:00"
+  },
+  {
+    "title": "Já, Karel Gott a můj život v emigraci",
+    "url": "https://www.kosmas.cz/knihy/568462/ja-karel-gott-a-muj-zivot-v-emigraci/",
+    "description": "Já, Karel Gott a můj život v emigraci - George Suchánek",
+    "authors": [
+      "George Suchánek"
+    ],
+    "date": "2026-06-22T08:20:45.651153+00:00"
+  },
+  {
     "title": "Vybrané kapitoly ze sportovního tréninku",
     "url": "https://www.kosmas.cz/knihy/570275/vybrane-kapitoly-ze-sportovniho-treninku/",
     "description": "Vybrané kapitoly ze sportovního tréninku - Michal Hrubý",
@@ -1752,73 +1820,5 @@
       "kol."
     ],
     "date": "2026-06-07T07:37:03.239724+00:00"
-  },
-  {
-    "title": "Karel Koutský - Fotografie",
-    "url": "https://www.kosmas.cz/knihy/569777/karel-koutsky-fotografie/",
-    "description": "Karel Koutský - Fotografie",
-    "authors": [],
-    "date": "2026-06-07T07:37:01.239724+00:00"
-  },
-  {
-    "title": "Svět kolem tebe Pexeso",
-    "url": "https://www.kosmas.cz/knihy/569850/svet-kolem-tebe-pexeso/",
-    "description": "Svět kolem tebe Pexeso",
-    "authors": [],
-    "date": "2026-06-07T07:37:00.239724+00:00"
-  },
-  {
-    "title": "Dostihy a sázky Pexeso",
-    "url": "https://www.kosmas.cz/knihy/569851/dostihy-a-sazky-pexeso/",
-    "description": "Dostihy a sázky Pexeso",
-    "authors": [],
-    "date": "2026-06-07T07:36:59.239724+00:00"
-  },
-  {
-    "title": "Kvizour Párty hra",
-    "url": "https://www.kosmas.cz/knihy/569853/kvizour-party-hra/",
-    "description": "Kvizour Párty hra - Zbyněk Otáhal, Štěpán Peterka, Michal Trávníček",
-    "authors": [
-      "Zbyněk Otáhal",
-      "Štěpán Peterka",
-      "Michal Trávníček"
-    ],
-    "date": "2026-06-07T07:36:57.239724+00:00"
-  },
-  {
-    "title": "Pavel z Tarsu a jeho svět",
-    "url": "https://www.kosmas.cz/knihy/569292/pavel-z-tarsu-a-jeho-svet/",
-    "description": "Pavel z Tarsu a jeho svět - Mireia Ryšková",
-    "authors": [
-      "Mireia Ryšková"
-    ],
-    "date": "2026-06-07T07:36:53.239724+00:00"
-  },
-  {
-    "title": "Velvet Blues",
-    "url": "https://www.kosmas.cz/knihy/568701/velvet-blues/",
-    "description": "Velvet Blues - Karolína Ryvolová",
-    "authors": [
-      "Karolína Ryvolová"
-    ],
-    "date": "2026-06-07T07:36:51.239724+00:00"
-  },
-  {
-    "title": "Srdce a šíp",
-    "url": "https://www.kosmas.cz/knihy/569904/srdce-a-sip/",
-    "description": "Srdce a šíp - Frost Kay",
-    "authors": [
-      "Frost Kay"
-    ],
-    "date": "2026-06-07T07:36:50.239724+00:00"
-  },
-  {
-    "title": "Generační konflikt",
-    "url": "https://www.kosmas.cz/knihy/569905/generacni-konflikt/",
-    "description": "Generační konflikt - Petr Honzejk",
-    "authors": [
-      "Petr Honzejk"
-    ],
-    "date": "2026-06-07T07:36:49.239724+00:00"
   }
 ]

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Malá jiskra optimismu",
-    "url": "https://www.h7o.cz/clanky/14476-mala-jiskra-optimismu",
-    "description": "Zemřel německý filozof Jürgen Habermas. Přední představitel frankfurtské školy a kritické teorie se ve svém díle zabýval veřejnou sférou a podobami demokratických institucí. Habermasova perspektiva a snaha pečovat o demokracii a moderní politiku mají smysl i po jeho odchodu. Možná více než kdy…",
-    "date": "2026-03-24T00:00:00",
-    "author": "Michael Hauser",
-    "category": "téma"
-  },
-  {
     "title": "Hledám způsoby, jak rozšířit své výpovědní možnosti",
     "url": "https://www.h7o.cz/clanky/14477-hledam-zpusoby-jak-rozsirit-sve-vypovedni-moznosti",
     "description": "Spisovatel, novinář a literární historik Vratislav Maňák se v posledních dvou knihách odklonil od beletrie a krátce po sobě vydal studii „Orchestrace jedné denunciace“ a eseje „S Wittgensteinem v gay sauně“. I o tom, jaký byl přechod od prózy k esejistice, se dočtete v přítomném rozhovoru.",
@@ -486,5 +478,13 @@
     "date": "2026-06-19T00:00:00",
     "author": "",
     "category": ""
+  },
+  {
+    "title": "Válka jako šance",
+    "url": "https://www.h7o.cz/clanky/14555-valka-jako-sance",
+    "description": "„Kočár umělecké slávy bývá často tažen smrtí, bolestí, utrpením a útlakem (jiných),“ píše Adéla Knapová ve svém pravidelném sloupku z Charkova.",
+    "date": "2026-06-22T00:00:00",
+    "author": "Adéla Knapová",
+    "category": "sloupek"
   }
 ]

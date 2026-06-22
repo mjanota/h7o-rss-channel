@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-22 08:21:04 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Očarovaná
+2. Sága půlelfů - Kniha druhá: Koruna stínů
+3. Kontexty 3/2026
+4. Kódy, buildy, firmwary
+5. AI na hraně
+6. Host 2026/6
+7. Dědička ohně
+8. Já, Karel Gott a můj život v emigraci
+
+---
+
+## 🕐 2026-06-22 08:21:03 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Válka jako šance
+
+---
+
 ## 🕐 2026-06-21 07:52:45 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,41 +278,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Šrámkovka se dostane člověku pod kůži
-
----
-
-## 🕐 2026-06-15 08:20:34 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 8
-
-**Tituly nových položek:**
-
-1. Až tě zabiju
-2. Království tak prokleté a prázdné
-3. Cestuj s Veru
-4. Live 80
-5. Sirota z Manhattanu
-6. Osvícení
-7. Volání po vzpouře
-8. Barvy mého Londýna
-
----
-
-## 🕐 2026-06-15 08:20:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Výhody obrazového vyprávění: Český komiks míří do Frankfurtu
 
 ---
 
