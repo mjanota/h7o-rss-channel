@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-23 07:29:16 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Pražské příběhy
+2. Třída špiónů a ztracený poklad
+3. V pohodě na vodě
+4. Všechny chutě léta
+5. Terapie do kapsy
+6. Spirála marnosti
+7. Láska s vůní čokolády
+8. Jak na úzkosti a obavy
+9. Jak vyrobit diamant
+10. Prima prázdniny
+11. Bezhlavý jezdec
+12. Banksy inspiruje
+13. Stopou, stezkou peřejí - Družina Mývalů
+14. TA dnes
+15. Bít o slam
+16. Dolomity 1, Val Gardena - Rother
+17. Dolomity, Dálkové trasy Alta Via 1–3 - Rother
+18. Lofoty a Vesterály - Rother
+19. Solná komora - Rother
+
+---
+
+## 🕐 2026-06-23 07:29:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Živá paměť obrázkového písma
+
+---
+
 ## 🕐 2026-06-22 08:21:04 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

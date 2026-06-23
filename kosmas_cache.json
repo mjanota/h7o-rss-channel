@@ -1,5 +1,184 @@
 [
   {
+    "title": "Pražské příběhy",
+    "url": "https://www.kosmas.cz/knihy/570189/prazske-pribehy/",
+    "description": "Pražské příběhy - Klára Hášová, David ed Černý",
+    "authors": [
+      "Klára Hášová",
+      "David ed Černý"
+    ],
+    "date": "2026-06-23T07:29:16.121797+00:00"
+  },
+  {
+    "title": "Třída špiónů a ztracený poklad",
+    "url": "https://www.kosmas.cz/knihy/569306/trida-spionu-a-ztraceny-poklad/",
+    "description": "Třída špiónů a ztracený poklad - Petra Martišková",
+    "authors": [
+      "Petra Martišková"
+    ],
+    "date": "2026-06-23T07:29:15.121797+00:00"
+  },
+  {
+    "title": "V pohodě na vodě",
+    "url": "https://www.kosmas.cz/knihy/569307/v-pohode-na-vode/",
+    "description": "V pohodě na vodě - Lenka Jakešová",
+    "authors": [
+      "Lenka Jakešová"
+    ],
+    "date": "2026-06-23T07:29:14.121797+00:00"
+  },
+  {
+    "title": "Všechny chutě léta",
+    "url": "https://www.kosmas.cz/knihy/569391/vsechny-chute-leta/",
+    "description": "Všechny chutě léta - Pavlína Blahotová",
+    "authors": [
+      "Pavlína Blahotová"
+    ],
+    "date": "2026-06-23T07:29:13.121797+00:00"
+  },
+  {
+    "title": "Terapie do kapsy",
+    "url": "https://www.kosmas.cz/knihy/569717/terapie-do-kapsy/",
+    "description": "Terapie do kapsy - Terapie.cz",
+    "authors": [
+      "Terapie.cz"
+    ],
+    "date": "2026-06-23T07:29:12.121797+00:00"
+  },
+  {
+    "title": "Spirála marnosti",
+    "url": "https://www.kosmas.cz/knihy/569954/spirala-marnosti/",
+    "description": "Spirála marnosti - Petr Růžička",
+    "authors": [
+      "Petr Růžička"
+    ],
+    "date": "2026-06-23T07:29:11.121797+00:00"
+  },
+  {
+    "title": "Láska s vůní čokolády",
+    "url": "https://www.kosmas.cz/knihy/568663/laska-s-vuni-cokolady/",
+    "description": "Láska s vůní čokolády - Hanna Blixt",
+    "authors": [
+      "Hanna Blixt"
+    ],
+    "date": "2026-06-23T07:29:10.121797+00:00"
+  },
+  {
+    "title": "Jak na úzkosti a obavy",
+    "url": "https://www.kosmas.cz/knihy/569388/jak-na-uzkosti-a-obavy/",
+    "description": "Jak na úzkosti a obavy - Tereza Hrušková",
+    "authors": [
+      "Tereza Hrušková"
+    ],
+    "date": "2026-06-23T07:29:09.121797+00:00"
+  },
+  {
+    "title": "Jak vyrobit diamant",
+    "url": "https://www.kosmas.cz/knihy/570348/jak-vyrobit-diamant/",
+    "description": "Jak vyrobit diamant - William Potter, Richard Watson",
+    "authors": [
+      "William Potter",
+      "Richard Watson"
+    ],
+    "date": "2026-06-23T07:29:08.121797+00:00"
+  },
+  {
+    "title": "Prima prázdniny",
+    "url": "https://www.kosmas.cz/knihy/570018/prima-prazdniny/",
+    "description": "Prima prázdniny - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-06-23T07:29:07.121797+00:00"
+  },
+  {
+    "title": "Bezhlavý jezdec",
+    "url": "https://www.kosmas.cz/knihy/570069/bezhlavy-jezdec/",
+    "description": "Bezhlavý jezdec - Sandra Baborovská, Vít Havránek",
+    "authors": [
+      "Sandra Baborovská",
+      "Vít Havránek"
+    ],
+    "date": "2026-06-23T07:29:06.121797+00:00"
+  },
+  {
+    "title": "Banksy inspiruje",
+    "url": "https://www.kosmas.cz/knihy/570080/banksy-inspiruje/",
+    "description": "Banksy inspiruje - Sabina De Gregori, Giulia Manzi",
+    "authors": [
+      "Sabina De Gregori",
+      "Giulia Manzi"
+    ],
+    "date": "2026-06-23T07:29:05.121797+00:00"
+  },
+  {
+    "title": "Stopou, stezkou peřejí - Družina Mývalů",
+    "url": "https://www.kosmas.cz/knihy/570270/stopou-stezkou-pereji-druzina-myvalu/",
+    "description": "Stopou, stezkou peřejí - Družina Mývalů - Alice Hajná, Marko Čermák, Libor Hofman",
+    "authors": [
+      "Alice Hajná",
+      "Marko Čermák",
+      "Libor Hofman"
+    ],
+    "date": "2026-06-23T07:29:03.121797+00:00"
+  },
+  {
+    "title": "TA dnes",
+    "url": "https://www.kosmas.cz/knihy/570283/ta-dnes/",
+    "description": "TA dnes - Vann Joines, Ian Stewart",
+    "authors": [
+      "Vann Joines",
+      "Ian Stewart"
+    ],
+    "date": "2026-06-23T07:29:02.121797+00:00"
+  },
+  {
+    "title": "Bít o slam",
+    "url": "https://www.kosmas.cz/knihy/570288/bit-o-slam/",
+    "description": "Bít o slam - Člobrdan",
+    "authors": [
+      "Člobrdan"
+    ],
+    "date": "2026-06-23T07:29:01.121797+00:00"
+  },
+  {
+    "title": "Dolomity 1, Val Gardena - Rother",
+    "url": "https://www.kosmas.cz/knihy/570291/dolomity-1-val-gardena-rother/",
+    "description": "Dolomity 1, Val Gardena - Rother - Franz Hauleitner",
+    "authors": [
+      "Franz Hauleitner"
+    ],
+    "date": "2026-06-23T07:29:00.121797+00:00"
+  },
+  {
+    "title": "Dolomity, Dálkové trasy Alta Via 1–3 - Rother",
+    "url": "https://www.kosmas.cz/knihy/570294/dolomity-dalkove-trasy-alta-via-1-3-rother/",
+    "description": "Dolomity, Dálkové trasy Alta Via 1–3 - Rother - Franz Hauleitner",
+    "authors": [
+      "Franz Hauleitner"
+    ],
+    "date": "2026-06-23T07:28:59.121797+00:00"
+  },
+  {
+    "title": "Lofoty a Vesterály - Rother",
+    "url": "https://www.kosmas.cz/knihy/570295/lofoty-a-vesteraly-rother/",
+    "description": "Lofoty a Vesterály - Rother - Andrea Kostial, Tobias Kostial",
+    "authors": [
+      "Andrea Kostial",
+      "Tobias Kostial"
+    ],
+    "date": "2026-06-23T07:28:58.121797+00:00"
+  },
+  {
+    "title": "Solná komora - Rother",
+    "url": "https://www.kosmas.cz/knihy/570296/solna-komora-rother/",
+    "description": "Solná komora - Rother - Franz Hauleitner",
+    "authors": [
+      "Franz Hauleitner"
+    ],
+    "date": "2026-06-23T07:28:57.121797+00:00"
+  },
+  {
     "title": "Očarovaná",
     "url": "https://www.kosmas.cz/knihy/565337/ocarovana/",
     "description": "Očarovaná - Laura Thalassa",
@@ -1647,178 +1826,5 @@
       "Rebecca Yarros"
     ],
     "date": "2026-06-09T07:29:34.977558+00:00"
-  },
-  {
-    "title": "Stitch - Plyšový deník",
-    "url": "https://www.kosmas.cz/knihy/565733/stitch-plysovy-denik/",
-    "description": "Stitch - Plyšový deník - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-09T07:29:33.977558+00:00"
-  },
-  {
-    "title": "Meč chaosu",
-    "url": "https://www.kosmas.cz/knihy/569277/mec-chaosu/",
-    "description": "Meč chaosu - Dan Abnett, Mike Lee",
-    "authors": [
-      "Dan Abnett",
-      "Mike Lee"
-    ],
-    "date": "2026-06-09T07:29:32.977558+00:00"
-  },
-  {
-    "title": "Neapol. Nový svět na cestách",
-    "url": "https://www.kosmas.cz/knihy/569437/neapol.-novy-svet-na-cestach/",
-    "description": "Neapol. Nový svět na cestách - Miroslav Bárta, Martin Kovář, Michal Půr",
-    "authors": [
-      "Miroslav Bárta",
-      "Martin Kovář",
-      "Michal Půr"
-    ],
-    "date": "2026-06-09T07:29:31.977558+00:00"
-  },
-  {
-    "title": "LEGO® Minecraft Dobrodružství v Endu",
-    "url": "https://www.kosmas.cz/knihy/568467/lego-minecraft-dobrodruzstvi-v-endu/",
-    "description": "LEGO® Minecraft Dobrodružství v Endu",
-    "authors": [],
-    "date": "2026-06-09T07:29:30.977558+00:00"
-  },
-  {
-    "title": "Kavárna U Anděla: Nezapomenutelná sláva",
-    "url": "https://www.kosmas.cz/knihy/568531/kavarna-u-andela-nezapomenutelna-slava/",
-    "description": "Kavárna U Anděla: Nezapomenutelná sláva - Anne Jacobsová, Marie Lamballe",
-    "authors": [
-      "Anne Jacobsová",
-      "Marie Lamballe"
-    ],
-    "date": "2026-06-09T07:29:29.977558+00:00"
-  },
-  {
-    "title": "Ztracený svět",
-    "url": "https://www.kosmas.cz/knihy/568673/ztraceny-svet/",
-    "description": "Ztracený svět - Daniel Gris",
-    "authors": [
-      "Daniel Gris"
-    ],
-    "date": "2026-06-09T07:29:28.977558+00:00"
-  },
-  {
-    "title": "Twisted Wonderland: Příběh z Heartslabyulu 3",
-    "url": "https://www.kosmas.cz/knihy/569601/twisted-wonderland-pribeh-z-heartslabyulu-3/",
-    "description": "Twisted Wonderland: Příběh z Heartslabyulu 3 - Jana Toboso, Wakana Hazuki",
-    "authors": [
-      "Jana Toboso",
-      "Wakana Hazuki"
-    ],
-    "date": "2026-06-09T07:29:27.977558+00:00"
-  },
-  {
-    "title": "Zrádné tropy",
-    "url": "https://www.kosmas.cz/knihy/569605/zradne-tropy/",
-    "description": "Zrádné tropy - Alain Ayroles",
-    "authors": [
-      "Alain Ayroles"
-    ],
-    "date": "2026-06-09T07:29:26.977558+00:00"
-  },
-  {
-    "title": "Hooky - Magie za školou 3",
-    "url": "https://www.kosmas.cz/knihy/569660/hooky-magie-za-skolou-3/",
-    "description": "Hooky - Magie za školou 3 - Míriam Bonasterová Turová",
-    "authors": [
-      "Míriam Bonasterová Turová"
-    ],
-    "date": "2026-06-09T07:29:25.977558+00:00"
-  },
-  {
-    "title": "Batman - Legendy Temného rytíře: Šílenství / Nákaza",
-    "url": "https://www.kosmas.cz/knihy/569671/batman-legendy-temneho-rytire-silenstvi-nakaza/",
-    "description": "Batman - Legendy Temného rytíře: Šílenství / Nákaza - Ellis Warren, Garth Ennis",
-    "authors": [
-      "Ellis Warren",
-      "Garth Ennis"
-    ],
-    "date": "2026-06-09T07:29:24.977558+00:00"
-  },
-  {
-    "title": "Lisabon - Poznejte",
-    "url": "https://www.kosmas.cz/knihy/569244/lisabon-poznejte/",
-    "description": "Lisabon - Poznejte",
-    "authors": [],
-    "date": "2026-06-08T08:02:23.212127+00:00"
-  },
-  {
-    "title": "Podrobná gramatika turečtiny",
-    "url": "https://www.kosmas.cz/knihy/569246/podrobna-gramatika-turectiny/",
-    "description": "Podrobná gramatika turečtiny - Petr Kučera",
-    "authors": [
-      "Petr Kučera"
-    ],
-    "date": "2026-06-08T08:02:22.212127+00:00"
-  },
-  {
-    "title": "Maroko - Cesty divočinou",
-    "url": "https://www.kosmas.cz/knihy/569302/maroko-cesty-divocinou/",
-    "description": "Maroko - Cesty divočinou - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-06-08T08:02:21.212127+00:00"
-  },
-  {
-    "title": "BTS: Megahvězdy K-popu",
-    "url": "https://www.kosmas.cz/knihy/569909/bts-megahvezdy-k-popu/",
-    "description": "BTS: Megahvězdy K-popu - Future Publishing",
-    "authors": [
-      "Future Publishing"
-    ],
-    "date": "2026-06-08T08:02:08.212127+00:00"
-  },
-  {
-    "title": "Hoří ti táta",
-    "url": "https://www.kosmas.cz/knihy/564618/hori-ti-tata/",
-    "description": "Hoří ti táta - Viktorie Hanišová",
-    "authors": [
-      "Viktorie Hanišová"
-    ],
-    "date": "2026-06-07T07:37:08.239724+00:00"
-  },
-  {
-    "title": "Průvodce bolestmi hlavy pro praktické lékaře",
-    "url": "https://www.kosmas.cz/knihy/569485/pruvodce-bolestmi-hlavy-pro-prakticke-lekare/",
-    "description": "Průvodce bolestmi hlavy pro praktické lékaře - Jolana Mračková",
-    "authors": [
-      "Jolana Mračková"
-    ],
-    "date": "2026-06-07T07:37:06.239724+00:00"
-  },
-  {
-    "title": "Fantasy povídky z druhé galaxie",
-    "url": "https://www.kosmas.cz/knihy/569592/fantasy-povidky-z-druhe-galaxie/",
-    "description": "Fantasy povídky z druhé galaxie - Vladimír Němec",
-    "authors": [
-      "Vladimír Němec"
-    ],
-    "date": "2026-06-07T07:37:05.239724+00:00"
-  },
-  {
-    "title": "Pohádky do nemocniční postýlky",
-    "url": "https://www.kosmas.cz/knihy/569602/pohadky-do-nemocnicni-postylky/",
-    "description": "Pohádky do nemocniční postýlky - Thea Mačátová",
-    "authors": [
-      "Thea Mačátová"
-    ],
-    "date": "2026-06-07T07:37:04.239724+00:00"
-  },
-  {
-    "title": "Řím - Poznejte",
-    "url": "https://www.kosmas.cz/knihy/569628/rim-poznejte/",
-    "description": "Řím - Poznejte - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-06-07T07:37:03.239724+00:00"
   }
 ]
