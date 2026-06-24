@@ -5,6 +5,44 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-24 07:25:35 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Stříbrný strom: Sedmá ctnost
+2. Nesejde na tom
+3. Neposkvrněné početí
+4. Mise v kolonii
+5. Digitální zlato
+6. Rošťák Bertík - Zombík!
+7. Albánština - konverzace
+8. Přeroste nás les
+9. Ztracený šnek Šimon
+10. Skandál v Milfordu
+11. Dívka s copem
+12. U táborového ohně
+13. Kód zad
+14. Atlas hub
+15. Panzer III vs. T-34
+
+---
+
+## 🕐 2026-06-24 07:25:33 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-23 07:29:16 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -279,51 +317,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Promptonyma. Proč se všichni jmenují Elias a Elara
-
----
-
-## 🕐 2026-06-16 08:12:30 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Zakynthos - Průvodce do kapsy
-2. Průvodce sebekoučinkem
-3. Dokud nebudeme mít Kristovu podobu
-4. ArtMill
-5. Hrot tužky
-6. Maska jako zrcadlo
-7. Zaměněná písmena
-8. City v nádobách
-9. Cestuj s Veru
-10. Monstrózní mašiny
-11. Praha. Centrum pod lupou
-12. Její poslední slza
-13. Kurýr z planety Země
-14. Marek Dvořák: Už letím
-15. Odyssea našich osudů
-16. Ohořelá mysl
-17. PÍSMENKOV - Veselá abeceda - Písmenka a básničky pro kluky a holčičky
-18. Kuliferda bude školákem
-
----
-
-## 🕐 2026-06-16 08:12:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Šrámkovka se dostane člověku pod kůži
 
 ---
 

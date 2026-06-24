@@ -1,5 +1,136 @@
 [
   {
+    "title": "Stříbrný strom: Sedmá ctnost",
+    "url": "https://www.kosmas.cz/knihy/570114/stribrny-strom-sedma-ctnost/",
+    "description": "Stříbrný strom: Sedmá ctnost - Sabine Ebert",
+    "authors": [
+      "Sabine Ebert"
+    ],
+    "date": "2026-06-24T07:25:35.820916+00:00"
+  },
+  {
+    "title": "Nesejde na tom",
+    "url": "https://www.kosmas.cz/knihy/570141/nesejde-na-tom/",
+    "description": "Nesejde na tom - Michael Třeštík",
+    "authors": [
+      "Michael Třeštík"
+    ],
+    "date": "2026-06-24T07:25:34.820916+00:00"
+  },
+  {
+    "title": "Neposkvrněné početí",
+    "url": "https://www.kosmas.cz/knihy/570147/neposkvrnene-poceti/",
+    "description": "Neposkvrněné početí - Ling Ling Huang",
+    "authors": [
+      "Ling Ling Huang"
+    ],
+    "date": "2026-06-24T07:25:33.820916+00:00"
+  },
+  {
+    "title": "Mise v kolonii",
+    "url": "https://www.kosmas.cz/knihy/553448/mise-v-kolonii/",
+    "description": "Mise v kolonii - Michael Mammay",
+    "authors": [
+      "Michael Mammay"
+    ],
+    "date": "2026-06-24T07:25:32.820916+00:00"
+  },
+  {
+    "title": "Digitální zlato",
+    "url": "https://www.kosmas.cz/knihy/569065/digitalni-zlato/",
+    "description": "Digitální zlato - David Procházka",
+    "authors": [
+      "David Procházka"
+    ],
+    "date": "2026-06-24T07:25:31.820916+00:00"
+  },
+  {
+    "title": "Rošťák Bertík - Zombík!",
+    "url": "https://www.kosmas.cz/knihy/569296/rostak-bertik-zombik/",
+    "description": "Rošťák Bertík - Zombík! - Alan MacDonald",
+    "authors": [
+      "Alan MacDonald"
+    ],
+    "date": "2026-06-24T07:25:30.820916+00:00"
+  },
+  {
+    "title": "Albánština - konverzace",
+    "url": "https://www.kosmas.cz/knihy/569395/albanstina-konverzace/",
+    "description": "Albánština - konverzace - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-06-24T07:25:25.820916+00:00"
+  },
+  {
+    "title": "Přeroste nás les",
+    "url": "https://www.kosmas.cz/knihy/569468/preroste-nas-les/",
+    "description": "Přeroste nás les - Petr Čermáček",
+    "authors": [
+      "Petr Čermáček"
+    ],
+    "date": "2026-06-24T07:25:24.820916+00:00"
+  },
+  {
+    "title": "Ztracený šnek Šimon",
+    "url": "https://www.kosmas.cz/knihy/569755/ztraceny-snek-simon/",
+    "description": "Ztracený šnek Šimon - Linda Liliková",
+    "authors": [
+      "Linda Liliková"
+    ],
+    "date": "2026-06-24T07:25:22.820916+00:00"
+  },
+  {
+    "title": "Skandál v Milfordu",
+    "url": "https://www.kosmas.cz/knihy/569794/skandal-v-milfordu/",
+    "description": "Skandál v Milfordu - Josephine Tey",
+    "authors": [
+      "Josephine Tey"
+    ],
+    "date": "2026-06-24T07:25:21.820916+00:00"
+  },
+  {
+    "title": "Dívka s copem",
+    "url": "https://www.kosmas.cz/knihy/569795/divka-s-copem/",
+    "description": "Dívka s copem - Jaroslav Velinský",
+    "authors": [
+      "Jaroslav Velinský"
+    ],
+    "date": "2026-06-24T07:25:20.820916+00:00"
+  },
+  {
+    "title": "U táborového ohně",
+    "url": "https://www.kosmas.cz/knihy/569813/u-taboroveho-ohne/",
+    "description": "U táborového ohně - Vladimír Rogl",
+    "authors": [
+      "Vladimír Rogl"
+    ],
+    "date": "2026-06-24T07:25:19.820916+00:00"
+  },
+  {
+    "title": "Kód zad",
+    "url": "https://www.kosmas.cz/knihy/570059/kod-zad/",
+    "description": "Kód zad - Michal Novotný",
+    "authors": [
+      "Michal Novotný"
+    ],
+    "date": "2026-06-24T07:25:18.820916+00:00"
+  },
+  {
+    "title": "Atlas hub",
+    "url": "https://www.kosmas.cz/knihy/570088/atlas-hub/",
+    "description": "Atlas hub",
+    "authors": [],
+    "date": "2026-06-24T07:25:17.820916+00:00"
+  },
+  {
+    "title": "Panzer III vs. T-34",
+    "url": "https://www.kosmas.cz/knihy/570091/panzer-iii-vs.-t-34/",
+    "description": "Panzer III vs. T-34",
+    "authors": [],
+    "date": "2026-06-24T07:25:16.820916+00:00"
+  },
+  {
     "title": "Pražské příběhy",
     "url": "https://www.kosmas.cz/knihy/570189/prazske-pribehy/",
     "description": "Pražské příběhy - Klára Hášová, David ed Černý",
@@ -1686,145 +1817,5 @@
       "Jaroslav Velinský"
     ],
     "date": "2026-06-10T07:44:53.258549+00:00"
-  },
-  {
-    "title": "Tajemná postava",
-    "url": "https://www.kosmas.cz/knihy/563160/tajemna-postava/",
-    "description": "Tajemná postava - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-06-10T07:44:52.258549+00:00"
-  },
-  {
-    "title": "Jednou za modrý měsíc",
-    "url": "https://www.kosmas.cz/knihy/569917/jednou-za-modry-mesic/",
-    "description": "Jednou za modrý měsíc - Ondřej Macl",
-    "authors": [
-      "Ondřej Macl"
-    ],
-    "date": "2026-06-10T07:44:49.258549+00:00"
-  },
-  {
-    "title": "Přístav volá (sběratelské vydání)",
-    "url": "https://www.kosmas.cz/knihy/569984/pristav-vola-sberatelske-vydani/",
-    "description": "Přístav volá (sběratelské vydání) - Jaroslav Foglar, Jan Hosnedl, Roman Šantora",
-    "authors": [
-      "Jaroslav Foglar",
-      "Jan Hosnedl",
-      "Roman Šantora"
-    ],
-    "date": "2026-06-10T07:44:48.258549+00:00"
-  },
-  {
-    "title": "Zápisky z vězení",
-    "url": "https://www.kosmas.cz/knihy/569999/zapisky-z-vezeni/",
-    "description": "Zápisky z vězení - Nicolas Sarkozy",
-    "authors": [
-      "Nicolas Sarkozy"
-    ],
-    "date": "2026-06-10T07:44:47.258549+00:00"
-  },
-  {
-    "title": "Žádná zeď neexistuje",
-    "url": "https://www.kosmas.cz/knihy/570004/zadna-zed-neexistuje/",
-    "description": "Žádná zeď neexistuje - Allie Bailey",
-    "authors": [
-      "Allie Bailey"
-    ],
-    "date": "2026-06-10T07:44:46.258549+00:00"
-  },
-  {
-    "title": "Léto pro dva",
-    "url": "https://www.kosmas.cz/knihy/569886/leto-pro-dva/",
-    "description": "Léto pro dva - Kathryn Taylor",
-    "authors": [
-      "Kathryn Taylor"
-    ],
-    "date": "2026-06-09T07:29:43.977558+00:00"
-  },
-  {
-    "title": "Všeho do času",
-    "url": "https://www.kosmas.cz/knihy/569887/vseho-do-casu/",
-    "description": "Všeho do času - Hakan Nesser",
-    "authors": [
-      "Hakan Nesser"
-    ],
-    "date": "2026-06-09T07:29:42.977558+00:00"
-  },
-  {
-    "title": "Introdukované dřeviny v českém lesním hospodářství",
-    "url": "https://www.kosmas.cz/knihy/537999/introdukovane-dreviny-v-ceskem-lesnim-hospodarstvi/",
-    "description": "Introdukované dřeviny v českém lesním hospodářství - Václav Cílek, David Dušek, Vilém Podrázský, Zdeněk Vacek",
-    "authors": [
-      "Václav Cílek",
-      "David Dušek",
-      "Vilém Podrázský",
-      "Zdeněk Vacek"
-    ],
-    "date": "2026-06-09T07:29:41.977558+00:00"
-  },
-  {
-    "title": "Teorie fikce jako odnosné tašky",
-    "url": "https://www.kosmas.cz/knihy/569643/teorie-fikce-jako-odnosne-tasky/",
-    "description": "Teorie fikce jako odnosné tašky - Ursula K. Le Guinová",
-    "authors": [
-      "Ursula K. Le Guinová"
-    ],
-    "date": "2026-06-09T07:29:40.977558+00:00"
-  },
-  {
-    "title": "Avengers navěky 1: Mistři pozemské odplaty",
-    "url": "https://www.kosmas.cz/knihy/569674/avengers-naveky-1-mistri-pozemske-odplaty/",
-    "description": "Avengers navěky 1: Mistři pozemské odplaty - Jason Aaron",
-    "authors": [
-      "Jason Aaron"
-    ],
-    "date": "2026-06-09T07:29:39.977558+00:00"
-  },
-  {
-    "title": "Avengers navěky 2: Pilíře",
-    "url": "https://www.kosmas.cz/knihy/569675/avengers-naveky-2-pilire/",
-    "description": "Avengers navěky 2: Pilíře - Jason Aaron",
-    "authors": [
-      "Jason Aaron"
-    ],
-    "date": "2026-06-09T07:29:38.977558+00:00"
-  },
-  {
-    "title": "Dvůr touhy a zlata",
-    "url": "https://www.kosmas.cz/knihy/569728/dvur-touhy-a-zlata/",
-    "description": "Dvůr touhy a zlata - Eliza Raine",
-    "authors": [
-      "Eliza Raine"
-    ],
-    "date": "2026-06-09T07:29:37.977558+00:00"
-  },
-  {
-    "title": "Jméno",
-    "url": "https://www.kosmas.cz/knihy/569779/jmeno/",
-    "description": "Jméno - Constance Debré",
-    "authors": [
-      "Constance Debré"
-    ],
-    "date": "2026-06-09T07:29:36.977558+00:00"
-  },
-  {
-    "title": "Putinova triáda",
-    "url": "https://www.kosmas.cz/knihy/566860/putinova-triada/",
-    "description": "Putinova triáda - Jiří Fidler",
-    "authors": [
-      "Jiří Fidler"
-    ],
-    "date": "2026-06-09T07:29:35.977558+00:00"
-  },
-  {
-    "title": "Variace",
-    "url": "https://www.kosmas.cz/knihy/566899/variace/",
-    "description": "Variace - Rebecca Yarros",
-    "authors": [
-      "Rebecca Yarros"
-    ],
-    "date": "2026-06-09T07:29:34.977558+00:00"
   }
 ]
