@@ -1,13 +1,5 @@
 [
   {
-    "title": "Cenu literární kritiky získali Borkovec za prózu a Kauer za poezii",
-    "url": "https://www.h7o.cz/clanky/14479-cenu-literarni-kritiky-ziskali-borkovec-za-prozu-a-kauer-za-poezii",
-    "description": "Na slavnostním ceremoniálu byla řeč o kritické situaci literárních časopisů a živé kultury. Ocenění, jimž předcházela série debat, byla udělena teprve podruhé.",
-    "date": "2026-03-27T00:00:00",
-    "author": "Ondřej Nezbeda",
-    "category": "zprávy"
-  },
-  {
     "title": "Reasons to Live: americké povídkářky, které si zaslouží žít",
     "url": "https://www.h7o.cz/clanky/14480-reasons-to-live-americke-povidkarky-ktere-si-zaslouzi-zit",
     "description": "Hemingway, Carver, Salinger, Capote. Ta jména zná každý čtenář povídek. „Za velkou louží“ ale vznikla řada dalších krátkých próz z pera jejich současnic, které se těmto velikánům vyrovnají, jen nám chybí překlady do češtiny.",
@@ -478,5 +470,13 @@
     "date": "2026-06-23T00:00:00",
     "author": "Milan Valden",
     "category": "recenze"
+  },
+  {
+    "title": "Stali jste se prostě příliš normálními",
+    "url": "https://www.h7o.cz/clanky/14533-stali-jste-se-proste-prilis-normalnimi",
+    "description": "Dánský bohemista a historik Peter Bugge loni vydal knihu „České světy“, v níž nabízí vhled do české kultury a literatury od 19. století. V rozhovoru v rámci série k letošnímu Bohemistickému kongresu reflektuje svůj vztah k Česku, stav dánské bohemistiky či nespolehlivost paměti v poznání minulosti.",
+    "date": "2026-06-25T00:00:00",
+    "author": "Martin Strašák",
+    "category": "seriál"
   }
 ]

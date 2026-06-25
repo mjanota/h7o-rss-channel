@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-25 07:26:14 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Noc, kdy jsme se potkali
+2. Zlatá krev
+3. Brána Ivrelu
+4. Kuchařka pro pomalý hrnec
+5. V minulém životě
+6. Antropologie tvorby v reálných a virtuálních světech
+7. Argonauti
+8. Opera kontra chaos
+9. Jan Janoušek - Fotografie
+10. Sbohem, má utopie
+11. Amazing 21
+12. Slavné stavby Prahy 5
+13. Cesta do Helsinek
+14. Den, kdy jsme zešíleli
+15. Dráček Mráček
+16. Maxík a málokdy viditelní
+17. Meteorologické drako zprávy
+
+---
+
+## 🕐 2026-06-25 07:26:12 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Stali jste se prostě příliš normálními
+
+---
+
 ## 🕐 2026-06-24 07:25:35 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -272,51 +316,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Proč jsme stále ještě barokní?
-
----
-
-## 🕐 2026-06-17 08:09:07 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Hepatologie
-2. Svatý Prokop
-3. Divné obrázky
-4. Rande s šéfem
-5. Smrt za zvuku hudby
-6. Anna, cesta ze Sudet
-7. Návrat povaleče
-8. Šílená babička na cestách
-9. Kouzelná třída mezi dinosaury
-10. (Ne)dostupný
-11. LGBT+ ve škole
-12. Oveček vlku se zachtělo
-13. Super Mario Galaktický film - Mario startuje!
-14. Mediální koučink (nejen) pro firmy
-15. Pekárna splněných přání
-16. Lékařem v zemi spícího krokodýla
-17. Samolepky pro nejmenší - s ježkem
-18. Údolí poníků
-
----
-
-## 🕐 2026-06-17 08:09:05 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Promptonyma. Proč se všichni jmenují Elias a Elara
 
 ---
 
