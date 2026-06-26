@@ -1,5 +1,143 @@
 [
   {
+    "title": "Šedý vlk",
+    "url": "https://www.kosmas.cz/knihy/570139/sedy-vlk/",
+    "description": "Šedý vlk - Louise Penny",
+    "authors": [
+      "Louise Penny"
+    ],
+    "date": "2026-06-26T07:32:43.478988+00:00"
+  },
+  {
+    "title": "Sportovní psychologie pro trenéry",
+    "url": "https://www.kosmas.cz/knihy/566866/sportovni-psychologie-pro-trenery/",
+    "description": "Sportovní psychologie pro trenéry - Damon Burton, Thomas D. Raedeke",
+    "authors": [
+      "Damon Burton",
+      "Thomas D. Raedeke"
+    ],
+    "date": "2026-06-26T07:32:42.478988+00:00"
+  },
+  {
+    "title": "Slon",
+    "url": "https://www.kosmas.cz/knihy/570149/slon/",
+    "description": "Slon - Saša Filipenko",
+    "authors": [
+      "Saša Filipenko"
+    ],
+    "date": "2026-06-26T07:32:41.478988+00:00"
+  },
+  {
+    "title": "Lázár",
+    "url": "https://www.kosmas.cz/knihy/565130/lazar/",
+    "description": "Lázár - Nelio Biedermann",
+    "authors": [
+      "Nelio Biedermann"
+    ],
+    "date": "2026-06-26T07:32:40.478988+00:00"
+  },
+  {
+    "title": "Olomouc ve válce",
+    "url": "https://www.kosmas.cz/knihy/568901/olomouc-ve-valce/",
+    "description": "Olomouc ve válce - Jiří Hutečka, Michael Viktořík",
+    "authors": [
+      "Jiří Hutečka",
+      "Michael Viktořík"
+    ],
+    "date": "2026-06-26T07:32:39.478988+00:00"
+  },
+  {
+    "title": "O patro výš",
+    "url": "https://www.kosmas.cz/knihy/569774/o-patro-vys/",
+    "description": "O patro výš - Michaela Mikulová",
+    "authors": [
+      "Michaela Mikulová"
+    ],
+    "date": "2026-06-26T07:32:38.478988+00:00"
+  },
+  {
+    "title": "Souvislosti 2/2026",
+    "url": "https://www.kosmas.cz/knihy/570549/souvislosti-2-2026/",
+    "description": "Souvislosti 2/2026",
+    "authors": [],
+    "date": "2026-06-26T07:32:37.478988+00:00"
+  },
+  {
+    "title": "Nesejde na tom",
+    "url": "https://www.kosmas.cz/knihy/567738/nesejde-na-tom/",
+    "description": "Nesejde na tom - Michael Třeštík",
+    "authors": [
+      "Michael Třeštík"
+    ],
+    "date": "2026-06-26T07:32:36.478988+00:00"
+  },
+  {
+    "title": "Neposkvrněné početí",
+    "url": "https://www.kosmas.cz/knihy/566291/neposkvrnene-poceti/",
+    "description": "Neposkvrněné početí - Ling Ling Huang",
+    "authors": [
+      "Ling Ling Huang"
+    ],
+    "date": "2026-06-26T07:32:35.478988+00:00"
+  },
+  {
+    "title": "Knížata křesťanské moudrosti",
+    "url": "https://www.kosmas.cz/knihy/570279/knizata-krestanske-moudrosti/",
+    "description": "Knížata křesťanské moudrosti - Metoděj Němec",
+    "authors": [
+      "Metoděj Němec"
+    ],
+    "date": "2026-06-26T07:32:33.478988+00:00"
+  },
+  {
+    "title": "Zájem: člověk",
+    "url": "https://www.kosmas.cz/knihy/570338/zajem-clovek/",
+    "description": "Zájem: člověk - Jana Hradílková",
+    "authors": [
+      "Jana Hradílková"
+    ],
+    "date": "2026-06-26T07:32:32.478988+00:00"
+  },
+  {
+    "title": "Malované čtení: Co všechno maluje slunce",
+    "url": "https://www.kosmas.cz/knihy/567407/malovane-cteni-co-vsechno-maluje-slunce/",
+    "description": "Malované čtení: Co všechno maluje slunce - Jiří Havel",
+    "authors": [
+      "Jiří Havel"
+    ],
+    "date": "2026-06-26T07:32:29.478988+00:00"
+  },
+  {
+    "title": "Spojuj, obtahuj, procvičuj! První tahy",
+    "url": "https://www.kosmas.cz/knihy/565701/spojuj-obtahuj-procvicuj-prvni-tahy/",
+    "description": "Spojuj, obtahuj, procvičuj! První tahy",
+    "authors": [],
+    "date": "2026-06-26T07:32:28.478988+00:00"
+  },
+  {
+    "title": "Moje velká kniha Napiš a smaž První tahy",
+    "url": "https://www.kosmas.cz/knihy/565702/moje-velka-kniha-napis-a-smaz-prvni-tahy/",
+    "description": "Moje velká kniha Napiš a smaž První tahy",
+    "authors": [],
+    "date": "2026-06-26T07:32:27.478988+00:00"
+  },
+  {
+    "title": "Dějiny a současnost 2/2026",
+    "url": "https://www.kosmas.cz/knihy/563386/dejiny-a-soucasnost-2-2026/",
+    "description": "Dějiny a současnost 2/2026",
+    "authors": [],
+    "date": "2026-06-26T07:32:26.478988+00:00"
+  },
+  {
+    "title": "Válka saní",
+    "url": "https://www.kosmas.cz/knihy/564817/valka-sani/",
+    "description": "Válka saní - S.F. Williamsonová",
+    "authors": [
+      "S.F. Williamsonová"
+    ],
+    "date": "2026-06-26T07:32:25.478988+00:00"
+  },
+  {
     "title": "Noc, kdy jsme se potkali",
     "url": "https://www.kosmas.cz/knihy/570226/noc-kdy-jsme-se-potkali/",
     "description": "Noc, kdy jsme se potkali - Abby Jimenez",
@@ -1674,149 +1812,5 @@
       "Marek Vodička"
     ],
     "date": "2026-06-12T07:52:57.707316+00:00"
-  },
-  {
-    "title": "Kazuistiky v oftalmologii",
-    "url": "https://www.kosmas.cz/knihy/569743/kazuistiky-v-oftalmologii/",
-    "description": "Kazuistiky v oftalmologii - Pavel Studený",
-    "authors": [
-      "Pavel Studený"
-    ],
-    "date": "2026-06-12T07:52:56.707316+00:00"
-  },
-  {
-    "title": "Dopravní letadla",
-    "url": "https://www.kosmas.cz/knihy/569854/dopravni-letadla/",
-    "description": "Dopravní letadla - Edward Ward",
-    "authors": [
-      "Edward Ward"
-    ],
-    "date": "2026-06-12T07:52:55.707316+00:00"
-  },
-  {
-    "title": "Zavařování s bylinkami a kořením",
-    "url": "https://www.kosmas.cz/knihy/569855/zavarovani-s-bylinkami-a-korenim/",
-    "description": "Zavařování s bylinkami a kořením",
-    "authors": [],
-    "date": "2026-06-12T07:52:54.707316+00:00"
-  },
-  {
-    "title": "Čs. armáda 1918–1939",
-    "url": "https://www.kosmas.cz/knihy/569856/cs.-armada-1918-1939/",
-    "description": "Čs. armáda 1918–1939 - Ivan Fuksa",
-    "authors": [
-      "Ivan Fuksa"
-    ],
-    "date": "2026-06-12T07:52:53.707316+00:00"
-  },
-  {
-    "title": "Žena přes palubu",
-    "url": "https://www.kosmas.cz/knihy/565338/zena-pres-palubu/",
-    "description": "Žena přes palubu - Portia MacIntosh",
-    "authors": [
-      "Portia MacIntosh"
-    ],
-    "date": "2026-06-12T07:52:51.707316+00:00"
-  },
-  {
-    "title": "Art & Antiques 6/2026",
-    "url": "https://www.kosmas.cz/knihy/563299/art-antiques-6-2026/",
-    "description": "Art & Antiques 6/2026",
-    "authors": [],
-    "date": "2026-06-12T07:52:50.707316+00:00"
-  },
-  {
-    "title": "Dej mi pokoj",
-    "url": "https://www.kosmas.cz/knihy/569878/dej-mi-pokoj/",
-    "description": "Dej mi pokoj - Petra Štarková",
-    "authors": [
-      "Petra Štarková"
-    ],
-    "date": "2026-06-11T07:57:31.914406+00:00"
-  },
-  {
-    "title": "Odyssea našich osudů",
-    "url": "https://www.kosmas.cz/knihy/569998/odyssea-nasich-osudu/",
-    "description": "Odyssea našich osudů - Sam Akbarová",
-    "authors": [
-      "Sam Akbarová"
-    ],
-    "date": "2026-06-11T07:57:30.914406+00:00"
-  },
-  {
-    "title": "Její poslední slza",
-    "url": "https://www.kosmas.cz/knihy/570115/jeji-posledni-slza/",
-    "description": "Její poslední slza - Stacy Green",
-    "authors": [
-      "Stacy Green"
-    ],
-    "date": "2026-06-11T07:57:29.914406+00:00"
-  },
-  {
-    "title": "Actium",
-    "url": "https://www.kosmas.cz/knihy/568787/actium/",
-    "description": "Actium - Jean-Yves Delitte",
-    "authors": [
-      "Jean-Yves Delitte"
-    ],
-    "date": "2026-06-11T07:57:28.914406+00:00"
-  },
-  {
-    "title": "Cušima",
-    "url": "https://www.kosmas.cz/knihy/568788/cusima/",
-    "description": "Cušima - Jean-Yves Delitte",
-    "authors": [
-      "Jean-Yves Delitte"
-    ],
-    "date": "2026-06-11T07:57:27.914406+00:00"
-  },
-  {
-    "title": "Balt",
-    "url": "https://www.kosmas.cz/knihy/568986/balt/",
-    "description": "Balt - Jan Wilkanowski, Ola Wilkanowski",
-    "authors": [
-      "Jan Wilkanowski",
-      "Ola Wilkanowski"
-    ],
-    "date": "2026-06-11T07:57:26.914406+00:00"
-  },
-  {
-    "title": "DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ",
-    "url": "https://www.kosmas.cz/knihy/569735/denik-very-segerove-1927-1943-a-deniky-arnosta-kleina-a-marie-kleinove/",
-    "description": "DENÍK VĚRY SEGEROVÉ (1927-1943) A DENÍKY ARNOŠTA KLEINA A MARIE KLEINOVÉ - Petr Psík, T. Fedorovič, I. Gaudesová, T. Raichl",
-    "authors": [
-      "Petr Psík",
-      "T. Fedorovič",
-      "I. Gaudesová",
-      "T. Raichl"
-    ],
-    "date": "2026-06-11T07:57:25.914406+00:00"
-  },
-  {
-    "title": "Etika mezikulturního a mezináboženského dialogu",
-    "url": "https://www.kosmas.cz/knihy/569846/etika-mezikulturniho-a-mezinabozenskeho-dialogu/",
-    "description": "Etika mezikulturního a mezináboženského dialogu - Denisa Červenková",
-    "authors": [
-      "Denisa Červenková"
-    ],
-    "date": "2026-06-11T07:57:24.914406+00:00"
-  },
-  {
-    "title": "Post-Evropa",
-    "url": "https://www.kosmas.cz/knihy/569847/post-evropa/",
-    "description": "Post-Evropa - Yuk Hui",
-    "authors": [
-      "Yuk Hui"
-    ],
-    "date": "2026-06-11T07:57:23.914406+00:00"
-  },
-  {
-    "title": "Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024",
-    "url": "https://www.kosmas.cz/knihy/569848/promeny-struktury-vlastnictvi-periodickeho-tisku-v-ceske-republice-v---1989-2024/",
-    "description": "Proměny struktury vlastnictví periodického tisku v České republice v letech 1989–2024 - Josef Benda",
-    "authors": [
-      "Josef Benda"
-    ],
-    "date": "2026-06-11T07:57:22.914406+00:00"
   }
 ]

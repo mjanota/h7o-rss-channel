@@ -5,6 +5,45 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-26 07:32:43 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Šedý vlk
+2. Sportovní psychologie pro trenéry
+3. Slon
+4. Lázár
+5. Olomouc ve válce
+6. O patro výš
+7. Souvislosti 2/2026
+8. Nesejde na tom
+9. Neposkvrněné početí
+10. Knížata křesťanské moudrosti
+11. Zájem: člověk
+12. Malované čtení: Co všechno maluje slunce
+13. Spojuj, obtahuj, procvičuj! První tahy
+14. Moje velká kniha Napiš a smaž První tahy
+15. Dějiny a současnost 2/2026
+16. Válka saní
+
+---
+
+## 🕐 2026-06-26 07:32:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-25 07:26:14 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -274,48 +313,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-18 07:57:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Protože
-2. Broučci
-3. Osamělý vlk
-4. 365 kuriozit na dobrou noc
-5. Matky a dcery
-6. Léto pro dva
-7. Gesto a skutečnost 2. Lidé na kře
-8. „Jsou zde, kolona přijela!“
-9. Smrt U bílého jelena
-10. Zrození atomové bomby
-11. Stručné dějiny konce světa
-12. Šnek je pomalý, ale nikdy nemá zpoždění
-13. Maroko
-14. Atomové šelmy: Hřbitov
-15. Finále
-
----
-
-## 🕐 2026-06-18 07:57:57 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Proč jsme stále ještě barokní?
 
 ---
 
