@@ -1,5 +1,138 @@
 [
   {
+    "title": "Hubert aneb Návrat do Casablanky",
+    "url": "https://www.kosmas.cz/knihy/569389/hubert-aneb-navrat-do-casablanky/",
+    "description": "Hubert aneb Návrat do Casablanky - Peter Härtling",
+    "authors": [
+      "Peter Härtling"
+    ],
+    "date": "2026-06-27T07:17:25.087194+00:00"
+  },
+  {
+    "title": "Ateliér špičatých klobouků 14",
+    "url": "https://www.kosmas.cz/knihy/569869/atelier-spicatych-klobouku-14/",
+    "description": "Ateliér špičatých klobouků 14 - Kamome Širahama",
+    "authors": [
+      "Kamome Širahama"
+    ],
+    "date": "2026-06-27T07:17:24.087194+00:00"
+  },
+  {
+    "title": "Lakomec",
+    "url": "https://www.kosmas.cz/knihy/569945/lakomec/",
+    "description": "Lakomec - Moliere",
+    "authors": [
+      "Moliere"
+    ],
+    "date": "2026-06-27T07:17:23.087194+00:00"
+  },
+  {
+    "title": "Úspěšné vyjednávání",
+    "url": "https://www.kosmas.cz/knihy/570036/uspesne-vyjednavani/",
+    "description": "Úspěšné vyjednávání - Dušan Jílek",
+    "authors": [
+      "Dušan Jílek"
+    ],
+    "date": "2026-06-27T07:17:22.087194+00:00"
+  },
+  {
+    "title": "Volajte ma Mandy",
+    "url": "https://www.kosmas.cz/knihy/559350/volajte-ma-mandy/",
+    "description": "Volajte ma Mandy - Alena Sabuchová",
+    "authors": [
+      "Alena Sabuchová"
+    ],
+    "date": "2026-06-27T07:17:21.087194+00:00"
+  },
+  {
+    "title": "Jan Kotík",
+    "url": "https://www.kosmas.cz/knihy/569935/jan-kotik/",
+    "description": "Jan Kotík",
+    "authors": [],
+    "date": "2026-06-27T07:17:19.087194+00:00"
+  },
+  {
+    "title": "Konec vše napraví",
+    "url": "https://www.kosmas.cz/knihy/569946/konec-vse-napravi/",
+    "description": "Konec vše napraví - William Shakespeare",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "date": "2026-06-27T07:17:18.087194+00:00"
+  },
+  {
+    "title": "Antimemetická divize neexistuje",
+    "url": "https://www.kosmas.cz/knihy/570355/antimemeticka-divize-neexistuje/",
+    "description": "Antimemetická divize neexistuje - Sam Hughes",
+    "authors": [
+      "Sam Hughes"
+    ],
+    "date": "2026-06-27T07:17:14.087194+00:00"
+  },
+  {
+    "title": "Neznají strach",
+    "url": "https://www.kosmas.cz/knihy/570413/neznaji-strach/",
+    "description": "Neznají strach - Christian Dunn",
+    "authors": [
+      "Christian Dunn"
+    ],
+    "date": "2026-06-27T07:17:13.087194+00:00"
+  },
+  {
+    "title": "Hluboká",
+    "url": "https://www.kosmas.cz/knihy/570494/hluboka/",
+    "description": "Hluboká - Tereza Horáková",
+    "authors": [
+      "Tereza Horáková"
+    ],
+    "date": "2026-06-27T07:17:12.087194+00:00"
+  },
+  {
+    "title": "Bouzov",
+    "url": "https://www.kosmas.cz/knihy/570495/bouzov/",
+    "description": "Bouzov - Michaela Hojdysz",
+    "authors": [
+      "Michaela Hojdysz"
+    ],
+    "date": "2026-06-27T07:17:11.087194+00:00"
+  },
+  {
+    "title": "Trosky",
+    "url": "https://www.kosmas.cz/knihy/570496/trosky/",
+    "description": "Trosky - Jakub Kříž",
+    "authors": [
+      "Jakub Kříž"
+    ],
+    "date": "2026-06-27T07:17:10.087194+00:00"
+  },
+  {
+    "title": "Telč",
+    "url": "https://www.kosmas.cz/knihy/570497/telc/",
+    "description": "Telč - Veronika Řezníčková",
+    "authors": [
+      "Veronika Řezníčková"
+    ],
+    "date": "2026-06-27T07:17:09.087194+00:00"
+  },
+  {
+    "title": "Tajemství vzestupu 2.díl",
+    "url": "https://www.kosmas.cz/knihy/570544/tajemstvi-vzestupu-2.dil/",
+    "description": "Tajemství vzestupu 2.díl - David Wilcock",
+    "authors": [
+      "David Wilcock"
+    ],
+    "date": "2026-06-27T07:17:08.087194+00:00"
+  },
+  {
+    "title": "Tajemství vzestupu",
+    "url": "https://www.kosmas.cz/knihy/570547/tajemstvi-vzestupu/",
+    "description": "Tajemství vzestupu - David Wilcock",
+    "authors": [
+      "David Wilcock"
+    ],
+    "date": "2026-06-27T07:17:07.087194+00:00"
+  },
+  {
     "title": "Šedý vlk",
     "url": "https://www.kosmas.cz/knihy/570139/sedy-vlk/",
     "description": "Šedý vlk - Louise Penny",
@@ -1675,142 +1808,5 @@
       "Taiki Kawakami"
     ],
     "date": "2026-06-13T07:31:07.742331+00:00"
-  },
-  {
-    "title": "Supergirl: Dívka z Kryptonu",
-    "url": "https://www.kosmas.cz/knihy/569692/supergirl-divka-z-kryptonu/",
-    "description": "Supergirl: Dívka z Kryptonu - Jeph Loeb",
-    "authors": [
-      "Jeph Loeb"
-    ],
-    "date": "2026-06-13T07:31:05.742331+00:00"
-  },
-  {
-    "title": "Maškaráda géniů",
-    "url": "https://www.kosmas.cz/knihy/568542/maskarada-geniu/",
-    "description": "Maškaráda géniů - Fritz von Herzmanovsky-Orlando",
-    "authors": [
-      "Fritz von Herzmanovsky-Orlando"
-    ],
-    "date": "2026-06-13T07:31:03.742331+00:00"
-  },
-  {
-    "title": "Bílá vrána",
-    "url": "https://www.kosmas.cz/knihy/569990/bila-vrana/",
-    "description": "Bílá vrána - Michael Robotham",
-    "authors": [
-      "Michael Robotham"
-    ],
-    "date": "2026-06-12T07:53:09.707316+00:00"
-  },
-  {
-    "title": "Anatomie vraždy",
-    "url": "https://www.kosmas.cz/knihy/569991/anatomie-vrazdy/",
-    "description": "Anatomie vraždy - Anna Lee Huber",
-    "authors": [
-      "Anna Lee Huber"
-    ],
-    "date": "2026-06-12T07:53:08.707316+00:00"
-  },
-  {
-    "title": "Vražedné roráty",
-    "url": "https://www.kosmas.cz/knihy/569993/vrazedne-roraty/",
-    "description": "Vražedné roráty - Martina Novotná",
-    "authors": [
-      "Martina Novotná"
-    ],
-    "date": "2026-06-12T07:53:07.707316+00:00"
-  },
-  {
-    "title": "Ta první je vždycky blondýna",
-    "url": "https://www.kosmas.cz/knihy/569994/ta-prvni-je-vzdycky-blondyna/",
-    "description": "Ta první je vždycky blondýna - Alena Jakoubková",
-    "authors": [
-      "Alena Jakoubková"
-    ],
-    "date": "2026-06-12T07:53:06.707316+00:00"
-  },
-  {
-    "title": "Přirozená inteligence",
-    "url": "https://www.kosmas.cz/knihy/570009/prirozena-inteligence/",
-    "description": "Přirozená inteligence - Angus Fletcher",
-    "authors": [
-      "Angus Fletcher"
-    ],
-    "date": "2026-06-12T07:53:05.707316+00:00"
-  },
-  {
-    "title": "Obdivuhodná zvířata IV. - Psovití a zajíci",
-    "url": "https://www.kosmas.cz/knihy/568381/obdivuhodna-zvirata-iv.-psoviti-a-zajici/",
-    "description": "Obdivuhodná zvířata IV. - Psovití a zajíci - Vojtěch Škaloud",
-    "authors": [
-      "Vojtěch Škaloud"
-    ],
-    "date": "2026-06-12T07:53:04.707316+00:00"
-  },
-  {
-    "title": "Vyprošťovák ze chmur",
-    "url": "https://www.kosmas.cz/knihy/569475/vyprostovak-ze-chmur/",
-    "description": "Vyprošťovák ze chmur - Šebestián Pavel Smrčina, Ondřej Havlíček",
-    "authors": [
-      "Šebestián Pavel Smrčina",
-      "Ondřej Havlíček"
-    ],
-    "date": "2026-06-12T07:53:03.707316+00:00"
-  },
-  {
-    "title": "Live 80",
-    "url": "https://www.kosmas.cz/knihy/569618/live-80/",
-    "description": "Live 80 - Framus Five, Michal Prokop",
-    "authors": [
-      "Framus Five",
-      "Michal Prokop"
-    ],
-    "date": "2026-06-12T07:53:02.707316+00:00"
-  },
-  {
-    "title": "Pokrevní pouta 1-6",
-    "url": "https://www.kosmas.cz/knihy/568857/pokrevni-pouta-1-6/",
-    "description": "Pokrevní pouta 1-6 - Richelle Mead",
-    "authors": [
-      "Richelle Mead"
-    ],
-    "date": "2026-06-12T07:53:01.707316+00:00"
-  },
-  {
-    "title": "Interna",
-    "url": "https://www.kosmas.cz/knihy/568896/interna/",
-    "description": "Interna - Richard Češka, kol.",
-    "authors": [
-      "Richard Češka",
-      "kol."
-    ],
-    "date": "2026-06-12T07:53:00.707316+00:00"
-  },
-  {
-    "title": "Zvířecí Prvňáčci",
-    "url": "https://www.kosmas.cz/knihy/569697/zvireci-prvnacci/",
-    "description": "Zvířecí Prvňáčci",
-    "authors": [],
-    "date": "2026-06-12T07:52:59.707316+00:00"
-  },
-  {
-    "title": "Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ",
-    "url": "https://www.kosmas.cz/knihy/569699/pribehy-z-mokre-lhoty-vesele-cteni-o-zviratkach-prvni-cteni/",
-    "description": "Příběhy z Mokré Lhoty - Veselé čtení o zvířátkách - PRVNÍ ČTENÍ",
-    "authors": [],
-    "date": "2026-06-12T07:52:58.707316+00:00"
-  },
-  {
-    "title": "Ročenka pro filosofii a fenomenologický výzkum 2025",
-    "url": "https://www.kosmas.cz/knihy/569712/rocenka-pro-filosofii-a-fenomenologicky-vyzkum-2025/",
-    "description": "Ročenka pro filosofii a fenomenologický výzkum 2025 - Pavel Lněnička, Jaromír Murgaš, Aleš Novák, Marek Vodička",
-    "authors": [
-      "Pavel Lněnička",
-      "Jaromír Murgaš",
-      "Aleš Novák",
-      "Marek Vodička"
-    ],
-    "date": "2026-06-12T07:52:57.707316+00:00"
   }
 ]

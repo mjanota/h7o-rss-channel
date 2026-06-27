@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-27 07:17:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Hubert aneb Návrat do Casablanky
+2. Ateliér špičatých klobouků 14
+3. Lakomec
+4. Úspěšné vyjednávání
+5. Volajte ma Mandy
+6. Jan Kotík
+7. Konec vše napraví
+8. Antimemetická divize neexistuje
+9. Neznají strach
+10. Hluboká
+11. Bouzov
+12. Trosky
+13. Telč
+14. Tajemství vzestupu 2.díl
+15. Tajemství vzestupu
+
+---
+
+## 🕐 2026-06-27 07:17:24 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přihořívá
+
+---
+
 ## 🕐 2026-06-26 07:32:43 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -272,47 +314,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Na okraji a proti
-
----
-
-## 🕐 2026-06-19 08:08:58 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Úžasní netopýři
-2. Giovanniho pokoj
-3. Mise v kolonii
-4. Léto v New Yorku
-5. Digestoř je kapela
-6. Krvavý květ
-7. Projektory
-8. Ostrov zalitý sluncem
-9. Deník citového vyděrače
-10. Krotitelka snů
-11. Otcomilky
-12. Sudoku do kapsy
-13. Sudoku na cesty
-14. Czech Fairy Tales / České pohádky /Plot/
-15. Slavnosti sněženek - třetí setkání v Hrabalově Kersku
-16. Slavnosti sněženek - setkání s Hrabalovou múzou
-17. Slavnosti sněženek - lidské osudy a odhalená tajemství v Hrabalově Kersku
-18. Slavnosti sněženek - setkání s Bohumilem Hrabalem a jeho dílem
-
----
-
-## 🕐 2026-06-19 08:08:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
