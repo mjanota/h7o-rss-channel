@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 28 Jun 2026 07:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:03:35 +0000</lastBuildDate>
+    <item>
+      <title>Rychlejší než fotobuňka</title>
+      <link>https://www.h7o.cz/clanky/14558-rychlejsi-nez-fotobunka</link>
+      <description>„Mít společné zlozvyky vyvolává pocit lidské sounáležitosti. Připomíná nám to, že na pozadí ideologických přesvědčení jsme všichni jenom lidé,“ píše politoložka Anna Durnová ve svém sloupku.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14558-rychlejsi-nez-fotobunka</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Přihořívá</title>
       <link>https://www.h7o.cz/clanky/14557-prihoriva</link>
@@ -420,13 +427,6 @@
       <description>Deník The New York Times rozvázal spolupráci s novinářem kvůli recenzi knihy. Napsala ji za něj AI.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14482-umelohmotna-recenze</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ticho jako uvnitř kulky</title>
-      <link>https://www.h7o.cz/clanky/14481-ticho-jako-uvnitr-kulky</link>
-      <description>O cenu Magnesia Litera za překlad se letos uchází Anna Štádlerová za překlad titulu „Slavné časy“ zimbabwské autorky NoViolet Bulawayo. Přečtěte si recenzi románu, kterou napsala romanistka Míla Janišová.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14481-ticho-jako-uvnitr-kulky</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

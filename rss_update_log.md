@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-29 08:03:37 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Skleněný klíč
+2. Kapka jedu
+3. Dlouhá hra
+4. Nejdelší z cest
+5. Padesátkou z kopce
+6. Když římský orel vládl světu
+7. Život ještě nekončí
+8. Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho
+9. Mozkový restart
+10. Na straně svobody
+11. Velkolepá hra
+12. Cesta z obezity
+13. Psychologie adolescentů
+14. Minulost nepromíjí
+15. Smrt je vždycky osamělá
+16. Mimo vesmír
+
+---
+
+## 🕐 2026-06-29 08:03:35 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Rychlejší než fotobuňka
+
+---
+
 ## 🕐 2026-06-28 07:34:35 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -266,31 +309,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Válka jako šance
-
----
-
-## 🕐 2026-06-21 07:52:45 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Vybrané kapitoly ze sportovního tréninku
-2. Jak ovládnout supersíly
-
----
-
-## 🕐 2026-06-21 07:52:42 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

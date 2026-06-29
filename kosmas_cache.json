@@ -1,5 +1,151 @@
 [
   {
+    "title": "Skleněný klíč",
+    "url": "https://www.kosmas.cz/knihy/570196/skleneny-klic/",
+    "description": "Skleněný klíč - Amanda Geard",
+    "authors": [
+      "Amanda Geard"
+    ],
+    "date": "2026-06-29T08:03:36.025509+00:00"
+  },
+  {
+    "title": "Kapka jedu",
+    "url": "https://www.kosmas.cz/knihy/570191/kapka-jedu/",
+    "description": "Kapka jedu - Deborah Swift",
+    "authors": [
+      "Deborah Swift"
+    ],
+    "date": "2026-06-29T08:03:35.025509+00:00"
+  },
+  {
+    "title": "Dlouhá hra",
+    "url": "https://www.kosmas.cz/knihy/570638/dlouha-hra/",
+    "description": "Dlouhá hra - Rachel Reid",
+    "authors": [
+      "Rachel Reid"
+    ],
+    "date": "2026-06-29T08:03:34.025509+00:00"
+  },
+  {
+    "title": "Nejdelší z cest",
+    "url": "https://www.kosmas.cz/knihy/570639/nejdelsi-z-cest/",
+    "description": "Nejdelší z cest - Oksana Zabužko",
+    "authors": [
+      "Oksana Zabužko"
+    ],
+    "date": "2026-06-29T08:03:33.025509+00:00"
+  },
+  {
+    "title": "Padesátkou z kopce",
+    "url": "https://www.kosmas.cz/knihy/570640/padesatkou-z-kopce/",
+    "description": "Padesátkou z kopce - Eva Dolejšová",
+    "authors": [
+      "Eva Dolejšová"
+    ],
+    "date": "2026-06-29T08:03:32.025509+00:00"
+  },
+  {
+    "title": "Když římský orel vládl světu",
+    "url": "https://www.kosmas.cz/knihy/570641/kdyz-rimsky-orel-vladl-svetu/",
+    "description": "Když římský orel vládl světu - Jan Hrdina",
+    "authors": [
+      "Jan Hrdina"
+    ],
+    "date": "2026-06-29T08:03:31.025509+00:00"
+  },
+  {
+    "title": "Život ještě nekončí",
+    "url": "https://www.kosmas.cz/knihy/570642/zivot-jeste-nekonci/",
+    "description": "Život ještě nekončí - Zdeněk Blahůšek",
+    "authors": [
+      "Zdeněk Blahůšek"
+    ],
+    "date": "2026-06-29T08:03:30.025509+00:00"
+  },
+  {
+    "title": "Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho",
+    "url": "https://www.kosmas.cz/knihy/568661/cung-juan-cchi-kungu-druha-etapa-vzestupu-ticho/",
+    "description": "Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho - Tamara Martynovová, Sü Ming-tchang",
+    "authors": [
+      "Tamara Martynovová",
+      "Sü Ming-tchang"
+    ],
+    "date": "2026-06-29T08:03:29.025509+00:00"
+  },
+  {
+    "title": "Mozkový restart",
+    "url": "https://www.kosmas.cz/knihy/570644/mozkovy-restart/",
+    "description": "Mozkový restart - Albert Villoldo",
+    "authors": [
+      "Albert Villoldo"
+    ],
+    "date": "2026-06-29T08:03:28.025509+00:00"
+  },
+  {
+    "title": "Na straně svobody",
+    "url": "https://www.kosmas.cz/knihy/570645/na-strane-svobody/",
+    "description": "Na straně svobody - Roman Joch",
+    "authors": [
+      "Roman Joch"
+    ],
+    "date": "2026-06-29T08:03:27.025509+00:00"
+  },
+  {
+    "title": "Velkolepá hra",
+    "url": "https://www.kosmas.cz/knihy/567776/velkolepa-hra/",
+    "description": "Velkolepá hra - Jennifer Lynn Barnes",
+    "authors": [
+      "Jennifer Lynn Barnes"
+    ],
+    "date": "2026-06-29T08:03:26.025509+00:00"
+  },
+  {
+    "title": "Cesta z obezity",
+    "url": "https://www.kosmas.cz/knihy/570647/cesta-z-obezity/",
+    "description": "Cesta z obezity - Jack Mosley",
+    "authors": [
+      "Jack Mosley"
+    ],
+    "date": "2026-06-29T08:03:25.025509+00:00"
+  },
+  {
+    "title": "Psychologie adolescentů",
+    "url": "https://www.kosmas.cz/knihy/570648/psychologie-adolescentu/",
+    "description": "Psychologie adolescentů - Lenka Lacinová, Petr Macek",
+    "authors": [
+      "Lenka Lacinová",
+      "Petr Macek"
+    ],
+    "date": "2026-06-29T08:03:24.025509+00:00"
+  },
+  {
+    "title": "Minulost nepromíjí",
+    "url": "https://www.kosmas.cz/knihy/570649/minulost-nepromiji/",
+    "description": "Minulost nepromíjí - Anna Tell",
+    "authors": [
+      "Anna Tell"
+    ],
+    "date": "2026-06-29T08:03:23.025509+00:00"
+  },
+  {
+    "title": "Smrt je vždycky osamělá",
+    "url": "https://www.kosmas.cz/knihy/567937/smrt-je-vzdycky-osamela/",
+    "description": "Smrt je vždycky osamělá - Ray Bradbury",
+    "authors": [
+      "Ray Bradbury"
+    ],
+    "date": "2026-06-29T08:03:22.025509+00:00"
+  },
+  {
+    "title": "Mimo vesmír",
+    "url": "https://www.kosmas.cz/knihy/569262/mimo-vesmir/",
+    "description": "Mimo vesmír - Šimon Minka",
+    "authors": [
+      "Šimon Minka"
+    ],
+    "date": "2026-06-29T08:03:20.025509+00:00"
+  },
+  {
     "title": "Hubert aneb Návrat do Casablanky",
     "url": "https://www.kosmas.cz/knihy/569389/hubert-aneb-navrat-do-casablanky/",
     "description": "Hubert aneb Návrat do Casablanky - Peter Härtling",
@@ -1663,150 +1809,5 @@
       "Thomas Pope"
     ],
     "date": "2026-06-15T08:20:19.637990+00:00"
-  },
-  {
-    "title": "Barvy mého Londýna",
-    "url": "https://www.kosmas.cz/knihy/570203/barvy-meho-londyna/",
-    "description": "Barvy mého Londýna - Lukáš Dolanský",
-    "authors": [
-      "Lukáš Dolanský"
-    ],
-    "date": "2026-06-15T08:20:18.637990+00:00"
-  },
-  {
-    "title": "Metoda fluxí a nekonečných řad",
-    "url": "https://www.kosmas.cz/knihy/569315/metoda-fluxi-a-nekonecnych-rad/",
-    "description": "Metoda fluxí a nekonečných řad - Isaac Newton",
-    "authors": [
-      "Isaac Newton"
-    ],
-    "date": "2026-06-14T07:49:32.982686+00:00"
-  },
-  {
-    "title": "Stránka nenalezena",
-    "url": "https://www.kosmas.cz/knihy/570173/stranka-nenalezena/",
-    "description": "Stránka nenalezena - Anna Gruver",
-    "authors": [
-      "Anna Gruver"
-    ],
-    "date": "2026-06-14T07:49:22.982686+00:00"
-  },
-  {
-    "title": "Proč mozek potřebuje přátele",
-    "url": "https://www.kosmas.cz/knihy/570188/proc-mozek-potrebuje-pratele/",
-    "description": "Proč mozek potřebuje přátele - Ben Rein",
-    "authors": [
-      "Ben Rein"
-    ],
-    "date": "2026-06-14T07:49:21.982686+00:00"
-  },
-  {
-    "title": "V srdci Střední Asie",
-    "url": "https://www.kosmas.cz/knihy/563638/v-srdci-stredni-asie/",
-    "description": "V srdci Střední Asie - Nikola Hrušková",
-    "authors": [
-      "Nikola Hrušková"
-    ],
-    "date": "2026-06-14T07:49:17.982686+00:00"
-  },
-  {
-    "title": "Masky bohů 3 - Mýty Západu",
-    "url": "https://www.kosmas.cz/knihy/563641/masky-bohu-3-myty-zapadu/",
-    "description": "Masky bohů 3 - Mýty Západu - Joseph Campbell",
-    "authors": [
-      "Joseph Campbell"
-    ],
-    "date": "2026-06-14T07:49:16.982686+00:00"
-  },
-  {
-    "title": "Mysterium cosmographicum",
-    "url": "https://www.kosmas.cz/knihy/568802/mysterium-cosmographicum/",
-    "description": "Mysterium cosmographicum - Johannes Kepler",
-    "authors": [
-      "Johannes Kepler"
-    ],
-    "date": "2026-06-13T07:31:22.742331+00:00"
-  },
-  {
-    "title": "Bouře ve sklenici",
-    "url": "https://www.kosmas.cz/knihy/568820/boure-ve-sklenici/",
-    "description": "Bouře ve sklenici - Catherine Mann",
-    "authors": [
-      "Catherine Mann"
-    ],
-    "date": "2026-06-13T07:31:21.742331+00:00"
-  },
-  {
-    "title": "Cizinec v jarním vánku 3",
-    "url": "https://www.kosmas.cz/knihy/569025/cizinec-v-jarnim-vanku-3/",
-    "description": "Cizinec v jarním vánku 3 - Kanna Kii",
-    "authors": [
-      "Kanna Kii"
-    ],
-    "date": "2026-06-13T07:31:20.742331+00:00"
-  },
-  {
-    "title": "Minecraft manga: Cesta na konec světa 1",
-    "url": "https://www.kosmas.cz/knihy/569873/minecraft-manga-cesta-na-konec-sveta-1/",
-    "description": "Minecraft manga: Cesta na konec světa 1 - Tazujoši Seto",
-    "authors": [
-      "Tazujoši Seto"
-    ],
-    "date": "2026-06-13T07:31:19.742331+00:00"
-  },
-  {
-    "title": "Aargh! 25",
-    "url": "https://www.kosmas.cz/knihy/570067/aargh-25/",
-    "description": "Aargh! 25 - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-06-13T07:31:13.742331+00:00"
-  },
-  {
-    "title": "Pokoj v barvách štěstí: Detektiv na scestí 1",
-    "url": "https://www.kosmas.cz/knihy/570072/pokoj-v-barvach-stesti-detektiv-na-scesti-1/",
-    "description": "Pokoj v barvách štěstí: Detektiv na scestí 1 - Hakuri",
-    "authors": [
-      "Hakuri"
-    ],
-    "date": "2026-06-13T07:31:12.742331+00:00"
-  },
-  {
-    "title": "Ďábel v detailu 1",
-    "url": "https://www.kosmas.cz/knihy/570074/dabel-v-detailu-1/",
-    "description": "Ďábel v detailu 1 - Stjepan Šejić",
-    "authors": [
-      "Stjepan Šejić"
-    ],
-    "date": "2026-06-13T07:31:11.742331+00:00"
-  },
-  {
-    "title": "Zaklínač: Medvěd a motýl",
-    "url": "https://www.kosmas.cz/knihy/570081/zaklinac-medved-a-motyl/",
-    "description": "Zaklínač: Medvěd a motýl - Simon Spurrier",
-    "authors": [
-      "Simon Spurrier"
-    ],
-    "date": "2026-06-13T07:31:10.742331+00:00"
-  },
-  {
-    "title": "Simpsonovi 6/2026",
-    "url": "https://www.kosmas.cz/knihy/570086/simpsonovi-6-2026/",
-    "description": "Simpsonovi 6/2026 - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-06-13T07:31:09.742331+00:00"
-  },
-  {
-    "title": "Jak jsem se reinkarnoval coby sliz 17",
-    "url": "https://www.kosmas.cz/knihy/569599/jak-jsem-se-reinkarnoval-coby-sliz-17/",
-    "description": "Jak jsem se reinkarnoval coby sliz 17 - Fuse, Taiki Kawakami",
-    "authors": [
-      "Fuse",
-      "Taiki Kawakami"
-    ],
-    "date": "2026-06-13T07:31:07.742331+00:00"
   }
 ]

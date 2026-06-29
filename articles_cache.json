@@ -1,13 +1,5 @@
 [
   {
-    "title": "Ticho jako uvnitř kulky",
-    "url": "https://www.h7o.cz/clanky/14481-ticho-jako-uvnitr-kulky",
-    "description": "O cenu Magnesia Litera za překlad se letos uchází Anna Štádlerová za překlad titulu „Slavné časy“ zimbabwské autorky NoViolet Bulawayo. Přečtěte si recenzi románu, kterou napsala romanistka Míla Janišová.",
-    "date": "2026-03-31T00:00:00",
-    "author": "Míla Janišová",
-    "category": "recenze"
-  },
-  {
     "title": "Umělohmotná recenze",
     "url": "https://www.h7o.cz/clanky/14482-umelohmotna-recenze",
     "description": "Deník The New York Times rozvázal spolupráci s novinářem kvůli recenzi knihy. Napsala ji za něj AI.",
@@ -478,5 +470,13 @@
     "date": "2026-06-26T00:00:00",
     "author": "Ondřej Nezbeda",
     "category": "recenze"
+  },
+  {
+    "title": "Rychlejší než fotobuňka",
+    "url": "https://www.h7o.cz/clanky/14558-rychlejsi-nez-fotobunka",
+    "description": "„Mít společné zlozvyky vyvolává pocit lidské sounáležitosti. Připomíná nám to, že na pozadí ideologických přesvědčení jsme všichni jenom lidé,“ píše politoložka Anna Durnová ve svém sloupku.",
+    "date": "2026-06-29T00:00:00",
+    "author": "Anna Durnová",
+    "category": "sloupek"
   }
 ]
