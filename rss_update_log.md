@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-06-30 07:33:13 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Zralá, co hodně žrala
+2. Zlatá krev
+3. Poison City
+4. Děti jako krevní konzervy pro německou armádu
+5. Tempting Venom
+6. Secret of Secrets
+7. Hallmarked Man
+8. Before I Knew I Loved You
+9. Zlatá krev
+10. Karel Koutský - Reminiscence
+11. Dáma to ví nejlépe
+12. Legenda o Sim Čchong 4
+13. Netvora 9: Posedlí
+14. Útok titánů: Ztracené dívky 2
+15. Noc, kdy jsme se potkali
+16. Autoatlas ČR - 2026/27
+17. Bulletproof
+18. The Elements
+19. End Game
+20. Harvest Season
+
+---
+
+## 🕐 2026-06-30 07:33:11 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-06-29 08:03:37 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -228,87 +271,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-23 07:29:16 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Pražské příběhy
-2. Třída špiónů a ztracený poklad
-3. V pohodě na vodě
-4. Všechny chutě léta
-5. Terapie do kapsy
-6. Spirála marnosti
-7. Láska s vůní čokolády
-8. Jak na úzkosti a obavy
-9. Jak vyrobit diamant
-10. Prima prázdniny
-11. Bezhlavý jezdec
-12. Banksy inspiruje
-13. Stopou, stezkou peřejí - Družina Mývalů
-14. TA dnes
-15. Bít o slam
-16. Dolomity 1, Val Gardena - Rother
-17. Dolomity, Dálkové trasy Alta Via 1–3 - Rother
-18. Lofoty a Vesterály - Rother
-19. Solná komora - Rother
-
----
-
-## 🕐 2026-06-23 07:29:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Živá paměť obrázkového písma
-
----
-
-## 🕐 2026-06-22 08:21:04 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 8
-
-**Tituly nových položek:**
-
-1. Očarovaná
-2. Sága půlelfů - Kniha druhá: Koruna stínů
-3. Kontexty 3/2026
-4. Kódy, buildy, firmwary
-5. AI na hraně
-6. Host 2026/6
-7. Dědička ohně
-8. Já, Karel Gott a můj život v emigraci
-
----
-
-## 🕐 2026-06-22 08:21:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Válka jako šance
 
 ---
 
