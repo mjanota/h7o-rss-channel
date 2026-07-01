@@ -1,13 +1,5 @@
 [
   {
-    "title": "Starej dobrej satanáš",
-    "url": "https://www.h7o.cz/clanky/14483-starej-dobrej-satanas",
-    "description": "Máme tu Velikonoce. I v zemi, která má pověst jednoho z nejzarytějších evropských ateistů, slavíme největší křesťanský svátek — po svém, ale přece. Václav Sklenář, filosof a pedagog, přichystal na duben sérii čtvrtečních sloupků. Ten první je právě o překvapivém revivalu víry. I pro bezvěrce.",
-    "date": "2026-04-02T00:00:00",
-    "author": "Václav Sklenář",
-    "category": "seriál"
-  },
-  {
     "title": "Kluci stočení do klubíčka",
     "url": "https://www.h7o.cz/clanky/14484-kluci-stoceni-do-klubicka",
     "description": "„Možná tedy platí, že se čeští a slovenští incelové na internetu nesdružují, rozhodně ale nelze popřít existenci kluků a mužů, kteří se kolektivně utápí v zoufalství ohledně svého vzhledu nebo chabých sociálních schopností,“ píše v pravidelném sloupku z králičích nor TikToku básník Lubomír Tichý.",
@@ -470,5 +462,21 @@
     "date": "2026-06-29T00:00:00",
     "author": "Anna Durnová",
     "category": "sloupek"
+  },
+  {
+    "title": "O zvucích všeho druhu",
+    "url": "https://www.h7o.cz/clanky/14559-o-zvucich-vseho-druhu",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
+    "date": "2026-07-01T00:00:00",
+    "author": "Karolína Stehlíková",
+    "category": "sloupek"
+  },
+  {
+    "title": "Řeky větvící se podzemím",
+    "url": "https://www.h7o.cz/clanky/14572-reky-vetvici-se-podzemim",
+    "description": "Minulý týden ve Francii zemřela ve věku 88 let význačná česká spisovatelka, překladatelka, esejistka a historička umění Věra Linhartová. Za jejím životem a tvorbou se ohlíží Jakub Vaněk.",
+    "date": "2026-06-30T00:00:00",
+    "author": "Jakub Vaněk",
+    "category": "téma"
   }
 ]

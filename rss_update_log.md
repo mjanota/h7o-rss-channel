@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-01 07:45:33 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Sklenky a doteky
+2. Město a jeho nejisté zdi
+3. Políbit tu správnou nevěstu
+4. Příběh s vůní lípy
+5. Koruna z kostí a zlata
+6. Bohatí musejí zemřít
+7. Případy soudce Ti: Smrt ve vrbové čtvrti
+8. Blíž, než se zdá
+9. Svědkyně na útěku
+10. Král lenosti
+11. Zvrácený osud
+12. Stojí za pokus
+13. Kočičí štěstí
+14. Akademická encyklopedie českých dějin XI. Poh – Praha: pohanství – Praha, pražská města
+15. Kreativní rodinný kalendář, nedatovaný
+16. Horalova dokonalá nevěsta
+17. Film a doba 2/2026
+18. Povědecká psychoterapie. Být sebou
+
+---
+
+## 🕐 2026-07-01 07:45:32 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. O zvucích všeho druhu
+2. Řeky větvící se podzemím
+
+---
+
 ## 🕐 2026-06-30 07:33:13 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -233,44 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Stali jste se prostě příliš normálními
-
----
-
-## 🕐 2026-06-24 07:25:35 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Stříbrný strom: Sedmá ctnost
-2. Nesejde na tom
-3. Neposkvrněné početí
-4. Mise v kolonii
-5. Digitální zlato
-6. Rošťák Bertík - Zombík!
-7. Albánština - konverzace
-8. Přeroste nás les
-9. Ztracený šnek Šimon
-10. Skandál v Milfordu
-11. Dívka s copem
-12. U táborového ohně
-13. Kód zad
-14. Atlas hub
-15. Panzer III vs. T-34
-
----
-
-## 🕐 2026-06-24 07:25:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
