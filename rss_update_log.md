@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-02 07:20:07 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Méně věcí, méně stresu
+2. Hudobná náuka Kľúčik 4
+3. Rambo – Pro přítele
+4. Dědictví iluzí
+5. Tulák
+6. AI na hraně
+7. Tři části šachové partie
+8. Nikdo na palubě
+9. Umění 1/2026
+10. Povědecká psychoterapie. Být sebou
+11. Průvodce zralého muže
+12. Stupně poznání
+13. Já mám v rukavicích tmu
+14. Brána Ivrelu
+15. Léčivá síla stromů a plodů
+
+---
+
+## 🕐 2026-07-02 07:20:06 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hrdinu, prosím
+
+---
+
 ## 🕐 2026-07-01 07:45:33 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
