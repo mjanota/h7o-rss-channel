@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-03 09:30:38 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Zlá krev
+2. Magorova Vanitas
+3. Tančírna Waldek
+4. Pilgrims
+5. Stolní kalendář Josef Lada 2027
+6. Stolní kalendář Praha – Miluju Prahu 2027
+7. Ulicemi Lareda
+8. Šnek je pomalý, ale nikdy nemá zpoždění
+9. Stručné dějiny konce světa
+10. Hodná holka
+11. Můry
+12. Hoří chata, Lenko
+13. Očistec: Děti Raumy
+14. A vy jste?
+15. Vzorek 27-B
+16. Protokol 111
+17. Pramínek vlasů
+18. Legenda o vládcích chaosu
+19. Percy Jackson - Prokletí Titánů
+20. Beton, kosti a sny
+
+---
+
+## 🕐 2026-07-03 09:30:37 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Déjà vu v České televizi
+
+---
+
 ## 🕐 2026-07-02 07:20:07 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -238,89 +285,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Přihořívá
-
----
-
-## 🕐 2026-06-26 07:32:43 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Šedý vlk
-2. Sportovní psychologie pro trenéry
-3. Slon
-4. Lázár
-5. Olomouc ve válce
-6. O patro výš
-7. Souvislosti 2/2026
-8. Nesejde na tom
-9. Neposkvrněné početí
-10. Knížata křesťanské moudrosti
-11. Zájem: člověk
-12. Malované čtení: Co všechno maluje slunce
-13. Spojuj, obtahuj, procvičuj! První tahy
-14. Moje velká kniha Napiš a smaž První tahy
-15. Dějiny a současnost 2/2026
-16. Válka saní
-
----
-
-## 🕐 2026-06-26 07:32:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-06-25 07:26:14 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Noc, kdy jsme se potkali
-2. Zlatá krev
-3. Brána Ivrelu
-4. Kuchařka pro pomalý hrnec
-5. V minulém životě
-6. Antropologie tvorby v reálných a virtuálních světech
-7. Argonauti
-8. Opera kontra chaos
-9. Jan Janoušek - Fotografie
-10. Sbohem, má utopie
-11. Amazing 21
-12. Slavné stavby Prahy 5
-13. Cesta do Helsinek
-14. Den, kdy jsme zešíleli
-15. Dráček Mráček
-16. Maxík a málokdy viditelní
-17. Meteorologické drako zprávy
-
----
-
-## 🕐 2026-06-25 07:26:12 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Stali jste se prostě příliš normálními
 
 ---
 
