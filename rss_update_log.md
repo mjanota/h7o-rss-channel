@@ -5,6 +5,43 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-04 08:47:15 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 14
+
+**Tituly nových položek:**
+
+1. Z pronájmu do vlastního
+2. Meteorologické drakozprávy
+3. Škola dobra a zla
+4. Škola dobra a zla – Svět bez princů
+5. Wabi sabi
+6. Duše na cestách
+7. Hacknuté vědomí
+8. Nádherná katastrofa
+9. Přízeň královny Anny - Intriky na dvoře Tudorovců
+10. Sklenky a doteky
+11. Město a jeho nejisté zdi
+12. Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989)
+13. Silo
+14. Špačkování
+
+---
+
+## 🕐 2026-07-04 08:47:14 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-03 09:30:38 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,48 +280,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-27 07:17:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Hubert aneb Návrat do Casablanky
-2. Ateliér špičatých klobouků 14
-3. Lakomec
-4. Úspěšné vyjednávání
-5. Volajte ma Mandy
-6. Jan Kotík
-7. Konec vše napraví
-8. Antimemetická divize neexistuje
-9. Neznají strach
-10. Hluboká
-11. Bouzov
-12. Trosky
-13. Telč
-14. Tajemství vzestupu 2.díl
-15. Tajemství vzestupu
-
----
-
-## 🕐 2026-06-27 07:17:24 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Přihořívá
 
 ---
 

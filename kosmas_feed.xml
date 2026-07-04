@@ -7,7 +7,105 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 03 Jul 2026 09:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:47:15 +0000</lastBuildDate>
+    <item>
+      <title>Z pronájmu do vlastního</title>
+      <link>https://www.kosmas.cz/knihy/570986/z-pronajmu-do-vlastniho/</link>
+      <description>Z pronájmu do vlastního - Sabina Kotrčová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570986/z-pronajmu-do-vlastniho/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meteorologické drakozprávy</title>
+      <link>https://www.kosmas.cz/knihy/570993/meteorologicke-drakozpravy/</link>
+      <description>Meteorologické drakozprávy - Jozef Timčák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570993/meteorologicke-drakozpravy/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Škola dobra a zla</title>
+      <link>https://www.kosmas.cz/knihy/570994/skola-dobra-a-zla/</link>
+      <description>Škola dobra a zla - Soman Chainani</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570994/skola-dobra-a-zla/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Škola dobra a zla – Svět bez princů</title>
+      <link>https://www.kosmas.cz/knihy/570995/skola-dobra-a-zla-svet-bez-princu/</link>
+      <description>Škola dobra a zla – Svět bez princů - Soman Chainani</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570995/skola-dobra-a-zla-svet-bez-princu/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wabi sabi</title>
+      <link>https://www.kosmas.cz/knihy/570998/wabi-sabi/</link>
+      <description>Wabi sabi - Beth Kemptonová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570998/wabi-sabi/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Duše na cestách</title>
+      <link>https://www.kosmas.cz/knihy/571000/duse-na-cestach/</link>
+      <description>Duše na cestách - Martina Merisi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571000/duse-na-cestach/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hacknuté vědomí</title>
+      <link>https://www.kosmas.cz/knihy/571006/hacknute-vedomi/</link>
+      <description>Hacknuté vědomí - Dave Asprey</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571006/hacknute-vedomi/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nádherná katastrofa</title>
+      <link>https://www.kosmas.cz/knihy/571009/nadherna-katastrofa/</link>
+      <description>Nádherná katastrofa - Miranda Moore</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571009/nadherna-katastrofa/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Přízeň královny Anny - Intriky na dvoře Tudorovců</title>
+      <link>https://www.kosmas.cz/knihy/570361/prizen-kralovny-anny-intriky-na-dvore-tudorovcu/</link>
+      <description>Přízeň královny Anny - Intriky na dvoře Tudorovců - Martha Jean Johnson</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570361/prizen-kralovny-anny-intriky-na-dvore-tudorovcu/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sklenky a doteky</title>
+      <link>https://www.kosmas.cz/knihy/567774/sklenky-a-doteky/</link>
+      <description>Sklenky a doteky - Claire Kingsley, Lucy Score</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567774/sklenky-a-doteky/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Město a jeho nejisté zdi</title>
+      <link>https://www.kosmas.cz/knihy/567410/mesto-a-jeho-nejiste-zdi/</link>
+      <description>Město a jeho nejisté zdi - Haruki Murakami</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567410/mesto-a-jeho-nejiste-zdi/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989)</title>
+      <link>https://www.kosmas.cz/knihy/569824/systemove-zneuzita-a-zneuzivajici-ceskoslovenska-psychiatrie-v-soft---1948-1989/</link>
+      <description>Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989) - Miroslav Vodrážka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569824/systemove-zneuzita-a-zneuzivajici-ceskoslovenska-psychiatrie-v-soft---1948-1989/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:46:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Silo</title>
+      <link>https://www.kosmas.cz/knihy/570626/silo/</link>
+      <description>Silo - Hugh Howey</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570626/silo/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Špačkování</title>
+      <link>https://www.kosmas.cz/knihy/569748/spackovani/</link>
+      <description>Špačkování - Josef Kroutvor</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569748/spackovani/</guid>
+      <pubDate>Sat, 04 Jul 2026 08:46:57 +0000</pubDate>
+    </item>
     <item>
       <title>Zlá krev</title>
       <link>https://www.kosmas.cz/knihy/562921/zla-krev/</link>
@@ -609,104 +707,6 @@
       <description>Psychologie adolescentů - Lenka Lacinová, Petr Macek</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570648/psychologie-adolescentu/</guid>
       <pubDate>Mon, 29 Jun 2026 08:03:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Minulost nepromíjí</title>
-      <link>https://www.kosmas.cz/knihy/570649/minulost-nepromiji/</link>
-      <description>Minulost nepromíjí - Anna Tell</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570649/minulost-nepromiji/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smrt je vždycky osamělá</title>
-      <link>https://www.kosmas.cz/knihy/567937/smrt-je-vzdycky-osamela/</link>
-      <description>Smrt je vždycky osamělá - Ray Bradbury</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567937/smrt-je-vzdycky-osamela/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mimo vesmír</title>
-      <link>https://www.kosmas.cz/knihy/569262/mimo-vesmir/</link>
-      <description>Mimo vesmír - Šimon Minka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569262/mimo-vesmir/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hubert aneb Návrat do Casablanky</title>
-      <link>https://www.kosmas.cz/knihy/569389/hubert-aneb-navrat-do-casablanky/</link>
-      <description>Hubert aneb Návrat do Casablanky - Peter Härtling</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569389/hubert-aneb-navrat-do-casablanky/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ateliér špičatých klobouků 14</title>
-      <link>https://www.kosmas.cz/knihy/569869/atelier-spicatych-klobouku-14/</link>
-      <description>Ateliér špičatých klobouků 14 - Kamome Širahama</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569869/atelier-spicatych-klobouku-14/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lakomec</title>
-      <link>https://www.kosmas.cz/knihy/569945/lakomec/</link>
-      <description>Lakomec - Moliere</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569945/lakomec/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Úspěšné vyjednávání</title>
-      <link>https://www.kosmas.cz/knihy/570036/uspesne-vyjednavani/</link>
-      <description>Úspěšné vyjednávání - Dušan Jílek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570036/uspesne-vyjednavani/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volajte ma Mandy</title>
-      <link>https://www.kosmas.cz/knihy/559350/volajte-ma-mandy/</link>
-      <description>Volajte ma Mandy - Alena Sabuchová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/559350/volajte-ma-mandy/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jan Kotík</title>
-      <link>https://www.kosmas.cz/knihy/569935/jan-kotik/</link>
-      <description>Jan Kotík</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569935/jan-kotik/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konec vše napraví</title>
-      <link>https://www.kosmas.cz/knihy/569946/konec-vse-napravi/</link>
-      <description>Konec vše napraví - William Shakespeare</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569946/konec-vse-napravi/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antimemetická divize neexistuje</title>
-      <link>https://www.kosmas.cz/knihy/570355/antimemeticka-divize-neexistuje/</link>
-      <description>Antimemetická divize neexistuje - Sam Hughes</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570355/antimemeticka-divize-neexistuje/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neznají strach</title>
-      <link>https://www.kosmas.cz/knihy/570413/neznaji-strach/</link>
-      <description>Neznají strach - Christian Dunn</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570413/neznaji-strach/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hluboká</title>
-      <link>https://www.kosmas.cz/knihy/570494/hluboka/</link>
-      <description>Hluboká - Tereza Horáková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570494/hluboka/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bouzov</title>
-      <link>https://www.kosmas.cz/knihy/570495/bouzov/</link>
-      <description>Bouzov - Michaela Hojdysz</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570495/bouzov/</guid>
-      <pubDate>Sat, 27 Jun 2026 07:17:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

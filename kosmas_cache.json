@@ -1,5 +1,132 @@
 [
   {
+    "title": "Z pronájmu do vlastního",
+    "url": "https://www.kosmas.cz/knihy/570986/z-pronajmu-do-vlastniho/",
+    "description": "Z pronájmu do vlastního - Sabina Kotrčová",
+    "authors": [
+      "Sabina Kotrčová"
+    ],
+    "date": "2026-07-04T08:47:15.062820+00:00"
+  },
+  {
+    "title": "Meteorologické drakozprávy",
+    "url": "https://www.kosmas.cz/knihy/570993/meteorologicke-drakozpravy/",
+    "description": "Meteorologické drakozprávy - Jozef Timčák",
+    "authors": [
+      "Jozef Timčák"
+    ],
+    "date": "2026-07-04T08:47:12.062820+00:00"
+  },
+  {
+    "title": "Škola dobra a zla",
+    "url": "https://www.kosmas.cz/knihy/570994/skola-dobra-a-zla/",
+    "description": "Škola dobra a zla - Soman Chainani",
+    "authors": [
+      "Soman Chainani"
+    ],
+    "date": "2026-07-04T08:47:11.062820+00:00"
+  },
+  {
+    "title": "Škola dobra a zla – Svět bez princů",
+    "url": "https://www.kosmas.cz/knihy/570995/skola-dobra-a-zla-svet-bez-princu/",
+    "description": "Škola dobra a zla – Svět bez princů - Soman Chainani",
+    "authors": [
+      "Soman Chainani"
+    ],
+    "date": "2026-07-04T08:47:10.062820+00:00"
+  },
+  {
+    "title": "Wabi sabi",
+    "url": "https://www.kosmas.cz/knihy/570998/wabi-sabi/",
+    "description": "Wabi sabi - Beth Kemptonová",
+    "authors": [
+      "Beth Kemptonová"
+    ],
+    "date": "2026-07-04T08:47:09.062820+00:00"
+  },
+  {
+    "title": "Duše na cestách",
+    "url": "https://www.kosmas.cz/knihy/571000/duse-na-cestach/",
+    "description": "Duše na cestách - Martina Merisi",
+    "authors": [
+      "Martina Merisi"
+    ],
+    "date": "2026-07-04T08:47:08.062820+00:00"
+  },
+  {
+    "title": "Hacknuté vědomí",
+    "url": "https://www.kosmas.cz/knihy/571006/hacknute-vedomi/",
+    "description": "Hacknuté vědomí - Dave Asprey",
+    "authors": [
+      "Dave Asprey"
+    ],
+    "date": "2026-07-04T08:47:07.062820+00:00"
+  },
+  {
+    "title": "Nádherná katastrofa",
+    "url": "https://www.kosmas.cz/knihy/571009/nadherna-katastrofa/",
+    "description": "Nádherná katastrofa - Miranda Moore",
+    "authors": [
+      "Miranda Moore"
+    ],
+    "date": "2026-07-04T08:47:06.062820+00:00"
+  },
+  {
+    "title": "Přízeň královny Anny - Intriky na dvoře Tudorovců",
+    "url": "https://www.kosmas.cz/knihy/570361/prizen-kralovny-anny-intriky-na-dvore-tudorovcu/",
+    "description": "Přízeň královny Anny - Intriky na dvoře Tudorovců - Martha Jean Johnson",
+    "authors": [
+      "Martha Jean Johnson"
+    ],
+    "date": "2026-07-04T08:47:04.062820+00:00"
+  },
+  {
+    "title": "Sklenky a doteky",
+    "url": "https://www.kosmas.cz/knihy/567774/sklenky-a-doteky/",
+    "description": "Sklenky a doteky - Claire Kingsley, Lucy Score",
+    "authors": [
+      "Claire Kingsley",
+      "Lucy Score"
+    ],
+    "date": "2026-07-04T08:47:03.062820+00:00"
+  },
+  {
+    "title": "Město a jeho nejisté zdi",
+    "url": "https://www.kosmas.cz/knihy/567410/mesto-a-jeho-nejiste-zdi/",
+    "description": "Město a jeho nejisté zdi - Haruki Murakami",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "date": "2026-07-04T08:47:00.062820+00:00"
+  },
+  {
+    "title": "Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989)",
+    "url": "https://www.kosmas.cz/knihy/569824/systemove-zneuzita-a-zneuzivajici-ceskoslovenska-psychiatrie-v-soft---1948-1989/",
+    "description": "Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989) - Miroslav Vodrážka",
+    "authors": [
+      "Miroslav Vodrážka"
+    ],
+    "date": "2026-07-04T08:46:59.062820+00:00"
+  },
+  {
+    "title": "Silo",
+    "url": "https://www.kosmas.cz/knihy/570626/silo/",
+    "description": "Silo - Hugh Howey",
+    "authors": [
+      "Hugh Howey"
+    ],
+    "date": "2026-07-04T08:46:58.062820+00:00"
+  },
+  {
+    "title": "Špačkování",
+    "url": "https://www.kosmas.cz/knihy/569748/spackovani/",
+    "description": "Špačkování - Josef Kroutvor",
+    "authors": [
+      "Josef Kroutvor"
+    ],
+    "date": "2026-07-04T08:46:57.062820+00:00"
+  },
+  {
     "title": "Zlá krev",
     "url": "https://www.kosmas.cz/knihy/562921/zla-krev/",
     "description": "Zlá krev - Angela Marsons",
@@ -1659,133 +1786,5 @@
       "Lucie Strnadová"
     ],
     "date": "2026-06-20T07:33:27.603287+00:00"
-  },
-  {
-    "title": "Hra - Ztracená písmena",
-    "url": "https://www.kosmas.cz/knihy/569863/hra-ztracena-pismena/",
-    "description": "Hra - Ztracená písmena - Lucie Strnadová",
-    "authors": [
-      "Lucie Strnadová"
-    ],
-    "date": "2026-06-20T07:33:26.603287+00:00"
-  },
-  {
-    "title": "Šepoty údolí",
-    "url": "https://www.kosmas.cz/knihy/569936/sepoty-udoli/",
-    "description": "Šepoty údolí - Savka Marenić",
-    "authors": [
-      "Savka Marenić"
-    ],
-    "date": "2026-06-20T07:33:25.603287+00:00"
-  },
-  {
-    "title": "Drobné radosti",
-    "url": "https://www.kosmas.cz/knihy/569968/drobne-radosti/",
-    "description": "Drobné radosti - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-20T07:33:24.603287+00:00"
-  },
-  {
-    "title": "Hřejivý podzim",
-    "url": "https://www.kosmas.cz/knihy/569969/hrejivy-podzim/",
-    "description": "Hřejivý podzim - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-20T07:33:23.603287+00:00"
-  },
-  {
-    "title": "Kvak a Žbluňk jsou kamarádi",
-    "url": "https://www.kosmas.cz/knihy/570001/kvak-a-zblunk-jsou-kamaradi/",
-    "description": "Kvak a Žbluňk jsou kamarádi - Arnold Lobel",
-    "authors": [
-      "Arnold Lobel"
-    ],
-    "date": "2026-06-20T07:33:22.603287+00:00"
-  },
-  {
-    "title": "Runová magie",
-    "url": "https://www.kosmas.cz/knihy/570172/runova-magie/",
-    "description": "Runová magie - Lorena Assisi, Giulia Manzi",
-    "authors": [
-      "Lorena Assisi",
-      "Giulia Manzi"
-    ],
-    "date": "2026-06-20T07:33:17.603287+00:00"
-  },
-  {
-    "title": "Hrdinové",
-    "url": "https://www.kosmas.cz/knihy/570187/hrdinove/",
-    "description": "Hrdinové - Eduard Stehlík",
-    "authors": [
-      "Eduard Stehlík"
-    ],
-    "date": "2026-06-20T07:33:16.603287+00:00"
-  },
-  {
-    "title": "Veselé Vánoce",
-    "url": "https://www.kosmas.cz/knihy/570204/vesele-vanoce/",
-    "description": "Veselé Vánoce - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-20T07:33:15.603287+00:00"
-  },
-  {
-    "title": "Zimní radovánky",
-    "url": "https://www.kosmas.cz/knihy/570208/zimni-radovanky/",
-    "description": "Zimní radovánky - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-20T07:33:14.603287+00:00"
-  },
-  {
-    "title": "Teď je to na tobě",
-    "url": "https://www.kosmas.cz/knihy/570229/ted-je-to-na-tobe/",
-    "description": "Teď je to na tobě - Leona Jordánová",
-    "authors": [
-      "Leona Jordánová"
-    ],
-    "date": "2026-06-20T07:33:13.603287+00:00"
-  },
-  {
-    "title": "Dvě svatební komedie",
-    "url": "https://www.kosmas.cz/knihy/570274/dve-svatebni-komedie/",
-    "description": "Dvě svatební komedie - Theobald Lewis, William Shakespeare",
-    "authors": [
-      "Theobald Lewis",
-      "William Shakespeare"
-    ],
-    "date": "2026-06-20T07:33:12.603287+00:00"
-  },
-  {
-    "title": "Úžasní netopýři",
-    "url": "https://www.kosmas.cz/knihy/570005/uzasni-netopyri/",
-    "description": "Úžasní netopýři - Yossi Yovel",
-    "authors": [
-      "Yossi Yovel"
-    ],
-    "date": "2026-06-19T08:08:58.258737+00:00"
-  },
-  {
-    "title": "Giovanniho pokoj",
-    "url": "https://www.kosmas.cz/knihy/566434/giovanniho-pokoj/",
-    "description": "Giovanniho pokoj - James Baldwin",
-    "authors": [
-      "James Baldwin"
-    ],
-    "date": "2026-06-19T08:08:57.258737+00:00"
-  },
-  {
-    "title": "Mise v kolonii",
-    "url": "https://www.kosmas.cz/knihy/570113/mise-v-kolonii/",
-    "description": "Mise v kolonii - Michael Mammay",
-    "authors": [
-      "Michael Mammay"
-    ],
-    "date": "2026-06-19T08:08:56.258737+00:00"
   }
 ]
