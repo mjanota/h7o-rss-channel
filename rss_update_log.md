@@ -5,6 +5,30 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-05 09:17:50 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. K-pop omalovánky
+
+---
+
+## 🕐 2026-07-05 09:17:49 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-04 08:47:15 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -260,26 +284,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Rychlejší než fotobuňka
-
----
-
-## 🕐 2026-06-28 07:34:35 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-06-28 07:34:24 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
