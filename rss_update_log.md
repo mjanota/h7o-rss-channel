@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-06 10:53:51 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Zkrocení mlsného muže
+2. Cvrček
+
+---
+
+## 🕐 2026-07-06 10:53:50 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-05 09:17:50 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -241,49 +266,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-06-29 08:03:37 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Skleněný klíč
-2. Kapka jedu
-3. Dlouhá hra
-4. Nejdelší z cest
-5. Padesátkou z kopce
-6. Když římský orel vládl světu
-7. Život ještě nekončí
-8. Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho
-9. Mozkový restart
-10. Na straně svobody
-11. Velkolepá hra
-12. Cesta z obezity
-13. Psychologie adolescentů
-14. Minulost nepromíjí
-15. Smrt je vždycky osamělá
-16. Mimo vesmír
-
----
-
-## 🕐 2026-06-29 08:03:35 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Rychlejší než fotobuňka
 
 ---
 
