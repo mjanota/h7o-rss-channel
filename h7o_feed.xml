@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:55:51 +0000</lastBuildDate>
     <item>
       <title>Déjà vu v České televizi</title>
       <link>https://www.h7o.cz/clanky/14560-dej-vu-v-ceske-televizi</link>
@@ -427,13 +427,6 @@
       <description>Důvodů k pláči máme každý den mnoho. Trump se zase rozhodl zničit svět. Zase jsme úspěšně dolétli k Měsíci. Zase stovky lidí padly za oběť aktuálním válkám. Možná to není od věci – totiž zaplakat. Václav Sklenář se v návaznosti na amerického esejistu Marka Edmundsona zamýšlí proč.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14485-nebud-ubrecenej</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hoď ho do stroje</title>
-      <link>https://www.h7o.cz/clanky/14486-hod-ho-do-stroje</link>
-      <description>Umělá inteligence proměňuje nakladatelskou praxi. Redaktoři si nechávají technologií „číst“ rukopisy a zároveň je tak poskytují třetím stranám.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14486-hod-ho-do-stroje</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

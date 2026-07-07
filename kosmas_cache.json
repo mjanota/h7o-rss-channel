@@ -1,5 +1,40 @@
 [
   {
+    "title": "Protimluv 2/2026",
+    "url": "https://www.kosmas.cz/knihy/570943/protimluv-2-2026/",
+    "description": "Protimluv 2/2026",
+    "authors": [],
+    "date": "2026-07-07T09:55:52.828752+00:00"
+  },
+  {
+    "title": "[Moje hvězda] 10",
+    "url": "https://www.kosmas.cz/knihy/570452/moje-hvezda-10/",
+    "description": "[Moje hvězda] 10 - Aka Akasaka, Mengo Jokojari",
+    "authors": [
+      "Aka Akasaka",
+      "Mengo Jokojari"
+    ],
+    "date": "2026-07-07T09:55:51.828752+00:00"
+  },
+  {
+    "title": "Kagurabači 4: Rovnost",
+    "url": "https://www.kosmas.cz/knihy/570453/kagurabaci-4-rovnost/",
+    "description": "Kagurabači 4: Rovnost - Takeru Hokazono",
+    "authors": [
+      "Takeru Hokazono"
+    ],
+    "date": "2026-07-07T09:55:50.828752+00:00"
+  },
+  {
+    "title": "SpongeBob 7/2026",
+    "url": "https://www.kosmas.cz/knihy/570457/spongebob-7-2026/",
+    "description": "SpongeBob 7/2026 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-07-07T09:55:49.828752+00:00"
+  },
+  {
     "title": "Zkrocení mlsného muže",
     "url": "https://www.kosmas.cz/knihy/570154/zkroceni-mlsneho-muze/",
     "description": "Zkrocení mlsného muže - Jitka Ludvíková",
@@ -1749,42 +1784,5 @@
       "George Suchánek"
     ],
     "date": "2026-06-22T08:20:45.651153+00:00"
-  },
-  {
-    "title": "Vybrané kapitoly ze sportovního tréninku",
-    "url": "https://www.kosmas.cz/knihy/570275/vybrane-kapitoly-ze-sportovniho-treninku/",
-    "description": "Vybrané kapitoly ze sportovního tréninku - Michal Hrubý",
-    "authors": [
-      "Michal Hrubý"
-    ],
-    "date": "2026-06-21T07:52:32.223638+00:00"
-  },
-  {
-    "title": "Jak ovládnout supersíly",
-    "url": "https://www.kosmas.cz/knihy/570350/jak-ovladnout-supersily/",
-    "description": "Jak ovládnout supersíly - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-06-21T07:52:31.223638+00:00"
-  },
-  {
-    "title": "Kouzelné léto",
-    "url": "https://www.kosmas.cz/knihy/569971/kouzelne-leto/",
-    "description": "Kouzelné léto - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-06-20T07:33:31.603287+00:00"
-  },
-  {
-    "title": "Super Mario Galaktický film - Oficiální kniha aktivit",
-    "url": "https://www.kosmas.cz/knihy/569044/super-mario-galakticky-film-oficialni-kniha-aktivit/",
-    "description": "Super Mario Galaktický film - Oficiální kniha aktivit - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-06-20T07:33:30.603287+00:00"
   }
 ]

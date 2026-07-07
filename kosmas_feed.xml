@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:55:52 +0000</lastBuildDate>
+    <item>
+      <title>Protimluv 2/2026</title>
+      <link>https://www.kosmas.cz/knihy/570943/protimluv-2-2026/</link>
+      <description>Protimluv 2/2026</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570943/protimluv-2-2026/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Moje hvězda] 10</title>
+      <link>https://www.kosmas.cz/knihy/570452/moje-hvezda-10/</link>
+      <description>[Moje hvězda] 10 - Aka Akasaka, Mengo Jokojari</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570452/moje-hvezda-10/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kagurabači 4: Rovnost</title>
+      <link>https://www.kosmas.cz/knihy/570453/kagurabaci-4-rovnost/</link>
+      <description>Kagurabači 4: Rovnost - Takeru Hokazono</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570453/kagurabaci-4-rovnost/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpongeBob 7/2026</title>
+      <link>https://www.kosmas.cz/knihy/570457/spongebob-7-2026/</link>
+      <description>SpongeBob 7/2026 - kolektiv autorů</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570457/spongebob-7-2026/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:55:49 +0000</pubDate>
+    </item>
     <item>
       <title>Zkrocení mlsného muže</title>
       <link>https://www.kosmas.cz/knihy/570154/zkroceni-mlsneho-muze/</link>
@@ -679,34 +707,6 @@
       <description>Když římský orel vládl světu - Jan Hrdina</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570641/kdyz-rimsky-orel-vladl-svetu/</guid>
       <pubDate>Mon, 29 Jun 2026 08:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Život ještě nekončí</title>
-      <link>https://www.kosmas.cz/knihy/570642/zivot-jeste-nekonci/</link>
-      <description>Život ještě nekončí - Zdeněk Blahůšek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570642/zivot-jeste-nekonci/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho</title>
-      <link>https://www.kosmas.cz/knihy/568661/cung-juan-cchi-kungu-druha-etapa-vzestupu-ticho/</link>
-      <description>Čung-jüan čchi-kungu – Druhá etapa vzestupu: Ticho - Tamara Martynovová, Sü Ming-tchang</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568661/cung-juan-cchi-kungu-druha-etapa-vzestupu-ticho/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mozkový restart</title>
-      <link>https://www.kosmas.cz/knihy/570644/mozkovy-restart/</link>
-      <description>Mozkový restart - Albert Villoldo</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570644/mozkovy-restart/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Na straně svobody</title>
-      <link>https://www.kosmas.cz/knihy/570645/na-strane-svobody/</link>
-      <description>Na straně svobody - Roman Joch</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570645/na-strane-svobody/</guid>
-      <pubDate>Mon, 29 Jun 2026 08:03:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

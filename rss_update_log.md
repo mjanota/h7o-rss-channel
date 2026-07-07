@@ -5,6 +5,33 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-07 09:55:52 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 4
+
+**Tituly nových položek:**
+
+1. Protimluv 2/2026
+2. [Moje hvězda] 10
+3. Kagurabači 4: Rovnost
+4. SpongeBob 7/2026
+
+---
+
+## 🕐 2026-07-07 09:55:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-06 10:53:51 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -223,49 +250,6 @@ Uchovává záznamy za poslední týden.
 
 1. O zvucích všeho druhu
 2. Řeky větvící se podzemím
-
----
-
-## 🕐 2026-06-30 07:33:13 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Zralá, co hodně žrala
-2. Zlatá krev
-3. Poison City
-4. Děti jako krevní konzervy pro německou armádu
-5. Tempting Venom
-6. Secret of Secrets
-7. Hallmarked Man
-8. Before I Knew I Loved You
-9. Zlatá krev
-10. Karel Koutský - Reminiscence
-11. Dáma to ví nejlépe
-12. Legenda o Sim Čchong 4
-13. Netvora 9: Posedlí
-14. Útok titánů: Ztracené dívky 2
-15. Noc, kdy jsme se potkali
-16. Autoatlas ČR - 2026/27
-17. Bulletproof
-18. The Elements
-19. End Game
-20. Harvest Season
-
----
-
-## 🕐 2026-06-30 07:33:11 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
