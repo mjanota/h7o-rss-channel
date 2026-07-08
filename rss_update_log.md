@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-08 08:40:02 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Ať žije Francie!
+2. Ježíš navždy
+3. Vlak do Samarkandu
+4. Nebojte se lidí a buďte sami sebou
+5. HIFT – Vysoce intenzivní funkční trénink
+6. Putinovi žoldnéři 2013–24
+7. 7 zákonů spirály úspěchu
+8. Údolí poníků
+9. Projekt DeadHappy
+10. Klub odsouzených
+11. Doktorova milenka
+12. Osamělý vlk
+13. Pohyblivý svátek
+14. Objevujte mozek
+15. Kronika druhé světové války
+16. Témata, slova a věty A1, ENG-CZ
+17. Afirmace o Lásce č. 2
+18. Afirmace o Lásce č. 3
+
+---
+
+## 🕐 2026-07-08 08:40:00 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-07 09:55:52 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -204,52 +245,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hrdinu, prosím
-
----
-
-## 🕐 2026-07-01 07:45:33 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Sklenky a doteky
-2. Město a jeho nejisté zdi
-3. Políbit tu správnou nevěstu
-4. Příběh s vůní lípy
-5. Koruna z kostí a zlata
-6. Bohatí musejí zemřít
-7. Případy soudce Ti: Smrt ve vrbové čtvrti
-8. Blíž, než se zdá
-9. Svědkyně na útěku
-10. Král lenosti
-11. Zvrácený osud
-12. Stojí za pokus
-13. Kočičí štěstí
-14. Akademická encyklopedie českých dějin XI. Poh – Praha: pohanství – Praha, pražská města
-15. Kreativní rodinný kalendář, nedatovaný
-16. Horalova dokonalá nevěsta
-17. Film a doba 2/2026
-18. Povědecká psychoterapie. Být sebou
-
----
-
-## 🕐 2026-07-01 07:45:32 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. O zvucích všeho druhu
-2. Řeky větvící se podzemím
 
 ---
 
