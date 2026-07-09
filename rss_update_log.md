@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-09 10:03:15 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Jééé!
+2. Polná včera a dnes II.
+3. Banksy
+4. 7 zákonů spirály úspěchu
+5. Uvězněná v Karibiku
+6. Pár falešných polibků
+7. Dívka bez korzetu
+8. Hra podle jejich pravidel
+9. Princův zapomenutý poklad
+10. Nerovný pár
+11. Dědic jedné noci
+12. Sonety pro Elizu
+13. Irská balada
+14. Obušky a chačapuri
+15. Intuice ze Srdce
+16. Srdce je přítel
+17. Pomohu ti jsem zrcadlení 1. díl – Seznam se, kdo jsem, část první
+18. Faulovaná architektura
+19. Written Culture of the Premonstratensians in Late Medieval Bohemia (1300–1420)
+
+---
+
+## 🕐 2026-07-09 10:03:14 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Ruština v Bělorusku
+2. Co střeží Zahrada: Dětská literatura ve Frankfurtu
+
+---
+
 ## 🕐 2026-07-08 08:40:02 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -203,48 +250,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Déjà vu v České televizi
-
----
-
-## 🕐 2026-07-02 07:20:07 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Méně věcí, méně stresu
-2. Hudobná náuka Kľúčik 4
-3. Rambo – Pro přítele
-4. Dědictví iluzí
-5. Tulák
-6. AI na hraně
-7. Tři části šachové partie
-8. Nikdo na palubě
-9. Umění 1/2026
-10. Povědecká psychoterapie. Být sebou
-11. Průvodce zralého muže
-12. Stupně poznání
-13. Já mám v rukavicích tmu
-14. Brána Ivrelu
-15. Léčivá síla stromů a plodů
-
----
-
-## 🕐 2026-07-02 07:20:06 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hrdinu, prosím
 
 ---
 

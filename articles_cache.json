@@ -1,13 +1,5 @@
 [
   {
-    "title": "Je tady něco, co obnažuje naše meze",
-    "url": "https://www.h7o.cz/clanky/14489-je-tady-neco-co-obnazuje-nase-meze",
-    "description": "Básník Jan Musil nedávno debutoval sbírkou „Poslední život: Bildungspoema z minulosti a budoucnosti“. Své verše ale už dříve publikoval pod jménem Jana Koukal, je také redaktorem časopisu Plav a koordinátorem zahraniční spolupráce v Českém literárním centru. Rozhovor s ním vedl Roman Polách.",
-    "date": "2026-04-10T00:00:00",
-    "author": "Roman Polách",
-    "category": "rozhovor"
-  },
-  {
     "title": "Pracovat bez honoráře není dobrovolnictví, ale systémový problém",
     "url": "https://www.h7o.cz/clanky/14490-pracovat-bez-honorare-neni-dobrovolnictvi-ale-systemovy-problem",
     "description": "Ministerstvo kultury se opět ocitlo ve středu zájmu. Řeší se především dotační výzvy, ale  aktéři literárního provozu fungují v širším kontextu kulturní politiky, než jsou jen dotace, a nevyhnutelně také v prostředí knižního trhu. S Annou Štičkovou rozebíráme, kde jsou největší potíže těchto…",
@@ -470,5 +462,21 @@
     "date": "2026-07-03T00:00:00",
     "author": "Karel Hvížďala",
     "category": "sloupek"
+  },
+  {
+    "title": "Ruština v Bělorusku",
+    "url": "https://www.h7o.cz/clanky/14561-rustina-v-belorusku",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek překladatele Libora Dvořáka z roku 2021.",
+    "date": "2026-07-08T00:00:00",
+    "author": "Libor Dvořák",
+    "category": "sloupek"
+  },
+  {
+    "title": "Co střeží Zahrada: Dětská literatura ve Frankfurtu",
+    "url": "https://www.h7o.cz/clanky/14536-co-strezi-zahrada-detska-literatura-ve-frankfurtu",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Pokračujeme v sérii článků věnovaných českému hostování textem Jana Jindřicha Karáska o dětské literatuře.",
+    "date": "2026-07-07T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

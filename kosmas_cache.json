@@ -1,5 +1,180 @@
 [
   {
+    "title": "Jééé!",
+    "url": "https://www.kosmas.cz/knihy/563783/jeee/",
+    "description": "Jééé! - Hervé Tullet",
+    "authors": [
+      "Hervé Tullet"
+    ],
+    "date": "2026-07-09T10:03:15.605935+00:00"
+  },
+  {
+    "title": "Polná včera a dnes II.",
+    "url": "https://www.kosmas.cz/knihy/570923/polna-vcera-a-dnes-ii/",
+    "description": "Polná včera a dnes II. - Jan Prchal, Milan Šustr",
+    "authors": [
+      "Jan Prchal",
+      "Milan Šustr"
+    ],
+    "date": "2026-07-09T10:03:14.605935+00:00"
+  },
+  {
+    "title": "Banksy",
+    "url": "https://www.kosmas.cz/knihy/570952/banksy/",
+    "description": "Banksy - Luca Greco",
+    "authors": [
+      "Luca Greco"
+    ],
+    "date": "2026-07-09T10:03:13.605935+00:00"
+  },
+  {
+    "title": "7 zákonů spirály úspěchu",
+    "url": "https://www.kosmas.cz/knihy/569937/7-zakonu-spiraly-uspechu/",
+    "description": "7 zákonů spirály úspěchu - Stanislav Häuser",
+    "authors": [
+      "Stanislav Häuser"
+    ],
+    "date": "2026-07-09T10:03:12.605935+00:00"
+  },
+  {
+    "title": "Uvězněná v Karibiku",
+    "url": "https://www.kosmas.cz/knihy/571116/uveznena-v-karibiku/",
+    "description": "Uvězněná v Karibiku - Michelle Smartová",
+    "authors": [
+      "Michelle Smartová"
+    ],
+    "date": "2026-07-09T10:03:10.605935+00:00"
+  },
+  {
+    "title": "Pár falešných polibků",
+    "url": "https://www.kosmas.cz/knihy/571119/par-falesnych-polibku/",
+    "description": "Pár falešných polibků - Jayci Lee",
+    "authors": [
+      "Jayci Lee"
+    ],
+    "date": "2026-07-09T10:03:09.605935+00:00"
+  },
+  {
+    "title": "Dívka bez korzetu",
+    "url": "https://www.kosmas.cz/knihy/571121/divka-bez-korzetu/",
+    "description": "Dívka bez korzetu - Louise Allenová",
+    "authors": [
+      "Louise Allenová"
+    ],
+    "date": "2026-07-09T10:03:08.605935+00:00"
+  },
+  {
+    "title": "Hra podle jejich pravidel",
+    "url": "https://www.kosmas.cz/knihy/571127/hra-podle-jejich-pravidel/",
+    "description": "Hra podle jejich pravidel - Lorraine Hallová",
+    "authors": [
+      "Lorraine Hallová"
+    ],
+    "date": "2026-07-09T10:03:07.605935+00:00"
+  },
+  {
+    "title": "Princův zapomenutý poklad",
+    "url": "https://www.kosmas.cz/knihy/571129/princuv-zapomenuty-poklad/",
+    "description": "Princův zapomenutý poklad - Emmy Graysonová",
+    "authors": [
+      "Emmy Graysonová"
+    ],
+    "date": "2026-07-09T10:03:06.605935+00:00"
+  },
+  {
+    "title": "Nerovný pár",
+    "url": "https://www.kosmas.cz/knihy/571131/nerovny-par/",
+    "description": "Nerovný pár - Fiona Brandová",
+    "authors": [
+      "Fiona Brandová"
+    ],
+    "date": "2026-07-09T10:03:05.605935+00:00"
+  },
+  {
+    "title": "Dědic jedné noci",
+    "url": "https://www.kosmas.cz/knihy/571132/dedic-jedne-noci/",
+    "description": "Dědic jedné noci - Natalie Andersonová",
+    "authors": [
+      "Natalie Andersonová"
+    ],
+    "date": "2026-07-09T10:03:04.605935+00:00"
+  },
+  {
+    "title": "Sonety pro Elizu",
+    "url": "https://www.kosmas.cz/knihy/571134/sonety-pro-elizu/",
+    "description": "Sonety pro Elizu - Julia Justissová, Jana Pešková",
+    "authors": [
+      "Julia Justissová",
+      "Jana Pešková"
+    ],
+    "date": "2026-07-09T10:03:03.605935+00:00"
+  },
+  {
+    "title": "Irská balada",
+    "url": "https://www.kosmas.cz/knihy/571135/irska-balada/",
+    "description": "Irská balada - Maureen Childová",
+    "authors": [
+      "Maureen Childová"
+    ],
+    "date": "2026-07-09T10:03:02.605935+00:00"
+  },
+  {
+    "title": "Obušky a chačapuri",
+    "url": "https://www.kosmas.cz/knihy/571137/obusky-a-chacapuri/",
+    "description": "Obušky a chačapuri - Eva Karlíková",
+    "authors": [
+      "Eva Karlíková"
+    ],
+    "date": "2026-07-09T10:03:01.605935+00:00"
+  },
+  {
+    "title": "Intuice ze Srdce",
+    "url": "https://www.kosmas.cz/knihy/571146/intuice-ze-srdce/",
+    "description": "Intuice ze Srdce - Adam Evan",
+    "authors": [
+      "Adam Evan"
+    ],
+    "date": "2026-07-09T10:03:00.605935+00:00"
+  },
+  {
+    "title": "Srdce je přítel",
+    "url": "https://www.kosmas.cz/knihy/571148/srdce-je-pritel/",
+    "description": "Srdce je přítel - Adam Evan",
+    "authors": [
+      "Adam Evan"
+    ],
+    "date": "2026-07-09T10:02:59.605935+00:00"
+  },
+  {
+    "title": "Pomohu ti jsem zrcadlení 1. díl – Seznam se, kdo jsem, část první",
+    "url": "https://www.kosmas.cz/knihy/571150/pomohu-ti-jsem-zrcadleni-1.-dil-seznam-se-kdo-jsem-cast-prvni/",
+    "description": "Pomohu ti jsem zrcadlení 1. díl – Seznam se, kdo jsem, část první - Adam Evan",
+    "authors": [
+      "Adam Evan"
+    ],
+    "date": "2026-07-09T10:02:58.605935+00:00"
+  },
+  {
+    "title": "Faulovaná architektura",
+    "url": "https://www.kosmas.cz/knihy/568785/faulovana-architektura/",
+    "description": "Faulovaná architektura - Hynek Fetterle, Miloš Kopřiva",
+    "authors": [
+      "Hynek Fetterle",
+      "Miloš Kopřiva"
+    ],
+    "date": "2026-07-09T10:02:57.605935+00:00"
+  },
+  {
+    "title": "Written Culture of the Premonstratensians in Late Medieval Bohemia (1300–1420)",
+    "url": "https://www.kosmas.cz/knihy/569435/written-culture-of-the-premonstratensians-in-late-medieval-bohemia-1300-1420/",
+    "description": "Written Culture of the Premonstratensians in Late Medieval Bohemia (1300–1420) - Marta Hradilová, Hana Pátková",
+    "authors": [
+      "Marta Hradilová",
+      "Hana Pátková"
+    ],
+    "date": "2026-07-09T10:02:56.605935+00:00"
+  },
+  {
     "title": "Ať žije Francie!",
     "url": "https://www.kosmas.cz/knihy/570978/at-zije-francie/",
     "description": "Ať žije Francie! - Ivan Kraus",
@@ -1615,174 +1790,5 @@
       "David Procházka"
     ],
     "date": "2026-06-24T07:25:31.820916+00:00"
-  },
-  {
-    "title": "Rošťák Bertík - Zombík!",
-    "url": "https://www.kosmas.cz/knihy/569296/rostak-bertik-zombik/",
-    "description": "Rošťák Bertík - Zombík! - Alan MacDonald",
-    "authors": [
-      "Alan MacDonald"
-    ],
-    "date": "2026-06-24T07:25:30.820916+00:00"
-  },
-  {
-    "title": "Albánština - konverzace",
-    "url": "https://www.kosmas.cz/knihy/569395/albanstina-konverzace/",
-    "description": "Albánština - konverzace - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-06-24T07:25:25.820916+00:00"
-  },
-  {
-    "title": "Přeroste nás les",
-    "url": "https://www.kosmas.cz/knihy/569468/preroste-nas-les/",
-    "description": "Přeroste nás les - Petr Čermáček",
-    "authors": [
-      "Petr Čermáček"
-    ],
-    "date": "2026-06-24T07:25:24.820916+00:00"
-  },
-  {
-    "title": "Ztracený šnek Šimon",
-    "url": "https://www.kosmas.cz/knihy/569755/ztraceny-snek-simon/",
-    "description": "Ztracený šnek Šimon - Linda Liliková",
-    "authors": [
-      "Linda Liliková"
-    ],
-    "date": "2026-06-24T07:25:22.820916+00:00"
-  },
-  {
-    "title": "Skandál v Milfordu",
-    "url": "https://www.kosmas.cz/knihy/569794/skandal-v-milfordu/",
-    "description": "Skandál v Milfordu - Josephine Tey",
-    "authors": [
-      "Josephine Tey"
-    ],
-    "date": "2026-06-24T07:25:21.820916+00:00"
-  },
-  {
-    "title": "Dívka s copem",
-    "url": "https://www.kosmas.cz/knihy/569795/divka-s-copem/",
-    "description": "Dívka s copem - Jaroslav Velinský",
-    "authors": [
-      "Jaroslav Velinský"
-    ],
-    "date": "2026-06-24T07:25:20.820916+00:00"
-  },
-  {
-    "title": "U táborového ohně",
-    "url": "https://www.kosmas.cz/knihy/569813/u-taboroveho-ohne/",
-    "description": "U táborového ohně - Vladimír Rogl",
-    "authors": [
-      "Vladimír Rogl"
-    ],
-    "date": "2026-06-24T07:25:19.820916+00:00"
-  },
-  {
-    "title": "Kód zad",
-    "url": "https://www.kosmas.cz/knihy/570059/kod-zad/",
-    "description": "Kód zad - Michal Novotný",
-    "authors": [
-      "Michal Novotný"
-    ],
-    "date": "2026-06-24T07:25:18.820916+00:00"
-  },
-  {
-    "title": "Atlas hub",
-    "url": "https://www.kosmas.cz/knihy/570088/atlas-hub/",
-    "description": "Atlas hub",
-    "authors": [],
-    "date": "2026-06-24T07:25:17.820916+00:00"
-  },
-  {
-    "title": "Panzer III vs. T-34",
-    "url": "https://www.kosmas.cz/knihy/570091/panzer-iii-vs.-t-34/",
-    "description": "Panzer III vs. T-34",
-    "authors": [],
-    "date": "2026-06-24T07:25:16.820916+00:00"
-  },
-  {
-    "title": "Pražské příběhy",
-    "url": "https://www.kosmas.cz/knihy/570189/prazske-pribehy/",
-    "description": "Pražské příběhy - Klára Hášová, David ed Černý",
-    "authors": [
-      "Klára Hášová",
-      "David ed Černý"
-    ],
-    "date": "2026-06-23T07:29:16.121797+00:00"
-  },
-  {
-    "title": "Třída špiónů a ztracený poklad",
-    "url": "https://www.kosmas.cz/knihy/569306/trida-spionu-a-ztraceny-poklad/",
-    "description": "Třída špiónů a ztracený poklad - Petra Martišková",
-    "authors": [
-      "Petra Martišková"
-    ],
-    "date": "2026-06-23T07:29:15.121797+00:00"
-  },
-  {
-    "title": "V pohodě na vodě",
-    "url": "https://www.kosmas.cz/knihy/569307/v-pohode-na-vode/",
-    "description": "V pohodě na vodě - Lenka Jakešová",
-    "authors": [
-      "Lenka Jakešová"
-    ],
-    "date": "2026-06-23T07:29:14.121797+00:00"
-  },
-  {
-    "title": "Všechny chutě léta",
-    "url": "https://www.kosmas.cz/knihy/569391/vsechny-chute-leta/",
-    "description": "Všechny chutě léta - Pavlína Blahotová",
-    "authors": [
-      "Pavlína Blahotová"
-    ],
-    "date": "2026-06-23T07:29:13.121797+00:00"
-  },
-  {
-    "title": "Terapie do kapsy",
-    "url": "https://www.kosmas.cz/knihy/569717/terapie-do-kapsy/",
-    "description": "Terapie do kapsy - Terapie.cz",
-    "authors": [
-      "Terapie.cz"
-    ],
-    "date": "2026-06-23T07:29:12.121797+00:00"
-  },
-  {
-    "title": "Spirála marnosti",
-    "url": "https://www.kosmas.cz/knihy/569954/spirala-marnosti/",
-    "description": "Spirála marnosti - Petr Růžička",
-    "authors": [
-      "Petr Růžička"
-    ],
-    "date": "2026-06-23T07:29:11.121797+00:00"
-  },
-  {
-    "title": "Láska s vůní čokolády",
-    "url": "https://www.kosmas.cz/knihy/568663/laska-s-vuni-cokolady/",
-    "description": "Láska s vůní čokolády - Hanna Blixt",
-    "authors": [
-      "Hanna Blixt"
-    ],
-    "date": "2026-06-23T07:29:10.121797+00:00"
-  },
-  {
-    "title": "Jak na úzkosti a obavy",
-    "url": "https://www.kosmas.cz/knihy/569388/jak-na-uzkosti-a-obavy/",
-    "description": "Jak na úzkosti a obavy - Tereza Hrušková",
-    "authors": [
-      "Tereza Hrušková"
-    ],
-    "date": "2026-06-23T07:29:09.121797+00:00"
-  },
-  {
-    "title": "Jak vyrobit diamant",
-    "url": "https://www.kosmas.cz/knihy/570348/jak-vyrobit-diamant/",
-    "description": "Jak vyrobit diamant - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-06-23T07:29:08.121797+00:00"
   }
 ]
