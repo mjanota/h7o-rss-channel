@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-10 09:49:01 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Nevěřte sněhu
+2. Skřítek a šťastný domov
+3. Matematické, fyzikální a chemické tabulky pro SŠ
+4. Živé stříbro
+5. Doktorova milenka
+6. Už se tě nebojím
+7. Zkrocení mlsného muže
+8. Divoké dívky
+9. Dove
+10. Klub odsouzených
+11. Kafka, oni a my
+12. Neskutečná klika
+13. Toulky s tátou
+14. Nekroskop
+15. Katastrofa
+16. Tenhle podcast ti může zachránit život
+17. Sirény
+18. Povídá se… podle Tóry
+
+---
+
+## 🕐 2026-07-10 09:48:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Boj o Českou televizi je bojem o monopol na interpretace
+2. Kluci z paneláku
+
+---
+
 ## 🕐 2026-07-09 10:03:15 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -203,53 +249,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-07-03 09:30:38 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Zlá krev
-2. Magorova Vanitas
-3. Tančírna Waldek
-4. Pilgrims
-5. Stolní kalendář Josef Lada 2027
-6. Stolní kalendář Praha – Miluju Prahu 2027
-7. Ulicemi Lareda
-8. Šnek je pomalý, ale nikdy nemá zpoždění
-9. Stručné dějiny konce světa
-10. Hodná holka
-11. Můry
-12. Hoří chata, Lenko
-13. Očistec: Děti Raumy
-14. A vy jste?
-15. Vzorek 27-B
-16. Protokol 111
-17. Pramínek vlasů
-18. Legenda o vládcích chaosu
-19. Percy Jackson - Prokletí Titánů
-20. Beton, kosti a sny
-
----
-
-## 🕐 2026-07-03 09:30:37 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Déjà vu v České televizi
 
 ---
 

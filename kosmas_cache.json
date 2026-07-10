@@ -1,5 +1,167 @@
 [
   {
+    "title": "Nevěřte sněhu",
+    "url": "https://www.kosmas.cz/knihy/571003/neverte-snehu/",
+    "description": "Nevěřte sněhu - Zita Maršíková",
+    "authors": [
+      "Zita Maršíková"
+    ],
+    "date": "2026-07-10T09:49:01.114122+00:00"
+  },
+  {
+    "title": "Skřítek a šťastný domov",
+    "url": "https://www.kosmas.cz/knihy/571004/skritek-a-stastny-domov/",
+    "description": "Skřítek a šťastný domov - Kateřina Miler",
+    "authors": [
+      "Kateřina Miler"
+    ],
+    "date": "2026-07-10T09:49:00.114122+00:00"
+  },
+  {
+    "title": "Matematické, fyzikální a chemické tabulky pro SŠ",
+    "url": "https://www.kosmas.cz/knihy/571058/matematicke-fyzikalni-a-chemicke-tabulky-pro-ss/",
+    "description": "Matematické, fyzikální a chemické tabulky pro SŠ - Jiří Mikulčák",
+    "authors": [
+      "Jiří Mikulčák"
+    ],
+    "date": "2026-07-10T09:48:59.114122+00:00"
+  },
+  {
+    "title": "Živé stříbro",
+    "url": "https://www.kosmas.cz/knihy/571175/zive-stribro/",
+    "description": "Živé stříbro - Callie Hart",
+    "authors": [
+      "Callie Hart"
+    ],
+    "date": "2026-07-10T09:48:58.114122+00:00"
+  },
+  {
+    "title": "Doktorova milenka",
+    "url": "https://www.kosmas.cz/knihy/570276/doktorova-milenka/",
+    "description": "Doktorova milenka - Daniel Hurst",
+    "authors": [
+      "Daniel Hurst"
+    ],
+    "date": "2026-07-10T09:48:57.114122+00:00"
+  },
+  {
+    "title": "Už se tě nebojím",
+    "url": "https://www.kosmas.cz/knihy/569582/uz-se-te-nebojim/",
+    "description": "Už se tě nebojím - Michaela Nosková",
+    "authors": [
+      "Michaela Nosková"
+    ],
+    "date": "2026-07-10T09:48:56.114122+00:00"
+  },
+  {
+    "title": "Zkrocení mlsného muže",
+    "url": "https://www.kosmas.cz/knihy/567784/zkroceni-mlsneho-muze/",
+    "description": "Zkrocení mlsného muže - Jitka Ludvíková",
+    "authors": [
+      "Jitka Ludvíková"
+    ],
+    "date": "2026-07-10T09:48:55.114122+00:00"
+  },
+  {
+    "title": "Divoké dívky",
+    "url": "https://www.kosmas.cz/knihy/567262/divoke-divky/",
+    "description": "Divoké dívky - Madeline Claire Franklin",
+    "authors": [
+      "Madeline Claire Franklin"
+    ],
+    "date": "2026-07-10T09:48:54.114122+00:00"
+  },
+  {
+    "title": "Dove",
+    "url": "https://www.kosmas.cz/knihy/567264/dove/",
+    "description": "Dove - Paisley Hope",
+    "authors": [
+      "Paisley Hope"
+    ],
+    "date": "2026-07-10T09:48:53.114122+00:00"
+  },
+  {
+    "title": "Klub odsouzených",
+    "url": "https://www.kosmas.cz/knihy/567284/klub-odsouzenych/",
+    "description": "Klub odsouzených - V.A. Vazquez",
+    "authors": [
+      "V.A. Vazquez"
+    ],
+    "date": "2026-07-10T09:48:52.114122+00:00"
+  },
+  {
+    "title": "Kafka, oni a my",
+    "url": "https://www.kosmas.cz/knihy/571041/kafka-oni-a-my/",
+    "description": "Kafka, oni a my - Marie Klimešová",
+    "authors": [
+      "Marie Klimešová"
+    ],
+    "date": "2026-07-10T09:48:50.114122+00:00"
+  },
+  {
+    "title": "Neskutečná klika",
+    "url": "https://www.kosmas.cz/knihy/571176/neskutecna-klika/",
+    "description": "Neskutečná klika - Richard Osman",
+    "authors": [
+      "Richard Osman"
+    ],
+    "date": "2026-07-10T09:48:49.114122+00:00"
+  },
+  {
+    "title": "Toulky s tátou",
+    "url": "https://www.kosmas.cz/knihy/571180/toulky-s-tatou/",
+    "description": "Toulky s tátou - Marek Wollner",
+    "authors": [
+      "Marek Wollner"
+    ],
+    "date": "2026-07-10T09:48:48.114122+00:00"
+  },
+  {
+    "title": "Nekroskop",
+    "url": "https://www.kosmas.cz/knihy/571182/nekroskop/",
+    "description": "Nekroskop - Brian Lumley",
+    "authors": [
+      "Brian Lumley"
+    ],
+    "date": "2026-07-10T09:48:47.114122+00:00"
+  },
+  {
+    "title": "Katastrofa",
+    "url": "https://www.kosmas.cz/knihy/568227/katastrofa/",
+    "description": "Katastrofa - T.J. Newman",
+    "authors": [
+      "T.J. Newman"
+    ],
+    "date": "2026-07-10T09:48:46.114122+00:00"
+  },
+  {
+    "title": "Tenhle podcast ti může zachránit život",
+    "url": "https://www.kosmas.cz/knihy/568146/tenhle-podcast-ti-muze-zachranit-zivot/",
+    "description": "Tenhle podcast ti může zachránit život - Tiffany Crumová",
+    "authors": [
+      "Tiffany Crumová"
+    ],
+    "date": "2026-07-10T09:48:45.114122+00:00"
+  },
+  {
+    "title": "Sirény",
+    "url": "https://www.kosmas.cz/knihy/568081/sireny/",
+    "description": "Sirény - Emilia Hart",
+    "authors": [
+      "Emilia Hart"
+    ],
+    "date": "2026-07-10T09:48:43.114122+00:00"
+  },
+  {
+    "title": "Povídá se… podle Tóry",
+    "url": "https://www.kosmas.cz/knihy/570278/povida-se-podle-tory/",
+    "description": "Povídá se… podle Tóry - Nico ter Linden",
+    "authors": [
+      "Nico ter Linden"
+    ],
+    "date": "2026-07-10T09:48:42.114122+00:00"
+  },
+  {
     "title": "Jééé!",
     "url": "https://www.kosmas.cz/knihy/563783/jeee/",
     "description": "Jééé! - Hervé Tullet",
@@ -1626,169 +1788,5 @@
       "Marie Hamáková"
     ],
     "date": "2026-06-25T07:26:11.125637+00:00"
-  },
-  {
-    "title": "V minulém životě",
-    "url": "https://www.kosmas.cz/knihy/569680/v-minulem-zivote/",
-    "description": "V minulém životě - Monika Bittnerová",
-    "authors": [
-      "Monika Bittnerová"
-    ],
-    "date": "2026-06-25T07:26:10.125637+00:00"
-  },
-  {
-    "title": "Antropologie tvorby v reálných a virtuálních světech",
-    "url": "https://www.kosmas.cz/knihy/569724/antropologie-tvorby-v-realnych-a-virtualnich-svetech/",
-    "description": "Antropologie tvorby v reálných a virtuálních světech - Hana Stehlíková Babyrádová, Aneta Šilhánková",
-    "authors": [
-      "Hana Stehlíková Babyrádová",
-      "Aneta Šilhánková"
-    ],
-    "date": "2026-06-25T07:26:09.125637+00:00"
-  },
-  {
-    "title": "Argonauti",
-    "url": "https://www.kosmas.cz/knihy/570265/argonauti/",
-    "description": "Argonauti - Maggie Nelson",
-    "authors": [
-      "Maggie Nelson"
-    ],
-    "date": "2026-06-25T07:26:05.125637+00:00"
-  },
-  {
-    "title": "Opera kontra chaos",
-    "url": "https://www.kosmas.cz/knihy/570309/opera-kontra-chaos/",
-    "description": "Opera kontra chaos - Vít Kremlička",
-    "authors": [
-      "Vít Kremlička"
-    ],
-    "date": "2026-06-25T07:26:04.125637+00:00"
-  },
-  {
-    "title": "Jan Janoušek - Fotografie",
-    "url": "https://www.kosmas.cz/knihy/570326/jan-janousek-fotografie/",
-    "description": "Jan Janoušek - Fotografie - Jan Janoušek",
-    "authors": [
-      "Jan Janoušek"
-    ],
-    "date": "2026-06-25T07:26:03.125637+00:00"
-  },
-  {
-    "title": "Sbohem, má utopie",
-    "url": "https://www.kosmas.cz/knihy/570401/sbohem-ma-utopie/",
-    "description": "Sbohem, má utopie - Silvestr Dvorský",
-    "authors": [
-      "Silvestr Dvorský"
-    ],
-    "date": "2026-06-25T07:26:02.125637+00:00"
-  },
-  {
-    "title": "Amazing 21",
-    "url": "https://www.kosmas.cz/knihy/570498/amazing-21/",
-    "description": "Amazing 21",
-    "authors": [],
-    "date": "2026-06-25T07:26:01.125637+00:00"
-  },
-  {
-    "title": "Slavné stavby Prahy 5",
-    "url": "https://www.kosmas.cz/knihy/569143/slavne-stavby-prahy-5/",
-    "description": "Slavné stavby Prahy 5 - kolektiv autorů, Petr Krajči, Radomíra Sedláková, Filip Šenk",
-    "authors": [
-      "kolektiv autorů",
-      "Petr Krajči",
-      "Radomíra Sedláková",
-      "Filip Šenk"
-    ],
-    "date": "2026-06-25T07:26:00.125637+00:00"
-  },
-  {
-    "title": "Cesta do Helsinek",
-    "url": "https://www.kosmas.cz/knihy/569196/cesta-do-helsinek/",
-    "description": "Cesta do Helsinek - Roman Mazůrek",
-    "authors": [
-      "Roman Mazůrek"
-    ],
-    "date": "2026-06-25T07:25:59.125637+00:00"
-  },
-  {
-    "title": "Den, kdy jsme zešíleli",
-    "url": "https://www.kosmas.cz/knihy/569249/den-kdy-jsme-zesileli/",
-    "description": "Den, kdy jsme zešíleli - Nina Lorencová",
-    "authors": [
-      "Nina Lorencová"
-    ],
-    "date": "2026-06-25T07:25:58.125637+00:00"
-  },
-  {
-    "title": "Dráček Mráček",
-    "url": "https://www.kosmas.cz/knihy/569257/dracek-mracek/",
-    "description": "Dráček Mráček - Jiří Černý",
-    "authors": [
-      "Jiří Černý"
-    ],
-    "date": "2026-06-25T07:25:57.125637+00:00"
-  },
-  {
-    "title": "Maxík a málokdy viditelní",
-    "url": "https://www.kosmas.cz/knihy/569258/maxik-a-malokdy-viditelni/",
-    "description": "Maxík a málokdy viditelní - Renata Baumann",
-    "authors": [
-      "Renata Baumann"
-    ],
-    "date": "2026-06-25T07:25:56.125637+00:00"
-  },
-  {
-    "title": "Meteorologické drako zprávy",
-    "url": "https://www.kosmas.cz/knihy/569261/meteorologicke-drako-zpravy/",
-    "description": "Meteorologické drako zprávy - Jozef Timčák",
-    "authors": [
-      "Jozef Timčák"
-    ],
-    "date": "2026-06-25T07:25:55.125637+00:00"
-  },
-  {
-    "title": "Stříbrný strom: Sedmá ctnost",
-    "url": "https://www.kosmas.cz/knihy/570114/stribrny-strom-sedma-ctnost/",
-    "description": "Stříbrný strom: Sedmá ctnost - Sabine Ebert",
-    "authors": [
-      "Sabine Ebert"
-    ],
-    "date": "2026-06-24T07:25:35.820916+00:00"
-  },
-  {
-    "title": "Nesejde na tom",
-    "url": "https://www.kosmas.cz/knihy/570141/nesejde-na-tom/",
-    "description": "Nesejde na tom - Michael Třeštík",
-    "authors": [
-      "Michael Třeštík"
-    ],
-    "date": "2026-06-24T07:25:34.820916+00:00"
-  },
-  {
-    "title": "Neposkvrněné početí",
-    "url": "https://www.kosmas.cz/knihy/570147/neposkvrnene-poceti/",
-    "description": "Neposkvrněné početí - Ling Ling Huang",
-    "authors": [
-      "Ling Ling Huang"
-    ],
-    "date": "2026-06-24T07:25:33.820916+00:00"
-  },
-  {
-    "title": "Mise v kolonii",
-    "url": "https://www.kosmas.cz/knihy/553448/mise-v-kolonii/",
-    "description": "Mise v kolonii - Michael Mammay",
-    "authors": [
-      "Michael Mammay"
-    ],
-    "date": "2026-06-24T07:25:32.820916+00:00"
-  },
-  {
-    "title": "Digitální zlato",
-    "url": "https://www.kosmas.cz/knihy/569065/digitalni-zlato/",
-    "description": "Digitální zlato - David Procházka",
-    "authors": [
-      "David Procházka"
-    ],
-    "date": "2026-06-24T07:25:31.820916+00:00"
   }
 ]
