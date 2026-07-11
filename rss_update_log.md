@@ -5,6 +5,39 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-11 08:06:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 10
+
+**Tituly nových položek:**
+
+1. Příliš blízko
+2. One Piece 16: Pochodeň
+3. Given 6
+4. Batman / Deadpool
+5. Dandadan 8
+6. Doktore, to je ale kotrmelec!
+7. Předepíšeme vám kočku 2
+8. Nejnebezpečnější špionky historie
+9. Srdce je ryzí specialista
+10. Všechny chutě léta
+
+---
+
+## 🕐 2026-07-11 08:06:45 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-10 09:49:01 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
