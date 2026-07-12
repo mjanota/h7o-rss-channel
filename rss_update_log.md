@@ -5,6 +5,30 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-12 08:27:55 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Země světa - 7/2026 - Belgie
+
+---
+
+## 🕐 2026-07-12 08:27:53 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-11 08:06:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -239,43 +263,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-07-05 09:17:49 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-07-04 08:47:15 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 14
-
-**Tituly nových položek:**
-
-1. Z pronájmu do vlastního
-2. Meteorologické drakozprávy
-3. Škola dobra a zla
-4. Škola dobra a zla – Svět bez princů
-5. Wabi sabi
-6. Duše na cestách
-7. Hacknuté vědomí
-8. Nádherná katastrofa
-9. Přízeň královny Anny - Intriky na dvoře Tudorovců
-10. Sklenky a doteky
-11. Město a jeho nejisté zdi
-12. Systémově zneužitá a zneužívající Československá psychiatrie v Soft-sovětském stylu (1948-1989)
-13. Silo
-14. Špačkování
-
----
-
-## 🕐 2026-07-04 08:47:14 UTC
 
 **Zdroj:** H7O - Časopis Host
 
