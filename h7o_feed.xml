@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:41:19 +0000</lastBuildDate>
+    <item>
+      <title>Digitální koronaslovníček aneb Čeština v době pandemické</title>
+      <link>https://www.h7o.cz/clanky/14565-digitalni-koronaslovnicek-aneb-cestina-v-dobe-pandemicke</link>
+      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14565-digitalni-koronaslovnicek-aneb-cestina-v-dobe-pandemicke</guid>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Boj o Českou televizi je bojem o monopol na interpretace</title>
       <link>https://www.h7o.cz/clanky/14563-boj-o-ceskou-televizi-je-bojem-o-monopol-na-interpretace</link>
@@ -427,13 +434,6 @@
       <description>Martin Vopěnka po pětatřiceti letech prodává své nakladatelství Práh společnosti Bourdon Ivana Pilipa. Spisovatel, nakladatel a předseda Svazku českých knihkupců a nakladatelů (SČKN) v rozhovoru vysvětluje, co ho k prodeji vedlo a co chystá dál.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Závratě propojeného světa</title>
-      <link>https://www.h7o.cz/clanky/14492-zavrate-propojeneho-sveta</link>
-      <description>„Šeptej nahlas“. Kniha o shoegaze, globalizaci i mystice. Získala cenu Vinyla za počin roku a nyní je nominována na cenu Magnesia Litera za publicistiku. S jejím autorem Milošem Hrochem si povídal Martin Brzobohatý.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14492-zavrate-propojeneho-sveta</guid>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

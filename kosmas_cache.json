@@ -1,5 +1,45 @@
 [
   {
+    "title": "Nejlepší fotbalové triky",
+    "url": "https://www.kosmas.cz/knihy/568671/nejlepsi-fotbalove-triky/",
+    "description": "Nejlepší fotbalové triky - Sandra Noa",
+    "authors": [
+      "Sandra Noa"
+    ],
+    "date": "2026-07-13T09:41:20.236498+00:00"
+  },
+  {
+    "title": "Roman FRANTA, Outside / Inside",
+    "url": "https://www.kosmas.cz/knihy/570556/roman-franta-outside-inside/",
+    "description": "Roman FRANTA, Outside / Inside - Roman Franta, Radek Wohlmuth, Julie Motyčka",
+    "authors": [
+      "Roman Franta",
+      "Radek Wohlmuth",
+      "Julie Motyčka"
+    ],
+    "date": "2026-07-13T09:41:19.236498+00:00"
+  },
+  {
+    "title": "Heimatcore",
+    "url": "https://www.kosmas.cz/knihy/570928/heimatcore/",
+    "description": "Heimatcore - Moos Loos",
+    "authors": [
+      "Moos Loos"
+    ],
+    "date": "2026-07-13T09:41:18.236498+00:00"
+  },
+  {
+    "title": "Bekenntnisse",
+    "url": "https://www.kosmas.cz/knihy/570971/bekenntnisse/",
+    "description": "Bekenntnisse - Petra Laurin, Jan Šebelka, kol.",
+    "authors": [
+      "Petra Laurin",
+      "Jan Šebelka",
+      "kol."
+    ],
+    "date": "2026-07-13T09:41:17.236498+00:00"
+  },
+  {
     "title": "Země světa - 7/2026 - Belgie",
     "url": "https://www.kosmas.cz/knihy/563717/zeme-sveta-7-2026-belgie/",
     "description": "Země světa - 7/2026 - Belgie",
@@ -1759,39 +1799,5 @@
       "Michael Viktořík"
     ],
     "date": "2026-06-26T07:32:39.478988+00:00"
-  },
-  {
-    "title": "O patro výš",
-    "url": "https://www.kosmas.cz/knihy/569774/o-patro-vys/",
-    "description": "O patro výš - Michaela Mikulová",
-    "authors": [
-      "Michaela Mikulová"
-    ],
-    "date": "2026-06-26T07:32:38.478988+00:00"
-  },
-  {
-    "title": "Souvislosti 2/2026",
-    "url": "https://www.kosmas.cz/knihy/570549/souvislosti-2-2026/",
-    "description": "Souvislosti 2/2026",
-    "authors": [],
-    "date": "2026-06-26T07:32:37.478988+00:00"
-  },
-  {
-    "title": "Nesejde na tom",
-    "url": "https://www.kosmas.cz/knihy/567738/nesejde-na-tom/",
-    "description": "Nesejde na tom - Michael Třeštík",
-    "authors": [
-      "Michael Třeštík"
-    ],
-    "date": "2026-06-26T07:32:36.478988+00:00"
-  },
-  {
-    "title": "Neposkvrněné početí",
-    "url": "https://www.kosmas.cz/knihy/566291/neposkvrnene-poceti/",
-    "description": "Neposkvrněné početí - Ling Ling Huang",
-    "authors": [
-      "Ling Ling Huang"
-    ],
-    "date": "2026-06-26T07:32:35.478988+00:00"
   }
 ]

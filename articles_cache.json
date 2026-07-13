@@ -1,13 +1,5 @@
 [
   {
-    "title": "Závratě propojeného světa",
-    "url": "https://www.h7o.cz/clanky/14492-zavrate-propojeneho-sveta",
-    "description": "„Šeptej nahlas“. Kniha o shoegaze, globalizaci i mystice. Získala cenu Vinyla za počin roku a nyní je nominována na cenu Magnesia Litera za publicistiku. S jejím autorem Milošem Hrochem si povídal Martin Brzobohatý.",
-    "date": "2026-04-14T00:00:00",
-    "author": "Martin Brzobohatý",
-    "category": "rozhovor"
-  },
-  {
     "title": "Cítil jsem potřebu vystoupit z knižního koloběhu",
     "url": "https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu",
     "description": "Martin Vopěnka po pětatřiceti letech prodává své nakladatelství Práh společnosti Bourdon Ivana Pilipa. Spisovatel, nakladatel a předseda Svazku českých knihkupců a nakladatelů (SČKN) v rozhovoru vysvětluje, co ho k prodeji vedlo a co chystá dál.",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
     "date": "2026-07-09T00:00:00",
     "author": "Vratislav Maňák",
+    "category": "sloupek"
+  },
+  {
+    "title": "Digitální koronaslovníček aneb Čeština v době pandemické",
+    "url": "https://www.h7o.cz/clanky/14565-digitalni-koronaslovnicek-aneb-cestina-v-dobe-pandemicke",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
+    "date": "2026-07-13T00:00:00",
+    "author": "Karolína Stehlíková",
     "category": "sloupek"
   }
 ]
