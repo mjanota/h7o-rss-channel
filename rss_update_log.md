@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-14 08:20:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Bitevní mág
+2. Akutní kardiologie
+3. Dívka v červeném
+4. Světlo mezi stíny
+5. Disney - 7 pohádek na dobrou noc
+6. Odvážná Vaiana 2 - Pohádkový román
+7. Odvážná Vaiana - Filmový příběh jako komiks
+8. Star Wars - Stín Sithu
+9. Brána osudu
+10. Druhá strana řeky
+11. Můj brácha Tornádo
+12. Uni 7/2026
+13. Terapie EMDR
+14. Psychedelická medicína
+15. CNC - Programování obráběcích strojů
+16. Salve 2/26 - móda
+17. Obušky a chačapuri
+18. Malá knihovna srdcí
+19. Richie
+
+---
+
+## 🕐 2026-07-14 08:20:52 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Cestovat
+
+---
+
 ## 🕐 2026-07-13 09:41:20 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,31 +291,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-07-07 09:55:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-07-06 10:53:51 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Zkrocení mlsného muže
-2. Cvrček
-
----
-
-## 🕐 2026-07-06 10:53:50 UTC
 
 **Zdroj:** H7O - Časopis Host
 

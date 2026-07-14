@@ -1,5 +1,174 @@
 [
   {
+    "title": "Bitevní mág",
+    "url": "https://www.kosmas.cz/knihy/571233/bitevni-mag/",
+    "description": "Bitevní mág - Peter A. Flannery",
+    "authors": [
+      "Peter A. Flannery"
+    ],
+    "date": "2026-07-14T08:20:54.905433+00:00"
+  },
+  {
+    "title": "Akutní kardiologie",
+    "url": "https://www.kosmas.cz/knihy/571234/akutni-kardiologie/",
+    "description": "Akutní kardiologie - Josef Kautzner, Jiří Kettner, kol.",
+    "authors": [
+      "Josef Kautzner",
+      "Jiří Kettner",
+      "kol."
+    ],
+    "date": "2026-07-14T08:20:53.905433+00:00"
+  },
+  {
+    "title": "Dívka v červeném",
+    "url": "https://www.kosmas.cz/knihy/571235/divka-v-cervenem/",
+    "description": "Dívka v červeném - Lora Slámová",
+    "authors": [
+      "Lora Slámová"
+    ],
+    "date": "2026-07-14T08:20:52.905433+00:00"
+  },
+  {
+    "title": "Světlo mezi stíny",
+    "url": "https://www.kosmas.cz/knihy/571236/svetlo-mezi-stiny/",
+    "description": "Světlo mezi stíny - Dagmar Bouzid",
+    "authors": [
+      "Dagmar Bouzid"
+    ],
+    "date": "2026-07-14T08:20:51.905433+00:00"
+  },
+  {
+    "title": "Disney - 7 pohádek na dobrou noc",
+    "url": "https://www.kosmas.cz/knihy/571237/disney-7-pohadek-na-dobrou-noc/",
+    "description": "Disney - 7 pohádek na dobrou noc - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-14T08:20:50.905433+00:00"
+  },
+  {
+    "title": "Odvážná Vaiana 2 - Pohádkový román",
+    "url": "https://www.kosmas.cz/knihy/571239/odvazna-vaiana-2-pohadkovy-roman/",
+    "description": "Odvážná Vaiana 2 - Pohádkový román - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-14T08:20:49.905433+00:00"
+  },
+  {
+    "title": "Odvážná Vaiana - Filmový příběh jako komiks",
+    "url": "https://www.kosmas.cz/knihy/571240/odvazna-vaiana-filmovy-pribeh-jako-komiks/",
+    "description": "Odvážná Vaiana - Filmový příběh jako komiks - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-14T08:20:48.905433+00:00"
+  },
+  {
+    "title": "Star Wars - Stín Sithu",
+    "url": "https://www.kosmas.cz/knihy/571241/star-wars-stin-sithu/",
+    "description": "Star Wars - Stín Sithu - Adam Christopher",
+    "authors": [
+      "Adam Christopher"
+    ],
+    "date": "2026-07-14T08:20:47.905433+00:00"
+  },
+  {
+    "title": "Brána osudu",
+    "url": "https://www.kosmas.cz/knihy/571248/brana-osudu/",
+    "description": "Brána osudu - Agatha Christie",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "date": "2026-07-14T08:20:46.905433+00:00"
+  },
+  {
+    "title": "Druhá strana řeky",
+    "url": "https://www.kosmas.cz/knihy/571249/druha-strana-reky/",
+    "description": "Druhá strana řeky - Nora Eckhardtová",
+    "authors": [
+      "Nora Eckhardtová"
+    ],
+    "date": "2026-07-14T08:20:45.905433+00:00"
+  },
+  {
+    "title": "Můj brácha Tornádo",
+    "url": "https://www.kosmas.cz/knihy/571250/muj-bracha-tornado/",
+    "description": "Můj brácha Tornádo - Petra Štarková",
+    "authors": [
+      "Petra Štarková"
+    ],
+    "date": "2026-07-14T08:20:44.905433+00:00"
+  },
+  {
+    "title": "Uni 7/2026",
+    "url": "https://www.kosmas.cz/knihy/569841/uni-7-2026/",
+    "description": "Uni 7/2026",
+    "authors": [],
+    "date": "2026-07-14T08:20:43.905433+00:00"
+  },
+  {
+    "title": "Terapie EMDR",
+    "url": "https://www.kosmas.cz/knihy/569163/terapie-emdr/",
+    "description": "Terapie EMDR - Francine Shapiro",
+    "authors": [
+      "Francine Shapiro"
+    ],
+    "date": "2026-07-14T08:20:42.905433+00:00"
+  },
+  {
+    "title": "Psychedelická medicína",
+    "url": "https://www.kosmas.cz/knihy/568942/psychedelicka-medicina/",
+    "description": "Psychedelická medicína - Richard L. Miller",
+    "authors": [
+      "Richard L. Miller"
+    ],
+    "date": "2026-07-14T08:20:40.905433+00:00"
+  },
+  {
+    "title": "CNC - Programování obráběcích strojů",
+    "url": "https://www.kosmas.cz/knihy/568385/cnc-programovani-obrabecich-stroju/",
+    "description": "CNC - Programování obráběcích strojů - Miloslav Štulpa",
+    "authors": [
+      "Miloslav Štulpa"
+    ],
+    "date": "2026-07-14T08:20:39.905433+00:00"
+  },
+  {
+    "title": "Salve 2/26 - móda",
+    "url": "https://www.kosmas.cz/knihy/566622/salve-2-26-moda/",
+    "description": "Salve 2/26 - móda",
+    "authors": [],
+    "date": "2026-07-14T08:20:38.905433+00:00"
+  },
+  {
+    "title": "Obušky a chačapuri",
+    "url": "https://www.kosmas.cz/knihy/566348/obusky-a-chacapuri/",
+    "description": "Obušky a chačapuri - Eva Karlíková",
+    "authors": [
+      "Eva Karlíková"
+    ],
+    "date": "2026-07-14T08:20:37.905433+00:00"
+  },
+  {
+    "title": "Malá knihovna srdcí",
+    "url": "https://www.kosmas.cz/knihy/568231/mala-knihovna-srdci/",
+    "description": "Malá knihovna srdcí - Jana Schikorra",
+    "authors": [
+      "Jana Schikorra"
+    ],
+    "date": "2026-07-14T08:20:36.905433+00:00"
+  },
+  {
+    "title": "Richie",
+    "url": "https://www.kosmas.cz/knihy/568319/richie/",
+    "description": "Richie - Kinga Litkowiec",
+    "authors": [
+      "Kinga Litkowiec"
+    ],
+    "date": "2026-07-14T08:20:35.905433+00:00"
+  },
+  {
     "title": "Nejlepší fotbalové triky",
     "url": "https://www.kosmas.cz/knihy/568671/nejlepsi-fotbalove-triky/",
     "description": "Nejlepší fotbalové triky - Sandra Noa",
@@ -1628,176 +1797,5 @@
       "Peter Härtling"
     ],
     "date": "2026-06-27T07:17:25.087194+00:00"
-  },
-  {
-    "title": "Ateliér špičatých klobouků 14",
-    "url": "https://www.kosmas.cz/knihy/569869/atelier-spicatych-klobouku-14/",
-    "description": "Ateliér špičatých klobouků 14 - Kamome Širahama",
-    "authors": [
-      "Kamome Širahama"
-    ],
-    "date": "2026-06-27T07:17:24.087194+00:00"
-  },
-  {
-    "title": "Lakomec",
-    "url": "https://www.kosmas.cz/knihy/569945/lakomec/",
-    "description": "Lakomec - Moliere",
-    "authors": [
-      "Moliere"
-    ],
-    "date": "2026-06-27T07:17:23.087194+00:00"
-  },
-  {
-    "title": "Úspěšné vyjednávání",
-    "url": "https://www.kosmas.cz/knihy/570036/uspesne-vyjednavani/",
-    "description": "Úspěšné vyjednávání - Dušan Jílek",
-    "authors": [
-      "Dušan Jílek"
-    ],
-    "date": "2026-06-27T07:17:22.087194+00:00"
-  },
-  {
-    "title": "Volajte ma Mandy",
-    "url": "https://www.kosmas.cz/knihy/559350/volajte-ma-mandy/",
-    "description": "Volajte ma Mandy - Alena Sabuchová",
-    "authors": [
-      "Alena Sabuchová"
-    ],
-    "date": "2026-06-27T07:17:21.087194+00:00"
-  },
-  {
-    "title": "Jan Kotík",
-    "url": "https://www.kosmas.cz/knihy/569935/jan-kotik/",
-    "description": "Jan Kotík",
-    "authors": [],
-    "date": "2026-06-27T07:17:19.087194+00:00"
-  },
-  {
-    "title": "Konec vše napraví",
-    "url": "https://www.kosmas.cz/knihy/569946/konec-vse-napravi/",
-    "description": "Konec vše napraví - William Shakespeare",
-    "authors": [
-      "William Shakespeare"
-    ],
-    "date": "2026-06-27T07:17:18.087194+00:00"
-  },
-  {
-    "title": "Antimemetická divize neexistuje",
-    "url": "https://www.kosmas.cz/knihy/570355/antimemeticka-divize-neexistuje/",
-    "description": "Antimemetická divize neexistuje - Sam Hughes",
-    "authors": [
-      "Sam Hughes"
-    ],
-    "date": "2026-06-27T07:17:14.087194+00:00"
-  },
-  {
-    "title": "Neznají strach",
-    "url": "https://www.kosmas.cz/knihy/570413/neznaji-strach/",
-    "description": "Neznají strach - Christian Dunn",
-    "authors": [
-      "Christian Dunn"
-    ],
-    "date": "2026-06-27T07:17:13.087194+00:00"
-  },
-  {
-    "title": "Hluboká",
-    "url": "https://www.kosmas.cz/knihy/570494/hluboka/",
-    "description": "Hluboká - Tereza Horáková",
-    "authors": [
-      "Tereza Horáková"
-    ],
-    "date": "2026-06-27T07:17:12.087194+00:00"
-  },
-  {
-    "title": "Bouzov",
-    "url": "https://www.kosmas.cz/knihy/570495/bouzov/",
-    "description": "Bouzov - Michaela Hojdysz",
-    "authors": [
-      "Michaela Hojdysz"
-    ],
-    "date": "2026-06-27T07:17:11.087194+00:00"
-  },
-  {
-    "title": "Trosky",
-    "url": "https://www.kosmas.cz/knihy/570496/trosky/",
-    "description": "Trosky - Jakub Kříž",
-    "authors": [
-      "Jakub Kříž"
-    ],
-    "date": "2026-06-27T07:17:10.087194+00:00"
-  },
-  {
-    "title": "Telč",
-    "url": "https://www.kosmas.cz/knihy/570497/telc/",
-    "description": "Telč - Veronika Řezníčková",
-    "authors": [
-      "Veronika Řezníčková"
-    ],
-    "date": "2026-06-27T07:17:09.087194+00:00"
-  },
-  {
-    "title": "Tajemství vzestupu 2.díl",
-    "url": "https://www.kosmas.cz/knihy/570544/tajemstvi-vzestupu-2.dil/",
-    "description": "Tajemství vzestupu 2.díl - David Wilcock",
-    "authors": [
-      "David Wilcock"
-    ],
-    "date": "2026-06-27T07:17:08.087194+00:00"
-  },
-  {
-    "title": "Tajemství vzestupu",
-    "url": "https://www.kosmas.cz/knihy/570547/tajemstvi-vzestupu/",
-    "description": "Tajemství vzestupu - David Wilcock",
-    "authors": [
-      "David Wilcock"
-    ],
-    "date": "2026-06-27T07:17:07.087194+00:00"
-  },
-  {
-    "title": "Šedý vlk",
-    "url": "https://www.kosmas.cz/knihy/570139/sedy-vlk/",
-    "description": "Šedý vlk - Louise Penny",
-    "authors": [
-      "Louise Penny"
-    ],
-    "date": "2026-06-26T07:32:43.478988+00:00"
-  },
-  {
-    "title": "Sportovní psychologie pro trenéry",
-    "url": "https://www.kosmas.cz/knihy/566866/sportovni-psychologie-pro-trenery/",
-    "description": "Sportovní psychologie pro trenéry - Damon Burton, Thomas D. Raedeke",
-    "authors": [
-      "Damon Burton",
-      "Thomas D. Raedeke"
-    ],
-    "date": "2026-06-26T07:32:42.478988+00:00"
-  },
-  {
-    "title": "Slon",
-    "url": "https://www.kosmas.cz/knihy/570149/slon/",
-    "description": "Slon - Saša Filipenko",
-    "authors": [
-      "Saša Filipenko"
-    ],
-    "date": "2026-06-26T07:32:41.478988+00:00"
-  },
-  {
-    "title": "Lázár",
-    "url": "https://www.kosmas.cz/knihy/565130/lazar/",
-    "description": "Lázár - Nelio Biedermann",
-    "authors": [
-      "Nelio Biedermann"
-    ],
-    "date": "2026-06-26T07:32:40.478988+00:00"
-  },
-  {
-    "title": "Olomouc ve válce",
-    "url": "https://www.kosmas.cz/knihy/568901/olomouc-ve-valce/",
-    "description": "Olomouc ve válce - Jiří Hutečka, Michael Viktořík",
-    "authors": [
-      "Jiří Hutečka",
-      "Michael Viktořík"
-    ],
-    "date": "2026-06-26T07:32:39.478988+00:00"
   }
 ]

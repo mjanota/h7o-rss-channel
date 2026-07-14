@@ -1,13 +1,5 @@
 [
   {
-    "title": "Cítil jsem potřebu vystoupit z knižního koloběhu",
-    "url": "https://www.h7o.cz/clanky/14494-citil-jsem-potrebu-vystoupit-z-knizniho-kolobehu",
-    "description": "Martin Vopěnka po pětatřiceti letech prodává své nakladatelství Práh společnosti Bourdon Ivana Pilipa. Spisovatel, nakladatel a předseda Svazku českých knihkupců a nakladatelů (SČKN) v rozhovoru vysvětluje, co ho k prodeji vedlo a co chystá dál.",
-    "date": "2026-04-15T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "rozhovor"
-  },
-  {
     "title": "Sedm svatých řádků",
     "url": "https://www.h7o.cz/clanky/14493-sedm-svatych-radku",
     "description": "Jsou současné katolické proudy skutečně tak liberální, jak se prezentují? Písmo se zaříká rovností, ale pokud jde o ženy, dodnes měří dvěma metry. A jsme opět u toho: kolik žen se vejde na špičku jehly? Je tu třetí dubnový sloupek filosofa Václava Sklenáře.",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
     "date": "2026-07-13T00:00:00",
     "author": "Karolína Stehlíková",
+    "category": "sloupek"
+  },
+  {
+    "title": "Cestovat",
+    "url": "https://www.h7o.cz/clanky/14538-cestovat",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
+    "date": "2026-07-14T00:00:00",
+    "author": "Dora Kaprálová",
     "category": "sloupek"
   }
 ]
