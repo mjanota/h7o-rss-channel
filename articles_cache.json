@@ -1,13 +1,5 @@
 [
   {
-    "title": "Sedm svatých řádků",
-    "url": "https://www.h7o.cz/clanky/14493-sedm-svatych-radku",
-    "description": "Jsou současné katolické proudy skutečně tak liberální, jak se prezentují? Písmo se zaříká rovností, ale pokud jde o ženy, dodnes měří dvěma metry. A jsme opět u toho: kolik žen se vejde na špičku jehly? Je tu třetí dubnový sloupek filosofa Václava Sklenáře.",
-    "date": "2026-04-16T00:00:00",
-    "author": "Václav Sklenář",
-    "category": "seriál"
-  },
-  {
     "title": "Nechci se přizpůsobovat nové nevědomosti",
     "url": "https://www.h7o.cz/clanky/14495-nechci-se-prizpusobovat-nove-nevedomosti",
     "description": "Příští týden začíná v Českých Budějovicích pravidelný literárně-kulturní festival „Literatura žije!“. Jednou ze zahraničních vystupujících bude i bulharská básnířka Mirela Ivanova, jejíž básně jste mohli číst v loňském zářijovém čísle Hosta.",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
     "date": "2026-07-14T00:00:00",
     "author": "Dora Kaprálová",
+    "category": "sloupek"
+  },
+  {
+    "title": "Dívky z továrny na lidi",
+    "url": "https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.",
+    "date": "2026-07-15T00:00:00",
+    "author": "Michael Weber",
     "category": "sloupek"
   }
 ]

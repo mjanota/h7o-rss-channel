@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Jul 2026 08:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:27:04 +0000</lastBuildDate>
+    <item>
+      <title>Dívky z továrny na lidi</title>
+      <link>https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi</link>
+      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cestovat</title>
       <link>https://www.h7o.cz/clanky/14538-cestovat</link>
@@ -427,13 +434,6 @@
       <description>Příští týden začíná v Českých Budějovicích pravidelný literárně-kulturní festival „Literatura žije!“. Jednou ze zahraničních vystupujících bude i bulharská básnířka Mirela Ivanova, jejíž básně jste mohli číst v loňském zářijovém čísle Hosta.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14495-nechci-se-prizpusobovat-nove-nevedomosti</guid>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sedm svatých řádků</title>
-      <link>https://www.h7o.cz/clanky/14493-sedm-svatych-radku</link>
-      <description>Jsou současné katolické proudy skutečně tak liberální, jak se prezentují? Písmo se zaříká rovností, ale pokud jde o ženy, dodnes měří dvěma metry. A jsme opět u toho: kolik žen se vejde na špičku jehly? Je tu třetí dubnový sloupek filosofa Václava Sklenáře.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14493-sedm-svatych-radku</guid>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
