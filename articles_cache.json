@@ -1,13 +1,5 @@
 [
   {
-    "title": "Nechci se přizpůsobovat nové nevědomosti",
-    "url": "https://www.h7o.cz/clanky/14495-nechci-se-prizpusobovat-nove-nevedomosti",
-    "description": "Příští týden začíná v Českých Budějovicích pravidelný literárně-kulturní festival „Literatura žije!“. Jednou ze zahraničních vystupujících bude i bulharská básnířka Mirela Ivanova, jejíž básně jste mohli číst v loňském zářijovém čísle Hosta.",
-    "date": "2026-04-17T00:00:00",
-    "author": "Radka Rubilina",
-    "category": "rozhovor"
-  },
-  {
     "title": "Moucha ztělesňuje božskou přítomnost už tím, jak jí pohrdáme",
     "url": "https://www.h7o.cz/clanky/14496-moucha-ztelesnuje-bozskou-pritomnost-uz-tim-jak-ji-pohrdame",
     "description": "Letošní knihou roku je dle poroty Magnesie Litery „Mariborská hypnóza“ Dory Kaprálové, která současně dostala i cenu za prózu. Přinášíme část rozhovoru s autorkou, který celý najdete v dubnovém čísle Hosta.",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.",
     "date": "2026-07-15T00:00:00",
     "author": "Michael Weber",
+    "category": "sloupek"
+  },
+  {
+    "title": "Česká stopa ve světě",
+    "url": "https://www.h7o.cz/clanky/14539-ceska-stopa-ve-svete",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
+    "date": "2026-07-16T00:00:00",
+    "author": "Vratislav Maňák",
     "category": "sloupek"
   }
 ]

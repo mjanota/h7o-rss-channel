@@ -1,5 +1,173 @@
 [
   {
+    "title": "Pustina vrahů",
+    "url": "https://www.kosmas.cz/knihy/570522/pustina-vrahu/",
+    "description": "Pustina vrahů - Chuck Dixon",
+    "authors": [
+      "Chuck Dixon"
+    ],
+    "date": "2026-07-16T08:25:47.117193+00:00"
+  },
+  {
+    "title": "Království zloby a slibů",
+    "url": "https://www.kosmas.cz/knihy/570562/kralovstvi-zloby-a-slibu/",
+    "description": "Království zloby a slibů - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-07-16T08:25:46.117193+00:00"
+  },
+  {
+    "title": "Nadvláda mužů",
+    "url": "https://www.kosmas.cz/knihy/570979/nadvlada-muzu/",
+    "description": "Nadvláda mužů - Pierre Bourdieu",
+    "authors": [
+      "Pierre Bourdieu"
+    ],
+    "date": "2026-07-16T08:25:45.117193+00:00"
+  },
+  {
+    "title": "The Restoration of Order",
+    "url": "https://www.kosmas.cz/knihy/571274/the-restoration-of-order/",
+    "description": "The Restoration of Order - Milan Šimečka",
+    "authors": [
+      "Milan Šimečka"
+    ],
+    "date": "2026-07-16T08:25:44.117193+00:00"
+  },
+  {
+    "title": "Země na hranici",
+    "url": "https://www.kosmas.cz/knihy/570980/zeme-na-hranici/",
+    "description": "Země na hranici - Anna Sedláčková",
+    "authors": [
+      "Anna Sedláčková"
+    ],
+    "date": "2026-07-16T08:25:43.117193+00:00"
+  },
+  {
+    "title": "Некоторые аспекты устной чешской речи носителей русского языка",
+    "url": "https://www.kosmas.cz/knihy/571276/nekotorye-aspekty-ustnoj-cesskoj-recy-nosytelej-russkoho-jazyka/",
+    "description": "Некоторые аспекты устной чешской речи носителей русского языка - Veronika Stranz-Nikitina",
+    "authors": [
+      "Veronika Stranz-Nikitina"
+    ],
+    "date": "2026-07-16T08:25:42.117193+00:00"
+  },
+  {
+    "title": "Lázár",
+    "url": "https://www.kosmas.cz/knihy/565130/lazar/",
+    "description": "Lázár - Nelio Biedermann",
+    "authors": [
+      "Nelio Biedermann"
+    ],
+    "date": "2026-07-16T08:25:41.117193+00:00"
+  },
+  {
+    "title": "Nejlepší akční hry pro fanoušky Robloxu",
+    "url": "https://www.kosmas.cz/knihy/571291/nejlepsi-akcni-hry-pro-fanousky-robloxu/",
+    "description": "Nejlepší akční hry pro fanoušky Robloxu - Liv Ngan",
+    "authors": [
+      "Liv Ngan"
+    ],
+    "date": "2026-07-16T08:25:38.117193+00:00"
+  },
+  {
+    "title": "Příšery a démoni Moravy a Slezska",
+    "url": "https://www.kosmas.cz/knihy/570312/prisery-a-demoni-moravy-a-slezska/",
+    "description": "Příšery a démoni Moravy a Slezska - Iva Hoňková",
+    "authors": [
+      "Iva Hoňková"
+    ],
+    "date": "2026-07-16T08:25:37.117193+00:00"
+  },
+  {
+    "title": "Dobrou noc, mám tě moc rád",
+    "url": "https://www.kosmas.cz/knihy/568302/dobrou-noc-mam-te-moc-rad/",
+    "description": "Dobrou noc, mám tě moc rád - Sam Taplin",
+    "authors": [
+      "Sam Taplin"
+    ],
+    "date": "2026-07-16T08:25:36.117193+00:00"
+  },
+  {
+    "title": "Foukni a rozsviť Pod mořem",
+    "url": "https://www.kosmas.cz/knihy/568303/foukni-a-rozsvit-pod-morem/",
+    "description": "Foukni a rozsviť Pod mořem - Maria Hoeck, Natalie Merheb",
+    "authors": [
+      "Maria Hoeck",
+      "Natalie Merheb"
+    ],
+    "date": "2026-07-16T08:25:35.117193+00:00"
+  },
+  {
+    "title": "Moje velká kniha HLEDEJ a NAJDI se zvuky",
+    "url": "https://www.kosmas.cz/knihy/566915/moje-velka-kniha-hledej-a-najdi-se-zvuky/",
+    "description": "Moje velká kniha HLEDEJ a NAJDI se zvuky - Marion Billet",
+    "authors": [
+      "Marion Billet"
+    ],
+    "date": "2026-07-16T08:25:34.117193+00:00"
+  },
+  {
+    "title": "Proslulé příběhy Čtyřlístku 1974 - 1976",
+    "url": "https://www.kosmas.cz/knihy/569911/proslule-pribehy-ctyrlistku-1974-1976/",
+    "description": "Proslulé příběhy Čtyřlístku 1974 - 1976 - Jaroslav Němeček, Ljuba Štíplová",
+    "authors": [
+      "Jaroslav Němeček",
+      "Ljuba Štíplová"
+    ],
+    "date": "2026-07-16T08:25:33.117193+00:00"
+  },
+  {
+    "title": "Báječné příběhy Čtyřlístku 1979 až 1982",
+    "url": "https://www.kosmas.cz/knihy/569912/bajecne-pribehy-ctyrlistku-1979-az-1982/",
+    "description": "Báječné příběhy Čtyřlístku 1979 až 1982 - Jaroslav Němeček, Ljuba Štíplová",
+    "authors": [
+      "Jaroslav Němeček",
+      "Ljuba Štíplová"
+    ],
+    "date": "2026-07-16T08:25:32.117193+00:00"
+  },
+  {
+    "title": "Veselé příběhy Čtyřlístku 1982 až 1984",
+    "url": "https://www.kosmas.cz/knihy/569915/vesele-pribehy-ctyrlistku-1982-az-1984/",
+    "description": "Veselé příběhy Čtyřlístku 1982 až 1984 - Jaroslav Němeček, Ljuba Štíplová",
+    "authors": [
+      "Jaroslav Němeček",
+      "Ljuba Štíplová"
+    ],
+    "date": "2026-07-16T08:25:31.117193+00:00"
+  },
+  {
+    "title": "Nádherné příběhy Čtyřlístku z let 1987 až 1989",
+    "url": "https://www.kosmas.cz/knihy/569916/nadherne-pribehy-ctyrlistku-z-let-1987-az-1989/",
+    "description": "Nádherné příběhy Čtyřlístku z let 1987 až 1989 - Jaroslav Němeček, Ljuba Štíplová",
+    "authors": [
+      "Jaroslav Němeček",
+      "Ljuba Štíplová"
+    ],
+    "date": "2026-07-16T08:25:30.117193+00:00"
+  },
+  {
+    "title": "Bohemistik(y) - Eseje a rozhovory o oboru ve světě 21. století",
+    "url": "https://www.kosmas.cz/knihy/570251/bohemistik-y-eseje-a-rozhovory-o-oboru-ve-svete-21.-stoleti/",
+    "description": "Bohemistik(y) - Eseje a rozhovory o oboru ve světě 21. století - kolektiv autorů, Dalibor Dobiáš",
+    "authors": [
+      "kolektiv autorů",
+      "Dalibor Dobiáš"
+    ],
+    "date": "2026-07-16T08:25:29.117193+00:00"
+  },
+  {
+    "title": "Podléšky",
+    "url": "https://www.kosmas.cz/knihy/570749/podlesky/",
+    "description": "Podléšky - Petr Švácha",
+    "authors": [
+      "Petr Švácha"
+    ],
+    "date": "2026-07-16T08:25:28.117193+00:00"
+  },
+  {
     "title": "Novéna k Panně Marii rozvazující uzly",
     "url": "https://www.kosmas.cz/knihy/571195/novena-k-panne-marii-rozvazujici-uzly/",
     "description": "Novéna k Panně Marii rozvazující uzly - Vojtěch Kodet",
@@ -1628,167 +1796,5 @@
     "description": "Film a doba 2/2026",
     "authors": [],
     "date": "2026-07-01T07:45:15.672746+00:00"
-  },
-  {
-    "title": "Povědecká psychoterapie. Být sebou",
-    "url": "https://www.kosmas.cz/knihy/570756/povedecka-psychoterapie.-byt-sebou/",
-    "description": "Povědecká psychoterapie. Být sebou - Oldřich Čálek",
-    "authors": [
-      "Oldřich Čálek"
-    ],
-    "date": "2026-07-01T07:45:14.672746+00:00"
-  },
-  {
-    "title": "Zralá, co hodně žrala",
-    "url": "https://www.kosmas.cz/knihy/568047/zrala-co-hodne-zrala/",
-    "description": "Zralá, co hodně žrala - Zuzana Hubeňáková",
-    "authors": [
-      "Zuzana Hubeňáková"
-    ],
-    "date": "2026-06-30T07:33:13.495804+00:00"
-  },
-  {
-    "title": "Zlatá krev",
-    "url": "https://www.kosmas.cz/knihy/569579/zlata-krev/",
-    "description": "Zlatá krev - Callie Hart",
-    "authors": [
-      "Callie Hart"
-    ],
-    "date": "2026-06-30T07:33:12.495804+00:00"
-  },
-  {
-    "title": "Poison City",
-    "url": "https://www.kosmas.cz/knihy/569696/poison-city/",
-    "description": "Poison City - Tecuja Cucui",
-    "authors": [
-      "Tecuja Cucui"
-    ],
-    "date": "2026-06-30T07:33:11.495804+00:00"
-  },
-  {
-    "title": "Děti jako krevní konzervy pro německou armádu",
-    "url": "https://www.kosmas.cz/knihy/570252/deti-jako-krevni-konzervy-pro-nemeckou-armadu/",
-    "description": "Děti jako krevní konzervy pro německou armádu - Lukáš Lhoťan",
-    "authors": [
-      "Lukáš Lhoťan"
-    ],
-    "date": "2026-06-30T07:33:10.495804+00:00"
-  },
-  {
-    "title": "Tempting Venom",
-    "url": "https://www.kosmas.cz/knihy/570267/tempting-venom/",
-    "description": "Tempting Venom - Rina Kent",
-    "authors": [
-      "Rina Kent"
-    ],
-    "date": "2026-06-30T07:33:09.495804+00:00"
-  },
-  {
-    "title": "Secret of Secrets",
-    "url": "https://www.kosmas.cz/knihy/570269/secret-of-secrets/",
-    "description": "Secret of Secrets - Dan Brown",
-    "authors": [
-      "Dan Brown"
-    ],
-    "date": "2026-06-30T07:33:08.495804+00:00"
-  },
-  {
-    "title": "Hallmarked Man",
-    "url": "https://www.kosmas.cz/knihy/570272/hallmarked-man/",
-    "description": "Hallmarked Man - Robert Galbraith",
-    "authors": [
-      "Robert Galbraith"
-    ],
-    "date": "2026-06-30T07:33:07.495804+00:00"
-  },
-  {
-    "title": "Before I Knew I Loved You",
-    "url": "https://www.kosmas.cz/knihy/570273/before-i-knew-i-loved-you/",
-    "description": "Before I Knew I Loved You - Tošikazu Kawaguči",
-    "authors": [
-      "Tošikazu Kawaguči"
-    ],
-    "date": "2026-06-30T07:33:06.495804+00:00"
-  },
-  {
-    "title": "Zlatá krev",
-    "url": "https://www.kosmas.cz/knihy/570320/zlata-krev/",
-    "description": "Zlatá krev - Callie Hart",
-    "authors": [
-      "Callie Hart"
-    ],
-    "date": "2026-06-30T07:33:05.495804+00:00"
-  },
-  {
-    "title": "Karel Koutský - Reminiscence",
-    "url": "https://www.kosmas.cz/knihy/570330/karel-koutsky-reminiscence/",
-    "description": "Karel Koutský - Reminiscence - Karel Koutský",
-    "authors": [
-      "Karel Koutský"
-    ],
-    "date": "2026-06-30T07:33:04.495804+00:00"
-  },
-  {
-    "title": "Dáma to ví nejlépe",
-    "url": "https://www.kosmas.cz/knihy/570433/dama-to-vi-nejlepe/",
-    "description": "Dáma to ví nejlépe - Sussane Craig",
-    "authors": [
-      "Sussane Craig"
-    ],
-    "date": "2026-06-30T07:33:03.495804+00:00"
-  },
-  {
-    "title": "Legenda o Sim Čchong 4",
-    "url": "https://www.kosmas.cz/knihy/570445/legenda-o-sim-cchong-4/",
-    "description": "Legenda o Sim Čchong 4 - Seri",
-    "authors": [
-      "Seri"
-    ],
-    "date": "2026-06-30T07:33:02.495804+00:00"
-  },
-  {
-    "title": "Netvora 9: Posedlí",
-    "url": "https://www.kosmas.cz/knihy/570450/netvora-9-posedli/",
-    "description": "Netvora 9: Posedlí - Marjorie Liu",
-    "authors": [
-      "Marjorie Liu"
-    ],
-    "date": "2026-06-30T07:33:01.495804+00:00"
-  },
-  {
-    "title": "Útok titánů: Ztracené dívky 2",
-    "url": "https://www.kosmas.cz/knihy/570451/utok-titanu-ztracene-divky-2/",
-    "description": "Útok titánů: Ztracené dívky 2 - Hadžime Isajama, Hiroši Seko, Rjósuke Fudži",
-    "authors": [
-      "Hadžime Isajama",
-      "Hiroši Seko",
-      "Rjósuke Fudži"
-    ],
-    "date": "2026-06-30T07:33:00.495804+00:00"
-  },
-  {
-    "title": "Noc, kdy jsme se potkali",
-    "url": "https://www.kosmas.cz/knihy/570492/noc-kdy-jsme-se-potkali/",
-    "description": "Noc, kdy jsme se potkali - Abby Jimenez",
-    "authors": [
-      "Abby Jimenez"
-    ],
-    "date": "2026-06-30T07:32:59.495804+00:00"
-  },
-  {
-    "title": "Autoatlas ČR - 2026/27",
-    "url": "https://www.kosmas.cz/knihy/570589/autoatlas-cr-2026-27/",
-    "description": "Autoatlas ČR - 2026/27",
-    "authors": [],
-    "date": "2026-06-30T07:32:58.495804+00:00"
-  },
-  {
-    "title": "Bulletproof",
-    "url": "https://www.kosmas.cz/knihy/570602/bulletproof/",
-    "description": "Bulletproof - K. M. Moronova",
-    "authors": [
-      "K. M. Moronova"
-    ],
-    "date": "2026-06-30T07:32:57.495804+00:00"
   }
 ]
