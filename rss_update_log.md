@@ -5,6 +5,46 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-17 08:21:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Puntíkáři
+2. Ludo Prague Cestovní hra TRAVEL
+3. CONFESSIONS II
+4. Proměny Pokračování
+5. Ve službách zla
+6. Zkroť mě
+7. Plná prázdnota
+8. Co se děje u doktora
+9. Poníci z Lillasundu – Spřízněné duše
+10. Toy Story 5 - Příběh podle filmu
+11. Můj stát. Putování za českými patrony
+12. Na bříšku
+13. Ekonomie pro obecné blaho
+
+---
+
+## 🕐 2026-07-17 08:21:52 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Útoky na Českou televizi: válka dvou kultur
+
+---
+
 ## 🕐 2026-07-16 08:25:47 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -274,53 +314,6 @@ Uchovává záznamy za poslední týden.
 
 1. Boj o Českou televizi je bojem o monopol na interpretace
 2. Kluci z paneláku
-
----
-
-## 🕐 2026-07-09 10:03:15 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Jééé!
-2. Polná včera a dnes II.
-3. Banksy
-4. 7 zákonů spirály úspěchu
-5. Uvězněná v Karibiku
-6. Pár falešných polibků
-7. Dívka bez korzetu
-8. Hra podle jejich pravidel
-9. Princův zapomenutý poklad
-10. Nerovný pár
-11. Dědic jedné noci
-12. Sonety pro Elizu
-13. Irská balada
-14. Obušky a chačapuri
-15. Intuice ze Srdce
-16. Srdce je přítel
-17. Pomohu ti jsem zrcadlení 1. díl – Seznam se, kdo jsem, část první
-18. Faulovaná architektura
-19. Written Culture of the Premonstratensians in Late Medieval Bohemia (1300–1420)
-
----
-
-## 🕐 2026-07-09 10:03:14 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Ruština v Bělorusku
-2. Co střeží Zahrada: Dětská literatura ve Frankfurtu
 
 ---
 

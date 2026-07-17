@@ -1,5 +1,120 @@
 [
   {
+    "title": "Puntíkáři",
+    "url": "https://www.kosmas.cz/knihy/570169/puntikari/",
+    "description": "Puntíkáři - Miloš Kratochvíl",
+    "authors": [
+      "Miloš Kratochvíl"
+    ],
+    "date": "2026-07-17T08:21:54.429298+00:00"
+  },
+  {
+    "title": "Ludo Prague Cestovní hra TRAVEL",
+    "url": "https://www.kosmas.cz/knihy/570268/ludo-prague-cestovni-hra-travel/",
+    "description": "Ludo Prague Cestovní hra TRAVEL",
+    "authors": [],
+    "date": "2026-07-17T08:21:53.429298+00:00"
+  },
+  {
+    "title": "CONFESSIONS II",
+    "url": "https://www.kosmas.cz/knihy/571225/confessions-ii/",
+    "description": "CONFESSIONS II - Madonna",
+    "authors": [
+      "Madonna"
+    ],
+    "date": "2026-07-17T08:21:52.429298+00:00"
+  },
+  {
+    "title": "Proměny Pokračování",
+    "url": "https://www.kosmas.cz/knihy/571228/promeny-pokracovani/",
+    "description": "Proměny Pokračování - Čechomor",
+    "authors": [
+      "Čechomor"
+    ],
+    "date": "2026-07-17T08:21:51.429298+00:00"
+  },
+  {
+    "title": "Ve službách zla",
+    "url": "https://www.kosmas.cz/knihy/571308/ve-sluzbach-zla/",
+    "description": "Ve službách zla - Robert Galbraith",
+    "authors": [
+      "Robert Galbraith"
+    ],
+    "date": "2026-07-17T08:21:50.429298+00:00"
+  },
+  {
+    "title": "Zkroť mě",
+    "url": "https://www.kosmas.cz/knihy/570364/zkrot-me/",
+    "description": "Zkroť mě - K.A. Tucker",
+    "authors": [
+      "K.A. Tucker"
+    ],
+    "date": "2026-07-17T08:21:49.429298+00:00"
+  },
+  {
+    "title": "Plná prázdnota",
+    "url": "https://www.kosmas.cz/knihy/571315/plna-prazdnota/",
+    "description": "Plná prázdnota - Jan Turneber",
+    "authors": [
+      "Jan Turneber"
+    ],
+    "date": "2026-07-17T08:21:47.429298+00:00"
+  },
+  {
+    "title": "Co se děje u doktora",
+    "url": "https://www.kosmas.cz/knihy/569204/co-se-deje-u-doktora/",
+    "description": "Co se děje u doktora - Róża Hajkuś",
+    "authors": [
+      "Róża Hajkuś"
+    ],
+    "date": "2026-07-17T08:21:44.429298+00:00"
+  },
+  {
+    "title": "Poníci z Lillasundu – Spřízněné duše",
+    "url": "https://www.kosmas.cz/knihy/569265/ponici-z-lillasundu-spriznene-duse/",
+    "description": "Poníci z Lillasundu – Spřízněné duše - Kathrin Orso",
+    "authors": [
+      "Kathrin Orso"
+    ],
+    "date": "2026-07-17T08:21:43.429298+00:00"
+  },
+  {
+    "title": "Toy Story 5 - Příběh podle filmu",
+    "url": "https://www.kosmas.cz/knihy/568005/toy-story-5-pribeh-podle-filmu/",
+    "description": "Toy Story 5 - Příběh podle filmu - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-17T08:21:42.429298+00:00"
+  },
+  {
+    "title": "Můj stát. Putování za českými patrony",
+    "url": "https://www.kosmas.cz/knihy/567736/muj-stat.-putovani-za-ceskymi-patrony/",
+    "description": "Můj stát. Putování za českými patrony - Martin Velíšek",
+    "authors": [
+      "Martin Velíšek"
+    ],
+    "date": "2026-07-17T08:21:41.429298+00:00"
+  },
+  {
+    "title": "Na bříšku",
+    "url": "https://www.kosmas.cz/knihy/567737/na-brisku/",
+    "description": "Na bříšku - Jo Lodge",
+    "authors": [
+      "Jo Lodge"
+    ],
+    "date": "2026-07-17T08:21:40.429298+00:00"
+  },
+  {
+    "title": "Ekonomie pro obecné blaho",
+    "url": "https://www.kosmas.cz/knihy/563645/ekonomie-pro-obecne-blaho/",
+    "description": "Ekonomie pro obecné blaho - Jean Tirole",
+    "authors": [
+      "Jean Tirole"
+    ],
+    "date": "2026-07-17T08:21:39.429298+00:00"
+  },
+  {
     "title": "Pustina vrahů",
     "url": "https://www.kosmas.cz/knihy/570522/pustina-vrahu/",
     "description": "Pustina vrahů - Chuck Dixon",
@@ -1683,118 +1798,5 @@
       "Miriam Blahová"
     ],
     "date": "2026-07-01T07:45:30.672746+00:00"
-  },
-  {
-    "title": "Koruna z kostí a zlata",
-    "url": "https://www.kosmas.cz/knihy/570661/koruna-z-kosti-a-zlata/",
-    "description": "Koruna z kostí a zlata - Jennifer L. Armentroutová",
-    "authors": [
-      "Jennifer L. Armentroutová"
-    ],
-    "date": "2026-07-01T07:45:29.672746+00:00"
-  },
-  {
-    "title": "Bohatí musejí zemřít",
-    "url": "https://www.kosmas.cz/knihy/570662/bohati-museji-zemrit/",
-    "description": "Bohatí musejí zemřít - Sandrone Dazieri",
-    "authors": [
-      "Sandrone Dazieri"
-    ],
-    "date": "2026-07-01T07:45:28.672746+00:00"
-  },
-  {
-    "title": "Případy soudce Ti: Smrt ve vrbové čtvrti",
-    "url": "https://www.kosmas.cz/knihy/570663/pripady-soudce-ti-smrt-ve-vrbove-ctvrti/",
-    "description": "Případy soudce Ti: Smrt ve vrbové čtvrti - Frédéric Lenormand",
-    "authors": [
-      "Frédéric Lenormand"
-    ],
-    "date": "2026-07-01T07:45:27.672746+00:00"
-  },
-  {
-    "title": "Blíž, než se zdá",
-    "url": "https://www.kosmas.cz/knihy/567539/bliz-nez-se-zda/",
-    "description": "Blíž, než se zdá - Jessica Redland",
-    "authors": [
-      "Jessica Redland"
-    ],
-    "date": "2026-07-01T07:45:26.672746+00:00"
-  },
-  {
-    "title": "Svědkyně na útěku",
-    "url": "https://www.kosmas.cz/knihy/570665/svedkyne-na-uteku/",
-    "description": "Svědkyně na útěku - Daniela Hartig",
-    "authors": [
-      "Daniela Hartig"
-    ],
-    "date": "2026-07-01T07:45:25.672746+00:00"
-  },
-  {
-    "title": "Král lenosti",
-    "url": "https://www.kosmas.cz/knihy/570666/kral-lenosti/",
-    "description": "Král lenosti - Ana Huang",
-    "authors": [
-      "Ana Huang"
-    ],
-    "date": "2026-07-01T07:45:24.672746+00:00"
-  },
-  {
-    "title": "Zvrácený osud",
-    "url": "https://www.kosmas.cz/knihy/570667/zvraceny-osud/",
-    "description": "Zvrácený osud - Monica Dake",
-    "authors": [
-      "Monica Dake"
-    ],
-    "date": "2026-07-01T07:45:23.672746+00:00"
-  },
-  {
-    "title": "Stojí za pokus",
-    "url": "https://www.kosmas.cz/knihy/570231/stoji-za-pokus/",
-    "description": "Stojí za pokus - Evey Lyon",
-    "authors": [
-      "Evey Lyon"
-    ],
-    "date": "2026-07-01T07:45:22.672746+00:00"
-  },
-  {
-    "title": "Kočičí štěstí",
-    "url": "https://www.kosmas.cz/knihy/569970/kocici-stesti/",
-    "description": "Kočičí štěstí - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-01T07:45:21.672746+00:00"
-  },
-  {
-    "title": "Akademická encyklopedie českých dějin XI. Poh – Praha: pohanství – Praha, pražská města",
-    "url": "https://www.kosmas.cz/knihy/570552/akademicka-encyklopedie-ceskych-dejin-xi.-poh-praha-pohanstvi-praha---mesta/",
-    "description": "Akademická encyklopedie českých dějin XI. Poh – Praha: pohanství – Praha, pražská města - Jaroslav Pánek",
-    "authors": [
-      "Jaroslav Pánek"
-    ],
-    "date": "2026-07-01T07:45:19.672746+00:00"
-  },
-  {
-    "title": "Kreativní rodinný kalendář, nedatovaný",
-    "url": "https://www.kosmas.cz/knihy/570365/kreativni-rodinny-kalendar-nedatovany/",
-    "description": "Kreativní rodinný kalendář, nedatovaný",
-    "authors": [],
-    "date": "2026-07-01T07:45:18.672746+00:00"
-  },
-  {
-    "title": "Horalova dokonalá nevěsta",
-    "url": "https://www.kosmas.cz/knihy/569339/horalova-dokonala-nevesta/",
-    "description": "Horalova dokonalá nevěsta - Vanessa Kelly",
-    "authors": [
-      "Vanessa Kelly"
-    ],
-    "date": "2026-07-01T07:45:17.672746+00:00"
-  },
-  {
-    "title": "Film a doba 2/2026",
-    "url": "https://www.kosmas.cz/knihy/570755/film-a-doba-2-2026/",
-    "description": "Film a doba 2/2026",
-    "authors": [],
-    "date": "2026-07-01T07:45:15.672746+00:00"
   }
 ]
