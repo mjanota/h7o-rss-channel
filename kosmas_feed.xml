@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 08:03:53 +0000</lastBuildDate>
+    <item>
+      <title>Příběhy na kolech</title>
+      <link>https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/</link>
+      <description>Příběhy na kolech - Katarína Brončeková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poklad z Orevary</title>
+      <link>https://www.kosmas.cz/knihy/571049/poklad-z-orevary/</link>
+      <description>Poklad z Orevary - Pavel Lebduška</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571049/poklad-z-orevary/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atlas pro děti: Zvířata</title>
+      <link>https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/</link>
+      <description>Atlas pro děti: Zvířata</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky</title>
+      <link>https://www.kosmas.cz/knihy/571184/ooobr-binec-hledej-a-objevuj-kniha-pro-male-neporadnicky/</link>
+      <description>ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571184/ooobr-binec-hledej-a-objevuj-kniha-pro-male-neporadnicky/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neobyčejná cesta za pokladem: Legendární piráti</title>
+      <link>https://www.kosmas.cz/knihy/571185/neobycejna-cesta-za-pokladem-legendarni-pirati/</link>
+      <description>Neobyčejná cesta za pokladem: Legendární piráti</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571185/neobycejna-cesta-za-pokladem-legendarni-pirati/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neohrožení bojovníci severu: Vikingové</title>
+      <link>https://www.kosmas.cz/knihy/571186/neohrozeni-bojovnici-severu-vikingove/</link>
+      <description>Neohrožení bojovníci severu: Vikingové</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571186/neohrozeni-bojovnici-severu-vikingove/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už se nevztekám</title>
+      <link>https://www.kosmas.cz/knihy/571187/co-se-ve-mne-deje-uz-se-nevztekam/</link>
+      <description>Co se ve mně děje: Už se nevztekám - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571187/co-se-ve-mne-deje-uz-se-nevztekam/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už se netrápím</title>
+      <link>https://www.kosmas.cz/knihy/571188/co-se-ve-mne-deje-uz-se-netrapim/</link>
+      <description>Co se ve mně děje: Už se netrápím - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571188/co-se-ve-mne-deje-uz-se-netrapim/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už nejsem ošklivá na ostatní</title>
+      <link>https://www.kosmas.cz/knihy/571251/co-se-ve-mne-deje-uz-nejsem-oskliva-na-ostatni/</link>
+      <description>Co se ve mně děje: Už nejsem ošklivá na ostatní - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571251/co-se-ve-mne-deje-uz-nejsem-oskliva-na-ostatni/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už nejsem osamělý</title>
+      <link>https://www.kosmas.cz/knihy/571252/co-se-ve-mne-deje-uz-nejsem-osamely/</link>
+      <description>Co se ve mně děje: Už nejsem osamělý - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571252/co-se-ve-mne-deje-uz-nejsem-osamely/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už nejsem smutná</title>
+      <link>https://www.kosmas.cz/knihy/571253/co-se-ve-mne-deje-uz-nejsem-smutna/</link>
+      <description>Co se ve mně děje: Už nejsem smutná - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571253/co-se-ve-mne-deje-uz-nejsem-smutna/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co se ve mně děje: Už se nebojím</title>
+      <link>https://www.kosmas.cz/knihy/571254/co-se-ve-mne-deje-uz-se-nebojim/</link>
+      <description>Co se ve mně děje: Už se nebojím - Sarah Wardová, Honor Headová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571254/co-se-ve-mne-deje-uz-se-nebojim/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smysl v pojmu – Evulzivní dějiny umění Emila Filly</title>
+      <link>https://www.kosmas.cz/knihy/571255/smysl-v-pojmu-evulzivni-dejiny-umeni-emila-filly/</link>
+      <description>Smysl v pojmu – Evulzivní dějiny umění Emila Filly - Karel Srp</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571255/smysl-v-pojmu-evulzivni-dejiny-umeni-emila-filly/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kočičákovi slaví narozeniny</title>
+      <link>https://www.kosmas.cz/knihy/571279/kocicakovi-slavi-narozeniny/</link>
+      <description>Kočičákovi slaví narozeniny - Lucy Brownridge</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571279/kocicakovi-slavi-narozeniny/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajné kosmické kódy</title>
+      <link>https://www.kosmas.cz/knihy/571280/tajne-kosmicke-kody/</link>
+      <description>Tajné kosmické kódy - Zecharia Sitchin</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571280/tajne-kosmicke-kody/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bible a ctnosti</title>
+      <link>https://www.kosmas.cz/knihy/571317/bible-a-ctnosti/</link>
+      <description>Bible a ctnosti - Tomáš Machula</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571317/bible-a-ctnosti/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Horská bouda, která zanikla</title>
+      <link>https://www.kosmas.cz/knihy/571319/horska-bouda-ktera-zanikla/</link>
+      <description>Horská bouda, která zanikla - Sławomir Gortych</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571319/horska-bouda-ktera-zanikla/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procvičuji si - vyjmenovaná slova</title>
+      <link>https://www.kosmas.cz/knihy/571321/procvicuji-si-vyjmenovana-slova/</link>
+      <description>Procvičuji si - vyjmenovaná slova</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571321/procvicuji-si-vyjmenovana-slova/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Katabáze</title>
+      <link>https://www.kosmas.cz/knihy/571328/katabaze/</link>
+      <description>Katabáze - R. F. Kuangová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571328/katabaze/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čas lovu</title>
+      <link>https://www.kosmas.cz/knihy/571329/cas-lovu/</link>
+      <description>Čas lovu - Jeffery Deaver</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571329/cas-lovu/</guid>
+      <pubDate>Sat, 18 Jul 2026 08:03:34 +0000</pubDate>
+    </item>
     <item>
       <title>Puntíkáři</title>
       <link>https://www.kosmas.cz/knihy/570169/puntikari/</link>
@@ -567,146 +707,6 @@
       <description>Dandadan 8 - Tacu Jukinobu</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570753/dandadan-8/</guid>
       <pubDate>Sat, 11 Jul 2026 08:06:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doktore, to je ale kotrmelec!</title>
-      <link>https://www.kosmas.cz/knihy/571202/doktore-to-je-ale-kotrmelec/</link>
-      <description>Doktore, to je ale kotrmelec! - Patrick Taylor</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571202/doktore-to-je-ale-kotrmelec/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:06:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Předepíšeme vám kočku 2</title>
-      <link>https://www.kosmas.cz/knihy/571207/predepiseme-vam-kocku-2/</link>
-      <description>Předepíšeme vám kočku 2 - Šó Išida</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571207/predepiseme-vam-kocku-2/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:06:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nejnebezpečnější špionky historie</title>
-      <link>https://www.kosmas.cz/knihy/571208/nejnebezpecnejsi-spionky-historie/</link>
-      <description>Nejnebezpečnější špionky historie - Johann Schneider</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571208/nejnebezpecnejsi-spionky-historie/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Srdce je ryzí specialista</title>
-      <link>https://www.kosmas.cz/knihy/571209/srdce-je-ryzi-specialista/</link>
-      <description>Srdce je ryzí specialista - Adam Evan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571209/srdce-je-ryzi-specialista/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:06:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Všechny chutě léta</title>
-      <link>https://www.kosmas.cz/knihy/569391/vsechny-chute-leta/</link>
-      <description>Všechny chutě léta - Pavlína Blahotová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569391/vsechny-chute-leta/</guid>
-      <pubDate>Sat, 11 Jul 2026 08:06:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nevěřte sněhu</title>
-      <link>https://www.kosmas.cz/knihy/571003/neverte-snehu/</link>
-      <description>Nevěřte sněhu - Zita Maršíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571003/neverte-snehu/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:49:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skřítek a šťastný domov</title>
-      <link>https://www.kosmas.cz/knihy/571004/skritek-a-stastny-domov/</link>
-      <description>Skřítek a šťastný domov - Kateřina Miler</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571004/skritek-a-stastny-domov/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Matematické, fyzikální a chemické tabulky pro SŠ</title>
-      <link>https://www.kosmas.cz/knihy/571058/matematicke-fyzikalni-a-chemicke-tabulky-pro-ss/</link>
-      <description>Matematické, fyzikální a chemické tabulky pro SŠ - Jiří Mikulčák</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571058/matematicke-fyzikalni-a-chemicke-tabulky-pro-ss/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Živé stříbro</title>
-      <link>https://www.kosmas.cz/knihy/571175/zive-stribro/</link>
-      <description>Živé stříbro - Callie Hart</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571175/zive-stribro/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doktorova milenka</title>
-      <link>https://www.kosmas.cz/knihy/570276/doktorova-milenka/</link>
-      <description>Doktorova milenka - Daniel Hurst</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570276/doktorova-milenka/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Už se tě nebojím</title>
-      <link>https://www.kosmas.cz/knihy/569582/uz-se-te-nebojim/</link>
-      <description>Už se tě nebojím - Michaela Nosková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569582/uz-se-te-nebojim/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zkrocení mlsného muže</title>
-      <link>https://www.kosmas.cz/knihy/567784/zkroceni-mlsneho-muze/</link>
-      <description>Zkrocení mlsného muže - Jitka Ludvíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567784/zkroceni-mlsneho-muze/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Divoké dívky</title>
-      <link>https://www.kosmas.cz/knihy/567262/divoke-divky/</link>
-      <description>Divoké dívky - Madeline Claire Franklin</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567262/divoke-divky/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dove</title>
-      <link>https://www.kosmas.cz/knihy/567264/dove/</link>
-      <description>Dove - Paisley Hope</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567264/dove/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Klub odsouzených</title>
-      <link>https://www.kosmas.cz/knihy/567284/klub-odsouzenych/</link>
-      <description>Klub odsouzených - V.A. Vazquez</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567284/klub-odsouzenych/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kafka, oni a my</title>
-      <link>https://www.kosmas.cz/knihy/571041/kafka-oni-a-my/</link>
-      <description>Kafka, oni a my - Marie Klimešová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571041/kafka-oni-a-my/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neskutečná klika</title>
-      <link>https://www.kosmas.cz/knihy/571176/neskutecna-klika/</link>
-      <description>Neskutečná klika - Richard Osman</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571176/neskutecna-klika/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toulky s tátou</title>
-      <link>https://www.kosmas.cz/knihy/571180/toulky-s-tatou/</link>
-      <description>Toulky s tátou - Marek Wollner</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571180/toulky-s-tatou/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nekroskop</title>
-      <link>https://www.kosmas.cz/knihy/571182/nekroskop/</link>
-      <description>Nekroskop - Brian Lumley</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571182/nekroskop/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Katastrofa</title>
-      <link>https://www.kosmas.cz/knihy/568227/katastrofa/</link>
-      <description>Katastrofa - T.J. Newman</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568227/katastrofa/</guid>
-      <pubDate>Fri, 10 Jul 2026 09:48:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,181 @@
 [
   {
+    "title": "Příběhy na kolech",
+    "url": "https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/",
+    "description": "Příběhy na kolech - Katarína Brončeková",
+    "authors": [
+      "Katarína Brončeková"
+    ],
+    "date": "2026-07-18T08:03:53.423842+00:00"
+  },
+  {
+    "title": "Poklad z Orevary",
+    "url": "https://www.kosmas.cz/knihy/571049/poklad-z-orevary/",
+    "description": "Poklad z Orevary - Pavel Lebduška",
+    "authors": [
+      "Pavel Lebduška"
+    ],
+    "date": "2026-07-18T08:03:52.423842+00:00"
+  },
+  {
+    "title": "Atlas pro děti: Zvířata",
+    "url": "https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/",
+    "description": "Atlas pro děti: Zvířata",
+    "authors": [],
+    "date": "2026-07-18T08:03:51.423842+00:00"
+  },
+  {
+    "title": "ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky",
+    "url": "https://www.kosmas.cz/knihy/571184/ooobr-binec-hledej-a-objevuj-kniha-pro-male-neporadnicky/",
+    "description": "ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky",
+    "authors": [],
+    "date": "2026-07-18T08:03:50.423842+00:00"
+  },
+  {
+    "title": "Neobyčejná cesta za pokladem: Legendární piráti",
+    "url": "https://www.kosmas.cz/knihy/571185/neobycejna-cesta-za-pokladem-legendarni-pirati/",
+    "description": "Neobyčejná cesta za pokladem: Legendární piráti",
+    "authors": [],
+    "date": "2026-07-18T08:03:49.423842+00:00"
+  },
+  {
+    "title": "Neohrožení bojovníci severu: Vikingové",
+    "url": "https://www.kosmas.cz/knihy/571186/neohrozeni-bojovnici-severu-vikingove/",
+    "description": "Neohrožení bojovníci severu: Vikingové",
+    "authors": [],
+    "date": "2026-07-18T08:03:48.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už se nevztekám",
+    "url": "https://www.kosmas.cz/knihy/571187/co-se-ve-mne-deje-uz-se-nevztekam/",
+    "description": "Co se ve mně děje: Už se nevztekám - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:47.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už se netrápím",
+    "url": "https://www.kosmas.cz/knihy/571188/co-se-ve-mne-deje-uz-se-netrapim/",
+    "description": "Co se ve mně děje: Už se netrápím - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:46.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už nejsem ošklivá na ostatní",
+    "url": "https://www.kosmas.cz/knihy/571251/co-se-ve-mne-deje-uz-nejsem-oskliva-na-ostatni/",
+    "description": "Co se ve mně děje: Už nejsem ošklivá na ostatní - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:45.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už nejsem osamělý",
+    "url": "https://www.kosmas.cz/knihy/571252/co-se-ve-mne-deje-uz-nejsem-osamely/",
+    "description": "Co se ve mně děje: Už nejsem osamělý - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:44.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už nejsem smutná",
+    "url": "https://www.kosmas.cz/knihy/571253/co-se-ve-mne-deje-uz-nejsem-smutna/",
+    "description": "Co se ve mně děje: Už nejsem smutná - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:43.423842+00:00"
+  },
+  {
+    "title": "Co se ve mně děje: Už se nebojím",
+    "url": "https://www.kosmas.cz/knihy/571254/co-se-ve-mne-deje-uz-se-nebojim/",
+    "description": "Co se ve mně děje: Už se nebojím - Sarah Wardová, Honor Headová",
+    "authors": [
+      "Sarah Wardová",
+      "Honor Headová"
+    ],
+    "date": "2026-07-18T08:03:42.423842+00:00"
+  },
+  {
+    "title": "Smysl v pojmu – Evulzivní dějiny umění Emila Filly",
+    "url": "https://www.kosmas.cz/knihy/571255/smysl-v-pojmu-evulzivni-dejiny-umeni-emila-filly/",
+    "description": "Smysl v pojmu – Evulzivní dějiny umění Emila Filly - Karel Srp",
+    "authors": [
+      "Karel Srp"
+    ],
+    "date": "2026-07-18T08:03:41.423842+00:00"
+  },
+  {
+    "title": "Kočičákovi slaví narozeniny",
+    "url": "https://www.kosmas.cz/knihy/571279/kocicakovi-slavi-narozeniny/",
+    "description": "Kočičákovi slaví narozeniny - Lucy Brownridge",
+    "authors": [
+      "Lucy Brownridge"
+    ],
+    "date": "2026-07-18T08:03:40.423842+00:00"
+  },
+  {
+    "title": "Tajné kosmické kódy",
+    "url": "https://www.kosmas.cz/knihy/571280/tajne-kosmicke-kody/",
+    "description": "Tajné kosmické kódy - Zecharia Sitchin",
+    "authors": [
+      "Zecharia Sitchin"
+    ],
+    "date": "2026-07-18T08:03:39.423842+00:00"
+  },
+  {
+    "title": "Bible a ctnosti",
+    "url": "https://www.kosmas.cz/knihy/571317/bible-a-ctnosti/",
+    "description": "Bible a ctnosti - Tomáš Machula",
+    "authors": [
+      "Tomáš Machula"
+    ],
+    "date": "2026-07-18T08:03:38.423842+00:00"
+  },
+  {
+    "title": "Horská bouda, která zanikla",
+    "url": "https://www.kosmas.cz/knihy/571319/horska-bouda-ktera-zanikla/",
+    "description": "Horská bouda, která zanikla - Sławomir Gortych",
+    "authors": [
+      "Sławomir Gortych"
+    ],
+    "date": "2026-07-18T08:03:37.423842+00:00"
+  },
+  {
+    "title": "Procvičuji si - vyjmenovaná slova",
+    "url": "https://www.kosmas.cz/knihy/571321/procvicuji-si-vyjmenovana-slova/",
+    "description": "Procvičuji si - vyjmenovaná slova",
+    "authors": [],
+    "date": "2026-07-18T08:03:36.423842+00:00"
+  },
+  {
+    "title": "Katabáze",
+    "url": "https://www.kosmas.cz/knihy/571328/katabaze/",
+    "description": "Katabáze - R. F. Kuangová",
+    "authors": [
+      "R. F. Kuangová"
+    ],
+    "date": "2026-07-18T08:03:35.423842+00:00"
+  },
+  {
+    "title": "Čas lovu",
+    "url": "https://www.kosmas.cz/knihy/571329/cas-lovu/",
+    "description": "Čas lovu - Jeffery Deaver",
+    "authors": [
+      "Jeffery Deaver"
+    ],
+    "date": "2026-07-18T08:03:34.423842+00:00"
+  },
+  {
     "title": "Puntíkáři",
     "url": "https://www.kosmas.cz/knihy/570169/puntikari/",
     "description": "Puntíkáři - Miloš Kratochvíl",
@@ -1618,185 +1794,5 @@
       "Rick Riordan"
     ],
     "date": "2026-07-03T09:30:20.870064+00:00"
-  },
-  {
-    "title": "Beton, kosti a sny",
-    "url": "https://www.kosmas.cz/knihy/570972/beton-kosti-a-sny/",
-    "description": "Beton, kosti a sny - Pavel Renčín",
-    "authors": [
-      "Pavel Renčín"
-    ],
-    "date": "2026-07-03T09:30:19.870064+00:00"
-  },
-  {
-    "title": "Méně věcí, méně stresu",
-    "url": "https://www.kosmas.cz/knihy/569947/mene-veci-mene-stresu/",
-    "description": "Méně věcí, méně stresu - Adina Markowz",
-    "authors": [
-      "Adina Markowz"
-    ],
-    "date": "2026-07-02T07:20:07.437853+00:00"
-  },
-  {
-    "title": "Hudobná náuka Kľúčik 4",
-    "url": "https://www.kosmas.cz/knihy/569884/hudobna-nauka-klucik-4/",
-    "description": "Hudobná náuka Kľúčik 4 - Eva Šašinková",
-    "authors": [
-      "Eva Šašinková"
-    ],
-    "date": "2026-07-02T07:20:06.437853+00:00"
-  },
-  {
-    "title": "Rambo – Pro přítele",
-    "url": "https://www.kosmas.cz/knihy/570261/rambo-pro-pritele/",
-    "description": "Rambo – Pro přítele - David Morrell",
-    "authors": [
-      "David Morrell"
-    ],
-    "date": "2026-07-02T07:20:01.437853+00:00"
-  },
-  {
-    "title": "Dědictví iluzí",
-    "url": "https://www.kosmas.cz/knihy/570287/dedictvi-iluzi/",
-    "description": "Dědictví iluzí - Madeline Taylor",
-    "authors": [
-      "Madeline Taylor"
-    ],
-    "date": "2026-07-02T07:20:00.437853+00:00"
-  },
-  {
-    "title": "Tulák",
-    "url": "https://www.kosmas.cz/knihy/570366/tulak/",
-    "description": "Tulák - Louis L´Amour",
-    "authors": [
-      "Louis L´Amour"
-    ],
-    "date": "2026-07-02T07:19:59.437853+00:00"
-  },
-  {
-    "title": "AI na hraně",
-    "url": "https://www.kosmas.cz/knihy/570392/ai-na-hrane/",
-    "description": "AI na hraně - Milan Novák",
-    "authors": [
-      "Milan Novák"
-    ],
-    "date": "2026-07-02T07:19:58.437853+00:00"
-  },
-  {
-    "title": "Tři části šachové partie",
-    "url": "https://www.kosmas.cz/knihy/570448/tri-casti-sachove-partie/",
-    "description": "Tři části šachové partie - Martin Beil, Vlasta Pospíšilová",
-    "authors": [
-      "Martin Beil",
-      "Vlasta Pospíšilová"
-    ],
-    "date": "2026-07-02T07:19:57.437853+00:00"
-  },
-  {
-    "title": "Nikdo na palubě",
-    "url": "https://www.kosmas.cz/knihy/570478/nikdo-na-palube/",
-    "description": "Nikdo na palubě - Emy McGuire",
-    "authors": [
-      "Emy McGuire"
-    ],
-    "date": "2026-07-02T07:19:56.437853+00:00"
-  },
-  {
-    "title": "Umění 1/2026",
-    "url": "https://www.kosmas.cz/knihy/570483/umeni-1-2026/",
-    "description": "Umění 1/2026",
-    "authors": [],
-    "date": "2026-07-02T07:19:55.437853+00:00"
-  },
-  {
-    "title": "Povědecká psychoterapie. Být sebou",
-    "url": "https://www.kosmas.cz/knihy/570489/povedecka-psychoterapie.-byt-sebou/",
-    "description": "Povědecká psychoterapie. Být sebou - Oldřich Čálek",
-    "authors": [
-      "Oldřich Čálek"
-    ],
-    "date": "2026-07-02T07:19:54.437853+00:00"
-  },
-  {
-    "title": "Průvodce zralého muže",
-    "url": "https://www.kosmas.cz/knihy/570576/pruvodce-zraleho-muze/",
-    "description": "Průvodce zralého muže - James Davis",
-    "authors": [
-      "James Davis"
-    ],
-    "date": "2026-07-02T07:19:53.437853+00:00"
-  },
-  {
-    "title": "Stupně poznání",
-    "url": "https://www.kosmas.cz/knihy/570578/stupne-poznani/",
-    "description": "Stupně poznání - Michael Lipson, Ph.D.",
-    "authors": [
-      "Michael Lipson, Ph.D."
-    ],
-    "date": "2026-07-02T07:19:52.437853+00:00"
-  },
-  {
-    "title": "Já mám v rukavicích tmu",
-    "url": "https://www.kosmas.cz/knihy/570607/ja-mam-v-rukavicich-tmu/",
-    "description": "Já mám v rukavicích tmu - Markéta Kořená",
-    "authors": [
-      "Markéta Kořená"
-    ],
-    "date": "2026-07-02T07:19:51.437853+00:00"
-  },
-  {
-    "title": "Brána Ivrelu",
-    "url": "https://www.kosmas.cz/knihy/570631/brana-ivrelu/",
-    "description": "Brána Ivrelu - C.J. Cherryh",
-    "authors": [
-      "C.J. Cherryh"
-    ],
-    "date": "2026-07-02T07:19:50.437853+00:00"
-  },
-  {
-    "title": "Léčivá síla stromů a plodů",
-    "url": "https://www.kosmas.cz/knihy/570632/leciva-sila-stromu-a-plodu/",
-    "description": "Léčivá síla stromů a plodů - Diana Mozoláková",
-    "authors": [
-      "Diana Mozoláková"
-    ],
-    "date": "2026-07-02T07:19:49.437853+00:00"
-  },
-  {
-    "title": "Sklenky a doteky",
-    "url": "https://www.kosmas.cz/knihy/570150/sklenky-a-doteky/",
-    "description": "Sklenky a doteky - Claire Kingsley, Lucy Score",
-    "authors": [
-      "Claire Kingsley",
-      "Lucy Score"
-    ],
-    "date": "2026-07-01T07:45:33.672746+00:00"
-  },
-  {
-    "title": "Město a jeho nejisté zdi",
-    "url": "https://www.kosmas.cz/knihy/570152/mesto-a-jeho-nejiste-zdi/",
-    "description": "Město a jeho nejisté zdi - Haruki Murakami",
-    "authors": [
-      "Haruki Murakami"
-    ],
-    "date": "2026-07-01T07:45:32.672746+00:00"
-  },
-  {
-    "title": "Políbit tu správnou nevěstu",
-    "url": "https://www.kosmas.cz/knihy/570230/polibit-tu-spravnou-nevestu/",
-    "description": "Políbit tu správnou nevěstu - Daniela Hartig",
-    "authors": [
-      "Daniela Hartig"
-    ],
-    "date": "2026-07-01T07:45:31.672746+00:00"
-  },
-  {
-    "title": "Příběh s vůní lípy",
-    "url": "https://www.kosmas.cz/knihy/570659/pribeh-s-vuni-lipy/",
-    "description": "Příběh s vůní lípy - Miriam Blahová",
-    "authors": [
-      "Miriam Blahová"
-    ],
-    "date": "2026-07-01T07:45:30.672746+00:00"
   }
 ]

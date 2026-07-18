@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-18 08:03:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Příběhy na kolech
+2. Poklad z Orevary
+3. Atlas pro děti: Zvířata
+4. ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky
+5. Neobyčejná cesta za pokladem: Legendární piráti
+6. Neohrožení bojovníci severu: Vikingové
+7. Co se ve mně děje: Už se nevztekám
+8. Co se ve mně děje: Už se netrápím
+9. Co se ve mně děje: Už nejsem ošklivá na ostatní
+10. Co se ve mně děje: Už nejsem osamělý
+11. Co se ve mně děje: Už nejsem smutná
+12. Co se ve mně děje: Už se nebojím
+13. Smysl v pojmu – Evulzivní dějiny umění Emila Filly
+14. Kočičákovi slaví narozeniny
+15. Tajné kosmické kódy
+16. Bible a ctnosti
+17. Horská bouda, která zanikla
+18. Procvičuji si - vyjmenovaná slova
+19. Katabáze
+20. Čas lovu
+
+---
+
+## 🕐 2026-07-18 08:03:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-17 08:21:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -268,52 +311,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-07-10 09:49:01 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Nevěřte sněhu
-2. Skřítek a šťastný domov
-3. Matematické, fyzikální a chemické tabulky pro SŠ
-4. Živé stříbro
-5. Doktorova milenka
-6. Už se tě nebojím
-7. Zkrocení mlsného muže
-8. Divoké dívky
-9. Dove
-10. Klub odsouzených
-11. Kafka, oni a my
-12. Neskutečná klika
-13. Toulky s tátou
-14. Nekroskop
-15. Katastrofa
-16. Tenhle podcast ti může zachránit život
-17. Sirény
-18. Povídá se… podle Tóry
-
----
-
-## 🕐 2026-07-10 09:48:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Boj o Českou televizi je bojem o monopol na interpretace
-2. Kluci z paneláku
 
 ---
 
