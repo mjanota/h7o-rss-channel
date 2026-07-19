@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-19 08:29:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Mezi vysokou kulturou a dělnickou třídou
+2. Squishmallows - Squishy deník
+
+---
+
+## 🕐 2026-07-19 08:28:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-18 08:03:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -254,63 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Digitální koronaslovníček aneb Čeština v době pandemické
-
----
-
-## 🕐 2026-07-12 08:27:55 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Země světa - 7/2026 - Belgie
-
----
-
-## 🕐 2026-07-12 08:27:53 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-07-11 08:06:46 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 10
-
-**Tituly nových položek:**
-
-1. Příliš blízko
-2. One Piece 16: Pochodeň
-3. Given 6
-4. Batman / Deadpool
-5. Dandadan 8
-6. Doktore, to je ale kotrmelec!
-7. Předepíšeme vám kočku 2
-8. Nejnebezpečnější špionky historie
-9. Srdce je ryzí specialista
-10. Všechny chutě léta
-
----
-
-## 🕐 2026-07-11 08:06:45 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mezi vysokou kulturou a dělnickou třídou",
+    "url": "https://www.kosmas.cz/knihy/550640/mezi-vysokou-kulturou-a-delnickou-tridou/",
+    "description": "Mezi vysokou kulturou a dělnickou třídou - Jakub Raška",
+    "authors": [
+      "Jakub Raška"
+    ],
+    "date": "2026-07-19T08:28:59.969253+00:00"
+  },
+  {
+    "title": "Squishmallows - Squishy deník",
+    "url": "https://www.kosmas.cz/knihy/570672/squishmallows-squishy-denik/",
+    "description": "Squishmallows - Squishy deník - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-19T08:28:58.969253+00:00"
+  },
+  {
     "title": "Příběhy na kolech",
     "url": "https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/",
     "description": "Příběhy na kolech - Katarína Brončeková",
@@ -1776,23 +1794,5 @@
       "Jaroslav Strakoš"
     ],
     "date": "2026-07-03T09:30:22.870064+00:00"
-  },
-  {
-    "title": "Legenda o vládcích chaosu",
-    "url": "https://www.kosmas.cz/knihy/570969/legenda-o-vladcich-chaosu/",
-    "description": "Legenda o vládcích chaosu - Marcy Jell",
-    "authors": [
-      "Marcy Jell"
-    ],
-    "date": "2026-07-03T09:30:21.870064+00:00"
-  },
-  {
-    "title": "Percy Jackson - Prokletí Titánů",
-    "url": "https://www.kosmas.cz/knihy/570970/percy-jackson-prokleti-titanu/",
-    "description": "Percy Jackson - Prokletí Titánů - Rick Riordan",
-    "authors": [
-      "Rick Riordan"
-    ],
-    "date": "2026-07-03T09:30:20.870064+00:00"
   }
 ]
