@@ -1,5 +1,108 @@
 [
   {
+    "title": "Zvon v jezeře",
+    "url": "https://www.kosmas.cz/knihy/570598/zvon-v-jezere/",
+    "description": "Zvon v jezeře - Lars Mytting",
+    "authors": [
+      "Lars Mytting"
+    ],
+    "date": "2026-07-20T09:29:28.216640+00:00"
+  },
+  {
+    "title": "Salto Mortale",
+    "url": "https://www.kosmas.cz/knihy/570720/salto-mortale/",
+    "description": "Salto Mortale - Arakain",
+    "authors": [
+      "Arakain"
+    ],
+    "date": "2026-07-20T09:29:27.216640+00:00"
+  },
+  {
+    "title": "Kde jinde než v Brně",
+    "url": "https://www.kosmas.cz/knihy/571085/kde-jinde-nez-v-brne/",
+    "description": "Kde jinde než v Brně - Richard Kubáček",
+    "authors": [
+      "Richard Kubáček"
+    ],
+    "date": "2026-07-20T09:29:26.216640+00:00"
+  },
+  {
+    "title": "Qubus: The Beautiful Beast/ Boj s krásou",
+    "url": "https://www.kosmas.cz/knihy/571109/qubus-the-beautiful-beast-boj-s-krasou/",
+    "description": "Qubus: The Beautiful Beast/ Boj s krásou - Marcela Straková, Iva Knobloch",
+    "authors": [
+      "Marcela Straková",
+      "Iva Knobloch"
+    ],
+    "date": "2026-07-20T09:29:25.216640+00:00"
+  },
+  {
+    "title": "23 klasických pohádek",
+    "url": "https://www.kosmas.cz/knihy/571247/23-klasickych-pohadek/",
+    "description": "23 klasických pohádek - Václav Kopta, Václav Kopta, Marek Libert, David Novotný",
+    "authors": [
+      "Václav Kopta",
+      "Václav Kopta",
+      "Marek Libert",
+      "David Novotný"
+    ],
+    "date": "2026-07-20T09:29:24.216640+00:00"
+  },
+  {
+    "title": "Nejlepší akční hry pro fanoušky Robloxu",
+    "url": "https://www.kosmas.cz/knihy/569612/nejlepsi-akcni-hry-pro-fanousky-robloxu/",
+    "description": "Nejlepší akční hry pro fanoušky Robloxu - Liv Ngan",
+    "authors": [
+      "Liv Ngan"
+    ],
+    "date": "2026-07-20T09:29:23.216640+00:00"
+  },
+  {
+    "title": "Průstřely na nočním nebi",
+    "url": "https://www.kosmas.cz/knihy/569637/prustrely-na-nocnim-nebi/",
+    "description": "Průstřely na nočním nebi - Ocean Vuong",
+    "authors": [
+      "Ocean Vuong"
+    ],
+    "date": "2026-07-20T09:29:22.216640+00:00"
+  },
+  {
+    "title": "Vzpomínky třicátníka",
+    "url": "https://www.kosmas.cz/knihy/571012/vzpominky-tricatnika/",
+    "description": "Vzpomínky třicátníka - Jaroslav Röszler",
+    "authors": [
+      "Jaroslav Röszler"
+    ],
+    "date": "2026-07-20T09:29:21.216640+00:00"
+  },
+  {
+    "title": "Kočičí válečníci (2) - Oheň a led",
+    "url": "https://www.kosmas.cz/knihy/567978/kocici-valecnici-2-ohen-a-led/",
+    "description": "Kočičí válečníci (2) - Oheň a led - Erin Hunterová",
+    "authors": [
+      "Erin Hunterová"
+    ],
+    "date": "2026-07-20T09:29:18.216640+00:00"
+  },
+  {
+    "title": "Kočičí válečníci (1) - Vzhůru do divočiny",
+    "url": "https://www.kosmas.cz/knihy/567612/kocici-valecnici-1-vzhuru-do-divociny/",
+    "description": "Kočičí válečníci (1) - Vzhůru do divočiny - Erin Hunterová",
+    "authors": [
+      "Erin Hunterová"
+    ],
+    "date": "2026-07-20T09:29:17.216640+00:00"
+  },
+  {
+    "title": "Kočičí válečníci (4) - Bouře přichází",
+    "url": "https://www.kosmas.cz/knihy/567613/kocici-valecnici-4-boure-prichazi/",
+    "description": "Kočičí válečníci (4) - Bouře přichází - Erin Hunterová",
+    "authors": [
+      "Erin Hunterová"
+    ],
+    "date": "2026-07-20T09:29:16.216640+00:00"
+  },
+  {
     "title": "Mezi vysokou kulturou a dělnickou třídou",
     "url": "https://www.kosmas.cz/knihy/550640/mezi-vysokou-kulturou-a-delnickou-tridou/",
     "description": "Mezi vysokou kulturou a dělnickou třídou - Jakub Raška",
@@ -1695,104 +1798,5 @@
     "description": "Stolní kalendář Praha – Miluju Prahu 2027",
     "authors": [],
     "date": "2026-07-03T09:30:33.870064+00:00"
-  },
-  {
-    "title": "Ulicemi Lareda",
-    "url": "https://www.kosmas.cz/knihy/566630/ulicemi-lareda/",
-    "description": "Ulicemi Lareda - Larry McMurtry",
-    "authors": [
-      "Larry McMurtry"
-    ],
-    "date": "2026-07-03T09:30:32.870064+00:00"
-  },
-  {
-    "title": "Šnek je pomalý, ale nikdy nemá zpoždění",
-    "url": "https://www.kosmas.cz/knihy/566629/snek-je-pomaly-ale-nikdy-nema-zpozdeni/",
-    "description": "Šnek je pomalý, ale nikdy nemá zpoždění - Jung-mok",
-    "authors": [
-      "Jung-mok"
-    ],
-    "date": "2026-07-03T09:30:31.870064+00:00"
-  },
-  {
-    "title": "Stručné dějiny konce světa",
-    "url": "https://www.kosmas.cz/knihy/566628/strucne-dejiny-konce-sveta/",
-    "description": "Stručné dějiny konce světa - Tom Phillips",
-    "authors": [
-      "Tom Phillips"
-    ],
-    "date": "2026-07-03T09:30:30.870064+00:00"
-  },
-  {
-    "title": "Hodná holka",
-    "url": "https://www.kosmas.cz/knihy/570960/hodna-holka/",
-    "description": "Hodná holka - Kristýna Sněgoňová",
-    "authors": [
-      "Kristýna Sněgoňová"
-    ],
-    "date": "2026-07-03T09:30:29.870064+00:00"
-  },
-  {
-    "title": "Můry",
-    "url": "https://www.kosmas.cz/knihy/570961/mury/",
-    "description": "Můry - Eva Střihavková",
-    "authors": [
-      "Eva Střihavková"
-    ],
-    "date": "2026-07-03T09:30:28.870064+00:00"
-  },
-  {
-    "title": "Hoří chata, Lenko",
-    "url": "https://www.kosmas.cz/knihy/570962/hori-chata-lenko/",
-    "description": "Hoří chata, Lenko - Jakub Bouda",
-    "authors": [
-      "Jakub Bouda"
-    ],
-    "date": "2026-07-03T09:30:27.870064+00:00"
-  },
-  {
-    "title": "Očistec: Děti Raumy",
-    "url": "https://www.kosmas.cz/knihy/570963/ocistec-deti-raumy/",
-    "description": "Očistec: Děti Raumy - Kristina Haidingerová",
-    "authors": [
-      "Kristina Haidingerová"
-    ],
-    "date": "2026-07-03T09:30:26.870064+00:00"
-  },
-  {
-    "title": "A vy jste?",
-    "url": "https://www.kosmas.cz/knihy/570964/a-vy-jste/",
-    "description": "A vy jste? - LucieLucí El",
-    "authors": [
-      "LucieLucí El"
-    ],
-    "date": "2026-07-03T09:30:25.870064+00:00"
-  },
-  {
-    "title": "Vzorek 27-B",
-    "url": "https://www.kosmas.cz/knihy/570965/vzorek-27-b/",
-    "description": "Vzorek 27-B - Karel Keslly Mazánek",
-    "authors": [
-      "Karel Keslly Mazánek"
-    ],
-    "date": "2026-07-03T09:30:24.870064+00:00"
-  },
-  {
-    "title": "Protokol 111",
-    "url": "https://www.kosmas.cz/knihy/570967/protokol-111/",
-    "description": "Protokol 111 - BRIX.LBC.77",
-    "authors": [
-      "BRIX.LBC.77"
-    ],
-    "date": "2026-07-03T09:30:23.870064+00:00"
-  },
-  {
-    "title": "Pramínek vlasů",
-    "url": "https://www.kosmas.cz/knihy/570968/praminek-vlasu/",
-    "description": "Pramínek vlasů - Jaroslav Strakoš",
-    "authors": [
-      "Jaroslav Strakoš"
-    ],
-    "date": "2026-07-03T09:30:22.870064+00:00"
   }
 ]
