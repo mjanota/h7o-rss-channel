@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-21 08:39:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Nahoře
+2. Láskou nemocná
+3. Procházky Znojmem
+4. Agáta na stopě – Tajný klíč
+5. Vražedný Oxford - Osudová posedlost
+6. Vražedný Oxford - Osudová chyba
+7. Noční příběh
+8. Cesta na Sardinii
+9. Černý opat
+10. Čelisti
+11. Křížovky pro seniory: Televizní zábava
+12. Březínek
+13. Dar
+14. Mušketýři IV: Útěk
+15. Kreslení srandovních zvířátek
+16. Pouliční lampy
+17. Hříšné Břeclavsko
+18. Moje rodina a jiná nedorozumění
+
+---
+
+## 🕐 2026-07-21 08:39:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hladit psa, jako by byl jediným domovem
+
+---
+
 ## 🕐 2026-07-20 09:29:28 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -240,83 +285,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Dívky z továrny na lidi
-
----
-
-## 🕐 2026-07-14 08:20:54 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Bitevní mág
-2. Akutní kardiologie
-3. Dívka v červeném
-4. Světlo mezi stíny
-5. Disney - 7 pohádek na dobrou noc
-6. Odvážná Vaiana 2 - Pohádkový román
-7. Odvážná Vaiana - Filmový příběh jako komiks
-8. Star Wars - Stín Sithu
-9. Brána osudu
-10. Druhá strana řeky
-11. Můj brácha Tornádo
-12. Uni 7/2026
-13. Terapie EMDR
-14. Psychedelická medicína
-15. CNC - Programování obráběcích strojů
-16. Salve 2/26 - móda
-17. Obušky a chačapuri
-18. Malá knihovna srdcí
-19. Richie
-
----
-
-## 🕐 2026-07-14 08:20:52 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Cestovat
-
----
-
-## 🕐 2026-07-13 09:41:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 4
-
-**Tituly nových položek:**
-
-1. Nejlepší fotbalové triky
-2. Roman FRANTA, Outside / Inside
-3. Heimatcore
-4. Bekenntnisse
-
----
-
-## 🕐 2026-07-13 09:41:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Digitální koronaslovníček aneb Čeština v době pandemické
 
 ---
 

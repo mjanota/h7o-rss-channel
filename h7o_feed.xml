@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:39:51 +0000</lastBuildDate>
+    <item>
+      <title>Hladit psa, jako by byl jediným domovem</title>
+      <link>https://www.h7o.cz/clanky/14540-hladit-psa-jako-by-byl-jedinym-domovem</link>
+      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14540-hladit-psa-jako-by-byl-jedinym-domovem</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Gatsby žije!</title>
       <link>https://www.h7o.cz/clanky/14562-gatsby-zije</link>
@@ -427,13 +434,6 @@
       <description>Pete Hegseth nedávno bezděky oživil slavný projev Tarantinova Julese předtím, než zastřelí bezbranného muže. Ač rámován láskou, je to proslov plný agrese. Václav Sklenář ve svém sloupku připomíná jinou filmovou repliku, která jako by reagovala právě na toto násilí. Poslouchejme Alberta Rosenfielda!</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14499-po-boku-gandhiho-a-kinga</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři</title>
-      <link>https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost</link>
-      <description>Přes dvě stě spisovatelů odešlo od slavného francouzského nakladatelství Grasset. Protestují proti krokům majitele a miliardáře s vazbami na krajní pravici Vincenta Bollorého.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

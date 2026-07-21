@@ -1,13 +1,5 @@
 [
   {
-    "title": "Útok na redakční nezávislost. Francouzští spisovatelé protestují proti miliardáři",
-    "url": "https://www.h7o.cz/clanky/14498-utok-na-redakcni-nezavislost",
-    "description": "Přes dvě stě spisovatelů odešlo od slavného francouzského nakladatelství Grasset. Protestují proti krokům majitele a miliardáře s vazbami na krajní pravici Vincenta Bollorého.",
-    "date": "2026-04-22T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Po boku Gándhího a Kinga",
     "url": "https://www.h7o.cz/clanky/14499-po-boku-gandhiho-a-kinga",
     "description": "Pete Hegseth nedávno bezděky oživil slavný projev Tarantinova Julese předtím, než zastřelí bezbranného muže. Ač rámován láskou, je to proslov plný agrese. Václav Sklenář ve svém sloupku připomíná jinou filmovou repliku, která jako by reagovala právě na toto násilí. Poslouchejme Alberta Rosenfielda!",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Richarda Olehly z roku 2021.",
     "date": "2026-07-20T00:00:00",
     "author": "Richard Olehla",
+    "category": "sloupek"
+  },
+  {
+    "title": "Hladit psa, jako by byl jediným domovem",
+    "url": "https://www.h7o.cz/clanky/14540-hladit-psa-jako-by-byl-jedinym-domovem",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
+    "date": "2026-07-21T00:00:00",
+    "author": "Dora Kaprálová",
     "category": "sloupek"
   }
 ]

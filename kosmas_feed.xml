@@ -7,7 +7,133 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 20 Jul 2026 09:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:39:53 +0000</lastBuildDate>
+    <item>
+      <title>Nahoře</title>
+      <link>https://www.kosmas.cz/knihy/571427/nahore/</link>
+      <description>Nahoře - Jan Cempírek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571427/nahore/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Láskou nemocná</title>
+      <link>https://www.kosmas.cz/knihy/571436/laskou-nemocna/</link>
+      <description>Láskou nemocná - Deidra Duncan</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571436/laskou-nemocna/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procházky Znojmem</title>
+      <link>https://www.kosmas.cz/knihy/571437/prochazky-znojmem/</link>
+      <description>Procházky Znojmem - Monika Frecerová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571437/prochazky-znojmem/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agáta na stopě – Tajný klíč</title>
+      <link>https://www.kosmas.cz/knihy/571438/agata-na-stope-tajny-klic/</link>
+      <description>Agáta na stopě – Tajný klíč - Lena Jones</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571438/agata-na-stope-tajny-klic/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražedný Oxford - Osudová posedlost</title>
+      <link>https://www.kosmas.cz/knihy/571439/vrazedny-oxford-osudova-posedlost/</link>
+      <description>Vražedný Oxford - Osudová posedlost - Martin Faith</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571439/vrazedny-oxford-osudova-posedlost/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražedný Oxford - Osudová chyba</title>
+      <link>https://www.kosmas.cz/knihy/571440/vrazedny-oxford-osudova-chyba/</link>
+      <description>Vražedný Oxford - Osudová chyba - Martin Faith</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571440/vrazedny-oxford-osudova-chyba/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Noční příběh</title>
+      <link>https://www.kosmas.cz/knihy/571441/nocni-pribeh/</link>
+      <description>Noční příběh - Michael Weber</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571441/nocni-pribeh/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cesta na Sardinii</title>
+      <link>https://www.kosmas.cz/knihy/571442/cesta-na-sardinii/</link>
+      <description>Cesta na Sardinii - Barbora Majchráková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571442/cesta-na-sardinii/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Černý opat</title>
+      <link>https://www.kosmas.cz/knihy/571443/cerny-opat/</link>
+      <description>Černý opat - Edgar Wallace</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571443/cerny-opat/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Čelisti</title>
+      <link>https://www.kosmas.cz/knihy/571444/celisti/</link>
+      <description>Čelisti - Peter Benchley</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571444/celisti/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Křížovky pro seniory: Televizní zábava</title>
+      <link>https://www.kosmas.cz/knihy/568351/krizovky-pro-seniory-televizni-zabava/</link>
+      <description>Křížovky pro seniory: Televizní zábava</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568351/krizovky-pro-seniory-televizni-zabava/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Březínek</title>
+      <link>https://www.kosmas.cz/knihy/567255/brezinek/</link>
+      <description>Březínek - Barbora Veselá</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567255/brezinek/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dar</title>
+      <link>https://www.kosmas.cz/knihy/571416/dar/</link>
+      <description>Dar - Lada Nežádalová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571416/dar/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mušketýři IV: Útěk</title>
+      <link>https://www.kosmas.cz/knihy/571418/musketyri-iv-utek/</link>
+      <description>Mušketýři IV: Útěk - Joe Garcia</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571418/musketyri-iv-utek/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kreslení srandovních zvířátek</title>
+      <link>https://www.kosmas.cz/knihy/571423/kresleni-srandovnich-zviratek/</link>
+      <description>Kreslení srandovních zvířátek - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571423/kresleni-srandovnich-zviratek/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pouliční lampy</title>
+      <link>https://www.kosmas.cz/knihy/571424/poulicni-lampy/</link>
+      <description>Pouliční lampy - Markéta Burešová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571424/poulicni-lampy/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hříšné Břeclavsko</title>
+      <link>https://www.kosmas.cz/knihy/571425/hrisne-breclavsko/</link>
+      <description>Hříšné Břeclavsko - Petr Omelka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571425/hrisne-breclavsko/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Moje rodina a jiná nedorozumění</title>
+      <link>https://www.kosmas.cz/knihy/569570/moje-rodina-a-jina-nedorozumeni/</link>
+      <description>Moje rodina a jiná nedorozumění - Ivan Kraus</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569570/moje-rodina-a-jina-nedorozumeni/</guid>
+      <pubDate>Tue, 21 Jul 2026 08:39:34 +0000</pubDate>
+    </item>
     <item>
       <title>Zvon v jezeře</title>
       <link>https://www.kosmas.cz/knihy/570598/zvon-v-jezere/</link>
@@ -581,132 +707,6 @@
       <description>Foreign Tongues - Rolling Stones</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/569501/foreign-tongues/</guid>
       <pubDate>Wed, 15 Jul 2026 08:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lekce randění</title>
-      <link>https://www.kosmas.cz/knihy/565444/lekce-randeni/</link>
-      <description>Lekce randění - Karla Sorensenová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565444/lekce-randeni/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:26:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rosteme spolu</title>
-      <link>https://www.kosmas.cz/knihy/568147/rosteme-spolu/</link>
-      <description>Rosteme spolu - Kate Rope</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568147/rosteme-spolu/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:26:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bitevní mág</title>
-      <link>https://www.kosmas.cz/knihy/571233/bitevni-mag/</link>
-      <description>Bitevní mág - Peter A. Flannery</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571233/bitevni-mag/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Akutní kardiologie</title>
-      <link>https://www.kosmas.cz/knihy/571234/akutni-kardiologie/</link>
-      <description>Akutní kardiologie - Josef Kautzner, Jiří Kettner, kol.</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571234/akutni-kardiologie/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dívka v červeném</title>
-      <link>https://www.kosmas.cz/knihy/571235/divka-v-cervenem/</link>
-      <description>Dívka v červeném - Lora Slámová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571235/divka-v-cervenem/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Světlo mezi stíny</title>
-      <link>https://www.kosmas.cz/knihy/571236/svetlo-mezi-stiny/</link>
-      <description>Světlo mezi stíny - Dagmar Bouzid</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571236/svetlo-mezi-stiny/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Disney - 7 pohádek na dobrou noc</title>
-      <link>https://www.kosmas.cz/knihy/571237/disney-7-pohadek-na-dobrou-noc/</link>
-      <description>Disney - 7 pohádek na dobrou noc - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571237/disney-7-pohadek-na-dobrou-noc/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odvážná Vaiana 2 - Pohádkový román</title>
-      <link>https://www.kosmas.cz/knihy/571239/odvazna-vaiana-2-pohadkovy-roman/</link>
-      <description>Odvážná Vaiana 2 - Pohádkový román - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571239/odvazna-vaiana-2-pohadkovy-roman/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odvážná Vaiana - Filmový příběh jako komiks</title>
-      <link>https://www.kosmas.cz/knihy/571240/odvazna-vaiana-filmovy-pribeh-jako-komiks/</link>
-      <description>Odvážná Vaiana - Filmový příběh jako komiks - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571240/odvazna-vaiana-filmovy-pribeh-jako-komiks/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Wars - Stín Sithu</title>
-      <link>https://www.kosmas.cz/knihy/571241/star-wars-stin-sithu/</link>
-      <description>Star Wars - Stín Sithu - Adam Christopher</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571241/star-wars-stin-sithu/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brána osudu</title>
-      <link>https://www.kosmas.cz/knihy/571248/brana-osudu/</link>
-      <description>Brána osudu - Agatha Christie</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571248/brana-osudu/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Druhá strana řeky</title>
-      <link>https://www.kosmas.cz/knihy/571249/druha-strana-reky/</link>
-      <description>Druhá strana řeky - Nora Eckhardtová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571249/druha-strana-reky/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Můj brácha Tornádo</title>
-      <link>https://www.kosmas.cz/knihy/571250/muj-bracha-tornado/</link>
-      <description>Můj brácha Tornádo - Petra Štarková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571250/muj-bracha-tornado/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uni 7/2026</title>
-      <link>https://www.kosmas.cz/knihy/569841/uni-7-2026/</link>
-      <description>Uni 7/2026</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569841/uni-7-2026/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terapie EMDR</title>
-      <link>https://www.kosmas.cz/knihy/569163/terapie-emdr/</link>
-      <description>Terapie EMDR - Francine Shapiro</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569163/terapie-emdr/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Psychedelická medicína</title>
-      <link>https://www.kosmas.cz/knihy/568942/psychedelicka-medicina/</link>
-      <description>Psychedelická medicína - Richard L. Miller</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568942/psychedelicka-medicina/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>CNC - Programování obráběcích strojů</title>
-      <link>https://www.kosmas.cz/knihy/568385/cnc-programovani-obrabecich-stroju/</link>
-      <description>CNC - Programování obráběcích strojů - Miloslav Štulpa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568385/cnc-programovani-obrabecich-stroju/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salve 2/26 - móda</title>
-      <link>https://www.kosmas.cz/knihy/566622/salve-2-26-moda/</link>
-      <description>Salve 2/26 - móda</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566622/salve-2-26-moda/</guid>
-      <pubDate>Tue, 14 Jul 2026 08:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
