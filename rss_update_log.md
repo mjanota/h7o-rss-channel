@@ -5,6 +5,40 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-22 08:39:29 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 11
+
+**Tituly nových položek:**
+
+1. Heterocosmica I.
+2. Dobrovolný hasič vězněm v Terezíně
+3. Šeptající les: Ve spárech čarodějky
+4. Dědictví Jane Austenové
+5. Červená karkulka musí zemřít
+6. Pandemie ve šťastné obci
+7. Nokturna
+8. Simone de Beauvoir: Chci od života všechno
+9. Léto, kdy umřel Hikaru 4
+10. Garfield 69: Garfield nezná zbytky
+11. Simpsonovi 7/2026
+
+---
+
+## 🕐 2026-07-22 08:39:26 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-21 08:39:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -238,53 +272,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Česká stopa ve světě
-
----
-
-## 🕐 2026-07-15 08:27:05 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Novéna k Panně Marii rozvazující uzly
-2. Svatý Pier Giorgio Frassati
-3. Být single - ale jak?
-4. Následování Krista
-5. Kalendář stolní 2027 - Naše kostely
-6. Blahoslavení Jan Bula a Václav Drbola
-7. Mega dobrá zpráva
-8. Bůh koná - Příběhy z evangelizace v ulicích
-9. Dvanáct příběhů
-10. Dobrodružství modlitby ve dvou
-11. Síla jména
-12. Každý večer zavolej mámě
-13. Procvičování pravopisu pro 4. ročník
-14. Hravá písanka 1-1. díl
-15. Dědička dvou korun
-16. Matka smrti a úsvitu
-17. Vlak do Samarkandu
-18. Foreign Tongues
-19. Lekce randění
-20. Rosteme spolu
-
----
-
-## 🕐 2026-07-15 08:27:04 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Dívky z továrny na lidi
 
 ---
 

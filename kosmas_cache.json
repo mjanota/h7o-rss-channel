@@ -1,5 +1,105 @@
 [
   {
+    "title": "Heterocosmica I.",
+    "url": "https://www.kosmas.cz/knihy/571460/heterocosmica-i/",
+    "description": "Heterocosmica I. - Lubomír Doležel",
+    "authors": [
+      "Lubomír Doležel"
+    ],
+    "date": "2026-07-22T08:39:29.237337+00:00"
+  },
+  {
+    "title": "Dobrovolný hasič vězněm v Terezíně",
+    "url": "https://www.kosmas.cz/knihy/564584/dobrovolny-hasic-veznem-v-terezine/",
+    "description": "Dobrovolný hasič vězněm v Terezíně - Iveta Krpálková, Jan Karel",
+    "authors": [
+      "Iveta Krpálková",
+      "Jan Karel"
+    ],
+    "date": "2026-07-22T08:39:28.237337+00:00"
+  },
+  {
+    "title": "Šeptající les: Ve spárech čarodějky",
+    "url": "https://www.kosmas.cz/knihy/568238/septajici-les-ve-sparech-carodejky/",
+    "description": "Šeptající les: Ve spárech čarodějky - Andreas Suchanek",
+    "authors": [
+      "Andreas Suchanek"
+    ],
+    "date": "2026-07-22T08:39:27.237337+00:00"
+  },
+  {
+    "title": "Dědictví Jane Austenové",
+    "url": "https://www.kosmas.cz/knihy/568322/dedictvi-jane-austenove/",
+    "description": "Dědictví Jane Austenové - Natalie Jenner",
+    "authors": [
+      "Natalie Jenner"
+    ],
+    "date": "2026-07-22T08:39:26.237337+00:00"
+  },
+  {
+    "title": "Červená karkulka musí zemřít",
+    "url": "https://www.kosmas.cz/knihy/568350/cervena-karkulka-musi-zemrit/",
+    "description": "Červená karkulka musí zemřít - A.K. Benedict",
+    "authors": [
+      "A.K. Benedict"
+    ],
+    "date": "2026-07-22T08:39:25.237337+00:00"
+  },
+  {
+    "title": "Pandemie ve šťastné obci",
+    "url": "https://www.kosmas.cz/knihy/570940/pandemie-ve-stastne-obci/",
+    "description": "Pandemie ve šťastné obci - Jakub Marek",
+    "authors": [
+      "Jakub Marek"
+    ],
+    "date": "2026-07-22T08:39:24.237337+00:00"
+  },
+  {
+    "title": "Nokturna",
+    "url": "https://www.kosmas.cz/knihy/571290/nokturna/",
+    "description": "Nokturna - Laura Pérez",
+    "authors": [
+      "Laura Pérez"
+    ],
+    "date": "2026-07-22T08:39:23.237337+00:00"
+  },
+  {
+    "title": "Simone de Beauvoir: Chci od života všechno",
+    "url": "https://www.kosmas.cz/knihy/571293/simone-de-beauvoir-chci-od-zivota-vsechno/",
+    "description": "Simone de Beauvoir: Chci od života všechno - Julia Korbik",
+    "authors": [
+      "Julia Korbik"
+    ],
+    "date": "2026-07-22T08:39:22.237337+00:00"
+  },
+  {
+    "title": "Léto, kdy umřel Hikaru 4",
+    "url": "https://www.kosmas.cz/knihy/570475/leto-kdy-umrel-hikaru-4/",
+    "description": "Léto, kdy umřel Hikaru 4 - Mokumokuren",
+    "authors": [
+      "Mokumokuren"
+    ],
+    "date": "2026-07-22T08:39:21.237337+00:00"
+  },
+  {
+    "title": "Garfield 69: Garfield nezná zbytky",
+    "url": "https://www.kosmas.cz/knihy/570927/garfield-69-garfield-nezna-zbytky/",
+    "description": "Garfield 69: Garfield nezná zbytky - Jim Davis",
+    "authors": [
+      "Jim Davis"
+    ],
+    "date": "2026-07-22T08:39:18.237337+00:00"
+  },
+  {
+    "title": "Simpsonovi 7/2026",
+    "url": "https://www.kosmas.cz/knihy/570929/simpsonovi-7-2026/",
+    "description": "Simpsonovi 7/2026 - Matt Groening",
+    "authors": [
+      "Matt Groening"
+    ],
+    "date": "2026-07-22T08:39:17.237337+00:00"
+  },
+  {
     "title": "Nahoře",
     "url": "https://www.kosmas.cz/knihy/571427/nahore/",
     "description": "Nahoře - Jan Cempírek",
@@ -1703,103 +1803,5 @@
       "Robert Hodoši"
     ],
     "date": "2026-07-08T08:39:45.104911+00:00"
-  },
-  {
-    "title": "Afirmace o Lásce č. 2",
-    "url": "https://www.kosmas.cz/knihy/571083/afirmace-o-lasce-c.-2/",
-    "description": "Afirmace o Lásce č. 2 - Adam Evan",
-    "authors": [
-      "Adam Evan"
-    ],
-    "date": "2026-07-08T08:39:44.104911+00:00"
-  },
-  {
-    "title": "Afirmace o Lásce č. 3",
-    "url": "https://www.kosmas.cz/knihy/571084/afirmace-o-lasce-c.-3/",
-    "description": "Afirmace o Lásce č. 3 - Adam Evan",
-    "authors": [
-      "Adam Evan"
-    ],
-    "date": "2026-07-08T08:39:43.104911+00:00"
-  },
-  {
-    "title": "Protimluv 2/2026",
-    "url": "https://www.kosmas.cz/knihy/570943/protimluv-2-2026/",
-    "description": "Protimluv 2/2026",
-    "authors": [],
-    "date": "2026-07-07T09:55:52.828752+00:00"
-  },
-  {
-    "title": "[Moje hvězda] 10",
-    "url": "https://www.kosmas.cz/knihy/570452/moje-hvezda-10/",
-    "description": "[Moje hvězda] 10 - Aka Akasaka, Mengo Jokojari",
-    "authors": [
-      "Aka Akasaka",
-      "Mengo Jokojari"
-    ],
-    "date": "2026-07-07T09:55:51.828752+00:00"
-  },
-  {
-    "title": "Kagurabači 4: Rovnost",
-    "url": "https://www.kosmas.cz/knihy/570453/kagurabaci-4-rovnost/",
-    "description": "Kagurabači 4: Rovnost - Takeru Hokazono",
-    "authors": [
-      "Takeru Hokazono"
-    ],
-    "date": "2026-07-07T09:55:50.828752+00:00"
-  },
-  {
-    "title": "SpongeBob 7/2026",
-    "url": "https://www.kosmas.cz/knihy/570457/spongebob-7-2026/",
-    "description": "SpongeBob 7/2026 - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-07-07T09:55:49.828752+00:00"
-  },
-  {
-    "title": "Zkrocení mlsného muže",
-    "url": "https://www.kosmas.cz/knihy/570154/zkroceni-mlsneho-muze/",
-    "description": "Zkrocení mlsného muže - Jitka Ludvíková",
-    "authors": [
-      "Jitka Ludvíková"
-    ],
-    "date": "2026-07-06T10:53:51.726042+00:00"
-  },
-  {
-    "title": "Cvrček",
-    "url": "https://www.kosmas.cz/knihy/570415/cvrcek/",
-    "description": "Cvrček - Annet Schaap",
-    "authors": [
-      "Annet Schaap"
-    ],
-    "date": "2026-07-06T10:53:32.726042+00:00"
-  },
-  {
-    "title": "K-pop omalovánky",
-    "url": "https://www.kosmas.cz/knihy/566388/k-pop-omalovanky/",
-    "description": "K-pop omalovánky - Andrea Brázdová",
-    "authors": [
-      "Andrea Brázdová"
-    ],
-    "date": "2026-07-05T09:17:32.957253+00:00"
-  },
-  {
-    "title": "Z pronájmu do vlastního",
-    "url": "https://www.kosmas.cz/knihy/570986/z-pronajmu-do-vlastniho/",
-    "description": "Z pronájmu do vlastního - Sabina Kotrčová",
-    "authors": [
-      "Sabina Kotrčová"
-    ],
-    "date": "2026-07-04T08:47:15.062820+00:00"
-  },
-  {
-    "title": "Meteorologické drakozprávy",
-    "url": "https://www.kosmas.cz/knihy/570993/meteorologicke-drakozpravy/",
-    "description": "Meteorologické drakozprávy - Jozef Timčák",
-    "authors": [
-      "Jozef Timčák"
-    ],
-    "date": "2026-07-04T08:47:12.062820+00:00"
   }
 ]
