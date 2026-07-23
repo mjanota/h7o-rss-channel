@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 22 Jul 2026 08:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:40:56 +0000</lastBuildDate>
+    <item>
+      <title>Mrtvé deště</title>
+      <link>https://www.kosmas.cz/knihy/571456/mrtve-deste/</link>
+      <description>Mrtvé deště - Jan Mašata</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571456/mrtve-deste/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Případ arogantního romanopisce</title>
+      <link>https://www.kosmas.cz/knihy/571457/pripad-arogantniho-romanopisce/</link>
+      <description>Případ arogantního romanopisce - Václav Gruber</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571457/pripad-arogantniho-romanopisce/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>S cejchem vyvržence</title>
+      <link>https://www.kosmas.cz/knihy/571458/s-cejchem-vyvrzence/</link>
+      <description>S cejchem vyvržence - Martin Nesměrák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571458/s-cejchem-vyvrzence/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zmizení mladé dámy</title>
+      <link>https://www.kosmas.cz/knihy/571459/zmizeni-mlade-damy/</link>
+      <description>Zmizení mladé dámy - Matthew Costello, Neil Richards</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571459/zmizeni-mlade-damy/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevěsta z Dračího dvora</title>
+      <link>https://www.kosmas.cz/knihy/571461/nevesta-z-draciho-dvora/</link>
+      <description>Nevěsta z Dračího dvora - Frost Kay</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571461/nevesta-z-draciho-dvora/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nikdy, nikdy, nikdy</title>
+      <link>https://www.kosmas.cz/knihy/571501/nikdy-nikdy-nikdy/</link>
+      <description>Nikdy, nikdy, nikdy - Linn Stromsborg</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571501/nikdy-nikdy-nikdy/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smrtelně raněný</title>
+      <link>https://www.kosmas.cz/knihy/570617/smrtelne-raneny/</link>
+      <description>Smrtelně raněný - Raffaele La Capria</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570617/smrtelne-raneny/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do křídel andělů aneb smrt není monstrum</title>
+      <link>https://www.kosmas.cz/knihy/571063/do-kridel-andelu-aneb-smrt-neni-monstrum/</link>
+      <description>Do křídel andělů aneb smrt není monstrum - Ria Kadlecová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571063/do-kridel-andelu-aneb-smrt-neni-monstrum/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Věda a technika ve schwarzenberských knižních sbírkách</title>
+      <link>https://www.kosmas.cz/knihy/571278/veda-a-technika-ve-schwarzenberskych-kniznich-sbirkach/</link>
+      <description>Věda a technika ve schwarzenberských knižních sbírkách - Pavel Hájek, Jiří Žahour</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571278/veda-a-technika-ve-schwarzenberskych-kniznich-sbirkach/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venkov</title>
+      <link>https://www.kosmas.cz/knihy/571281/venkov/</link>
+      <description>Venkov - Petr Šmíd</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571281/venkov/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eustoma</title>
+      <link>https://www.kosmas.cz/knihy/571282/eustoma/</link>
+      <description>Eustoma - Jan Lassner</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571282/eustoma/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tváře nabílené rýžovým pudrem</title>
+      <link>https://www.kosmas.cz/knihy/571283/tvare-nabilene-ryzovym-pudrem/</link>
+      <description>Tváře nabílené rýžovým pudrem - Radek Fridrich</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571283/tvare-nabilene-ryzovym-pudrem/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heterocosmica I.</title>
+      <link>https://www.kosmas.cz/knihy/571286/heterocosmica-i/</link>
+      <description>Heterocosmica I. - Lubomír Doležel</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571286/heterocosmica-i/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Úvahy o příčinách svobody a společenského útisku</title>
+      <link>https://www.kosmas.cz/knihy/571287/uvahy-o-pricinach-svobody-a-spolecenskeho-utisku/</link>
+      <description>Úvahy o příčinách svobody a společenského útisku - Simone Weilová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571287/uvahy-o-pricinach-svobody-a-spolecenskeho-utisku/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Malovat svět a Svítání</title>
+      <link>https://www.kosmas.cz/knihy/571323/malovat-svet-a-svitani/</link>
+      <description>Malovat svět a Svítání - Jarmila Plotěná</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571323/malovat-svet-a-svitani/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vykladač III</title>
+      <link>https://www.kosmas.cz/knihy/571489/vykladac-iii/</link>
+      <description>Vykladač III - Miroslava Dvořáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571489/vykladac-iii/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>David, Patrik, Jirka a spol.</title>
+      <link>https://www.kosmas.cz/knihy/571490/david-patrik-jirka-a-spol/</link>
+      <description>David, Patrik, Jirka a spol. - Peter Belanský</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571490/david-patrik-jirka-a-spol/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fotograf</title>
+      <link>https://www.kosmas.cz/knihy/571491/fotograf/</link>
+      <description>Fotograf - Lenka Oborná</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571491/fotograf/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nejvyšší dar</title>
+      <link>https://www.kosmas.cz/knihy/571498/nejvyssi-dar/</link>
+      <description>Nejvyšší dar - Paulo Coelho</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571498/nejvyssi-dar/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Až na věky věků</title>
+      <link>https://www.kosmas.cz/knihy/571499/az-na-veky-veku/</link>
+      <description>Až na věky věků - Šárka Blažejová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571499/az-na-veky-veku/</guid>
+      <pubDate>Thu, 23 Jul 2026 08:40:37 +0000</pubDate>
+    </item>
     <item>
       <title>Heterocosmica I.</title>
       <link>https://www.kosmas.cz/knihy/571460/heterocosmica-i/</link>
@@ -567,146 +707,6 @@
       <description>Země na hranici - Anna Sedláčková</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570980/zeme-na-hranici/</guid>
       <pubDate>Thu, 16 Jul 2026 08:25:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Некоторые аспекты устной чешской речи носителей русского языка</title>
-      <link>https://www.kosmas.cz/knihy/571276/nekotorye-aspekty-ustnoj-cesskoj-recy-nosytelej-russkoho-jazyka/</link>
-      <description>Некоторые аспекты устной чешской речи носителей русского языка - Veronika Stranz-Nikitina</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571276/nekotorye-aspekty-ustnoj-cesskoj-recy-nosytelej-russkoho-jazyka/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lázár</title>
-      <link>https://www.kosmas.cz/knihy/565130/lazar/</link>
-      <description>Lázár - Nelio Biedermann</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565130/lazar/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nejlepší akční hry pro fanoušky Robloxu</title>
-      <link>https://www.kosmas.cz/knihy/571291/nejlepsi-akcni-hry-pro-fanousky-robloxu/</link>
-      <description>Nejlepší akční hry pro fanoušky Robloxu - Liv Ngan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571291/nejlepsi-akcni-hry-pro-fanousky-robloxu/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příšery a démoni Moravy a Slezska</title>
-      <link>https://www.kosmas.cz/knihy/570312/prisery-a-demoni-moravy-a-slezska/</link>
-      <description>Příšery a démoni Moravy a Slezska - Iva Hoňková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570312/prisery-a-demoni-moravy-a-slezska/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dobrou noc, mám tě moc rád</title>
-      <link>https://www.kosmas.cz/knihy/568302/dobrou-noc-mam-te-moc-rad/</link>
-      <description>Dobrou noc, mám tě moc rád - Sam Taplin</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568302/dobrou-noc-mam-te-moc-rad/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foukni a rozsviť Pod mořem</title>
-      <link>https://www.kosmas.cz/knihy/568303/foukni-a-rozsvit-pod-morem/</link>
-      <description>Foukni a rozsviť Pod mořem - Maria Hoeck, Natalie Merheb</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568303/foukni-a-rozsvit-pod-morem/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moje velká kniha HLEDEJ a NAJDI se zvuky</title>
-      <link>https://www.kosmas.cz/knihy/566915/moje-velka-kniha-hledej-a-najdi-se-zvuky/</link>
-      <description>Moje velká kniha HLEDEJ a NAJDI se zvuky - Marion Billet</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/566915/moje-velka-kniha-hledej-a-najdi-se-zvuky/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proslulé příběhy Čtyřlístku 1974 - 1976</title>
-      <link>https://www.kosmas.cz/knihy/569911/proslule-pribehy-ctyrlistku-1974-1976/</link>
-      <description>Proslulé příběhy Čtyřlístku 1974 - 1976 - Jaroslav Němeček, Ljuba Štíplová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569911/proslule-pribehy-ctyrlistku-1974-1976/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Báječné příběhy Čtyřlístku 1979 až 1982</title>
-      <link>https://www.kosmas.cz/knihy/569912/bajecne-pribehy-ctyrlistku-1979-az-1982/</link>
-      <description>Báječné příběhy Čtyřlístku 1979 až 1982 - Jaroslav Němeček, Ljuba Štíplová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569912/bajecne-pribehy-ctyrlistku-1979-az-1982/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veselé příběhy Čtyřlístku 1982 až 1984</title>
-      <link>https://www.kosmas.cz/knihy/569915/vesele-pribehy-ctyrlistku-1982-az-1984/</link>
-      <description>Veselé příběhy Čtyřlístku 1982 až 1984 - Jaroslav Němeček, Ljuba Štíplová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569915/vesele-pribehy-ctyrlistku-1982-az-1984/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nádherné příběhy Čtyřlístku z let 1987 až 1989</title>
-      <link>https://www.kosmas.cz/knihy/569916/nadherne-pribehy-ctyrlistku-z-let-1987-az-1989/</link>
-      <description>Nádherné příběhy Čtyřlístku z let 1987 až 1989 - Jaroslav Němeček, Ljuba Štíplová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569916/nadherne-pribehy-ctyrlistku-z-let-1987-az-1989/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bohemistik(y) - Eseje a rozhovory o oboru ve světě 21. století</title>
-      <link>https://www.kosmas.cz/knihy/570251/bohemistik-y-eseje-a-rozhovory-o-oboru-ve-svete-21.-stoleti/</link>
-      <description>Bohemistik(y) - Eseje a rozhovory o oboru ve světě 21. století - kolektiv autorů, Dalibor Dobiáš</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570251/bohemistik-y-eseje-a-rozhovory-o-oboru-ve-svete-21.-stoleti/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Podléšky</title>
-      <link>https://www.kosmas.cz/knihy/570749/podlesky/</link>
-      <description>Podléšky - Petr Švácha</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570749/podlesky/</guid>
-      <pubDate>Thu, 16 Jul 2026 08:25:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novéna k Panně Marii rozvazující uzly</title>
-      <link>https://www.kosmas.cz/knihy/571195/novena-k-panne-marii-rozvazujici-uzly/</link>
-      <description>Novéna k Panně Marii rozvazující uzly - Vojtěch Kodet</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571195/novena-k-panne-marii-rozvazujici-uzly/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Svatý Pier Giorgio Frassati</title>
-      <link>https://www.kosmas.cz/knihy/571196/svaty-pier-giorgio-frassati/</link>
-      <description>Svatý Pier Giorgio Frassati - M. Malcurato, O. Malcurato</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571196/svaty-pier-giorgio-frassati/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Být single - ale jak?</title>
-      <link>https://www.kosmas.cz/knihy/571197/byt-single-ale-jak/</link>
-      <description>Být single - ale jak? - Hildegard Aepliová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571197/byt-single-ale-jak/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Následování Krista</title>
-      <link>https://www.kosmas.cz/knihy/571198/nasledovani-krista/</link>
-      <description>Následování Krista - Tomáš Kempenský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571198/nasledovani-krista/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kalendář stolní 2027 - Naše kostely</title>
-      <link>https://www.kosmas.cz/knihy/571200/kalendar-stolni-2027-nase-kostely/</link>
-      <description>Kalendář stolní 2027 - Naše kostely</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571200/kalendar-stolni-2027-nase-kostely/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blahoslavení Jan Bula a Václav Drbola</title>
-      <link>https://www.kosmas.cz/knihy/571201/blahoslaveni-jan-bula-a-vaclav-drbola/</link>
-      <description>Blahoslavení Jan Bula a Václav Drbola - Terezie Breindlová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571201/blahoslaveni-jan-bula-a-vaclav-drbola/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mega dobrá zpráva</title>
-      <link>https://www.kosmas.cz/knihy/571203/mega-dobra-zprava/</link>
-      <description>Mega dobrá zpráva - Pavel Helan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571203/mega-dobra-zprava/</guid>
-      <pubDate>Wed, 15 Jul 2026 08:26:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

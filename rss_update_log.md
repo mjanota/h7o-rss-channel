@@ -5,6 +5,54 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-23 08:40:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Mrtvé deště
+2. Případ arogantního romanopisce
+3. S cejchem vyvržence
+4. Zmizení mladé dámy
+5. Nevěsta z Dračího dvora
+6. Nikdy, nikdy, nikdy
+7. Smrtelně raněný
+8. Do křídel andělů aneb smrt není monstrum
+9. Věda a technika ve schwarzenberských knižních sbírkách
+10. Venkov
+11. Eustoma
+12. Tváře nabílené rýžovým pudrem
+13. Heterocosmica I.
+14. Úvahy o příčinách svobody a společenského útisku
+15. Malovat svět a Svítání
+16. Vykladač III
+17. David, Patrik, Jirka a spol.
+18. Fotograf
+19. Nejvyšší dar
+20. Až na věky věků
+
+---
+
+## 🕐 2026-07-23 08:40:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Vivant studiosi
+2. Strategie čítanky
+
+---
+
 ## 🕐 2026-07-22 08:39:29 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -227,51 +275,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Útoky na Českou televizi: válka dvou kultur
-
----
-
-## 🕐 2026-07-16 08:25:47 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Pustina vrahů
-2. Království zloby a slibů
-3. Nadvláda mužů
-4. The Restoration of Order
-5. Země na hranici
-6. Некоторые аспекты устной чешской речи носителей русского языка
-7. Lázár
-8. Nejlepší akční hry pro fanoušky Robloxu
-9. Příšery a démoni Moravy a Slezska
-10. Dobrou noc, mám tě moc rád
-11. Foukni a rozsviť Pod mořem
-12. Moje velká kniha HLEDEJ a NAJDI se zvuky
-13. Proslulé příběhy Čtyřlístku 1974 - 1976
-14. Báječné příběhy Čtyřlístku 1979 až 1982
-15. Veselé příběhy Čtyřlístku 1982 až 1984
-16. Nádherné příběhy Čtyřlístku z let 1987 až 1989
-17. Bohemistik(y) - Eseje a rozhovory o oboru ve světě 21. století
-18. Podléšky
-
----
-
-## 🕐 2026-07-16 08:25:44 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Česká stopa ve světě
 
 ---
 

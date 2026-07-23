@@ -1,13 +1,5 @@
 [
   {
-    "title": "Ztracený ráj se vrací do české kultury",
-    "url": "https://www.h7o.cz/clanky/14500-ztraceny-raj-se-vraci-do-ceske-kultury",
-    "description": "Miltonova epická báseň vyzývá k překladu vždy jednou za sto let. Roku 1811 ho pořídil Josef Jungmann, v roce 1911 Josef Julius David. V loňském roce se současného překladu ujal  anglista a překladatel Martin Hilský. Jak působivě se mu podařilo zprostředkovat stylistické a tematické polohy Miltonova…",
-    "date": "2026-04-24T00:00:00",
-    "author": "Daniel Soukup",
-    "category": "recenze"
-  },
-  {
     "title": "Spisovatel, který se bojí, že někoho urazí, to rovnou může zabalit",
     "url": "https://www.h7o.cz/clanky/14501-spisovatel-ktery-se-boji-ze-nekoho-urazi-to-rovnou-muze-zabalit",
     "description": "Michal Sýkora je rodákem z Olomouce a v jeho textech je to cítit. Je pedagogem, literárním teoretikem a autorem detektivek. Jeho poslední dílo „Žádné dobré zprávy“ bylo v kategorii pro nejlepší  detektivku nominované na cenu Magnesia Litera.",
@@ -478,5 +470,21 @@
     "date": "2026-07-21T00:00:00",
     "author": "Dora Kaprálová",
     "category": "sloupek"
+  },
+  {
+    "title": "Vivant studiosi",
+    "url": "https://www.h7o.cz/clanky/14541-vivant-studiosi",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
+    "date": "2026-07-23T00:00:00",
+    "author": "Vratislav Maňák",
+    "category": "sloupek"
+  },
+  {
+    "title": "Strategie čítanky",
+    "url": "https://www.h7o.cz/clanky/14567-strategie-citanky",
+    "description": "Červenec patří na H70 archivnímu čtení. Tentokrát přinášíme delší text Evžena Gála o maďarsku, literárním kánonu a politice z roku 2021.",
+    "date": "2026-07-22T00:00:00",
+    "author": "Evžen Gál",
+    "category": "téma"
   }
 ]
