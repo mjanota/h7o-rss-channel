@@ -1,5 +1,134 @@
 [
   {
+    "title": "Sebevědomí - 8 kroků k poznání vlastní hodnoty",
+    "url": "https://www.kosmas.cz/knihy/571271/sebevedomi-8-kroku-k-poznani-vlastni-hodnoty/",
+    "description": "Sebevědomí - 8 kroků k poznání vlastní hodnoty - Roxie Nafousi",
+    "authors": [
+      "Roxie Nafousi"
+    ],
+    "date": "2026-07-24T08:36:57.693536+00:00"
+  },
+  {
+    "title": "Uteč",
+    "url": "https://www.kosmas.cz/knihy/571272/utec/",
+    "description": "Uteč - Anders Roslund",
+    "authors": [
+      "Anders Roslund"
+    ],
+    "date": "2026-07-24T08:36:56.693536+00:00"
+  },
+  {
+    "title": "Jak přemýšlet o umělé inteligenci",
+    "url": "https://www.kosmas.cz/knihy/571462/jak-premyslet-o-umele-inteligenci/",
+    "description": "Jak přemýšlet o umělé inteligenci - Richard Susskind",
+    "authors": [
+      "Richard Susskind"
+    ],
+    "date": "2026-07-24T08:36:55.693536+00:00"
+  },
+  {
+    "title": "Tajná dračí škola",
+    "url": "https://www.kosmas.cz/knihy/571463/tajna-draci-skola/",
+    "description": "Tajná dračí škola - Emily Skye",
+    "authors": [
+      "Emily Skye"
+    ],
+    "date": "2026-07-24T08:36:54.693536+00:00"
+  },
+  {
+    "title": "Král Krysa",
+    "url": "https://www.kosmas.cz/knihy/571466/kral-krysa/",
+    "description": "Král Krysa - James Clavell",
+    "authors": [
+      "James Clavell"
+    ],
+    "date": "2026-07-24T08:36:53.693536+00:00"
+  },
+  {
+    "title": "Nevěsta krále plamenů",
+    "url": "https://www.kosmas.cz/knihy/571567/nevesta-krale-plamenu/",
+    "description": "Nevěsta krále plamenů - Chloe Chastaine",
+    "authors": [
+      "Chloe Chastaine"
+    ],
+    "date": "2026-07-24T08:36:52.693536+00:00"
+  },
+  {
+    "title": "Z pronájmu do vlastního",
+    "url": "https://www.kosmas.cz/knihy/570985/z-pronajmu-do-vlastniho/",
+    "description": "Z pronájmu do vlastního - Sabina Kotrčová",
+    "authors": [
+      "Sabina Kotrčová"
+    ],
+    "date": "2026-07-24T08:36:51.693536+00:00"
+  },
+  {
+    "title": "9 životů jedné ženy",
+    "url": "https://www.kosmas.cz/knihy/571447/9-zivotu-jedne-zeny/",
+    "description": "9 životů jedné ženy - Alina Akhmetshina",
+    "authors": [
+      "Alina Akhmetshina"
+    ],
+    "date": "2026-07-24T08:36:50.693536+00:00"
+  },
+  {
+    "title": "Pustina vrahů",
+    "url": "https://www.kosmas.cz/knihy/571448/pustina-vrahu/",
+    "description": "Pustina vrahů - Chuck Dixon",
+    "authors": [
+      "Chuck Dixon"
+    ],
+    "date": "2026-07-24T08:36:49.693536+00:00"
+  },
+  {
+    "title": "Království zloby a slibů",
+    "url": "https://www.kosmas.cz/knihy/571449/kralovstvi-zloby-a-slibu/",
+    "description": "Království zloby a slibů - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-07-24T08:36:48.693536+00:00"
+  },
+  {
+    "title": "Domácí rodinný kalendář 2027",
+    "url": "https://www.kosmas.cz/knihy/571450/domaci-rodinny-kalendar-2027/",
+    "description": "Domácí rodinný kalendář 2027 - Pavla Staňková",
+    "authors": [
+      "Pavla Staňková"
+    ],
+    "date": "2026-07-24T08:36:47.693536+00:00"
+  },
+  {
+    "title": "Rodinný kalendář 2027",
+    "url": "https://www.kosmas.cz/knihy/571468/rodinny-kalendar-2027/",
+    "description": "Rodinný kalendář 2027 - Pavla Staňková",
+    "authors": [
+      "Pavla Staňková"
+    ],
+    "date": "2026-07-24T08:36:41.693536+00:00"
+  },
+  {
+    "title": "Královna Kunhuta a Záviš",
+    "url": "https://www.kosmas.cz/knihy/571483/kralovna-kunhuta-a-zavis/",
+    "description": "Královna Kunhuta a Záviš - Hana Whitton",
+    "authors": [
+      "Hana Whitton"
+    ],
+    "date": "2026-07-24T08:36:40.693536+00:00"
+  },
+  {
+    "title": "Válka ševců",
+    "url": "https://www.kosmas.cz/knihy/571538/valka-sevcu/",
+    "description": "Válka ševců - Martin Jemelka, Svatopluk Herc, Ondřej Ševeček, Vojtěch Kessler",
+    "authors": [
+      "Martin Jemelka",
+      "Svatopluk Herc",
+      "Ondřej Ševeček",
+      "Vojtěch Kessler"
+    ],
+    "date": "2026-07-24T08:36:38.693536+00:00"
+  },
+  {
     "title": "Mrtvé deště",
     "url": "https://www.kosmas.cz/knihy/571456/mrtve-deste/",
     "description": "Mrtvé deště - Jan Mašata",
@@ -1673,133 +1802,5 @@
       "Hervé Tullet"
     ],
     "date": "2026-07-09T10:03:15.605935+00:00"
-  },
-  {
-    "title": "Polná včera a dnes II.",
-    "url": "https://www.kosmas.cz/knihy/570923/polna-vcera-a-dnes-ii/",
-    "description": "Polná včera a dnes II. - Jan Prchal, Milan Šustr",
-    "authors": [
-      "Jan Prchal",
-      "Milan Šustr"
-    ],
-    "date": "2026-07-09T10:03:14.605935+00:00"
-  },
-  {
-    "title": "Banksy",
-    "url": "https://www.kosmas.cz/knihy/570952/banksy/",
-    "description": "Banksy - Luca Greco",
-    "authors": [
-      "Luca Greco"
-    ],
-    "date": "2026-07-09T10:03:13.605935+00:00"
-  },
-  {
-    "title": "7 zákonů spirály úspěchu",
-    "url": "https://www.kosmas.cz/knihy/569937/7-zakonu-spiraly-uspechu/",
-    "description": "7 zákonů spirály úspěchu - Stanislav Häuser",
-    "authors": [
-      "Stanislav Häuser"
-    ],
-    "date": "2026-07-09T10:03:12.605935+00:00"
-  },
-  {
-    "title": "Uvězněná v Karibiku",
-    "url": "https://www.kosmas.cz/knihy/571116/uveznena-v-karibiku/",
-    "description": "Uvězněná v Karibiku - Michelle Smartová",
-    "authors": [
-      "Michelle Smartová"
-    ],
-    "date": "2026-07-09T10:03:10.605935+00:00"
-  },
-  {
-    "title": "Pár falešných polibků",
-    "url": "https://www.kosmas.cz/knihy/571119/par-falesnych-polibku/",
-    "description": "Pár falešných polibků - Jayci Lee",
-    "authors": [
-      "Jayci Lee"
-    ],
-    "date": "2026-07-09T10:03:09.605935+00:00"
-  },
-  {
-    "title": "Dívka bez korzetu",
-    "url": "https://www.kosmas.cz/knihy/571121/divka-bez-korzetu/",
-    "description": "Dívka bez korzetu - Louise Allenová",
-    "authors": [
-      "Louise Allenová"
-    ],
-    "date": "2026-07-09T10:03:08.605935+00:00"
-  },
-  {
-    "title": "Hra podle jejich pravidel",
-    "url": "https://www.kosmas.cz/knihy/571127/hra-podle-jejich-pravidel/",
-    "description": "Hra podle jejich pravidel - Lorraine Hallová",
-    "authors": [
-      "Lorraine Hallová"
-    ],
-    "date": "2026-07-09T10:03:07.605935+00:00"
-  },
-  {
-    "title": "Princův zapomenutý poklad",
-    "url": "https://www.kosmas.cz/knihy/571129/princuv-zapomenuty-poklad/",
-    "description": "Princův zapomenutý poklad - Emmy Graysonová",
-    "authors": [
-      "Emmy Graysonová"
-    ],
-    "date": "2026-07-09T10:03:06.605935+00:00"
-  },
-  {
-    "title": "Nerovný pár",
-    "url": "https://www.kosmas.cz/knihy/571131/nerovny-par/",
-    "description": "Nerovný pár - Fiona Brandová",
-    "authors": [
-      "Fiona Brandová"
-    ],
-    "date": "2026-07-09T10:03:05.605935+00:00"
-  },
-  {
-    "title": "Dědic jedné noci",
-    "url": "https://www.kosmas.cz/knihy/571132/dedic-jedne-noci/",
-    "description": "Dědic jedné noci - Natalie Andersonová",
-    "authors": [
-      "Natalie Andersonová"
-    ],
-    "date": "2026-07-09T10:03:04.605935+00:00"
-  },
-  {
-    "title": "Sonety pro Elizu",
-    "url": "https://www.kosmas.cz/knihy/571134/sonety-pro-elizu/",
-    "description": "Sonety pro Elizu - Julia Justissová, Jana Pešková",
-    "authors": [
-      "Julia Justissová",
-      "Jana Pešková"
-    ],
-    "date": "2026-07-09T10:03:03.605935+00:00"
-  },
-  {
-    "title": "Irská balada",
-    "url": "https://www.kosmas.cz/knihy/571135/irska-balada/",
-    "description": "Irská balada - Maureen Childová",
-    "authors": [
-      "Maureen Childová"
-    ],
-    "date": "2026-07-09T10:03:02.605935+00:00"
-  },
-  {
-    "title": "Obušky a chačapuri",
-    "url": "https://www.kosmas.cz/knihy/571137/obusky-a-chacapuri/",
-    "description": "Obušky a chačapuri - Eva Karlíková",
-    "authors": [
-      "Eva Karlíková"
-    ],
-    "date": "2026-07-09T10:03:01.605935+00:00"
-  },
-  {
-    "title": "Intuice ze Srdce",
-    "url": "https://www.kosmas.cz/knihy/571146/intuice-ze-srdce/",
-    "description": "Intuice ze Srdce - Adam Evan",
-    "authors": [
-      "Adam Evan"
-    ],
-    "date": "2026-07-09T10:03:00.605935+00:00"
   }
 ]
