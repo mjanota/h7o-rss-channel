@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-25 08:17:50 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Neohlížej se
+2. Art & Antiques 7/2026
+3. Dobrodružství medvídka Paddingtona - Ahoj, já jsem Paddington!
+4. Sanctuary
+5. Dream Chaser
+6. Krásný kalendář 2027
+7. Kočičí válečníci (6) - Nejtemnější hodina
+8. Stín z času. Příběhy a střípky z let 1931-1935
+9. Domaluj si básničku
+10. Správná pětka u moře
+11. S Kikinou v kuchyni
+12. Na barvě nezáleží
+13. Nibojs: Kuba a Luky
+
+---
+
+## 🕐 2026-07-25 08:17:49 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-24 08:36:57 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -227,49 +263,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-07-19 08:28:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-07-18 08:03:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Příběhy na kolech
-2. Poklad z Orevary
-3. Atlas pro děti: Zvířata
-4. ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky
-5. Neobyčejná cesta za pokladem: Legendární piráti
-6. Neohrožení bojovníci severu: Vikingové
-7. Co se ve mně děje: Už se nevztekám
-8. Co se ve mně děje: Už se netrápím
-9. Co se ve mně děje: Už nejsem ošklivá na ostatní
-10. Co se ve mně děje: Už nejsem osamělý
-11. Co se ve mně děje: Už nejsem smutná
-12. Co se ve mně děje: Už se nebojím
-13. Smysl v pojmu – Evulzivní dějiny umění Emila Filly
-14. Kočičákovi slaví narozeniny
-15. Tajné kosmické kódy
-16. Bible a ctnosti
-17. Horská bouda, která zanikla
-18. Procvičuji si - vyjmenovaná slova
-19. Katabáze
-20. Čas lovu
-
----
-
-## 🕐 2026-07-18 08:03:51 UTC
 
 **Zdroj:** H7O - Časopis Host
 

@@ -1,5 +1,120 @@
 [
   {
+    "title": "Neohlížej se",
+    "url": "https://www.kosmas.cz/knihy/565043/neohlizej-se/",
+    "description": "Neohlížej se - Dana Hlavatá",
+    "authors": [
+      "Dana Hlavatá"
+    ],
+    "date": "2026-07-25T08:17:50.556028+00:00"
+  },
+  {
+    "title": "Art & Antiques 7/2026",
+    "url": "https://www.kosmas.cz/knihy/563300/art-antiques-7-2026/",
+    "description": "Art & Antiques 7/2026",
+    "authors": [],
+    "date": "2026-07-25T08:17:49.556028+00:00"
+  },
+  {
+    "title": "Dobrodružství medvídka Paddingtona - Ahoj, já jsem Paddington!",
+    "url": "https://www.kosmas.cz/knihy/571169/dobrodruzstvi-medvidka-paddingtona-ahoj-ja-jsem-paddington/",
+    "description": "Dobrodružství medvídka Paddingtona - Ahoj, já jsem Paddington! - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-25T08:17:48.556028+00:00"
+  },
+  {
+    "title": "Sanctuary",
+    "url": "https://www.kosmas.cz/knihy/571230/sanctuary/",
+    "description": "Sanctuary - Evanescence",
+    "authors": [
+      "Evanescence"
+    ],
+    "date": "2026-07-25T08:17:47.556028+00:00"
+  },
+  {
+    "title": "Dream Chaser",
+    "url": "https://www.kosmas.cz/knihy/571231/dream-chaser/",
+    "description": "Dream Chaser - Willie Nelson",
+    "authors": [
+      "Willie Nelson"
+    ],
+    "date": "2026-07-25T08:17:46.556028+00:00"
+  },
+  {
+    "title": "Krásný kalendář 2027",
+    "url": "https://www.kosmas.cz/knihy/571471/krasny-kalendar-2027/",
+    "description": "Krásný kalendář 2027 - Pavla Staňková",
+    "authors": [
+      "Pavla Staňková"
+    ],
+    "date": "2026-07-25T08:17:40.556028+00:00"
+  },
+  {
+    "title": "Kočičí válečníci (6) - Nejtemnější hodina",
+    "url": "https://www.kosmas.cz/knihy/570595/kocici-valecnici-6-nejtemnejsi-hodina/",
+    "description": "Kočičí válečníci (6) - Nejtemnější hodina - Erin Hunterová",
+    "authors": [
+      "Erin Hunterová"
+    ],
+    "date": "2026-07-25T08:17:38.556028+00:00"
+  },
+  {
+    "title": "Stín z času. Příběhy a střípky z let 1931-1935",
+    "url": "https://www.kosmas.cz/knihy/570674/stin-z-casu.-pribehy-a-stripky-z-let-1931-1935/",
+    "description": "Stín z času. Příběhy a střípky z let 1931-1935 - Howard Phillips Lovecraft",
+    "authors": [
+      "Howard Phillips Lovecraft"
+    ],
+    "date": "2026-07-25T08:17:37.556028+00:00"
+  },
+  {
+    "title": "Domaluj si básničku",
+    "url": "https://www.kosmas.cz/knihy/570679/domaluj-si-basnicku/",
+    "description": "Domaluj si básničku - Jitka Fialová",
+    "authors": [
+      "Jitka Fialová"
+    ],
+    "date": "2026-07-25T08:17:36.556028+00:00"
+  },
+  {
+    "title": "Správná pětka u moře",
+    "url": "https://www.kosmas.cz/knihy/570930/spravna-petka-u-more/",
+    "description": "Správná pětka u moře - Enid Blytonová",
+    "authors": [
+      "Enid Blytonová"
+    ],
+    "date": "2026-07-25T08:17:35.556028+00:00"
+  },
+  {
+    "title": "S Kikinou v kuchyni",
+    "url": "https://www.kosmas.cz/knihy/571015/s-kikinou-v-kuchyni/",
+    "description": "S Kikinou v kuchyni - Kristýna Kolenčíková",
+    "authors": [
+      "Kristýna Kolenčíková"
+    ],
+    "date": "2026-07-25T08:17:33.556028+00:00"
+  },
+  {
+    "title": "Na barvě nezáleží",
+    "url": "https://www.kosmas.cz/knihy/571017/na-barve-nezalezi/",
+    "description": "Na barvě nezáleží - Radek Holík",
+    "authors": [
+      "Radek Holík"
+    ],
+    "date": "2026-07-25T08:17:32.556028+00:00"
+  },
+  {
+    "title": "Nibojs: Kuba a Luky",
+    "url": "https://www.kosmas.cz/knihy/571028/nibojs-kuba-a-luky/",
+    "description": "Nibojs: Kuba a Luky - Milan Matura",
+    "authors": [
+      "Milan Matura"
+    ],
+    "date": "2026-07-25T08:17:31.556028+00:00"
+  },
+  {
     "title": "Sebevědomí - 8 kroků k poznání vlastní hodnoty",
     "url": "https://www.kosmas.cz/knihy/571271/sebevedomi-8-kroku-k-poznani-vlastni-hodnoty/",
     "description": "Sebevědomí - 8 kroků k poznání vlastní hodnoty - Roxie Nafousi",
@@ -1685,122 +1800,5 @@
       "Michaela Nosková"
     ],
     "date": "2026-07-10T09:48:56.114122+00:00"
-  },
-  {
-    "title": "Zkrocení mlsného muže",
-    "url": "https://www.kosmas.cz/knihy/567784/zkroceni-mlsneho-muze/",
-    "description": "Zkrocení mlsného muže - Jitka Ludvíková",
-    "authors": [
-      "Jitka Ludvíková"
-    ],
-    "date": "2026-07-10T09:48:55.114122+00:00"
-  },
-  {
-    "title": "Divoké dívky",
-    "url": "https://www.kosmas.cz/knihy/567262/divoke-divky/",
-    "description": "Divoké dívky - Madeline Claire Franklin",
-    "authors": [
-      "Madeline Claire Franklin"
-    ],
-    "date": "2026-07-10T09:48:54.114122+00:00"
-  },
-  {
-    "title": "Dove",
-    "url": "https://www.kosmas.cz/knihy/567264/dove/",
-    "description": "Dove - Paisley Hope",
-    "authors": [
-      "Paisley Hope"
-    ],
-    "date": "2026-07-10T09:48:53.114122+00:00"
-  },
-  {
-    "title": "Klub odsouzených",
-    "url": "https://www.kosmas.cz/knihy/567284/klub-odsouzenych/",
-    "description": "Klub odsouzených - V.A. Vazquez",
-    "authors": [
-      "V.A. Vazquez"
-    ],
-    "date": "2026-07-10T09:48:52.114122+00:00"
-  },
-  {
-    "title": "Kafka, oni a my",
-    "url": "https://www.kosmas.cz/knihy/571041/kafka-oni-a-my/",
-    "description": "Kafka, oni a my - Marie Klimešová",
-    "authors": [
-      "Marie Klimešová"
-    ],
-    "date": "2026-07-10T09:48:50.114122+00:00"
-  },
-  {
-    "title": "Neskutečná klika",
-    "url": "https://www.kosmas.cz/knihy/571176/neskutecna-klika/",
-    "description": "Neskutečná klika - Richard Osman",
-    "authors": [
-      "Richard Osman"
-    ],
-    "date": "2026-07-10T09:48:49.114122+00:00"
-  },
-  {
-    "title": "Toulky s tátou",
-    "url": "https://www.kosmas.cz/knihy/571180/toulky-s-tatou/",
-    "description": "Toulky s tátou - Marek Wollner",
-    "authors": [
-      "Marek Wollner"
-    ],
-    "date": "2026-07-10T09:48:48.114122+00:00"
-  },
-  {
-    "title": "Nekroskop",
-    "url": "https://www.kosmas.cz/knihy/571182/nekroskop/",
-    "description": "Nekroskop - Brian Lumley",
-    "authors": [
-      "Brian Lumley"
-    ],
-    "date": "2026-07-10T09:48:47.114122+00:00"
-  },
-  {
-    "title": "Katastrofa",
-    "url": "https://www.kosmas.cz/knihy/568227/katastrofa/",
-    "description": "Katastrofa - T.J. Newman",
-    "authors": [
-      "T.J. Newman"
-    ],
-    "date": "2026-07-10T09:48:46.114122+00:00"
-  },
-  {
-    "title": "Tenhle podcast ti může zachránit život",
-    "url": "https://www.kosmas.cz/knihy/568146/tenhle-podcast-ti-muze-zachranit-zivot/",
-    "description": "Tenhle podcast ti může zachránit život - Tiffany Crumová",
-    "authors": [
-      "Tiffany Crumová"
-    ],
-    "date": "2026-07-10T09:48:45.114122+00:00"
-  },
-  {
-    "title": "Sirény",
-    "url": "https://www.kosmas.cz/knihy/568081/sireny/",
-    "description": "Sirény - Emilia Hart",
-    "authors": [
-      "Emilia Hart"
-    ],
-    "date": "2026-07-10T09:48:43.114122+00:00"
-  },
-  {
-    "title": "Povídá se… podle Tóry",
-    "url": "https://www.kosmas.cz/knihy/570278/povida-se-podle-tory/",
-    "description": "Povídá se… podle Tóry - Nico ter Linden",
-    "authors": [
-      "Nico ter Linden"
-    ],
-    "date": "2026-07-10T09:48:42.114122+00:00"
-  },
-  {
-    "title": "Jééé!",
-    "url": "https://www.kosmas.cz/knihy/563783/jeee/",
-    "description": "Jééé! - Hervé Tullet",
-    "authors": [
-      "Hervé Tullet"
-    ],
-    "date": "2026-07-09T10:03:15.605935+00:00"
   }
 ]
