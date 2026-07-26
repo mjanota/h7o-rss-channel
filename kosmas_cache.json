@@ -1,5 +1,75 @@
 [
   {
+    "title": "Stručné dějiny nekonečna",
+    "url": "https://www.kosmas.cz/knihy/537800/strucne-dejiny-nekonecna/",
+    "description": "Stručné dějiny nekonečna - Paolo Zellini",
+    "authors": [
+      "Paolo Zellini"
+    ],
+    "date": "2026-07-26T08:36:06.516636+00:00"
+  },
+  {
+    "title": "Logopedie nejen pro předškoláky",
+    "url": "https://www.kosmas.cz/knihy/570130/logopedie-nejen-pro-predskolaky/",
+    "description": "Logopedie nejen pro předškoláky - Irena Šáchová",
+    "authors": [
+      "Irena Šáchová"
+    ],
+    "date": "2026-07-26T08:36:04.516636+00:00"
+  },
+  {
+    "title": "Minecraft - Honba za pokladem se samolepkami",
+    "url": "https://www.kosmas.cz/knihy/570132/minecraft-honba-za-pokladem-se-samolepkami/",
+    "description": "Minecraft - Honba za pokladem se samolepkami - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-07-26T08:36:03.516636+00:00"
+  },
+  {
+    "title": "Luštění pro děti – vtipy ze školních lavic",
+    "url": "https://www.kosmas.cz/knihy/570331/lusteni-pro-deti-vtipy-ze-skolnich-lavic/",
+    "description": "Luštění pro děti – vtipy ze školních lavic",
+    "authors": [],
+    "date": "2026-07-26T08:36:02.516636+00:00"
+  },
+  {
+    "title": "Dear God",
+    "url": "https://www.kosmas.cz/knihy/570568/dear-god/",
+    "description": "Dear God - Pretty Reckless",
+    "authors": [
+      "Pretty Reckless"
+    ],
+    "date": "2026-07-26T08:36:00.516636+00:00"
+  },
+  {
+    "title": "Zásady ekonomie",
+    "url": "https://www.kosmas.cz/knihy/571067/zasady-ekonomie/",
+    "description": "Zásady ekonomie - Carl Menger",
+    "authors": [
+      "Carl Menger"
+    ],
+    "date": "2026-07-26T08:35:59.516636+00:00"
+  },
+  {
+    "title": "Nahoře",
+    "url": "https://www.kosmas.cz/knihy/569613/nahore/",
+    "description": "Nahoře - Jan Cempírek",
+    "authors": [
+      "Jan Cempírek"
+    ],
+    "date": "2026-07-26T08:35:48.516636+00:00"
+  },
+  {
+    "title": "Omalovánky pro Robloxáky",
+    "url": "https://www.kosmas.cz/knihy/569615/omalovanky-pro-robloxaky/",
+    "description": "Omalovánky pro Robloxáky - Pavla Navrátilová Filip",
+    "authors": [
+      "Pavla Navrátilová Filip"
+    ],
+    "date": "2026-07-26T08:35:47.516636+00:00"
+  },
+  {
     "title": "Neohlížej se",
     "url": "https://www.kosmas.cz/knihy/565043/neohlizej-se/",
     "description": "Neohlížej se - Dana Hlavatá",
@@ -1728,77 +1798,5 @@
       "Johann Schneider"
     ],
     "date": "2026-07-11T08:06:34.731999+00:00"
-  },
-  {
-    "title": "Srdce je ryzí specialista",
-    "url": "https://www.kosmas.cz/knihy/571209/srdce-je-ryzi-specialista/",
-    "description": "Srdce je ryzí specialista - Adam Evan",
-    "authors": [
-      "Adam Evan"
-    ],
-    "date": "2026-07-11T08:06:33.731999+00:00"
-  },
-  {
-    "title": "Všechny chutě léta",
-    "url": "https://www.kosmas.cz/knihy/569391/vsechny-chute-leta/",
-    "description": "Všechny chutě léta - Pavlína Blahotová",
-    "authors": [
-      "Pavlína Blahotová"
-    ],
-    "date": "2026-07-11T08:06:30.731999+00:00"
-  },
-  {
-    "title": "Nevěřte sněhu",
-    "url": "https://www.kosmas.cz/knihy/571003/neverte-snehu/",
-    "description": "Nevěřte sněhu - Zita Maršíková",
-    "authors": [
-      "Zita Maršíková"
-    ],
-    "date": "2026-07-10T09:49:01.114122+00:00"
-  },
-  {
-    "title": "Skřítek a šťastný domov",
-    "url": "https://www.kosmas.cz/knihy/571004/skritek-a-stastny-domov/",
-    "description": "Skřítek a šťastný domov - Kateřina Miler",
-    "authors": [
-      "Kateřina Miler"
-    ],
-    "date": "2026-07-10T09:49:00.114122+00:00"
-  },
-  {
-    "title": "Matematické, fyzikální a chemické tabulky pro SŠ",
-    "url": "https://www.kosmas.cz/knihy/571058/matematicke-fyzikalni-a-chemicke-tabulky-pro-ss/",
-    "description": "Matematické, fyzikální a chemické tabulky pro SŠ - Jiří Mikulčák",
-    "authors": [
-      "Jiří Mikulčák"
-    ],
-    "date": "2026-07-10T09:48:59.114122+00:00"
-  },
-  {
-    "title": "Živé stříbro",
-    "url": "https://www.kosmas.cz/knihy/571175/zive-stribro/",
-    "description": "Živé stříbro - Callie Hart",
-    "authors": [
-      "Callie Hart"
-    ],
-    "date": "2026-07-10T09:48:58.114122+00:00"
-  },
-  {
-    "title": "Doktorova milenka",
-    "url": "https://www.kosmas.cz/knihy/570276/doktorova-milenka/",
-    "description": "Doktorova milenka - Daniel Hurst",
-    "authors": [
-      "Daniel Hurst"
-    ],
-    "date": "2026-07-10T09:48:57.114122+00:00"
-  },
-  {
-    "title": "Už se tě nebojím",
-    "url": "https://www.kosmas.cz/knihy/569582/uz-se-te-nebojim/",
-    "description": "Už se tě nebojím - Michaela Nosková",
-    "authors": [
-      "Michaela Nosková"
-    ],
-    "date": "2026-07-10T09:48:56.114122+00:00"
   }
 ]

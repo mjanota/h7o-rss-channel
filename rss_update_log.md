@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-26 08:36:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Stručné dějiny nekonečna
+2. Logopedie nejen pro předškoláky
+3. Minecraft - Honba za pokladem se samolepkami
+4. Luštění pro děti – vtipy ze školních lavic
+5. Dear God
+6. Zásady ekonomie
+7. Nahoře
+8. Omalovánky pro Robloxáky
+
+---
+
+## 🕐 2026-07-26 08:36:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-25 08:17:50 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,31 +275,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Gatsby žije!
-
----
-
-## 🕐 2026-07-19 08:29:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Mezi vysokou kulturou a dělnickou třídou
-2. Squishmallows - Squishy deník
-
----
-
-## 🕐 2026-07-19 08:28:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
