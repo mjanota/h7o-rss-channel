@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:04:10 +0000</lastBuildDate>
+    <item>
+      <title>Cesta šamana</title>
+      <link>https://www.kosmas.cz/knihy/570563/cesta-samana/</link>
+      <description>Cesta šamana - Hernán Huarache Mamani</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570563/cesta-samana/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:04:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hrobka - Příběhy a vize z let 1917-1920</title>
+      <link>https://www.kosmas.cz/knihy/570581/hrobka-pribehy-a-vize-z-let-1917-1920/</link>
+      <description>Hrobka - Příběhy a vize z let 1917-1920 - Ondřej Müller, Josef Škvorecký</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570581/hrobka-pribehy-a-vize-z-let-1917-1920/</guid>
+      <pubDate>Mon, 27 Jul 2026 10:04:02 +0000</pubDate>
+    </item>
     <item>
       <title>Stručné dějiny nekonečna</title>
       <link>https://www.kosmas.cz/knihy/537800/strucne-dejiny-nekonecna/</link>
@@ -693,20 +707,6 @@
       <description>Příběhy na kolech - Katarína Brončeková</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/</guid>
       <pubDate>Sat, 18 Jul 2026 08:03:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poklad z Orevary</title>
-      <link>https://www.kosmas.cz/knihy/571049/poklad-z-orevary/</link>
-      <description>Poklad z Orevary - Pavel Lebduška</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571049/poklad-z-orevary/</guid>
-      <pubDate>Sat, 18 Jul 2026 08:03:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atlas pro děti: Zvířata</title>
-      <link>https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/</link>
-      <description>Atlas pro děti: Zvířata</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/</guid>
-      <pubDate>Sat, 18 Jul 2026 08:03:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

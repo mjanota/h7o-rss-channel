@@ -5,6 +5,35 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-27 10:04:10 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Cesta šamana
+2. Hrobka - Příběhy a vize z let 1917-1920
+
+---
+
+## 🕐 2026-07-27 10:04:08 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Smutné konce
+
+---
+
 ## 🕐 2026-07-26 08:36:06 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -237,44 +266,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hladit psa, jako by byl jediným domovem
-
----
-
-## 🕐 2026-07-20 09:29:28 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 11
-
-**Tituly nových položek:**
-
-1. Zvon v jezeře
-2. Salto Mortale
-3. Kde jinde než v Brně
-4. Qubus: The Beautiful Beast/ Boj s krásou
-5. 23 klasických pohádek
-6. Nejlepší akční hry pro fanoušky Robloxu
-7. Průstřely na nočním nebi
-8. Vzpomínky třicátníka
-9. Kočičí válečníci (2) - Oheň a led
-10. Kočičí válečníci (1) - Vzhůru do divočiny
-11. Kočičí válečníci (4) - Bouře přichází
-
----
-
-## 🕐 2026-07-20 09:29:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Gatsby žije!
 
 ---
 

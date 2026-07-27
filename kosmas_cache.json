@@ -1,5 +1,24 @@
 [
   {
+    "title": "Cesta šamana",
+    "url": "https://www.kosmas.cz/knihy/570563/cesta-samana/",
+    "description": "Cesta šamana - Hernán Huarache Mamani",
+    "authors": [
+      "Hernán Huarache Mamani"
+    ],
+    "date": "2026-07-27T10:04:04.237174+00:00"
+  },
+  {
+    "title": "Hrobka - Příběhy a vize z let 1917-1920",
+    "url": "https://www.kosmas.cz/knihy/570581/hrobka-pribehy-a-vize-z-let-1917-1920/",
+    "description": "Hrobka - Příběhy a vize z let 1917-1920 - Ondřej Müller, Josef Škvorecký",
+    "authors": [
+      "Ondřej Müller",
+      "Josef Škvorecký"
+    ],
+    "date": "2026-07-27T10:04:02.237174+00:00"
+  },
+  {
     "title": "Stručné dějiny nekonečna",
     "url": "https://www.kosmas.cz/knihy/537800/strucne-dejiny-nekonecna/",
     "description": "Stručné dějiny nekonečna - Paolo Zellini",
@@ -1780,23 +1799,5 @@
       "Patrick Taylor"
     ],
     "date": "2026-07-11T08:06:36.731999+00:00"
-  },
-  {
-    "title": "Předepíšeme vám kočku 2",
-    "url": "https://www.kosmas.cz/knihy/571207/predepiseme-vam-kocku-2/",
-    "description": "Předepíšeme vám kočku 2 - Šó Išida",
-    "authors": [
-      "Šó Išida"
-    ],
-    "date": "2026-07-11T08:06:35.731999+00:00"
-  },
-  {
-    "title": "Nejnebezpečnější špionky historie",
-    "url": "https://www.kosmas.cz/knihy/571208/nejnebezpecnejsi-spionky-historie/",
-    "description": "Nejnebezpečnější špionky historie - Johann Schneider",
-    "authors": [
-      "Johann Schneider"
-    ],
-    "date": "2026-07-11T08:06:34.731999+00:00"
   }
 ]
