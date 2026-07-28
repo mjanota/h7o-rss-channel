@@ -8,14 +8,6 @@
     "category": "seriál"
   },
   {
-    "title": "Skutečně zabíjíme lidi",
-    "url": "https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi",
-    "description": "Spojené státy americké společně s Izraelem napadly Írán před dvěma měsíci. Pozornost se za tu dobu stočila od zabíjení k ekonomickým dopadům útoku a diplomatickým řešením. Konflikt však odhalil i pokračující sbližování technologického a válečného sektoru i proměnu politiky.",
-    "date": "2026-04-29T00:00:00",
-    "author": "Jakub Jetmar",
-    "category": "sloupek"
-  },
-  {
     "title": "Potřebujeme existenciální zkušenost lásky k životu",
     "url": "https://www.h7o.cz/clanky/14505-potrebujeme-existencialni-zkusenost-lasky-k-zivotu",
     "description": "Básník a psychoterapeut Adam Borzič vydal knihu „Spiritualita posvátné země“. Argumentuje v ní, že bez toho, abychom přírodu vnímali jako posvátnou a jako součást vlastního těla, její ničení nezastavíme. Proč potřebujeme svět opět zakouzlit?",
@@ -485,6 +477,14 @@
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Pavla Pilcha z roku 2021.",
     "date": "2026-07-27T00:00:00",
     "author": "Pavel Pilch",
+    "category": "sloupek"
+  },
+  {
+    "title": "Z rakvičky do světa",
+    "url": "https://www.h7o.cz/clanky/14542-z-rakvicky-do-sveta",
+    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
+    "date": "2026-07-28T00:00:00",
+    "author": "Dora Kaprálová",
     "category": "sloupek"
   }
 ]

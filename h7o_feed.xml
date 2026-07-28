@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:46:47 +0000</lastBuildDate>
+    <item>
+      <title>Z rakvičky do světa</title>
+      <link>https://www.h7o.cz/clanky/14542-z-rakvicky-do-sveta</link>
+      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14542-z-rakvicky-do-sveta</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Smutné konce</title>
       <link>https://www.h7o.cz/clanky/14569-smutne-konce</link>
@@ -427,13 +434,6 @@
       <description>V Praze vystoupil Reinhold Messner. Uhrančivé vyprávění zahájil vzpomínkou. Narodil se v údolí a vždy toužil po světle. Když poprvé zdolal nejvyšší vrchy Jižního Tyrolska, věděl, že té krásy se nikdy nenabaží. A že ho to asi zabije. Na krásu se ale dá umřít i méně dramaticky, píše Václav Sklenář.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14504-luxusni-smrt</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skutečně zabíjíme lidi</title>
-      <link>https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi</link>
-      <description>Spojené státy americké společně s Izraelem napadly Írán před dvěma měsíci. Pozornost se za tu dobu stočila od zabíjení k ekonomickým dopadům útoku a diplomatickým řešením. Konflikt však odhalil i pokračující sbližování technologického a válečného sektoru i proměnu politiky.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14503-skutecne-zabijime-lidi</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

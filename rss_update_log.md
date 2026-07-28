@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-28 08:46:49 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Sníh
+2. Pan Mercedes
+3. Právo nálezce
+4. Sázka o srdce
+5. Lovkyně stínů
+6. Odložené líbánky
+7. Pohledný ďábel
+8. Sny, které nespatřily světlo
+9. Píseň dechu a kostí
+10. Filozofie předpokladů. Souhrn.
+11. Kacířské myšlenky
+12. Co si myslet, abychom v životě uspěli
+13. Pastýřka snů
+14. Spin diktátoři
+15. Válka
+16. Trampoty malinkého kotěte – Nový domov
+17. Alea - dívka moře: Hvězda osudu
+18. Věčný oheň
+19. Kreslíci
+20. Princezna a já
+
+---
+
+## 🕐 2026-07-28 08:46:47 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Z rakvičky do světa
+
+---
+
 ## 🕐 2026-07-27 10:04:10 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -221,51 +268,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-07-21 08:39:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Nahoře
-2. Láskou nemocná
-3. Procházky Znojmem
-4. Agáta na stopě – Tajný klíč
-5. Vražedný Oxford - Osudová posedlost
-6. Vražedný Oxford - Osudová chyba
-7. Noční příběh
-8. Cesta na Sardinii
-9. Černý opat
-10. Čelisti
-11. Křížovky pro seniory: Televizní zábava
-12. Březínek
-13. Dar
-14. Mušketýři IV: Útěk
-15. Kreslení srandovních zvířátek
-16. Pouliční lampy
-17. Hříšné Břeclavsko
-18. Moje rodina a jiná nedorozumění
-
----
-
-## 🕐 2026-07-21 08:39:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hladit psa, jako by byl jediným domovem
 
 ---
 
