@@ -5,6 +5,40 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-29 08:51:08 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Úspěšné pracující matky
+2. Proč bišon? Protože prostě bišon
+3. Třpytivé podoby roku / Vánoční reminiscence II
+4. Nahý v depu
+5. Já v sobě
+6. Mezi životem a tichem
+7. Neuchopitelná/-ý Čepelka 90
+
+---
+
+## 🕐 2026-07-29 08:51:07 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hledání sebe
+
+---
+
 ## 🕐 2026-07-28 08:46:49 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -234,40 +268,6 @@ Uchovává záznamy za poslední týden.
 
 1. Vivant studiosi
 2. Strategie čítanky
-
----
-
-## 🕐 2026-07-22 08:39:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 11
-
-**Tituly nových položek:**
-
-1. Heterocosmica I.
-2. Dobrovolný hasič vězněm v Terezíně
-3. Šeptající les: Ve spárech čarodějky
-4. Dědictví Jane Austenové
-5. Červená karkulka musí zemřít
-6. Pandemie ve šťastné obci
-7. Nokturna
-8. Simone de Beauvoir: Chci od života všechno
-9. Léto, kdy umřel Hikaru 4
-10. Garfield 69: Garfield nezná zbytky
-11. Simpsonovi 7/2026
-
----
-
-## 🕐 2026-07-22 08:39:26 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

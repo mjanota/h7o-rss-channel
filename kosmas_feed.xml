@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:46:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:51:08 +0000</lastBuildDate>
+    <item>
+      <title>Úspěšné pracující matky</title>
+      <link>https://www.kosmas.cz/knihy/571682/uspesne-pracujici-matky/</link>
+      <description>Úspěšné pracující matky - Faycal Berrouche</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571682/uspesne-pracujici-matky/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proč bišon? Protože prostě bišon</title>
+      <link>https://www.kosmas.cz/knihy/571683/proc-bison-protoze-proste-bison/</link>
+      <description>Proč bišon? Protože prostě bišon - Miroslav Vébr</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571683/proc-bison-protoze-proste-bison/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Třpytivé podoby roku / Vánoční reminiscence II</title>
+      <link>https://www.kosmas.cz/knihy/571686/trpytive-podoby-roku-vanocni-reminiscence-ii/</link>
+      <description>Třpytivé podoby roku / Vánoční reminiscence II - Libuše Matysíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571686/trpytive-podoby-roku-vanocni-reminiscence-ii/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nahý v depu</title>
+      <link>https://www.kosmas.cz/knihy/571687/nahy-v-depu/</link>
+      <description>Nahý v depu - Pitclik</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571687/nahy-v-depu/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Já v sobě</title>
+      <link>https://www.kosmas.cz/knihy/571688/ja-v-sobe/</link>
+      <description>Já v sobě - Santiago Dibla</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571688/ja-v-sobe/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mezi životem a tichem</title>
+      <link>https://www.kosmas.cz/knihy/571689/mezi-zivotem-a-tichem/</link>
+      <description>Mezi životem a tichem - Tomáš Bittner</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571689/mezi-zivotem-a-tichem/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Neuchopitelná/-ý Čepelka 90</title>
+      <link>https://www.kosmas.cz/knihy/571691/neuchopitelna-y-cepelka-90/</link>
+      <description>Neuchopitelná/-ý Čepelka 90 - Miloň Čepelka, Radek Žitný</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571691/neuchopitelna-y-cepelka-90/</guid>
+      <pubDate>Wed, 29 Jul 2026 08:51:01 +0000</pubDate>
+    </item>
     <item>
       <title>Sníh</title>
       <link>https://www.kosmas.cz/knihy/554645/snih/</link>
@@ -658,55 +707,6 @@
       <description>Vražedný Oxford - Osudová posedlost - Martin Faith</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/571439/vrazedny-oxford-osudova-posedlost/</guid>
       <pubDate>Tue, 21 Jul 2026 08:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vražedný Oxford - Osudová chyba</title>
-      <link>https://www.kosmas.cz/knihy/571440/vrazedny-oxford-osudova-chyba/</link>
-      <description>Vražedný Oxford - Osudová chyba - Martin Faith</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571440/vrazedny-oxford-osudova-chyba/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noční příběh</title>
-      <link>https://www.kosmas.cz/knihy/571441/nocni-pribeh/</link>
-      <description>Noční příběh - Michael Weber</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571441/nocni-pribeh/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cesta na Sardinii</title>
-      <link>https://www.kosmas.cz/knihy/571442/cesta-na-sardinii/</link>
-      <description>Cesta na Sardinii - Barbora Majchráková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571442/cesta-na-sardinii/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Černý opat</title>
-      <link>https://www.kosmas.cz/knihy/571443/cerny-opat/</link>
-      <description>Černý opat - Edgar Wallace</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571443/cerny-opat/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Čelisti</title>
-      <link>https://www.kosmas.cz/knihy/571444/celisti/</link>
-      <description>Čelisti - Peter Benchley</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571444/celisti/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Křížovky pro seniory: Televizní zábava</title>
-      <link>https://www.kosmas.cz/knihy/568351/krizovky-pro-seniory-televizni-zabava/</link>
-      <description>Křížovky pro seniory: Televizní zábava</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568351/krizovky-pro-seniory-televizni-zabava/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Březínek</title>
-      <link>https://www.kosmas.cz/knihy/567255/brezinek/</link>
-      <description>Březínek - Barbora Veselá</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/567255/brezinek/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:39:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

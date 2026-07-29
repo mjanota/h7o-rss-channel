@@ -1,5 +1,69 @@
 [
   {
+    "title": "Úspěšné pracující matky",
+    "url": "https://www.kosmas.cz/knihy/571682/uspesne-pracujici-matky/",
+    "description": "Úspěšné pracující matky - Faycal Berrouche",
+    "authors": [
+      "Faycal Berrouche"
+    ],
+    "date": "2026-07-29T08:51:07.059582+00:00"
+  },
+  {
+    "title": "Proč bišon? Protože prostě bišon",
+    "url": "https://www.kosmas.cz/knihy/571683/proc-bison-protoze-proste-bison/",
+    "description": "Proč bišon? Protože prostě bišon - Miroslav Vébr",
+    "authors": [
+      "Miroslav Vébr"
+    ],
+    "date": "2026-07-29T08:51:06.059582+00:00"
+  },
+  {
+    "title": "Třpytivé podoby roku / Vánoční reminiscence II",
+    "url": "https://www.kosmas.cz/knihy/571686/trpytive-podoby-roku-vanocni-reminiscence-ii/",
+    "description": "Třpytivé podoby roku / Vánoční reminiscence II - Libuše Matysíková",
+    "authors": [
+      "Libuše Matysíková"
+    ],
+    "date": "2026-07-29T08:51:05.059582+00:00"
+  },
+  {
+    "title": "Nahý v depu",
+    "url": "https://www.kosmas.cz/knihy/571687/nahy-v-depu/",
+    "description": "Nahý v depu - Pitclik",
+    "authors": [
+      "Pitclik"
+    ],
+    "date": "2026-07-29T08:51:04.059582+00:00"
+  },
+  {
+    "title": "Já v sobě",
+    "url": "https://www.kosmas.cz/knihy/571688/ja-v-sobe/",
+    "description": "Já v sobě - Santiago Dibla",
+    "authors": [
+      "Santiago Dibla"
+    ],
+    "date": "2026-07-29T08:51:03.059582+00:00"
+  },
+  {
+    "title": "Mezi životem a tichem",
+    "url": "https://www.kosmas.cz/knihy/571689/mezi-zivotem-a-tichem/",
+    "description": "Mezi životem a tichem - Tomáš Bittner",
+    "authors": [
+      "Tomáš Bittner"
+    ],
+    "date": "2026-07-29T08:51:02.059582+00:00"
+  },
+  {
+    "title": "Neuchopitelná/-ý Čepelka 90",
+    "url": "https://www.kosmas.cz/knihy/571691/neuchopitelna-y-cepelka-90/",
+    "description": "Neuchopitelná/-ý Čepelka 90 - Miloň Čepelka, Radek Žitný",
+    "authors": [
+      "Miloň Čepelka",
+      "Radek Žitný"
+    ],
+    "date": "2026-07-29T08:51:01.059582+00:00"
+  },
+  {
     "title": "Sníh",
     "url": "https://www.kosmas.cz/knihy/554645/snih/",
     "description": "Sníh - Neal Stephenson",
@@ -1738,68 +1802,5 @@
       "Lora Slámová"
     ],
     "date": "2026-07-14T08:20:52.905433+00:00"
-  },
-  {
-    "title": "Světlo mezi stíny",
-    "url": "https://www.kosmas.cz/knihy/571236/svetlo-mezi-stiny/",
-    "description": "Světlo mezi stíny - Dagmar Bouzid",
-    "authors": [
-      "Dagmar Bouzid"
-    ],
-    "date": "2026-07-14T08:20:51.905433+00:00"
-  },
-  {
-    "title": "Disney - 7 pohádek na dobrou noc",
-    "url": "https://www.kosmas.cz/knihy/571237/disney-7-pohadek-na-dobrou-noc/",
-    "description": "Disney - 7 pohádek na dobrou noc - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-14T08:20:50.905433+00:00"
-  },
-  {
-    "title": "Odvážná Vaiana 2 - Pohádkový román",
-    "url": "https://www.kosmas.cz/knihy/571239/odvazna-vaiana-2-pohadkovy-roman/",
-    "description": "Odvážná Vaiana 2 - Pohádkový román - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-14T08:20:49.905433+00:00"
-  },
-  {
-    "title": "Odvážná Vaiana - Filmový příběh jako komiks",
-    "url": "https://www.kosmas.cz/knihy/571240/odvazna-vaiana-filmovy-pribeh-jako-komiks/",
-    "description": "Odvážná Vaiana - Filmový příběh jako komiks - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-14T08:20:48.905433+00:00"
-  },
-  {
-    "title": "Star Wars - Stín Sithu",
-    "url": "https://www.kosmas.cz/knihy/571241/star-wars-stin-sithu/",
-    "description": "Star Wars - Stín Sithu - Adam Christopher",
-    "authors": [
-      "Adam Christopher"
-    ],
-    "date": "2026-07-14T08:20:47.905433+00:00"
-  },
-  {
-    "title": "Brána osudu",
-    "url": "https://www.kosmas.cz/knihy/571248/brana-osudu/",
-    "description": "Brána osudu - Agatha Christie",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "date": "2026-07-14T08:20:46.905433+00:00"
-  },
-  {
-    "title": "Druhá strana řeky",
-    "url": "https://www.kosmas.cz/knihy/571249/druha-strana-reky/",
-    "description": "Druhá strana řeky - Nora Eckhardtová",
-    "authors": [
-      "Nora Eckhardtová"
-    ],
-    "date": "2026-07-14T08:20:45.905433+00:00"
   }
 ]
