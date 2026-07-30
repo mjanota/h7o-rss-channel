@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-30 08:41:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Percy Jackson - Bitva o labyrint
+2. Percy Jackson - Poslední z bohů
+3. Dobyvatel
+4. Cestou z věže
+5. Muž, který četl knihy
+6. Příběh mateřídoušky
+7. Lékařem jste i vy
+8. Jsem sledovaná
+
+---
+
+## 🕐 2026-07-30 08:41:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Brambůrky s vaječnou emulzí
+
+---
+
 ## 🕐 2026-07-29 08:51:08 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -220,54 +255,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. O jazykové optimalizaci
-
----
-
-## 🕐 2026-07-23 08:40:56 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Mrtvé deště
-2. Případ arogantního romanopisce
-3. S cejchem vyvržence
-4. Zmizení mladé dámy
-5. Nevěsta z Dračího dvora
-6. Nikdy, nikdy, nikdy
-7. Smrtelně raněný
-8. Do křídel andělů aneb smrt není monstrum
-9. Věda a technika ve schwarzenberských knižních sbírkách
-10. Venkov
-11. Eustoma
-12. Tváře nabílené rýžovým pudrem
-13. Heterocosmica I.
-14. Úvahy o příčinách svobody a společenského útisku
-15. Malovat svět a Svítání
-16. Vykladač III
-17. David, Patrik, Jirka a spol.
-18. Fotograf
-19. Nejvyšší dar
-20. Až na věky věků
-
----
-
-## 🕐 2026-07-23 08:40:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Vivant studiosi
-2. Strategie čítanky
 
 ---
 

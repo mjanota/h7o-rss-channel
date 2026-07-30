@@ -1,5 +1,77 @@
 [
   {
+    "title": "Percy Jackson - Bitva o labyrint",
+    "url": "https://www.kosmas.cz/knihy/571702/percy-jackson-bitva-o-labyrint/",
+    "description": "Percy Jackson - Bitva o labyrint - Rick Riordan",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "date": "2026-07-30T08:41:17.061572+00:00"
+  },
+  {
+    "title": "Percy Jackson - Poslední z bohů",
+    "url": "https://www.kosmas.cz/knihy/569632/percy-jackson-posledni-z-bohu/",
+    "description": "Percy Jackson - Poslední z bohů - Rick Riordan",
+    "authors": [
+      "Rick Riordan"
+    ],
+    "date": "2026-07-30T08:41:16.061572+00:00"
+  },
+  {
+    "title": "Dobyvatel",
+    "url": "https://www.kosmas.cz/knihy/571707/dobyvatel/",
+    "description": "Dobyvatel - Ivan Olbracht",
+    "authors": [
+      "Ivan Olbracht"
+    ],
+    "date": "2026-07-30T08:41:15.061572+00:00"
+  },
+  {
+    "title": "Cestou z věže",
+    "url": "https://www.kosmas.cz/knihy/571709/cestou-z-veze/",
+    "description": "Cestou z věže - Petr Opršal",
+    "authors": [
+      "Petr Opršal"
+    ],
+    "date": "2026-07-30T08:41:14.061572+00:00"
+  },
+  {
+    "title": "Muž, který četl knihy",
+    "url": "https://www.kosmas.cz/knihy/571715/muz-ktery-cetl-knihy/",
+    "description": "Muž, který četl knihy - Rachid Benzine",
+    "authors": [
+      "Rachid Benzine"
+    ],
+    "date": "2026-07-30T08:41:13.061572+00:00"
+  },
+  {
+    "title": "Příběh mateřídoušky",
+    "url": "https://www.kosmas.cz/knihy/571269/pribeh-materidousky/",
+    "description": "Příběh mateřídoušky - Miriam Blahová",
+    "authors": [
+      "Miriam Blahová"
+    ],
+    "date": "2026-07-30T08:41:12.061572+00:00"
+  },
+  {
+    "title": "Lékařem jste i vy",
+    "url": "https://www.kosmas.cz/knihy/571270/lekarem-jste-i-vy/",
+    "description": "Lékařem jste i vy - Kristina Höschlová",
+    "authors": [
+      "Kristina Höschlová"
+    ],
+    "date": "2026-07-30T08:41:11.061572+00:00"
+  },
+  {
+    "title": "Jsem sledovaná",
+    "url": "https://www.kosmas.cz/knihy/571696/jsem-sledovana/",
+    "description": "Jsem sledovaná - Mafi Tahereh",
+    "authors": [
+      "Mafi Tahereh"
+    ],
+    "date": "2026-07-30T08:41:10.061572+00:00"
+  },
+  {
     "title": "Úspěšné pracující matky",
     "url": "https://www.kosmas.cz/knihy/571682/uspesne-pracujici-matky/",
     "description": "Úspěšné pracující matky - Faycal Berrouche",
@@ -1728,79 +1800,5 @@
       "Lenka Češková"
     ],
     "date": "2026-07-15T08:26:51.460026+00:00"
-  },
-  {
-    "title": "Matka smrti a úsvitu",
-    "url": "https://www.kosmas.cz/knihy/571264/matka-smrti-a-usvitu/",
-    "description": "Matka smrti a úsvitu - Carissa Broadbent",
-    "authors": [
-      "Carissa Broadbent"
-    ],
-    "date": "2026-07-15T08:26:50.460026+00:00"
-  },
-  {
-    "title": "Vlak do Samarkandu",
-    "url": "https://www.kosmas.cz/knihy/570597/vlak-do-samarkandu/",
-    "description": "Vlak do Samarkandu - Guzel Jachina",
-    "authors": [
-      "Guzel Jachina"
-    ],
-    "date": "2026-07-15T08:26:49.460026+00:00"
-  },
-  {
-    "title": "Foreign Tongues",
-    "url": "https://www.kosmas.cz/knihy/569501/foreign-tongues/",
-    "description": "Foreign Tongues - Rolling Stones",
-    "authors": [
-      "Rolling Stones"
-    ],
-    "date": "2026-07-15T08:26:48.460026+00:00"
-  },
-  {
-    "title": "Lekce randění",
-    "url": "https://www.kosmas.cz/knihy/565444/lekce-randeni/",
-    "description": "Lekce randění - Karla Sorensenová",
-    "authors": [
-      "Karla Sorensenová"
-    ],
-    "date": "2026-07-15T08:26:47.460026+00:00"
-  },
-  {
-    "title": "Rosteme spolu",
-    "url": "https://www.kosmas.cz/knihy/568147/rosteme-spolu/",
-    "description": "Rosteme spolu - Kate Rope",
-    "authors": [
-      "Kate Rope"
-    ],
-    "date": "2026-07-15T08:26:46.460026+00:00"
-  },
-  {
-    "title": "Bitevní mág",
-    "url": "https://www.kosmas.cz/knihy/571233/bitevni-mag/",
-    "description": "Bitevní mág - Peter A. Flannery",
-    "authors": [
-      "Peter A. Flannery"
-    ],
-    "date": "2026-07-14T08:20:54.905433+00:00"
-  },
-  {
-    "title": "Akutní kardiologie",
-    "url": "https://www.kosmas.cz/knihy/571234/akutni-kardiologie/",
-    "description": "Akutní kardiologie - Josef Kautzner, Jiří Kettner, kol.",
-    "authors": [
-      "Josef Kautzner",
-      "Jiří Kettner",
-      "kol."
-    ],
-    "date": "2026-07-14T08:20:53.905433+00:00"
-  },
-  {
-    "title": "Dívka v červeném",
-    "url": "https://www.kosmas.cz/knihy/571235/divka-v-cervenem/",
-    "description": "Dívka v červeném - Lora Slámová",
-    "authors": [
-      "Lora Slámová"
-    ],
-    "date": "2026-07-14T08:20:52.905433+00:00"
   }
 ]
