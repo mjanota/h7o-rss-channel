@@ -1,5 +1,41 @@
 [
   {
+    "title": "Carlova anarchistická kuchařka",
+    "url": "https://www.kosmas.cz/knihy/571726/carlova-anarchisticka-kucharka/",
+    "description": "Carlova anarchistická kuchařka - Matt Dinniman",
+    "authors": [
+      "Matt Dinniman"
+    ],
+    "date": "2026-07-31T09:12:09.934401+00:00"
+  },
+  {
+    "title": "3× Freyja & Huldar",
+    "url": "https://www.kosmas.cz/knihy/571738/3-freyja-huldar/",
+    "description": "3× Freyja & Huldar - Yrsa Sigurđardóttir",
+    "authors": [
+      "Yrsa Sigurđardóttir"
+    ],
+    "date": "2026-07-31T09:12:08.934401+00:00"
+  },
+  {
+    "title": "Dům na úskalí",
+    "url": "https://www.kosmas.cz/knihy/571741/dum-na-uskali/",
+    "description": "Dům na úskalí - Agatha Christie",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "date": "2026-07-31T09:12:07.934401+00:00"
+  },
+  {
+    "title": "3× Gereon Rath",
+    "url": "https://www.kosmas.cz/knihy/571744/3-gereon-rath/",
+    "description": "3× Gereon Rath - Volker Kutscher",
+    "authors": [
+      "Volker Kutscher"
+    ],
+    "date": "2026-07-31T09:12:06.934401+00:00"
+  },
+  {
     "title": "Percy Jackson - Bitva o labyrint",
     "url": "https://www.kosmas.cz/knihy/571702/percy-jackson-bitva-o-labyrint/",
     "description": "Percy Jackson - Bitva o labyrint - Rick Riordan",
@@ -1768,37 +1804,5 @@
       "Ware Kallistos"
     ],
     "date": "2026-07-15T08:26:55.460026+00:00"
-  },
-  {
-    "title": "Každý večer zavolej mámě",
-    "url": "https://www.kosmas.cz/knihy/571222/kazdy-vecer-zavolej-mame/",
-    "description": "Každý večer zavolej mámě - Lucie Konečná",
-    "authors": [
-      "Lucie Konečná"
-    ],
-    "date": "2026-07-15T08:26:54.460026+00:00"
-  },
-  {
-    "title": "Procvičování pravopisu pro 4. ročník",
-    "url": "https://www.kosmas.cz/knihy/571256/procvicovani-pravopisu-pro-4.-rocnik/",
-    "description": "Procvičování pravopisu pro 4. ročník",
-    "authors": [],
-    "date": "2026-07-15T08:26:53.460026+00:00"
-  },
-  {
-    "title": "Hravá písanka 1-1. díl",
-    "url": "https://www.kosmas.cz/knihy/571257/hrava-pisanka-1-1.-dil/",
-    "description": "Hravá písanka 1-1. díl",
-    "authors": [],
-    "date": "2026-07-15T08:26:52.460026+00:00"
-  },
-  {
-    "title": "Dědička dvou korun",
-    "url": "https://www.kosmas.cz/knihy/571261/dedicka-dvou-korun/",
-    "description": "Dědička dvou korun - Lenka Češková",
-    "authors": [
-      "Lenka Češková"
-    ],
-    "date": "2026-07-15T08:26:51.460026+00:00"
   }
 ]

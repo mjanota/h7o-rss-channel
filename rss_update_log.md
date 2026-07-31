@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-07-31 09:12:11 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 4
+
+**Tituly nových položek:**
+
+1. Carlova anarchistická kuchařka
+2. 3× Freyja & Huldar
+3. Dům na úskalí
+4. 3× Gereon Rath
+
+---
+
+## 🕐 2026-07-31 09:12:10 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Buď zdráv!
+
+---
+
 ## 🕐 2026-07-30 08:41:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -214,47 +245,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-07-24 08:36:57 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 14
-
-**Tituly nových položek:**
-
-1. Sebevědomí - 8 kroků k poznání vlastní hodnoty
-2. Uteč
-3. Jak přemýšlet o umělé inteligenci
-4. Tajná dračí škola
-5. Král Krysa
-6. Nevěsta krále plamenů
-7. Z pronájmu do vlastního
-8. 9 životů jedné ženy
-9. Pustina vrahů
-10. Království zloby a slibů
-11. Domácí rodinný kalendář 2027
-12. Rodinný kalendář 2027
-13. Královna Kunhuta a Záviš
-14. Válka ševců
-
----
-
-## 🕐 2026-07-24 08:36:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. O jazykové optimalizaci
 
 ---
 

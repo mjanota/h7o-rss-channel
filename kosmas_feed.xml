@@ -7,7 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 30 Jul 2026 08:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:12:11 +0000</lastBuildDate>
+    <item>
+      <title>Carlova anarchistická kuchařka</title>
+      <link>https://www.kosmas.cz/knihy/571726/carlova-anarchisticka-kucharka/</link>
+      <description>Carlova anarchistická kuchařka - Matt Dinniman</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571726/carlova-anarchisticka-kucharka/</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>3× Freyja &amp; Huldar</title>
+      <link>https://www.kosmas.cz/knihy/571738/3-freyja-huldar/</link>
+      <description>3× Freyja &amp; Huldar - Yrsa Sigurđardóttir</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571738/3-freyja-huldar/</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dům na úskalí</title>
+      <link>https://www.kosmas.cz/knihy/571741/dum-na-uskali/</link>
+      <description>Dům na úskalí - Agatha Christie</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571741/dum-na-uskali/</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>3× Gereon Rath</title>
+      <link>https://www.kosmas.cz/knihy/571744/3-gereon-rath/</link>
+      <description>3× Gereon Rath - Volker Kutscher</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571744/3-gereon-rath/</guid>
+      <pubDate>Fri, 31 Jul 2026 09:12:06 +0000</pubDate>
+    </item>
     <item>
       <title>Percy Jackson - Bitva o labyrint</title>
       <link>https://www.kosmas.cz/knihy/571702/percy-jackson-bitva-o-labyrint/</link>
@@ -679,34 +707,6 @@
       <description>Dědictví Jane Austenové - Natalie Jenner</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/568322/dedictvi-jane-austenove/</guid>
       <pubDate>Wed, 22 Jul 2026 08:39:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Červená karkulka musí zemřít</title>
-      <link>https://www.kosmas.cz/knihy/568350/cervena-karkulka-musi-zemrit/</link>
-      <description>Červená karkulka musí zemřít - A.K. Benedict</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568350/cervena-karkulka-musi-zemrit/</guid>
-      <pubDate>Wed, 22 Jul 2026 08:39:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pandemie ve šťastné obci</title>
-      <link>https://www.kosmas.cz/knihy/570940/pandemie-ve-stastne-obci/</link>
-      <description>Pandemie ve šťastné obci - Jakub Marek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570940/pandemie-ve-stastne-obci/</guid>
-      <pubDate>Wed, 22 Jul 2026 08:39:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nokturna</title>
-      <link>https://www.kosmas.cz/knihy/571290/nokturna/</link>
-      <description>Nokturna - Laura Pérez</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571290/nokturna/</guid>
-      <pubDate>Wed, 22 Jul 2026 08:39:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simone de Beauvoir: Chci od života všechno</title>
-      <link>https://www.kosmas.cz/knihy/571293/simone-de-beauvoir-chci-od-zivota-vsechno/</link>
-      <description>Simone de Beauvoir: Chci od života všechno - Julia Korbik</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571293/simone-de-beauvoir-chci-od-zivota-vsechno/</guid>
-      <pubDate>Wed, 22 Jul 2026 08:39:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
