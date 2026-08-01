@@ -5,6 +5,26 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-01 08:30:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
+## 🕐 2026-08-01 08:30:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-07-31 09:12:11 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -203,42 +223,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-07-26 08:36:05 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-07-25 08:17:50 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Neohlížej se
-2. Art & Antiques 7/2026
-3. Dobrodružství medvídka Paddingtona - Ahoj, já jsem Paddington!
-4. Sanctuary
-5. Dream Chaser
-6. Krásný kalendář 2027
-7. Kočičí válečníci (6) - Nejtemnější hodina
-8. Stín z času. Příběhy a střípky z let 1931-1935
-9. Domaluj si básničku
-10. Správná pětka u moře
-11. S Kikinou v kuchyni
-12. Na barvě nezáleží
-13. Nibojs: Kuba a Luky
-
----
-
-## 🕐 2026-07-25 08:17:49 UTC
 
 **Zdroj:** H7O - Časopis Host
 
