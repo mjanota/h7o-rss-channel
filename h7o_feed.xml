@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 02 Aug 2026 08:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:00:14 +0000</lastBuildDate>
+    <item>
+      <title>Stoprocentní rabat</title>
+      <link>https://www.h7o.cz/clanky/14573-stoprocentni-rabat</link>
+      <description>Minulé úterý zemřel ve třiasedmdesáti letech brněnský knihkupec Michal Ženíšek. Jeho knihkupectví v Alfa pasáži bylo místem, kam se někteří vraceli a jiní báli vejít. Na svého přítele vzpomíná Petr Minařík, spolumajitel nakladatelství Větrné mlýny.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14573-stoprocentni-rabat</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Buď zdráv!</title>
       <link>https://www.h7o.cz/clanky/14571-bud-zdrav</link>
@@ -434,13 +441,6 @@
       <description>Pět velkých amerických vydavatelství zažalovalo společnost Meta a jejího vlastníka Marka Zuckerberga. Obviňují je z vědomého porušování autorských práv kvůli trénování AI.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14507-llama-pred-soudem</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tříštičky</title>
-      <link>https://www.h7o.cz/clanky/14506-tristicky</link>
-      <description>„Kouzelný vrch“ Thomase Manna je „gigantický román o tom, že si jeho hrdina Hans Castorp půjčí tužku — a pak si ji půjčí ještě jednou! Přepadá mě z toho dokonalá závrať,“ píše ve svém pravidelném sloupku pro časopis Host Marek Šindelka.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14506-tristicky</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

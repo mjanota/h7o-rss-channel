@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-03 10:00:16 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Ztracené světlo
+2. Na hraně touhy
+3. Pastvina zmizelých
+4. Kalendář 2027 Brno - nástěnný
+5. Tohle nikdo nečekal
+6. Expozice
+7. Všechno při starém
+8. Trampoty dětí, rodičů, advokátů
+9. Sirotčinec u jezera
+10. Kód lásky
+11. Svitupád
+12. Kruguerský masakr
+13. Šťastnější každý den
+14. Nýřany - historie města
+15. Doktore, to je ale kotrmelec!
+16. Čelisti
+17. Černý opat
+18. Pastýřka snů
+19. Osudová posedlost
+20. Osudová chyba
+
+---
+
+## 🕐 2026-08-03 10:00:14 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Stoprocentní rabat
+
+---
+
 ## 🕐 2026-08-02 08:33:04 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -218,37 +265,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Smutné konce
-
----
-
-## 🕐 2026-07-26 08:36:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 8
-
-**Tituly nových položek:**
-
-1. Stručné dějiny nekonečna
-2. Logopedie nejen pro předškoláky
-3. Minecraft - Honba za pokladem se samolepkami
-4. Luštění pro děti – vtipy ze školních lavic
-5. Dear God
-6. Zásady ekonomie
-7. Nahoře
-8. Omalovánky pro Robloxáky
-
----
-
-## 🕐 2026-07-26 08:36:05 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

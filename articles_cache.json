@@ -1,13 +1,5 @@
 [
   {
-    "title": "Tříštičky",
-    "url": "https://www.h7o.cz/clanky/14506-tristicky",
-    "description": "„Kouzelný vrch“ Thomase Manna je „gigantický román o tom, že si jeho hrdina Hans Castorp půjčí tužku — a pak si ji půjčí ještě jednou! Přepadá mě z toho dokonalá závrať,“ píše ve svém pravidelném sloupku pro časopis Host Marek Šindelka.",
-    "date": "2026-05-05T00:00:00",
-    "author": "Marek Šindelka",
-    "category": "sloupek"
-  },
-  {
     "title": "Llama před soudem",
     "url": "https://www.h7o.cz/clanky/14507-llama-pred-soudem",
     "description": "Pět velkých amerických vydavatelství zažalovalo společnost Meta a jejího vlastníka Marka Zuckerberga. Obviňují je z vědomého porušování autorských práv kvůli trénování AI.",
@@ -494,5 +486,13 @@
     "date": "2026-07-31T00:00:00",
     "author": "Karolína Stehlíková",
     "category": "sloupek"
+  },
+  {
+    "title": "Stoprocentní rabat",
+    "url": "https://www.h7o.cz/clanky/14573-stoprocentni-rabat",
+    "description": "Minulé úterý zemřel ve třiasedmdesáti letech brněnský knihkupec Michal Ženíšek. Jeho knihkupectví v Alfa pasáži bylo místem, kam se někteří vraceli a jiní báli vejít. Na svého přítele vzpomíná Petr Minařík, spolumajitel nakladatelství Větrné mlýny.",
+    "date": "2026-08-03T00:00:00",
+    "author": "Petr Minařík",
+    "category": "zprávy"
   }
 ]
