@@ -5,6 +5,46 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-04 08:49:41 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Paměť a dějiny č. 2/2026
+2. Old Surehand - V Llanu Estacadu
+3. Star Wars - Jedi: Padlý řád 2
+4. Usagi Yojimbo 40: Vrána
+5. Stará postel
+6. Prostě na mě zapomněli
+7. Deníky apatykářky 6
+8. Marcialovo tajemství
+9. Hra titánů: Výstup na nebesa
+10. ABBA. Skrytá melancholie
+11. Bouře nekonečné krásy
+12. Křížovky pro babičku - velká písmena
+13. Zabijáci démonů ve škole! 2: Noční exkurze
+
+---
+
+## 🕐 2026-08-04 08:49:39 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Jak učinit vlastní já čitelným: Česká poezie ve Frankfurtu
+
+---
+
 ## 🕐 2026-08-03 10:00:16 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -189,82 +229,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hledání sebe
-
----
-
-## 🕐 2026-07-28 08:46:49 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Sníh
-2. Pan Mercedes
-3. Právo nálezce
-4. Sázka o srdce
-5. Lovkyně stínů
-6. Odložené líbánky
-7. Pohledný ďábel
-8. Sny, které nespatřily světlo
-9. Píseň dechu a kostí
-10. Filozofie předpokladů. Souhrn.
-11. Kacířské myšlenky
-12. Co si myslet, abychom v životě uspěli
-13. Pastýřka snů
-14. Spin diktátoři
-15. Válka
-16. Trampoty malinkého kotěte – Nový domov
-17. Alea - dívka moře: Hvězda osudu
-18. Věčný oheň
-19. Kreslíci
-20. Princezna a já
-
----
-
-## 🕐 2026-07-28 08:46:47 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Z rakvičky do světa
-
----
-
-## 🕐 2026-07-27 10:04:10 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Cesta šamana
-2. Hrobka - Příběhy a vize z let 1917-1920
-
----
-
-## 🕐 2026-07-27 10:04:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Smutné konce
 
 ---
 

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Llama před soudem",
-    "url": "https://www.h7o.cz/clanky/14507-llama-pred-soudem",
-    "description": "Pět velkých amerických vydavatelství zažalovalo společnost Meta a jejího vlastníka Marka Zuckerberga. Obviňují je z vědomého porušování autorských práv kvůli trénování AI.",
-    "date": "2026-05-06T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Víc než práce s textem",
     "url": "https://www.h7o.cz/clanky/14508-vic-nez-prace-s-textem",
     "description": "Akademie věd ČR v létě pořádá VII. kongres světové bohemistiky, jehož se zúčastní 250 expertek a expertů na český jazyk, literaturu a kulturu. V příštích měsících vám nabídneme rozhovory s některými z nich. Ten první s Michelle Woods, americkou translatoložkou a profesorkou anglické literatury.",
@@ -494,5 +486,13 @@
     "date": "2026-08-03T00:00:00",
     "author": "Petr Minařík",
     "category": "zprávy"
+  },
+  {
+    "title": "Jak učinit vlastní já čitelným: Česká poezie ve Frankfurtu",
+    "url": "https://www.h7o.cz/clanky/14574-jak-ucinit-vlastni-ja-citelnym-ceska-poezie-ve-frankfurtu",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současné české poezii.",
+    "date": "2026-08-04T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]
