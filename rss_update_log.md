@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-05 08:46:52 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Virus štěstí
+2. Nebezpečná terapie
+3. Meditace o svatém Václavovi a hrozných příbuzných
+4. Noc zločinů
+5. Parazit
+6. Příběh kočky a dýmky
+7. Vlakař
+8. Zloději železa
+9. Zpěv slavíka
+10. Chovanci
+11. Adam ze Zbraslavi a případ kralevice Jana
+12. Všem klukům, které jsem milovala
+13. Barabizna
+14. Státní maturita z českého jazyka – cvičebnice k didaktickému testu pro SŠ
+15. LEGO® Minecraft® Cesta za dobrodružstvím
+16. Miluj svůj život 2027 - kalendář
+17. Dinosauři samolepky a aktivity
+18. Na farmě samolepky a aktivity
+
+---
+
+## 🕐 2026-08-05 08:46:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Knihovny z druhé ruky
+
+---
+
 ## 🕐 2026-08-04 08:49:41 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
