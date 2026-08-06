@@ -1,5 +1,185 @@
 [
   {
+    "title": "Dům umění České Budějovice 2014–2025",
+    "url": "https://www.kosmas.cz/knihy/571758/dum-umeni-ceske-budejovice-2014-2025/",
+    "description": "Dům umění České Budějovice 2014–2025 - Filip Landa, Michal Škoda",
+    "authors": [
+      "Filip Landa",
+      "Michal Škoda"
+    ],
+    "date": "2026-08-06T08:48:35.339859+00:00"
+  },
+  {
+    "title": "Vykopat hroby",
+    "url": "https://www.kosmas.cz/knihy/571815/vykopat-hroby/",
+    "description": "Vykopat hroby - Jakub Hoza",
+    "authors": [
+      "Jakub Hoza"
+    ],
+    "date": "2026-08-06T08:48:34.339859+00:00"
+  },
+  {
+    "title": "Tajemství pivovaru",
+    "url": "https://www.kosmas.cz/knihy/571816/tajemstvi-pivovaru/",
+    "description": "Tajemství pivovaru - J.R. Ellis",
+    "authors": [
+      "J.R. Ellis"
+    ],
+    "date": "2026-08-06T08:48:33.339859+00:00"
+  },
+  {
+    "title": "Rozuzlení",
+    "url": "https://www.kosmas.cz/knihy/569982/rozuzleni/",
+    "description": "Rozuzlení - Helen Hardt",
+    "authors": [
+      "Helen Hardt"
+    ],
+    "date": "2026-08-06T08:48:32.339859+00:00"
+  },
+  {
+    "title": "Uneseni",
+    "url": "https://www.kosmas.cz/knihy/569992/uneseni/",
+    "description": "Uneseni - Oskar Källner, Karl Johnsson",
+    "authors": [
+      "Oskar Källner",
+      "Karl Johnsson"
+    ],
+    "date": "2026-08-06T08:48:31.339859+00:00"
+  },
+  {
+    "title": "Eliška Rebelka",
+    "url": "https://www.kosmas.cz/knihy/570488/eliska-rebelka/",
+    "description": "Eliška Rebelka - Pavlína Jurková",
+    "authors": [
+      "Pavlína Jurková"
+    ],
+    "date": "2026-08-06T08:48:30.339859+00:00"
+  },
+  {
+    "title": "Papírové tvoření: Pohyblivé oči",
+    "url": "https://www.kosmas.cz/knihy/570519/papirove-tvoreni-pohyblive-oci/",
+    "description": "Papírové tvoření: Pohyblivé oči - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-08-06T08:48:29.339859+00:00"
+  },
+  {
+    "title": "Zdravá a chutná strava při vysokém cholesterolu",
+    "url": "https://www.kosmas.cz/knihy/570533/zdrava-a-chutna-strava-pri-vysokem-cholesterolu/",
+    "description": "Zdravá a chutná strava při vysokém cholesterolu - Sonja Carlsson",
+    "authors": [
+      "Sonja Carlsson"
+    ],
+    "date": "2026-08-06T08:48:28.339859+00:00"
+  },
+  {
+    "title": "Šepot kolibříka",
+    "url": "https://www.kosmas.cz/knihy/570569/sepot-kolibrika/",
+    "description": "Šepot kolibříka - Tereza Polivchuk Poslušná",
+    "authors": [
+      "Tereza Polivchuk Poslušná"
+    ],
+    "date": "2026-08-06T08:48:27.339859+00:00"
+  },
+  {
+    "title": "SpongeBob - Mega omalovánky a aktivity - Život je pohoda",
+    "url": "https://www.kosmas.cz/knihy/570671/spongebob-mega-omalovanky-a-aktivity-zivot-je-pohoda/",
+    "description": "SpongeBob - Mega omalovánky a aktivity - Život je pohoda - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-08-06T08:48:26.339859+00:00"
+  },
+  {
+    "title": "Stitch - Svítící knížka do postýlky",
+    "url": "https://www.kosmas.cz/knihy/570675/stitch-svitici-knizka-do-postylky/",
+    "description": "Stitch - Svítící knížka do postýlky - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-08-06T08:48:25.339859+00:00"
+  },
+  {
+    "title": "U Špinavé kachny",
+    "url": "https://www.kosmas.cz/knihy/570951/u-spinave-kachny/",
+    "description": "U Špinavé kachny - Michal Jelínek",
+    "authors": [
+      "Michal Jelínek"
+    ],
+    "date": "2026-08-06T08:48:24.339859+00:00"
+  },
+  {
+    "title": "Smaragdové srdce",
+    "url": "https://www.kosmas.cz/knihy/570953/smaragdove-srdce/",
+    "description": "Smaragdové srdce - Helen Frippová",
+    "authors": [
+      "Helen Frippová"
+    ],
+    "date": "2026-08-06T08:48:23.339859+00:00"
+  },
+  {
+    "title": "Háčkujeme pohádkové postavičky",
+    "url": "https://www.kosmas.cz/knihy/570955/hackujeme-pohadkove-postavicky/",
+    "description": "Háčkujeme pohádkové postavičky - Tessa van Riet-Ernst",
+    "authors": [
+      "Tessa van Riet-Ernst"
+    ],
+    "date": "2026-08-06T08:48:22.339859+00:00"
+  },
+  {
+    "title": "Snadné amigurumi",
+    "url": "https://www.kosmas.cz/knihy/570956/snadne-amigurumi/",
+    "description": "Snadné amigurumi",
+    "authors": [],
+    "date": "2026-08-06T08:48:21.339859+00:00"
+  },
+  {
+    "title": "Eden",
+    "url": "https://www.kosmas.cz/knihy/571010/eden/",
+    "description": "Eden - Nikol Matějková",
+    "authors": [
+      "Nikol Matějková"
+    ],
+    "date": "2026-08-06T08:48:20.339859+00:00"
+  },
+  {
+    "title": "Egypt tě miluje",
+    "url": "https://www.kosmas.cz/knihy/571030/egypt-te-miluje/",
+    "description": "Egypt tě miluje - The Niqab Girl",
+    "authors": [
+      "The Niqab Girl"
+    ],
+    "date": "2026-08-06T08:48:19.339859+00:00"
+  },
+  {
+    "title": "Orientace v prostoru a čase pro děti od 4 do 6 let",
+    "url": "https://www.kosmas.cz/knihy/571034/orientace-v-prostoru-a-case-pro-deti-od-4-do-6-let/",
+    "description": "Orientace v prostoru a čase pro děti od 4 do 6 let - Jiřina Bednářová",
+    "authors": [
+      "Jiřina Bednářová"
+    ],
+    "date": "2026-08-06T08:48:18.339859+00:00"
+  },
+  {
+    "title": "Deník malého Minecrafťáka: komiks",
+    "url": "https://www.kosmas.cz/knihy/571036/denik-maleho-minecraftaka-komiks/",
+    "description": "Deník malého Minecrafťáka: komiks - Cube Kid",
+    "authors": [
+      "Cube Kid"
+    ],
+    "date": "2026-08-06T08:48:17.339859+00:00"
+  },
+  {
+    "title": "Dračí kavárna",
+    "url": "https://www.kosmas.cz/knihy/571171/draci-kavarna/",
+    "description": "Dračí kavárna - A. T. Qureshi",
+    "authors": [
+      "A. T. Qureshi"
+    ],
+    "date": "2026-08-06T08:48:16.339859+00:00"
+  },
+  {
     "title": "Virus štěstí",
     "url": "https://www.kosmas.cz/knihy/571695/virus-stesti/",
     "description": "Virus štěstí - Neal Shusterman",
@@ -1621,185 +1801,5 @@
       "Iva Knobloch"
     ],
     "date": "2026-07-20T09:29:25.216640+00:00"
-  },
-  {
-    "title": "23 klasických pohádek",
-    "url": "https://www.kosmas.cz/knihy/571247/23-klasickych-pohadek/",
-    "description": "23 klasických pohádek - Václav Kopta, Václav Kopta, Marek Libert, David Novotný",
-    "authors": [
-      "Václav Kopta",
-      "Václav Kopta",
-      "Marek Libert",
-      "David Novotný"
-    ],
-    "date": "2026-07-20T09:29:24.216640+00:00"
-  },
-  {
-    "title": "Nejlepší akční hry pro fanoušky Robloxu",
-    "url": "https://www.kosmas.cz/knihy/569612/nejlepsi-akcni-hry-pro-fanousky-robloxu/",
-    "description": "Nejlepší akční hry pro fanoušky Robloxu - Liv Ngan",
-    "authors": [
-      "Liv Ngan"
-    ],
-    "date": "2026-07-20T09:29:23.216640+00:00"
-  },
-  {
-    "title": "Průstřely na nočním nebi",
-    "url": "https://www.kosmas.cz/knihy/569637/prustrely-na-nocnim-nebi/",
-    "description": "Průstřely na nočním nebi - Ocean Vuong",
-    "authors": [
-      "Ocean Vuong"
-    ],
-    "date": "2026-07-20T09:29:22.216640+00:00"
-  },
-  {
-    "title": "Vzpomínky třicátníka",
-    "url": "https://www.kosmas.cz/knihy/571012/vzpominky-tricatnika/",
-    "description": "Vzpomínky třicátníka - Jaroslav Röszler",
-    "authors": [
-      "Jaroslav Röszler"
-    ],
-    "date": "2026-07-20T09:29:21.216640+00:00"
-  },
-  {
-    "title": "Kočičí válečníci (2) - Oheň a led",
-    "url": "https://www.kosmas.cz/knihy/567978/kocici-valecnici-2-ohen-a-led/",
-    "description": "Kočičí válečníci (2) - Oheň a led - Erin Hunterová",
-    "authors": [
-      "Erin Hunterová"
-    ],
-    "date": "2026-07-20T09:29:18.216640+00:00"
-  },
-  {
-    "title": "Kočičí válečníci (1) - Vzhůru do divočiny",
-    "url": "https://www.kosmas.cz/knihy/567612/kocici-valecnici-1-vzhuru-do-divociny/",
-    "description": "Kočičí válečníci (1) - Vzhůru do divočiny - Erin Hunterová",
-    "authors": [
-      "Erin Hunterová"
-    ],
-    "date": "2026-07-20T09:29:17.216640+00:00"
-  },
-  {
-    "title": "Kočičí válečníci (4) - Bouře přichází",
-    "url": "https://www.kosmas.cz/knihy/567613/kocici-valecnici-4-boure-prichazi/",
-    "description": "Kočičí válečníci (4) - Bouře přichází - Erin Hunterová",
-    "authors": [
-      "Erin Hunterová"
-    ],
-    "date": "2026-07-20T09:29:16.216640+00:00"
-  },
-  {
-    "title": "Mezi vysokou kulturou a dělnickou třídou",
-    "url": "https://www.kosmas.cz/knihy/550640/mezi-vysokou-kulturou-a-delnickou-tridou/",
-    "description": "Mezi vysokou kulturou a dělnickou třídou - Jakub Raška",
-    "authors": [
-      "Jakub Raška"
-    ],
-    "date": "2026-07-19T08:28:59.969253+00:00"
-  },
-  {
-    "title": "Squishmallows - Squishy deník",
-    "url": "https://www.kosmas.cz/knihy/570672/squishmallows-squishy-denik/",
-    "description": "Squishmallows - Squishy deník - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-19T08:28:58.969253+00:00"
-  },
-  {
-    "title": "Příběhy na kolech",
-    "url": "https://www.kosmas.cz/knihy/571007/pribehy-na-kolech/",
-    "description": "Příběhy na kolech - Katarína Brončeková",
-    "authors": [
-      "Katarína Brončeková"
-    ],
-    "date": "2026-07-18T08:03:53.423842+00:00"
-  },
-  {
-    "title": "Poklad z Orevary",
-    "url": "https://www.kosmas.cz/knihy/571049/poklad-z-orevary/",
-    "description": "Poklad z Orevary - Pavel Lebduška",
-    "authors": [
-      "Pavel Lebduška"
-    ],
-    "date": "2026-07-18T08:03:52.423842+00:00"
-  },
-  {
-    "title": "Atlas pro děti: Zvířata",
-    "url": "https://www.kosmas.cz/knihy/571183/atlas-pro-deti-zvirata/",
-    "description": "Atlas pro děti: Zvířata",
-    "authors": [],
-    "date": "2026-07-18T08:03:51.423842+00:00"
-  },
-  {
-    "title": "ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky",
-    "url": "https://www.kosmas.cz/knihy/571184/ooobr-binec-hledej-a-objevuj-kniha-pro-male-neporadnicky/",
-    "description": "ÓÓÓBR binec - Hledej a objevuj - Kniha pro malé nepořádníčky",
-    "authors": [],
-    "date": "2026-07-18T08:03:50.423842+00:00"
-  },
-  {
-    "title": "Neobyčejná cesta za pokladem: Legendární piráti",
-    "url": "https://www.kosmas.cz/knihy/571185/neobycejna-cesta-za-pokladem-legendarni-pirati/",
-    "description": "Neobyčejná cesta za pokladem: Legendární piráti",
-    "authors": [],
-    "date": "2026-07-18T08:03:49.423842+00:00"
-  },
-  {
-    "title": "Neohrožení bojovníci severu: Vikingové",
-    "url": "https://www.kosmas.cz/knihy/571186/neohrozeni-bojovnici-severu-vikingove/",
-    "description": "Neohrožení bojovníci severu: Vikingové",
-    "authors": [],
-    "date": "2026-07-18T08:03:48.423842+00:00"
-  },
-  {
-    "title": "Co se ve mně děje: Už se nevztekám",
-    "url": "https://www.kosmas.cz/knihy/571187/co-se-ve-mne-deje-uz-se-nevztekam/",
-    "description": "Co se ve mně děje: Už se nevztekám - Sarah Wardová, Honor Headová",
-    "authors": [
-      "Sarah Wardová",
-      "Honor Headová"
-    ],
-    "date": "2026-07-18T08:03:47.423842+00:00"
-  },
-  {
-    "title": "Co se ve mně děje: Už se netrápím",
-    "url": "https://www.kosmas.cz/knihy/571188/co-se-ve-mne-deje-uz-se-netrapim/",
-    "description": "Co se ve mně děje: Už se netrápím - Sarah Wardová, Honor Headová",
-    "authors": [
-      "Sarah Wardová",
-      "Honor Headová"
-    ],
-    "date": "2026-07-18T08:03:46.423842+00:00"
-  },
-  {
-    "title": "Co se ve mně děje: Už nejsem ošklivá na ostatní",
-    "url": "https://www.kosmas.cz/knihy/571251/co-se-ve-mne-deje-uz-nejsem-oskliva-na-ostatni/",
-    "description": "Co se ve mně děje: Už nejsem ošklivá na ostatní - Sarah Wardová, Honor Headová",
-    "authors": [
-      "Sarah Wardová",
-      "Honor Headová"
-    ],
-    "date": "2026-07-18T08:03:45.423842+00:00"
-  },
-  {
-    "title": "Co se ve mně děje: Už nejsem osamělý",
-    "url": "https://www.kosmas.cz/knihy/571252/co-se-ve-mne-deje-uz-nejsem-osamely/",
-    "description": "Co se ve mně děje: Už nejsem osamělý - Sarah Wardová, Honor Headová",
-    "authors": [
-      "Sarah Wardová",
-      "Honor Headová"
-    ],
-    "date": "2026-07-18T08:03:44.423842+00:00"
-  },
-  {
-    "title": "Co se ve mně děje: Už nejsem smutná",
-    "url": "https://www.kosmas.cz/knihy/571253/co-se-ve-mne-deje-uz-nejsem-smutna/",
-    "description": "Co se ve mně děje: Už nejsem smutná - Sarah Wardová, Honor Headová",
-    "authors": [
-      "Sarah Wardová",
-      "Honor Headová"
-    ],
-    "date": "2026-07-18T08:03:43.423842+00:00"
   }
 ]

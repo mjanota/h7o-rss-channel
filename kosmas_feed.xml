@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:48:35 +0000</lastBuildDate>
+    <item>
+      <title>Dům umění České Budějovice 2014–2025</title>
+      <link>https://www.kosmas.cz/knihy/571758/dum-umeni-ceske-budejovice-2014-2025/</link>
+      <description>Dům umění České Budějovice 2014–2025 - Filip Landa, Michal Škoda</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571758/dum-umeni-ceske-budejovice-2014-2025/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vykopat hroby</title>
+      <link>https://www.kosmas.cz/knihy/571815/vykopat-hroby/</link>
+      <description>Vykopat hroby - Jakub Hoza</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571815/vykopat-hroby/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajemství pivovaru</title>
+      <link>https://www.kosmas.cz/knihy/571816/tajemstvi-pivovaru/</link>
+      <description>Tajemství pivovaru - J.R. Ellis</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571816/tajemstvi-pivovaru/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozuzlení</title>
+      <link>https://www.kosmas.cz/knihy/569982/rozuzleni/</link>
+      <description>Rozuzlení - Helen Hardt</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569982/rozuzleni/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uneseni</title>
+      <link>https://www.kosmas.cz/knihy/569992/uneseni/</link>
+      <description>Uneseni - Oskar Källner, Karl Johnsson</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569992/uneseni/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eliška Rebelka</title>
+      <link>https://www.kosmas.cz/knihy/570488/eliska-rebelka/</link>
+      <description>Eliška Rebelka - Pavlína Jurková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570488/eliska-rebelka/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Papírové tvoření: Pohyblivé oči</title>
+      <link>https://www.kosmas.cz/knihy/570519/papirove-tvoreni-pohyblive-oci/</link>
+      <description>Papírové tvoření: Pohyblivé oči - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570519/papirove-tvoreni-pohyblive-oci/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zdravá a chutná strava při vysokém cholesterolu</title>
+      <link>https://www.kosmas.cz/knihy/570533/zdrava-a-chutna-strava-pri-vysokem-cholesterolu/</link>
+      <description>Zdravá a chutná strava při vysokém cholesterolu - Sonja Carlsson</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570533/zdrava-a-chutna-strava-pri-vysokem-cholesterolu/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Šepot kolibříka</title>
+      <link>https://www.kosmas.cz/knihy/570569/sepot-kolibrika/</link>
+      <description>Šepot kolibříka - Tereza Polivchuk Poslušná</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570569/sepot-kolibrika/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpongeBob - Mega omalovánky a aktivity - Život je pohoda</title>
+      <link>https://www.kosmas.cz/knihy/570671/spongebob-mega-omalovanky-a-aktivity-zivot-je-pohoda/</link>
+      <description>SpongeBob - Mega omalovánky a aktivity - Život je pohoda - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570671/spongebob-mega-omalovanky-a-aktivity-zivot-je-pohoda/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stitch - Svítící knížka do postýlky</title>
+      <link>https://www.kosmas.cz/knihy/570675/stitch-svitici-knizka-do-postylky/</link>
+      <description>Stitch - Svítící knížka do postýlky - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570675/stitch-svitici-knizka-do-postylky/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>U Špinavé kachny</title>
+      <link>https://www.kosmas.cz/knihy/570951/u-spinave-kachny/</link>
+      <description>U Špinavé kachny - Michal Jelínek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570951/u-spinave-kachny/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Smaragdové srdce</title>
+      <link>https://www.kosmas.cz/knihy/570953/smaragdove-srdce/</link>
+      <description>Smaragdové srdce - Helen Frippová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570953/smaragdove-srdce/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Háčkujeme pohádkové postavičky</title>
+      <link>https://www.kosmas.cz/knihy/570955/hackujeme-pohadkove-postavicky/</link>
+      <description>Háčkujeme pohádkové postavičky - Tessa van Riet-Ernst</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570955/hackujeme-pohadkove-postavicky/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snadné amigurumi</title>
+      <link>https://www.kosmas.cz/knihy/570956/snadne-amigurumi/</link>
+      <description>Snadné amigurumi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570956/snadne-amigurumi/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eden</title>
+      <link>https://www.kosmas.cz/knihy/571010/eden/</link>
+      <description>Eden - Nikol Matějková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571010/eden/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Egypt tě miluje</title>
+      <link>https://www.kosmas.cz/knihy/571030/egypt-te-miluje/</link>
+      <description>Egypt tě miluje - The Niqab Girl</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571030/egypt-te-miluje/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Orientace v prostoru a čase pro děti od 4 do 6 let</title>
+      <link>https://www.kosmas.cz/knihy/571034/orientace-v-prostoru-a-case-pro-deti-od-4-do-6-let/</link>
+      <description>Orientace v prostoru a čase pro děti od 4 do 6 let - Jiřina Bednářová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571034/orientace-v-prostoru-a-case-pro-deti-od-4-do-6-let/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník malého Minecrafťáka: komiks</title>
+      <link>https://www.kosmas.cz/knihy/571036/denik-maleho-minecraftaka-komiks/</link>
+      <description>Deník malého Minecrafťáka: komiks - Cube Kid</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571036/denik-maleho-minecraftaka-komiks/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dračí kavárna</title>
+      <link>https://www.kosmas.cz/knihy/571171/draci-kavarna/</link>
+      <description>Dračí kavárna - A. T. Qureshi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571171/draci-kavarna/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:48:16 +0000</pubDate>
+    </item>
     <item>
       <title>Virus štěstí</title>
       <link>https://www.kosmas.cz/knihy/571695/virus-stesti/</link>
@@ -567,146 +707,6 @@
       <description>Filozofie předpokladů. Souhrn. - Vilém Kmuníček</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/571640/filozofie-predpokladu.-souhrn/</guid>
       <pubDate>Tue, 28 Jul 2026 08:46:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kacířské myšlenky</title>
-      <link>https://www.kosmas.cz/knihy/571641/kacirske-myslenky/</link>
-      <description>Kacířské myšlenky - Vilém Kmuníček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571641/kacirske-myslenky/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co si myslet, abychom v životě uspěli</title>
-      <link>https://www.kosmas.cz/knihy/571642/co-si-myslet-abychom-v-zivote-uspeli/</link>
-      <description>Co si myslet, abychom v životě uspěli - Vilém Kmuníček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571642/co-si-myslet-abychom-v-zivote-uspeli/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pastýřka snů</title>
-      <link>https://www.kosmas.cz/knihy/571643/pastyrka-snu/</link>
-      <description>Pastýřka snů - Iva Tajovská</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571643/pastyrka-snu/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spin diktátoři</title>
-      <link>https://www.kosmas.cz/knihy/571644/spin-diktatori/</link>
-      <description>Spin diktátoři - Sergej Gurijev, Daniel Treisman</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571644/spin-diktatori/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Válka</title>
-      <link>https://www.kosmas.cz/knihy/571645/valka/</link>
-      <description>Válka - Laura Thalassa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571645/valka/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trampoty malinkého kotěte – Nový domov</title>
-      <link>https://www.kosmas.cz/knihy/571657/trampoty-malinkeho-kotete-novy-domov/</link>
-      <description>Trampoty malinkého kotěte – Nový domov - Maddy Mara</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571657/trampoty-malinkeho-kotete-novy-domov/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alea - dívka moře: Hvězda osudu</title>
-      <link>https://www.kosmas.cz/knihy/571658/alea-divka-more-hvezda-osudu/</link>
-      <description>Alea - dívka moře: Hvězda osudu - Tanya Stewnerová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571658/alea-divka-more-hvezda-osudu/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Věčný oheň</title>
-      <link>https://www.kosmas.cz/knihy/571659/vecny-ohen/</link>
-      <description>Věčný oheň - Rebecca Ross</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571659/vecny-ohen/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kreslíci</title>
-      <link>https://www.kosmas.cz/knihy/571029/kreslici/</link>
-      <description>Kreslíci - Marek Švingr</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571029/kreslici/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Princezna a já</title>
-      <link>https://www.kosmas.cz/knihy/571661/princezna-a-ja/</link>
-      <description>Princezna a já - Sophie Gonzales</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571661/princezna-a-ja/</guid>
-      <pubDate>Tue, 28 Jul 2026 08:46:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cesta šamana</title>
-      <link>https://www.kosmas.cz/knihy/570563/cesta-samana/</link>
-      <description>Cesta šamana - Hernán Huarache Mamani</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570563/cesta-samana/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hrobka - Příběhy a vize z let 1917-1920</title>
-      <link>https://www.kosmas.cz/knihy/570581/hrobka-pribehy-a-vize-z-let-1917-1920/</link>
-      <description>Hrobka - Příběhy a vize z let 1917-1920 - Ondřej Müller, Josef Škvorecký</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570581/hrobka-pribehy-a-vize-z-let-1917-1920/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stručné dějiny nekonečna</title>
-      <link>https://www.kosmas.cz/knihy/537800/strucne-dejiny-nekonecna/</link>
-      <description>Stručné dějiny nekonečna - Paolo Zellini</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/537800/strucne-dejiny-nekonecna/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logopedie nejen pro předškoláky</title>
-      <link>https://www.kosmas.cz/knihy/570130/logopedie-nejen-pro-predskolaky/</link>
-      <description>Logopedie nejen pro předškoláky - Irena Šáchová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570130/logopedie-nejen-pro-predskolaky/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Minecraft - Honba za pokladem se samolepkami</title>
-      <link>https://www.kosmas.cz/knihy/570132/minecraft-honba-za-pokladem-se-samolepkami/</link>
-      <description>Minecraft - Honba za pokladem se samolepkami - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570132/minecraft-honba-za-pokladem-se-samolepkami/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Luštění pro děti – vtipy ze školních lavic</title>
-      <link>https://www.kosmas.cz/knihy/570331/lusteni-pro-deti-vtipy-ze-skolnich-lavic/</link>
-      <description>Luštění pro děti – vtipy ze školních lavic</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570331/lusteni-pro-deti-vtipy-ze-skolnich-lavic/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dear God</title>
-      <link>https://www.kosmas.cz/knihy/570568/dear-god/</link>
-      <description>Dear God - Pretty Reckless</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570568/dear-god/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zásady ekonomie</title>
-      <link>https://www.kosmas.cz/knihy/571067/zasady-ekonomie/</link>
-      <description>Zásady ekonomie - Carl Menger</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571067/zasady-ekonomie/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nahoře</title>
-      <link>https://www.kosmas.cz/knihy/569613/nahore/</link>
-      <description>Nahoře - Jan Cempírek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569613/nahore/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:35:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Omalovánky pro Robloxáky</title>
-      <link>https://www.kosmas.cz/knihy/569615/omalovanky-pro-robloxaky/</link>
-      <description>Omalovánky pro Robloxáky - Pavla Navrátilová Filip</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569615/omalovanky-pro-robloxaky/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:35:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-06 08:48:35 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Dům umění České Budějovice 2014–2025
+2. Vykopat hroby
+3. Tajemství pivovaru
+4. Rozuzlení
+5. Uneseni
+6. Eliška Rebelka
+7. Papírové tvoření: Pohyblivé oči
+8. Zdravá a chutná strava při vysokém cholesterolu
+9. Šepot kolibříka
+10. SpongeBob - Mega omalovánky a aktivity - Život je pohoda
+11. Stitch - Svítící knížka do postýlky
+12. U Špinavé kachny
+13. Smaragdové srdce
+14. Háčkujeme pohádkové postavičky
+15. Snadné amigurumi
+16. Eden
+17. Egypt tě miluje
+18. Orientace v prostoru a čase pro děti od 4 do 6 let
+19. Deník malého Minecrafťáka: komiks
+20. Dračí kavárna
+
+---
+
+## 🕐 2026-08-06 08:48:33 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Temná paralela i velkolepé dobrodružství
+
+---
+
 ## 🕐 2026-08-05 08:46:52 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -205,75 +252,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Buď zdráv!
-
----
-
-## 🕐 2026-07-30 08:41:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 8
-
-**Tituly nových položek:**
-
-1. Percy Jackson - Bitva o labyrint
-2. Percy Jackson - Poslední z bohů
-3. Dobyvatel
-4. Cestou z věže
-5. Muž, který četl knihy
-6. Příběh mateřídoušky
-7. Lékařem jste i vy
-8. Jsem sledovaná
-
----
-
-## 🕐 2026-07-30 08:41:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Brambůrky s vaječnou emulzí
-
----
-
-## 🕐 2026-07-29 08:51:08 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 7
-
-**Tituly nových položek:**
-
-1. Úspěšné pracující matky
-2. Proč bišon? Protože prostě bišon
-3. Třpytivé podoby roku / Vánoční reminiscence II
-4. Nahý v depu
-5. Já v sobě
-6. Mezi životem a tichem
-7. Neuchopitelná/-ý Čepelka 90
-
----
-
-## 🕐 2026-07-29 08:51:07 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hledání sebe
 
 ---
 
