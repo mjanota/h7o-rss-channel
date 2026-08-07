@@ -1,5 +1,151 @@
 [
   {
+    "title": "Nightshade: Temná touha",
+    "url": "https://www.kosmas.cz/knihy/571699/nightshade-temna-touha/",
+    "description": "Nightshade: Temná touha - Autumn Woods",
+    "authors": [
+      "Autumn Woods"
+    ],
+    "date": "2026-08-07T07:35:37.356944+00:00"
+  },
+  {
+    "title": "Bohové a monstra: Trůn zavržených bohů",
+    "url": "https://www.kosmas.cz/knihy/571889/bohove-a-monstra-trun-zavrzenych-bohu/",
+    "description": "Bohové a monstra: Trůn zavržených bohů - Amber V. Nicole",
+    "authors": [
+      "Amber V. Nicole"
+    ],
+    "date": "2026-08-07T07:35:36.356944+00:00"
+  },
+  {
+    "title": "Autismus a náročné chování",
+    "url": "https://www.kosmas.cz/knihy/571908/autismus-a-narocne-chovani/",
+    "description": "Autismus a náročné chování - Petra Mertinová, Tony Osgood",
+    "authors": [
+      "Petra Mertinová",
+      "Tony Osgood"
+    ],
+    "date": "2026-08-07T07:35:33.356944+00:00"
+  },
+  {
+    "title": "Motorkaření",
+    "url": "https://www.kosmas.cz/knihy/571910/motorkareni/",
+    "description": "Motorkaření - David L. Hough",
+    "authors": [
+      "David L. Hough"
+    ],
+    "date": "2026-08-07T07:35:32.356944+00:00"
+  },
+  {
+    "title": "Jiný kraj",
+    "url": "https://www.kosmas.cz/knihy/571913/jiny-kraj/",
+    "description": "Jiný kraj - Jela Abasová, Jan Hlávka, Tereza Janišová, Tereza Kadečková",
+    "authors": [
+      "Jela Abasová",
+      "Jan Hlávka",
+      "Tereza Janišová",
+      "Tereza Kadečková"
+    ],
+    "date": "2026-08-07T07:35:31.356944+00:00"
+  },
+  {
+    "title": "Trnitá kletba",
+    "url": "https://www.kosmas.cz/knihy/571914/trnita-kletba/",
+    "description": "Trnitá kletba - Anežka Kočová",
+    "authors": [
+      "Anežka Kočová"
+    ],
+    "date": "2026-08-07T07:35:30.356944+00:00"
+  },
+  {
+    "title": "Boží mlýn s turbem 3",
+    "url": "https://www.kosmas.cz/knihy/571100/bozi-mlyn-s-turbem-3/",
+    "description": "Boží mlýn s turbem 3 - Engelbert Prim",
+    "authors": [
+      "Engelbert Prim"
+    ],
+    "date": "2026-08-07T07:35:29.356944+00:00"
+  },
+  {
+    "title": "Masky bohů 3 - Mýty Západu",
+    "url": "https://www.kosmas.cz/knihy/571933/masky-bohu-3-myty-zapadu/",
+    "description": "Masky bohů 3 - Mýty Západu - Joseph Campbell",
+    "authors": [
+      "Joseph Campbell"
+    ],
+    "date": "2026-08-07T07:35:28.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář New York 2027",
+    "url": "https://www.kosmas.cz/knihy/570772/poznamkovy-kalendar-new-york-2027/",
+    "description": "Poznámkový kalendář New York 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:27.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Happy Doge 2027",
+    "url": "https://www.kosmas.cz/knihy/570773/poznamkovy-kalendar-happy-doge-2027/",
+    "description": "Poznámkový kalendář Happy Doge 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:26.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Koně – Christiane Slawik 2027",
+    "url": "https://www.kosmas.cz/knihy/570774/poznamkovy-kalendar-kone-christiane-slawik-2027/",
+    "description": "Poznámkový kalendář Koně – Christiane Slawik 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:25.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Henri Rousseau 2027",
+    "url": "https://www.kosmas.cz/knihy/570776/poznamkovy-kalendar-henri-rousseau-2027/",
+    "description": "Poznámkový kalendář Henri Rousseau 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:24.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Hello Kitty  2027",
+    "url": "https://www.kosmas.cz/knihy/570778/poznamkovy-kalendar-hello-kitty-2027/",
+    "description": "Poznámkový kalendář Hello Kitty  2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:23.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Kuromi  2027",
+    "url": "https://www.kosmas.cz/knihy/570779/poznamkovy-kalendar-kuromi-2027/",
+    "description": "Poznámkový kalendář Kuromi  2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:22.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Mláďata 2027",
+    "url": "https://www.kosmas.cz/knihy/570790/poznamkovy-kalendar-mladata-2027/",
+    "description": "Poznámkový kalendář Mláďata 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:21.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Štěňata 2027",
+    "url": "https://www.kosmas.cz/knihy/570792/poznamkovy-kalendar-stenata-2027/",
+    "description": "Poznámkový kalendář Štěňata 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:20.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Vincent van Gogh 2027",
+    "url": "https://www.kosmas.cz/knihy/570795/poznamkovy-kalendar-vincent-van-gogh-2027/",
+    "description": "Poznámkový kalendář Vincent van Gogh 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:19.356944+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář NASA 2027",
+    "url": "https://www.kosmas.cz/knihy/570797/poznamkovy-kalendar-nasa-2027/",
+    "description": "Poznámkový kalendář NASA 2027",
+    "authors": [],
+    "date": "2026-08-07T07:35:18.356944+00:00"
+  },
+  {
     "title": "Dům umění České Budějovice 2014–2025",
     "url": "https://www.kosmas.cz/knihy/571758/dum-umeni-ceske-budejovice-2014-2025/",
     "description": "Dům umění České Budějovice 2014–2025 - Filip Landa, Michal Škoda",
@@ -1640,166 +1786,5 @@
       "Lena Jones"
     ],
     "date": "2026-07-21T08:39:50.296991+00:00"
-  },
-  {
-    "title": "Vražedný Oxford - Osudová posedlost",
-    "url": "https://www.kosmas.cz/knihy/571439/vrazedny-oxford-osudova-posedlost/",
-    "description": "Vražedný Oxford - Osudová posedlost - Martin Faith",
-    "authors": [
-      "Martin Faith"
-    ],
-    "date": "2026-07-21T08:39:49.296991+00:00"
-  },
-  {
-    "title": "Vražedný Oxford - Osudová chyba",
-    "url": "https://www.kosmas.cz/knihy/571440/vrazedny-oxford-osudova-chyba/",
-    "description": "Vražedný Oxford - Osudová chyba - Martin Faith",
-    "authors": [
-      "Martin Faith"
-    ],
-    "date": "2026-07-21T08:39:48.296991+00:00"
-  },
-  {
-    "title": "Noční příběh",
-    "url": "https://www.kosmas.cz/knihy/571441/nocni-pribeh/",
-    "description": "Noční příběh - Michael Weber",
-    "authors": [
-      "Michael Weber"
-    ],
-    "date": "2026-07-21T08:39:47.296991+00:00"
-  },
-  {
-    "title": "Cesta na Sardinii",
-    "url": "https://www.kosmas.cz/knihy/571442/cesta-na-sardinii/",
-    "description": "Cesta na Sardinii - Barbora Majchráková",
-    "authors": [
-      "Barbora Majchráková"
-    ],
-    "date": "2026-07-21T08:39:46.296991+00:00"
-  },
-  {
-    "title": "Černý opat",
-    "url": "https://www.kosmas.cz/knihy/571443/cerny-opat/",
-    "description": "Černý opat - Edgar Wallace",
-    "authors": [
-      "Edgar Wallace"
-    ],
-    "date": "2026-07-21T08:39:45.296991+00:00"
-  },
-  {
-    "title": "Čelisti",
-    "url": "https://www.kosmas.cz/knihy/571444/celisti/",
-    "description": "Čelisti - Peter Benchley",
-    "authors": [
-      "Peter Benchley"
-    ],
-    "date": "2026-07-21T08:39:44.296991+00:00"
-  },
-  {
-    "title": "Křížovky pro seniory: Televizní zábava",
-    "url": "https://www.kosmas.cz/knihy/568351/krizovky-pro-seniory-televizni-zabava/",
-    "description": "Křížovky pro seniory: Televizní zábava",
-    "authors": [],
-    "date": "2026-07-21T08:39:43.296991+00:00"
-  },
-  {
-    "title": "Březínek",
-    "url": "https://www.kosmas.cz/knihy/567255/brezinek/",
-    "description": "Březínek - Barbora Veselá",
-    "authors": [
-      "Barbora Veselá"
-    ],
-    "date": "2026-07-21T08:39:42.296991+00:00"
-  },
-  {
-    "title": "Dar",
-    "url": "https://www.kosmas.cz/knihy/571416/dar/",
-    "description": "Dar - Lada Nežádalová",
-    "authors": [
-      "Lada Nežádalová"
-    ],
-    "date": "2026-07-21T08:39:40.296991+00:00"
-  },
-  {
-    "title": "Mušketýři IV: Útěk",
-    "url": "https://www.kosmas.cz/knihy/571418/musketyri-iv-utek/",
-    "description": "Mušketýři IV: Útěk - Joe Garcia",
-    "authors": [
-      "Joe Garcia"
-    ],
-    "date": "2026-07-21T08:39:39.296991+00:00"
-  },
-  {
-    "title": "Kreslení srandovních zvířátek",
-    "url": "https://www.kosmas.cz/knihy/571423/kresleni-srandovnich-zviratek/",
-    "description": "Kreslení srandovních zvířátek - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-07-21T08:39:38.296991+00:00"
-  },
-  {
-    "title": "Pouliční lampy",
-    "url": "https://www.kosmas.cz/knihy/571424/poulicni-lampy/",
-    "description": "Pouliční lampy - Markéta Burešová",
-    "authors": [
-      "Markéta Burešová"
-    ],
-    "date": "2026-07-21T08:39:37.296991+00:00"
-  },
-  {
-    "title": "Hříšné Břeclavsko",
-    "url": "https://www.kosmas.cz/knihy/571425/hrisne-breclavsko/",
-    "description": "Hříšné Břeclavsko - Petr Omelka",
-    "authors": [
-      "Petr Omelka"
-    ],
-    "date": "2026-07-21T08:39:36.296991+00:00"
-  },
-  {
-    "title": "Moje rodina a jiná nedorozumění",
-    "url": "https://www.kosmas.cz/knihy/569570/moje-rodina-a-jina-nedorozumeni/",
-    "description": "Moje rodina a jiná nedorozumění - Ivan Kraus",
-    "authors": [
-      "Ivan Kraus"
-    ],
-    "date": "2026-07-21T08:39:34.296991+00:00"
-  },
-  {
-    "title": "Zvon v jezeře",
-    "url": "https://www.kosmas.cz/knihy/570598/zvon-v-jezere/",
-    "description": "Zvon v jezeře - Lars Mytting",
-    "authors": [
-      "Lars Mytting"
-    ],
-    "date": "2026-07-20T09:29:28.216640+00:00"
-  },
-  {
-    "title": "Salto Mortale",
-    "url": "https://www.kosmas.cz/knihy/570720/salto-mortale/",
-    "description": "Salto Mortale - Arakain",
-    "authors": [
-      "Arakain"
-    ],
-    "date": "2026-07-20T09:29:27.216640+00:00"
-  },
-  {
-    "title": "Kde jinde než v Brně",
-    "url": "https://www.kosmas.cz/knihy/571085/kde-jinde-nez-v-brne/",
-    "description": "Kde jinde než v Brně - Richard Kubáček",
-    "authors": [
-      "Richard Kubáček"
-    ],
-    "date": "2026-07-20T09:29:26.216640+00:00"
-  },
-  {
-    "title": "Qubus: The Beautiful Beast/ Boj s krásou",
-    "url": "https://www.kosmas.cz/knihy/571109/qubus-the-beautiful-beast-boj-s-krasou/",
-    "description": "Qubus: The Beautiful Beast/ Boj s krásou - Marcela Straková, Iva Knobloch",
-    "authors": [
-      "Marcela Straková",
-      "Iva Knobloch"
-    ],
-    "date": "2026-07-20T09:29:25.216640+00:00"
   }
 ]

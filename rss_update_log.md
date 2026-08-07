@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-07 07:35:37 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Nightshade: Temná touha
+2. Bohové a monstra: Trůn zavržených bohů
+3. Autismus a náročné chování
+4. Motorkaření
+5. Jiný kraj
+6. Trnitá kletba
+7. Boží mlýn s turbem 3
+8. Masky bohů 3 - Mýty Západu
+9. Poznámkový kalendář New York 2027
+10. Poznámkový kalendář Happy Doge 2027
+11. Poznámkový kalendář Koně – Christiane Slawik 2027
+12. Poznámkový kalendář Henri Rousseau 2027
+13. Poznámkový kalendář Hello Kitty  2027
+14. Poznámkový kalendář Kuromi  2027
+15. Poznámkový kalendář Mláďata 2027
+16. Poznámkový kalendář Štěňata 2027
+17. Poznámkový kalendář Vincent van Gogh 2027
+18. Poznámkový kalendář NASA 2027
+
+---
+
+## 🕐 2026-08-07 07:35:36 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-06 08:48:35 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
