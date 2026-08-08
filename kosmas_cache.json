@@ -1,5 +1,157 @@
 [
   {
+    "title": "Tajemství poslední strážkyně",
+    "url": "https://www.kosmas.cz/knihy/571940/tajemstvi-posledni-strazkyne/",
+    "description": "Tajemství poslední strážkyně - Faycal Berrouche",
+    "authors": [
+      "Faycal Berrouche"
+    ],
+    "date": "2026-08-08T07:04:23.989175+00:00"
+  },
+  {
+    "title": "Ohrožený kruh",
+    "url": "https://www.kosmas.cz/knihy/571941/ohrozeny-kruh/",
+    "description": "Ohrožený kruh - Adam Chromý",
+    "authors": [
+      "Adam Chromý"
+    ],
+    "date": "2026-08-08T07:04:22.989175+00:00"
+  },
+  {
+    "title": "Poslední dopis",
+    "url": "https://www.kosmas.cz/knihy/570165/posledni-dopis/",
+    "description": "Poslední dopis - Rebecca Yarros",
+    "authors": [
+      "Rebecca Yarros"
+    ],
+    "date": "2026-08-08T07:04:21.989175+00:00"
+  },
+  {
+    "title": "Ve vlnách času",
+    "url": "https://www.kosmas.cz/knihy/571943/ve-vlnach-casu/",
+    "description": "Ve vlnách času - Mari Caoran",
+    "authors": [
+      "Mari Caoran"
+    ],
+    "date": "2026-08-08T07:04:20.989175+00:00"
+  },
+  {
+    "title": "Koruna lhářů",
+    "url": "https://www.kosmas.cz/knihy/571944/koruna-lharu/",
+    "description": "Koruna lhářů - Abigail Owen",
+    "authors": [
+      "Abigail Owen"
+    ],
+    "date": "2026-08-08T07:04:19.989175+00:00"
+  },
+  {
+    "title": "Česká literatura 3/2026",
+    "url": "https://www.kosmas.cz/knihy/571950/ceska-literatura-3-2026/",
+    "description": "Česká literatura 3/2026",
+    "authors": [],
+    "date": "2026-08-08T07:04:18.989175+00:00"
+  },
+  {
+    "title": "Cornova 1/2026",
+    "url": "https://www.kosmas.cz/knihy/571951/cornova-1-2026/",
+    "description": "Cornova 1/2026",
+    "authors": [],
+    "date": "2026-08-08T07:04:17.989175+00:00"
+  },
+  {
+    "title": "Poslední Vest",
+    "url": "https://www.kosmas.cz/knihy/570584/posledni-vest/",
+    "description": "Poslední Vest - Jan Valík",
+    "authors": [
+      "Jan Valík"
+    ],
+    "date": "2026-08-08T07:04:16.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Amedeo Modigliani 2027",
+    "url": "https://www.kosmas.cz/knihy/570775/poznamkovy-kalendar-amedeo-modigliani-2027/",
+    "description": "Poznámkový kalendář Amedeo Modigliani 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:15.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Vintage plakáty – japonské umění 2027",
+    "url": "https://www.kosmas.cz/knihy/570780/nastenny-kalendar-vintage-plakaty-japonske-umeni-2027/",
+    "description": "Nástěnný kalendář Vintage plakáty – japonské umění 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:14.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Vintage plakáty – daleké kraje 2027",
+    "url": "https://www.kosmas.cz/knihy/570781/nastenny-kalendar-vintage-plakaty-daleke-kraje-2027/",
+    "description": "Nástěnný kalendář Vintage plakáty – daleké kraje 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:13.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Vintage plakáty – herbář 2027",
+    "url": "https://www.kosmas.cz/knihy/570783/nastenny-kalendar-vintage-plakaty-herbar-2027/",
+    "description": "Nástěnný kalendář Vintage plakáty – herbář 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:12.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Impresionismus 2027",
+    "url": "https://www.kosmas.cz/knihy/570784/nastenny-kalendar-impresionismus-2027/",
+    "description": "Nástěnný kalendář Impresionismus 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:11.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Claude Monet 2027",
+    "url": "https://www.kosmas.cz/knihy/570785/nastenny-kalendar-claude-monet-2027/",
+    "description": "Nástěnný kalendář Claude Monet 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:10.989175+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Josef Lada 2027",
+    "url": "https://www.kosmas.cz/knihy/570786/nastenny-kalendar-josef-lada-2027/",
+    "description": "Nástěnný kalendář Josef Lada 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:09.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Herbář 2027, PLASTIC FREE",
+    "url": "https://www.kosmas.cz/knihy/570788/poznamkovy-kalendar-herbar-2027-plastic-free/",
+    "description": "Poznámkový kalendář Herbář 2027, PLASTIC FREE",
+    "authors": [],
+    "date": "2026-08-08T07:04:08.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Koťata 2027",
+    "url": "https://www.kosmas.cz/knihy/570789/poznamkovy-kalendar-kotata-2027/",
+    "description": "Poznámkový kalendář Koťata 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:07.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Pandy 2027",
+    "url": "https://www.kosmas.cz/knihy/570791/poznamkovy-kalendar-pandy-2027/",
+    "description": "Poznámkový kalendář Pandy 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:06.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Claude Monet 2027",
+    "url": "https://www.kosmas.cz/knihy/570793/poznamkovy-kalendar-claude-monet-2027/",
+    "description": "Poznámkový kalendář Claude Monet 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:05.989175+00:00"
+  },
+  {
+    "title": "Poznámkový kalendář Gustav Klimt 2027",
+    "url": "https://www.kosmas.cz/knihy/570794/poznamkovy-kalendar-gustav-klimt-2027/",
+    "description": "Poznámkový kalendář Gustav Klimt 2027",
+    "authors": [],
+    "date": "2026-08-08T07:04:04.989175+00:00"
+  },
+  {
     "title": "Nightshade: Temná touha",
     "url": "https://www.kosmas.cz/knihy/571699/nightshade-temna-touha/",
     "description": "Nightshade: Temná touha - Autumn Woods",
@@ -1605,186 +1757,5 @@
       "Jarmila Plotěná"
     ],
     "date": "2026-07-23T08:40:42.043208+00:00"
-  },
-  {
-    "title": "Vykladač III",
-    "url": "https://www.kosmas.cz/knihy/571489/vykladac-iii/",
-    "description": "Vykladač III - Miroslava Dvořáková",
-    "authors": [
-      "Miroslava Dvořáková"
-    ],
-    "date": "2026-07-23T08:40:41.043208+00:00"
-  },
-  {
-    "title": "David, Patrik, Jirka a spol.",
-    "url": "https://www.kosmas.cz/knihy/571490/david-patrik-jirka-a-spol/",
-    "description": "David, Patrik, Jirka a spol. - Peter Belanský",
-    "authors": [
-      "Peter Belanský"
-    ],
-    "date": "2026-07-23T08:40:40.043208+00:00"
-  },
-  {
-    "title": "Fotograf",
-    "url": "https://www.kosmas.cz/knihy/571491/fotograf/",
-    "description": "Fotograf - Lenka Oborná",
-    "authors": [
-      "Lenka Oborná"
-    ],
-    "date": "2026-07-23T08:40:39.043208+00:00"
-  },
-  {
-    "title": "Nejvyšší dar",
-    "url": "https://www.kosmas.cz/knihy/571498/nejvyssi-dar/",
-    "description": "Nejvyšší dar - Paulo Coelho",
-    "authors": [
-      "Paulo Coelho"
-    ],
-    "date": "2026-07-23T08:40:38.043208+00:00"
-  },
-  {
-    "title": "Až na věky věků",
-    "url": "https://www.kosmas.cz/knihy/571499/az-na-veky-veku/",
-    "description": "Až na věky věků - Šárka Blažejová",
-    "authors": [
-      "Šárka Blažejová"
-    ],
-    "date": "2026-07-23T08:40:37.043208+00:00"
-  },
-  {
-    "title": "Heterocosmica I.",
-    "url": "https://www.kosmas.cz/knihy/571460/heterocosmica-i/",
-    "description": "Heterocosmica I. - Lubomír Doležel",
-    "authors": [
-      "Lubomír Doležel"
-    ],
-    "date": "2026-07-22T08:39:29.237337+00:00"
-  },
-  {
-    "title": "Dobrovolný hasič vězněm v Terezíně",
-    "url": "https://www.kosmas.cz/knihy/564584/dobrovolny-hasic-veznem-v-terezine/",
-    "description": "Dobrovolný hasič vězněm v Terezíně - Iveta Krpálková, Jan Karel",
-    "authors": [
-      "Iveta Krpálková",
-      "Jan Karel"
-    ],
-    "date": "2026-07-22T08:39:28.237337+00:00"
-  },
-  {
-    "title": "Šeptající les: Ve spárech čarodějky",
-    "url": "https://www.kosmas.cz/knihy/568238/septajici-les-ve-sparech-carodejky/",
-    "description": "Šeptající les: Ve spárech čarodějky - Andreas Suchanek",
-    "authors": [
-      "Andreas Suchanek"
-    ],
-    "date": "2026-07-22T08:39:27.237337+00:00"
-  },
-  {
-    "title": "Dědictví Jane Austenové",
-    "url": "https://www.kosmas.cz/knihy/568322/dedictvi-jane-austenove/",
-    "description": "Dědictví Jane Austenové - Natalie Jenner",
-    "authors": [
-      "Natalie Jenner"
-    ],
-    "date": "2026-07-22T08:39:26.237337+00:00"
-  },
-  {
-    "title": "Červená karkulka musí zemřít",
-    "url": "https://www.kosmas.cz/knihy/568350/cervena-karkulka-musi-zemrit/",
-    "description": "Červená karkulka musí zemřít - A.K. Benedict",
-    "authors": [
-      "A.K. Benedict"
-    ],
-    "date": "2026-07-22T08:39:25.237337+00:00"
-  },
-  {
-    "title": "Pandemie ve šťastné obci",
-    "url": "https://www.kosmas.cz/knihy/570940/pandemie-ve-stastne-obci/",
-    "description": "Pandemie ve šťastné obci - Jakub Marek",
-    "authors": [
-      "Jakub Marek"
-    ],
-    "date": "2026-07-22T08:39:24.237337+00:00"
-  },
-  {
-    "title": "Nokturna",
-    "url": "https://www.kosmas.cz/knihy/571290/nokturna/",
-    "description": "Nokturna - Laura Pérez",
-    "authors": [
-      "Laura Pérez"
-    ],
-    "date": "2026-07-22T08:39:23.237337+00:00"
-  },
-  {
-    "title": "Simone de Beauvoir: Chci od života všechno",
-    "url": "https://www.kosmas.cz/knihy/571293/simone-de-beauvoir-chci-od-zivota-vsechno/",
-    "description": "Simone de Beauvoir: Chci od života všechno - Julia Korbik",
-    "authors": [
-      "Julia Korbik"
-    ],
-    "date": "2026-07-22T08:39:22.237337+00:00"
-  },
-  {
-    "title": "Léto, kdy umřel Hikaru 4",
-    "url": "https://www.kosmas.cz/knihy/570475/leto-kdy-umrel-hikaru-4/",
-    "description": "Léto, kdy umřel Hikaru 4 - Mokumokuren",
-    "authors": [
-      "Mokumokuren"
-    ],
-    "date": "2026-07-22T08:39:21.237337+00:00"
-  },
-  {
-    "title": "Garfield 69: Garfield nezná zbytky",
-    "url": "https://www.kosmas.cz/knihy/570927/garfield-69-garfield-nezna-zbytky/",
-    "description": "Garfield 69: Garfield nezná zbytky - Jim Davis",
-    "authors": [
-      "Jim Davis"
-    ],
-    "date": "2026-07-22T08:39:18.237337+00:00"
-  },
-  {
-    "title": "Simpsonovi 7/2026",
-    "url": "https://www.kosmas.cz/knihy/570929/simpsonovi-7-2026/",
-    "description": "Simpsonovi 7/2026 - Matt Groening",
-    "authors": [
-      "Matt Groening"
-    ],
-    "date": "2026-07-22T08:39:17.237337+00:00"
-  },
-  {
-    "title": "Nahoře",
-    "url": "https://www.kosmas.cz/knihy/571427/nahore/",
-    "description": "Nahoře - Jan Cempírek",
-    "authors": [
-      "Jan Cempírek"
-    ],
-    "date": "2026-07-21T08:39:53.296991+00:00"
-  },
-  {
-    "title": "Láskou nemocná",
-    "url": "https://www.kosmas.cz/knihy/571436/laskou-nemocna/",
-    "description": "Láskou nemocná - Deidra Duncan",
-    "authors": [
-      "Deidra Duncan"
-    ],
-    "date": "2026-07-21T08:39:52.296991+00:00"
-  },
-  {
-    "title": "Procházky Znojmem",
-    "url": "https://www.kosmas.cz/knihy/571437/prochazky-znojmem/",
-    "description": "Procházky Znojmem - Monika Frecerová",
-    "authors": [
-      "Monika Frecerová"
-    ],
-    "date": "2026-07-21T08:39:51.296991+00:00"
-  },
-  {
-    "title": "Agáta na stopě – Tajný klíč",
-    "url": "https://www.kosmas.cz/knihy/571438/agata-na-stope-tajny-klic/",
-    "description": "Agáta na stopě – Tajný klíč - Lena Jones",
-    "authors": [
-      "Lena Jones"
-    ],
-    "date": "2026-07-21T08:39:50.296991+00:00"
   }
 ]
