@@ -1,5 +1,161 @@
 [
   {
+    "title": "Uteč",
+    "url": "https://www.kosmas.cz/knihy/554704/utec/",
+    "description": "Uteč - Anders Roslund",
+    "authors": [
+      "Anders Roslund"
+    ],
+    "date": "2026-08-09T07:07:05.902631+00:00"
+  },
+  {
+    "title": "Jak přemýšlet o umělé inteligenci",
+    "url": "https://www.kosmas.cz/knihy/558733/jak-premyslet-o-umele-inteligenci/",
+    "description": "Jak přemýšlet o umělé inteligenci - Richard Susskind",
+    "authors": [
+      "Richard Susskind"
+    ],
+    "date": "2026-08-09T07:07:04.902631+00:00"
+  },
+  {
+    "title": "6 duší u jednoho stolu",
+    "url": "https://www.kosmas.cz/knihy/570983/6-dusi-u-jednoho-stolu/",
+    "description": "6 duší u jednoho stolu - David Svoboda",
+    "authors": [
+      "David Svoboda"
+    ],
+    "date": "2026-08-09T07:07:03.902631+00:00"
+  },
+  {
+    "title": "Křehká odvaha",
+    "url": "https://www.kosmas.cz/knihy/571027/krehka-odvaha/",
+    "description": "Křehká odvaha - Elizabeth Prokešová",
+    "authors": [
+      "Elizabeth Prokešová"
+    ],
+    "date": "2026-08-09T07:07:02.902631+00:00"
+  },
+  {
+    "title": "Fyzika",
+    "url": "https://www.kosmas.cz/knihy/571172/fyzika/",
+    "description": "Fyzika - Aristotelés",
+    "authors": [
+      "Aristotelés"
+    ],
+    "date": "2026-08-09T07:07:01.902631+00:00"
+  },
+  {
+    "title": "Srdce je levou věcí",
+    "url": "https://www.kosmas.cz/knihy/571190/srdce-je-levou-veci/",
+    "description": "Srdce je levou věcí - Sam Sráč",
+    "authors": [
+      "Sam Sráč"
+    ],
+    "date": "2026-08-09T07:07:00.902631+00:00"
+  },
+  {
+    "title": "Našli jejího tátu viset na provaze v hospodě naproti",
+    "url": "https://www.kosmas.cz/knihy/571296/nasli-jejiho-tatu-viset-na-provaze-v-hospode-naproti/",
+    "description": "Našli jejího tátu viset na provaze v hospodě naproti - Irena Šťastná",
+    "authors": [
+      "Irena Šťastná"
+    ],
+    "date": "2026-08-09T07:06:59.902631+00:00"
+  },
+  {
+    "title": "Nepokoje ve Vincule - Složka Duchů 1",
+    "url": "https://www.kosmas.cz/knihy/571301/nepokoje-ve-vincule-slozka-duchu-1/",
+    "description": "Nepokoje ve Vincule - Složka Duchů 1 - Dan Abnett",
+    "authors": [
+      "Dan Abnett"
+    ],
+    "date": "2026-08-09T07:06:58.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Živá Afrika 2027",
+    "url": "https://www.kosmas.cz/knihy/571370/nastenny-kalendar-ziva-afrika-2027/",
+    "description": "Nástěnný kalendář Živá Afrika 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:57.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Květiny – Kvety 2027",
+    "url": "https://www.kosmas.cz/knihy/571373/nastenny-kalendar-kvetiny-kvety-2027/",
+    "description": "Nástěnný kalendář Květiny – Kvety 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:56.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Národní parky Čech a Moravy 2027",
+    "url": "https://www.kosmas.cz/knihy/571374/nastenny-kalendar-narodni-parky-cech-a-moravy-2027/",
+    "description": "Nástěnný kalendář Národní parky Čech a Moravy 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:55.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Hrady a zámky 2027",
+    "url": "https://www.kosmas.cz/knihy/571375/nastenny-kalendar-hrady-a-zamky-2027/",
+    "description": "Nástěnný kalendář Hrady a zámky 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:54.902631+00:00"
+  },
+  {
+    "title": "Spirálový blok Animalium – Sudokopytníci, čistý, A5",
+    "url": "https://www.kosmas.cz/knihy/571377/spiralovy-blok-animalium-sudokopytnici-cisty-a5/",
+    "description": "Spirálový blok Animalium – Sudokopytníci, čistý, A5",
+    "authors": [],
+    "date": "2026-08-09T07:06:53.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Energie 2027",
+    "url": "https://www.kosmas.cz/knihy/571378/nastenny-kalendar-energie-2027/",
+    "description": "Nástěnný kalendář Energie 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:52.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Oldtimers – Václav Zapadlík 2027",
+    "url": "https://www.kosmas.cz/knihy/571380/nastenny-kalendar-oldtimers-vaclav-zapadlik-2027/",
+    "description": "Nástěnný kalendář Oldtimers – Václav Zapadlík 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:51.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Auta 2027",
+    "url": "https://www.kosmas.cz/knihy/571381/nastenny-kalendar-auta-2027/",
+    "description": "Nástěnný kalendář Auta 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:50.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Moře 2027",
+    "url": "https://www.kosmas.cz/knihy/571382/nastenny-kalendar-more-2027/",
+    "description": "Nástěnný kalendář Moře 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:49.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Krajiny 2027",
+    "url": "https://www.kosmas.cz/knihy/571383/nastenny-kalendar-krajiny-2027/",
+    "description": "Nástěnný kalendář Krajiny 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:48.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Zahrady 2027",
+    "url": "https://www.kosmas.cz/knihy/571384/nastenny-kalendar-zahrady-2027/",
+    "description": "Nástěnný kalendář Zahrady 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:47.902631+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář Hory 2027",
+    "url": "https://www.kosmas.cz/knihy/571386/nastenny-kalendar-hory-2027/",
+    "description": "Nástěnný kalendář Hory 2027",
+    "authors": [],
+    "date": "2026-08-09T07:06:46.902631+00:00"
+  },
+  {
     "title": "Tajemství poslední strážkyně",
     "url": "https://www.kosmas.cz/knihy/571940/tajemstvi-posledni-strazkyne/",
     "description": "Tajemství poslední strážkyně - Faycal Berrouche",
@@ -1572,190 +1728,5 @@
       "Chuck Dixon"
     ],
     "date": "2026-07-24T08:36:49.693536+00:00"
-  },
-  {
-    "title": "Království zloby a slibů",
-    "url": "https://www.kosmas.cz/knihy/571449/kralovstvi-zloby-a-slibu/",
-    "description": "Království zloby a slibů - Holly Renee",
-    "authors": [
-      "Holly Renee"
-    ],
-    "date": "2026-07-24T08:36:48.693536+00:00"
-  },
-  {
-    "title": "Domácí rodinný kalendář 2027",
-    "url": "https://www.kosmas.cz/knihy/571450/domaci-rodinny-kalendar-2027/",
-    "description": "Domácí rodinný kalendář 2027 - Pavla Staňková",
-    "authors": [
-      "Pavla Staňková"
-    ],
-    "date": "2026-07-24T08:36:47.693536+00:00"
-  },
-  {
-    "title": "Rodinný kalendář 2027",
-    "url": "https://www.kosmas.cz/knihy/571468/rodinny-kalendar-2027/",
-    "description": "Rodinný kalendář 2027 - Pavla Staňková",
-    "authors": [
-      "Pavla Staňková"
-    ],
-    "date": "2026-07-24T08:36:41.693536+00:00"
-  },
-  {
-    "title": "Královna Kunhuta a Záviš",
-    "url": "https://www.kosmas.cz/knihy/571483/kralovna-kunhuta-a-zavis/",
-    "description": "Královna Kunhuta a Záviš - Hana Whitton",
-    "authors": [
-      "Hana Whitton"
-    ],
-    "date": "2026-07-24T08:36:40.693536+00:00"
-  },
-  {
-    "title": "Válka ševců",
-    "url": "https://www.kosmas.cz/knihy/571538/valka-sevcu/",
-    "description": "Válka ševců - Martin Jemelka, Svatopluk Herc, Ondřej Ševeček, Vojtěch Kessler",
-    "authors": [
-      "Martin Jemelka",
-      "Svatopluk Herc",
-      "Ondřej Ševeček",
-      "Vojtěch Kessler"
-    ],
-    "date": "2026-07-24T08:36:38.693536+00:00"
-  },
-  {
-    "title": "Mrtvé deště",
-    "url": "https://www.kosmas.cz/knihy/571456/mrtve-deste/",
-    "description": "Mrtvé deště - Jan Mašata",
-    "authors": [
-      "Jan Mašata"
-    ],
-    "date": "2026-07-23T08:40:56.043208+00:00"
-  },
-  {
-    "title": "Případ arogantního romanopisce",
-    "url": "https://www.kosmas.cz/knihy/571457/pripad-arogantniho-romanopisce/",
-    "description": "Případ arogantního romanopisce - Václav Gruber",
-    "authors": [
-      "Václav Gruber"
-    ],
-    "date": "2026-07-23T08:40:55.043208+00:00"
-  },
-  {
-    "title": "S cejchem vyvržence",
-    "url": "https://www.kosmas.cz/knihy/571458/s-cejchem-vyvrzence/",
-    "description": "S cejchem vyvržence - Martin Nesměrák",
-    "authors": [
-      "Martin Nesměrák"
-    ],
-    "date": "2026-07-23T08:40:54.043208+00:00"
-  },
-  {
-    "title": "Zmizení mladé dámy",
-    "url": "https://www.kosmas.cz/knihy/571459/zmizeni-mlade-damy/",
-    "description": "Zmizení mladé dámy - Matthew Costello, Neil Richards",
-    "authors": [
-      "Matthew Costello",
-      "Neil Richards"
-    ],
-    "date": "2026-07-23T08:40:53.043208+00:00"
-  },
-  {
-    "title": "Nevěsta z Dračího dvora",
-    "url": "https://www.kosmas.cz/knihy/571461/nevesta-z-draciho-dvora/",
-    "description": "Nevěsta z Dračího dvora - Frost Kay",
-    "authors": [
-      "Frost Kay"
-    ],
-    "date": "2026-07-23T08:40:52.043208+00:00"
-  },
-  {
-    "title": "Nikdy, nikdy, nikdy",
-    "url": "https://www.kosmas.cz/knihy/571501/nikdy-nikdy-nikdy/",
-    "description": "Nikdy, nikdy, nikdy - Linn Stromsborg",
-    "authors": [
-      "Linn Stromsborg"
-    ],
-    "date": "2026-07-23T08:40:51.043208+00:00"
-  },
-  {
-    "title": "Smrtelně raněný",
-    "url": "https://www.kosmas.cz/knihy/570617/smrtelne-raneny/",
-    "description": "Smrtelně raněný - Raffaele La Capria",
-    "authors": [
-      "Raffaele La Capria"
-    ],
-    "date": "2026-07-23T08:40:50.043208+00:00"
-  },
-  {
-    "title": "Do křídel andělů aneb smrt není monstrum",
-    "url": "https://www.kosmas.cz/knihy/571063/do-kridel-andelu-aneb-smrt-neni-monstrum/",
-    "description": "Do křídel andělů aneb smrt není monstrum - Ria Kadlecová",
-    "authors": [
-      "Ria Kadlecová"
-    ],
-    "date": "2026-07-23T08:40:49.043208+00:00"
-  },
-  {
-    "title": "Věda a technika ve schwarzenberských knižních sbírkách",
-    "url": "https://www.kosmas.cz/knihy/571278/veda-a-technika-ve-schwarzenberskych-kniznich-sbirkach/",
-    "description": "Věda a technika ve schwarzenberských knižních sbírkách - Pavel Hájek, Jiří Žahour",
-    "authors": [
-      "Pavel Hájek",
-      "Jiří Žahour"
-    ],
-    "date": "2026-07-23T08:40:48.043208+00:00"
-  },
-  {
-    "title": "Venkov",
-    "url": "https://www.kosmas.cz/knihy/571281/venkov/",
-    "description": "Venkov - Petr Šmíd",
-    "authors": [
-      "Petr Šmíd"
-    ],
-    "date": "2026-07-23T08:40:47.043208+00:00"
-  },
-  {
-    "title": "Eustoma",
-    "url": "https://www.kosmas.cz/knihy/571282/eustoma/",
-    "description": "Eustoma - Jan Lassner",
-    "authors": [
-      "Jan Lassner"
-    ],
-    "date": "2026-07-23T08:40:46.043208+00:00"
-  },
-  {
-    "title": "Tváře nabílené rýžovým pudrem",
-    "url": "https://www.kosmas.cz/knihy/571283/tvare-nabilene-ryzovym-pudrem/",
-    "description": "Tváře nabílené rýžovým pudrem - Radek Fridrich",
-    "authors": [
-      "Radek Fridrich"
-    ],
-    "date": "2026-07-23T08:40:45.043208+00:00"
-  },
-  {
-    "title": "Heterocosmica I.",
-    "url": "https://www.kosmas.cz/knihy/571286/heterocosmica-i/",
-    "description": "Heterocosmica I. - Lubomír Doležel",
-    "authors": [
-      "Lubomír Doležel"
-    ],
-    "date": "2026-07-23T08:40:44.043208+00:00"
-  },
-  {
-    "title": "Úvahy o příčinách svobody a společenského útisku",
-    "url": "https://www.kosmas.cz/knihy/571287/uvahy-o-pricinach-svobody-a-spolecenskeho-utisku/",
-    "description": "Úvahy o příčinách svobody a společenského útisku - Simone Weilová",
-    "authors": [
-      "Simone Weilová"
-    ],
-    "date": "2026-07-23T08:40:43.043208+00:00"
-  },
-  {
-    "title": "Malovat svět a Svítání",
-    "url": "https://www.kosmas.cz/knihy/571323/malovat-svet-a-svitani/",
-    "description": "Malovat svět a Svítání - Jarmila Plotěná",
-    "authors": [
-      "Jarmila Plotěná"
-    ],
-    "date": "2026-07-23T08:40:42.043208+00:00"
   }
 ]

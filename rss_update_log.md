@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-09 07:07:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Uteč
+2. Jak přemýšlet o umělé inteligenci
+3. 6 duší u jednoho stolu
+4. Křehká odvaha
+5. Fyzika
+6. Srdce je levou věcí
+7. Našli jejího tátu viset na provaze v hospodě naproti
+8. Nepokoje ve Vincule - Složka Duchů 1
+9. Nástěnný kalendář Živá Afrika 2027
+10. Nástěnný kalendář Květiny – Kvety 2027
+11. Nástěnný kalendář Národní parky Čech a Moravy 2027
+12. Nástěnný kalendář Hrady a zámky 2027
+13. Spirálový blok Animalium – Sudokopytníci, čistý, A5
+14. Nástěnný kalendář Energie 2027
+15. Nástěnný kalendář Oldtimers – Václav Zapadlík 2027
+16. Nástěnný kalendář Auta 2027
+17. Nástěnný kalendář Moře 2027
+18. Nástěnný kalendář Krajiny 2027
+19. Nástěnný kalendář Zahrady 2027
+20. Nástěnný kalendář Hory 2027
+
+---
+
+## 🕐 2026-08-09 07:07:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-08 07:04:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -283,26 +326,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-08-02 08:33:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-08-01 08:30:31 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-08-01 08:30:29 UTC
 
 **Zdroj:** H7O - Časopis Host
 

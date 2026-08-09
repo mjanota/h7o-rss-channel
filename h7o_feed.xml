@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:07:05 +0000</lastBuildDate>
     <item>
       <title>Hlasy proti zapomnění</title>
       <link>https://www.h7o.cz/clanky/14577-hlasy-proti-zapomneni</link>
@@ -448,13 +448,6 @@
       <description>V básních Jana Škroba lze vnímat konejšivou přítomnost mezilidského i mezidruhového pochopení, stejně jako postapokalyptické situace. Už předchozí díla oceňovaného básníka v sobě nesla element dobrodružného zkoumání. „Zámoří“ nás ale zanese zase o kus dál.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14513-prijmout-nejistotu-jako-vychodisko</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opilost</title>
-      <link>https://www.h7o.cz/clanky/14509-opilost</link>
-      <description>V rubrice Druhá vášeň se spisovatelů ptáme na to, co je pro ně stejně důležité jako psaní, ale co s psaním vůbec nesouvisí. A někdy taky ano. Jaká je druhá vášeň Petra Šestáka?</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14509-opilost</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
