@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-10 07:55:34 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Bezmocně
+2. Olmerka
+3. Lakestone: Srdce temnoty
+4. Rok v keramické dílně
+5. Mariborská hypnóza
+6. Navždy s láskou Lara Jean
+7. Auta - Kamarádi auta - Komiksové příběhy
+8. Dobrodružství medvídka Paddingtona - Veselé příhody
+9. Kaštánek: Jedna, dvě
+10. Krvavá lázeň
+11. O chytré kmotře lišce
+12. Pomsta
+13. Táta to motá
+14. Vystřihovánky - České hrady
+15. Vlčí smečka: Vlk samotář
+16. Vystřihovánky - Pražské památky
+17. Ztraceni v čase
+18. Záhada hlavolamu (sběratelské vydání)
+19. Sebevědomí - 8 kroků k poznání vlastní hodnoty
+
+---
+
+## 🕐 2026-08-10 07:55:33 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Pomalost: radši rychle zapomenout
+
+---
+
 ## 🕐 2026-08-09 07:07:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -312,26 +358,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Stoprocentní rabat
-
----
-
-## 🕐 2026-08-02 08:33:04 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-08-02 08:33:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
