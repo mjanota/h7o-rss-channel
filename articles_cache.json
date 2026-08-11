@@ -1,13 +1,5 @@
 [
   {
-    "title": "Viking type raid",
-    "url": "https://www.h7o.cz/clanky/14517-viking-type-raid",
-    "description": "Sobotní zápas Slavie a Sparty spojil českou společnost, která si notovala nad odsouzením fanouškovského primitivismu. Pojmosloví a emocionalita mladé generace nám možná dopomohou k trochu pestřejšímu obrazu nájezdu na hrací plochu.",
-    "date": "2026-05-13T00:00:00",
-    "author": "Jan Géryk",
-    "category": "sloupek"
-  },
-  {
     "title": "Proč lidé hráli divadlo na takovémto místě?",
     "url": "https://www.h7o.cz/clanky/14510-proc-lide-hrali-divadlo-na-takovemto-miste",
     "description": "Teatroložka Lisa Peschel z University of York se více než dvě dekády zabývá divadelní kulturou v terezínském ghettu. V čem byly hry z koncentračního tábora specifické? A proč většinu tvořily komedie? Při příležitosti bohemistického kongresu s autorkou hovořil Kryštof Kočtář.",
@@ -502,5 +494,13 @@
     "date": "2026-08-10T00:00:00",
     "author": "Jan Němec",
     "category": "recenze"
+  },
+  {
+    "title": "Prosekat si vlastní cestu, když ta vedlejší je vám protivná",
+    "url": "https://www.h7o.cz/clanky/14579-prosekat-si-vlastni-cestu-kdyz-ta-vedlejsi-je-vam-protivna",
+    "description": "„Občas se mi sešly tak povedené texty, že mi přišlo nejlepší se o to postarat vlastními silami,“ komentuje rozšíření projektu Nedělní chvilka poezieCZ jeho zakladatel Karel Škrabal. Spolu s redaktorem Filipem Klegou přibližují, proč se vydali na nakladatelskou cestu a jak vybírají své souputnictvo.",
+    "date": "2026-08-11T00:00:00",
+    "author": "Jan B. Peňás",
+    "category": "rozhovor"
   }
 ]
