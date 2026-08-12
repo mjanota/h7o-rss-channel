@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:42:42 +0000</lastBuildDate>
+    <item>
+      <title>Trest za queer literaturu</title>
+      <link>https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu</link>
+      <description>Bývalý šéf ruského nakladatelství Popcorn Books dostal u moskevského soudu podmínku za „LGBTQ+ extremismus“.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Prosekat si vlastní cestu, když ta vedlejší je vám protivná</title>
       <link>https://www.h7o.cz/clanky/14579-prosekat-si-vlastni-cestu-kdyz-ta-vedlejsi-je-vam-protivna</link>
@@ -441,13 +448,6 @@
       <description>Hnacím motorem mnohých básní sbírky „Viktor“ Kamila Boušky je hněv. Obzvláště pak těch adresovaných Kamilu Bouškovi a jemu podobným.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14519-victus</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proč lidé hráli divadlo na takovémto místě?</title>
-      <link>https://www.h7o.cz/clanky/14510-proc-lide-hrali-divadlo-na-takovemto-miste</link>
-      <description>Teatroložka Lisa Peschel z University of York se více než dvě dekády zabývá divadelní kulturou v terezínském ghettu. V čem byly hry z koncentračního tábora specifické? A proč většinu tvořily komedie? Při příležitosti bohemistického kongresu s autorkou hovořil Kryštof Kočtář.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14510-proc-lide-hrali-divadlo-na-takovemto-miste</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

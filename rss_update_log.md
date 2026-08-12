@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-12 07:42:43 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. S tebou navždy
+2. Tohle fakt nevymyslíš!
+3. Poslové úsvitu pro děti
+4. Za zdí
+5. Legie Wallonie
+6. Člověk a duše
+7. Postava (Personnage)
+8. Kapybara Kapík
+9. Lovci sobů
+10. U potoka
+11. Nebe je pořád fialové
+12. Bez úzkosti
+13. Paměti
+14. Dvoustěžňové lodě a malá plavidla
+15. Uni 8/2026
+16. Zmizení mladé dámy
+17. S cejchem vyvržence
+18. Případ arogantního romanopisce
+19. Zvěrolékař a kočičí historky
+20. Bratrstvo neohrožených: Velitel
+
+---
+
+## 🕐 2026-08-12 07:42:42 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Trest za queer literaturu
+
+---
+
 ## 🕐 2026-08-11 07:18:52 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -316,46 +363,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Knihovny z druhé ruky
-
----
-
-## 🕐 2026-08-04 08:49:41 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Paměť a dějiny č. 2/2026
-2. Old Surehand - V Llanu Estacadu
-3. Star Wars - Jedi: Padlý řád 2
-4. Usagi Yojimbo 40: Vrána
-5. Stará postel
-6. Prostě na mě zapomněli
-7. Deníky apatykářky 6
-8. Marcialovo tajemství
-9. Hra titánů: Výstup na nebesa
-10. ABBA. Skrytá melancholie
-11. Bouře nekonečné krásy
-12. Křížovky pro babičku - velká písmena
-13. Zabijáci démonů ve škole! 2: Noční exkurze
-
----
-
-## 🕐 2026-08-04 08:49:39 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Jak učinit vlastní já čitelným: Česká poezie ve Frankfurtu
 
 ---
 

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Proč lidé hráli divadlo na takovémto místě?",
-    "url": "https://www.h7o.cz/clanky/14510-proc-lide-hrali-divadlo-na-takovemto-miste",
-    "description": "Teatroložka Lisa Peschel z University of York se více než dvě dekády zabývá divadelní kulturou v terezínském ghettu. V čem byly hry z koncentračního tábora specifické? A proč většinu tvořily komedie? Při příležitosti bohemistického kongresu s autorkou hovořil Kryštof Kočtář.",
-    "date": "2026-05-14T00:00:00",
-    "author": "Kryštof Kočtář",
-    "category": "seriál"
-  },
-  {
     "title": "Victus",
     "url": "https://www.h7o.cz/clanky/14519-victus",
     "description": "Hnacím motorem mnohých básní sbírky „Viktor“ Kamila Boušky je hněv. Obzvláště pak těch adresovaných Kamilu Bouškovi a jemu podobným.",
@@ -502,5 +494,13 @@
     "date": "2026-08-11T00:00:00",
     "author": "Jan B. Peňás",
     "category": "rozhovor"
+  },
+  {
+    "title": "Trest za queer literaturu",
+    "url": "https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu",
+    "description": "Bývalý šéf ruského nakladatelství Popcorn Books dostal u moskevského soudu podmínku za „LGBTQ+ extremismus“.",
+    "date": "2026-08-12T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]
