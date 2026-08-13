@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:44:27 +0000</lastBuildDate>
+    <item>
+      <title>Návrat ke knize jako artefaktu</title>
+      <link>https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu</link>
+      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, že kniha jako artefakt zažívá renesanci.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trest za queer literaturu</title>
       <link>https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu</link>
@@ -441,13 +448,6 @@
       <description>Málo se ví, že spisovatel Egon Hostovský měl syna, a ten se navíc sám věnuje psaní. Paul Hostovsky (nar. 1958) patří mezi nejzajímavější americké básníky současnosti. Překlady několika jeho básní se loni objevily v antologii americké poezie „Dinosauři v ulicích“, kterou uspořádal Jan Zikmund. Teď…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Victus</title>
-      <link>https://www.h7o.cz/clanky/14519-victus</link>
-      <description>Hnacím motorem mnohých básní sbírky „Viktor“ Kamila Boušky je hněv. Obzvláště pak těch adresovaných Kamilu Bouškovi a jemu podobným.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14519-victus</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

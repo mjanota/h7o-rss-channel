@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-13 07:44:28 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Právo azylu
+2. Piškotový mord
+3. Sladká tečka
+4. Zhýralec
+5. Pozorovatel
+6. Válka dvou královen
+7. Zamilovaná holka
+8. Bloncka na Stezce Českem
+9. Tohle fakt nevymyslíš!
+10. Patro bez čísla
+11. Letní hosté
+12. Pražské adresy
+13. Všechno za jejich dech
+14. Tajemství a výklad pohádek: Honza málem králem
+15. Postrach strážných andělů
+16. Mania: Cesta z pekla
+17. Šumavský landart
+18. Fotovoltaika
+19. Planeta Země
+20. 1000 zvídavých otázek a 1000 poutavých odpovědí
+
+---
+
+## 🕐 2026-08-13 07:44:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Návrat ke knize jako artefaktu
+
+---
+
 ## 🕐 2026-08-12 07:42:43 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -318,51 +365,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Temná paralela i velkolepé dobrodružství
-
----
-
-## 🕐 2026-08-05 08:46:52 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Virus štěstí
-2. Nebezpečná terapie
-3. Meditace o svatém Václavovi a hrozných příbuzných
-4. Noc zločinů
-5. Parazit
-6. Příběh kočky a dýmky
-7. Vlakař
-8. Zloději železa
-9. Zpěv slavíka
-10. Chovanci
-11. Adam ze Zbraslavi a případ kralevice Jana
-12. Všem klukům, které jsem milovala
-13. Barabizna
-14. Státní maturita z českého jazyka – cvičebnice k didaktickému testu pro SŠ
-15. LEGO® Minecraft® Cesta za dobrodružstvím
-16. Miluj svůj život 2027 - kalendář
-17. Dinosauři samolepky a aktivity
-18. Na farmě samolepky a aktivity
-
----
-
-## 🕐 2026-08-05 08:46:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Knihovny z druhé ruky
 
 ---
 

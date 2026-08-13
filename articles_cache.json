@@ -1,13 +1,5 @@
 [
   {
-    "title": "Victus",
-    "url": "https://www.h7o.cz/clanky/14519-victus",
-    "description": "Hnacím motorem mnohých básní sbírky „Viktor“ Kamila Boušky je hněv. Obzvláště pak těch adresovaných Kamilu Bouškovi a jemu podobným.",
-    "date": "2026-05-15T00:00:00",
-    "author": "Kryštof Mec",
-    "category": "recenze"
-  },
-  {
     "title": "O ČSSR jsem toho jako dítě příliš nevěděl",
     "url": "https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel",
     "description": "Málo se ví, že spisovatel Egon Hostovský měl syna, a ten se navíc sám věnuje psaní. Paul Hostovsky (nar. 1958) patří mezi nejzajímavější americké básníky současnosti. Překlady několika jeho básní se loni objevily v antologii americké poezie „Dinosauři v ulicích“, kterou uspořádal Jan Zikmund. Teď…",
@@ -502,5 +494,13 @@
     "date": "2026-08-12T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Návrat ke knize jako artefaktu",
+    "url": "https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, že kniha jako artefakt zažívá renesanci.",
+    "date": "2026-08-13T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]
