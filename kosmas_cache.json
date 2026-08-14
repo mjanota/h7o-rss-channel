@@ -1,5 +1,136 @@
 [
   {
+    "title": "Zaklínač IX.: Rozcestí krkavců",
+    "url": "https://www.kosmas.cz/knihy/571954/zaklinac-ix.-rozcesti-krkavcu/",
+    "description": "Zaklínač IX.: Rozcestí krkavců - Andrzej Sapkowski",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "date": "2026-08-14T07:42:24.395380+00:00"
+  },
+  {
+    "title": "Zaklínač VIII: Bouřková sezóna",
+    "url": "https://www.kosmas.cz/knihy/571957/zaklinac-viii-bourkova-sezona/",
+    "description": "Zaklínač VIII: Bouřková sezóna - Andrzej Sapkowski",
+    "authors": [
+      "Andrzej Sapkowski"
+    ],
+    "date": "2026-08-14T07:42:23.395380+00:00"
+  },
+  {
+    "title": "Manžel a žízeň jsou věčné",
+    "url": "https://www.kosmas.cz/knihy/572047/manzel-a-zizen-jsou-vecne/",
+    "description": "Manžel a žízeň jsou věčné - Alena Jakoubková",
+    "authors": [
+      "Alena Jakoubková"
+    ],
+    "date": "2026-08-14T07:42:22.395380+00:00"
+  },
+  {
+    "title": "Eddie Jordan: Na plný plyn",
+    "url": "https://www.kosmas.cz/knihy/572084/eddie-jordan-na-plny-plyn/",
+    "description": "Eddie Jordan: Na plný plyn - Keith O'Loughlin",
+    "authors": [
+      "Keith O'Loughlin"
+    ],
+    "date": "2026-08-14T07:42:21.395380+00:00"
+  },
+  {
+    "title": "Jistě, pane ministře 1.",
+    "url": "https://www.kosmas.cz/knihy/561494/jiste-pane-ministre-1/",
+    "description": "Jistě, pane ministře 1. - Antony Jay, Jonathan Lynn",
+    "authors": [
+      "Antony Jay",
+      "Jonathan Lynn"
+    ],
+    "date": "2026-08-14T07:42:20.395380+00:00"
+  },
+  {
+    "title": "Mindfulness pro teenagery",
+    "url": "https://www.kosmas.cz/knihy/571507/mindfulness-pro-teenagery/",
+    "description": "Mindfulness pro teenagery - Jennie Marie Battistin",
+    "authors": [
+      "Jennie Marie Battistin"
+    ],
+    "date": "2026-08-14T07:42:19.395380+00:00"
+  },
+  {
+    "title": "Poznáš jejich hlasy? Zvířata",
+    "url": "https://www.kosmas.cz/knihy/571579/poznas-jejich-hlasy-zvirata/",
+    "description": "Poznáš jejich hlasy? Zvířata",
+    "authors": [],
+    "date": "2026-08-14T07:42:18.395380+00:00"
+  },
+  {
+    "title": "Mňaudoku: 75 rébusů s kočičími krimi záhadami",
+    "url": "https://www.kosmas.cz/knihy/570605/mnaudoku-75-rebusu-s-kocicimi-krimi-zahadami/",
+    "description": "Mňaudoku: 75 rébusů s kočičími krimi záhadami - Ayres Jayne Laura, Gareth Moore",
+    "authors": [
+      "Ayres Jayne Laura",
+      "Gareth Moore"
+    ],
+    "date": "2026-08-14T07:42:17.395380+00:00"
+  },
+  {
+    "title": "Peppa Pig - Tomík zase slyší!",
+    "url": "https://www.kosmas.cz/knihy/570613/peppa-pig-tomik-zase-slysi/",
+    "description": "Peppa Pig - Tomík zase slyší! - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-08-14T07:42:16.395380+00:00"
+  },
+  {
+    "title": "Postava (Personnage)",
+    "url": "https://www.kosmas.cz/knihy/571021/postava-personnage/",
+    "description": "Postava (Personnage) - Matouš Erik Bezděk",
+    "authors": [
+      "Matouš Erik Bezděk"
+    ],
+    "date": "2026-08-14T07:42:15.395380+00:00"
+  },
+  {
+    "title": "Neusínej",
+    "url": "https://www.kosmas.cz/knihy/571774/neusinej/",
+    "description": "Neusínej - Tamara Martínez",
+    "authors": [
+      "Tamara Martínez"
+    ],
+    "date": "2026-08-14T07:42:14.395380+00:00"
+  },
+  {
+    "title": "Hrátky s matikou (6+)",
+    "url": "https://www.kosmas.cz/knihy/571881/hratky-s-matikou-6/",
+    "description": "Hrátky s matikou (6+)",
+    "authors": [],
+    "date": "2026-08-14T07:42:13.395380+00:00"
+  },
+  {
+    "title": "Hrátky s písmeny (6+)",
+    "url": "https://www.kosmas.cz/knihy/571882/hratky-s-pismeny-6/",
+    "description": "Hrátky s písmeny (6+)",
+    "authors": [],
+    "date": "2026-08-14T07:42:12.395380+00:00"
+  },
+  {
+    "title": "Hlavní jídla, pečivo a speciality 1 – bezlepkově",
+    "url": "https://www.kosmas.cz/knihy/571939/hlavni-jidla-pecivo-a-speciality-1-bezlepkove/",
+    "description": "Hlavní jídla, pečivo a speciality 1 – bezlepkově - Vladěna Halatová",
+    "authors": [
+      "Vladěna Halatová"
+    ],
+    "date": "2026-08-14T07:42:10.395380+00:00"
+  },
+  {
+    "title": "Ženský koncentrační tábor Svatava",
+    "url": "https://www.kosmas.cz/knihy/572011/zensky-koncentracni-tabor-svatava/",
+    "description": "Ženský koncentrační tábor Svatava - Luděk Jaša",
+    "authors": [
+      "Luděk Jaša"
+    ],
+    "date": "2026-08-14T07:42:09.395380+00:00"
+  },
+  {
     "title": "Právo azylu",
     "url": "https://www.kosmas.cz/knihy/571929/pravo-azylu/",
     "description": "Právo azylu - Ellis Petersová",
@@ -1588,139 +1719,5 @@
       "kol."
     ],
     "date": "2026-08-04T08:49:23.399336+00:00"
-  },
-  {
-    "title": "Zabijáci démonů ve škole! 2: Noční exkurze",
-    "url": "https://www.kosmas.cz/knihy/571415/zabijaci-demonu-ve-skole-2-nocni-exkurze/",
-    "description": "Zabijáci démonů ve škole! 2: Noční exkurze - Nacuki Hokami, Kojoharu Gotóge",
-    "authors": [
-      "Nacuki Hokami",
-      "Kojoharu Gotóge"
-    ],
-    "date": "2026-08-04T08:49:22.399336+00:00"
-  },
-  {
-    "title": "Ztracené světlo",
-    "url": "https://www.kosmas.cz/knihy/570767/ztracene-svetlo/",
-    "description": "Ztracené světlo - Michael Connelly",
-    "authors": [
-      "Michael Connelly"
-    ],
-    "date": "2026-08-03T10:00:16.363462+00:00"
-  },
-  {
-    "title": "Na hraně touhy",
-    "url": "https://www.kosmas.cz/knihy/571307/na-hrane-touhy/",
-    "description": "Na hraně touhy - Lucie Srňánková",
-    "authors": [
-      "Lucie Srňánková"
-    ],
-    "date": "2026-08-03T10:00:15.363462+00:00"
-  },
-  {
-    "title": "Pastvina zmizelých",
-    "url": "https://www.kosmas.cz/knihy/571451/pastvina-zmizelych/",
-    "description": "Pastvina zmizelých - Václav Erben",
-    "authors": [
-      "Václav Erben"
-    ],
-    "date": "2026-08-03T10:00:14.363462+00:00"
-  },
-  {
-    "title": "Kalendář 2027 Brno - nástěnný",
-    "url": "https://www.kosmas.cz/knihy/571559/kalendar-2027-brno-nastenny/",
-    "description": "Kalendář 2027 Brno - nástěnný",
-    "authors": [],
-    "date": "2026-08-03T10:00:13.363462+00:00"
-  },
-  {
-    "title": "Tohle nikdo nečekal",
-    "url": "https://www.kosmas.cz/knihy/571693/tohle-nikdo-necekal/",
-    "description": "Tohle nikdo nečekal - Shari Lapena",
-    "authors": [
-      "Shari Lapena"
-    ],
-    "date": "2026-08-03T10:00:12.363462+00:00"
-  },
-  {
-    "title": "Expozice",
-    "url": "https://www.kosmas.cz/knihy/571700/expozice/",
-    "description": "Expozice - Remigiusz Mróz",
-    "authors": [
-      "Remigiusz Mróz"
-    ],
-    "date": "2026-08-03T10:00:11.363462+00:00"
-  },
-  {
-    "title": "Všechno při starém",
-    "url": "https://www.kosmas.cz/knihy/571701/vsechno-pri-starem/",
-    "description": "Všechno při starém - Claire Lombardo",
-    "authors": [
-      "Claire Lombardo"
-    ],
-    "date": "2026-08-03T10:00:10.363462+00:00"
-  },
-  {
-    "title": "Trampoty dětí, rodičů, advokátů",
-    "url": "https://www.kosmas.cz/knihy/571796/trampoty-deti-rodicu-advokatu/",
-    "description": "Trampoty dětí, rodičů, advokátů - Daniela Kovářová",
-    "authors": [
-      "Daniela Kovářová"
-    ],
-    "date": "2026-08-03T10:00:09.363462+00:00"
-  },
-  {
-    "title": "Sirotčinec u jezera",
-    "url": "https://www.kosmas.cz/knihy/567679/sirotcinec-u-jezera/",
-    "description": "Sirotčinec u jezera - Daniel G. Miller",
-    "authors": [
-      "Daniel G. Miller"
-    ],
-    "date": "2026-08-03T10:00:08.363462+00:00"
-  },
-  {
-    "title": "Kód lásky",
-    "url": "https://www.kosmas.cz/knihy/568354/kod-lasky/",
-    "description": "Kód lásky - Anne Lane",
-    "authors": [
-      "Anne Lane"
-    ],
-    "date": "2026-08-03T10:00:07.363462+00:00"
-  },
-  {
-    "title": "Svitupád",
-    "url": "https://www.kosmas.cz/knihy/568358/svitupad/",
-    "description": "Svitupád - Ed Crocker",
-    "authors": [
-      "Ed Crocker"
-    ],
-    "date": "2026-08-03T10:00:06.363462+00:00"
-  },
-  {
-    "title": "Kruguerský masakr",
-    "url": "https://www.kosmas.cz/knihy/568511/kruguersky-masakr/",
-    "description": "Kruguerský masakr - Luciano Lamberti",
-    "authors": [
-      "Luciano Lamberti"
-    ],
-    "date": "2026-08-03T10:00:05.363462+00:00"
-  },
-  {
-    "title": "Šťastnější každý den",
-    "url": "https://www.kosmas.cz/knihy/569975/stastnejsi-kazdy-den/",
-    "description": "Šťastnější každý den - Rafael Santandreu",
-    "authors": [
-      "Rafael Santandreu"
-    ],
-    "date": "2026-08-03T10:00:04.363462+00:00"
-  },
-  {
-    "title": "Nýřany - historie města",
-    "url": "https://www.kosmas.cz/knihy/570721/nyrany-historie-mesta/",
-    "description": "Nýřany - historie města - Radka Kinkorová",
-    "authors": [
-      "Radka Kinkorová"
-    ],
-    "date": "2026-08-03T10:00:03.363462+00:00"
   }
 ]
