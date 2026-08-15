@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-15 06:50:11 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Devět duchů
+2. S tebou navždy
+3. Muž, který věděl příliš mnoho
+4. Sebastian Kneipp a jeho svět léčivých bylin
+5. Ve stínu Jupitera
+6. Tajemství mozku srozumitelně
+7. Pohádkové Háčkování
+8. Vzestup a pád lidské mysli
+9. Dněpr 1943
+10. My, nezastavitelní
+11. Kryštof ÁDéHáDě - A co dál?
+12. Albánie – Marco Polo
+13. Portugalsko – Marco Polo
+14. Slovensko – Marco Polo
+15. Slovinsko – Marco Polo
+16. Mýty, báje a pověsti Slavkovského lesa (1. díl)
+17. Richardovy živé hračky
+
+---
+
+## 🕐 2026-08-15 06:50:09 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Proč sakra tolik protože
+
+---
+
 ## 🕐 2026-08-14 07:42:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

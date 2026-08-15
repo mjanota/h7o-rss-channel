@@ -1,5 +1,157 @@
 [
   {
+    "title": "Devět duchů",
+    "url": "https://www.kosmas.cz/knihy/565965/devet-duchu/",
+    "description": "Devět duchů - Richard Henry Malden",
+    "authors": [
+      "Richard Henry Malden"
+    ],
+    "date": "2026-08-15T06:50:10.995463+00:00"
+  },
+  {
+    "title": "S tebou navždy",
+    "url": "https://www.kosmas.cz/knihy/553882/s-tebou-navzdy/",
+    "description": "S tebou navždy - Jan Steinbach",
+    "authors": [
+      "Jan Steinbach"
+    ],
+    "date": "2026-08-15T06:50:09.995463+00:00"
+  },
+  {
+    "title": "Muž, který věděl příliš mnoho",
+    "url": "https://www.kosmas.cz/knihy/571706/muz-ktery-vedel-prilis-mnoho/",
+    "description": "Muž, který věděl příliš mnoho - Petr Prucha",
+    "authors": [
+      "Petr Prucha"
+    ],
+    "date": "2026-08-15T06:50:08.995463+00:00"
+  },
+  {
+    "title": "Sebastian Kneipp a jeho svět léčivých bylin",
+    "url": "https://www.kosmas.cz/knihy/571778/sebastian-kneipp-a-jeho-svet-lecivych-bylin/",
+    "description": "Sebastian Kneipp a jeho svět léčivých bylin - Jiří Kuchař, Petr Sedláček",
+    "authors": [
+      "Jiří Kuchař",
+      "Petr Sedláček"
+    ],
+    "date": "2026-08-15T06:50:07.995463+00:00"
+  },
+  {
+    "title": "Ve stínu Jupitera",
+    "url": "https://www.kosmas.cz/knihy/571792/ve-stinu-jupitera/",
+    "description": "Ve stínu Jupitera - L. B. Arling",
+    "authors": [
+      "L. B. Arling"
+    ],
+    "date": "2026-08-15T06:50:06.995463+00:00"
+  },
+  {
+    "title": "Tajemství mozku srozumitelně",
+    "url": "https://www.kosmas.cz/knihy/571877/tajemstvi-mozku-srozumitelne/",
+    "description": "Tajemství mozku srozumitelně - Ben Biggs",
+    "authors": [
+      "Ben Biggs"
+    ],
+    "date": "2026-08-15T06:50:05.995463+00:00"
+  },
+  {
+    "title": "Pohádkové Háčkování",
+    "url": "https://www.kosmas.cz/knihy/571878/pohadkove-hackovani/",
+    "description": "Pohádkové Háčkování",
+    "authors": [],
+    "date": "2026-08-15T06:50:04.995463+00:00"
+  },
+  {
+    "title": "Vzestup a pád lidské mysli",
+    "url": "https://www.kosmas.cz/knihy/571879/vzestup-a-pad-lidske-mysli/",
+    "description": "Vzestup a pád lidské mysli - Martin Jan Stránský",
+    "authors": [
+      "Martin Jan Stránský"
+    ],
+    "date": "2026-08-15T06:50:03.995463+00:00"
+  },
+  {
+    "title": "Dněpr 1943",
+    "url": "https://www.kosmas.cz/knihy/571880/dnepr-1943/",
+    "description": "Dněpr 1943 - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-08-15T06:50:02.995463+00:00"
+  },
+  {
+    "title": "My, nezastavitelní",
+    "url": "https://www.kosmas.cz/knihy/571931/my-nezastavitelni/",
+    "description": "My, nezastavitelní - Yuval Noah Harari",
+    "authors": [
+      "Yuval Noah Harari"
+    ],
+    "date": "2026-08-15T06:50:01.995463+00:00"
+  },
+  {
+    "title": "Kryštof ÁDéHáDě - A co dál?",
+    "url": "https://www.kosmas.cz/knihy/571947/krystof-adehade-a-co-dal/",
+    "description": "Kryštof ÁDéHáDě - A co dál? - Pavlína Brzáková",
+    "authors": [
+      "Pavlína Brzáková"
+    ],
+    "date": "2026-08-15T06:50:00.995463+00:00"
+  },
+  {
+    "title": "Albánie – Marco Polo",
+    "url": "https://www.kosmas.cz/knihy/571996/albanie-marco-polo/",
+    "description": "Albánie – Marco Polo - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-08-15T06:49:57.995463+00:00"
+  },
+  {
+    "title": "Portugalsko – Marco Polo",
+    "url": "https://www.kosmas.cz/knihy/571997/portugalsko-marco-polo/",
+    "description": "Portugalsko – Marco Polo - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-08-15T06:49:56.995463+00:00"
+  },
+  {
+    "title": "Slovensko – Marco Polo",
+    "url": "https://www.kosmas.cz/knihy/571998/slovensko-marco-polo/",
+    "description": "Slovensko – Marco Polo - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-08-15T06:49:55.995463+00:00"
+  },
+  {
+    "title": "Slovinsko – Marco Polo",
+    "url": "https://www.kosmas.cz/knihy/571999/slovinsko-marco-polo/",
+    "description": "Slovinsko – Marco Polo - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-08-15T06:49:54.995463+00:00"
+  },
+  {
+    "title": "Mýty, báje a pověsti Slavkovského lesa (1. díl)",
+    "url": "https://www.kosmas.cz/knihy/572010/myty-baje-a-povesti-slavkovskeho-lesa-1.-dil/",
+    "description": "Mýty, báje a pověsti Slavkovského lesa (1. díl) - Luděk Jaša",
+    "authors": [
+      "Luděk Jaša"
+    ],
+    "date": "2026-08-15T06:49:53.995463+00:00"
+  },
+  {
+    "title": "Richardovy živé hračky",
+    "url": "https://www.kosmas.cz/knihy/572028/richardovy-zive-hracky/",
+    "description": "Richardovy živé hračky - Kristina Haidingerová",
+    "authors": [
+      "Kristina Haidingerová"
+    ],
+    "date": "2026-08-15T06:49:52.995463+00:00"
+  },
+  {
     "title": "Zaklínač IX.: Rozcestí krkavců",
     "url": "https://www.kosmas.cz/knihy/571954/zaklinac-ix.-rozcesti-krkavcu/",
     "description": "Zaklínač IX.: Rozcestí krkavců - Andrzej Sapkowski",
@@ -1567,157 +1719,5 @@
       "Lucie Hlavinková"
     ],
     "date": "2026-08-05T08:46:40.142583+00:00"
-  },
-  {
-    "title": "Státní maturita z českého jazyka – cvičebnice k didaktickému testu pro SŠ",
-    "url": "https://www.kosmas.cz/knihy/570530/statni-maturita-z-ceskeho-jazyka-cvicebnice-k-didaktickemu-testu-pro-ss/",
-    "description": "Státní maturita z českého jazyka – cvičebnice k didaktickému testu pro SŠ - Vladimíra Bušinová, Andrea Chatrná",
-    "authors": [
-      "Vladimíra Bušinová",
-      "Andrea Chatrná"
-    ],
-    "date": "2026-08-05T08:46:39.142583+00:00"
-  },
-  {
-    "title": "LEGO® Minecraft® Cesta za dobrodružstvím",
-    "url": "https://www.kosmas.cz/knihy/570604/lego-minecraft-cesta-za-dobrodruzstvim/",
-    "description": "LEGO® Minecraft® Cesta za dobrodružstvím",
-    "authors": [],
-    "date": "2026-08-05T08:46:38.142583+00:00"
-  },
-  {
-    "title": "Miluj svůj život 2027 - kalendář",
-    "url": "https://www.kosmas.cz/knihy/570752/miluj-svuj-zivot-2027-kalendar/",
-    "description": "Miluj svůj život 2027 - kalendář - Lucie Ernestová",
-    "authors": [
-      "Lucie Ernestová"
-    ],
-    "date": "2026-08-05T08:46:36.142583+00:00"
-  },
-  {
-    "title": "Dinosauři samolepky a aktivity",
-    "url": "https://www.kosmas.cz/knihy/571719/dinosauri-samolepky-a-aktivity/",
-    "description": "Dinosauři samolepky a aktivity - Irena Trevisan",
-    "authors": [
-      "Irena Trevisan"
-    ],
-    "date": "2026-08-05T08:46:34.142583+00:00"
-  },
-  {
-    "title": "Na farmě samolepky a aktivity",
-    "url": "https://www.kosmas.cz/knihy/571720/na-farme-samolepky-a-aktivity/",
-    "description": "Na farmě samolepky a aktivity - Irena Trevisan",
-    "authors": [
-      "Irena Trevisan"
-    ],
-    "date": "2026-08-05T08:46:33.142583+00:00"
-  },
-  {
-    "title": "Paměť a dějiny č. 2/2026",
-    "url": "https://www.kosmas.cz/knihy/571537/pamet-a-dejiny-c.-2-2026/",
-    "description": "Paměť a dějiny č. 2/2026",
-    "authors": [],
-    "date": "2026-08-04T08:49:41.399336+00:00"
-  },
-  {
-    "title": "Old Surehand - V Llanu Estacadu",
-    "url": "https://www.kosmas.cz/knihy/570611/old-surehand-v-llanu-estacadu/",
-    "description": "Old Surehand - V Llanu Estacadu - Karl May",
-    "authors": [
-      "Karl May"
-    ],
-    "date": "2026-08-04T08:49:40.399336+00:00"
-  },
-  {
-    "title": "Star Wars - Jedi: Padlý řád 2",
-    "url": "https://www.kosmas.cz/knihy/570481/star-wars-jedi-padly-rad-2/",
-    "description": "Star Wars - Jedi: Padlý řád 2 - Mangado, Sideranch",
-    "authors": [
-      "Mangado",
-      "Sideranch"
-    ],
-    "date": "2026-08-04T08:49:39.399336+00:00"
-  },
-  {
-    "title": "Usagi Yojimbo 40: Vrána",
-    "url": "https://www.kosmas.cz/knihy/570485/usagi-yojimbo-40-vrana/",
-    "description": "Usagi Yojimbo 40: Vrána - Stan Sakai",
-    "authors": [
-      "Stan Sakai"
-    ],
-    "date": "2026-08-04T08:49:38.399336+00:00"
-  },
-  {
-    "title": "Stará postel",
-    "url": "https://www.kosmas.cz/knihy/570757/stara-postel/",
-    "description": "Stará postel - Ludvík Vaculík",
-    "authors": [
-      "Ludvík Vaculík"
-    ],
-    "date": "2026-08-04T08:49:36.399336+00:00"
-  },
-  {
-    "title": "Prostě na mě zapomněli",
-    "url": "https://www.kosmas.cz/knihy/569921/proste-na-me-zapomneli/",
-    "description": "Prostě na mě zapomněli - Jiří Holub",
-    "authors": [
-      "Jiří Holub"
-    ],
-    "date": "2026-08-04T08:49:34.399336+00:00"
-  },
-  {
-    "title": "Deníky apatykářky 6",
-    "url": "https://www.kosmas.cz/knihy/570118/deniky-apatykarky-6/",
-    "description": "Deníky apatykářky 6 - Nacu Hjúga, Icuki Nanao",
-    "authors": [
-      "Nacu Hjúga",
-      "Icuki Nanao"
-    ],
-    "date": "2026-08-04T08:49:32.399336+00:00"
-  },
-  {
-    "title": "Marcialovo tajemství",
-    "url": "https://www.kosmas.cz/knihy/569279/marcialovo-tajemstvi/",
-    "description": "Marcialovo tajemství - Jorge Fernández Díaz",
-    "authors": [
-      "Jorge Fernández Díaz"
-    ],
-    "date": "2026-08-04T08:49:31.399336+00:00"
-  },
-  {
-    "title": "Hra titánů: Výstup na nebesa",
-    "url": "https://www.kosmas.cz/knihy/568352/hra-titanu-vystup-na-nebesa/",
-    "description": "Hra titánů: Výstup na nebesa - Hazel Riley",
-    "authors": [
-      "Hazel Riley"
-    ],
-    "date": "2026-08-04T08:49:30.399336+00:00"
-  },
-  {
-    "title": "ABBA. Skrytá melancholie",
-    "url": "https://www.kosmas.cz/knihy/568149/abba.-skryta-melancholie/",
-    "description": "ABBA. Skrytá melancholie - Jan Gradvall",
-    "authors": [
-      "Jan Gradvall"
-    ],
-    "date": "2026-08-04T08:49:26.399336+00:00"
-  },
-  {
-    "title": "Bouře nekonečné krásy",
-    "url": "https://www.kosmas.cz/knihy/567659/boure-nekonecne-krasy/",
-    "description": "Bouře nekonečné krásy - Julianne MacLean",
-    "authors": [
-      "Julianne MacLean"
-    ],
-    "date": "2026-08-04T08:49:25.399336+00:00"
-  },
-  {
-    "title": "Křížovky pro babičku - velká písmena",
-    "url": "https://www.kosmas.cz/knihy/567121/krizovky-pro-babicku-velka-pismena/",
-    "description": "Křížovky pro babičku - velká písmena - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-08-04T08:49:23.399336+00:00"
   }
 ]
