@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-16 06:51:20 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Black Sabbath & Ozzy Osbourne
+2. Ghost – Kompletní příběh
+
+---
+
+## 🕐 2026-08-16 06:51:20 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-15 06:50:11 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -312,53 +337,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-08-08 07:04:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Tajemství poslední strážkyně
-2. Ohrožený kruh
-3. Poslední dopis
-4. Ve vlnách času
-5. Koruna lhářů
-6. Česká literatura 3/2026
-7. Cornova 1/2026
-8. Poslední Vest
-9. Poznámkový kalendář Amedeo Modigliani 2027
-10. Nástěnný kalendář Vintage plakáty – japonské umění 2027
-11. Nástěnný kalendář Vintage plakáty – daleké kraje 2027
-12. Nástěnný kalendář Vintage plakáty – herbář 2027
-13. Nástěnný kalendář Impresionismus 2027
-14. Nástěnný kalendář Claude Monet 2027
-15. Nástěnný kalendář Josef Lada 2027
-16. Poznámkový kalendář Herbář 2027, PLASTIC FREE
-17. Poznámkový kalendář Koťata 2027
-18. Poznámkový kalendář Pandy 2027
-19. Poznámkový kalendář Claude Monet 2027
-20. Poznámkový kalendář Gustav Klimt 2027
-
----
-
-## 🕐 2026-08-08 07:04:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hlasy proti zapomnění
 
 ---
 

@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:51:20 +0000</lastBuildDate>
+    <item>
+      <title>Black Sabbath &amp; Ozzy Osbourne</title>
+      <link>https://www.kosmas.cz/knihy/571325/black-sabbath-ozzy-osbourne/</link>
+      <description>Black Sabbath &amp; Ozzy Osbourne - kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571325/black-sabbath-ozzy-osbourne/</guid>
+      <pubDate>Sun, 16 Aug 2026 06:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghost – Kompletní příběh</title>
+      <link>https://www.kosmas.cz/knihy/571327/ghost-kompletni-pribeh/</link>
+      <description>Ghost – Kompletní příběh</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571327/ghost-kompletni-pribeh/</guid>
+      <pubDate>Sun, 16 Aug 2026 06:51:18 +0000</pubDate>
+    </item>
     <item>
       <title>Devět duchů</title>
       <link>https://www.kosmas.cz/knihy/565965/devet-duchu/</link>
@@ -693,20 +707,6 @@
       <description>Dobrodružství medvídka Paddingtona - Veselé příhody - kolektiv</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570098/dobrodruzstvi-medvidka-paddingtona-vesele-prihody/</guid>
       <pubDate>Mon, 10 Aug 2026 07:55:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaštánek: Jedna, dvě</title>
-      <link>https://www.kosmas.cz/knihy/570102/kastanek-jedna-dve/</link>
-      <description>Kaštánek: Jedna, dvě - Soren Sveistrup</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570102/kastanek-jedna-dve/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:55:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krvavá lázeň</title>
-      <link>https://www.kosmas.cz/knihy/570104/krvava-lazen/</link>
-      <description>Krvavá lázeň - Hafsah Faizal</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570104/krvava-lazen/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:55:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

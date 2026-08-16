@@ -1,5 +1,21 @@
 [
   {
+    "title": "Black Sabbath & Ozzy Osbourne",
+    "url": "https://www.kosmas.cz/knihy/571325/black-sabbath-ozzy-osbourne/",
+    "description": "Black Sabbath & Ozzy Osbourne - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-08-16T06:51:19.783196+00:00"
+  },
+  {
+    "title": "Ghost – Kompletní příběh",
+    "url": "https://www.kosmas.cz/knihy/571327/ghost-kompletni-pribeh/",
+    "description": "Ghost – Kompletní příběh",
+    "authors": [],
+    "date": "2026-08-16T06:51:18.783196+00:00"
+  },
+  {
     "title": "Devět duchů",
     "url": "https://www.kosmas.cz/knihy/565965/devet-duchu/",
     "description": "Devět duchů - Richard Henry Malden",
@@ -1700,24 +1716,5 @@
       "Hana Whitton"
     ],
     "date": "2026-08-05T08:46:42.142583+00:00"
-  },
-  {
-    "title": "Všem klukům, které jsem milovala",
-    "url": "https://www.kosmas.cz/knihy/569687/vsem-klukum-ktere-jsem-milovala/",
-    "description": "Všem klukům, které jsem milovala - Jenny Han",
-    "authors": [
-      "Jenny Han"
-    ],
-    "date": "2026-08-05T08:46:41.142583+00:00"
-  },
-  {
-    "title": "Barabizna",
-    "url": "https://www.kosmas.cz/knihy/568186/barabizna/",
-    "description": "Barabizna - Jaroslav Foglar, Lucie Hlavinková",
-    "authors": [
-      "Jaroslav Foglar",
-      "Lucie Hlavinková"
-    ],
-    "date": "2026-08-05T08:46:40.142583+00:00"
   }
 ]

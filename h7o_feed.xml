@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:51:20 +0000</lastBuildDate>
     <item>
       <title>Proč sakra tolik protože</title>
       <link>https://www.h7o.cz/clanky/14582-proc-sakra-tolik-protoze</link>
@@ -448,13 +448,6 @@
       <description>Nikoho nejspíš nepřekvapí, že malá knihkupectví jsou v posledních letech nucena zavírat, a to nejen z ekonomických důvodů. Příkladem je poslední pobočka knihkupectví Scavino, která se nachází v brněnské Dětské nemocnici.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14522-konec-maleho-knihkupectvi</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O ČSSR jsem toho jako dítě příliš nevěděl</title>
-      <link>https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel</link>
-      <description>Málo se ví, že spisovatel Egon Hostovský měl syna, a ten se navíc sám věnuje psaní. Paul Hostovsky (nar. 1958) patří mezi nejzajímavější americké básníky současnosti. Překlady několika jeho básní se loni objevily v antologii americké poezie „Dinosauři v ulicích“, kterou uspořádal Jan Zikmund. Teď…</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14521-o-cssr-jsem-toho-jako-dite-prilis-nevedel</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
