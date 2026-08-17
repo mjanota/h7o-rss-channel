@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:08:41 +0000</lastBuildDate>
+    <item>
+      <title>Kde dochází dech</title>
+      <link>https://www.kosmas.cz/knihy/571692/kde-dochazi-dech/</link>
+      <description>Kde dochází dech - Marie Šabatková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571692/kde-dochazi-dech/</guid>
+      <pubDate>Mon, 17 Aug 2026 07:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vražda Rogera Ackroyda</title>
+      <link>https://www.kosmas.cz/knihy/571909/vrazda-rogera-ackroyda/</link>
+      <description>Vražda Rogera Ackroyda - Agatha Christie</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571909/vrazda-rogera-ackroyda/</guid>
+      <pubDate>Mon, 17 Aug 2026 07:08:40 +0000</pubDate>
+    </item>
     <item>
       <title>Black Sabbath &amp; Ozzy Osbourne</title>
       <link>https://www.kosmas.cz/knihy/571325/black-sabbath-ozzy-osbourne/</link>
@@ -693,20 +707,6 @@
       <description>Navždy s láskou Lara Jean - Jenny Han</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/570006/navzdy-s-laskou-lara-jean/</guid>
       <pubDate>Mon, 10 Aug 2026 07:55:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auta - Kamarádi auta - Komiksové příběhy</title>
-      <link>https://www.kosmas.cz/knihy/570075/auta-kamaradi-auta-komiksove-pribehy/</link>
-      <description>Auta - Kamarádi auta - Komiksové příběhy - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570075/auta-kamaradi-auta-komiksove-pribehy/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dobrodružství medvídka Paddingtona - Veselé příhody</title>
-      <link>https://www.kosmas.cz/knihy/570098/dobrodruzstvi-medvidka-paddingtona-vesele-prihody/</link>
-      <description>Dobrodružství medvídka Paddingtona - Veselé příhody - kolektiv</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570098/dobrodruzstvi-medvidka-paddingtona-vesele-prihody/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:55:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Konec malého knihkupectví",
-    "url": "https://www.h7o.cz/clanky/14522-konec-maleho-knihkupectvi",
-    "description": "Nikoho nejspíš nepřekvapí, že malá knihkupectví jsou v posledních letech nucena zavírat, a to nejen z ekonomických důvodů. Příkladem je poslední pobočka knihkupectví Scavino, která se nachází v brněnské Dětské nemocnici.",
-    "date": "2026-05-19T00:00:00",
-    "author": "Barbora Zouharová",
-    "category": "sloupek"
-  },
-  {
     "title": "Cena pro „kultivovanou neurvalost“",
     "url": "https://www.h7o.cz/clanky/14523-cena-pro-kultivovanou-neurvalost",
     "description": "Laureátkou letošní Ceny Jiřího Ortena se stala Nela Bártová se sbírkou „Házeliště granátů“.",
@@ -502,5 +494,13 @@
     "date": "2026-08-14T00:00:00",
     "author": "Kryštof Mec",
     "category": "recenze"
+  },
+  {
+    "title": "Marginalizace překladů, optimalizace nákladů",
+    "url": "https://www.h7o.cz/clanky/14583-marginalizace-prekladu-optimalizace-nakladu",
+    "description": "Anna Štádlerová patří mezi nejtalentovanější překladatelky své generace, letos na jaře získala Magnesii Literu za převod románu „Slavné časy“ NoViolet Bulawayo. Je také absolventkou Ústavu translatologie FF UK, který nyní vedení fakulty chce kontroverzně zrušit. V rozhovoru si povídáme o jejím…",
+    "date": "2026-08-17T00:00:00",
+    "author": "Barbora Fremlová",
+    "category": "rozhovor"
   }
 ]
