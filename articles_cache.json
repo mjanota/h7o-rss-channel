@@ -1,13 +1,5 @@
 [
   {
-    "title": "Cena pro „kultivovanou neurvalost“",
-    "url": "https://www.h7o.cz/clanky/14523-cena-pro-kultivovanou-neurvalost",
-    "description": "Laureátkou letošní Ceny Jiřího Ortena se stala Nela Bártová se sbírkou „Házeliště granátů“.",
-    "date": "2026-05-20T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Nezlomná kyjevská bohemistika",
     "url": "https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika",
     "description": "„Body nezlomnosti“: dočasná místa veřejné pomoci v Ukrajině, která byla intenzivně využívána zejména během zimních útoků Ruska na energetickou infrastrukturu. Tímto výrazem lze označit i ukrajinskou bohemistiku, o níž mluví ukrajinistka a bohemistka Olena Pogrebnyak. Je tu čtvrteční seriál.",
@@ -502,5 +494,13 @@
     "date": "2026-08-17T00:00:00",
     "author": "Barbora Fremlová",
     "category": "rozhovor"
+  },
+  {
+    "title": "Je snazší si představit zánik města než město bez aut",
+    "url": "https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut",
+    "description": "Nizozemské urbanistické plánování je známé konceptem „autoluw“, který lze popsat jako ulice, kde má auto až poslední místo. Nejedná se o pěší zóny, ale o ulice, kde je pořadí priorit ve veřejném prostoru obráceno zcela opačně. Text přinášíme ve spolupráci se slovenským internetovým deníkem Kapitál.",
+    "date": "2026-08-18T00:00:00",
+    "author": "Matúš Lupták",
+    "category": "téma"
   }
 ]

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-18 06:55:30 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Kory a Lory
+2. Ohnivá zátoka
+3. Vražda Rogera Ackroyda
+4. Blaschka
+5. 1100 Otázek a odpovědí - ENCYKLOPEDIE, která odpoví téměř na vše
+6. Tvarované omalovánky Prasátko Peppa
+7. Tvarované omalovánky Dinosauři
+8. Tvarované omalovánky Ledové království
+9. Samolepková knížka Povolání
+10. Batman: Upíří sága (Legendy DC)
+11. Dny krále
+12. Nalepuj a přelepuj Koně
+13. 400 samolepek Květy
+14. Bingo na cesty Do auta
+15. Bingo na cesty Do Zoo
+16. Bingo na cesty Do přírody
+17. Právo azylu
+18. Chovanci
+19. Jméno mezi mrtvými
+20. Vyvést z míry
+
+---
+
+## 🕐 2026-08-18 06:55:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Je snazší si představit zánik města než město bez aut
+
+---
+
 ## 🕐 2026-08-17 07:08:41 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -277,52 +324,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Prosekat si vlastní cestu, když ta vedlejší je vám protivná
-
----
-
-## 🕐 2026-08-10 07:55:34 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Bezmocně
-2. Olmerka
-3. Lakestone: Srdce temnoty
-4. Rok v keramické dílně
-5. Mariborská hypnóza
-6. Navždy s láskou Lara Jean
-7. Auta - Kamarádi auta - Komiksové příběhy
-8. Dobrodružství medvídka Paddingtona - Veselé příhody
-9. Kaštánek: Jedna, dvě
-10. Krvavá lázeň
-11. O chytré kmotře lišce
-12. Pomsta
-13. Táta to motá
-14. Vystřihovánky - České hrady
-15. Vlčí smečka: Vlk samotář
-16. Vystřihovánky - Pražské památky
-17. Ztraceni v čase
-18. Záhada hlavolamu (sběratelské vydání)
-19. Sebevědomí - 8 kroků k poznání vlastní hodnoty
-
----
-
-## 🕐 2026-08-10 07:55:33 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Pomalost: radši rychle zapomenout
 
 ---
 
