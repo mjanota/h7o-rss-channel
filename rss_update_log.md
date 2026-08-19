@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-19 06:55:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Mlčení přichází jako první
+2. Pod vodou
+3. Planeta idiotů
+4. Idealista
+5. Žena na schodech
+6. Tučná fakta
+7. Teorie subjektivity
+8. Lobo: Jehněčí jatka a další příběhy
+9. Rehabilitace lidských tragédií
+10. Líbánky s Múzou na Hané
+11. Vím, kdo jsi
+12. Vysvědčení
+13. Světluška Věruška
+14. Kniha s diamantovými samolepkami - JEDNOROŽCI - Navrhuj a Lep
+15. Kniha s diamantovými samolepkami - MODNÍ PŘEHLÍDKA - Navrhuj a Lep
+16. Kniha s diamantovými samolepkami - TANEČNÍ STUDIO - Navrhuj a Lep
+17. Kniha s diamantovými samolepkami - PRINCEZNY - Navrhuj a Lep
+18. Neohrožení dinosauři - Vybarvuj a lep
+19. Úžasní jednorožci- Vybarvuj a lep
+20. DINOSAUŘI- Kniha plná hrátek a aktivit s 3D samolepkami
+
+---
+
+## 🕐 2026-08-19 06:55:53 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Kniha, která zachraňuje literaturu
+
+---
+
 ## 🕐 2026-08-18 06:55:30 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -279,51 +326,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Trest za queer literaturu
-
----
-
-## 🕐 2026-08-11 07:18:52 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Nástěnný kalendář. Martin Patřičný 2027
-2. První z čarodějnic
-3. Vykopat hroby
-4. Tajemství pivovaru
-5. Dech jako lék
-6. My girl: Radost s tebou žít 2
-7. Vinlandská sága 3
-8. Medailistka 3
-9. Frieren - Když jedna cesta končí 7
-10. Warcraft: Legendy 5
-11. Warcraft: Legendy 4
-12. Rubáš
-13. Morálka práva
-14. Kakegurui: Blázni do hazardu 7
-15. Zábavné osmisměrky
-16. Krížovky a osemsmerovky pre každého
-17. Atlas koček
-18. Chrabrá tlapka: A Pařátovec z Hnilohájských močálů
-
----
-
-## 🕐 2026-08-11 07:18:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Prosekat si vlastní cestu, když ta vedlejší je vám protivná
 
 ---
 

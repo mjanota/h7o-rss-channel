@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:55:53 +0000</lastBuildDate>
+    <item>
+      <title>Kniha, která zachraňuje literaturu</title>
+      <link>https://www.h7o.cz/clanky/14585-kniha-ktera-zachranuje-literaturu</link>
+      <description>Na konci května vyšel třicátý druhý svazek edice Revolver Revue „Jedna věta“. Přináší záznamy římskokatolického kněze a publicisty Petra Beneše. Knihu recenzuje šéfredaktor nakladatelství Portál Martin Bedřich.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14585-kniha-ktera-zachranuje-literaturu</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Je snazší si představit zánik města než město bez aut</title>
       <link>https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut</link>
@@ -441,13 +448,6 @@
       <description>Nová básnická sbírka Eleny Pecenové „Jediný únor je opravdový Měsíc“ je antitezí její předchozí, experimentální tvorby. Středobodem je tentokrát motiv setkání s umíráním a se smrtí.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14524-az-k-vyvanuti</guid>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nezlomná kyjevská bohemistika</title>
-      <link>https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika</link>
-      <description>„Body nezlomnosti“: dočasná místa veřejné pomoci v Ukrajině, která byla intenzivně využívána zejména během zimních útoků Ruska na energetickou infrastrukturu. Tímto výrazem lze označit i ukrajinskou bohemistiku, o níž mluví ukrajinistka a bohemistka Olena Pogrebnyak. Je tu čtvrteční seriál.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Nezlomná kyjevská bohemistika",
-    "url": "https://www.h7o.cz/clanky/14511-nezlomna-kyjevska-bohemistika",
-    "description": "„Body nezlomnosti“: dočasná místa veřejné pomoci v Ukrajině, která byla intenzivně využívána zejména během zimních útoků Ruska na energetickou infrastrukturu. Tímto výrazem lze označit i ukrajinskou bohemistiku, o níž mluví ukrajinistka a bohemistka Olena Pogrebnyak. Je tu čtvrteční seriál.",
-    "date": "2026-05-21T00:00:00",
-    "author": "Renata Cebe",
-    "category": "seriál"
-  },
-  {
     "title": "Až k vyvanutí",
     "url": "https://www.h7o.cz/clanky/14524-az-k-vyvanuti",
     "description": "Nová básnická sbírka Eleny Pecenové „Jediný únor je opravdový Měsíc“ je antitezí její předchozí, experimentální tvorby. Středobodem je tentokrát motiv setkání s umíráním a se smrtí.",
@@ -502,5 +494,13 @@
     "date": "2026-08-18T00:00:00",
     "author": "Matúš Lupták",
     "category": "téma"
+  },
+  {
+    "title": "Kniha, která zachraňuje literaturu",
+    "url": "https://www.h7o.cz/clanky/14585-kniha-ktera-zachranuje-literaturu",
+    "description": "Na konci května vyšel třicátý druhý svazek edice Revolver Revue „Jedna věta“. Přináší záznamy římskokatolického kněze a publicisty Petra Beneše. Knihu recenzuje šéfredaktor nakladatelství Portál Martin Bedřich.",
+    "date": "2026-08-19T00:00:00",
+    "author": "Martin Bedřich",
+    "category": "recenze"
   }
 ]
