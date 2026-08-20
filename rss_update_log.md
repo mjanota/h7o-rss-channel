@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-20 06:57:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Dvůr monster a zloby
+2. Firemní kultura jako motor úspěchu
+3. Bizarní hmyz
+4. Gudasové: Příběh dvou generací
+5. Hvězdy fotbalového hřiště - Silva
+6. Procházky Frýdkem-Místkem
+7. Mušlenčiny léčivé příběhy - Cesta hrdiny
+8. Případ obrazu ve zlatém rámu
+9. Sporťákovy pohádky o zvířátkách
+10. Superštěňátka: Puf a Nela zdolají každou překážku
+11. Vlkodlak
+12. Páteční knihkupectví
+13. Velmi nebezpečná hra
+14. Petal
+15. VITA CONSECRATA, Zasvěcený život
+
+---
+
+## 🕐 2026-08-20 06:57:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Chtěla bych být básnířkou bez filtru
+
+---
+
 ## 🕐 2026-08-19 06:55:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -279,53 +321,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Návrat ke knize jako artefaktu
-
----
-
-## 🕐 2026-08-12 07:42:43 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. S tebou navždy
-2. Tohle fakt nevymyslíš!
-3. Poslové úsvitu pro děti
-4. Za zdí
-5. Legie Wallonie
-6. Člověk a duše
-7. Postava (Personnage)
-8. Kapybara Kapík
-9. Lovci sobů
-10. U potoka
-11. Nebe je pořád fialové
-12. Bez úzkosti
-13. Paměti
-14. Dvoustěžňové lodě a malá plavidla
-15. Uni 8/2026
-16. Zmizení mladé dámy
-17. S cejchem vyvržence
-18. Případ arogantního romanopisce
-19. Zvěrolékař a kočičí historky
-20. Bratrstvo neohrožených: Velitel
-
----
-
-## 🕐 2026-08-12 07:42:42 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Trest za queer literaturu
 
 ---
 
