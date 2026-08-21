@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-21 06:58:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Les ztracených srdcí
+2. OH, SHIT!
+3. Světlo ciziny
+4. Velký lunární kalendář 2027
+5. Diví lidé: Vlny osudu
+6. Karel Hynek Mácha - Májový soumrak
+7. Dokonale zvrácení
+8. Zátoka lidojedů
+9. Emrys
+10. Tiché pouto
+11. Jak to nevidím já
+12. Velká kniha českých pohádek
+13. Versace do kabelky
+14. Tiffany & Co. do kabelky
+15. Podivuhodná večerka
+16. Havraní král
+17. Přírodní a duchovní bytosti a jejich působení ve viditelném světě
+18. Eddie Jordan: Na plný plyn
+19. Zamilovaný kluk
+
+---
+
+## 🕐 2026-08-21 06:58:21 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-20 06:57:06 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -274,53 +316,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-08-13 07:44:28 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Právo azylu
-2. Piškotový mord
-3. Sladká tečka
-4. Zhýralec
-5. Pozorovatel
-6. Válka dvou královen
-7. Zamilovaná holka
-8. Bloncka na Stezce Českem
-9. Tohle fakt nevymyslíš!
-10. Patro bez čísla
-11. Letní hosté
-12. Pražské adresy
-13. Všechno za jejich dech
-14. Tajemství a výklad pohádek: Honza málem králem
-15. Postrach strážných andělů
-16. Mania: Cesta z pekla
-17. Šumavský landart
-18. Fotovoltaika
-19. Planeta Země
-20. 1000 zvídavých otázek a 1000 poutavých odpovědí
-
----
-
-## 🕐 2026-08-13 07:44:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Návrat ke knize jako artefaktu
 
 ---
 
