@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-22 06:52:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Historie Duny: Bitva o Corrin
+2. Fridrich II. Jediný
+3. Vzpomeneš si na Trenčín?
+4. Poslední Lady B
+5. Praha velká 1 : 20 000 (kartonová obálka)
+6. Latina pro střední školy I.část
+7. Ohrožená pověst
+8. A Trick of Memory
+9. Mezi touhou a odmítnutím
+10. Seznam zapovězených
+11. Hotýlek s vůní skořice
+12. Rozpaluješ mě
+13. Vzít si milionáře
+14. Neuchopitelná/-ý Čepelka 90
+15. Průvodkyní v srdci Evropy
+16. Tučná fakta
+17. Město duchů
+
+---
+
+## 🕐 2026-08-22 06:51:58 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Jak uspět ve Frankfurtu
+
+---
+
 ## 🕐 2026-08-21 06:58:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -228,88 +272,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-08-16 06:51:20 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-08-15 06:50:11 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Devět duchů
-2. S tebou navždy
-3. Muž, který věděl příliš mnoho
-4. Sebastian Kneipp a jeho svět léčivých bylin
-5. Ve stínu Jupitera
-6. Tajemství mozku srozumitelně
-7. Pohádkové Háčkování
-8. Vzestup a pád lidské mysli
-9. Dněpr 1943
-10. My, nezastavitelní
-11. Kryštof ÁDéHáDě - A co dál?
-12. Albánie – Marco Polo
-13. Portugalsko – Marco Polo
-14. Slovensko – Marco Polo
-15. Slovinsko – Marco Polo
-16. Mýty, báje a pověsti Slavkovského lesa (1. díl)
-17. Richardovy živé hračky
-
----
-
-## 🕐 2026-08-15 06:50:09 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Proč sakra tolik protože
-
----
-
-## 🕐 2026-08-14 07:42:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Zaklínač IX.: Rozcestí krkavců
-2. Zaklínač VIII: Bouřková sezóna
-3. Manžel a žízeň jsou věčné
-4. Eddie Jordan: Na plný plyn
-5. Jistě, pane ministře 1.
-6. Mindfulness pro teenagery
-7. Poznáš jejich hlasy? Zvířata
-8. Mňaudoku: 75 rébusů s kočičími krimi záhadami
-9. Peppa Pig - Tomík zase slyší!
-10. Postava (Personnage)
-11. Neusínej
-12. Hrátky s matikou (6+)
-13. Hrátky s písmeny (6+)
-14. Hlavní jídla, pečivo a speciality 1 – bezlepkově
-15. Ženský koncentrační tábor Svatava
-
----
-
-## 🕐 2026-08-14 07:42:23 UTC
 
 **Zdroj:** H7O - Časopis Host
 
