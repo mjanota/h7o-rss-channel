@@ -1,5 +1,32 @@
 [
   {
+    "title": "Cesta do Meksika",
+    "url": "https://www.kosmas.cz/knihy/571599/cesta-do-meksika/",
+    "description": "Cesta do Meksika - Ivan Binar",
+    "authors": [
+      "Ivan Binar"
+    ],
+    "date": "2026-08-23T06:52:42.791891+00:00"
+  },
+  {
+    "title": "Kavárna u sakury",
+    "url": "https://www.kosmas.cz/knihy/571780/kavarna-u-sakury/",
+    "description": "Kavárna u sakury - Nagi Šimeno",
+    "authors": [
+      "Nagi Šimeno"
+    ],
+    "date": "2026-08-23T06:52:41.791891+00:00"
+  },
+  {
+    "title": "Náboženstvo ako phármakon",
+    "url": "https://www.kosmas.cz/knihy/571791/nabozenstvo-ako-pharmakon/",
+    "description": "Náboženstvo ako phármakon - Lukáš Jeník",
+    "authors": [
+      "Lukáš Jeník"
+    ],
+    "date": "2026-08-23T06:52:40.791891+00:00"
+  },
+  {
     "title": "Historie Duny: Bitva o Corrin",
     "url": "https://www.kosmas.cz/knihy/571902/historie-duny-bitva-o-corrin/",
     "description": "Historie Duny: Bitva o Corrin - Kevin J. Anderson, Brian Herbert",
@@ -1732,31 +1759,5 @@
       "Ruby Braun"
     ],
     "date": "2026-08-10T07:55:22.839992+00:00"
-  },
-  {
-    "title": "Táta to motá",
-    "url": "https://www.kosmas.cz/knihy/570201/tata-to-mota/",
-    "description": "Táta to motá - Ivona Březinová, Andrea Kamasová",
-    "authors": [
-      "Ivona Březinová",
-      "Andrea Kamasová"
-    ],
-    "date": "2026-08-10T07:55:21.839992+00:00"
-  },
-  {
-    "title": "Vystřihovánky - České hrady",
-    "url": "https://www.kosmas.cz/knihy/570205/vystrihovanky-ceske-hrady/",
-    "description": "Vystřihovánky - České hrady",
-    "authors": [],
-    "date": "2026-08-10T07:55:20.839992+00:00"
-  },
-  {
-    "title": "Vlčí smečka: Vlk samotář",
-    "url": "https://www.kosmas.cz/knihy/570206/vlci-smecka-vlk-samotar/",
-    "description": "Vlčí smečka: Vlk samotář - Edo van Belkom",
-    "authors": [
-      "Edo van Belkom"
-    ],
-    "date": "2026-08-10T07:55:19.839992+00:00"
   }
 ]

@@ -5,6 +5,32 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-23 06:52:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 3
+
+**Tituly nových položek:**
+
+1. Cesta do Meksika
+2. Kavárna u sakury
+3. Náboženstvo ako phármakon
+
+---
+
+## 🕐 2026-08-23 06:52:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-22 06:52:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -253,31 +279,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Marginalizace překladů, optimalizace nákladů
-
----
-
-## 🕐 2026-08-16 06:51:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Black Sabbath & Ozzy Osbourne
-2. Ghost – Kompletní příběh
-
----
-
-## 🕐 2026-08-16 06:51:20 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

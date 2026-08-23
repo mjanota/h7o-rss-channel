@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:52:46 +0000</lastBuildDate>
+    <item>
+      <title>Cesta do Meksika</title>
+      <link>https://www.kosmas.cz/knihy/571599/cesta-do-meksika/</link>
+      <description>Cesta do Meksika - Ivan Binar</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571599/cesta-do-meksika/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kavárna u sakury</title>
+      <link>https://www.kosmas.cz/knihy/571780/kavarna-u-sakury/</link>
+      <description>Kavárna u sakury - Nagi Šimeno</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571780/kavarna-u-sakury/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Náboženstvo ako phármakon</title>
+      <link>https://www.kosmas.cz/knihy/571791/nabozenstvo-ako-pharmakon/</link>
+      <description>Náboženstvo ako phármakon - Lukáš Jeník</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571791/nabozenstvo-ako-pharmakon/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:52:40 +0000</pubDate>
+    </item>
     <item>
       <title>Historie Duny: Bitva o Corrin</title>
       <link>https://www.kosmas.cz/knihy/571902/historie-duny-bitva-o-corrin/</link>
@@ -686,27 +707,6 @@
       <description>S tebou navždy - Jan Steinbach</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/553882/s-tebou-navzdy/</guid>
       <pubDate>Sat, 15 Aug 2026 06:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muž, který věděl příliš mnoho</title>
-      <link>https://www.kosmas.cz/knihy/571706/muz-ktery-vedel-prilis-mnoho/</link>
-      <description>Muž, který věděl příliš mnoho - Petr Prucha</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571706/muz-ktery-vedel-prilis-mnoho/</guid>
-      <pubDate>Sat, 15 Aug 2026 06:50:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sebastian Kneipp a jeho svět léčivých bylin</title>
-      <link>https://www.kosmas.cz/knihy/571778/sebastian-kneipp-a-jeho-svet-lecivych-bylin/</link>
-      <description>Sebastian Kneipp a jeho svět léčivých bylin - Jiří Kuchař, Petr Sedláček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571778/sebastian-kneipp-a-jeho-svet-lecivych-bylin/</guid>
-      <pubDate>Sat, 15 Aug 2026 06:50:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ve stínu Jupitera</title>
-      <link>https://www.kosmas.cz/knihy/571792/ve-stinu-jupitera/</link>
-      <description>Ve stínu Jupitera - L. B. Arling</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571792/ve-stinu-jupitera/</guid>
-      <pubDate>Sat, 15 Aug 2026 06:50:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
