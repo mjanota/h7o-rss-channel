@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:12:12 +0000</lastBuildDate>
+    <item>
+      <title>Mohla by být jeho dcera</title>
+      <link>https://www.kosmas.cz/knihy/572253/mohla-by-byt-jeho-dcera/</link>
+      <description>Mohla by být jeho dcera - Jennette McCurdy</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572253/mohla-by-byt-jeho-dcera/</guid>
+      <pubDate>Mon, 24 Aug 2026 07:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jedna želva za druhou</title>
+      <link>https://www.kosmas.cz/knihy/572255/jedna-zelva-za-druhou/</link>
+      <description>Jedna želva za druhou - John Green</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572255/jedna-zelva-za-druhou/</guid>
+      <pubDate>Mon, 24 Aug 2026 07:12:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Theo z města Golden</title>
+      <link>https://www.kosmas.cz/knihy/572256/theo-z-mesta-golden/</link>
+      <description>Theo z města Golden - Allen Levi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572256/theo-z-mesta-golden/</guid>
+      <pubDate>Mon, 24 Aug 2026 07:12:10 +0000</pubDate>
+    </item>
     <item>
       <title>Cesta do Meksika</title>
       <link>https://www.kosmas.cz/knihy/571599/cesta-do-meksika/</link>
@@ -686,27 +707,6 @@
       <description>Black Sabbath &amp; Ozzy Osbourne - kol.</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/571325/black-sabbath-ozzy-osbourne/</guid>
       <pubDate>Sun, 16 Aug 2026 06:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ghost – Kompletní příběh</title>
-      <link>https://www.kosmas.cz/knihy/571327/ghost-kompletni-pribeh/</link>
-      <description>Ghost – Kompletní příběh</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571327/ghost-kompletni-pribeh/</guid>
-      <pubDate>Sun, 16 Aug 2026 06:51:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Devět duchů</title>
-      <link>https://www.kosmas.cz/knihy/565965/devet-duchu/</link>
-      <description>Devět duchů - Richard Henry Malden</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565965/devet-duchu/</guid>
-      <pubDate>Sat, 15 Aug 2026 06:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>S tebou navždy</title>
-      <link>https://www.kosmas.cz/knihy/553882/s-tebou-navzdy/</link>
-      <description>S tebou navždy - Jan Steinbach</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/553882/s-tebou-navzdy/</guid>
-      <pubDate>Sat, 15 Aug 2026 06:50:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,32 @@
 [
   {
+    "title": "Mohla by být jeho dcera",
+    "url": "https://www.kosmas.cz/knihy/572253/mohla-by-byt-jeho-dcera/",
+    "description": "Mohla by být jeho dcera - Jennette McCurdy",
+    "authors": [
+      "Jennette McCurdy"
+    ],
+    "date": "2026-08-24T07:12:12.172930+00:00"
+  },
+  {
+    "title": "Jedna želva za druhou",
+    "url": "https://www.kosmas.cz/knihy/572255/jedna-zelva-za-druhou/",
+    "description": "Jedna želva za druhou - John Green",
+    "authors": [
+      "John Green"
+    ],
+    "date": "2026-08-24T07:12:11.172930+00:00"
+  },
+  {
+    "title": "Theo z města Golden",
+    "url": "https://www.kosmas.cz/knihy/572256/theo-z-mesta-golden/",
+    "description": "Theo z města Golden - Allen Levi",
+    "authors": [
+      "Allen Levi"
+    ],
+    "date": "2026-08-24T07:12:10.172930+00:00"
+  },
+  {
     "title": "Cesta do Meksika",
     "url": "https://www.kosmas.cz/knihy/571599/cesta-do-meksika/",
     "description": "Cesta do Meksika - Ivan Binar",
@@ -1732,32 +1759,5 @@
       "Soren Sveistrup"
     ],
     "date": "2026-08-10T07:55:25.839992+00:00"
-  },
-  {
-    "title": "Krvavá lázeň",
-    "url": "https://www.kosmas.cz/knihy/570104/krvava-lazen/",
-    "description": "Krvavá lázeň - Hafsah Faizal",
-    "authors": [
-      "Hafsah Faizal"
-    ],
-    "date": "2026-08-10T07:55:24.839992+00:00"
-  },
-  {
-    "title": "O chytré kmotře lišce",
-    "url": "https://www.kosmas.cz/knihy/570137/o-chytre-kmotre-lisce/",
-    "description": "O chytré kmotře lišce - Josef Lada",
-    "authors": [
-      "Josef Lada"
-    ],
-    "date": "2026-08-10T07:55:23.839992+00:00"
-  },
-  {
-    "title": "Pomsta",
-    "url": "https://www.kosmas.cz/knihy/570166/pomsta/",
-    "description": "Pomsta - Ruby Braun",
-    "authors": [
-      "Ruby Braun"
-    ],
-    "date": "2026-08-10T07:55:22.839992+00:00"
   }
 ]

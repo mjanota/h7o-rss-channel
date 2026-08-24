@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-24 07:12:12 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 3
+
+**Tituly nových položek:**
+
+1. Mohla by být jeho dcera
+2. Jedna želva za druhou
+3. Theo z města Golden
+
+---
+
+## 🕐 2026-08-24 07:12:09 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přepsat neurózy v kostní dřeni
+
+---
+
 ## 🕐 2026-08-23 06:52:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -250,35 +280,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Je snazší si představit zánik města než město bez aut
-
----
-
-## 🕐 2026-08-17 07:08:41 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Kde dochází dech
-2. Vražda Rogera Ackroyda
-
----
-
-## 🕐 2026-08-17 07:08:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Marginalizace překladů, optimalizace nákladů
 
 ---
 
