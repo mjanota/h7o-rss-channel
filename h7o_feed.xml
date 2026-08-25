@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:58:56 +0000</lastBuildDate>
+    <item>
+      <title>Smlouva s ďáblem je stále aktuální</title>
+      <link>https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni</link>
+      <description>Radka Bodzewicz v aktuální výstavě v galerii DOX zpracovává téma Fausta a jeho smlouvy s ďáblem. Každé patro výstavy věnuje jedné z ústředních postav Goethovy dramatické básně: Mefistofeles, Markétka, Faust. S malířkou hovoříme o literárních vlivech, spiritualitě a nebezpečí moderních technologií.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Přepsat neurózy v kostní dřeni</title>
       <link>https://www.h7o.cz/clanky/14588-prepsat-neurozy-v-kostni-dreni</link>
@@ -441,13 +448,6 @@
       <description>Jak se proměnila kritéria literárnosti od období ruského formalismu? Existuje jediná „světová literatura“? Jaký má dnes literární teorie vůbec význam? V rámci seriálu k letošnímu bohemistickému kongresu přinášíme rozhovor s profesorem komparativní literatury Queen Mary University, Galinem Tihanovem.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie</guid>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konec googlování</title>
-      <link>https://www.h7o.cz/clanky/14527-konec-googlovani</link>
-      <description>Společnost Google minulý týden představila produktové a technologické novinky. Média zaujala — a vyděsila — především aktualizace nástrojů umělé inteligence. AI bude totiž hrát ve vyhledávání mnohem větší roli než doposud. A doplatí na to média a další tvůrci obsahu.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14527-konec-googlovani</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

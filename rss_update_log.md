@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-25 06:58:58 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Věk mýtů
+2. Černá vlčice
+3. Spící chlapec
+4. Fantastický svět prvků
+5. Babiččiny rady pro domácnost
+6. Bylinkové rady naší babičky
+7. Jiří Kolář: X Bienal de São Paulo CZ (česká verze)
+8. Můj klavír 2
+9. 50 otázek na cestě k lepšímu životu
+10. Ve jménu milosrdenství
+11. Počkej chvilku
+12. Velká kniha luštění
+13. Tak to bylo. Štít 84 a Žatecký vzlet
+14. Vymazaná z fotky
+15. Obtěžkáni zlem aneb Po čtyřiceti letech
+16. Jsme jen náhoda?
+17. Stíny v lese
+
+---
+
+## 🕐 2026-08-25 06:58:56 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Smlouva s ďáblem je stále aktuální
+
+---
+
 ## 🕐 2026-08-24 07:12:12 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -233,53 +277,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Kniha, která zachraňuje literaturu
-
----
-
-## 🕐 2026-08-18 06:55:30 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Kory a Lory
-2. Ohnivá zátoka
-3. Vražda Rogera Ackroyda
-4. Blaschka
-5. 1100 Otázek a odpovědí - ENCYKLOPEDIE, která odpoví téměř na vše
-6. Tvarované omalovánky Prasátko Peppa
-7. Tvarované omalovánky Dinosauři
-8. Tvarované omalovánky Ledové království
-9. Samolepková knížka Povolání
-10. Batman: Upíří sága (Legendy DC)
-11. Dny krále
-12. Nalepuj a přelepuj Koně
-13. 400 samolepek Květy
-14. Bingo na cesty Do auta
-15. Bingo na cesty Do Zoo
-16. Bingo na cesty Do přírody
-17. Právo azylu
-18. Chovanci
-19. Jméno mezi mrtvými
-20. Vyvést z míry
-
----
-
-## 🕐 2026-08-18 06:55:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Je snazší si představit zánik města než město bez aut
 
 ---
 

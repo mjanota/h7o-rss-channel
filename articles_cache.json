@@ -1,13 +1,5 @@
 [
   {
-    "title": "Konec googlování",
-    "url": "https://www.h7o.cz/clanky/14527-konec-googlovani",
-    "description": "Společnost Google minulý týden představila produktové a technologické novinky. Média zaujala — a vyděsila — především aktualizace nástrojů umělé inteligence. AI bude totiž hrát ve vyhledávání mnohem větší roli než doposud. A doplatí na to média a další tvůrci obsahu.",
-    "date": "2026-05-27T00:00:00",
-    "author": "Jakub Jetmar",
-    "category": "sloupek"
-  },
-  {
     "title": "Život po životě literární teorie",
     "url": "https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie",
     "description": "Jak se proměnila kritéria literárnosti od období ruského formalismu? Existuje jediná „světová literatura“? Jaký má dnes literární teorie vůbec význam? V rámci seriálu k letošnímu bohemistickému kongresu přinášíme rozhovor s profesorem komparativní literatury Queen Mary University, Galinem Tihanovem.",
@@ -501,6 +493,14 @@
     "description": "Lucie Martínková žije v Tišnově, v oblasti Boskovické brázdy. Zejména tato krajina se propisuje do její tvorby. Nosí v sobě však i další místa, v nichž dosud žila: slovenské lazy v okolí Zvolena, Irsko, Kutnohorsko. „Vzpomínky na všechny tyto životní etapy se ve mně neustále probouzejí, často právě…",
     "date": "2026-08-24T00:00:00",
     "author": "Markéta Stulírová",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Smlouva s ďáblem je stále aktuální",
+    "url": "https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni",
+    "description": "Radka Bodzewicz v aktuální výstavě v galerii DOX zpracovává téma Fausta a jeho smlouvy s ďáblem. Každé patro výstavy věnuje jedné z ústředních postav Goethovy dramatické básně: Mefistofeles, Markétka, Faust. S malířkou hovoříme o literárních vlivech, spiritualitě a nebezpečí moderních technologií.",
+    "date": "2026-08-25T00:00:00",
+    "author": "Václav Maxmilián",
     "category": "rozhovor"
   }
 ]

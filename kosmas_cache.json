@@ -1,5 +1,157 @@
 [
   {
+    "title": "Věk mýtů",
+    "url": "https://www.kosmas.cz/knihy/568763/vek-mytu/",
+    "description": "Věk mýtů - Michael J. Sullivan",
+    "authors": [
+      "Michael J. Sullivan"
+    ],
+    "date": "2026-08-25T06:58:58.345987+00:00"
+  },
+  {
+    "title": "Černá vlčice",
+    "url": "https://www.kosmas.cz/knihy/568765/cerna-vlcice/",
+    "description": "Černá vlčice - Juan Gómez-Jurado",
+    "authors": [
+      "Juan Gómez-Jurado"
+    ],
+    "date": "2026-08-25T06:58:57.345987+00:00"
+  },
+  {
+    "title": "Spící chlapec",
+    "url": "https://www.kosmas.cz/knihy/568771/spici-chlapec/",
+    "description": "Spící chlapec - Kristýna Vlasáková",
+    "authors": [
+      "Kristýna Vlasáková"
+    ],
+    "date": "2026-08-25T06:58:56.345987+00:00"
+  },
+  {
+    "title": "Fantastický svět prvků",
+    "url": "https://www.kosmas.cz/knihy/566191/fantasticky-svet-prvku/",
+    "description": "Fantastický svět prvků - Philip Ball",
+    "authors": [
+      "Philip Ball"
+    ],
+    "date": "2026-08-25T06:58:55.345987+00:00"
+  },
+  {
+    "title": "Babiččiny rady pro domácnost",
+    "url": "https://www.kosmas.cz/knihy/572213/babicciny-rady-pro-domacnost/",
+    "description": "Babiččiny rady pro domácnost - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-08-25T06:58:54.345987+00:00"
+  },
+  {
+    "title": "Bylinkové rady naší babičky",
+    "url": "https://www.kosmas.cz/knihy/572214/bylinkove-rady-nasi-babicky/",
+    "description": "Bylinkové rady naší babičky - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-08-25T06:58:53.345987+00:00"
+  },
+  {
+    "title": "Jiří Kolář: X Bienal de São Paulo CZ (česká verze)",
+    "url": "https://www.kosmas.cz/knihy/572282/jiri-kolar-x-bienal-de-s-o-paulo-cz-ceska-verze/",
+    "description": "Jiří Kolář: X Bienal de São Paulo CZ (česká verze) - Rado Ištok",
+    "authors": [
+      "Rado Ištok"
+    ],
+    "date": "2026-08-25T06:58:49.345987+00:00"
+  },
+  {
+    "title": "Můj klavír 2",
+    "url": "https://www.kosmas.cz/knihy/572284/muj-klavir-2/",
+    "description": "Můj klavír 2 - Eva Lorenc",
+    "authors": [
+      "Eva Lorenc"
+    ],
+    "date": "2026-08-25T06:58:48.345987+00:00"
+  },
+  {
+    "title": "50 otázek na cestě k lepšímu životu",
+    "url": "https://www.kosmas.cz/knihy/572332/50-otazek-na-ceste-k-lepsimu-zivotu/",
+    "description": "50 otázek na cestě k lepšímu životu - Natalia Bykova",
+    "authors": [
+      "Natalia Bykova"
+    ],
+    "date": "2026-08-25T06:58:47.345987+00:00"
+  },
+  {
+    "title": "Ve jménu milosrdenství",
+    "url": "https://www.kosmas.cz/knihy/572333/ve-jmenu-milosrdenstvi/",
+    "description": "Ve jménu milosrdenství - Hera Lindová",
+    "authors": [
+      "Hera Lindová"
+    ],
+    "date": "2026-08-25T06:58:46.345987+00:00"
+  },
+  {
+    "title": "Počkej chvilku",
+    "url": "https://www.kosmas.cz/knihy/572551/pockej-chvilku/",
+    "description": "Počkej chvilku - Rachel Williams",
+    "authors": [
+      "Rachel Williams"
+    ],
+    "date": "2026-08-25T06:58:45.345987+00:00"
+  },
+  {
+    "title": "Velká kniha luštění",
+    "url": "https://www.kosmas.cz/knihy/572552/velka-kniha-lusteni/",
+    "description": "Velká kniha luštění",
+    "authors": [],
+    "date": "2026-08-25T06:58:44.345987+00:00"
+  },
+  {
+    "title": "Tak to bylo. Štít 84 a Žatecký vzlet",
+    "url": "https://www.kosmas.cz/knihy/572556/tak-to-bylo.-stit-84-a-zatecky-vzlet/",
+    "description": "Tak to bylo. Štít 84 a Žatecký vzlet - Václav Vašek",
+    "authors": [
+      "Václav Vašek"
+    ],
+    "date": "2026-08-25T06:58:43.345987+00:00"
+  },
+  {
+    "title": "Vymazaná z fotky",
+    "url": "https://www.kosmas.cz/knihy/572561/vymazana-z-fotky/",
+    "description": "Vymazaná z fotky - Faycal Berrouche",
+    "authors": [
+      "Faycal Berrouche"
+    ],
+    "date": "2026-08-25T06:58:42.345987+00:00"
+  },
+  {
+    "title": "Obtěžkáni zlem aneb Po čtyřiceti letech",
+    "url": "https://www.kosmas.cz/knihy/572564/obtezkani-zlem-aneb-po-ctyriceti-letech/",
+    "description": "Obtěžkáni zlem aneb Po čtyřiceti letech - Arkadij Strugackij, Boris Strugackij",
+    "authors": [
+      "Arkadij Strugackij",
+      "Boris Strugackij"
+    ],
+    "date": "2026-08-25T06:58:41.345987+00:00"
+  },
+  {
+    "title": "Jsme jen náhoda?",
+    "url": "https://www.kosmas.cz/knihy/572565/jsme-jen-nahoda/",
+    "description": "Jsme jen náhoda? - Eduard Kejnovský",
+    "authors": [
+      "Eduard Kejnovský"
+    ],
+    "date": "2026-08-25T06:58:40.345987+00:00"
+  },
+  {
+    "title": "Stíny v lese",
+    "url": "https://www.kosmas.cz/knihy/572566/stiny-v-lese/",
+    "description": "Stíny v lese - Faycal Berrouche",
+    "authors": [
+      "Faycal Berrouche"
+    ],
+    "date": "2026-08-25T06:58:39.345987+00:00"
+  },
+  {
     "title": "Mohla by být jeho dcera",
     "url": "https://www.kosmas.cz/knihy/572253/mohla-by-byt-jeho-dcera/",
     "description": "Mohla by být jeho dcera - Jennette McCurdy",
@@ -1611,153 +1763,5 @@
       "Christie Golden"
     ],
     "date": "2026-08-11T07:18:41.697821+00:00"
-  },
-  {
-    "title": "Warcraft: Legendy 4",
-    "url": "https://www.kosmas.cz/knihy/571922/warcraft-legendy-4/",
-    "description": "Warcraft: Legendy 4 - Richard A. Knaak, Christie Golden",
-    "authors": [
-      "Richard A. Knaak",
-      "Christie Golden"
-    ],
-    "date": "2026-08-11T07:18:40.697821+00:00"
-  },
-  {
-    "title": "Rubáš",
-    "url": "https://www.kosmas.cz/knihy/571923/rubas/",
-    "description": "Rubáš - Adrian Tchaikovsky",
-    "authors": [
-      "Adrian Tchaikovsky"
-    ],
-    "date": "2026-08-11T07:18:39.697821+00:00"
-  },
-  {
-    "title": "Morálka práva",
-    "url": "https://www.kosmas.cz/knihy/571930/moralka-prava/",
-    "description": "Morálka práva - Lon L. Fuller",
-    "authors": [
-      "Lon L. Fuller"
-    ],
-    "date": "2026-08-11T07:18:38.697821+00:00"
-  },
-  {
-    "title": "Kakegurui: Blázni do hazardu 7",
-    "url": "https://www.kosmas.cz/knihy/571946/kakegurui-blazni-do-hazardu-7/",
-    "description": "Kakegurui: Blázni do hazardu 7 - Homura Kawamoto",
-    "authors": [
-      "Homura Kawamoto"
-    ],
-    "date": "2026-08-11T07:18:37.697821+00:00"
-  },
-  {
-    "title": "Zábavné osmisměrky",
-    "url": "https://www.kosmas.cz/knihy/571962/zabavne-osmismerky/",
-    "description": "Zábavné osmisměrky",
-    "authors": [],
-    "date": "2026-08-11T07:18:36.697821+00:00"
-  },
-  {
-    "title": "Krížovky a osemsmerovky pre každého",
-    "url": "https://www.kosmas.cz/knihy/571963/krizovky-a-osemsmerovky-pre-kazdeho/",
-    "description": "Krížovky a osemsmerovky pre každého",
-    "authors": [],
-    "date": "2026-08-11T07:18:35.697821+00:00"
-  },
-  {
-    "title": "Atlas koček",
-    "url": "https://www.kosmas.cz/knihy/571964/atlas-kocek/",
-    "description": "Atlas koček",
-    "authors": [],
-    "date": "2026-08-11T07:18:34.697821+00:00"
-  },
-  {
-    "title": "Chrabrá tlapka: A Pařátovec z Hnilohájských močálů",
-    "url": "https://www.kosmas.cz/knihy/571965/chrabra-tlapka-a-paratovec-z-hnilohajskych-mocalu/",
-    "description": "Chrabrá tlapka: A Pařátovec z Hnilohájských močálů - L.M. Wilkinson",
-    "authors": [
-      "L.M. Wilkinson"
-    ],
-    "date": "2026-08-11T07:18:33.697821+00:00"
-  },
-  {
-    "title": "Bezmocně",
-    "url": "https://www.kosmas.cz/knihy/571697/bezmocne/",
-    "description": "Bezmocně - Elsie Silver",
-    "authors": [
-      "Elsie Silver"
-    ],
-    "date": "2026-08-10T07:55:34.839992+00:00"
-  },
-  {
-    "title": "Olmerka",
-    "url": "https://www.kosmas.cz/knihy/571705/olmerka/",
-    "description": "Olmerka - Petr Jarchovský",
-    "authors": [
-      "Petr Jarchovský"
-    ],
-    "date": "2026-08-10T07:55:33.839992+00:00"
-  },
-  {
-    "title": "Lakestone: Srdce temnoty",
-    "url": "https://www.kosmas.cz/knihy/569980/lakestone-srdce-temnoty/",
-    "description": "Lakestone: Srdce temnoty - Sarah Rivens",
-    "authors": [
-      "Sarah Rivens"
-    ],
-    "date": "2026-08-10T07:55:31.839992+00:00"
-  },
-  {
-    "title": "Rok v keramické dílně",
-    "url": "https://www.kosmas.cz/knihy/569983/rok-v-keramicke-dilne/",
-    "description": "Rok v keramické dílně - Jon Somin",
-    "authors": [
-      "Jon Somin"
-    ],
-    "date": "2026-08-10T07:55:30.839992+00:00"
-  },
-  {
-    "title": "Mariborská hypnóza",
-    "url": "https://www.kosmas.cz/knihy/570003/mariborska-hypnoza/",
-    "description": "Mariborská hypnóza - Dora Kaprálová",
-    "authors": [
-      "Dora Kaprálová"
-    ],
-    "date": "2026-08-10T07:55:29.839992+00:00"
-  },
-  {
-    "title": "Navždy s láskou Lara Jean",
-    "url": "https://www.kosmas.cz/knihy/570006/navzdy-s-laskou-lara-jean/",
-    "description": "Navždy s láskou Lara Jean - Jenny Han",
-    "authors": [
-      "Jenny Han"
-    ],
-    "date": "2026-08-10T07:55:28.839992+00:00"
-  },
-  {
-    "title": "Auta - Kamarádi auta - Komiksové příběhy",
-    "url": "https://www.kosmas.cz/knihy/570075/auta-kamaradi-auta-komiksove-pribehy/",
-    "description": "Auta - Kamarádi auta - Komiksové příběhy - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-10T07:55:27.839992+00:00"
-  },
-  {
-    "title": "Dobrodružství medvídka Paddingtona - Veselé příhody",
-    "url": "https://www.kosmas.cz/knihy/570098/dobrodruzstvi-medvidka-paddingtona-vesele-prihody/",
-    "description": "Dobrodružství medvídka Paddingtona - Veselé příhody - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-10T07:55:26.839992+00:00"
-  },
-  {
-    "title": "Kaštánek: Jedna, dvě",
-    "url": "https://www.kosmas.cz/knihy/570102/kastanek-jedna-dve/",
-    "description": "Kaštánek: Jedna, dvě - Soren Sveistrup",
-    "authors": [
-      "Soren Sveistrup"
-    ],
-    "date": "2026-08-10T07:55:25.839992+00:00"
   }
 ]
