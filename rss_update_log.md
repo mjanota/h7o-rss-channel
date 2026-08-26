@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-26 07:00:04 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Černobílý svět
+2. Bohatá rodina, chytrá rodina
+3. Tvrdý zásah
+4. Císař římský
+5. Zapálená starostka, která měla fištróna
+6. Než jsem se začala milovat
+7. Deník z Florencie
+8. Love Me Wild: Miluj mě každým svým slovem
+9. Lotos
+10. Cesta do Jonestownu
+11. „Dá to fušku, než se člověk dostane na šibenici"
+12. Tam, kde býval Mušov
+13. Zlepši svůj život
+14. VISIT Czechoslovakia! Příběhy českých a slovenských cestovatelských plakátů
+15. O prometheovském studu
+16. Přístav volá
+17. Pod junáckou vlajkou
+18. Policejní křeček a zámecký zloděj
+19. Chlapec kometa
+20. Na čtyřech
+
+---
+
+## 🕐 2026-08-26 07:00:02 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Ukrajina přichází o své knihy
+
+---
+
 ## 🕐 2026-08-25 06:58:58 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -230,53 +277,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Chtěla bych být básnířkou bez filtru
-
----
-
-## 🕐 2026-08-19 06:55:54 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Mlčení přichází jako první
-2. Pod vodou
-3. Planeta idiotů
-4. Idealista
-5. Žena na schodech
-6. Tučná fakta
-7. Teorie subjektivity
-8. Lobo: Jehněčí jatka a další příběhy
-9. Rehabilitace lidských tragédií
-10. Líbánky s Múzou na Hané
-11. Vím, kdo jsi
-12. Vysvědčení
-13. Světluška Věruška
-14. Kniha s diamantovými samolepkami - JEDNOROŽCI - Navrhuj a Lep
-15. Kniha s diamantovými samolepkami - MODNÍ PŘEHLÍDKA - Navrhuj a Lep
-16. Kniha s diamantovými samolepkami - TANEČNÍ STUDIO - Navrhuj a Lep
-17. Kniha s diamantovými samolepkami - PRINCEZNY - Navrhuj a Lep
-18. Neohrožení dinosauři - Vybarvuj a lep
-19. Úžasní jednorožci- Vybarvuj a lep
-20. DINOSAUŘI- Kniha plná hrátek a aktivit s 3D samolepkami
-
----
-
-## 🕐 2026-08-19 06:55:53 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Kniha, která zachraňuje literaturu
 
 ---
 

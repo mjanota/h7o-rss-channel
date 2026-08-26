@@ -1,5 +1,186 @@
 [
   {
+    "title": "Černobílý svět",
+    "url": "https://www.kosmas.cz/knihy/572346/cernobily-svet/",
+    "description": "Černobílý svět - Kathryn Stockettová",
+    "authors": [
+      "Kathryn Stockettová"
+    ],
+    "date": "2026-08-26T07:00:04.433322+00:00"
+  },
+  {
+    "title": "Bohatá rodina, chytrá rodina",
+    "url": "https://www.kosmas.cz/knihy/572367/bohata-rodina-chytra-rodina/",
+    "description": "Bohatá rodina, chytrá rodina - Robert T. Kiyosaki",
+    "authors": [
+      "Robert T. Kiyosaki"
+    ],
+    "date": "2026-08-26T07:00:03.433322+00:00"
+  },
+  {
+    "title": "Tvrdý zásah",
+    "url": "https://www.kosmas.cz/knihy/572368/tvrdy-zasah/",
+    "description": "Tvrdý zásah - Valérie Podrázská",
+    "authors": [
+      "Valérie Podrázská"
+    ],
+    "date": "2026-08-26T07:00:02.433322+00:00"
+  },
+  {
+    "title": "Císař římský",
+    "url": "https://www.kosmas.cz/knihy/571727/cisar-rimsky/",
+    "description": "Císař římský - Mary Beardová",
+    "authors": [
+      "Mary Beardová"
+    ],
+    "date": "2026-08-26T07:00:01.433322+00:00"
+  },
+  {
+    "title": "Zapálená starostka, která měla fištróna",
+    "url": "https://www.kosmas.cz/knihy/571484/zapalena-starostka-ktera-mela-fistrona/",
+    "description": "Zapálená starostka, která měla fištróna - Jonas Jonasson",
+    "authors": [
+      "Jonas Jonasson"
+    ],
+    "date": "2026-08-26T07:00:00.433322+00:00"
+  },
+  {
+    "title": "Než jsem se začala milovat",
+    "url": "https://www.kosmas.cz/knihy/571776/nez-jsem-se-zacala-milovat/",
+    "description": "Než jsem se začala milovat - Veronika Dostál Mühlová",
+    "authors": [
+      "Veronika Dostál Mühlová"
+    ],
+    "date": "2026-08-26T06:59:59.433322+00:00"
+  },
+  {
+    "title": "Deník z Florencie",
+    "url": "https://www.kosmas.cz/knihy/571612/denik-z-florencie/",
+    "description": "Deník z Florencie - Daniela Sacerdotiová",
+    "authors": [
+      "Daniela Sacerdotiová"
+    ],
+    "date": "2026-08-26T06:59:58.433322+00:00"
+  },
+  {
+    "title": "Love Me Wild: Miluj mě každým svým slovem",
+    "url": "https://www.kosmas.cz/knihy/571613/love-me-wild-miluj-me-kazdym-svym-slovem/",
+    "description": "Love Me Wild: Miluj mě každým svým slovem - Lane Melanie",
+    "authors": [
+      "Lane Melanie"
+    ],
+    "date": "2026-08-26T06:59:57.433322+00:00"
+  },
+  {
+    "title": "Lotos",
+    "url": "https://www.kosmas.cz/knihy/571614/lotos/",
+    "description": "Lotos - Jennifer Hartmannová",
+    "authors": [
+      "Jennifer Hartmannová"
+    ],
+    "date": "2026-08-26T06:59:56.433322+00:00"
+  },
+  {
+    "title": "Cesta do Jonestownu",
+    "url": "https://www.kosmas.cz/knihy/566306/cesta-do-jonestownu/",
+    "description": "Cesta do Jonestownu - Jeff Guinn",
+    "authors": [
+      "Jeff Guinn"
+    ],
+    "date": "2026-08-26T06:59:55.433322+00:00"
+  },
+  {
+    "title": "„Dá to fušku, než se člověk dostane na šibenici\"",
+    "url": "https://www.kosmas.cz/knihy/564531/da-to-fusku-nez-se-clovek-dostane-na-sibenici/",
+    "description": "„Dá to fušku, než se člověk dostane na šibenici\" - David Pavlát",
+    "authors": [
+      "David Pavlát"
+    ],
+    "date": "2026-08-26T06:59:54.433322+00:00"
+  },
+  {
+    "title": "Tam, kde býval Mušov",
+    "url": "https://www.kosmas.cz/knihy/563413/tam-kde-byval-musov/",
+    "description": "Tam, kde býval Mušov - Anna Strnadová",
+    "authors": [
+      "Anna Strnadová"
+    ],
+    "date": "2026-08-26T06:59:53.433322+00:00"
+  },
+  {
+    "title": "Zlepši svůj život",
+    "url": "https://www.kosmas.cz/knihy/572202/zlepsi-svuj-zivot/",
+    "description": "Zlepši svůj život - Petr Lukášek",
+    "authors": [
+      "Petr Lukášek"
+    ],
+    "date": "2026-08-26T06:59:52.433322+00:00"
+  },
+  {
+    "title": "VISIT Czechoslovakia! Příběhy českých a slovenských cestovatelských plakátů",
+    "url": "https://www.kosmas.cz/knihy/571324/visit-czechoslovakia-pribehy-cesky-ch-a-slovensky-ch-cestovatelsky-ch-plakatu/",
+    "description": "VISIT Czechoslovakia! Příběhy českých a slovenských cestovatelských plakátů - Linda Kudrnovská",
+    "authors": [
+      "Linda Kudrnovská"
+    ],
+    "date": "2026-08-26T06:59:51.433322+00:00"
+  },
+  {
+    "title": "O prometheovském studu",
+    "url": "https://www.kosmas.cz/knihy/572327/o-prometheovskem-studu/",
+    "description": "O prometheovském studu - Günther Anders, Tereza Matějčková",
+    "authors": [
+      "Günther Anders",
+      "Tereza Matějčková"
+    ],
+    "date": "2026-08-26T06:59:50.433322+00:00"
+  },
+  {
+    "title": "Přístav volá",
+    "url": "https://www.kosmas.cz/knihy/572558/pristav-vola/",
+    "description": "Přístav volá - Jaroslav Foglar",
+    "authors": [
+      "Jaroslav Foglar"
+    ],
+    "date": "2026-08-26T06:59:49.433322+00:00"
+  },
+  {
+    "title": "Pod junáckou vlajkou",
+    "url": "https://www.kosmas.cz/knihy/572560/pod-junackou-vlajkou/",
+    "description": "Pod junáckou vlajkou - Jaroslav Foglar",
+    "authors": [
+      "Jaroslav Foglar"
+    ],
+    "date": "2026-08-26T06:59:48.433322+00:00"
+  },
+  {
+    "title": "Policejní křeček a zámecký zloděj",
+    "url": "https://www.kosmas.cz/knihy/572562/policejni-krecek-a-zamecky-zlodej/",
+    "description": "Policejní křeček a zámecký zloděj - Daniela Krolupperová",
+    "authors": [
+      "Daniela Krolupperová"
+    ],
+    "date": "2026-08-26T06:59:47.433322+00:00"
+  },
+  {
+    "title": "Chlapec kometa",
+    "url": "https://www.kosmas.cz/knihy/563633/chlapec-kometa/",
+    "description": "Chlapec kometa - Baptiste Cogitore",
+    "authors": [
+      "Baptiste Cogitore"
+    ],
+    "date": "2026-08-26T06:59:46.433322+00:00"
+  },
+  {
+    "title": "Na čtyřech",
+    "url": "https://www.kosmas.cz/knihy/549542/na-ctyrech/",
+    "description": "Na čtyřech - Miranda July",
+    "authors": [
+      "Miranda July"
+    ],
+    "date": "2026-08-26T06:59:45.433322+00:00"
+  },
+  {
     "title": "Věk mýtů",
     "url": "https://www.kosmas.cz/knihy/568763/vek-mytu/",
     "description": "Věk mýtů - Michael J. Sullivan",
@@ -1581,187 +1762,5 @@
       "Vladimír Zlý"
     ],
     "date": "2026-08-12T07:42:34.482934+00:00"
-  },
-  {
-    "title": "Nebe je pořád fialové",
-    "url": "https://www.kosmas.cz/knihy/565127/nebe-je-porad-fialove/",
-    "description": "Nebe je pořád fialové - Sholeh Rezazadeh",
-    "authors": [
-      "Sholeh Rezazadeh"
-    ],
-    "date": "2026-08-12T07:42:33.482934+00:00"
-  },
-  {
-    "title": "Bez úzkosti",
-    "url": "https://www.kosmas.cz/knihy/572015/bez-uzkosti/",
-    "description": "Bez úzkosti - Martha Beck",
-    "authors": [
-      "Martha Beck"
-    ],
-    "date": "2026-08-12T07:42:32.482934+00:00"
-  },
-  {
-    "title": "Paměti",
-    "url": "https://www.kosmas.cz/knihy/572016/pameti/",
-    "description": "Paměti - Farah Pahlaví",
-    "authors": [
-      "Farah Pahlaví"
-    ],
-    "date": "2026-08-12T07:42:31.482934+00:00"
-  },
-  {
-    "title": "Dvoustěžňové lodě a malá plavidla",
-    "url": "https://www.kosmas.cz/knihy/571057/dvousteznove-lode-a-mala-plavidla/",
-    "description": "Dvoustěžňové lodě a malá plavidla - Miloslav Cajthaml",
-    "authors": [
-      "Miloslav Cajthaml"
-    ],
-    "date": "2026-08-12T07:42:30.482934+00:00"
-  },
-  {
-    "title": "Uni 8/2026",
-    "url": "https://www.kosmas.cz/knihy/569842/uni-8-2026/",
-    "description": "Uni 8/2026",
-    "authors": [],
-    "date": "2026-08-12T07:42:29.482934+00:00"
-  },
-  {
-    "title": "Zmizení mladé dámy",
-    "url": "https://www.kosmas.cz/knihy/569238/zmizeni-mlade-damy/",
-    "description": "Zmizení mladé dámy - Matthew Costello, Neil Richards",
-    "authors": [
-      "Matthew Costello",
-      "Neil Richards"
-    ],
-    "date": "2026-08-12T07:42:28.482934+00:00"
-  },
-  {
-    "title": "S cejchem vyvržence",
-    "url": "https://www.kosmas.cz/knihy/569239/s-cejchem-vyvrzence/",
-    "description": "S cejchem vyvržence - Martin Nesměrák",
-    "authors": [
-      "Martin Nesměrák"
-    ],
-    "date": "2026-08-12T07:42:27.482934+00:00"
-  },
-  {
-    "title": "Případ arogantního romanopisce",
-    "url": "https://www.kosmas.cz/knihy/569240/pripad-arogantniho-romanopisce/",
-    "description": "Případ arogantního romanopisce - Václav Gruber",
-    "authors": [
-      "Václav Gruber"
-    ],
-    "date": "2026-08-12T07:42:26.482934+00:00"
-  },
-  {
-    "title": "Zvěrolékař a kočičí historky",
-    "url": "https://www.kosmas.cz/knihy/569280/zverolekar-a-kocici-historky/",
-    "description": "Zvěrolékař a kočičí historky - James Herriot",
-    "authors": [
-      "James Herriot"
-    ],
-    "date": "2026-08-12T07:42:25.482934+00:00"
-  },
-  {
-    "title": "Bratrstvo neohrožených: Velitel",
-    "url": "https://www.kosmas.cz/knihy/569284/bratrstvo-neohrozenych-velitel/",
-    "description": "Bratrstvo neohrožených: Velitel - Cole C. Kingseed, Richard Davis Winters",
-    "authors": [
-      "Cole C. Kingseed",
-      "Richard Davis Winters"
-    ],
-    "date": "2026-08-12T07:42:24.482934+00:00"
-  },
-  {
-    "title": "Nástěnný kalendář. Martin Patřičný 2027",
-    "url": "https://www.kosmas.cz/knihy/571541/nastenny-kalendar.-martin-patricny-2027/",
-    "description": "Nástěnný kalendář. Martin Patřičný 2027 - Martin Patřičný",
-    "authors": [
-      "Martin Patřičný"
-    ],
-    "date": "2026-08-11T07:18:52.697821+00:00"
-  },
-  {
-    "title": "První z čarodějnic",
-    "url": "https://www.kosmas.cz/knihy/571542/prvni-z-carodejnic/",
-    "description": "První z čarodějnic - Andrea Catalno",
-    "authors": [
-      "Andrea Catalno"
-    ],
-    "date": "2026-08-11T07:18:51.697821+00:00"
-  },
-  {
-    "title": "Vykopat hroby",
-    "url": "https://www.kosmas.cz/knihy/571570/vykopat-hroby/",
-    "description": "Vykopat hroby - Jakub Hoza",
-    "authors": [
-      "Jakub Hoza"
-    ],
-    "date": "2026-08-11T07:18:50.697821+00:00"
-  },
-  {
-    "title": "Tajemství pivovaru",
-    "url": "https://www.kosmas.cz/knihy/571582/tajemstvi-pivovaru/",
-    "description": "Tajemství pivovaru - J.R. Ellis",
-    "authors": [
-      "J.R. Ellis"
-    ],
-    "date": "2026-08-11T07:18:49.697821+00:00"
-  },
-  {
-    "title": "Dech jako lék",
-    "url": "https://www.kosmas.cz/knihy/571802/dech-jako-lek/",
-    "description": "Dech jako lék - Pavlína Brzáková, Feng-jün Song",
-    "authors": [
-      "Pavlína Brzáková",
-      "Feng-jün Song"
-    ],
-    "date": "2026-08-11T07:18:46.697821+00:00"
-  },
-  {
-    "title": "My girl: Radost s tebou žít 2",
-    "url": "https://www.kosmas.cz/knihy/571916/my-girl-radost-s-tebou-zit-2/",
-    "description": "My girl: Radost s tebou žít 2 - Mizu Sahara",
-    "authors": [
-      "Mizu Sahara"
-    ],
-    "date": "2026-08-11T07:18:45.697821+00:00"
-  },
-  {
-    "title": "Vinlandská sága 3",
-    "url": "https://www.kosmas.cz/knihy/571918/vinlandska-saga-3/",
-    "description": "Vinlandská sága 3 - Makoto Jukimura",
-    "authors": [
-      "Makoto Jukimura"
-    ],
-    "date": "2026-08-11T07:18:44.697821+00:00"
-  },
-  {
-    "title": "Medailistka 3",
-    "url": "https://www.kosmas.cz/knihy/571919/medailistka-3/",
-    "description": "Medailistka 3 - Curumaikada",
-    "authors": [
-      "Curumaikada"
-    ],
-    "date": "2026-08-11T07:18:43.697821+00:00"
-  },
-  {
-    "title": "Frieren - Když jedna cesta končí 7",
-    "url": "https://www.kosmas.cz/knihy/571920/frieren-kdyz-jedna-cesta-konci-7/",
-    "description": "Frieren - Když jedna cesta končí 7 - Jamada Kanehito",
-    "authors": [
-      "Jamada Kanehito"
-    ],
-    "date": "2026-08-11T07:18:42.697821+00:00"
-  },
-  {
-    "title": "Warcraft: Legendy 5",
-    "url": "https://www.kosmas.cz/knihy/571921/warcraft-legendy-5/",
-    "description": "Warcraft: Legendy 5 - Richard A. Knaak, Christie Golden",
-    "authors": [
-      "Richard A. Knaak",
-      "Christie Golden"
-    ],
-    "date": "2026-08-11T07:18:41.697821+00:00"
   }
 ]

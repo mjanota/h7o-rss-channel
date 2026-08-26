@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:00:02 +0000</lastBuildDate>
+    <item>
+      <title>Ukrajina přichází o své knihy</title>
+      <link>https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy</link>
+      <description>Ukrajinští nakladatelé naléhají na prezidenta Volodymyra Zelenského, aby stát pomohl při obnově knižního průmyslu. Ruské útoky z posledních týdnů jej totiž uvrhly do existenční krize.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Smlouva s ďáblem je stále aktuální</title>
       <link>https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni</link>
@@ -441,13 +448,6 @@
       <description>Barbora Müllerová ve své knize „Atlas křoví“ prochází slepými skvrnami uvnitř i na okrajích měst, kde se střetávají okraje lidského s divokou přírodou, a básnicky je prozkoumává.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14529-parchantsky-kere-a-naraznikove-zony</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Život po životě literární teorie</title>
-      <link>https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie</link>
-      <description>Jak se proměnila kritéria literárnosti od období ruského formalismu? Existuje jediná „světová literatura“? Jaký má dnes literární teorie vůbec význam? V rámci seriálu k letošnímu bohemistickému kongresu přinášíme rozhovor s profesorem komparativní literatury Queen Mary University, Galinem Tihanovem.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

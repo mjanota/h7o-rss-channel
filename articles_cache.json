@@ -1,13 +1,5 @@
 [
   {
-    "title": "Život po životě literární teorie",
-    "url": "https://www.h7o.cz/clanky/14512-zivot-po-zivote-literarni-teorie",
-    "description": "Jak se proměnila kritéria literárnosti od období ruského formalismu? Existuje jediná „světová literatura“? Jaký má dnes literární teorie vůbec význam? V rámci seriálu k letošnímu bohemistickému kongresu přinášíme rozhovor s profesorem komparativní literatury Queen Mary University, Galinem Tihanovem.",
-    "date": "2026-05-28T00:00:00",
-    "author": "Anna Škrabánková",
-    "category": "seriál"
-  },
-  {
     "title": "Parchantský keře a nárazníkové zóny",
     "url": "https://www.h7o.cz/clanky/14529-parchantsky-kere-a-naraznikove-zony",
     "description": "Barbora Müllerová ve své knize „Atlas křoví“ prochází slepými skvrnami uvnitř i na okrajích měst, kde se střetávají okraje lidského s divokou přírodou, a básnicky je prozkoumává.",
@@ -502,5 +494,13 @@
     "date": "2026-08-25T00:00:00",
     "author": "Václav Maxmilián",
     "category": "rozhovor"
+  },
+  {
+    "title": "Ukrajina přichází o své knihy",
+    "url": "https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy",
+    "description": "Ukrajinští nakladatelé naléhají na prezidenta Volodymyra Zelenského, aby stát pomohl při obnově knižního průmyslu. Ruské útoky z posledních týdnů jej totiž uvrhly do existenční krize.",
+    "date": "2026-08-26T00:00:00",
+    "author": "Václav Maxmilián",
+    "category": "zprávy"
   }
 ]
