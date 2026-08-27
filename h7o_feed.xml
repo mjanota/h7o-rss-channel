@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:33:46 +0000</lastBuildDate>
+    <item>
+      <title>Imaginární pobřeží: co může české literatuře přinést moře</title>
+      <link>https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more</link>
+      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o metafoře Česka jako země na pobřeží, se kterou do Německa jedeme.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ukrajina přichází o své knihy</title>
       <link>https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy</link>
@@ -441,13 +448,6 @@
       <description>Jsou oblasti života, kde věda ztrácí řeč. Dokáže si v těchto místech vzít slovo literatura, ptá se v eseji Tereza D. Reichelová. Je vůbec řeč tím, co udržuje naši intimitu s realitou? Vystudované politoložce a filozofce v těchto dnech vychází v nakladatelství Host i románová prvotina „Acheron“.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat</guid>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parchantský keře a nárazníkové zóny</title>
-      <link>https://www.h7o.cz/clanky/14529-parchantsky-kere-a-naraznikove-zony</link>
-      <description>Barbora Müllerová ve své knize „Atlas křoví“ prochází slepými skvrnami uvnitř i na okrajích měst, kde se střetávají okraje lidského s divokou přírodou, a básnicky je prozkoumává.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14529-parchantsky-kere-a-naraznikove-zony</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Parchantský keře a nárazníkové zóny",
-    "url": "https://www.h7o.cz/clanky/14529-parchantsky-kere-a-naraznikove-zony",
-    "description": "Barbora Müllerová ve své knize „Atlas křoví“ prochází slepými skvrnami uvnitř i na okrajích měst, kde se střetávají okraje lidského s divokou přírodou, a básnicky je prozkoumává.",
-    "date": "2026-05-29T00:00:00",
-    "author": "Roman Polách",
-    "category": "recenze"
-  },
-  {
     "title": "Potřebujeme tmu, jestli se máme rozkoukat!",
     "url": "https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat",
     "description": "Jsou oblasti života, kde věda ztrácí řeč. Dokáže si v těchto místech vzít slovo literatura, ptá se v eseji Tereza D. Reichelová. Je vůbec řeč tím, co udržuje naši intimitu s realitou? Vystudované politoložce a filozofce v těchto dnech vychází v nakladatelství Host i románová prvotina „Acheron“.",
@@ -502,5 +494,13 @@
     "date": "2026-08-26T00:00:00",
     "author": "Václav Maxmilián",
     "category": "zprávy"
+  },
+  {
+    "title": "Imaginární pobřeží: co může české literatuře přinést moře",
+    "url": "https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o metafoře Česka jako země na pobřeží, se kterou do Německa jedeme.",
+    "date": "2026-08-27T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

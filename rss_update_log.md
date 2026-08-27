@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-27 17:33:48 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. To já jsem uměním
+2. Moje chytrá knihovnička: První slova
+3. Korán – mýty a fakta o posvátné knize islámu
+4. Ozvěny přízraků
+5. Mozek a řeč
+6. Insectopolis
+7. Čáry máry - Zvuky v pohybu
+8. New age, „ezo“, alternativní spiritualita
+9. Užitá speciální pedagogika
+10. Seber se a jdi
+11. Nákladní vozy 1918–1945 – Soukromé vozy 2
+12. Jošt: Cena vzpomínek
+13. Doba pitomců
+14. NOVÝ Minutový Manažer
+15. Go Giver Influencer
+16. Havran a královna
+17. Janka, Jonáš, Berta
+18. Úzké kosti půlnočních komínů
+19. Ničema
+20. Teta to plete
+
+---
+
+## 🕐 2026-08-27 17:33:46 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Imaginární pobřeží: co může české literatuře přinést moře
+
+---
+
 ## 🕐 2026-08-26 07:00:04 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -235,48 +282,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-08-20 06:57:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Dvůr monster a zloby
-2. Firemní kultura jako motor úspěchu
-3. Bizarní hmyz
-4. Gudasové: Příběh dvou generací
-5. Hvězdy fotbalového hřiště - Silva
-6. Procházky Frýdkem-Místkem
-7. Mušlenčiny léčivé příběhy - Cesta hrdiny
-8. Případ obrazu ve zlatém rámu
-9. Sporťákovy pohádky o zvířátkách
-10. Superštěňátka: Puf a Nela zdolají každou překážku
-11. Vlkodlak
-12. Páteční knihkupectví
-13. Velmi nebezpečná hra
-14. Petal
-15. VITA CONSECRATA, Zasvěcený život
-
----
-
-## 🕐 2026-08-20 06:57:04 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Chtěla bych být básnířkou bez filtru
 
 ---
 
