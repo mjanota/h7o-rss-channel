@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-28 18:31:03 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Kompendium ztracených příběhů Emily Wildové
+2. Nerovný souboj
+3. Tento příběh nemá mateřštinu
+4. Nákladní vozy 1918–1945 – Soukromé vozy 1
+5. Memorix anatomie
+6. Exodus: Archimédovy stroje
+7. Deadpool 1: Žoldnéřina těžká dřina
+8. Jak jsem se reinkarnoval coby sliz 18
+9. Večeře s vrahem Lewellynem 2
+10. Star Wars: Mandalorian 3
+11. Bleach 47: End Of The Chrysalis Age
+12. Poslední tón
+13. Stín Pražského hradu
+14. Chci si s tebou zatextovat
+15. Barunčin Deník přání
+16. Disney - Platinová kolekce
+17. Stitch - 7 pohádek na dobrou noc
+18. Princezna - Platinová kolekce
+19. Co nás škola (ne)naučila
+
+---
+
+## 🕐 2026-08-28 18:31:02 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Frankfurt je jen začátek
+
+---
+
 ## 🕐 2026-08-27 17:33:48 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -240,48 +286,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Jak uspět ve Frankfurtu
-
----
-
-## 🕐 2026-08-21 06:58:22 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Les ztracených srdcí
-2. OH, SHIT!
-3. Světlo ciziny
-4. Velký lunární kalendář 2027
-5. Diví lidé: Vlny osudu
-6. Karel Hynek Mácha - Májový soumrak
-7. Dokonale zvrácení
-8. Zátoka lidojedů
-9. Emrys
-10. Tiché pouto
-11. Jak to nevidím já
-12. Velká kniha českých pohádek
-13. Versace do kabelky
-14. Tiffany & Co. do kabelky
-15. Podivuhodná večerka
-16. Havraní král
-17. Přírodní a duchovní bytosti a jejich působení ve viditelném světě
-18. Eddie Jordan: Na plný plyn
-19. Zamilovaný kluk
-
----
-
-## 🕐 2026-08-21 06:58:21 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

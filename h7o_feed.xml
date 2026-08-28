@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:31:02 +0000</lastBuildDate>
+    <item>
+      <title>Frankfurt je jen začátek</title>
+      <link>https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</link>
+      <description>Za úspěchem finského hostování na Frankfurtském knižním veletrhu v roce 2014 nestál jediný rok, ale léta příprav. Tiia Strandénová z organizace FILI mluví o práci s překladateli, budování partnerství i dlouhodobých dopadech projektu.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Imaginární pobřeží: co může české literatuře přinést moře</title>
       <link>https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more</link>
@@ -441,13 +448,6 @@
       <description>„Přitom všichni, celý národ, opravdu naléhavě potřebujeme literární dům. Jen o tom naprostá většina národa nemá nejmenší tušení,“ píše Petr Šesták z Wannsee. Nebyl tam na žádné konferenci, ani kulturní, ty jsou jen o něco málo lepší, byl tam psát.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14530-literarni-dum</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Potřebujeme tmu, jestli se máme rozkoukat!</title>
-      <link>https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat</link>
-      <description>Jsou oblasti života, kde věda ztrácí řeč. Dokáže si v těchto místech vzít slovo literatura, ptá se v eseji Tereza D. Reichelová. Je vůbec řeč tím, co udržuje naši intimitu s realitou? Vystudované politoložce a filozofce v těchto dnech vychází v nakladatelství Host i románová prvotina „Acheron“.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

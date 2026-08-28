@@ -1,13 +1,5 @@
 [
   {
-    "title": "Potřebujeme tmu, jestli se máme rozkoukat!",
-    "url": "https://www.h7o.cz/clanky/14528-potrebujeme-tmu-jestli-se-mame-rozkoukat",
-    "description": "Jsou oblasti života, kde věda ztrácí řeč. Dokáže si v těchto místech vzít slovo literatura, ptá se v eseji Tereza D. Reichelová. Je vůbec řeč tím, co udržuje naši intimitu s realitou? Vystudované politoložce a filozofce v těchto dnech vychází v nakladatelství Host i románová prvotina „Acheron“.",
-    "date": "2026-05-30T00:00:00",
-    "author": "",
-    "category": "téma"
-  },
-  {
     "title": "Literární dům",
     "url": "https://www.h7o.cz/clanky/14530-literarni-dum",
     "description": "„Přitom všichni, celý národ, opravdu naléhavě potřebujeme literární dům. Jen o tom naprostá většina národa nemá nejmenší tušení,“ píše Petr Šesták z Wannsee. Nebyl tam na žádné konferenci, ani kulturní, ty jsou jen o něco málo lepší, byl tam psát.",
@@ -502,5 +494,13 @@
     "date": "2026-08-27T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Frankfurt je jen začátek",
+    "url": "https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek",
+    "description": "Za úspěchem finského hostování na Frankfurtském knižním veletrhu v roce 2014 nestál jediný rok, ale léta příprav. Tiia Strandénová z organizace FILI mluví o práci s překladateli, budování partnerství i dlouhodobých dopadech projektu.",
+    "date": "2026-08-28T00:00:00",
+    "author": "Ondřej Nezbeda",
+    "category": "rozhovor"
   }
 ]
