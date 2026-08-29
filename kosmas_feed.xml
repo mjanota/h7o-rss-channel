@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:31:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:36:17 +0000</lastBuildDate>
+    <item>
+      <title>Disney Baby - 5minutové pohádky</title>
+      <link>https://www.kosmas.cz/knihy/572786/disney-baby-5minutove-pohadky/</link>
+      <description>Disney Baby - 5minutové pohádky - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572786/disney-baby-5minutove-pohadky/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disney Junior - Platinová kolekce</title>
+      <link>https://www.kosmas.cz/knihy/572787/disney-junior-platinova-kolekce/</link>
+      <description>Disney Junior - Platinová kolekce - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572787/disney-junior-platinova-kolekce/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recituje Nina Divíšková</title>
+      <link>https://www.kosmas.cz/knihy/572788/recituje-nina-diviskova/</link>
+      <description>Recituje Nina Divíšková - Nina Divíšková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572788/recituje-nina-diviskova/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vidím, že vás zajímá temnota</title>
+      <link>https://www.kosmas.cz/knihy/572808/vidim-ze-vas-zajima-temnota/</link>
+      <description>Vidím, že vás zajímá temnota - Illarion Pavljuk</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572808/vidim-ze-vas-zajima-temnota/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bitva u Moháče</title>
+      <link>https://www.kosmas.cz/knihy/572108/bitva-u-mohace/</link>
+      <description>Bitva u Moháče - Zdeněk Vybíral</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572108/bitva-u-mohace/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deník Anne Frankové</title>
+      <link>https://www.kosmas.cz/knihy/572259/denik-anne-frankove/</link>
+      <description>Deník Anne Frankové - Anne Franková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572259/denik-anne-frankove/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Loď skřítků</title>
+      <link>https://www.kosmas.cz/knihy/572314/lod-skritku/</link>
+      <description>Loď skřítků - Miroslav Pech</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572314/lod-skritku/</guid>
+      <pubDate>Sat, 29 Aug 2026 12:35:58 +0000</pubDate>
+    </item>
     <item>
       <title>Kompendium ztracených příběhů Emily Wildové</title>
       <link>https://www.kosmas.cz/knihy/571785/kompendium-ztracenych-pribehu-emily-wildove/</link>
@@ -658,55 +707,6 @@
       <description>Hotýlek s vůní skořice - Harper Graham</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/572391/hotylek-s-vuni-skorice/</guid>
       <pubDate>Sat, 22 Aug 2026 06:51:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozpaluješ mě</title>
-      <link>https://www.kosmas.cz/knihy/572392/rozpalujes-me/</link>
-      <description>Rozpaluješ mě - Carly Robyn</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572392/rozpalujes-me/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vzít si milionáře</title>
-      <link>https://www.kosmas.cz/knihy/570210/vzit-si-milionare/</link>
-      <description>Vzít si milionáře - Daniela Hartig</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570210/vzit-si-milionare/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Neuchopitelná/-ý Čepelka 90</title>
-      <link>https://www.kosmas.cz/knihy/570988/neuchopitelna-y-cepelka-90/</link>
-      <description>Neuchopitelná/-ý Čepelka 90 - Miloň Čepelka, Radek Žitný</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570988/neuchopitelna-y-cepelka-90/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Průvodkyní v srdci Evropy</title>
-      <link>https://www.kosmas.cz/knihy/571492/pruvodkyni-v-srdci-evropy/</link>
-      <description>Průvodkyní v srdci Evropy - Ludmila Rylichová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571492/pruvodkyni-v-srdci-evropy/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tučná fakta</title>
-      <link>https://www.kosmas.cz/knihy/571584/tucna-fakta/</link>
-      <description>Tučná fakta - Mughal Idrees</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571584/tucna-fakta/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Město duchů</title>
-      <link>https://www.kosmas.cz/knihy/571598/mesto-duchu/</link>
-      <description>Město duchů - Kevin Chen</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571598/mesto-duchu/</guid>
-      <pubDate>Sat, 22 Aug 2026 06:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les ztracených srdcí</title>
-      <link>https://www.kosmas.cz/knihy/572248/les-ztracenych-srdci/</link>
-      <description>Les ztracených srdcí - M.A. Kuzniar</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572248/les-ztracenych-srdci/</guid>
-      <pubDate>Fri, 21 Aug 2026 06:58:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

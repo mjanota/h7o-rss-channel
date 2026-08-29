@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-29 12:36:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Disney Baby - 5minutové pohádky
+2. Disney Junior - Platinová kolekce
+3. Recituje Nina Divíšková
+4. Vidím, že vás zajímá temnota
+5. Bitva u Moháče
+6. Deník Anne Frankové
+7. Loď skřítků
+
+---
+
+## 🕐 2026-08-29 12:36:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-08-28 18:31:03 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,50 +272,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-08-22 06:52:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Historie Duny: Bitva o Corrin
-2. Fridrich II. Jediný
-3. Vzpomeneš si na Trenčín?
-4. Poslední Lady B
-5. Praha velká 1 : 20 000 (kartonová obálka)
-6. Latina pro střední školy I.část
-7. Ohrožená pověst
-8. A Trick of Memory
-9. Mezi touhou a odmítnutím
-10. Seznam zapovězených
-11. Hotýlek s vůní skořice
-12. Rozpaluješ mě
-13. Vzít si milionáře
-14. Neuchopitelná/-ý Čepelka 90
-15. Průvodkyní v srdci Evropy
-16. Tučná fakta
-17. Město duchů
-
----
-
-## 🕐 2026-08-22 06:51:58 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Jak uspět ve Frankfurtu
 
 ---
 
