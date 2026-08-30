@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 29 Aug 2026 12:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:45:34 +0000</lastBuildDate>
     <item>
       <title>Frankfurt je jen začátek</title>
       <link>https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</link>
@@ -441,13 +441,6 @@
       <description>„Musel jsem odletět do vesmíru, mluvit s mimozemšťany a vytvářet nové světy, abych mohl mluvit o každodenním životě, našem světě a nás samotných,“ říká v rozhovoru s básníkem Šimonem Leitgebem maďarský básník Gergő Korsós, kterého v příštích týdnech čeká čtenářská tour po několika českých městech.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Literární dům</title>
-      <link>https://www.h7o.cz/clanky/14530-literarni-dum</link>
-      <description>„Přitom všichni, celý národ, opravdu naléhavě potřebujeme literární dům. Jen o tom naprostá většina národa nemá nejmenší tušení,“ píše Petr Šesták z Wannsee. Nebyl tam na žádné konferenci, ani kulturní, ty jsou jen o něco málo lepší, byl tam psát.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14530-literarni-dum</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
