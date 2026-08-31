@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-08-31 13:27:12 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Barčulín, Edulín a kouzelná křída
+2. Kuba nechce prohrávat
+3. Myši patří do nebe
+4. Havran a královna
+5. Výběr z Bichlí
+6. Říkání o víle Amálce
+7. Deník maličkého Minecrafťáka
+8. Paříži s láskou
+9. Domov ztracených ptáčat
+10. Za hranicemi vitality
+11. Ztracená krása
+12. Finance: od teorie k realitě
+13. Nedokončená ošetřovatelská péče
+14. Azbest v pracovním prostředí a jeho zdravotní účinky
+15. Předčasný porod
+16. Kluk v kopačkách – Hledači talentů
+17. Reprodukční medicína
+18. Neobyčejně obyčejný život
+
+---
+
+## 🕐 2026-08-31 13:27:11 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hezky přeložená kniha je příspěvek ke svobodě
+
+---
+
 ## 🕐 2026-08-30 11:45:36 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,36 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Smlouva s ďáblem je stále aktuální
-
----
-
-## 🕐 2026-08-24 07:12:12 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 3
-
-**Tituly nových položek:**
-
-1. Mohla by být jeho dcera
-2. Jedna želva za druhou
-3. Theo z města Golden
-
----
-
-## 🕐 2026-08-24 07:12:09 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Přepsat neurózy v kostní dřeni
 
 ---
 

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:27:11 +0000</lastBuildDate>
+    <item>
+      <title>Hezky přeložená kniha je příspěvek ke svobodě</title>
+      <link>https://www.h7o.cz/clanky/14593-hezky-prelozena-kniha-je-prispevek-ke-svobode</link>
+      <description>Stále nevíme, co bude s Ústavem translatologie na Filozofické fakultě UK a několika dalšími obory. Po rozhovoru s Annou Štádlerovou přinášíme další rozhovor k tématu, tentokrát s jinou výraznou překladatelkou Anežkou Charvátovou, která na zmíněném ústavu přímo vyučuje.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14593-hezky-prelozena-kniha-je-prispevek-ke-svobode</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Frankfurt je jen začátek</title>
       <link>https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</link>
@@ -434,13 +441,6 @@
       <description>Soutěž Nejkrásnější české knihy roku zná vítěze pro uplynulý rok. Slavnostní vyhlášení výsledků 61. ročníku proběhlo včera ve Studiu hrdinů.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Připadá mi zajímavé, když politické sdělení není explicitní</title>
-      <link>https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</link>
-      <description>„Musel jsem odletět do vesmíru, mluvit s mimozemšťany a vytvářet nové světy, abych mohl mluvit o každodenním životě, našem světě a nás samotných,“ říká v rozhovoru s básníkem Šimonem Leitgebem maďarský básník Gergő Korsós, kterého v příštích týdnech čeká čtenářská tour po několika českých městech.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14531-pripada-mi-zajimave-kdyz-politicke-sdeleni-neni-explicitni</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
