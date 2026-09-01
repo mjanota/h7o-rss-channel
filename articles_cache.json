@@ -8,14 +8,6 @@
     "category": "seriál"
   },
   {
-    "title": "Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy",
-    "url": "https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy",
-    "description": "Soutěž Nejkrásnější české knihy roku zná vítěze pro uplynulý rok. Slavnostní vyhlášení výsledků 61. ročníku proběhlo včera ve Studiu hrdinů.",
-    "date": "2026-06-03T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Pokřivená realita",
     "url": "https://www.h7o.cz/clanky/14544-pokrivena-realita",
     "description": "Syrovost příběhu novely „Hrbačka“ japonské spisovatelky Saó Ičikawy netkví pouze v detailním popisu tělesného postižení, fyziologických procesů a stísněnosti prostoru. Se stejnou neomaleností před námi vypravěčka Šákja odhaluje i své provokativní myšlenky.",
@@ -493,6 +485,14 @@
     "description": "Stále nevíme, co bude s Ústavem translatologie na Filozofické fakultě UK a několika dalšími obory. Po rozhovoru s Annou Štádlerovou přinášíme další rozhovor k tématu, tentokrát s jinou výraznou překladatelkou Anežkou Charvátovou, která na zmíněném ústavu přímo vyučuje.",
     "date": "2026-08-31T00:00:00",
     "author": "Sára Zeithammerová",
+    "category": "rozhovor"
+  },
+  {
+    "title": "Od lásky k šílenství, od šílenství k lásce",
+    "url": "https://www.h7o.cz/clanky/14594-od-lasky-k-silenstvi-od-silenstvi-k-lasce",
+    "description": "Sebrané básnické dílo umělkyně Hany Fouskové vyšlo letos na jaře v nakladatelství Větrné mlýny. Nad jejím literárním dílem, jeho intenzitou i stylizací se zamýšlí básník a kritik Roman Polách.",
+    "date": "2026-09-01T00:00:00",
+    "author": "Roman Polách",
     "category": "rozhovor"
   }
 ]

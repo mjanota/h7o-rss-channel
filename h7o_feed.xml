@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:31:22 +0000</lastBuildDate>
+    <item>
+      <title>Od lásky k šílenství, od šílenství k lásce</title>
+      <link>https://www.h7o.cz/clanky/14594-od-lasky-k-silenstvi-od-silenstvi-k-lasce</link>
+      <description>Sebrané básnické dílo umělkyně Hany Fouskové vyšlo letos na jaře v nakladatelství Větrné mlýny. Nad jejím literárním dílem, jeho intenzitou i stylizací se zamýšlí básník a kritik Roman Polách.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14594-od-lasky-k-silenstvi-od-silenstvi-k-lasce</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hezky přeložená kniha je příspěvek ke svobodě</title>
       <link>https://www.h7o.cz/clanky/14593-hezky-prelozena-kniha-je-prispevek-ke-svobode</link>
@@ -434,13 +441,6 @@
       <description>Je tu další díl seriálu k letošnímu bohemistickému kongresu. Julie Turková mluvila s běloruským bohemistou a překladatelem Sjarhejem Smatryčenkou, žijícím v Brně, o studiu češtiny, o současné dualitě běloruské kultury, jejím vztahu k Václavu Havlovi a vzájemném kulturnímu vlivu Česka a Běloruska.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14518-vaclav-havel-svou-roli-urcite-sehral</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tibetské deníky i Malý atlas domácí zábavy. Známe nejkrásnější knihy</title>
-      <link>https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy</link>
-      <description>Soutěž Nejkrásnější české knihy roku zná vítěze pro uplynulý rok. Slavnostní vyhlášení výsledků 61. ročníku proběhlo včera ve Studiu hrdinů.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14534-tibetske-deniky-i-maly-atlas-domaci-zabavy-zname-nejkrasnejsi-knihy</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

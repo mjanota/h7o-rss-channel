@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-01 11:31:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Florencie a Toskánsko – TOP 10
+2. SpongeBob 9/2026
+3. Tady. Teď. Ahoj. - Můžeš mě oslovit
+4. Historie NASA
+5. Předškolák speciál - Kaňkův speciál pro malé objevitele
+6. SU-152/ISU-152 vs. Tiger
+7. Dějiny světa
+8. Kalendář Urban 2027 - Sranda s Pivrncem
+9. Hravý početník 5 - 1. díl
+10. Nová literatura 4 - pracovní sešit
+11. Hravý zeměpis 6 – pracovní sešit
+12. Anna z Moravy
+13. Kognitivně-behaviorální terapie
+14. Motorkaření
+15. 10 banánových krabic
+16. Pohádky skřítka Obchodníčka
+17. Pročtěte se ke štěstí
+18. Satanova aféra
+19. Peklo na ostrově
+20. Místo na nový začátek
+
+---
+
+## 🕐 2026-09-01 11:31:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Od lásky k šílenství, od šílenství k lásce
+
+---
+
 ## 🕐 2026-08-31 13:27:12 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,50 +292,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Ukrajina přichází o své knihy
-
----
-
-## 🕐 2026-08-25 06:58:58 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Věk mýtů
-2. Černá vlčice
-3. Spící chlapec
-4. Fantastický svět prvků
-5. Babiččiny rady pro domácnost
-6. Bylinkové rady naší babičky
-7. Jiří Kolář: X Bienal de São Paulo CZ (česká verze)
-8. Můj klavír 2
-9. 50 otázek na cestě k lepšímu životu
-10. Ve jménu milosrdenství
-11. Počkej chvilku
-12. Velká kniha luštění
-13. Tak to bylo. Štít 84 a Žatecký vzlet
-14. Vymazaná z fotky
-15. Obtěžkáni zlem aneb Po čtyřiceti letech
-16. Jsme jen náhoda?
-17. Stíny v lese
-
----
-
-## 🕐 2026-08-25 06:58:56 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Smlouva s ďáblem je stále aktuální
 
 ---
 
