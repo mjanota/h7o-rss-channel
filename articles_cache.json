@@ -1,13 +1,5 @@
 [
   {
-    "title": "Václav Havel svou roli určitě sehrál",
-    "url": "https://www.h7o.cz/clanky/14518-vaclav-havel-svou-roli-urcite-sehral",
-    "description": "Je tu další díl seriálu k letošnímu bohemistickému kongresu. Julie Turková mluvila s běloruským bohemistou a překladatelem Sjarhejem Smatryčenkou, žijícím v Brně, o studiu češtiny, o současné dualitě běloruské kultury, jejím vztahu k Václavu Havlovi a vzájemném kulturnímu vlivu Česka a Běloruska.",
-    "date": "2026-06-04T00:00:00",
-    "author": "Julie Turková",
-    "category": "seriál"
-  },
-  {
     "title": "Pokřivená realita",
     "url": "https://www.h7o.cz/clanky/14544-pokrivena-realita",
     "description": "Syrovost příběhu novely „Hrbačka“ japonské spisovatelky Saó Ičikawy netkví pouze v detailním popisu tělesného postižení, fyziologických procesů a stísněnosti prostoru. Se stejnou neomaleností před námi vypravěčka Šákja odhaluje i své provokativní myšlenky.",
@@ -494,5 +486,13 @@
     "date": "2026-09-01T00:00:00",
     "author": "Roman Polách",
     "category": "rozhovor"
+  },
+  {
+    "title": "Dělník je smrtelný, práce je živá",
+    "url": "https://www.h7o.cz/clanky/14597-delnik-je-smrtelny-prace-je-ziva",
+    "description": "Ve věku 83 let zemřel minulý týden podstatný  maďarský spisovatel Péter Nádas, zmiňovaný opakovaně mezi kandidáty na Nobelovu cenu. Za jeho životem se ohlíží hungarista a překladatel Robert Svoboda.",
+    "date": "2026-09-02T00:00:00",
+    "author": "Robert Svoboda",
+    "category": "zprávy"
   }
 ]

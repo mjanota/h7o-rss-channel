@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-02 11:06:19 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Byla to vražda, zapomeň
+2. Dotek stvůry
+3. Maska vraha
+4. Mýtina
+5. Palec ve vosím hnizdě
+6. Pamatuju si tě živou
+7. Tajemství zapomenutých listin
+8. Socioekonomické aspekty mající vliv na krizové situace
+9. Žena, která už ví
+10. Zjizvení
+11. Mizející knihkupectví pod sakurou
+12. Zapomenuté manželství
+13. Žena dvou bratrů
+14. Noční lovec
+15. Pán zkázy
+16. Německé samohybné dělostřelectvo
+
+---
+
+## 🕐 2026-09-02 11:06:18 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Dělník je smrtelný, práce je živá
+
+---
+
 ## 🕐 2026-09-01 11:31:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,53 +288,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Imaginární pobřeží: co může české literatuře přinést moře
-
----
-
-## 🕐 2026-08-26 07:00:04 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Černobílý svět
-2. Bohatá rodina, chytrá rodina
-3. Tvrdý zásah
-4. Císař římský
-5. Zapálená starostka, která měla fištróna
-6. Než jsem se začala milovat
-7. Deník z Florencie
-8. Love Me Wild: Miluj mě každým svým slovem
-9. Lotos
-10. Cesta do Jonestownu
-11. „Dá to fušku, než se člověk dostane na šibenici"
-12. Tam, kde býval Mušov
-13. Zlepši svůj život
-14. VISIT Czechoslovakia! Příběhy českých a slovenských cestovatelských plakátů
-15. O prometheovském studu
-16. Přístav volá
-17. Pod junáckou vlajkou
-18. Policejní křeček a zámecký zloděj
-19. Chlapec kometa
-20. Na čtyřech
-
----
-
-## 🕐 2026-08-26 07:00:02 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Ukrajina přichází o své knihy
 
 ---
 
