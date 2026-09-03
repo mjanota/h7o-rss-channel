@@ -1,13 +1,5 @@
 [
   {
-    "title": "Pokřivená realita",
-    "url": "https://www.h7o.cz/clanky/14544-pokrivena-realita",
-    "description": "Syrovost příběhu novely „Hrbačka“ japonské spisovatelky Saó Ičikawy netkví pouze v detailním popisu tělesného postižení, fyziologických procesů a stísněnosti prostoru. Se stejnou neomaleností před námi vypravěčka Šákja odhaluje i své provokativní myšlenky.",
-    "date": "2026-06-05T00:00:00",
-    "author": "Barbora Zouharová",
-    "category": "recenze"
-  },
-  {
     "title": "Přesně tu měkkost",
     "url": "https://www.h7o.cz/clanky/14546-presne-tu-mekkost",
     "description": "Nevim je autonómnym vydavateľstvom sociálneho družstva Tři Ocásci, so zameraním na radikálnu imagináciu, lavicové hodnoty a pestrosť žánrov. Ich odpovede sú kolektívne, ako aj proces vydávania každej jednej knihy. Rozprávame sa o ich začiatkoch, terajškoch a premýšľaní o projektoch a lepšom svete.",
@@ -493,6 +485,14 @@
     "description": "Ve věku 83 let zemřel minulý týden podstatný  maďarský spisovatel Péter Nádas, zmiňovaný opakovaně mezi kandidáty na Nobelovu cenu. Za jeho životem se ohlíží hungarista a překladatel Robert Svoboda.",
     "date": "2026-09-02T00:00:00",
     "author": "Robert Svoboda",
+    "category": "zprávy"
+  },
+  {
+    "title": "Přesvědčivý románový tvar",
+    "url": "https://www.h7o.cz/clanky/14598-presvedcivy-romanovy-tvar",
+    "description": "Soutěž Román pro Frankfurt vyhrály tři ženy. Ocenění získaly Iva Hadj Moussa, Veronika Opatřilová a Ludmila Svozilová.",
+    "date": "2026-09-03T00:00:00",
+    "author": "Zdeněk Staszek",
     "category": "zprávy"
   }
 ]

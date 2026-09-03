@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-03 11:03:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. 21 promluv o návratu k sobě
+2. Planbook diář/notes Korál 2027
+3. Krásná jako osmička
+4. Nesmrtelný Weil
+5. Naháčci
+6. Pejsek a kočička jedou do zoo
+7. Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2
+8. Přeběhlík
+9. Dech motýla
+10. Probuzení živlů
+11. Kuchaři smrti
+12. Ve výslužbě - Bezvýznamná událost
+13. Emočně inteligentní m(už)
+14. Daně na příští rok
+15. Stíny minulosti
+16. Vidím, že vás zajímá temnota
+17. Proč firmy krachují a jak to zastavit
+18. Případ smějících se mrtvých
+
+---
+
+## 🕐 2026-09-03 11:03:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přesvědčivý románový tvar
+
+---
+
 ## 🕐 2026-09-02 11:06:19 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
