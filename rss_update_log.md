@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-04 11:04:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Strašidelná knihovna - Ztracený duch
+2. Pověsti a příběhy o českých princeznách a princích
+3. Ještě jeden okamžik
+4. Muž roku
+5. Jak moc je Země placka
+6. Jak spočítat nekonečno
+7. Jak postavit mrakodrap
+8. Jak vidět kostry
+9. Jak udělat sliz
+10. Jak recyklovat čůrání
+11. Jak přežít tornádo
+12. Jak se dělí pizza
+13. Jak chytat blesky
+14. NEdávno
+15. Lidožrout
+16. Protestant 2026/6
+17. Jedová chýše I–II
+18. Bilion
+19. Kapesní diář Biella 2027, růžový
+20. Léto na chalupě
+
+---
+
+## 🕐 2026-09-04 11:04:20 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Zemřel Milan Ohnisko
+
+---
+
 ## 🕐 2026-09-03 11:03:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -286,53 +333,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Frankfurt je jen začátek
-
----
-
-## 🕐 2026-08-27 17:33:48 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. To já jsem uměním
-2. Moje chytrá knihovnička: První slova
-3. Korán – mýty a fakta o posvátné knize islámu
-4. Ozvěny přízraků
-5. Mozek a řeč
-6. Insectopolis
-7. Čáry máry - Zvuky v pohybu
-8. New age, „ezo“, alternativní spiritualita
-9. Užitá speciální pedagogika
-10. Seber se a jdi
-11. Nákladní vozy 1918–1945 – Soukromé vozy 2
-12. Jošt: Cena vzpomínek
-13. Doba pitomců
-14. NOVÝ Minutový Manažer
-15. Go Giver Influencer
-16. Havran a královna
-17. Janka, Jonáš, Berta
-18. Úzké kosti půlnočních komínů
-19. Ničema
-20. Teta to plete
-
----
-
-## 🕐 2026-08-27 17:33:46 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Imaginární pobřeží: co může české literatuře přinést moře
 
 ---
 
