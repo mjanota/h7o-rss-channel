@@ -1,5 +1,23 @@
 [
   {
+    "title": "Gerda: Příběh moře a odvahy",
+    "url": "https://www.kosmas.cz/knihy/572595/gerda-pribeh-more-a-odvahy/",
+    "description": "Gerda: Příběh moře a odvahy - Adrián Macho",
+    "authors": [
+      "Adrián Macho"
+    ],
+    "date": "2026-09-05T10:26:12.671002+00:00"
+  },
+  {
+    "title": "Mušketýři V: Templáři",
+    "url": "https://www.kosmas.cz/knihy/573051/musketyri-v-templari/",
+    "description": "Mušketýři V: Templáři - Joe Garcia",
+    "authors": [
+      "Joe Garcia"
+    ],
+    "date": "2026-09-05T10:25:53.671002+00:00"
+  },
+  {
     "title": "Strašidelná knihovna - Ztracený duch",
     "url": "https://www.kosmas.cz/knihy/572596/strasidelna-knihovna-ztraceny-duch/",
     "description": "Strašidelná knihovna - Ztracený duch - Dori Hillestad Butlerová",
@@ -1795,24 +1813,5 @@
       "Carly Robyn"
     ],
     "date": "2026-08-22T06:51:46.446987+00:00"
-  },
-  {
-    "title": "Vzít si milionáře",
-    "url": "https://www.kosmas.cz/knihy/570210/vzit-si-milionare/",
-    "description": "Vzít si milionáře - Daniela Hartig",
-    "authors": [
-      "Daniela Hartig"
-    ],
-    "date": "2026-08-22T06:51:45.446987+00:00"
-  },
-  {
-    "title": "Neuchopitelná/-ý Čepelka 90",
-    "url": "https://www.kosmas.cz/knihy/570988/neuchopitelna-y-cepelka-90/",
-    "description": "Neuchopitelná/-ý Čepelka 90 - Miloň Čepelka, Radek Žitný",
-    "authors": [
-      "Miloň Čepelka",
-      "Radek Žitný"
-    ],
-    "date": "2026-08-22T06:51:44.446987+00:00"
   }
 ]

@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-05 10:26:12 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Gerda: Příběh moře a odvahy
+2. Mušketýři V: Templáři
+
+---
+
+## 🕐 2026-09-05 10:26:11 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-04 11:04:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -287,52 +312,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-08-28 18:31:03 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Kompendium ztracených příběhů Emily Wildové
-2. Nerovný souboj
-3. Tento příběh nemá mateřštinu
-4. Nákladní vozy 1918–1945 – Soukromé vozy 1
-5. Memorix anatomie
-6. Exodus: Archimédovy stroje
-7. Deadpool 1: Žoldnéřina těžká dřina
-8. Jak jsem se reinkarnoval coby sliz 18
-9. Večeře s vrahem Lewellynem 2
-10. Star Wars: Mandalorian 3
-11. Bleach 47: End Of The Chrysalis Age
-12. Poslední tón
-13. Stín Pražského hradu
-14. Chci si s tebou zatextovat
-15. Barunčin Deník přání
-16. Disney - Platinová kolekce
-17. Stitch - 7 pohádek na dobrou noc
-18. Princezna - Platinová kolekce
-19. Co nás škola (ne)naučila
-
----
-
-## 🕐 2026-08-28 18:31:02 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Frankfurt je jen začátek
 
 ---
 
