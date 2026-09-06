@@ -1,5 +1,182 @@
 [
   {
+    "title": "Skóre",
+    "url": "https://www.kosmas.cz/knihy/573008/skore/",
+    "description": "Skóre - Elle Kennedy",
+    "authors": [
+      "Elle Kennedy"
+    ],
+    "date": "2026-09-06T10:45:14.051847+00:00"
+  },
+  {
+    "title": "Myrta z bažiny",
+    "url": "https://www.kosmas.cz/knihy/572264/myrta-z-baziny/",
+    "description": "Myrta z bažiny - Sid Sharp",
+    "authors": [
+      "Sid Sharp"
+    ],
+    "date": "2026-09-06T10:45:13.051847+00:00"
+  },
+  {
+    "title": "Půlnoční obrázky",
+    "url": "https://www.kosmas.cz/knihy/572280/pulnocni-obrazky/",
+    "description": "Půlnoční obrázky - Zdenka Holub Převrátilová",
+    "authors": [
+      "Zdenka Holub Převrátilová"
+    ],
+    "date": "2026-09-06T10:45:12.051847+00:00"
+  },
+  {
+    "title": "Smrt táty",
+    "url": "https://www.kosmas.cz/knihy/571760/smrt-taty/",
+    "description": "Smrt táty - Petr Blinka",
+    "authors": [
+      "Petr Blinka"
+    ],
+    "date": "2026-09-06T10:45:11.051847+00:00"
+  },
+  {
+    "title": "Kapesní diář Ajax 2027, černý",
+    "url": "https://www.kosmas.cz/knihy/572437/kapesni-diar-ajax-2027-cerny/",
+    "description": "Kapesní diář Ajax 2027, černý",
+    "authors": [],
+    "date": "2026-09-06T10:45:10.051847+00:00"
+  },
+  {
+    "title": "Kapesní diář Ajax 2027, zelený",
+    "url": "https://www.kosmas.cz/knihy/572438/kapesni-diar-ajax-2027-zeleny/",
+    "description": "Kapesní diář Ajax 2027, zelený",
+    "authors": [],
+    "date": "2026-09-06T10:45:09.051847+00:00"
+  },
+  {
+    "title": "Záhada pirátského pokladu",
+    "url": "https://www.kosmas.cz/knihy/571787/zahada-piratskeho-pokladu/",
+    "description": "Záhada pirátského pokladu - Roberto Santiago",
+    "authors": [
+      "Roberto Santiago"
+    ],
+    "date": "2026-09-06T10:45:08.051847+00:00"
+  },
+  {
+    "title": "Oskar a já 2",
+    "url": "https://www.kosmas.cz/knihy/571788/oskar-a-ja-2/",
+    "description": "Oskar a já 2 - Maria Parrová",
+    "authors": [
+      "Maria Parrová"
+    ],
+    "date": "2026-09-06T10:45:07.051847+00:00"
+  },
+  {
+    "title": "Posel v temném lese",
+    "url": "https://www.kosmas.cz/knihy/571974/posel-v-temnem-lese/",
+    "description": "Posel v temném lese - Lois Lowryová",
+    "authors": [
+      "Lois Lowryová"
+    ],
+    "date": "2026-09-06T10:45:06.051847+00:00"
+  },
+  {
+    "title": "Srdcerváči 6",
+    "url": "https://www.kosmas.cz/knihy/571071/srdcervaci-6/",
+    "description": "Srdcerváči 6 - Alice Oseman",
+    "authors": [
+      "Alice Oseman"
+    ],
+    "date": "2026-09-06T10:45:05.051847+00:00"
+  },
+  {
+    "title": "Zachránci Hvězdíku",
+    "url": "https://www.kosmas.cz/knihy/571072/zachranci-hvezdiku/",
+    "description": "Zachránci Hvězdíku - Miriam Blahová",
+    "authors": [
+      "Miriam Blahová"
+    ],
+    "date": "2026-09-06T10:45:04.051847+00:00"
+  },
+  {
+    "title": "Báječná třída",
+    "url": "https://www.kosmas.cz/knihy/571073/bajecna-trida/",
+    "description": "Báječná třída - Iveta Zámečníková",
+    "authors": [
+      "Iveta Zámečníková"
+    ],
+    "date": "2026-09-06T10:45:03.051847+00:00"
+  },
+  {
+    "title": "Kočičí válečníci: BOX 1-6",
+    "url": "https://www.kosmas.cz/knihy/571077/kocici-valecnici-box-1-6/",
+    "description": "Kočičí válečníci: BOX 1-6 - Erin Hunterová",
+    "authors": [
+      "Erin Hunterová"
+    ],
+    "date": "2026-09-06T10:45:02.051847+00:00"
+  },
+  {
+    "title": "Radovanovy radovánky",
+    "url": "https://www.kosmas.cz/knihy/571079/radovanovy-radovanky/",
+    "description": "Radovanovy radovánky - Zdeněk Svěrák",
+    "authors": [
+      "Zdeněk Svěrák"
+    ],
+    "date": "2026-09-06T10:45:01.051847+00:00"
+  },
+  {
+    "title": "Rychlé šípy - sběratelské vydání - BOX",
+    "url": "https://www.kosmas.cz/knihy/571081/rychle-sipy-sberatelske-vydani-box/",
+    "description": "Rychlé šípy - sběratelské vydání - BOX - Jaroslav Foglar",
+    "authors": [
+      "Jaroslav Foglar"
+    ],
+    "date": "2026-09-06T10:45:00.051847+00:00"
+  },
+  {
+    "title": "Odkaz Dračích jezdců – Eragon,Eldest,Brisingr,Inherit",
+    "url": "https://www.kosmas.cz/knihy/571086/odkaz-dracich-jezdcu-eragon-eldest-brisingr-inherit/",
+    "description": "Odkaz Dračích jezdců – Eragon,Eldest,Brisingr,Inherit - Christopher Paolini",
+    "authors": [
+      "Christopher Paolini"
+    ],
+    "date": "2026-09-06T10:44:59.051847+00:00"
+  },
+  {
+    "title": "Dvůr trnů a růží - box 1-4",
+    "url": "https://www.kosmas.cz/knihy/571091/dvur-trnu-a-ruzi-box-1-4/",
+    "description": "Dvůr trnů a růží - box 1-4 - Sarah J. Maas",
+    "authors": [
+      "Sarah J. Maas"
+    ],
+    "date": "2026-09-06T10:44:58.051847+00:00"
+  },
+  {
+    "title": "Řehoř z Nyssy o Trojici",
+    "url": "https://www.kosmas.cz/knihy/571092/rehor-z-nyssy-o-trojici/",
+    "description": "Řehoř z Nyssy o Trojici - Lenka Karfíková, Řehoř z Nyssy",
+    "authors": [
+      "Lenka Karfíková",
+      "Řehoř z Nyssy"
+    ],
+    "date": "2026-09-06T10:44:57.051847+00:00"
+  },
+  {
+    "title": "Bitevní letectvo",
+    "url": "https://www.kosmas.cz/knihy/571099/bitevni-letectvo/",
+    "description": "Bitevní letectvo - Marek Brzkovský",
+    "authors": [
+      "Marek Brzkovský"
+    ],
+    "date": "2026-09-06T10:44:56.051847+00:00"
+  },
+  {
+    "title": "Emočně inteligentní m(už)",
+    "url": "https://www.kosmas.cz/knihy/571113/emocne-inteligentni-m-uz/",
+    "description": "Emočně inteligentní m(už) - Jitka Ševčíková",
+    "authors": [
+      "Jitka Ševčíková"
+    ],
+    "date": "2026-09-06T10:44:55.051847+00:00"
+  },
+  {
     "title": "Gerda: Příběh moře a odvahy",
     "url": "https://www.kosmas.cz/knihy/572595/gerda-pribeh-more-a-odvahy/",
     "description": "Gerda: Příběh moře a odvahy - Adrián Macho",
@@ -1634,184 +1811,5 @@
       "Boris Strugackij"
     ],
     "date": "2026-08-25T06:58:41.345987+00:00"
-  },
-  {
-    "title": "Jsme jen náhoda?",
-    "url": "https://www.kosmas.cz/knihy/572565/jsme-jen-nahoda/",
-    "description": "Jsme jen náhoda? - Eduard Kejnovský",
-    "authors": [
-      "Eduard Kejnovský"
-    ],
-    "date": "2026-08-25T06:58:40.345987+00:00"
-  },
-  {
-    "title": "Stíny v lese",
-    "url": "https://www.kosmas.cz/knihy/572566/stiny-v-lese/",
-    "description": "Stíny v lese - Faycal Berrouche",
-    "authors": [
-      "Faycal Berrouche"
-    ],
-    "date": "2026-08-25T06:58:39.345987+00:00"
-  },
-  {
-    "title": "Mohla by být jeho dcera",
-    "url": "https://www.kosmas.cz/knihy/572253/mohla-by-byt-jeho-dcera/",
-    "description": "Mohla by být jeho dcera - Jennette McCurdy",
-    "authors": [
-      "Jennette McCurdy"
-    ],
-    "date": "2026-08-24T07:12:12.172930+00:00"
-  },
-  {
-    "title": "Jedna želva za druhou",
-    "url": "https://www.kosmas.cz/knihy/572255/jedna-zelva-za-druhou/",
-    "description": "Jedna želva za druhou - John Green",
-    "authors": [
-      "John Green"
-    ],
-    "date": "2026-08-24T07:12:11.172930+00:00"
-  },
-  {
-    "title": "Theo z města Golden",
-    "url": "https://www.kosmas.cz/knihy/572256/theo-z-mesta-golden/",
-    "description": "Theo z města Golden - Allen Levi",
-    "authors": [
-      "Allen Levi"
-    ],
-    "date": "2026-08-24T07:12:10.172930+00:00"
-  },
-  {
-    "title": "Cesta do Meksika",
-    "url": "https://www.kosmas.cz/knihy/571599/cesta-do-meksika/",
-    "description": "Cesta do Meksika - Ivan Binar",
-    "authors": [
-      "Ivan Binar"
-    ],
-    "date": "2026-08-23T06:52:42.791891+00:00"
-  },
-  {
-    "title": "Kavárna u sakury",
-    "url": "https://www.kosmas.cz/knihy/571780/kavarna-u-sakury/",
-    "description": "Kavárna u sakury - Nagi Šimeno",
-    "authors": [
-      "Nagi Šimeno"
-    ],
-    "date": "2026-08-23T06:52:41.791891+00:00"
-  },
-  {
-    "title": "Náboženstvo ako phármakon",
-    "url": "https://www.kosmas.cz/knihy/571791/nabozenstvo-ako-pharmakon/",
-    "description": "Náboženstvo ako phármakon - Lukáš Jeník",
-    "authors": [
-      "Lukáš Jeník"
-    ],
-    "date": "2026-08-23T06:52:40.791891+00:00"
-  },
-  {
-    "title": "Historie Duny: Bitva o Corrin",
-    "url": "https://www.kosmas.cz/knihy/571902/historie-duny-bitva-o-corrin/",
-    "description": "Historie Duny: Bitva o Corrin - Kevin J. Anderson, Brian Herbert",
-    "authors": [
-      "Kevin J. Anderson",
-      "Brian Herbert"
-    ],
-    "date": "2026-08-22T06:52:00.446987+00:00"
-  },
-  {
-    "title": "Fridrich II. Jediný",
-    "url": "https://www.kosmas.cz/knihy/572050/fridrich-ii.-jediny/",
-    "description": "Fridrich II. Jediný - František Stellner",
-    "authors": [
-      "František Stellner"
-    ],
-    "date": "2026-08-22T06:51:59.446987+00:00"
-  },
-  {
-    "title": "Vzpomeneš si na Trenčín?",
-    "url": "https://www.kosmas.cz/knihy/572094/vzpomenes-si-na-trencin/",
-    "description": "Vzpomeneš si na Trenčín? - Lukáš Cabala",
-    "authors": [
-      "Lukáš Cabala"
-    ],
-    "date": "2026-08-22T06:51:58.446987+00:00"
-  },
-  {
-    "title": "Poslední Lady B",
-    "url": "https://www.kosmas.cz/knihy/572116/posledni-lady-b/",
-    "description": "Poslední Lady B - Eloisa James",
-    "authors": [
-      "Eloisa James"
-    ],
-    "date": "2026-08-22T06:51:57.446987+00:00"
-  },
-  {
-    "title": "Praha velká 1 : 20 000 (kartonová obálka)",
-    "url": "https://www.kosmas.cz/knihy/572300/praha-velka-1-20-000-kartonova-obalka/",
-    "description": "Praha velká 1 : 20 000 (kartonová obálka)",
-    "authors": [],
-    "date": "2026-08-22T06:51:55.446987+00:00"
-  },
-  {
-    "title": "Latina pro střední školy I.část",
-    "url": "https://www.kosmas.cz/knihy/572340/latina-pro-stredni-skoly-i.cast/",
-    "description": "Latina pro střední školy I.část - Vlasta Seinerová",
-    "authors": [
-      "Vlasta Seinerová"
-    ],
-    "date": "2026-08-22T06:51:54.446987+00:00"
-  },
-  {
-    "title": "Ohrožená pověst",
-    "url": "https://www.kosmas.cz/knihy/571453/ohrozena-povest/",
-    "description": "Ohrožená pověst - Sophie Barnes",
-    "authors": [
-      "Sophie Barnes"
-    ],
-    "date": "2026-08-22T06:51:53.446987+00:00"
-  },
-  {
-    "title": "A Trick of Memory",
-    "url": "https://www.kosmas.cz/knihy/572370/a-trick-of-memory/",
-    "description": "A Trick of Memory - Martin Barre",
-    "authors": [
-      "Martin Barre"
-    ],
-    "date": "2026-08-22T06:51:51.446987+00:00"
-  },
-  {
-    "title": "Mezi touhou a odmítnutím",
-    "url": "https://www.kosmas.cz/knihy/570332/mezi-touhou-a-odmitnutim/",
-    "description": "Mezi touhou a odmítnutím - Shain Rose",
-    "authors": [
-      "Shain Rose"
-    ],
-    "date": "2026-08-22T06:51:50.446987+00:00"
-  },
-  {
-    "title": "Seznam zapovězených",
-    "url": "https://www.kosmas.cz/knihy/572390/seznam-zapovezenych/",
-    "description": "Seznam zapovězených - Jade Presley",
-    "authors": [
-      "Jade Presley"
-    ],
-    "date": "2026-08-22T06:51:48.446987+00:00"
-  },
-  {
-    "title": "Hotýlek s vůní skořice",
-    "url": "https://www.kosmas.cz/knihy/572391/hotylek-s-vuni-skorice/",
-    "description": "Hotýlek s vůní skořice - Harper Graham",
-    "authors": [
-      "Harper Graham"
-    ],
-    "date": "2026-08-22T06:51:47.446987+00:00"
-  },
-  {
-    "title": "Rozpaluješ mě",
-    "url": "https://www.kosmas.cz/knihy/572392/rozpalujes-me/",
-    "description": "Rozpaluješ mě - Carly Robyn",
-    "authors": [
-      "Carly Robyn"
-    ],
-    "date": "2026-08-22T06:51:46.446987+00:00"
   }
 ]

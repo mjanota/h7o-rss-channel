@@ -5,6 +5,49 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-06 10:45:14 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Skóre
+2. Myrta z bažiny
+3. Půlnoční obrázky
+4. Smrt táty
+5. Kapesní diář Ajax 2027, černý
+6. Kapesní diář Ajax 2027, zelený
+7. Záhada pirátského pokladu
+8. Oskar a já 2
+9. Posel v temném lese
+10. Srdcerváči 6
+11. Zachránci Hvězdíku
+12. Báječná třída
+13. Kočičí válečníci: BOX 1-6
+14. Radovanovy radovánky
+15. Rychlé šípy - sběratelské vydání - BOX
+16. Odkaz Dračích jezdců – Eragon,Eldest,Brisingr,Inherit
+17. Dvůr trnů a růží - box 1-4
+18. Řehoř z Nyssy o Trojici
+19. Bitevní letectvo
+20. Emočně inteligentní m(už)
+
+---
+
+## 🕐 2026-09-06 10:45:13 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-05 10:26:12 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -276,36 +319,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-08-30 11:45:35 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-08-29 12:36:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 7
-
-**Tituly nových položek:**
-
-1. Disney Baby - 5minutové pohádky
-2. Disney Junior - Platinová kolekce
-3. Recituje Nina Divíšková
-4. Vidím, že vás zajímá temnota
-5. Bitva u Moháče
-6. Deník Anne Frankové
-7. Loď skřítků
-
----
-
-## 🕐 2026-08-29 12:36:15 UTC
 
 **Zdroj:** H7O - Časopis Host
 
