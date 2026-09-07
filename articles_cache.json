@@ -1,13 +1,5 @@
 [
   {
-    "title": "In case of emergency, wake me up",
-    "url": "https://www.h7o.cz/clanky/14545-in-case-of-emergency-wake-me-up",
-    "description": "„Já ještě zapluju do oblíbeného podniku na růžku, paní za barem si mě pamatuje, dám si ještě ze tři třetinky, soumrak je neuvěřitelně dlouhý, pozoruju ortodoxní židy všude kolem a jsem neskutečně šťastný, že žiju v Evropě,“ píše básník Filip Klega ve svém fejetonu z literárního festivalu v…",
-    "date": "2026-06-09T00:00:00",
-    "author": "Filip Klega",
-    "category": "sloupek"
-  },
-  {
     "title": "Právo skrýt se před AI",
     "url": "https://www.h7o.cz/clanky/14549-pravo-skryt-se-pred-ai",
     "description": "Google musí nakladatelům a vydavatelům dát právo volby být v AI přehledech. Británie nedávno přijala historické opatření na ochranu obsahu.",
@@ -494,5 +486,13 @@
     "date": "2026-09-04T00:00:00",
     "author": "",
     "category": "zprávy"
+  },
+  {
+    "title": "Začerněné stránky jsou občas to jediné, co z minulosti zůstane",
+    "url": "https://www.h7o.cz/clanky/14595-zacernene-stranky-jsou-obcas-to-jedine-co-z-minulosti-zustane",
+    "description": "O tom, proč musíme stále připomínat ruské zločiny na Ukrajině, o vyrovnávání se s psychickou zátěží i o prostorech zničené paměti hovoří ukrajinská básnířka Daryna Hladun, jejíž sbírka „Rádio Válka“ (Radio Vijna, 2022) letos na jaře vyšla česky.",
+    "date": "2026-09-07T00:00:00",
+    "author": "Miroslav Tomek",
+    "category": "rozhovor"
   }
 ]

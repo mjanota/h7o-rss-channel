@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-07 12:15:24 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Napříč časem
+2. Nejkrásnější tajemství
+3. Sokyně
+4. Citlivé dítě
+5. Psychologie předškolního dítěte
+6. Miliardové zločiny
+7. Firemní kultura jako motor úspěchu
+8. Vycházky po Praze (III) Staré Město pražské
+9. Avatar - Legenda o Aangovi: Slib, část druhá
+10. Den 29.
+11. Pod tlakem krásy
+12. Kolala petřínská
+13. Jak se stal Matěj trolejbusem
+14. Vánek Rozhněvánek a Labouť
+15. Revolver Revue 144
+16. Dóm řetězů
+17. Úzký prostor mezi, vinou a milostí
+18. Nádherné škváry zkušenosti
+19. Maxipes Fík
+
+---
+
+## 🕐 2026-09-07 12:15:23 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Začerněné stránky jsou občas to jediné, co z minulosti zůstane
+
+---
+
 ## 🕐 2026-09-06 10:45:14 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -297,34 +343,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hezky přeložená kniha je příspěvek ke svobodě
-
----
-
-## 🕐 2026-08-30 11:45:36 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Náměstí Říšského kancléře
-2. Medvěd není youtuber
-3. Barvy Hádej, jak moc tě mám rád!
-4. Tvary Hádej, jak moc tě mám rád!
-5. Protiklady Hádej, jak moc tě mám rád!
-
----
-
-## 🕐 2026-08-30 11:45:35 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
