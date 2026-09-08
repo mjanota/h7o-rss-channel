@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-08 11:04:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Země světa - 9/2026
+2. Cvičení proti bolestem ramen a šíje
+3. Zahrej jako čeští a slovenští (vel)mistři II
+4. Cvičebnice pro pokročilé VI
+5. Umíš koncovky III?
+6. Princezna a slunce svit
+7. Holmes z Kjóta 14
+8. Vlaky-kniha plná samolepek
+9. Povídky malostranské
+10. Umění 2/2026
+11. Barva ticha
+12. Temný trůn
+13. ZVÍŘÁTKA NA STATKU - Kniha plná samolepek
+14. Vraždy u Menendezových
+15. Miliardové zločiny
+16. Nástěnný kalendář Krteček 2027
+17. Krásné stroje Československa
+18. Stříbrná elita
+19. Přízeň
+20. Můj bratr Wolf
+
+---
+
+## 🕐 2026-09-08 11:04:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Milane, čoveče
+
+---
+
 ## 🕐 2026-09-07 12:15:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -298,51 +345,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Od lásky k šílenství, od šílenství k lásce
-
----
-
-## 🕐 2026-08-31 13:27:12 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Barčulín, Edulín a kouzelná křída
-2. Kuba nechce prohrávat
-3. Myši patří do nebe
-4. Havran a královna
-5. Výběr z Bichlí
-6. Říkání o víle Amálce
-7. Deník maličkého Minecrafťáka
-8. Paříži s láskou
-9. Domov ztracených ptáčat
-10. Za hranicemi vitality
-11. Ztracená krása
-12. Finance: od teorie k realitě
-13. Nedokončená ošetřovatelská péče
-14. Azbest v pracovním prostředí a jeho zdravotní účinky
-15. Předčasný porod
-16. Kluk v kopačkách – Hledači talentů
-17. Reprodukční medicína
-18. Neobyčejně obyčejný život
-
----
-
-## 🕐 2026-08-31 13:27:11 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hezky přeložená kniha je příspěvek ke svobodě
 
 ---
 

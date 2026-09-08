@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:04:43 +0000</lastBuildDate>
+    <item>
+      <title>Milane, čoveče</title>
+      <link>https://www.h7o.cz/clanky/14600-milane-covece</link>
+      <description>Ve čtvrtek 3. září zemřel básník Milan Ohnisko. Přinášíme ohlédnutí jeho přítele Martina Reinera.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14600-milane-covece</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Začerněné stránky jsou občas to jediné, co z minulosti zůstane</title>
       <link>https://www.h7o.cz/clanky/14595-zacernene-stranky-jsou-obcas-to-jedine-co-z-minulosti-zustane</link>
@@ -434,13 +441,6 @@
       <description>Kafka na tričkách či kafkovské kavárny s bizarními názvy bohemistce Veronice Tuckerové nevadí tolik jako absence promyšlené péče o jeho dílo. Badatelka z Harvardu v bohemistickém seriálu vysvětluje, proč je stále čteme a co znamená učit českou literaturu a jazyk v USA.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14532-v-zahranicnim-vyzkumu-nestaci-zaplnovat-bila-mista</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Právo skrýt se před AI</title>
-      <link>https://www.h7o.cz/clanky/14549-pravo-skryt-se-pred-ai</link>
-      <description>Google musí nakladatelům a vydavatelům dát právo volby být v AI přehledech. Británie nedávno přijala historické opatření na ochranu obsahu.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14549-pravo-skryt-se-pred-ai</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
