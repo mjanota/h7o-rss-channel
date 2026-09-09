@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-09 11:09:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Omyl
+2. Hrobník a vraždy v Prátru
+3. Tajné ambity
+4. Algoritmus chyby
+5. V tepnách vře krev
+6. Zneužití důvěry
+7. Zdánlivá dezorientace
+8. Prašný strom
+9. Milostné nebytí
+10. Verše z Muzotu
+11. V kleci
+12. Svoboda svobod
+13. Vzpomínám (1902–1959)
+14. William Heerlein Lindley a pražská kanalizace
+15. Zpívám já a hora tančí
+16. Punk 57
+17. Prvouka pro 2. ročník ZŠ - Učebnice
+18. Dech motýla
+19. Probuzení živlů
+20. K počátkům osídlení Šluknovska
+
+---
+
+## 🕐 2026-09-09 11:09:16 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Kaufland premium
+
+---
+
 ## 🕐 2026-09-08 11:04:44 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,96 +302,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Přesvědčivý románový tvar
-
----
-
-## 🕐 2026-09-02 11:06:19 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Byla to vražda, zapomeň
-2. Dotek stvůry
-3. Maska vraha
-4. Mýtina
-5. Palec ve vosím hnizdě
-6. Pamatuju si tě živou
-7. Tajemství zapomenutých listin
-8. Socioekonomické aspekty mající vliv na krizové situace
-9. Žena, která už ví
-10. Zjizvení
-11. Mizející knihkupectví pod sakurou
-12. Zapomenuté manželství
-13. Žena dvou bratrů
-14. Noční lovec
-15. Pán zkázy
-16. Německé samohybné dělostřelectvo
-
----
-
-## 🕐 2026-09-02 11:06:18 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Dělník je smrtelný, práce je živá
-
----
-
-## 🕐 2026-09-01 11:31:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Florencie a Toskánsko – TOP 10
-2. SpongeBob 9/2026
-3. Tady. Teď. Ahoj. - Můžeš mě oslovit
-4. Historie NASA
-5. Předškolák speciál - Kaňkův speciál pro malé objevitele
-6. SU-152/ISU-152 vs. Tiger
-7. Dějiny světa
-8. Kalendář Urban 2027 - Sranda s Pivrncem
-9. Hravý početník 5 - 1. díl
-10. Nová literatura 4 - pracovní sešit
-11. Hravý zeměpis 6 – pracovní sešit
-12. Anna z Moravy
-13. Kognitivně-behaviorální terapie
-14. Motorkaření
-15. 10 banánových krabic
-16. Pohádky skřítka Obchodníčka
-17. Pročtěte se ke štěstí
-18. Satanova aféra
-19. Peklo na ostrově
-20. Místo na nový začátek
-
----
-
-## 🕐 2026-09-01 11:31:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Od lásky k šílenství, od šílenství k lásce
 
 ---
 

@@ -1,5 +1,192 @@
 [
   {
+    "title": "Omyl",
+    "url": "https://www.kosmas.cz/knihy/573011/omyl/",
+    "description": "Omyl - Elle Kennedy",
+    "authors": [
+      "Elle Kennedy"
+    ],
+    "date": "2026-09-09T11:09:17.506698+00:00"
+  },
+  {
+    "title": "Hrobník a vraždy v Prátru",
+    "url": "https://www.kosmas.cz/knihy/572364/hrobnik-a-vrazdy-v-pratru/",
+    "description": "Hrobník a vraždy v Prátru - Oliver Pötzsch",
+    "authors": [
+      "Oliver Pötzsch"
+    ],
+    "date": "2026-09-09T11:09:16.506698+00:00"
+  },
+  {
+    "title": "Tajné ambity",
+    "url": "https://www.kosmas.cz/knihy/571839/tajne-ambity/",
+    "description": "Tajné ambity - Jan Křesadlo",
+    "authors": [
+      "Jan Křesadlo"
+    ],
+    "date": "2026-09-09T11:09:15.506698+00:00"
+  },
+  {
+    "title": "Algoritmus chyby",
+    "url": "https://www.kosmas.cz/knihy/571840/algoritmus-chyby/",
+    "description": "Algoritmus chyby - Radoslav Rochallyi",
+    "authors": [
+      "Radoslav Rochallyi"
+    ],
+    "date": "2026-09-09T11:09:14.506698+00:00"
+  },
+  {
+    "title": "V tepnách vře krev",
+    "url": "https://www.kosmas.cz/knihy/571843/v-tepnach-vre-krev/",
+    "description": "V tepnách vře krev - Michal Jareš",
+    "authors": [
+      "Michal Jareš"
+    ],
+    "date": "2026-09-09T11:09:13.506698+00:00"
+  },
+  {
+    "title": "Zneužití důvěry",
+    "url": "https://www.kosmas.cz/knihy/571845/zneuziti-duvery/",
+    "description": "Zneužití důvěry - Ángel Escobar",
+    "authors": [
+      "Ángel Escobar"
+    ],
+    "date": "2026-09-09T11:09:12.506698+00:00"
+  },
+  {
+    "title": "Zdánlivá dezorientace",
+    "url": "https://www.kosmas.cz/knihy/571846/zdanliva-dezorientace/",
+    "description": "Zdánlivá dezorientace - Ivan Sviták, Jakub Šofar",
+    "authors": [
+      "Ivan Sviták",
+      "Jakub Šofar"
+    ],
+    "date": "2026-09-09T11:09:11.506698+00:00"
+  },
+  {
+    "title": "Prašný strom",
+    "url": "https://www.kosmas.cz/knihy/571847/prasny-strom/",
+    "description": "Prašný strom - Yvan Goll",
+    "authors": [
+      "Yvan Goll"
+    ],
+    "date": "2026-09-09T11:09:10.506698+00:00"
+  },
+  {
+    "title": "Milostné nebytí",
+    "url": "https://www.kosmas.cz/knihy/571848/milostne-nebyti/",
+    "description": "Milostné nebytí - Dušan Pala, Michal Jareš",
+    "authors": [
+      "Dušan Pala",
+      "Michal Jareš"
+    ],
+    "date": "2026-09-09T11:09:09.506698+00:00"
+  },
+  {
+    "title": "Verše z Muzotu",
+    "url": "https://www.kosmas.cz/knihy/571849/verse-z-muzotu/",
+    "description": "Verše z Muzotu - Rainer Maria Rilke",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "date": "2026-09-09T11:09:08.506698+00:00"
+  },
+  {
+    "title": "V kleci",
+    "url": "https://www.kosmas.cz/knihy/571851/v-kleci/",
+    "description": "V kleci - Kurt Tucholsky",
+    "authors": [
+      "Kurt Tucholsky"
+    ],
+    "date": "2026-09-09T11:09:07.506698+00:00"
+  },
+  {
+    "title": "Svoboda svobod",
+    "url": "https://www.kosmas.cz/knihy/571853/svoboda-svobod/",
+    "description": "Svoboda svobod - Alain Jouffroy, Jakub Řehák",
+    "authors": [
+      "Alain Jouffroy",
+      "Jakub Řehák"
+    ],
+    "date": "2026-09-09T11:09:06.506698+00:00"
+  },
+  {
+    "title": "Vzpomínám (1902–1959)",
+    "url": "https://www.kosmas.cz/knihy/571901/vzpominam-1902-1959/",
+    "description": "Vzpomínám (1902–1959) - Miroslav Sutnar, Miloš Hořejš, Miroslav Pokorný, Tomáš Rataj",
+    "authors": [
+      "Miroslav Sutnar",
+      "Miloš Hořejš",
+      "Miroslav Pokorný",
+      "Tomáš Rataj"
+    ],
+    "date": "2026-09-09T11:09:05.506698+00:00"
+  },
+  {
+    "title": "William Heerlein Lindley a pražská kanalizace",
+    "url": "https://www.kosmas.cz/knihy/572048/william-heerlein-lindley-a-prazska-kanalizace/",
+    "description": "William Heerlein Lindley a pražská kanalizace - Jaroslav Jásek",
+    "authors": [
+      "Jaroslav Jásek"
+    ],
+    "date": "2026-09-09T11:09:04.506698+00:00"
+  },
+  {
+    "title": "Zpívám já a hora tančí",
+    "url": "https://www.kosmas.cz/knihy/572096/zpivam-ja-a-hora-tanci/",
+    "description": "Zpívám já a hora tančí - Irene Solà",
+    "authors": [
+      "Irene Solà"
+    ],
+    "date": "2026-09-09T11:09:03.506698+00:00"
+  },
+  {
+    "title": "Punk 57",
+    "url": "https://www.kosmas.cz/knihy/572906/punk-57/",
+    "description": "Punk 57 - Penelope Douglasová",
+    "authors": [
+      "Penelope Douglasová"
+    ],
+    "date": "2026-09-09T11:09:02.506698+00:00"
+  },
+  {
+    "title": "Prvouka pro 2. ročník ZŠ - Učebnice",
+    "url": "https://www.kosmas.cz/knihy/572966/prvouka-pro-2.-rocnik-zs-ucebnice/",
+    "description": "Prvouka pro 2. ročník ZŠ - Učebnice - Zdeňka Konupková, Soňa Samková",
+    "authors": [
+      "Zdeňka Konupková",
+      "Soňa Samková"
+    ],
+    "date": "2026-09-09T11:09:01.506698+00:00"
+  },
+  {
+    "title": "Dech motýla",
+    "url": "https://www.kosmas.cz/knihy/573027/dech-motyla/",
+    "description": "Dech motýla - Marie Rejfová",
+    "authors": [
+      "Marie Rejfová"
+    ],
+    "date": "2026-09-09T11:09:00.506698+00:00"
+  },
+  {
+    "title": "Probuzení živlů",
+    "url": "https://www.kosmas.cz/knihy/573028/probuzeni-zivlu/",
+    "description": "Probuzení živlů - Bobbie Wirkmaa",
+    "authors": [
+      "Bobbie Wirkmaa"
+    ],
+    "date": "2026-09-09T11:08:59.506698+00:00"
+  },
+  {
+    "title": "K počátkům osídlení Šluknovska",
+    "url": "https://www.kosmas.cz/knihy/573037/k-pocatkum-osidleni-sluknovska/",
+    "description": "K počátkům osídlení Šluknovska - Tomáš Velímský",
+    "authors": [
+      "Tomáš Velímský"
+    ],
+    "date": "2026-09-09T11:08:58.506698+00:00"
+  },
+  {
     "title": "Země světa - 9/2026",
     "url": "https://www.kosmas.cz/knihy/563719/zeme-sveta-9-2026/",
     "description": "Země světa - 9/2026",
@@ -1629,185 +1816,5 @@
       "Marie Žáková"
     ],
     "date": "2026-08-28T18:30:48.858628+00:00"
-  },
-  {
-    "title": "Disney - Platinová kolekce",
-    "url": "https://www.kosmas.cz/knihy/572781/disney-platinova-kolekce/",
-    "description": "Disney - Platinová kolekce - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-28T18:30:47.858628+00:00"
-  },
-  {
-    "title": "Stitch - 7 pohádek na dobrou noc",
-    "url": "https://www.kosmas.cz/knihy/572782/stitch-7-pohadek-na-dobrou-noc/",
-    "description": "Stitch - 7 pohádek na dobrou noc - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-28T18:30:46.858628+00:00"
-  },
-  {
-    "title": "Princezna - Platinová kolekce",
-    "url": "https://www.kosmas.cz/knihy/572783/princezna-platinova-kolekce/",
-    "description": "Princezna - Platinová kolekce - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-28T18:30:45.858628+00:00"
-  },
-  {
-    "title": "Co nás škola (ne)naučila",
-    "url": "https://www.kosmas.cz/knihy/571031/co-nas-skola-ne-naucila/",
-    "description": "Co nás škola (ne)naučila - Andrea Nguyen",
-    "authors": [
-      "Andrea Nguyen"
-    ],
-    "date": "2026-08-28T18:30:44.858628+00:00"
-  },
-  {
-    "title": "To já jsem uměním",
-    "url": "https://www.kosmas.cz/knihy/571346/to-ja-jsem-umenim/",
-    "description": "To já jsem uměním - Osamu Dazai",
-    "authors": [
-      "Osamu Dazai"
-    ],
-    "date": "2026-08-27T17:33:48.259951+00:00"
-  },
-  {
-    "title": "Moje chytrá knihovnička: První slova",
-    "url": "https://www.kosmas.cz/knihy/571349/moje-chytra-knihovnicka-prvni-slova/",
-    "description": "Moje chytrá knihovnička: První slova",
-    "authors": [],
-    "date": "2026-08-27T17:33:47.259951+00:00"
-  },
-  {
-    "title": "Korán – mýty a fakta o posvátné knize islámu",
-    "url": "https://www.kosmas.cz/knihy/572203/koran-myty-a-fakta-o-posvatne-knize-islamu/",
-    "description": "Korán – mýty a fakta o posvátné knize islámu - Lukáš Lhoťan",
-    "authors": [
-      "Lukáš Lhoťan"
-    ],
-    "date": "2026-08-27T17:33:46.259951+00:00"
-  },
-  {
-    "title": "Ozvěny přízraků",
-    "url": "https://www.kosmas.cz/knihy/564907/ozveny-prizraku/",
-    "description": "Ozvěny přízraků - An Jü",
-    "authors": [
-      "An Jü"
-    ],
-    "date": "2026-08-27T17:33:45.259951+00:00"
-  },
-  {
-    "title": "Mozek a řeč",
-    "url": "https://www.kosmas.cz/knihy/563819/mozek-a-rec/",
-    "description": "Mozek a řeč - Rima Abou Khalil, Wanda G. Webb",
-    "authors": [
-      "Rima Abou Khalil",
-      "Wanda G. Webb"
-    ],
-    "date": "2026-08-27T17:33:44.259951+00:00"
-  },
-  {
-    "title": "Insectopolis",
-    "url": "https://www.kosmas.cz/knihy/564104/insectopolis/",
-    "description": "Insectopolis - Peter Kuper",
-    "authors": [
-      "Peter Kuper"
-    ],
-    "date": "2026-08-27T17:33:43.259951+00:00"
-  },
-  {
-    "title": "Čáry máry - Zvuky v pohybu",
-    "url": "https://www.kosmas.cz/knihy/572293/cary-mary-zvuky-v-pohybu/",
-    "description": "Čáry máry - Zvuky v pohybu",
-    "authors": [],
-    "date": "2026-08-27T17:33:42.259951+00:00"
-  },
-  {
-    "title": "New age, „ezo“, alternativní spiritualita",
-    "url": "https://www.kosmas.cz/knihy/572311/new-age-ezo-alternativni-spiritualita/",
-    "description": "New age, „ezo“, alternativní spiritualita - Zuzana Marie Kostićová",
-    "authors": [
-      "Zuzana Marie Kostićová"
-    ],
-    "date": "2026-08-27T17:33:41.259951+00:00"
-  },
-  {
-    "title": "Užitá speciální pedagogika",
-    "url": "https://www.kosmas.cz/knihy/572312/uzita-specialni-pedagogika/",
-    "description": "Užitá speciální pedagogika - Boris Titzl",
-    "authors": [
-      "Boris Titzl"
-    ],
-    "date": "2026-08-27T17:33:40.259951+00:00"
-  },
-  {
-    "title": "Seber se a jdi",
-    "url": "https://www.kosmas.cz/knihy/572341/seber-se-a-jdi/",
-    "description": "Seber se a jdi - Barbora Sebera",
-    "authors": [
-      "Barbora Sebera"
-    ],
-    "date": "2026-08-27T17:33:39.259951+00:00"
-  },
-  {
-    "title": "Nákladní vozy 1918–1945 – Soukromé vozy 2",
-    "url": "https://www.kosmas.cz/knihy/572365/nakladni-vozy-1918-1945-soukrome-vozy-2/",
-    "description": "Nákladní vozy 1918–1945 – Soukromé vozy 2 - Radek Šindelář",
-    "authors": [
-      "Radek Šindelář"
-    ],
-    "date": "2026-08-27T17:33:38.259951+00:00"
-  },
-  {
-    "title": "Jošt: Cena vzpomínek",
-    "url": "https://www.kosmas.cz/knihy/572372/jost-cena-vzpominek/",
-    "description": "Jošt: Cena vzpomínek - Jiří Kouřil, Anna Kouřilová",
-    "authors": [
-      "Jiří Kouřil",
-      "Anna Kouřilová"
-    ],
-    "date": "2026-08-27T17:33:37.259951+00:00"
-  },
-  {
-    "title": "Doba pitomců",
-    "url": "https://www.kosmas.cz/knihy/572553/doba-pitomcu/",
-    "description": "Doba pitomců - Alexandr Mitrofanov",
-    "authors": [
-      "Alexandr Mitrofanov"
-    ],
-    "date": "2026-08-27T17:33:36.259951+00:00"
-  },
-  {
-    "title": "NOVÝ Minutový Manažer",
-    "url": "https://www.kosmas.cz/knihy/572570/novy-minutovy-manazer/",
-    "description": "NOVÝ Minutový Manažer - Ken Blanchard, Spencer Johnson",
-    "authors": [
-      "Ken Blanchard",
-      "Spencer Johnson"
-    ],
-    "date": "2026-08-27T17:33:35.259951+00:00"
-  },
-  {
-    "title": "Go Giver Influencer",
-    "url": "https://www.kosmas.cz/knihy/572571/go-giver-influencer/",
-    "description": "Go Giver Influencer - Bob Burg, John David Mann",
-    "authors": [
-      "Bob Burg",
-      "John David Mann"
-    ],
-    "date": "2026-08-27T17:33:34.259951+00:00"
-  },
-  {
-    "title": "Havran a královna",
-    "url": "https://www.kosmas.cz/knihy/572578/havran-a-kralovna/",
-    "description": "Havran a královna - Oliver Jasanský",
-    "authors": [
-      "Oliver Jasanský"
-    ],
-    "date": "2026-08-27T17:33:33.259951+00:00"
   }
 ]

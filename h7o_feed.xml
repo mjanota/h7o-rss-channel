@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:09:16 +0000</lastBuildDate>
+    <item>
+      <title>Kaufland premium</title>
+      <link>https://www.h7o.cz/clanky/14603-kaufland-premium</link>
+      <description>„Demiurgové populárních generátorů přitom očividně došli k tomu, že odkazy dodávají kompilacím na důvěryhodnosti,“ píše Jakub Jetmar v letní glose o podezřelé záplavě linků v internetové tvorbě nejen hybridních novinářů.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14603-kaufland-premium</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Milane, čoveče</title>
       <link>https://www.h7o.cz/clanky/14600-milane-covece</link>
@@ -434,13 +441,6 @@
       <description>Zatímco člověk dřívějších dob byl pohnut, protože byl přesvědčen, dnes jsme přesvědčeni, protože jsme pohnuti. Stali jsme se společností singularit, tvrdí německý sociolog Andreas Reckwitz.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14550-svet-jedinecnosti</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>V zahraničním výzkumu nestačí zaplňovat bílá místa</title>
-      <link>https://www.h7o.cz/clanky/14532-v-zahranicnim-vyzkumu-nestaci-zaplnovat-bila-mista</link>
-      <description>Kafka na tričkách či kafkovské kavárny s bizarními názvy bohemistce Veronice Tuckerové nevadí tolik jako absence promyšlené péče o jeho dílo. Badatelka z Harvardu v bohemistickém seriálu vysvětluje, proč je stále čteme a co znamená učit českou literaturu a jazyk v USA.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14532-v-zahranicnim-vyzkumu-nestaci-zaplnovat-bila-mista</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

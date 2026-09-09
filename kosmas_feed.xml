@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 08 Sep 2026 11:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:09:17 +0000</lastBuildDate>
+    <item>
+      <title>Omyl</title>
+      <link>https://www.kosmas.cz/knihy/573011/omyl/</link>
+      <description>Omyl - Elle Kennedy</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573011/omyl/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hrobník a vraždy v Prátru</title>
+      <link>https://www.kosmas.cz/knihy/572364/hrobnik-a-vrazdy-v-pratru/</link>
+      <description>Hrobník a vraždy v Prátru - Oliver Pötzsch</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572364/hrobnik-a-vrazdy-v-pratru/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajné ambity</title>
+      <link>https://www.kosmas.cz/knihy/571839/tajne-ambity/</link>
+      <description>Tajné ambity - Jan Křesadlo</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571839/tajne-ambity/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Algoritmus chyby</title>
+      <link>https://www.kosmas.cz/knihy/571840/algoritmus-chyby/</link>
+      <description>Algoritmus chyby - Radoslav Rochallyi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571840/algoritmus-chyby/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>V tepnách vře krev</title>
+      <link>https://www.kosmas.cz/knihy/571843/v-tepnach-vre-krev/</link>
+      <description>V tepnách vře krev - Michal Jareš</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571843/v-tepnach-vre-krev/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zneužití důvěry</title>
+      <link>https://www.kosmas.cz/knihy/571845/zneuziti-duvery/</link>
+      <description>Zneužití důvěry - Ángel Escobar</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571845/zneuziti-duvery/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zdánlivá dezorientace</title>
+      <link>https://www.kosmas.cz/knihy/571846/zdanliva-dezorientace/</link>
+      <description>Zdánlivá dezorientace - Ivan Sviták, Jakub Šofar</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571846/zdanliva-dezorientace/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prašný strom</title>
+      <link>https://www.kosmas.cz/knihy/571847/prasny-strom/</link>
+      <description>Prašný strom - Yvan Goll</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571847/prasny-strom/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milostné nebytí</title>
+      <link>https://www.kosmas.cz/knihy/571848/milostne-nebyti/</link>
+      <description>Milostné nebytí - Dušan Pala, Michal Jareš</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571848/milostne-nebyti/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Verše z Muzotu</title>
+      <link>https://www.kosmas.cz/knihy/571849/verse-z-muzotu/</link>
+      <description>Verše z Muzotu - Rainer Maria Rilke</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571849/verse-z-muzotu/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>V kleci</title>
+      <link>https://www.kosmas.cz/knihy/571851/v-kleci/</link>
+      <description>V kleci - Kurt Tucholsky</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571851/v-kleci/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Svoboda svobod</title>
+      <link>https://www.kosmas.cz/knihy/571853/svoboda-svobod/</link>
+      <description>Svoboda svobod - Alain Jouffroy, Jakub Řehák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571853/svoboda-svobod/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vzpomínám (1902–1959)</title>
+      <link>https://www.kosmas.cz/knihy/571901/vzpominam-1902-1959/</link>
+      <description>Vzpomínám (1902–1959) - Miroslav Sutnar, Miloš Hořejš, Miroslav Pokorný, Tomáš Rataj</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571901/vzpominam-1902-1959/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>William Heerlein Lindley a pražská kanalizace</title>
+      <link>https://www.kosmas.cz/knihy/572048/william-heerlein-lindley-a-prazska-kanalizace/</link>
+      <description>William Heerlein Lindley a pražská kanalizace - Jaroslav Jásek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572048/william-heerlein-lindley-a-prazska-kanalizace/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zpívám já a hora tančí</title>
+      <link>https://www.kosmas.cz/knihy/572096/zpivam-ja-a-hora-tanci/</link>
+      <description>Zpívám já a hora tančí - Irene Solà</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572096/zpivam-ja-a-hora-tanci/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Punk 57</title>
+      <link>https://www.kosmas.cz/knihy/572906/punk-57/</link>
+      <description>Punk 57 - Penelope Douglasová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572906/punk-57/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prvouka pro 2. ročník ZŠ - Učebnice</title>
+      <link>https://www.kosmas.cz/knihy/572966/prvouka-pro-2.-rocnik-zs-ucebnice/</link>
+      <description>Prvouka pro 2. ročník ZŠ - Učebnice - Zdeňka Konupková, Soňa Samková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572966/prvouka-pro-2.-rocnik-zs-ucebnice/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dech motýla</title>
+      <link>https://www.kosmas.cz/knihy/573027/dech-motyla/</link>
+      <description>Dech motýla - Marie Rejfová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573027/dech-motyla/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probuzení živlů</title>
+      <link>https://www.kosmas.cz/knihy/573028/probuzeni-zivlu/</link>
+      <description>Probuzení živlů - Bobbie Wirkmaa</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573028/probuzeni-zivlu/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>K počátkům osídlení Šluknovska</title>
+      <link>https://www.kosmas.cz/knihy/573037/k-pocatkum-osidleni-sluknovska/</link>
+      <description>K počátkům osídlení Šluknovska - Tomáš Velímský</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573037/k-pocatkum-osidleni-sluknovska/</guid>
+      <pubDate>Wed, 09 Sep 2026 11:08:58 +0000</pubDate>
+    </item>
     <item>
       <title>Země světa - 9/2026</title>
       <link>https://www.kosmas.cz/knihy/563719/zeme-sveta-9-2026/</link>
@@ -567,146 +707,6 @@
       <description>Kapesní diář Biella 2027, růžový</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/572114/kapesni-diar-biella-2027-ruzovy/</guid>
       <pubDate>Fri, 04 Sep 2026 11:04:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Léto na chalupě</title>
-      <link>https://www.kosmas.cz/knihy/572251/leto-na-chalupe/</link>
-      <description>Léto na chalupě - Tereza Šiklová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572251/leto-na-chalupe/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>21 promluv o návratu k sobě</title>
-      <link>https://www.kosmas.cz/knihy/572242/21-promluv-o-navratu-k-sobe/</link>
-      <description>21 promluv o návratu k sobě - Pavel Špatenka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572242/21-promluv-o-navratu-k-sobe/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Planbook diář/notes Korál 2027</title>
-      <link>https://www.kosmas.cz/knihy/572528/planbook-diar-notes-koral-2027/</link>
-      <description>Planbook diář/notes Korál 2027</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572528/planbook-diar-notes-koral-2027/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Krásná jako osmička</title>
-      <link>https://www.kosmas.cz/knihy/572726/krasna-jako-osmicka/</link>
-      <description>Krásná jako osmička - Nikola Huppertz</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572726/krasna-jako-osmicka/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nesmrtelný Weil</title>
-      <link>https://www.kosmas.cz/knihy/572727/nesmrtelny-weil/</link>
-      <description>Nesmrtelný Weil - Maxim Biller</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572727/nesmrtelny-weil/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Naháčci</title>
-      <link>https://www.kosmas.cz/knihy/572736/nahacci/</link>
-      <description>Naháčci - Dorota Ambrožová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572736/nahacci/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pejsek a kočička jedou do zoo</title>
-      <link>https://www.kosmas.cz/knihy/570612/pejsek-a-kocicka-jedou-do-zoo/</link>
-      <description>Pejsek a kočička jedou do zoo - Vlasta Hurtíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570612/pejsek-a-kocicka-jedou-do-zoo/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2</title>
-      <link>https://www.kosmas.cz/knihy/571536/fotoalbum-evropske-metro-2-album-photo-metros-d-europe-2/</link>
-      <description>Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2 - Boris Kogut</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571536/fotoalbum-evropske-metro-2-album-photo-metros-d-europe-2/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Přeběhlík</title>
-      <link>https://www.kosmas.cz/knihy/572904/prebehlik/</link>
-      <description>Přeběhlík - Ondřej Šmejkal</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572904/prebehlik/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dech motýla</title>
-      <link>https://www.kosmas.cz/knihy/572905/dech-motyla/</link>
-      <description>Dech motýla - Marie Rejfová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572905/dech-motyla/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Probuzení živlů</title>
-      <link>https://www.kosmas.cz/knihy/572907/probuzeni-zivlu/</link>
-      <description>Probuzení živlů - Bobbie Wirkmaa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572907/probuzeni-zivlu/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kuchaři smrti</title>
-      <link>https://www.kosmas.cz/knihy/572986/kuchari-smrti/</link>
-      <description>Kuchaři smrti - Milan Říský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572986/kuchari-smrti/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ve výslužbě - Bezvýznamná událost</title>
-      <link>https://www.kosmas.cz/knihy/570682/ve-vysluzbe-bezvyznamna-udalost/</link>
-      <description>Ve výslužbě - Bezvýznamná událost - Martin Goffa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570682/ve-vysluzbe-bezvyznamna-udalost/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Emočně inteligentní m(už)</title>
-      <link>https://www.kosmas.cz/knihy/572990/emocne-inteligentni-m-uz/</link>
-      <description>Emočně inteligentní m(už) - Jitka Ševčíková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572990/emocne-inteligentni-m-uz/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daně na příští rok</title>
-      <link>https://www.kosmas.cz/knihy/572991/dane-na-pristi-rok/</link>
-      <description>Daně na příští rok - Jaroslava Jendrisková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572991/dane-na-pristi-rok/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stíny minulosti</title>
-      <link>https://www.kosmas.cz/knihy/570740/stiny-minulosti/</link>
-      <description>Stíny minulosti - Ondřej Fanta</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570740/stiny-minulosti/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vidím, že vás zajímá temnota</title>
-      <link>https://www.kosmas.cz/knihy/563445/vidim-ze-vas-zajima-temnota/</link>
-      <description>Vidím, že vás zajímá temnota - Illarion Pavljuk</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/563445/vidim-ze-vas-zajima-temnota/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proč firmy krachují a jak to zastavit</title>
-      <link>https://www.kosmas.cz/knihy/572042/proc-firmy-krachuji-a-jak-to-zastavit/</link>
-      <description>Proč firmy krachují a jak to zastavit</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572042/proc-firmy-krachuji-a-jak-to-zastavit/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Případ smějících se mrtvých</title>
-      <link>https://www.kosmas.cz/knihy/572204/pripad-smejicich-se-mrtvych/</link>
-      <description>Případ smějících se mrtvých - Jess Lourey</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572204/pripad-smejicich-se-mrtvych/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:03:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Byla to vražda, zapomeň</title>
-      <link>https://www.kosmas.cz/knihy/572842/byla-to-vrazda-zapomen/</link>
-      <description>Byla to vražda, zapomeň - Pavel Sekyrka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572842/byla-to-vrazda-zapomen/</guid>
-      <pubDate>Wed, 02 Sep 2026 11:06:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

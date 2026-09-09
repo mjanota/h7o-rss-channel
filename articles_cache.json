@@ -1,13 +1,5 @@
 [
   {
-    "title": "V zahraničním výzkumu nestačí zaplňovat bílá místa",
-    "url": "https://www.h7o.cz/clanky/14532-v-zahranicnim-vyzkumu-nestaci-zaplnovat-bila-mista",
-    "description": "Kafka na tričkách či kafkovské kavárny s bizarními názvy bohemistce Veronice Tuckerové nevadí tolik jako absence promyšlené péče o jeho dílo. Badatelka z Harvardu v bohemistickém seriálu vysvětluje, proč je stále čteme a co znamená učit českou literaturu a jazyk v USA.",
-    "date": "2026-06-11T00:00:00",
-    "author": "Martin Strašák",
-    "category": "seriál"
-  },
-  {
     "title": "Svět jedinečností",
     "url": "https://www.h7o.cz/clanky/14550-svet-jedinecnosti",
     "description": "Zatímco člověk dřívějších dob byl pohnut, protože byl přesvědčen, dnes jsme přesvědčeni, protože jsme pohnuti. Stali jsme se společností singularit, tvrdí německý sociolog Andreas Reckwitz.",
@@ -494,5 +486,13 @@
     "date": "2026-09-08T00:00:00",
     "author": "Martin Reiner",
     "category": ""
+  },
+  {
+    "title": "Kaufland premium",
+    "url": "https://www.h7o.cz/clanky/14603-kaufland-premium",
+    "description": "„Demiurgové populárních generátorů přitom očividně došli k tomu, že odkazy dodávají kompilacím na důvěryhodnosti,“ píše Jakub Jetmar v letní glose o podezřelé záplavě linků v internetové tvorbě nejen hybridních novinářů.",
+    "date": "2026-09-09T00:00:00",
+    "author": "Jakub Jetmar",
+    "category": "sloupek"
   }
 ]
