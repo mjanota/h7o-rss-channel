@@ -7,7 +7,140 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:06:08 +0000</lastBuildDate>
+    <item>
+      <title>Hlavu vzhůru!</title>
+      <link>https://www.kosmas.cz/knihy/573183/hlavu-vzhuru/</link>
+      <description>Hlavu vzhůru! - Kateřina Krůtová-Novotná, Jan Mühlfeit</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573183/hlavu-vzhuru/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vltavice</title>
+      <link>https://www.kosmas.cz/knihy/570689/vltavice/</link>
+      <description>Vltavice - Jan Štifter</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570689/vltavice/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Temný trůn</title>
+      <link>https://www.kosmas.cz/knihy/573192/temny-trun/</link>
+      <description>Temný trůn - Rebecca Gablé</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573192/temny-trun/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Žofie Bavorská</title>
+      <link>https://www.kosmas.cz/knihy/573194/zofie-bavorska/</link>
+      <description>Žofie Bavorská - Hana Whitton</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573194/zofie-bavorska/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příběh z popela</title>
+      <link>https://www.kosmas.cz/knihy/572693/pribeh-z-popela/</link>
+      <description>Příběh z popela - Petr Bobek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572693/pribeh-z-popela/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stručný průvodce odcházením</title>
+      <link>https://www.kosmas.cz/knihy/572754/strucny-pruvodce-odchazenim/</link>
+      <description>Stručný průvodce odcházením - Bianca Bellová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572754/strucny-pruvodce-odchazenim/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Básně, které potřebuje svět</title>
+      <link>https://www.kosmas.cz/knihy/571318/basne-ktere-potrebuje-svet/</link>
+      <description>Básně, které potřebuje svět - Tomáš Kopřiva</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571318/basne-ktere-potrebuje-svet/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tělo nikdy nelže</title>
+      <link>https://www.kosmas.cz/knihy/571520/telo-nikdy-nelze/</link>
+      <description>Tělo nikdy nelže - Alice Miller</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571520/telo-nikdy-nelze/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Příběhy o míru</title>
+      <link>https://www.kosmas.cz/knihy/571522/pribehy-o-miru/</link>
+      <description>Příběhy o míru - Bruno Ferrero</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571522/pribehy-o-miru/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FILL ME IN - Gay Coloring Book</title>
+      <link>https://www.kosmas.cz/knihy/571703/fill-me-in-gay-coloring-book/</link>
+      <description>FILL ME IN - Gay Coloring Book</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571703/fill-me-in-gay-coloring-book/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Každodennost</title>
+      <link>https://www.kosmas.cz/knihy/572828/kazdodennost/</link>
+      <description>Každodennost - Magdalena Šalamounová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572828/kazdodennost/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Úlomky léta</title>
+      <link>https://www.kosmas.cz/knihy/572902/ulomky-leta/</link>
+      <description>Úlomky léta - Lucie Koryntová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572902/ulomky-leta/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Po nás opuka</title>
+      <link>https://www.kosmas.cz/knihy/572903/po-nas-opuka/</link>
+      <description>Po nás opuka - Slavomír Kudláček</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572903/po-nas-opuka/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Raketa 48</title>
+      <link>https://www.kosmas.cz/knihy/572302/raketa-48/</link>
+      <description>Raketa 48</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572302/raketa-48/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foucaultovo kyvadlo</title>
+      <link>https://www.kosmas.cz/knihy/573065/foucaultovo-kyvadlo/</link>
+      <description>Foucaultovo kyvadlo - Umberto Eco</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573065/foucaultovo-kyvadlo/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hodinový detektiv</title>
+      <link>https://www.kosmas.cz/knihy/573112/hodinovy-detektiv/</link>
+      <description>Hodinový detektiv - Lukáš Vlasák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573112/hodinovy-detektiv/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lakový paraván</title>
+      <link>https://www.kosmas.cz/knihy/573114/lakovy-paravan/</link>
+      <description>Lakový paraván - Robert H. van Gulik</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573114/lakovy-paravan/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galerka</title>
+      <link>https://www.kosmas.cz/knihy/572573/galerka/</link>
+      <description>Galerka - Petr Šrajer</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572573/galerka/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rodina není tvůj osud</title>
+      <link>https://www.kosmas.cz/knihy/571369/rodina-neni-tvuj-osud/</link>
+      <description>Rodina není tvůj osud - Noémi Orvos-Tóth</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571369/rodina-neni-tvuj-osud/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:05:49 +0000</pubDate>
+    </item>
     <item>
       <title>Omyl</title>
       <link>https://www.kosmas.cz/knihy/573011/omyl/</link>
@@ -574,139 +707,6 @@
       <description>Mušketýři V: Templáři - Joe Garcia</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/573051/musketyri-v-templari/</guid>
       <pubDate>Sat, 05 Sep 2026 10:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strašidelná knihovna - Ztracený duch</title>
-      <link>https://www.kosmas.cz/knihy/572596/strasidelna-knihovna-ztraceny-duch/</link>
-      <description>Strašidelná knihovna - Ztracený duch - Dori Hillestad Butlerová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572596/strasidelna-knihovna-ztraceny-duch/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pověsti a příběhy o českých princeznách a princích</title>
-      <link>https://www.kosmas.cz/knihy/572791/povesti-a-pribehy-o-ceskych-princeznach-a-princich/</link>
-      <description>Pověsti a příběhy o českých princeznách a princích - Miroslav Táborský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572791/povesti-a-pribehy-o-ceskych-princeznach-a-princich/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ještě jeden okamžik</title>
-      <link>https://www.kosmas.cz/knihy/572796/jeste-jeden-okamzik/</link>
-      <description>Ještě jeden okamžik - Liane Moriarty</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572796/jeste-jeden-okamzik/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muž roku</title>
-      <link>https://www.kosmas.cz/knihy/572799/muz-roku/</link>
-      <description>Muž roku - Iliana Xander</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572799/muz-roku/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak moc je Země placka</title>
-      <link>https://www.kosmas.cz/knihy/572885/jak-moc-je-zeme-placka/</link>
-      <description>Jak moc je Země placka - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572885/jak-moc-je-zeme-placka/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak spočítat nekonečno</title>
-      <link>https://www.kosmas.cz/knihy/572887/jak-spocitat-nekonecno/</link>
-      <description>Jak spočítat nekonečno - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572887/jak-spocitat-nekonecno/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak postavit mrakodrap</title>
-      <link>https://www.kosmas.cz/knihy/572888/jak-postavit-mrakodrap/</link>
-      <description>Jak postavit mrakodrap - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572888/jak-postavit-mrakodrap/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak vidět kostry</title>
-      <link>https://www.kosmas.cz/knihy/572889/jak-videt-kostry/</link>
-      <description>Jak vidět kostry - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572889/jak-videt-kostry/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak udělat sliz</title>
-      <link>https://www.kosmas.cz/knihy/572890/jak-udelat-sliz/</link>
-      <description>Jak udělat sliz - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572890/jak-udelat-sliz/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak recyklovat čůrání</title>
-      <link>https://www.kosmas.cz/knihy/572891/jak-recyklovat-curani/</link>
-      <description>Jak recyklovat čůrání - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572891/jak-recyklovat-curani/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak přežít tornádo</title>
-      <link>https://www.kosmas.cz/knihy/572893/jak-prezit-tornado/</link>
-      <description>Jak přežít tornádo - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572893/jak-prezit-tornado/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak se dělí pizza</title>
-      <link>https://www.kosmas.cz/knihy/572895/jak-se-deli-pizza/</link>
-      <description>Jak se dělí pizza - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572895/jak-se-deli-pizza/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak chytat blesky</title>
-      <link>https://www.kosmas.cz/knihy/572896/jak-chytat-blesky/</link>
-      <description>Jak chytat blesky - William Potter, Richard Watson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572896/jak-chytat-blesky/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>NEdávno</title>
-      <link>https://www.kosmas.cz/knihy/572915/nedavno/</link>
-      <description>NEdávno - Caro Claire Burke</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572915/nedavno/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lidožrout</title>
-      <link>https://www.kosmas.cz/knihy/573046/lidozrout/</link>
-      <description>Lidožrout - Jaroslav Velinský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573046/lidozrout/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protestant 2026/6</title>
-      <link>https://www.kosmas.cz/knihy/573047/protestant-2026-6/</link>
-      <description>Protestant 2026/6 - Tomáš Trusina</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573047/protestant-2026-6/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jedová chýše I–II</title>
-      <link>https://www.kosmas.cz/knihy/573048/jedova-chyse-i-ii/</link>
-      <description>Jedová chýše I–II - Pavel Hrejsemnou</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573048/jedova-chyse-i-ii/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bilion</title>
-      <link>https://www.kosmas.cz/knihy/572113/bilion/</link>
-      <description>Bilion - Winter Renshawová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572113/bilion/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kapesní diář Biella 2027, růžový</title>
-      <link>https://www.kosmas.cz/knihy/572114/kapesni-diar-biella-2027-ruzovy/</link>
-      <description>Kapesní diář Biella 2027, růžový</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572114/kapesni-diar-biella-2027-ruzovy/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:04:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

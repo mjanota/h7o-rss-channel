@@ -1,5 +1,173 @@
 [
   {
+    "title": "Hlavu vzhůru!",
+    "url": "https://www.kosmas.cz/knihy/573183/hlavu-vzhuru/",
+    "description": "Hlavu vzhůru! - Kateřina Krůtová-Novotná, Jan Mühlfeit",
+    "authors": [
+      "Kateřina Krůtová-Novotná",
+      "Jan Mühlfeit"
+    ],
+    "date": "2026-09-10T11:06:08.869972+00:00"
+  },
+  {
+    "title": "Vltavice",
+    "url": "https://www.kosmas.cz/knihy/570689/vltavice/",
+    "description": "Vltavice - Jan Štifter",
+    "authors": [
+      "Jan Štifter"
+    ],
+    "date": "2026-09-10T11:06:07.869972+00:00"
+  },
+  {
+    "title": "Temný trůn",
+    "url": "https://www.kosmas.cz/knihy/573192/temny-trun/",
+    "description": "Temný trůn - Rebecca Gablé",
+    "authors": [
+      "Rebecca Gablé"
+    ],
+    "date": "2026-09-10T11:06:06.869972+00:00"
+  },
+  {
+    "title": "Žofie Bavorská",
+    "url": "https://www.kosmas.cz/knihy/573194/zofie-bavorska/",
+    "description": "Žofie Bavorská - Hana Whitton",
+    "authors": [
+      "Hana Whitton"
+    ],
+    "date": "2026-09-10T11:06:05.869972+00:00"
+  },
+  {
+    "title": "Příběh z popela",
+    "url": "https://www.kosmas.cz/knihy/572693/pribeh-z-popela/",
+    "description": "Příběh z popela - Petr Bobek",
+    "authors": [
+      "Petr Bobek"
+    ],
+    "date": "2026-09-10T11:06:04.869972+00:00"
+  },
+  {
+    "title": "Stručný průvodce odcházením",
+    "url": "https://www.kosmas.cz/knihy/572754/strucny-pruvodce-odchazenim/",
+    "description": "Stručný průvodce odcházením - Bianca Bellová",
+    "authors": [
+      "Bianca Bellová"
+    ],
+    "date": "2026-09-10T11:06:03.869972+00:00"
+  },
+  {
+    "title": "Básně, které potřebuje svět",
+    "url": "https://www.kosmas.cz/knihy/571318/basne-ktere-potrebuje-svet/",
+    "description": "Básně, které potřebuje svět - Tomáš Kopřiva",
+    "authors": [
+      "Tomáš Kopřiva"
+    ],
+    "date": "2026-09-10T11:06:02.869972+00:00"
+  },
+  {
+    "title": "Tělo nikdy nelže",
+    "url": "https://www.kosmas.cz/knihy/571520/telo-nikdy-nelze/",
+    "description": "Tělo nikdy nelže - Alice Miller",
+    "authors": [
+      "Alice Miller"
+    ],
+    "date": "2026-09-10T11:06:01.869972+00:00"
+  },
+  {
+    "title": "Příběhy o míru",
+    "url": "https://www.kosmas.cz/knihy/571522/pribehy-o-miru/",
+    "description": "Příběhy o míru - Bruno Ferrero",
+    "authors": [
+      "Bruno Ferrero"
+    ],
+    "date": "2026-09-10T11:06:00.869972+00:00"
+  },
+  {
+    "title": "FILL ME IN - Gay Coloring Book",
+    "url": "https://www.kosmas.cz/knihy/571703/fill-me-in-gay-coloring-book/",
+    "description": "FILL ME IN - Gay Coloring Book",
+    "authors": [],
+    "date": "2026-09-10T11:05:59.869972+00:00"
+  },
+  {
+    "title": "Každodennost",
+    "url": "https://www.kosmas.cz/knihy/572828/kazdodennost/",
+    "description": "Každodennost - Magdalena Šalamounová",
+    "authors": [
+      "Magdalena Šalamounová"
+    ],
+    "date": "2026-09-10T11:05:58.869972+00:00"
+  },
+  {
+    "title": "Úlomky léta",
+    "url": "https://www.kosmas.cz/knihy/572902/ulomky-leta/",
+    "description": "Úlomky léta - Lucie Koryntová",
+    "authors": [
+      "Lucie Koryntová"
+    ],
+    "date": "2026-09-10T11:05:57.869972+00:00"
+  },
+  {
+    "title": "Po nás opuka",
+    "url": "https://www.kosmas.cz/knihy/572903/po-nas-opuka/",
+    "description": "Po nás opuka - Slavomír Kudláček",
+    "authors": [
+      "Slavomír Kudláček"
+    ],
+    "date": "2026-09-10T11:05:56.869972+00:00"
+  },
+  {
+    "title": "Raketa 48",
+    "url": "https://www.kosmas.cz/knihy/572302/raketa-48/",
+    "description": "Raketa 48",
+    "authors": [],
+    "date": "2026-09-10T11:05:55.869972+00:00"
+  },
+  {
+    "title": "Foucaultovo kyvadlo",
+    "url": "https://www.kosmas.cz/knihy/573065/foucaultovo-kyvadlo/",
+    "description": "Foucaultovo kyvadlo - Umberto Eco",
+    "authors": [
+      "Umberto Eco"
+    ],
+    "date": "2026-09-10T11:05:53.869972+00:00"
+  },
+  {
+    "title": "Hodinový detektiv",
+    "url": "https://www.kosmas.cz/knihy/573112/hodinovy-detektiv/",
+    "description": "Hodinový detektiv - Lukáš Vlasák",
+    "authors": [
+      "Lukáš Vlasák"
+    ],
+    "date": "2026-09-10T11:05:52.869972+00:00"
+  },
+  {
+    "title": "Lakový paraván",
+    "url": "https://www.kosmas.cz/knihy/573114/lakovy-paravan/",
+    "description": "Lakový paraván - Robert H. van Gulik",
+    "authors": [
+      "Robert H. van Gulik"
+    ],
+    "date": "2026-09-10T11:05:51.869972+00:00"
+  },
+  {
+    "title": "Galerka",
+    "url": "https://www.kosmas.cz/knihy/572573/galerka/",
+    "description": "Galerka - Petr Šrajer",
+    "authors": [
+      "Petr Šrajer"
+    ],
+    "date": "2026-09-10T11:05:50.869972+00:00"
+  },
+  {
+    "title": "Rodina není tvůj osud",
+    "url": "https://www.kosmas.cz/knihy/571369/rodina-neni-tvuj-osud/",
+    "description": "Rodina není tvůj osud - Noémi Orvos-Tóth",
+    "authors": [
+      "Noémi Orvos-Tóth"
+    ],
+    "date": "2026-09-10T11:05:49.869972+00:00"
+  },
+  {
     "title": "Omyl",
     "url": "https://www.kosmas.cz/knihy/573011/omyl/",
     "description": "Omyl - Elle Kennedy",
@@ -1642,179 +1810,5 @@
       "Nina Divíšková"
     ],
     "date": "2026-08-29T12:36:02.234884+00:00"
-  },
-  {
-    "title": "Vidím, že vás zajímá temnota",
-    "url": "https://www.kosmas.cz/knihy/572808/vidim-ze-vas-zajima-temnota/",
-    "description": "Vidím, že vás zajímá temnota - Illarion Pavljuk",
-    "authors": [
-      "Illarion Pavljuk"
-    ],
-    "date": "2026-08-29T12:36:01.234884+00:00"
-  },
-  {
-    "title": "Bitva u Moháče",
-    "url": "https://www.kosmas.cz/knihy/572108/bitva-u-mohace/",
-    "description": "Bitva u Moháče - Zdeněk Vybíral",
-    "authors": [
-      "Zdeněk Vybíral"
-    ],
-    "date": "2026-08-29T12:36:00.234884+00:00"
-  },
-  {
-    "title": "Deník Anne Frankové",
-    "url": "https://www.kosmas.cz/knihy/572259/denik-anne-frankove/",
-    "description": "Deník Anne Frankové - Anne Franková",
-    "authors": [
-      "Anne Franková"
-    ],
-    "date": "2026-08-29T12:35:59.234884+00:00"
-  },
-  {
-    "title": "Loď skřítků",
-    "url": "https://www.kosmas.cz/knihy/572314/lod-skritku/",
-    "description": "Loď skřítků - Miroslav Pech",
-    "authors": [
-      "Miroslav Pech"
-    ],
-    "date": "2026-08-29T12:35:58.234884+00:00"
-  },
-  {
-    "title": "Kompendium ztracených příběhů Emily Wildové",
-    "url": "https://www.kosmas.cz/knihy/571785/kompendium-ztracenych-pribehu-emily-wildove/",
-    "description": "Kompendium ztracených příběhů Emily Wildové - Heather Fawcettová",
-    "authors": [
-      "Heather Fawcettová"
-    ],
-    "date": "2026-08-28T18:31:03.858628+00:00"
-  },
-  {
-    "title": "Nerovný souboj",
-    "url": "https://www.kosmas.cz/knihy/571797/nerovny-souboj/",
-    "description": "Nerovný souboj - Stanislav Uhlíř",
-    "authors": [
-      "Stanislav Uhlíř"
-    ],
-    "date": "2026-08-28T18:31:02.858628+00:00"
-  },
-  {
-    "title": "Tento příběh nemá mateřštinu",
-    "url": "https://www.kosmas.cz/knihy/572328/tento-pribeh-nema-materstinu/",
-    "description": "Tento příběh nemá mateřštinu - Zofia Bałdyga",
-    "authors": [
-      "Zofia Bałdyga"
-    ],
-    "date": "2026-08-28T18:31:01.858628+00:00"
-  },
-  {
-    "title": "Nákladní vozy 1918–1945 – Soukromé vozy 1",
-    "url": "https://www.kosmas.cz/knihy/572363/nakladni-vozy-1918-1945-soukrome-vozy-1/",
-    "description": "Nákladní vozy 1918–1945 – Soukromé vozy 1 - Radek Šindelář",
-    "authors": [
-      "Radek Šindelář"
-    ],
-    "date": "2026-08-28T18:31:00.858628+00:00"
-  },
-  {
-    "title": "Memorix anatomie",
-    "url": "https://www.kosmas.cz/knihy/572559/memorix-anatomie/",
-    "description": "Memorix anatomie - Radovan Hudák, David Kachlík, kol.",
-    "authors": [
-      "Radovan Hudák",
-      "David Kachlík",
-      "kol."
-    ],
-    "date": "2026-08-28T18:30:59.858628+00:00"
-  },
-  {
-    "title": "Exodus: Archimédovy stroje",
-    "url": "https://www.kosmas.cz/knihy/572676/exodus-archimedovy-stroje/",
-    "description": "Exodus: Archimédovy stroje - Peter F. Hamilton",
-    "authors": [
-      "Peter F. Hamilton"
-    ],
-    "date": "2026-08-28T18:30:58.858628+00:00"
-  },
-  {
-    "title": "Deadpool 1: Žoldnéřina těžká dřina",
-    "url": "https://www.kosmas.cz/knihy/572678/deadpool-1-zoldnerina-tezka-drina/",
-    "description": "Deadpool 1: Žoldnéřina těžká dřina - Skottie Young",
-    "authors": [
-      "Skottie Young"
-    ],
-    "date": "2026-08-28T18:30:57.858628+00:00"
-  },
-  {
-    "title": "Jak jsem se reinkarnoval coby sliz 18",
-    "url": "https://www.kosmas.cz/knihy/572680/jak-jsem-se-reinkarnoval-coby-sliz-18/",
-    "description": "Jak jsem se reinkarnoval coby sliz 18 - Fuse, Taiki Kawakami",
-    "authors": [
-      "Fuse",
-      "Taiki Kawakami"
-    ],
-    "date": "2026-08-28T18:30:56.858628+00:00"
-  },
-  {
-    "title": "Večeře s vrahem Lewellynem 2",
-    "url": "https://www.kosmas.cz/knihy/572681/vecere-s-vrahem-lewellynem-2/",
-    "description": "Večeře s vrahem Lewellynem 2 - Sumnagi",
-    "authors": [
-      "Sumnagi"
-    ],
-    "date": "2026-08-28T18:30:55.858628+00:00"
-  },
-  {
-    "title": "Star Wars: Mandalorian 3",
-    "url": "https://www.kosmas.cz/knihy/572686/star-wars-mandalorian-3/",
-    "description": "Star Wars: Mandalorian 3 - Júsuke Ósawa",
-    "authors": [
-      "Júsuke Ósawa"
-    ],
-    "date": "2026-08-28T18:30:54.858628+00:00"
-  },
-  {
-    "title": "Bleach 47: End Of The Chrysalis Age",
-    "url": "https://www.kosmas.cz/knihy/572687/bleach-47-end-of-the-chrysalis-age/",
-    "description": "Bleach 47: End Of The Chrysalis Age - Tite Kubo",
-    "authors": [
-      "Tite Kubo"
-    ],
-    "date": "2026-08-28T18:30:53.858628+00:00"
-  },
-  {
-    "title": "Poslední tón",
-    "url": "https://www.kosmas.cz/knihy/572776/posledni-ton/",
-    "description": "Poslední tón - Faycal Berrouche",
-    "authors": [
-      "Faycal Berrouche"
-    ],
-    "date": "2026-08-28T18:30:52.858628+00:00"
-  },
-  {
-    "title": "Stín Pražského hradu",
-    "url": "https://www.kosmas.cz/knihy/572777/stin-prazskeho-hradu/",
-    "description": "Stín Pražského hradu - Faycal Berrouche",
-    "authors": [
-      "Faycal Berrouche"
-    ],
-    "date": "2026-08-28T18:30:51.858628+00:00"
-  },
-  {
-    "title": "Chci si s tebou zatextovat",
-    "url": "https://www.kosmas.cz/knihy/572779/chci-si-s-tebou-zatextovat/",
-    "description": "Chci si s tebou zatextovat - Teagan Hunter",
-    "authors": [
-      "Teagan Hunter"
-    ],
-    "date": "2026-08-28T18:30:49.858628+00:00"
-  },
-  {
-    "title": "Barunčin Deník přání",
-    "url": "https://www.kosmas.cz/knihy/572780/baruncin-denik-prani/",
-    "description": "Barunčin Deník přání - Marie Žáková",
-    "authors": [
-      "Marie Žáková"
-    ],
-    "date": "2026-08-28T18:30:48.858628+00:00"
   }
 ]

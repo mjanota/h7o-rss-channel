@@ -1,13 +1,5 @@
 [
   {
-    "title": "Svět jedinečností",
-    "url": "https://www.h7o.cz/clanky/14550-svet-jedinecnosti",
-    "description": "Zatímco člověk dřívějších dob byl pohnut, protože byl přesvědčen, dnes jsme přesvědčeni, protože jsme pohnuti. Stali jsme se společností singularit, tvrdí německý sociolog Andreas Reckwitz.",
-    "date": "2026-06-12T00:00:00",
-    "author": "Jan Géryk",
-    "category": "recenze"
-  },
-  {
     "title": "Výhody obrazového vyprávění: Český komiks míří do Frankfurtu",
     "url": "https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu",
     "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současném českém komiksu.",
@@ -493,6 +485,14 @@
     "description": "„Demiurgové populárních generátorů přitom očividně došli k tomu, že odkazy dodávají kompilacím na důvěryhodnosti,“ píše Jakub Jetmar v letní glose o podezřelé záplavě linků v internetové tvorbě nejen hybridních novinářů.",
     "date": "2026-09-09T00:00:00",
     "author": "Jakub Jetmar",
+    "category": "sloupek"
+  },
+  {
+    "title": "Manuál k Pedru Almodóvarovi",
+    "url": "https://www.h7o.cz/clanky/14596-manual-k-pedru-almodovarovi",
+    "description": "Na konci léta vstoupil do kin nový film španělského klasika Pedra Almodóvara. Jak naopak vstoupit do jeho obsáhlé filmografie, poradí nejnovější Manuál ze zářijového čísla časopisu Host.",
+    "date": "2026-09-10T00:00:00",
+    "author": "Václav Maxmilián",
     "category": "sloupek"
   }
 ]

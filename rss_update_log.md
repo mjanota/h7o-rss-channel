@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-10 11:06:08 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Hlavu vzhůru!
+2. Vltavice
+3. Temný trůn
+4. Žofie Bavorská
+5. Příběh z popela
+6. Stručný průvodce odcházením
+7. Básně, které potřebuje svět
+8. Tělo nikdy nelže
+9. Příběhy o míru
+10. FILL ME IN - Gay Coloring Book
+11. Každodennost
+12. Úlomky léta
+13. Po nás opuka
+14. Raketa 48
+15. Foucaultovo kyvadlo
+16. Hodinový detektiv
+17. Lakový paraván
+18. Galerka
+19. Rodina není tvůj osud
+
+---
+
+## 🕐 2026-09-10 11:06:08 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Manuál k Pedru Almodóvarovi
+
+---
+
 ## 🕐 2026-09-09 11:09:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -257,51 +303,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Zemřel Milan Ohnisko
-
----
-
-## 🕐 2026-09-03 11:03:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. 21 promluv o návratu k sobě
-2. Planbook diář/notes Korál 2027
-3. Krásná jako osmička
-4. Nesmrtelný Weil
-5. Naháčci
-6. Pejsek a kočička jedou do zoo
-7. Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2
-8. Přeběhlík
-9. Dech motýla
-10. Probuzení živlů
-11. Kuchaři smrti
-12. Ve výslužbě - Bezvýznamná událost
-13. Emočně inteligentní m(už)
-14. Daně na příští rok
-15. Stíny minulosti
-16. Vidím, že vás zajímá temnota
-17. Proč firmy krachují a jak to zastavit
-18. Případ smějících se mrtvých
-
----
-
-## 🕐 2026-09-03 11:03:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Přesvědčivý románový tvar
 
 ---
 
