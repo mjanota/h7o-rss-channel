@@ -1,5 +1,175 @@
 [
   {
+    "title": "Vyvrácené duše",
+    "url": "https://www.kosmas.cz/knihy/572258/vyvracene-duse/",
+    "description": "Vyvrácené duše - Emil Tréval, Petr Boček",
+    "authors": [
+      "Emil Tréval",
+      "Petr Boček"
+    ],
+    "date": "2026-09-11T11:04:42.747181+00:00"
+  },
+  {
+    "title": "Osudová",
+    "url": "https://www.kosmas.cz/knihy/571454/osudova/",
+    "description": "Osudová - Eva Zupančič",
+    "authors": [
+      "Eva Zupančič"
+    ],
+    "date": "2026-09-11T11:04:41.747181+00:00"
+  },
+  {
+    "title": "Veleknězův odkaz - Zřídlo živoucího ohně",
+    "url": "https://www.kosmas.cz/knihy/571767/veleknezuv-odkaz-zridlo-zivouciho-ohne/",
+    "description": "Veleknězův odkaz - Zřídlo živoucího ohně - Petr Eismann",
+    "authors": [
+      "Petr Eismann"
+    ],
+    "date": "2026-09-11T11:04:40.747181+00:00"
+  },
+  {
+    "title": "Mamlucha",
+    "url": "https://www.kosmas.cz/knihy/570739/mamlucha/",
+    "description": "Mamlucha - Jana Klimentová",
+    "authors": [
+      "Jana Klimentová"
+    ],
+    "date": "2026-09-11T11:04:39.747181+00:00"
+  },
+  {
+    "title": "Bany versus Manky a supersonická Iks",
+    "url": "https://www.kosmas.cz/knihy/569844/bany-versus-manky-a-supersonicka-iks/",
+    "description": "Bany versus Manky a supersonická Iks - Jamie Smart",
+    "authors": [
+      "Jamie Smart"
+    ],
+    "date": "2026-09-11T11:04:38.747181+00:00"
+  },
+  {
+    "title": "Omalovánky s kamínky Ledové království Vánoce",
+    "url": "https://www.kosmas.cz/knihy/565772/omalovanky-s-kaminky-ledove-kralovstvi-vanoce/",
+    "description": "Omalovánky s kamínky Ledové království Vánoce",
+    "authors": [],
+    "date": "2026-09-11T11:04:37.747181+00:00"
+  },
+  {
+    "title": "Omalovánky s kamínky Lilo & Stitch 4+",
+    "url": "https://www.kosmas.cz/knihy/565773/omalovanky-s-kaminky-lilo-stitch-4/",
+    "description": "Omalovánky s kamínky Lilo & Stitch 4+",
+    "authors": [],
+    "date": "2026-09-11T11:04:36.747181+00:00"
+  },
+  {
+    "title": "Adventní kalendář se samolepkami Tlapková patrola",
+    "url": "https://www.kosmas.cz/knihy/565779/adventni-kalendar-se-samolepkami-tlapkova-patrola/",
+    "description": "Adventní kalendář se samolepkami Tlapková patrola",
+    "authors": [],
+    "date": "2026-09-11T11:04:35.747181+00:00"
+  },
+  {
+    "title": "Velkolepá kniha magie Měsíce a Hada",
+    "url": "https://www.kosmas.cz/knihy/555688/velkolepa-kniha-magie-mesice-a-hada/",
+    "description": "Velkolepá kniha magie Měsíce a Hada - Alan Moore, Steve Moore",
+    "authors": [
+      "Alan Moore",
+      "Steve Moore"
+    ],
+    "date": "2026-09-11T11:04:34.747181+00:00"
+  },
+  {
+    "title": "Dream Count",
+    "url": "https://www.kosmas.cz/knihy/572869/dream-count/",
+    "description": "Dream Count - Adichie Chimamanda Ngozi",
+    "authors": [
+      "Adichie Chimamanda Ngozi"
+    ],
+    "date": "2026-09-11T11:04:33.747181+00:00"
+  },
+  {
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "url": "https://www.kosmas.cz/knihy/572917/the-hunger-games-sunrise-on-the-reaping/",
+    "description": "The Hunger Games: Sunrise on the Reaping - Suzanne Collins",
+    "authors": [
+      "Suzanne Collins"
+    ],
+    "date": "2026-09-11T11:04:32.747181+00:00"
+  },
+  {
+    "title": "Jednorožci – Kouzelné příběhy",
+    "url": "https://www.kosmas.cz/knihy/573103/jednorozci-kouzelne-pribehy/",
+    "description": "Jednorožci – Kouzelné příběhy - Matouš Ruml, Petr Stach, Miroslav Táborský",
+    "authors": [
+      "Matouš Ruml",
+      "Petr Stach",
+      "Miroslav Táborský"
+    ],
+    "date": "2026-09-11T11:04:31.747181+00:00"
+  },
+  {
+    "title": "Zrůdy v nás",
+    "url": "https://www.kosmas.cz/knihy/573009/zrudy-v-nas/",
+    "description": "Zrůdy v nás - Jennifer Nivenová",
+    "authors": [
+      "Jennifer Nivenová"
+    ],
+    "date": "2026-09-11T11:04:30.747181+00:00"
+  },
+  {
+    "title": "Cestovatelské omalovánky New York",
+    "url": "https://www.kosmas.cz/knihy/573029/cestovatelske-omalovanky-new-york/",
+    "description": "Cestovatelské omalovánky New York",
+    "authors": [],
+    "date": "2026-09-11T11:04:29.747181+00:00"
+  },
+  {
+    "title": "Cestovatelské omalovánky Paříž",
+    "url": "https://www.kosmas.cz/knihy/573030/cestovatelske-omalovanky-pariz/",
+    "description": "Cestovatelské omalovánky Paříž",
+    "authors": [],
+    "date": "2026-09-11T11:04:28.747181+00:00"
+  },
+  {
+    "title": "Cestovatelské omalovánky Itálie",
+    "url": "https://www.kosmas.cz/knihy/573031/cestovatelske-omalovanky-italie/",
+    "description": "Cestovatelské omalovánky Itálie",
+    "authors": [],
+    "date": "2026-09-11T11:04:27.747181+00:00"
+  },
+  {
+    "title": "Cestovatelské omalovánky Amerika",
+    "url": "https://www.kosmas.cz/knihy/573032/cestovatelske-omalovanky-amerika/",
+    "description": "Cestovatelské omalovánky Amerika",
+    "authors": [],
+    "date": "2026-09-11T11:04:26.747181+00:00"
+  },
+  {
+    "title": "Rozbité zrcadlo",
+    "url": "https://www.kosmas.cz/knihy/573182/rozbite-zrcadlo/",
+    "description": "Rozbité zrcadlo - Silvie Vaníčková",
+    "authors": [
+      "Silvie Vaníčková"
+    ],
+    "date": "2026-09-11T11:04:25.747181+00:00"
+  },
+  {
+    "title": "Blue sisters",
+    "url": "https://www.kosmas.cz/knihy/573202/blue-sisters/",
+    "description": "Blue sisters - Coco Mellors",
+    "authors": [
+      "Coco Mellors"
+    ],
+    "date": "2026-09-11T11:04:24.747181+00:00"
+  },
+  {
+    "title": "Muchláčci1: Dina",
+    "url": "https://www.kosmas.cz/knihy/573259/muchlacci1-dina/",
+    "description": "Muchláčci1: Dina - Meritxell Martí",
+    "authors": [
+      "Meritxell Martí"
+    ],
+    "date": "2026-09-11T11:04:23.747181+00:00"
+  },
+  {
     "title": "Hlavu vzhůru!",
     "url": "https://www.kosmas.cz/knihy/573183/hlavu-vzhuru/",
     "description": "Hlavu vzhůru! - Kateřina Krůtová-Novotná, Jan Mühlfeit",
@@ -1619,196 +1789,5 @@
       "Václav Čtvrtek"
     ],
     "date": "2026-08-31T13:27:07.327229+00:00"
-  },
-  {
-    "title": "Deník maličkého Minecrafťáka",
-    "url": "https://www.kosmas.cz/knihy/572825/denik-malickeho-minecraftaka/",
-    "description": "Deník maličkého Minecrafťáka - Cube Kid",
-    "authors": [
-      "Cube Kid"
-    ],
-    "date": "2026-08-31T13:27:06.327229+00:00"
-  },
-  {
-    "title": "Paříži s láskou",
-    "url": "https://www.kosmas.cz/knihy/570950/parizi-s-laskou/",
-    "description": "Paříži s láskou - Rebecca Raisin",
-    "authors": [
-      "Rebecca Raisin"
-    ],
-    "date": "2026-08-31T13:27:04.327229+00:00"
-  },
-  {
-    "title": "Domov ztracených ptáčat",
-    "url": "https://www.kosmas.cz/knihy/572833/domov-ztracenych-ptacat/",
-    "description": "Domov ztracených ptáčat - Kitty Johnson",
-    "authors": [
-      "Kitty Johnson"
-    ],
-    "date": "2026-08-31T13:27:02.327229+00:00"
-  },
-  {
-    "title": "Za hranicemi vitality",
-    "url": "https://www.kosmas.cz/knihy/571730/za-hranicemi-vitality/",
-    "description": "Za hranicemi vitality - Aleš Dvořák",
-    "authors": [
-      "Aleš Dvořák"
-    ],
-    "date": "2026-08-31T13:27:01.327229+00:00"
-  },
-  {
-    "title": "Ztracená krása",
-    "url": "https://www.kosmas.cz/knihy/572835/ztracena-krasa/",
-    "description": "Ztracená krása - Ann Penny",
-    "authors": [
-      "Ann Penny"
-    ],
-    "date": "2026-08-31T13:27:00.327229+00:00"
-  },
-  {
-    "title": "Finance: od teorie k realitě",
-    "url": "https://www.kosmas.cz/knihy/571618/finance-od-teorie-k-realite/",
-    "description": "Finance: od teorie k realitě - Jan Černohorský, Bernard Vaníček",
-    "authors": [
-      "Jan Černohorský",
-      "Bernard Vaníček"
-    ],
-    "date": "2026-08-31T13:26:59.327229+00:00"
-  },
-  {
-    "title": "Nedokončená ošetřovatelská péče",
-    "url": "https://www.kosmas.cz/knihy/571731/nedokoncena-osetrovatelska-pece/",
-    "description": "Nedokončená ošetřovatelská péče - Dominika Kohan",
-    "authors": [
-      "Dominika Kohan"
-    ],
-    "date": "2026-08-31T13:26:58.327229+00:00"
-  },
-  {
-    "title": "Azbest v pracovním prostředí a jeho zdravotní účinky",
-    "url": "https://www.kosmas.cz/knihy/571623/azbest-v-pracovnim-prostredi-a-jeho-zdravotni-ucinky/",
-    "description": "Azbest v pracovním prostředí a jeho zdravotní účinky - Alena Boriková, Marie Nakládalová, Ladislav Štěpánek",
-    "authors": [
-      "Alena Boriková",
-      "Marie Nakládalová",
-      "Ladislav Štěpánek"
-    ],
-    "date": "2026-08-31T13:26:57.327229+00:00"
-  },
-  {
-    "title": "Předčasný porod",
-    "url": "https://www.kosmas.cz/knihy/571344/predcasny-porod/",
-    "description": "Předčasný porod - Michal Koucký, Tereza Lamberská, Zdeněk Laštůvka, Kateřina Mack",
-    "authors": [
-      "Michal Koucký",
-      "Tereza Lamberská",
-      "Zdeněk Laštůvka",
-      "Kateřina Mack"
-    ],
-    "date": "2026-08-31T13:26:56.327229+00:00"
-  },
-  {
-    "title": "Kluk v kopačkách – Hledači talentů",
-    "url": "https://www.kosmas.cz/knihy/572840/kluk-v-kopackach-hledaci-talentu/",
-    "description": "Kluk v kopačkách – Hledači talentů - Markéta Bolfová",
-    "authors": [
-      "Markéta Bolfová"
-    ],
-    "date": "2026-08-31T13:26:55.327229+00:00"
-  },
-  {
-    "title": "Reprodukční medicína",
-    "url": "https://www.kosmas.cz/knihy/570263/reprodukcni-medicina/",
-    "description": "Reprodukční medicína - Pavel Trávník, Kateřina Veselá, kolektiv",
-    "authors": [
-      "Pavel Trávník",
-      "Kateřina Veselá",
-      "kolektiv"
-    ],
-    "date": "2026-08-31T13:26:54.327229+00:00"
-  },
-  {
-    "title": "Neobyčejně obyčejný život",
-    "url": "https://www.kosmas.cz/knihy/571019/neobycejne-obycejny-zivot/",
-    "description": "Neobyčejně obyčejný život - Rostislav Václavek",
-    "authors": [
-      "Rostislav Václavek"
-    ],
-    "date": "2026-08-31T13:26:53.327229+00:00"
-  },
-  {
-    "title": "Náměstí Říšského kancléře",
-    "url": "https://www.kosmas.cz/knihy/563444/namesti-risskeho-kanclere/",
-    "description": "Náměstí Říšského kancléře - Nora Bossongová",
-    "authors": [
-      "Nora Bossongová"
-    ],
-    "date": "2026-08-30T11:45:36.314916+00:00"
-  },
-  {
-    "title": "Medvěd není youtuber",
-    "url": "https://www.kosmas.cz/knihy/563631/medved-neni-youtuber/",
-    "description": "Medvěd není youtuber - Lucie Sunková",
-    "authors": [
-      "Lucie Sunková"
-    ],
-    "date": "2026-08-30T11:45:35.314916+00:00"
-  },
-  {
-    "title": "Barvy Hádej, jak moc tě mám rád!",
-    "url": "https://www.kosmas.cz/knihy/569798/barvy-hadej-jak-moc-te-mam-rad/",
-    "description": "Barvy Hádej, jak moc tě mám rád! - Anita Jeram, Sam McBratney",
-    "authors": [
-      "Anita Jeram",
-      "Sam McBratney"
-    ],
-    "date": "2026-08-30T11:45:19.314916+00:00"
-  },
-  {
-    "title": "Tvary Hádej, jak moc tě mám rád!",
-    "url": "https://www.kosmas.cz/knihy/569806/tvary-hadej-jak-moc-te-mam-rad/",
-    "description": "Tvary Hádej, jak moc tě mám rád! - Anita Jeram, Sam McBratney",
-    "authors": [
-      "Anita Jeram",
-      "Sam McBratney"
-    ],
-    "date": "2026-08-30T11:45:18.314916+00:00"
-  },
-  {
-    "title": "Protiklady Hádej, jak moc tě mám rád!",
-    "url": "https://www.kosmas.cz/knihy/569807/protiklady-hadej-jak-moc-te-mam-rad/",
-    "description": "Protiklady Hádej, jak moc tě mám rád! - Anita Jeram, Sam McBratney",
-    "authors": [
-      "Anita Jeram",
-      "Sam McBratney"
-    ],
-    "date": "2026-08-30T11:45:17.314916+00:00"
-  },
-  {
-    "title": "Disney Baby - 5minutové pohádky",
-    "url": "https://www.kosmas.cz/knihy/572786/disney-baby-5minutove-pohadky/",
-    "description": "Disney Baby - 5minutové pohádky - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-29T12:36:04.234884+00:00"
-  },
-  {
-    "title": "Disney Junior - Platinová kolekce",
-    "url": "https://www.kosmas.cz/knihy/572787/disney-junior-platinova-kolekce/",
-    "description": "Disney Junior - Platinová kolekce - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-08-29T12:36:03.234884+00:00"
-  },
-  {
-    "title": "Recituje Nina Divíšková",
-    "url": "https://www.kosmas.cz/knihy/572788/recituje-nina-diviskova/",
-    "description": "Recituje Nina Divíšková - Nina Divíšková",
-    "authors": [
-      "Nina Divíšková"
-    ],
-    "date": "2026-08-29T12:36:02.234884+00:00"
   }
 ]

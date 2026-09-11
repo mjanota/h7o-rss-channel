@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-11 11:04:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Vyvrácené duše
+2. Osudová
+3. Veleknězův odkaz - Zřídlo živoucího ohně
+4. Mamlucha
+5. Bany versus Manky a supersonická Iks
+6. Omalovánky s kamínky Ledové království Vánoce
+7. Omalovánky s kamínky Lilo & Stitch 4+
+8. Adventní kalendář se samolepkami Tlapková patrola
+9. Velkolepá kniha magie Měsíce a Hada
+10. Dream Count
+11. The Hunger Games: Sunrise on the Reaping
+12. Jednorožci – Kouzelné příběhy
+13. Zrůdy v nás
+14. Cestovatelské omalovánky New York
+15. Cestovatelské omalovánky Paříž
+16. Cestovatelské omalovánky Itálie
+17. Cestovatelské omalovánky Amerika
+18. Rozbité zrcadlo
+19. Blue sisters
+20. Muchláčci1: Dina
+
+---
+
+## 🕐 2026-09-11 11:04:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Cena literární kritiky na ostravské Inverzi
+
+---
+
 ## 🕐 2026-09-10 11:06:08 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -256,53 +303,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-09-04 11:04:22 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Strašidelná knihovna - Ztracený duch
-2. Pověsti a příběhy o českých princeznách a princích
-3. Ještě jeden okamžik
-4. Muž roku
-5. Jak moc je Země placka
-6. Jak spočítat nekonečno
-7. Jak postavit mrakodrap
-8. Jak vidět kostry
-9. Jak udělat sliz
-10. Jak recyklovat čůrání
-11. Jak přežít tornádo
-12. Jak se dělí pizza
-13. Jak chytat blesky
-14. NEdávno
-15. Lidožrout
-16. Protestant 2026/6
-17. Jedová chýše I–II
-18. Bilion
-19. Kapesní diář Biella 2027, růžový
-20. Léto na chalupě
-
----
-
-## 🕐 2026-09-04 11:04:20 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Zemřel Milan Ohnisko
 
 ---
 
