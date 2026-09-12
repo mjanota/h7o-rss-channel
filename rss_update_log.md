@@ -5,6 +5,45 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-12 10:33:58 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Andulčina andulata
+2. Zmizelá Šumava – S Emilem pěšky
+3. Dášeňka čili život štěněte
+4. Tak jsme se potkali
+5. Tsunami: Prázdniny v rytmu
+6. Druhá světová válka
+7. Česnečka a upír
+8. Real Madrid (Fotbalové superhvězdy)
+9. Adventní kalendář se samolepkami Prasátko Peppa
+10. Adventní kalendář se samolepkami Ledové království
+11. Adventní kalendář se samolepkami Lilo & Stitch
+12. 0 1 2
+13. Moje nejmilejší kočka
+14. Na kole kolem Pyrenejského ostrova
+15. Z kolébky do hrobu
+16. Pán prokletých jezdců
+
+---
+
+## 🕐 2026-09-12 10:33:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-11 11:04:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -272,31 +311,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-09-06 10:45:13 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-09-05 10:26:12 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Gerda: Příběh moře a odvahy
-2. Mušketýři V: Templáři
-
----
-
-## 🕐 2026-09-05 10:26:11 UTC
 
 **Zdroj:** H7O - Časopis Host
 
