@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:36:39 +0000</lastBuildDate>
     <item>
       <title>Cena literární kritiky na ostravské Inverzi</title>
       <link>https://www.h7o.cz/clanky/14604-cena-literarni-kritiky-na-ostravske-inverzi</link>
@@ -441,13 +441,6 @@
       <description>Šrámkova Sobotka, festival českého jazyka, řeči a literatury, který proběhne od 4. do 11. července, letos slaví jubilejní 70. ročník. Tématem letošního roku je „Hostina“. Jaké chody, chuťovky a delikatesy nabízí letošní program, jsme probírali s jedním z organizátorů festivalu Janem Trčem.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Výhody obrazového vyprávění: Český komiks míří do Frankfurtu</title>
-      <link>https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu</link>
-      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současném českém komiksu.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14551-vyhody-obrazoveho-vypraveni-cesky-komiks-miri-do-frankfurtu</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
