@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-14 12:30:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Summer Country Escape
+2. Slaying the Vampire Conqueror
+3. A Day for Bread, Soup and Cats
+4. Hunger Games Classic
+5. Rok Prasete
+6. Duše krve a popela
+7. Bridget and Gabe Are Not Okay
+8. Daggerbound
+9. Death Row
+10. Fantastic Beasts: The Secrets of Dumbledore
+11. The Knave and the Moon
+12. The Neverfear
+13. Verity
+14. Klekánice
+15. Alpy
+16. Vrozené srdeční vady v klinické praxi
+17. Fotovoltaika
+18. Počkej chvilku
+19. Encyklopedie jízdy na koni
+
+---
+
+## 🕐 2026-09-14 12:30:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Čtení knih jako útočiště před rozhodovací únavou
+
+---
+
 ## 🕐 2026-09-13 11:36:40 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -263,52 +309,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Milane, čoveče
-
----
-
-## 🕐 2026-09-07 12:15:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Napříč časem
-2. Nejkrásnější tajemství
-3. Sokyně
-4. Citlivé dítě
-5. Psychologie předškolního dítěte
-6. Miliardové zločiny
-7. Firemní kultura jako motor úspěchu
-8. Vycházky po Praze (III) Staré Město pražské
-9. Avatar - Legenda o Aangovi: Slib, část druhá
-10. Den 29.
-11. Pod tlakem krásy
-12. Kolala petřínská
-13. Jak se stal Matěj trolejbusem
-14. Vánek Rozhněvánek a Labouť
-15. Revolver Revue 144
-16. Dóm řetězů
-17. Úzký prostor mezi, vinou a milostí
-18. Nádherné škváry zkušenosti
-19. Maxipes Fík
-
----
-
-## 🕐 2026-09-07 12:15:23 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Začerněné stránky jsou občas to jediné, co z minulosti zůstane
 
 ---
 

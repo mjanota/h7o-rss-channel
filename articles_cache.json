@@ -1,13 +1,5 @@
 [
   {
-    "title": "Šrámkovka se dostane člověku pod kůži",
-    "url": "https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi",
-    "description": "Šrámkova Sobotka, festival českého jazyka, řeči a literatury, který proběhne od 4. do 11. července, letos slaví jubilejní 70. ročník. Tématem letošního roku je „Hostina“. Jaké chody, chuťovky a delikatesy nabízí letošní program, jsme probírali s jedním z organizátorů festivalu Janem Trčem.",
-    "date": "2026-06-16T00:00:00",
-    "author": "Markéta Pospišilíková",
-    "category": "rozhovor"
-  },
-  {
     "title": "Promptonyma. Proč se všichni jmenují Elias a Elara",
     "url": "https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara",
     "description": "Umělá inteligence při generování příběhů i pseudonym preferuje určitá jména. Není úplně jasné proč, ale některé hypotézy se nabízejí.",
@@ -494,5 +486,13 @@
     "date": "2026-09-11T00:00:00",
     "author": "",
     "category": "zprávy"
+  },
+  {
+    "title": "Čtení knih jako útočiště před rozhodovací únavou",
+    "url": "https://www.h7o.cz/clanky/14605-cteni-knih-jako-utociste-pred-rozhodovaci-unavou",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme esejí Jana Jindřicha Karáska o tom, že kniha je přirozeným lékem na roztěkanou mysl.",
+    "date": "2026-09-14T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

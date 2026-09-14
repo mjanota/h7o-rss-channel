@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 13 Sep 2026 11:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:30:38 +0000</lastBuildDate>
+    <item>
+      <title>Čtení knih jako útočiště před rozhodovací únavou</title>
+      <link>https://www.h7o.cz/clanky/14605-cteni-knih-jako-utociste-pred-rozhodovaci-unavou</link>
+      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme esejí Jana Jindřicha Karáska o tom, že kniha je přirozeným lékem na roztěkanou mysl.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14605-cteni-knih-jako-utociste-pred-rozhodovaci-unavou</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cena literární kritiky na ostravské Inverzi</title>
       <link>https://www.h7o.cz/clanky/14604-cena-literarni-kritiky-na-ostravske-inverzi</link>
@@ -434,13 +441,6 @@
       <description>Umělá inteligence při generování příběhů i pseudonym preferuje určitá jména. Není úplně jasné proč, ale některé hypotézy se nabízejí.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Šrámkovka se dostane člověku pod kůži</title>
-      <link>https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</link>
-      <description>Šrámkova Sobotka, festival českého jazyka, řeči a literatury, který proběhne od 4. do 11. července, letos slaví jubilejní 70. ročník. Tématem letošního roku je „Hostina“. Jaké chody, chuťovky a delikatesy nabízí letošní program, jsme probírali s jedním z organizátorů festivalu Janem Trčem.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14552-sramkovka-se-dostane-cloveku-pod-kuzi</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
