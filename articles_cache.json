@@ -1,13 +1,5 @@
 [
   {
-    "title": "Promptonyma. Proč se všichni jmenují Elias a Elara",
-    "url": "https://www.h7o.cz/clanky/14553-promptonyma-proc-se-vsichni-jmenuji-elias-a-elara",
-    "description": "Umělá inteligence při generování příběhů i pseudonym preferuje určitá jména. Není úplně jasné proč, ale některé hypotézy se nabízejí.",
-    "date": "2026-06-17T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Proč jsme stále ještě barokní?",
     "url": "https://www.h7o.cz/clanky/14516-proc-jsme-stale-jeste-barokni",
     "description": "Je tu čtvrteční seriál k blížícímu se bohemistickému kongresu. S komenioložkou Lenkou Řezníkovou o baroku, jeho ambivalentních obrazech, inspiracích, imitacích a instrumentalizaci vedl rozhovor Daniel Soukup z Ústavu pro českou literaturu AV ČR.",
@@ -494,5 +486,13 @@
     "date": "2026-09-14T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Země, která roste před očima",
+    "url": "https://www.h7o.cz/clanky/14606-zeme-ktera-roste-pred-ocima",
+    "description": "Sbírka „Stop.Ua“ Natalky Marynčak, jež vyšla v nakladatelství Větrné mlýny, odráží ukrajinskou realitu mezi lety 2005 a 2011. Z dnešního pohledu se problémy, s nimiž se země tehdy potýkala, zdají poněkud malicherné, a její poezie tak nevyvolává skleslost ani deprese. Autorka vystoupí v rámci Noci…",
+    "date": "2026-09-15T00:00:00",
+    "author": "Jiřina Dvořáková",
+    "category": "rozhovor"
   }
 ]

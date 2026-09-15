@@ -1,5 +1,179 @@
 [
   {
+    "title": "Rilla z Ingleside",
+    "url": "https://www.kosmas.cz/knihy/572151/rilla-z-ingleside/",
+    "description": "Rilla z Ingleside - Lucy Maud Montgomeryová",
+    "authors": [
+      "Lucy Maud Montgomeryová"
+    ],
+    "date": "2026-09-15T11:33:56.386674+00:00"
+  },
+  {
+    "title": "Chlast",
+    "url": "https://www.kosmas.cz/knihy/573416/chlast/",
+    "description": "Chlast - Ondřej Sysel",
+    "authors": [
+      "Ondřej Sysel"
+    ],
+    "date": "2026-09-15T11:33:55.386674+00:00"
+  },
+  {
+    "title": "Bylo nebylo v druhohorách",
+    "url": "https://www.kosmas.cz/knihy/573420/bylo-nebylo-v-druhohorach/",
+    "description": "Bylo nebylo v druhohorách - Vladimír Socha",
+    "authors": [
+      "Vladimír Socha"
+    ],
+    "date": "2026-09-15T11:33:54.386674+00:00"
+  },
+  {
+    "title": "Málem jsem se pos*ala",
+    "url": "https://www.kosmas.cz/knihy/573441/malem-jsem-se-pos-ala/",
+    "description": "Málem jsem se pos*ala - Danka Šárková",
+    "authors": [
+      "Danka Šárková"
+    ],
+    "date": "2026-09-15T11:33:53.386674+00:00"
+  },
+  {
+    "title": "Páteční knihkupectví",
+    "url": "https://www.kosmas.cz/knihy/572868/patecni-knihkupectvi/",
+    "description": "Páteční knihkupectví - Sawako Natori",
+    "authors": [
+      "Sawako Natori"
+    ],
+    "date": "2026-09-15T11:33:52.386674+00:00"
+  },
+  {
+    "title": "Psychedelické léčení",
+    "url": "https://www.kosmas.cz/knihy/573100/psychedelicke-leceni/",
+    "description": "Psychedelické léčení - Neal Goldsmith",
+    "authors": [
+      "Neal Goldsmith"
+    ],
+    "date": "2026-09-15T11:33:51.386674+00:00"
+  },
+  {
+    "title": "Hotel Inkontinental",
+    "url": "https://www.kosmas.cz/knihy/571938/hotel-inkontinental/",
+    "description": "Hotel Inkontinental - Karel Haloun",
+    "authors": [
+      "Karel Haloun"
+    ],
+    "date": "2026-09-15T11:33:50.386674+00:00"
+  },
+  {
+    "title": "Malá kniha o mimozemšťanech",
+    "url": "https://www.kosmas.cz/knihy/571975/mala-kniha-o-mimozemstanech/",
+    "description": "Malá kniha o mimozemšťanech - Adam Frank",
+    "authors": [
+      "Adam Frank"
+    ],
+    "date": "2026-09-15T11:33:49.386674+00:00"
+  },
+  {
+    "title": "Pověsti, legendy a vyprávění z Doudlebska",
+    "url": "https://www.kosmas.cz/knihy/572221/povesti-legendy-a-vypraveni-z-doudlebska/",
+    "description": "Pověsti, legendy a vyprávění z Doudlebska - Jan Šimánek",
+    "authors": [
+      "Jan Šimánek"
+    ],
+    "date": "2026-09-15T11:33:48.386674+00:00"
+  },
+  {
+    "title": "Konec filosofie a počátek nového myšlení",
+    "url": "https://www.kosmas.cz/knihy/572666/konec-filosofie-a-pocatek-noveho-mysleni/",
+    "description": "Konec filosofie a počátek nového myšlení - Táňa Krutina, Jiří Krutina",
+    "authors": [
+      "Táňa Krutina",
+      "Jiří Krutina"
+    ],
+    "date": "2026-09-15T11:33:47.386674+00:00"
+  },
+  {
+    "title": "Co je Vědomí",
+    "url": "https://www.kosmas.cz/knihy/572667/co-je-vedomi/",
+    "description": "Co je Vědomí - Táňa Krutina, Jiří Krutina",
+    "authors": [
+      "Táňa Krutina",
+      "Jiří Krutina"
+    ],
+    "date": "2026-09-15T11:33:46.386674+00:00"
+  },
+  {
+    "title": "Malý princ",
+    "url": "https://www.kosmas.cz/knihy/572852/maly-princ/",
+    "description": "Malý princ - Eva Koudelková, Antoine de Saint-Exupéry",
+    "authors": [
+      "Eva Koudelková",
+      "Antoine de Saint-Exupéry"
+    ],
+    "date": "2026-09-15T11:33:45.386674+00:00"
+  },
+  {
+    "title": "Anonymní historie 1. křížové výpravy",
+    "url": "https://www.kosmas.cz/knihy/572854/anonymni-historie-1.-krizove-vypravy/",
+    "description": "Anonymní historie 1. křížové výpravy - Jiří Kovařík",
+    "authors": [
+      "Jiří Kovařík"
+    ],
+    "date": "2026-09-15T11:33:44.386674+00:00"
+  },
+  {
+    "title": "Zakázané dědictví padlé rasy - Z popela andělů",
+    "url": "https://www.kosmas.cz/knihy/573098/zakazane-dedictvi-padle-rasy-z-popela-andelu/",
+    "description": "Zakázané dědictví padlé rasy - Z popela andělů - Andrew Collins",
+    "authors": [
+      "Andrew Collins"
+    ],
+    "date": "2026-09-15T11:33:43.386674+00:00"
+  },
+  {
+    "title": "Bruno Schulz",
+    "url": "https://www.kosmas.cz/knihy/573153/bruno-schulz/",
+    "description": "Bruno Schulz - Benjamin Balint",
+    "authors": [
+      "Benjamin Balint"
+    ],
+    "date": "2026-09-15T11:33:42.386674+00:00"
+  },
+  {
+    "title": "Obrana Odyssea",
+    "url": "https://www.kosmas.cz/knihy/573156/obrana-odyssea/",
+    "description": "Obrana Odyssea - Lubomír Martínek",
+    "authors": [
+      "Lubomír Martínek"
+    ],
+    "date": "2026-09-15T11:33:41.386674+00:00"
+  },
+  {
+    "title": "Barevná matematika 2 pro 2.ročník základní školy",
+    "url": "https://www.kosmas.cz/knihy/572977/barevna-matematika-2-pro-2.rocnik-zakladni-skoly/",
+    "description": "Barevná matematika 2 pro 2.ročník základní školy - Michaela Kaslová",
+    "authors": [
+      "Michaela Kaslová"
+    ],
+    "date": "2026-09-15T11:33:40.386674+00:00"
+  },
+  {
+    "title": "Pidižvouk",
+    "url": "https://www.kosmas.cz/knihy/572306/pidizvouk/",
+    "description": "Pidižvouk - Martin Daneš",
+    "authors": [
+      "Martin Daneš"
+    ],
+    "date": "2026-09-15T11:33:39.386674+00:00"
+  },
+  {
+    "title": "Válka světů",
+    "url": "https://www.kosmas.cz/knihy/573199/valka-svetu/",
+    "description": "Válka světů - Herbert George Wells",
+    "authors": [
+      "Herbert George Wells"
+    ],
+    "date": "2026-09-15T11:33:37.386674+00:00"
+  },
+  {
     "title": "Summer Country Escape",
     "url": "https://www.kosmas.cz/knihy/572870/summer-country-escape/",
     "description": "Summer Country Escape - Julie Caplin",
@@ -1622,172 +1796,5 @@
       "Caro Claire Burke"
     ],
     "date": "2026-09-04T11:04:09.067937+00:00"
-  },
-  {
-    "title": "Lidožrout",
-    "url": "https://www.kosmas.cz/knihy/573046/lidozrout/",
-    "description": "Lidožrout - Jaroslav Velinský",
-    "authors": [
-      "Jaroslav Velinský"
-    ],
-    "date": "2026-09-04T11:04:08.067937+00:00"
-  },
-  {
-    "title": "Protestant 2026/6",
-    "url": "https://www.kosmas.cz/knihy/573047/protestant-2026-6/",
-    "description": "Protestant 2026/6 - Tomáš Trusina",
-    "authors": [
-      "Tomáš Trusina"
-    ],
-    "date": "2026-09-04T11:04:07.067937+00:00"
-  },
-  {
-    "title": "Jedová chýše I–II",
-    "url": "https://www.kosmas.cz/knihy/573048/jedova-chyse-i-ii/",
-    "description": "Jedová chýše I–II - Pavel Hrejsemnou",
-    "authors": [
-      "Pavel Hrejsemnou"
-    ],
-    "date": "2026-09-04T11:04:06.067937+00:00"
-  },
-  {
-    "title": "Bilion",
-    "url": "https://www.kosmas.cz/knihy/572113/bilion/",
-    "description": "Bilion - Winter Renshawová",
-    "authors": [
-      "Winter Renshawová"
-    ],
-    "date": "2026-09-04T11:04:05.067937+00:00"
-  },
-  {
-    "title": "Kapesní diář Biella 2027, růžový",
-    "url": "https://www.kosmas.cz/knihy/572114/kapesni-diar-biella-2027-ruzovy/",
-    "description": "Kapesní diář Biella 2027, růžový",
-    "authors": [],
-    "date": "2026-09-04T11:04:04.067937+00:00"
-  },
-  {
-    "title": "Léto na chalupě",
-    "url": "https://www.kosmas.cz/knihy/572251/leto-na-chalupe/",
-    "description": "Léto na chalupě - Tereza Šiklová",
-    "authors": [
-      "Tereza Šiklová"
-    ],
-    "date": "2026-09-04T11:04:03.067937+00:00"
-  },
-  {
-    "title": "21 promluv o návratu k sobě",
-    "url": "https://www.kosmas.cz/knihy/572242/21-promluv-o-navratu-k-sobe/",
-    "description": "21 promluv o návratu k sobě - Pavel Špatenka",
-    "authors": [
-      "Pavel Špatenka"
-    ],
-    "date": "2026-09-03T11:03:23.489376+00:00"
-  },
-  {
-    "title": "Planbook diář/notes Korál 2027",
-    "url": "https://www.kosmas.cz/knihy/572528/planbook-diar-notes-koral-2027/",
-    "description": "Planbook diář/notes Korál 2027",
-    "authors": [],
-    "date": "2026-09-03T11:03:22.489376+00:00"
-  },
-  {
-    "title": "Krásná jako osmička",
-    "url": "https://www.kosmas.cz/knihy/572726/krasna-jako-osmicka/",
-    "description": "Krásná jako osmička - Nikola Huppertz",
-    "authors": [
-      "Nikola Huppertz"
-    ],
-    "date": "2026-09-03T11:03:21.489376+00:00"
-  },
-  {
-    "title": "Nesmrtelný Weil",
-    "url": "https://www.kosmas.cz/knihy/572727/nesmrtelny-weil/",
-    "description": "Nesmrtelný Weil - Maxim Biller",
-    "authors": [
-      "Maxim Biller"
-    ],
-    "date": "2026-09-03T11:03:20.489376+00:00"
-  },
-  {
-    "title": "Naháčci",
-    "url": "https://www.kosmas.cz/knihy/572736/nahacci/",
-    "description": "Naháčci - Dorota Ambrožová",
-    "authors": [
-      "Dorota Ambrožová"
-    ],
-    "date": "2026-09-03T11:03:19.489376+00:00"
-  },
-  {
-    "title": "Pejsek a kočička jedou do zoo",
-    "url": "https://www.kosmas.cz/knihy/570612/pejsek-a-kocicka-jedou-do-zoo/",
-    "description": "Pejsek a kočička jedou do zoo - Vlasta Hurtíková",
-    "authors": [
-      "Vlasta Hurtíková"
-    ],
-    "date": "2026-09-03T11:03:18.489376+00:00"
-  },
-  {
-    "title": "Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2",
-    "url": "https://www.kosmas.cz/knihy/571536/fotoalbum-evropske-metro-2-album-photo-metros-d-europe-2/",
-    "description": "Fotoalbum Evropské metro 2, Album photo Métros d’Europe 2 - Boris Kogut",
-    "authors": [
-      "Boris Kogut"
-    ],
-    "date": "2026-09-03T11:03:16.489376+00:00"
-  },
-  {
-    "title": "Přeběhlík",
-    "url": "https://www.kosmas.cz/knihy/572904/prebehlik/",
-    "description": "Přeběhlík - Ondřej Šmejkal",
-    "authors": [
-      "Ondřej Šmejkal"
-    ],
-    "date": "2026-09-03T11:03:15.489376+00:00"
-  },
-  {
-    "title": "Dech motýla",
-    "url": "https://www.kosmas.cz/knihy/572905/dech-motyla/",
-    "description": "Dech motýla - Marie Rejfová",
-    "authors": [
-      "Marie Rejfová"
-    ],
-    "date": "2026-09-03T11:03:14.489376+00:00"
-  },
-  {
-    "title": "Probuzení živlů",
-    "url": "https://www.kosmas.cz/knihy/572907/probuzeni-zivlu/",
-    "description": "Probuzení živlů - Bobbie Wirkmaa",
-    "authors": [
-      "Bobbie Wirkmaa"
-    ],
-    "date": "2026-09-03T11:03:13.489376+00:00"
-  },
-  {
-    "title": "Kuchaři smrti",
-    "url": "https://www.kosmas.cz/knihy/572986/kuchari-smrti/",
-    "description": "Kuchaři smrti - Milan Říský",
-    "authors": [
-      "Milan Říský"
-    ],
-    "date": "2026-09-03T11:03:12.489376+00:00"
-  },
-  {
-    "title": "Ve výslužbě - Bezvýznamná událost",
-    "url": "https://www.kosmas.cz/knihy/570682/ve-vysluzbe-bezvyznamna-udalost/",
-    "description": "Ve výslužbě - Bezvýznamná událost - Martin Goffa",
-    "authors": [
-      "Martin Goffa"
-    ],
-    "date": "2026-09-03T11:03:10.489376+00:00"
-  },
-  {
-    "title": "Emočně inteligentní m(už)",
-    "url": "https://www.kosmas.cz/knihy/572990/emocne-inteligentni-m-uz/",
-    "description": "Emočně inteligentní m(už) - Jitka Ševčíková",
-    "authors": [
-      "Jitka Ševčíková"
-    ],
-    "date": "2026-09-03T11:03:09.489376+00:00"
   }
 ]

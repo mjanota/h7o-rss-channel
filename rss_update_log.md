@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-15 11:33:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Rilla z Ingleside
+2. Chlast
+3. Bylo nebylo v druhohorách
+4. Málem jsem se pos*ala
+5. Páteční knihkupectví
+6. Psychedelické léčení
+7. Hotel Inkontinental
+8. Malá kniha o mimozemšťanech
+9. Pověsti, legendy a vyprávění z Doudlebska
+10. Konec filosofie a počátek nového myšlení
+11. Co je Vědomí
+12. Malý princ
+13. Anonymní historie 1. křížové výpravy
+14. Zakázané dědictví padlé rasy - Z popela andělů
+15. Bruno Schulz
+16. Obrana Odyssea
+17. Barevná matematika 2 pro 2.ročník základní školy
+18. Pidižvouk
+19. Válka světů
+
+---
+
+## 🕐 2026-09-15 11:33:55 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Země, která roste před očima
+
+---
+
 ## 🕐 2026-09-14 12:30:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -262,53 +308,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Kaufland premium
-
----
-
-## 🕐 2026-09-08 11:04:44 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Země světa - 9/2026
-2. Cvičení proti bolestem ramen a šíje
-3. Zahrej jako čeští a slovenští (vel)mistři II
-4. Cvičebnice pro pokročilé VI
-5. Umíš koncovky III?
-6. Princezna a slunce svit
-7. Holmes z Kjóta 14
-8. Vlaky-kniha plná samolepek
-9. Povídky malostranské
-10. Umění 2/2026
-11. Barva ticha
-12. Temný trůn
-13. ZVÍŘÁTKA NA STATKU - Kniha plná samolepek
-14. Vraždy u Menendezových
-15. Miliardové zločiny
-16. Nástěnný kalendář Krteček 2027
-17. Krásné stroje Československa
-18. Stříbrná elita
-19. Přízeň
-20. Můj bratr Wolf
-
----
-
-## 🕐 2026-09-08 11:04:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Milane, čoveče
 
 ---
 
