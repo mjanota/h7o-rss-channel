@@ -1,5 +1,191 @@
 [
   {
+    "title": "Nástěnný kalendář 2027– Dobré rady nad zlato",
+    "url": "https://www.kosmas.cz/knihy/572216/nastenny-kalendar-2027-dobre-rady-nad-zlato/",
+    "description": "Nástěnný kalendář 2027– Dobré rady nad zlato - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:24.710724+00:00"
+  },
+  {
+    "title": "Nástěnný plánovací kalendář 2027 – Rok v zahradě",
+    "url": "https://www.kosmas.cz/knihy/572217/nastenny-planovaci-kalendar-2027-rok-v-zahrade/",
+    "description": "Nástěnný plánovací kalendář 2027 – Rok v zahradě - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:23.710724+00:00"
+  },
+  {
+    "title": "Stolní kalendář nedělní menu 2027 + Recepty z babiččiny zahrádky",
+    "url": "https://www.kosmas.cz/knihy/572219/stolni-kalendar-nedelni-menu-2027-recepty-z-babicciny-zahradky/",
+    "description": "Stolní kalendář nedělní menu 2027 + Recepty z babiččiny zahrádky - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:22.710724+00:00"
+  },
+  {
+    "title": "Zahradnický kalendář 2027 + Bylinkové zahrádky",
+    "url": "https://www.kosmas.cz/knihy/572228/zahradnicky-kalendar-2027-bylinkove-zahradky/",
+    "description": "Zahradnický kalendář 2027 + Bylinkové zahrádky - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:21.710724+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář 2027– Jiří Trnka - Zahrada",
+    "url": "https://www.kosmas.cz/knihy/572230/nastenny-kalendar-2027-jiri-trnka-zahrada/",
+    "description": "Nástěnný kalendář 2027– Jiří Trnka - Zahrada - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:20.710724+00:00"
+  },
+  {
+    "title": "Nástěnný kalendář 2027– Andělský – Klára Trnková",
+    "url": "https://www.kosmas.cz/knihy/572231/nastenny-kalendar-2027-andelsky-klara-trnkova/",
+    "description": "Nástěnný kalendář 2027– Andělský – Klára Trnková - Klára Trnková",
+    "authors": [
+      "Klára Trnková"
+    ],
+    "date": "2026-09-16T11:20:19.710724+00:00"
+  },
+  {
+    "title": "Hostina",
+    "url": "https://www.kosmas.cz/knihy/572289/hostina/",
+    "description": "Hostina - Borjana Dodova",
+    "authors": [
+      "Borjana Dodova"
+    ],
+    "date": "2026-09-16T11:20:18.710724+00:00"
+  },
+  {
+    "title": "Retro vzpomínání",
+    "url": "https://www.kosmas.cz/knihy/570566/retro-vzpominani/",
+    "description": "Retro vzpomínání - Hana Primusová",
+    "authors": [
+      "Hana Primusová"
+    ],
+    "date": "2026-09-16T11:20:17.710724+00:00"
+  },
+  {
+    "title": "Pes, který následoval hvězdy",
+    "url": "https://www.kosmas.cz/knihy/570353/pes-ktery-nasledoval-hvezdy/",
+    "description": "Pes, který následoval hvězdy - Anna Sólyom",
+    "authors": [
+      "Anna Sólyom"
+    ],
+    "date": "2026-09-16T11:20:16.710724+00:00"
+  },
+  {
+    "title": "Horův vzestup",
+    "url": "https://www.kosmas.cz/knihy/573017/horuv-vzestup/",
+    "description": "Horův vzestup - Dan Abnett",
+    "authors": [
+      "Dan Abnett"
+    ],
+    "date": "2026-09-16T11:20:15.710724+00:00"
+  },
+  {
+    "title": "Moje pražské křižovatky",
+    "url": "https://www.kosmas.cz/knihy/573045/moje-prazske-krizovatky/",
+    "description": "Moje pražské křižovatky - Petr Feldstein",
+    "authors": [
+      "Petr Feldstein"
+    ],
+    "date": "2026-09-16T11:20:14.710724+00:00"
+  },
+  {
+    "title": "Muži kolem Hitlera",
+    "url": "https://www.kosmas.cz/knihy/573136/muzi-kolem-hitlera/",
+    "description": "Muži kolem Hitlera - Douglas M. Kelley",
+    "authors": [
+      "Douglas M. Kelley"
+    ],
+    "date": "2026-09-16T11:20:13.710724+00:00"
+  },
+  {
+    "title": "Karanténa",
+    "url": "https://www.kosmas.cz/knihy/573283/karantena/",
+    "description": "Karanténa - Petr Horák, Tomáš Jiránek, Jiří Razskazov",
+    "authors": [
+      "Petr Horák",
+      "Tomáš Jiránek",
+      "Jiří Razskazov"
+    ],
+    "date": "2026-09-16T11:20:12.710724+00:00"
+  },
+  {
+    "title": "Křižánky včera a dnes",
+    "url": "https://www.kosmas.cz/knihy/573402/krizanky-vcera-a-dnes/",
+    "description": "Křižánky včera a dnes - Jiří Houska, Milan Šustr, Adam Trávníček",
+    "authors": [
+      "Jiří Houska",
+      "Milan Šustr",
+      "Adam Trávníček"
+    ],
+    "date": "2026-09-16T11:20:11.710724+00:00"
+  },
+  {
+    "title": "Jílové u Prahy včera a dnes",
+    "url": "https://www.kosmas.cz/knihy/573403/jilove-u-prahy-vcera-a-dnes/",
+    "description": "Jílové u Prahy včera a dnes - Michael Antony, Šárka Juřinová, Alena Mullerová",
+    "authors": [
+      "Michael Antony",
+      "Šárka Juřinová",
+      "Alena Mullerová"
+    ],
+    "date": "2026-09-16T11:20:10.710724+00:00"
+  },
+  {
+    "title": "Poslední víla",
+    "url": "https://www.kosmas.cz/knihy/573500/posledni-vila/",
+    "description": "Poslední víla - Magdalena Takáčová",
+    "authors": [
+      "Magdalena Takáčová"
+    ],
+    "date": "2026-09-16T11:20:09.710724+00:00"
+  },
+  {
+    "title": "Žít jako učedníci",
+    "url": "https://www.kosmas.cz/knihy/572671/zit-jako-ucednici/",
+    "description": "Žít jako učedníci - Rowan Williams",
+    "authors": [
+      "Rowan Williams"
+    ],
+    "date": "2026-09-16T11:20:08.710724+00:00"
+  },
+  {
+    "title": "Síla všestrannosti",
+    "url": "https://www.kosmas.cz/knihy/572672/sila-vsestrannosti/",
+    "description": "Síla všestrannosti - David Epstein",
+    "authors": [
+      "David Epstein"
+    ],
+    "date": "2026-09-16T11:20:07.710724+00:00"
+  },
+  {
+    "title": "Mezi hořícími květinami",
+    "url": "https://www.kosmas.cz/knihy/572740/mezi-horicimi-kvetinami/",
+    "description": "Mezi hořícími květinami - Samantha Shannonová",
+    "authors": [
+      "Samantha Shannonová"
+    ],
+    "date": "2026-09-16T11:20:06.710724+00:00"
+  },
+  {
+    "title": "Mé pravé jméno je Elisabeth",
+    "url": "https://www.kosmas.cz/knihy/564908/me-prave-jmeno-je-elisabeth/",
+    "description": "Mé pravé jméno je Elisabeth - Adèle Yonová",
+    "authors": [
+      "Adèle Yonová"
+    ],
+    "date": "2026-09-16T11:20:05.710724+00:00"
+  },
+  {
     "title": "Rilla z Ingleside",
     "url": "https://www.kosmas.cz/knihy/572151/rilla-z-ingleside/",
     "description": "Rilla z Ingleside - Lucy Maud Montgomeryová",
@@ -1606,195 +1792,5 @@
       "Christopher Paolini"
     ],
     "date": "2026-09-06T10:44:59.051847+00:00"
-  },
-  {
-    "title": "Dvůr trnů a růží - box 1-4",
-    "url": "https://www.kosmas.cz/knihy/571091/dvur-trnu-a-ruzi-box-1-4/",
-    "description": "Dvůr trnů a růží - box 1-4 - Sarah J. Maas",
-    "authors": [
-      "Sarah J. Maas"
-    ],
-    "date": "2026-09-06T10:44:58.051847+00:00"
-  },
-  {
-    "title": "Řehoř z Nyssy o Trojici",
-    "url": "https://www.kosmas.cz/knihy/571092/rehor-z-nyssy-o-trojici/",
-    "description": "Řehoř z Nyssy o Trojici - Lenka Karfíková, Řehoř z Nyssy",
-    "authors": [
-      "Lenka Karfíková",
-      "Řehoř z Nyssy"
-    ],
-    "date": "2026-09-06T10:44:57.051847+00:00"
-  },
-  {
-    "title": "Bitevní letectvo",
-    "url": "https://www.kosmas.cz/knihy/571099/bitevni-letectvo/",
-    "description": "Bitevní letectvo - Marek Brzkovský",
-    "authors": [
-      "Marek Brzkovský"
-    ],
-    "date": "2026-09-06T10:44:56.051847+00:00"
-  },
-  {
-    "title": "Emočně inteligentní m(už)",
-    "url": "https://www.kosmas.cz/knihy/571113/emocne-inteligentni-m-uz/",
-    "description": "Emočně inteligentní m(už) - Jitka Ševčíková",
-    "authors": [
-      "Jitka Ševčíková"
-    ],
-    "date": "2026-09-06T10:44:55.051847+00:00"
-  },
-  {
-    "title": "Gerda: Příběh moře a odvahy",
-    "url": "https://www.kosmas.cz/knihy/572595/gerda-pribeh-more-a-odvahy/",
-    "description": "Gerda: Příběh moře a odvahy - Adrián Macho",
-    "authors": [
-      "Adrián Macho"
-    ],
-    "date": "2026-09-05T10:26:12.671002+00:00"
-  },
-  {
-    "title": "Mušketýři V: Templáři",
-    "url": "https://www.kosmas.cz/knihy/573051/musketyri-v-templari/",
-    "description": "Mušketýři V: Templáři - Joe Garcia",
-    "authors": [
-      "Joe Garcia"
-    ],
-    "date": "2026-09-05T10:25:53.671002+00:00"
-  },
-  {
-    "title": "Strašidelná knihovna - Ztracený duch",
-    "url": "https://www.kosmas.cz/knihy/572596/strasidelna-knihovna-ztraceny-duch/",
-    "description": "Strašidelná knihovna - Ztracený duch - Dori Hillestad Butlerová",
-    "authors": [
-      "Dori Hillestad Butlerová"
-    ],
-    "date": "2026-09-04T11:04:22.067937+00:00"
-  },
-  {
-    "title": "Pověsti a příběhy o českých princeznách a princích",
-    "url": "https://www.kosmas.cz/knihy/572791/povesti-a-pribehy-o-ceskych-princeznach-a-princich/",
-    "description": "Pověsti a příběhy o českých princeznách a princích - Miroslav Táborský",
-    "authors": [
-      "Miroslav Táborský"
-    ],
-    "date": "2026-09-04T11:04:21.067937+00:00"
-  },
-  {
-    "title": "Ještě jeden okamžik",
-    "url": "https://www.kosmas.cz/knihy/572796/jeste-jeden-okamzik/",
-    "description": "Ještě jeden okamžik - Liane Moriarty",
-    "authors": [
-      "Liane Moriarty"
-    ],
-    "date": "2026-09-04T11:04:20.067937+00:00"
-  },
-  {
-    "title": "Muž roku",
-    "url": "https://www.kosmas.cz/knihy/572799/muz-roku/",
-    "description": "Muž roku - Iliana Xander",
-    "authors": [
-      "Iliana Xander"
-    ],
-    "date": "2026-09-04T11:04:19.067937+00:00"
-  },
-  {
-    "title": "Jak moc je Země placka",
-    "url": "https://www.kosmas.cz/knihy/572885/jak-moc-je-zeme-placka/",
-    "description": "Jak moc je Země placka - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:18.067937+00:00"
-  },
-  {
-    "title": "Jak spočítat nekonečno",
-    "url": "https://www.kosmas.cz/knihy/572887/jak-spocitat-nekonecno/",
-    "description": "Jak spočítat nekonečno - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:17.067937+00:00"
-  },
-  {
-    "title": "Jak postavit mrakodrap",
-    "url": "https://www.kosmas.cz/knihy/572888/jak-postavit-mrakodrap/",
-    "description": "Jak postavit mrakodrap - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:16.067937+00:00"
-  },
-  {
-    "title": "Jak vidět kostry",
-    "url": "https://www.kosmas.cz/knihy/572889/jak-videt-kostry/",
-    "description": "Jak vidět kostry - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:15.067937+00:00"
-  },
-  {
-    "title": "Jak udělat sliz",
-    "url": "https://www.kosmas.cz/knihy/572890/jak-udelat-sliz/",
-    "description": "Jak udělat sliz - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:14.067937+00:00"
-  },
-  {
-    "title": "Jak recyklovat čůrání",
-    "url": "https://www.kosmas.cz/knihy/572891/jak-recyklovat-curani/",
-    "description": "Jak recyklovat čůrání - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:13.067937+00:00"
-  },
-  {
-    "title": "Jak přežít tornádo",
-    "url": "https://www.kosmas.cz/knihy/572893/jak-prezit-tornado/",
-    "description": "Jak přežít tornádo - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:12.067937+00:00"
-  },
-  {
-    "title": "Jak se dělí pizza",
-    "url": "https://www.kosmas.cz/knihy/572895/jak-se-deli-pizza/",
-    "description": "Jak se dělí pizza - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:11.067937+00:00"
-  },
-  {
-    "title": "Jak chytat blesky",
-    "url": "https://www.kosmas.cz/knihy/572896/jak-chytat-blesky/",
-    "description": "Jak chytat blesky - William Potter, Richard Watson",
-    "authors": [
-      "William Potter",
-      "Richard Watson"
-    ],
-    "date": "2026-09-04T11:04:10.067937+00:00"
-  },
-  {
-    "title": "NEdávno",
-    "url": "https://www.kosmas.cz/knihy/572915/nedavno/",
-    "description": "NEdávno - Caro Claire Burke",
-    "authors": [
-      "Caro Claire Burke"
-    ],
-    "date": "2026-09-04T11:04:09.067937+00:00"
   }
 ]

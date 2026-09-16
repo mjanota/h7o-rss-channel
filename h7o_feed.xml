@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Knihkupecký terorismus</title>
+      <link>https://www.h7o.cz/clanky/14607-knihkupecky-terorismus</link>
+      <description>Nezávislí američtí knihkupci varují před politickým násilím ze strany administrativy Donalda Trumpa. Jeho legislativa má kriminalizovat část názorového spektra.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14607-knihkupecky-terorismus</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Země, která roste před očima</title>
       <link>https://www.h7o.cz/clanky/14606-zeme-ktera-roste-pred-ocima</link>
@@ -434,13 +441,6 @@
       <description>Cena literární kritiky zahájila třetí ročník debatou o básnických sbírkách prvního čtvrtletí 2026. Do debaty porota vybrala sbírky „Atlas křoví“ Barbory Müllerové, „Propaganda“ Iryny Zahladko a sbírku „Viktor“ Kamila Boušky.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14554-na-okraji-a-proti</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Proč jsme stále ještě barokní?</title>
-      <link>https://www.h7o.cz/clanky/14516-proc-jsme-stale-jeste-barokni</link>
-      <description>Je tu čtvrteční seriál k blížícímu se bohemistickému kongresu. S komenioložkou Lenkou Řezníkovou o baroku, jeho ambivalentních obrazech, inspiracích, imitacích a instrumentalizaci vedl rozhovor Daniel Soukup z Ústavu pro českou literaturu AV ČR.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14516-proc-jsme-stale-jeste-barokni</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

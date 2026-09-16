@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-16 11:20:24 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Nástěnný kalendář 2027– Dobré rady nad zlato
+2. Nástěnný plánovací kalendář 2027 – Rok v zahradě
+3. Stolní kalendář nedělní menu 2027 + Recepty z babiččiny zahrádky
+4. Zahradnický kalendář 2027 + Bylinkové zahrádky
+5. Nástěnný kalendář 2027– Jiří Trnka - Zahrada
+6. Nástěnný kalendář 2027– Andělský – Klára Trnková
+7. Hostina
+8. Retro vzpomínání
+9. Pes, který následoval hvězdy
+10. Horův vzestup
+11. Moje pražské křižovatky
+12. Muži kolem Hitlera
+13. Karanténa
+14. Křižánky včera a dnes
+15. Jílové u Prahy včera a dnes
+16. Poslední víla
+17. Žít jako učedníci
+18. Síla všestrannosti
+19. Mezi hořícími květinami
+20. Mé pravé jméno je Elisabeth
+
+---
+
+## 🕐 2026-09-16 11:20:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Knihkupecký terorismus
+
+---
+
 ## 🕐 2026-09-15 11:33:56 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -261,53 +308,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Manuál k Pedru Almodóvarovi
-
----
-
-## 🕐 2026-09-09 11:09:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Omyl
-2. Hrobník a vraždy v Prátru
-3. Tajné ambity
-4. Algoritmus chyby
-5. V tepnách vře krev
-6. Zneužití důvěry
-7. Zdánlivá dezorientace
-8. Prašný strom
-9. Milostné nebytí
-10. Verše z Muzotu
-11. V kleci
-12. Svoboda svobod
-13. Vzpomínám (1902–1959)
-14. William Heerlein Lindley a pražská kanalizace
-15. Zpívám já a hora tančí
-16. Punk 57
-17. Prvouka pro 2. ročník ZŠ - Učebnice
-18. Dech motýla
-19. Probuzení živlů
-20. K počátkům osídlení Šluknovska
-
----
-
-## 🕐 2026-09-09 11:09:16 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Kaufland premium
 
 ---
 

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Proč jsme stále ještě barokní?",
-    "url": "https://www.h7o.cz/clanky/14516-proc-jsme-stale-jeste-barokni",
-    "description": "Je tu čtvrteční seriál k blížícímu se bohemistickému kongresu. S komenioložkou Lenkou Řezníkovou o baroku, jeho ambivalentních obrazech, inspiracích, imitacích a instrumentalizaci vedl rozhovor Daniel Soukup z Ústavu pro českou literaturu AV ČR.",
-    "date": "2026-06-18T00:00:00",
-    "author": "Daniel Soukup",
-    "category": "seriál"
-  },
-  {
     "title": "Na okraji a proti",
     "url": "https://www.h7o.cz/clanky/14554-na-okraji-a-proti",
     "description": "Cena literární kritiky zahájila třetí ročník debatou o básnických sbírkách prvního čtvrtletí 2026. Do debaty porota vybrala sbírky „Atlas křoví“ Barbory Müllerové, „Propaganda“ Iryny Zahladko a sbírku „Viktor“ Kamila Boušky.",
@@ -494,5 +486,13 @@
     "date": "2026-09-15T00:00:00",
     "author": "Jiřina Dvořáková",
     "category": "rozhovor"
+  },
+  {
+    "title": "Knihkupecký terorismus",
+    "url": "https://www.h7o.cz/clanky/14607-knihkupecky-terorismus",
+    "description": "Nezávislí američtí knihkupci varují před politickým násilím ze strany administrativy Donalda Trumpa. Jeho legislativa má kriminalizovat část názorového spektra.",
+    "date": "2026-09-16T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]
