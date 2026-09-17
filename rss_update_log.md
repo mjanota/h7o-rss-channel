@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-17 11:28:17 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Art & Antiques 8-9/2026
+2. Téměř dokonalá
+3. A Bůh nikde
+4. Moderní učebnice hry na klávesy
+5. Stray Kids
+6. Cesta k přijímačkám s Robinem
+7. Běžící češtinář – příprava na přijímačky, 9. třída
+8. Běžící češtinář – příprava na přijímačky, 5. třída
+9. Běžící češtinář – příprava na přijímačky, 7. třída
+10. Nové příběhy se šťastným koncem – Nezbedný mýval
+11. Za oponou emocí
+12. Samolepková knížka – Roztomilé kočky
+13. Když máma spala
+14. Pomněnkové matky
+15. Poslední dopis
+16. Železné hory
+17. Milenci mocných: Moc, sex a ambice
+18. Pohádky kocoura Šikuly
+19. Všechno bylo krásné a nic nebolelo
+20. Větrné město - box
+
+---
+
+## 🕐 2026-09-17 11:28:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Praha, hlavní město 20. století
+
+---
+
 ## 🕐 2026-09-16 11:20:24 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -262,52 +309,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Cena literární kritiky na ostravské Inverzi
-
----
-
-## 🕐 2026-09-10 11:06:08 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Hlavu vzhůru!
-2. Vltavice
-3. Temný trůn
-4. Žofie Bavorská
-5. Příběh z popela
-6. Stručný průvodce odcházením
-7. Básně, které potřebuje svět
-8. Tělo nikdy nelže
-9. Příběhy o míru
-10. FILL ME IN - Gay Coloring Book
-11. Každodennost
-12. Úlomky léta
-13. Po nás opuka
-14. Raketa 48
-15. Foucaultovo kyvadlo
-16. Hodinový detektiv
-17. Lakový paraván
-18. Galerka
-19. Rodina není tvůj osud
-
----
-
-## 🕐 2026-09-10 11:06:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Manuál k Pedru Almodóvarovi
 
 ---
 

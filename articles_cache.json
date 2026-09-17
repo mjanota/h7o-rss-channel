@@ -1,13 +1,5 @@
 [
   {
-    "title": "Na okraji a proti",
-    "url": "https://www.h7o.cz/clanky/14554-na-okraji-a-proti",
-    "description": "Cena literární kritiky zahájila třetí ročník debatou o básnických sbírkách prvního čtvrtletí 2026. Do debaty porota vybrala sbírky „Atlas křoví“ Barbory Müllerové, „Propaganda“ Iryny Zahladko a sbírku „Viktor“ Kamila Boušky.",
-    "date": "2026-06-19T00:00:00",
-    "author": "",
-    "category": ""
-  },
-  {
     "title": "Válka jako šance",
     "url": "https://www.h7o.cz/clanky/14555-valka-jako-sance",
     "description": "„Kočár umělecké slávy bývá často tažen smrtí, bolestí, utrpením a útlakem (jiných),“ píše Adéla Knapová ve svém pravidelném sloupku z Charkova.",
@@ -494,5 +486,13 @@
     "date": "2026-09-16T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Praha, hlavní město 20. století",
+    "url": "https://www.h7o.cz/clanky/14608-praha-hlavni-mesto-20-stoleti",
+    "description": "V létě v Praze proběhl velký kongres zahraničních bohemistů. K rozhovorům, které jsme přinesli v předstihu, přidáváme nyní ten závěrečný, a sice s britsko-kanadským sociologem Derekem Sayerem, známým svými interdisciplinárními přesahy a trilogií o české kultuře.",
+    "date": "2026-09-17T00:00:00",
+    "author": "Kristýna Pavlík Vaněčková",
+    "category": "rozhovor"
   }
 ]
