@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-18 11:01:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Hledám odpovědi
+2. Bydlíme na zahradě
+3. Japonská letadla druhé světové války
+4. Kreativní proměny a recyklace
+5. Atomové návyky – Workbook
+6. Pletení prsty pro začátečníky
+7. Háčkujeme Amigurumi
+8. Lovec příšer
+9. Kognitivně-behaviorální terapie v praxi
+10. Hranice
+11. Druhé vědomí
+12. Přízrak jiné moderny
+13. Princezna Adiva
+14. Pauza pro duši
+15. Malá kniha etikety stolování
+16. Bestie
+17. Krutí
+18. Nechte se vést
+
+---
+
+## 🕐 2026-09-18 11:01:23 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-17 11:28:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

@@ -1,5 +1,163 @@
 [
   {
+    "title": "Hledám odpovědi",
+    "url": "https://www.kosmas.cz/knihy/565136/hledam-odpovedi/",
+    "description": "Hledám odpovědi - Arnošt Lustig",
+    "authors": [
+      "Arnošt Lustig"
+    ],
+    "date": "2026-09-18T11:01:25.100375+00:00"
+  },
+  {
+    "title": "Bydlíme na zahradě",
+    "url": "https://www.kosmas.cz/knihy/573148/bydlime-na-zahrade/",
+    "description": "Bydlíme na zahradě - Tereza Svobodová",
+    "authors": [
+      "Tereza Svobodová"
+    ],
+    "date": "2026-09-18T11:01:24.100375+00:00"
+  },
+  {
+    "title": "Japonská letadla druhé světové války",
+    "url": "https://www.kosmas.cz/knihy/573345/japonska-letadla-druhe-svetove-valky/",
+    "description": "Japonská letadla druhé světové války - Thomas Newdick",
+    "authors": [
+      "Thomas Newdick"
+    ],
+    "date": "2026-09-18T11:01:23.100375+00:00"
+  },
+  {
+    "title": "Kreativní proměny a recyklace",
+    "url": "https://www.kosmas.cz/knihy/573346/kreativni-promeny-a-recyklace/",
+    "description": "Kreativní proměny a recyklace",
+    "authors": [],
+    "date": "2026-09-18T11:01:22.100375+00:00"
+  },
+  {
+    "title": "Atomové návyky – Workbook",
+    "url": "https://www.kosmas.cz/knihy/573347/atomove-navyky-workbook/",
+    "description": "Atomové návyky – Workbook - James Clear",
+    "authors": [
+      "James Clear"
+    ],
+    "date": "2026-09-18T11:01:21.100375+00:00"
+  },
+  {
+    "title": "Pletení prsty pro začátečníky",
+    "url": "https://www.kosmas.cz/knihy/573349/pleteni-prsty-pro-zacatecniky/",
+    "description": "Pletení prsty pro začátečníky",
+    "authors": [],
+    "date": "2026-09-18T11:01:20.100375+00:00"
+  },
+  {
+    "title": "Háčkujeme Amigurumi",
+    "url": "https://www.kosmas.cz/knihy/573350/hackujeme-amigurumi/",
+    "description": "Háčkujeme Amigurumi",
+    "authors": [],
+    "date": "2026-09-18T11:01:19.100375+00:00"
+  },
+  {
+    "title": "Lovec příšer",
+    "url": "https://www.kosmas.cz/knihy/573355/lovec-priser/",
+    "description": "Lovec příšer - Jeff Gunhus",
+    "authors": [
+      "Jeff Gunhus"
+    ],
+    "date": "2026-09-18T11:01:18.100375+00:00"
+  },
+  {
+    "title": "Kognitivně-behaviorální terapie v praxi",
+    "url": "https://www.kosmas.cz/knihy/573431/kognitivne-behavioralni-terapie-v-praxi/",
+    "description": "Kognitivně-behaviorální terapie v praxi - Roman Pešek, Ján Praško, Petr Štípek",
+    "authors": [
+      "Roman Pešek",
+      "Ján Praško",
+      "Petr Štípek"
+    ],
+    "date": "2026-09-18T11:01:17.100375+00:00"
+  },
+  {
+    "title": "Hranice",
+    "url": "https://www.kosmas.cz/knihy/573439/hranice/",
+    "description": "Hranice - Lewis Baston",
+    "authors": [
+      "Lewis Baston"
+    ],
+    "date": "2026-09-18T11:01:16.100375+00:00"
+  },
+  {
+    "title": "Druhé vědomí",
+    "url": "https://www.kosmas.cz/knihy/573459/druhe-vedomi/",
+    "description": "Druhé vědomí - Jiří Beňovský",
+    "authors": [
+      "Jiří Beňovský"
+    ],
+    "date": "2026-09-18T11:01:15.100375+00:00"
+  },
+  {
+    "title": "Přízrak jiné moderny",
+    "url": "https://www.kosmas.cz/knihy/573461/prizrak-jine-moderny/",
+    "description": "Přízrak jiné moderny - Michal Ajvaz",
+    "authors": [
+      "Michal Ajvaz"
+    ],
+    "date": "2026-09-18T11:01:14.100375+00:00"
+  },
+  {
+    "title": "Princezna Adiva",
+    "url": "https://www.kosmas.cz/knihy/573549/princezna-adiva/",
+    "description": "Princezna Adiva - Oldřiška Ciprová",
+    "authors": [
+      "Oldřiška Ciprová"
+    ],
+    "date": "2026-09-18T11:01:13.100375+00:00"
+  },
+  {
+    "title": "Pauza pro duši",
+    "url": "https://www.kosmas.cz/knihy/573575/pauza-pro-dusi/",
+    "description": "Pauza pro duši - Barbara Nesvadbová",
+    "authors": [
+      "Barbara Nesvadbová"
+    ],
+    "date": "2026-09-18T11:01:12.100375+00:00"
+  },
+  {
+    "title": "Malá kniha etikety stolování",
+    "url": "https://www.kosmas.cz/knihy/573576/mala-kniha-etikety-stolovani/",
+    "description": "Malá kniha etikety stolování - Ladislav Špaček",
+    "authors": [
+      "Ladislav Špaček"
+    ],
+    "date": "2026-09-18T11:01:11.100375+00:00"
+  },
+  {
+    "title": "Bestie",
+    "url": "https://www.kosmas.cz/knihy/573621/bestie/",
+    "description": "Bestie - Dominik Dán",
+    "authors": [
+      "Dominik Dán"
+    ],
+    "date": "2026-09-18T11:01:09.100375+00:00"
+  },
+  {
+    "title": "Krutí",
+    "url": "https://www.kosmas.cz/knihy/573627/kruti/",
+    "description": "Krutí - V.E. Schwab",
+    "authors": [
+      "V.E. Schwab"
+    ],
+    "date": "2026-09-18T11:01:07.100375+00:00"
+  },
+  {
+    "title": "Nechte se vést",
+    "url": "https://www.kosmas.cz/knihy/572324/nechte-se-vest/",
+    "description": "Nechte se vést - Laura Lynne Jacksonová",
+    "authors": [
+      "Laura Lynne Jacksonová"
+    ],
+    "date": "2026-09-18T11:01:06.100375+00:00"
+  },
+  {
     "title": "Art & Antiques 8-9/2026",
     "url": "https://www.kosmas.cz/knihy/563301/art-antiques-8-9-2026/",
     "description": "Art & Antiques 8-9/2026",
@@ -1631,173 +1789,5 @@
       "Martin Sodomka"
     ],
     "date": "2026-09-08T11:04:28.772953+00:00"
-  },
-  {
-    "title": "Stříbrná elita",
-    "url": "https://www.kosmas.cz/knihy/570163/stribrna-elita/",
-    "description": "Stříbrná elita - Dani Francis",
-    "authors": [
-      "Dani Francis"
-    ],
-    "date": "2026-09-08T11:04:27.772953+00:00"
-  },
-  {
-    "title": "Přízeň",
-    "url": "https://www.kosmas.cz/knihy/570180/prizen/",
-    "description": "Přízeň - Jens Henrik Jensen, Jeanette Varberg",
-    "authors": [
-      "Jens Henrik Jensen",
-      "Jeanette Varberg"
-    ],
-    "date": "2026-09-08T11:04:26.772953+00:00"
-  },
-  {
-    "title": "Můj bratr Wolf",
-    "url": "https://www.kosmas.cz/knihy/570182/muj-bratr-wolf/",
-    "description": "Můj bratr Wolf - Lara Taveirne",
-    "authors": [
-      "Lara Taveirne"
-    ],
-    "date": "2026-09-08T11:04:25.772953+00:00"
-  },
-  {
-    "title": "Napříč časem",
-    "url": "https://www.kosmas.cz/knihy/571991/napric-casem/",
-    "description": "Napříč časem - Kristin Dwyer",
-    "authors": [
-      "Kristin Dwyer"
-    ],
-    "date": "2026-09-07T12:15:23.250780+00:00"
-  },
-  {
-    "title": "Nejkrásnější tajemství",
-    "url": "https://www.kosmas.cz/knihy/572145/nejkrasnejsi-tajemstvi/",
-    "description": "Nejkrásnější tajemství - Laura Pavlov",
-    "authors": [
-      "Laura Pavlov"
-    ],
-    "date": "2026-09-07T12:15:22.250780+00:00"
-  },
-  {
-    "title": "Sokyně",
-    "url": "https://www.kosmas.cz/knihy/571616/sokyne/",
-    "description": "Sokyně - J. M. Dalgliesh",
-    "authors": [
-      "J. M. Dalgliesh"
-    ],
-    "date": "2026-09-07T12:15:21.250780+00:00"
-  },
-  {
-    "title": "Citlivé dítě",
-    "url": "https://www.kosmas.cz/knihy/573104/citlive-dite/",
-    "description": "Citlivé dítě - Ludmila Bakonyi Selinger, Jitka Petrová",
-    "authors": [
-      "Ludmila Bakonyi Selinger",
-      "Jitka Petrová"
-    ],
-    "date": "2026-09-07T12:15:20.250780+00:00"
-  },
-  {
-    "title": "Psychologie předškolního dítěte",
-    "url": "https://www.kosmas.cz/knihy/571995/psychologie-predskolniho-ditete/",
-    "description": "Psychologie předškolního dítěte - Dana Buršíková, Martina Komzáková, Kateřina Lohrová, Andrea Štětková",
-    "authors": [
-      "Dana Buršíková",
-      "Martina Komzáková",
-      "Kateřina Lohrová",
-      "Andrea Štětková"
-    ],
-    "date": "2026-09-07T12:15:19.250780+00:00"
-  },
-  {
-    "title": "Miliardové zločiny",
-    "url": "https://www.kosmas.cz/knihy/573107/miliardove-zlociny/",
-    "description": "Miliardové zločiny - Pavel Kohout",
-    "authors": [
-      "Pavel Kohout"
-    ],
-    "date": "2026-09-07T12:15:18.250780+00:00"
-  },
-  {
-    "title": "Firemní kultura jako motor úspěchu",
-    "url": "https://www.kosmas.cz/knihy/570403/firemni-kultura-jako-motor-uspechu/",
-    "description": "Firemní kultura jako motor úspěchu - Markéta Černá",
-    "authors": [
-      "Markéta Černá"
-    ],
-    "date": "2026-09-07T12:15:17.250780+00:00"
-  },
-  {
-    "title": "Vycházky po Praze (III) Staré Město pražské",
-    "url": "https://www.kosmas.cz/knihy/566447/vychazky-po-praze-iii-stare-mesto-prazske/",
-    "description": "Vycházky po Praze (III) Staré Město pražské - Vladimír Kokšal",
-    "authors": [
-      "Vladimír Kokšal"
-    ],
-    "date": "2026-09-07T12:15:16.250780+00:00"
-  },
-  {
-    "title": "Avatar - Legenda o Aangovi: Slib, část druhá",
-    "url": "https://www.kosmas.cz/knihy/567760/avatar-legenda-o-aangovi-slib-cast-druha/",
-    "description": "Avatar - Legenda o Aangovi: Slib, část druhá - Gene Luen Yang",
-    "authors": [
-      "Gene Luen Yang"
-    ],
-    "date": "2026-09-07T12:15:15.250780+00:00"
-  },
-  {
-    "title": "Den 29.",
-    "url": "https://www.kosmas.cz/knihy/571875/den-29/",
-    "description": "Den 29. - Ondřej Tyl",
-    "authors": [
-      "Ondřej Tyl"
-    ],
-    "date": "2026-09-07T12:15:14.250780+00:00"
-  },
-  {
-    "title": "Pod tlakem krásy",
-    "url": "https://www.kosmas.cz/knihy/572557/pod-tlakem-krasy/",
-    "description": "Pod tlakem krásy - Renée Engelnová",
-    "authors": [
-      "Renée Engelnová"
-    ],
-    "date": "2026-09-07T12:15:13.250780+00:00"
-  },
-  {
-    "title": "Kolala petřínská",
-    "url": "https://www.kosmas.cz/knihy/572604/kolala-petrinska/",
-    "description": "Kolala petřínská - Aneta Františka Holasová, Jana Šrámková",
-    "authors": [
-      "Aneta Františka Holasová",
-      "Jana Šrámková"
-    ],
-    "date": "2026-09-07T12:15:12.250780+00:00"
-  },
-  {
-    "title": "Jak se stal Matěj trolejbusem",
-    "url": "https://www.kosmas.cz/knihy/572607/jak-se-stal-matej-trolejbusem/",
-    "description": "Jak se stal Matěj trolejbusem - Marita Kelbl, Eliška Vidomus",
-    "authors": [
-      "Marita Kelbl",
-      "Eliška Vidomus"
-    ],
-    "date": "2026-09-07T12:15:11.250780+00:00"
-  },
-  {
-    "title": "Vánek Rozhněvánek a Labouť",
-    "url": "https://www.kosmas.cz/knihy/572608/vanek-rozhnevanek-a-labout/",
-    "description": "Vánek Rozhněvánek a Labouť - Zuzana Špůrová, Veronika Zemanová",
-    "authors": [
-      "Zuzana Špůrová",
-      "Veronika Zemanová"
-    ],
-    "date": "2026-09-07T12:15:10.250780+00:00"
-  },
-  {
-    "title": "Revolver Revue 144",
-    "url": "https://www.kosmas.cz/knihy/572827/revolver-revue-144/",
-    "description": "Revolver Revue 144",
-    "authors": [],
-    "date": "2026-09-07T12:15:09.250780+00:00"
   }
 ]
