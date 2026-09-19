@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:45:13 +0000</lastBuildDate>
+    <item>
+      <title>Vzácný klenot</title>
+      <link>https://www.kosmas.cz/knihy/573161/vzacny-klenot/</link>
+      <description>Vzácný klenot - Mimi Matthews</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573161/vzacny-klenot/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adam a Eva</title>
+      <link>https://www.kosmas.cz/knihy/573201/adam-a-eva/</link>
+      <description>Adam a Eva - Radim Hladík, Jaroslav Hutka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573201/adam-a-eva/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Máte rozepnutej batoh!</title>
+      <link>https://www.kosmas.cz/knihy/573209/mate-rozepnutej-batoh/</link>
+      <description>Máte rozepnutej batoh! - Jan Rejžek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573209/mate-rozepnutej-batoh/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Když loví Železný vlk</title>
+      <link>https://www.kosmas.cz/knihy/573330/kdyz-lovi-zelezny-vlk/</link>
+      <description>Když loví Železný vlk - Ondřej Pivoda</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573330/kdyz-lovi-zelezny-vlk/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:45:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jezdci na velrybách</title>
+      <link>https://www.kosmas.cz/knihy/573332/jezdci-na-velrybach/</link>
+      <description>Jezdci na velrybách - Ondřej Pivoda</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573332/jezdci-na-velrybach/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forbíny obrazů</title>
+      <link>https://www.kosmas.cz/knihy/573472/forbiny-obrazu/</link>
+      <description>Forbíny obrazů - Václav Hájek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573472/forbiny-obrazu/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pravda, nebo lež</title>
+      <link>https://www.kosmas.cz/knihy/573588/pravda-nebo-lez/</link>
+      <description>Pravda, nebo lež - Colleen Hooverová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573588/pravda-nebo-lez/</guid>
+      <pubDate>Sat, 19 Sep 2026 10:44:54 +0000</pubDate>
+    </item>
     <item>
       <title>Hledám odpovědi</title>
       <link>https://www.kosmas.cz/knihy/565136/hledam-odpovedi/</link>
@@ -658,55 +707,6 @@
       <description>Vrozené srdeční vady v klinické praxi - Jan Pavlíček, kolektiv</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/573385/vrozene-srdecni-vady-v-klinicke-praxi/</guid>
       <pubDate>Mon, 14 Sep 2026 12:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fotovoltaika</title>
-      <link>https://www.kosmas.cz/knihy/573386/fotovoltaika/</link>
-      <description>Fotovoltaika - Roman Vaverka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573386/fotovoltaika/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:30:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Počkej chvilku</title>
-      <link>https://www.kosmas.cz/knihy/573387/pockej-chvilku/</link>
-      <description>Počkej chvilku - Rachel Williams</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573387/pockej-chvilku/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:30:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Encyklopedie jízdy na koni</title>
-      <link>https://www.kosmas.cz/knihy/573388/encyklopedie-jizdy-na-koni/</link>
-      <description>Encyklopedie jízdy na koni - Jagoda Bojarczuk</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573388/encyklopedie-jizdy-na-koni/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Please Form Pairs</title>
-      <link>https://www.kosmas.cz/knihy/572867/please-form-pairs/</link>
-      <description>Please Form Pairs - Chiren Kina</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572867/please-form-pairs/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:36:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Hope This Email Finds You in Hell</title>
-      <link>https://www.kosmas.cz/knihy/572871/i-hope-this-email-finds-you-in-hell/</link>
-      <description>I Hope This Email Finds You in Hell - Reed Mackenzie</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572871/i-hope-this-email-finds-you-in-hell/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:36:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blightfall</title>
-      <link>https://www.kosmas.cz/knihy/572873/blightfall/</link>
-      <description>Blightfall - Janci Patterson, Brandon Sanderson</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572873/blightfall/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:36:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tempest</title>
-      <link>https://www.kosmas.cz/knihy/572874/tempest/</link>
-      <description>Tempest - Victoria Aveyardová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572874/tempest/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:36:36 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-19 10:45:13 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Vzácný klenot
+2. Adam a Eva
+3. Máte rozepnutej batoh!
+4. Když loví Železný vlk
+5. Jezdci na velrybách
+6. Forbíny obrazů
+7. Pravda, nebo lež
+
+---
+
+## 🕐 2026-09-19 10:45:04 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-18 11:01:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -264,92 +294,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-09-12 10:33:58 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Andulčina andulata
-2. Zmizelá Šumava – S Emilem pěšky
-3. Dášeňka čili život štěněte
-4. Tak jsme se potkali
-5. Tsunami: Prázdniny v rytmu
-6. Druhá světová válka
-7. Česnečka a upír
-8. Real Madrid (Fotbalové superhvězdy)
-9. Adventní kalendář se samolepkami Prasátko Peppa
-10. Adventní kalendář se samolepkami Ledové království
-11. Adventní kalendář se samolepkami Lilo & Stitch
-12. 0 1 2
-13. Moje nejmilejší kočka
-14. Na kole kolem Pyrenejského ostrova
-15. Z kolébky do hrobu
-16. Pán prokletých jezdců
-
----
-
-## 🕐 2026-09-12 10:33:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-09-11 11:04:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Vyvrácené duše
-2. Osudová
-3. Veleknězův odkaz - Zřídlo živoucího ohně
-4. Mamlucha
-5. Bany versus Manky a supersonická Iks
-6. Omalovánky s kamínky Ledové království Vánoce
-7. Omalovánky s kamínky Lilo & Stitch 4+
-8. Adventní kalendář se samolepkami Tlapková patrola
-9. Velkolepá kniha magie Měsíce a Hada
-10. Dream Count
-11. The Hunger Games: Sunrise on the Reaping
-12. Jednorožci – Kouzelné příběhy
-13. Zrůdy v nás
-14. Cestovatelské omalovánky New York
-15. Cestovatelské omalovánky Paříž
-16. Cestovatelské omalovánky Itálie
-17. Cestovatelské omalovánky Amerika
-18. Rozbité zrcadlo
-19. Blue sisters
-20. Muchláčci1: Dina
-
----
-
-## 🕐 2026-09-11 11:04:41 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Cena literární kritiky na ostravské Inverzi
 
 ---
 

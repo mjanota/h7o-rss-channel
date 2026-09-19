@@ -1,5 +1,69 @@
 [
   {
+    "title": "Vzácný klenot",
+    "url": "https://www.kosmas.cz/knihy/573161/vzacny-klenot/",
+    "description": "Vzácný klenot - Mimi Matthews",
+    "authors": [
+      "Mimi Matthews"
+    ],
+    "date": "2026-09-19T10:45:13.960345+00:00"
+  },
+  {
+    "title": "Adam a Eva",
+    "url": "https://www.kosmas.cz/knihy/573201/adam-a-eva/",
+    "description": "Adam a Eva - Radim Hladík, Jaroslav Hutka",
+    "authors": [
+      "Radim Hladík",
+      "Jaroslav Hutka"
+    ],
+    "date": "2026-09-19T10:45:12.960345+00:00"
+  },
+  {
+    "title": "Máte rozepnutej batoh!",
+    "url": "https://www.kosmas.cz/knihy/573209/mate-rozepnutej-batoh/",
+    "description": "Máte rozepnutej batoh! - Jan Rejžek",
+    "authors": [
+      "Jan Rejžek"
+    ],
+    "date": "2026-09-19T10:45:11.960345+00:00"
+  },
+  {
+    "title": "Když loví Železný vlk",
+    "url": "https://www.kosmas.cz/knihy/573330/kdyz-lovi-zelezny-vlk/",
+    "description": "Když loví Železný vlk - Ondřej Pivoda",
+    "authors": [
+      "Ondřej Pivoda"
+    ],
+    "date": "2026-09-19T10:45:10.960345+00:00"
+  },
+  {
+    "title": "Jezdci na velrybách",
+    "url": "https://www.kosmas.cz/knihy/573332/jezdci-na-velrybach/",
+    "description": "Jezdci na velrybách - Ondřej Pivoda",
+    "authors": [
+      "Ondřej Pivoda"
+    ],
+    "date": "2026-09-19T10:45:09.960345+00:00"
+  },
+  {
+    "title": "Forbíny obrazů",
+    "url": "https://www.kosmas.cz/knihy/573472/forbiny-obrazu/",
+    "description": "Forbíny obrazů - Václav Hájek",
+    "authors": [
+      "Václav Hájek"
+    ],
+    "date": "2026-09-19T10:44:58.960345+00:00"
+  },
+  {
+    "title": "Pravda, nebo lež",
+    "url": "https://www.kosmas.cz/knihy/573588/pravda-nebo-lez/",
+    "description": "Pravda, nebo lež - Colleen Hooverová",
+    "authors": [
+      "Colleen Hooverová"
+    ],
+    "date": "2026-09-19T10:44:54.960345+00:00"
+  },
+  {
     "title": "Hledám odpovědi",
     "url": "https://www.kosmas.cz/knihy/565136/hledam-odpovedi/",
     "description": "Hledám odpovědi - Arnošt Lustig",
@@ -1730,64 +1794,5 @@
     "description": "Umění 2/2026",
     "authors": [],
     "date": "2026-09-08T11:04:35.772953+00:00"
-  },
-  {
-    "title": "Barva ticha",
-    "url": "https://www.kosmas.cz/knihy/573138/barva-ticha/",
-    "description": "Barva ticha - Natalie T. Wolker",
-    "authors": [
-      "Natalie T. Wolker"
-    ],
-    "date": "2026-09-08T11:04:34.772953+00:00"
-  },
-  {
-    "title": "Temný trůn",
-    "url": "https://www.kosmas.cz/knihy/573139/temny-trun/",
-    "description": "Temný trůn - Rebecca Gablé",
-    "authors": [
-      "Rebecca Gablé"
-    ],
-    "date": "2026-09-08T11:04:33.772953+00:00"
-  },
-  {
-    "title": "ZVÍŘÁTKA NA STATKU - Kniha plná samolepek",
-    "url": "https://www.kosmas.cz/knihy/573140/zviratka-na-statku-kniha-plna-samolepek/",
-    "description": "ZVÍŘÁTKA NA STATKU - Kniha plná samolepek",
-    "authors": [],
-    "date": "2026-09-08T11:04:32.772953+00:00"
-  },
-  {
-    "title": "Vraždy u Menendezových",
-    "url": "https://www.kosmas.cz/knihy/571984/vrazdy-u-menendezovych/",
-    "description": "Vraždy u Menendezových - Robert Rand",
-    "authors": [
-      "Robert Rand"
-    ],
-    "date": "2026-09-08T11:04:31.772953+00:00"
-  },
-  {
-    "title": "Miliardové zločiny",
-    "url": "https://www.kosmas.cz/knihy/571989/miliardove-zlociny/",
-    "description": "Miliardové zločiny - Pavel Kohout",
-    "authors": [
-      "Pavel Kohout"
-    ],
-    "date": "2026-09-08T11:04:30.772953+00:00"
-  },
-  {
-    "title": "Nástěnný kalendář Krteček 2027",
-    "url": "https://www.kosmas.cz/knihy/571379/nastenny-kalendar-krtecek-2027/",
-    "description": "Nástěnný kalendář Krteček 2027",
-    "authors": [],
-    "date": "2026-09-08T11:04:29.772953+00:00"
-  },
-  {
-    "title": "Krásné stroje Československa",
-    "url": "https://www.kosmas.cz/knihy/571435/krasne-stroje-ceskoslovenska/",
-    "description": "Krásné stroje Československa - Martin Sodomka",
-    "authors": [
-      "Martin Sodomka"
-    ],
-    "date": "2026-09-08T11:04:28.772953+00:00"
   }
 ]
