@@ -5,6 +5,37 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-20 11:07:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 8
+
+**Tituly nových položek:**
+
+1. Bass Persuades
+2. 40 let totálního masakrru
+3. Osudový žeton
+4. Rangers III.
+5. Lovci žen
+6. Omalovánky se strašidly
+7. Nástěnný kalendář 2027– Jiří Trnka – Zlatý věk
+8. Domaluj, vystřihni, postav
+
+---
+
+## 🕐 2026-09-20 11:07:53 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-19 10:45:13 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
