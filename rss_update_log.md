@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-21 12:37:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Žebrák - zapomenuté příběhy
+2. Bylo pozdě, pro mnohé už navždy
+3. Vystřihovánky - Pohádkové hrady
+4. Disney - Kuchařka mladých svišťů
+5. SpongeBob - Knížka na celý rok
+6. Rychlá kola
+7. Když Duben přichází
+8. Lesní sny
+9. Lovkyně ústřic
+10. Počkej na mě
+11. Popel ve vlasech
+12. Tři zločiny na dvoře Karla IV.
+13. Ve stínu jeřabiny
+14. Bass Persuades
+15. Na dvorku i na poli
+16. Příšerky - Hádanky se samolepkami - svítí ve tmě
+17. Vůně napalmu
+18. Černá kapradina
+19. Pohádky poslední záchrany (rodičů)
+20. Strava vytrvalců
+
+---
+
+## 🕐 2026-09-21 12:37:03 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Když o osudu knih rozhodují algoritmy a influenceři
+
+---
+
 ## 🕐 2026-09-20 11:07:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -244,87 +291,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Země, která roste před očima
-
----
-
-## 🕐 2026-09-14 12:30:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Summer Country Escape
-2. Slaying the Vampire Conqueror
-3. A Day for Bread, Soup and Cats
-4. Hunger Games Classic
-5. Rok Prasete
-6. Duše krve a popela
-7. Bridget and Gabe Are Not Okay
-8. Daggerbound
-9. Death Row
-10. Fantastic Beasts: The Secrets of Dumbledore
-11. The Knave and the Moon
-12. The Neverfear
-13. Verity
-14. Klekánice
-15. Alpy
-16. Vrozené srdeční vady v klinické praxi
-17. Fotovoltaika
-18. Počkej chvilku
-19. Encyklopedie jízdy na koni
-
----
-
-## 🕐 2026-09-14 12:30:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Čtení knih jako útočiště před rozhodovací únavou
-
----
-
-## 🕐 2026-09-13 11:36:40 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. Please Form Pairs
-2. I Hope This Email Finds You in Hell
-3. Blightfall
-4. Tempest
-5. Odyssey
-6. Fearful
-7. Nejisté útočiště
-8. Statečná Máša a šeptající slon
-9. Označená
-10. Právní a společenské důsledky samoty a osamělosti
-11. Deník psa Bressona
-12. Deník malého poseroutky 3 - Poslední kapka
-
----
-
-## 🕐 2026-09-13 11:36:39 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

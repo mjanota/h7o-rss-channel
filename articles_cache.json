@@ -1,13 +1,5 @@
 [
   {
-    "title": "Živá paměť obrázkového písma",
-    "url": "https://www.h7o.cz/clanky/14556-ziva-pamet-obrazkoveho-pisma",
-    "description": "Spisy Vladimíra Vokolka vycházely od roku 1994 v nakladatelství Atlantis. Po více než čtvrt století přibyl sedmý svazek s názvem „Živá paměť obrázkového písma“, který na téměř šesti stech stranách shrnuje autorovu esejistiku a publicistiku. Tímto svazkem se Vokolkovy spisy uzavírají.",
-    "date": "2026-06-23T00:00:00",
-    "author": "Milan Valden",
-    "category": "recenze"
-  },
-  {
     "title": "Stali jste se prostě příliš normálními",
     "url": "https://www.h7o.cz/clanky/14533-stali-jste-se-proste-prilis-normalnimi",
     "description": "Dánský bohemista a historik Peter Bugge loni vydal knihu „České světy“, v níž nabízí vhled do české kultury a literatury od 19. století. V rozhovoru v rámci série k letošnímu Bohemistickému kongresu reflektuje svůj vztah k Česku, stav dánské bohemistiky či nespolehlivost paměti v poznání minulosti.",
@@ -486,5 +478,13 @@
     "date": "2026-09-17T00:00:00",
     "author": "Kristýna Pavlík Vaněčková",
     "category": "rozhovor"
+  },
+  {
+    "title": "Když o osudu knih rozhodují algoritmy a influenceři",
+    "url": "https://www.h7o.cz/clanky/14609-kdyz-o-osudu-knih-rozhoduji-algoritmy-a-influenceri",
+    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, jak literární trh mění algoritmy.",
+    "date": "2026-09-21T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

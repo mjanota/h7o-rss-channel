@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 20 Sep 2026 11:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:37:03 +0000</lastBuildDate>
+    <item>
+      <title>Když o osudu knih rozhodují algoritmy a influenceři</title>
+      <link>https://www.h7o.cz/clanky/14609-kdyz-o-osudu-knih-rozhoduji-algoritmy-a-influenceri</link>
+      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, jak literární trh mění algoritmy.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14609-kdyz-o-osudu-knih-rozhoduji-algoritmy-a-influenceri</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Praha, hlavní město 20. století</title>
       <link>https://www.h7o.cz/clanky/14608-praha-hlavni-mesto-20-stoleti</link>
@@ -427,13 +434,6 @@
       <description>Dánský bohemista a historik Peter Bugge loni vydal knihu „České světy“, v níž nabízí vhled do české kultury a literatury od 19. století. V rozhovoru v rámci série k letošnímu Bohemistickému kongresu reflektuje svůj vztah k Česku, stav dánské bohemistiky či nespolehlivost paměti v poznání minulosti.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14533-stali-jste-se-proste-prilis-normalnimi</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Živá paměť obrázkového písma</title>
-      <link>https://www.h7o.cz/clanky/14556-ziva-pamet-obrazkoveho-pisma</link>
-      <description>Spisy Vladimíra Vokolka vycházely od roku 1994 v nakladatelství Atlantis. Po více než čtvrt století přibyl sedmý svazek s názvem „Živá paměť obrázkového písma“, který na téměř šesti stech stranách shrnuje autorovu esejistiku a publicistiku. Tímto svazkem se Vokolkovy spisy uzavírají.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14556-ziva-pamet-obrazkoveho-pisma</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
