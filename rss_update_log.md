@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-22 11:23:48 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Lucie Svěcená
+2. Lanovka na Petřín & Dějiny pražských lanových drah
+3. Když tě má každý rád, nikdo tě nebere vážně
+4. Sami proti sobě
+5. 14 krajů naší vlasti
+6. Nelži svému srdci
+7. Tajemná ruka s bodcem
+8. Černá kapradina
+9. Tanči srdcem
+10. HR bizár - To nevymyslíš!
+11. Kortizol v rovnováze
+12. Osm zpravodajců
+13. Kočičí král
+14. Můj pes
+15. Malá kniha etikety stolování
+16. Pauza pro duši
+17. Huberta Kočičková
+18. Jeho dcera
+19. Život není Lucifér
+20. Sammie a děda
+
+---
+
+## 🕐 2026-09-22 11:23:46 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Pravdu je třeba vynést z ohně
+
+---
+
 ## 🕐 2026-09-21 12:37:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
