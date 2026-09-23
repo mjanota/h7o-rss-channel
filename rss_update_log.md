@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-23 11:20:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Domácí procvičování - Matematika 1. ročník
+2. Domácí procvičování - Čeština 2. ročník
+3. Domácí procvičování - Čeština 3. ročník
+4. Domácí procvičování - Čeština 4. ročník
+5. Domácí procvičování - Čeština 5. ročník
+6. Domácí procvičování - Matematika 2. ročník
+7. Domácí procvičování - Matematika 3. ročník
+8. Domácí procvičování - Matematika 4. ročník
+9. Domácí procvičování - Matematika 5. ročník
+10. Aby škola dávala smysl
+11. Adaptace na vesnici
+12. Maxikniha pro předškoláky
+13. Snídaně na střeše vět
+14. Nedisponovatelnost
+15. Pracující suverén
+16. Černá zátoka
+17. Než roztaje sníh
+18. Vražda v hotelu Grand Alpine
+19. Můj čtenářský deník pro 1. stupeň
+20. Nová literatura 2 - učebnice
+
+---
+
+## 🕐 2026-09-23 11:20:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Singapur platí za čtení
+
+---
+
 ## 🕐 2026-09-22 11:23:48 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,99 +292,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Praha, hlavní město 20. století
-
----
-
-## 🕐 2026-09-16 11:20:24 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Nástěnný kalendář 2027– Dobré rady nad zlato
-2. Nástěnný plánovací kalendář 2027 – Rok v zahradě
-3. Stolní kalendář nedělní menu 2027 + Recepty z babiččiny zahrádky
-4. Zahradnický kalendář 2027 + Bylinkové zahrádky
-5. Nástěnný kalendář 2027– Jiří Trnka - Zahrada
-6. Nástěnný kalendář 2027– Andělský – Klára Trnková
-7. Hostina
-8. Retro vzpomínání
-9. Pes, který následoval hvězdy
-10. Horův vzestup
-11. Moje pražské křižovatky
-12. Muži kolem Hitlera
-13. Karanténa
-14. Křižánky včera a dnes
-15. Jílové u Prahy včera a dnes
-16. Poslední víla
-17. Žít jako učedníci
-18. Síla všestrannosti
-19. Mezi hořícími květinami
-20. Mé pravé jméno je Elisabeth
-
----
-
-## 🕐 2026-09-16 11:20:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Knihkupecký terorismus
-
----
-
-## 🕐 2026-09-15 11:33:56 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Rilla z Ingleside
-2. Chlast
-3. Bylo nebylo v druhohorách
-4. Málem jsem se pos*ala
-5. Páteční knihkupectví
-6. Psychedelické léčení
-7. Hotel Inkontinental
-8. Malá kniha o mimozemšťanech
-9. Pověsti, legendy a vyprávění z Doudlebska
-10. Konec filosofie a počátek nového myšlení
-11. Co je Vědomí
-12. Malý princ
-13. Anonymní historie 1. křížové výpravy
-14. Zakázané dědictví padlé rasy - Z popela andělů
-15. Bruno Schulz
-16. Obrana Odyssea
-17. Barevná matematika 2 pro 2.ročník základní školy
-18. Pidižvouk
-19. Válka světů
-
----
-
-## 🕐 2026-09-15 11:33:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Země, která roste před očima
 
 ---
 
