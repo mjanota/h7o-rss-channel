@@ -1,13 +1,5 @@
 [
   {
-    "title": "Přihořívá",
-    "url": "https://www.h7o.cz/clanky/14557-prihoriva",
-    "description": "První, co vás zabije, bude horko, tvrdí klimatický novinář Jeff Goodell v knize „Vedro. Život a smrt na spálené planetě“. Jeho kniha balancuje mezi kvalitní investigativní žurnalistikou a varovným environmentálním svědectvím.",
-    "date": "2026-06-26T00:00:00",
-    "author": "Ondřej Nezbeda",
-    "category": "recenze"
-  },
-  {
     "title": "Rychlejší než fotobuňka",
     "url": "https://www.h7o.cz/clanky/14558-rychlejsi-nez-fotobunka",
     "description": "„Mít společné zlozvyky vyvolává pocit lidské sounáležitosti. Připomíná nám to, že na pozadí ideologických přesvědčení jsme všichni jenom lidé,“ píše politoložka Anna Durnová ve svém sloupku.",
@@ -494,5 +486,13 @@
     "date": "2026-09-23T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Román, ručně kolorováno",
+    "url": "https://www.h7o.cz/clanky/14611-roman-rucne-kolorovano",
+    "description": "Rodinná historická sága „Lázár“ maďarského spisovatele Nelia Biedermanna je literární senzací. Jenže se ukazuje, že mezinárodní bestseller je spíš jen soubor kolorovaných pohlednic, v nichž barvy působí trošku nepřirozeně.",
+    "date": "2026-09-24T00:00:00",
+    "author": "Jan Němec",
+    "category": "recenze"
   }
 ]

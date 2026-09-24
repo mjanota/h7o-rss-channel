@@ -1,5 +1,183 @@
 [
   {
+    "title": "Knihkupectví Love Island",
+    "url": "https://www.kosmas.cz/knihy/572908/knihkupectvi-love-island/",
+    "description": "Knihkupectví Love Island - Kate Frost",
+    "authors": [
+      "Kate Frost"
+    ],
+    "date": "2026-09-24T11:33:13.184571+00:00"
+  },
+  {
+    "title": "Konec zrcadlového bludiště",
+    "url": "https://www.kosmas.cz/knihy/572897/konec-zrcadloveho-bludiste/",
+    "description": "Konec zrcadlového bludiště - Ivo Fencl",
+    "authors": [
+      "Ivo Fencl"
+    ],
+    "date": "2026-09-24T11:33:12.184571+00:00"
+  },
+  {
+    "title": "Jelen, vlk a motýl",
+    "url": "https://www.kosmas.cz/knihy/573796/jelen-vlk-a-motyl/",
+    "description": "Jelen, vlk a motýl - Aneta Plšková",
+    "authors": [
+      "Aneta Plšková"
+    ],
+    "date": "2026-09-24T11:33:11.184571+00:00"
+  },
+  {
+    "title": "Živoucí lék",
+    "url": "https://www.kosmas.cz/knihy/573836/zivouci-lek/",
+    "description": "Živoucí lék - Lina Zeldovich",
+    "authors": [
+      "Lina Zeldovich"
+    ],
+    "date": "2026-09-24T11:33:10.184571+00:00"
+  },
+  {
+    "title": "Wetemaa: Hrútvang",
+    "url": "https://www.kosmas.cz/knihy/573877/wetemaa-hrutvang/",
+    "description": "Wetemaa: Hrútvang - Adam Andres",
+    "authors": [
+      "Adam Andres"
+    ],
+    "date": "2026-09-24T11:33:09.184571+00:00"
+  },
+  {
+    "title": "Národ ve stínu",
+    "url": "https://www.kosmas.cz/knihy/573939/narod-ve-stinu/",
+    "description": "Národ ve stínu - Chris Horton",
+    "authors": [
+      "Chris Horton"
+    ],
+    "date": "2026-09-24T11:33:08.184571+00:00"
+  },
+  {
+    "title": "Santova vesnička",
+    "url": "https://www.kosmas.cz/knihy/573941/santova-vesnicka/",
+    "description": "Santova vesnička",
+    "authors": [],
+    "date": "2026-09-24T11:33:07.184571+00:00"
+  },
+  {
+    "title": "Amazing 22",
+    "url": "https://www.kosmas.cz/knihy/573955/amazing-22/",
+    "description": "Amazing 22",
+    "authors": [],
+    "date": "2026-09-24T11:33:06.184571+00:00"
+  },
+  {
+    "title": "Život bez studu - Soucitný průvodce odbourávání studu",
+    "url": "https://www.kosmas.cz/knihy/573956/zivot-bez-studu-soucitny-pruvodce-odbouravani-studu/",
+    "description": "Život bez studu - Soucitný průvodce odbourávání studu - David Bedrick",
+    "authors": [
+      "David Bedrick"
+    ],
+    "date": "2026-09-24T11:33:05.184571+00:00"
+  },
+  {
+    "title": "Matematika pro 2 ročník základní školy 2.díl",
+    "url": "https://www.kosmas.cz/knihy/572970/matematika-pro-2-rocnik-zakladni-skoly-2.dil/",
+    "description": "Matematika pro 2 ročník základní školy 2.díl - Miroslava Čížková Pišlova",
+    "authors": [
+      "Miroslava Čížková Pišlova"
+    ],
+    "date": "2026-09-24T11:33:04.184571+00:00"
+  },
+  {
+    "title": "Úžasný život a lásky Nelly Carterové",
+    "url": "https://www.kosmas.cz/knihy/573089/uzasny-zivot-a-lasky-nelly-carterove/",
+    "description": "Úžasný život a lásky Nelly Carterové - Brionni Nwosu",
+    "authors": [
+      "Brionni Nwosu"
+    ],
+    "date": "2026-09-24T11:33:03.184571+00:00"
+  },
+  {
+    "title": "Divadlo Járy Cimrmana",
+    "url": "https://www.kosmas.cz/knihy/564912/divadlo-jary-cimrmana/",
+    "description": "Divadlo Járy Cimrmana - Tomáš Maleček, Zdeněk Svěrák, kol.",
+    "authors": [
+      "Tomáš Maleček",
+      "Zdeněk Svěrák",
+      "kol."
+    ],
+    "date": "2026-09-24T11:33:02.184571+00:00"
+  },
+  {
+    "title": "Dědictví stínů",
+    "url": "https://www.kosmas.cz/knihy/573578/dedictvi-stinu/",
+    "description": "Dědictví stínů - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-09-24T11:33:01.184571+00:00"
+  },
+  {
+    "title": "Vraždy ve Snowdonii",
+    "url": "https://www.kosmas.cz/knihy/573579/vrazdy-ve-snowdonii/",
+    "description": "Vraždy ve Snowdonii - Simon McCleave",
+    "authors": [
+      "Simon McCleave"
+    ],
+    "date": "2026-09-24T11:33:00.184571+00:00"
+  },
+  {
+    "title": "Císařství ohně a žáru",
+    "url": "https://www.kosmas.cz/knihy/573581/cisarstvi-ohne-a-zaru/",
+    "description": "Císařství ohně a žáru - Jarmila Mlčoušková",
+    "authors": [
+      "Jarmila Mlčoušková"
+    ],
+    "date": "2026-09-24T11:32:59.184571+00:00"
+  },
+  {
+    "title": "Kroniky beskydských draků - Tajná mise Salamandr",
+    "url": "https://www.kosmas.cz/knihy/573582/kroniky-beskydskych-draku-tajna-mise-salamandr/",
+    "description": "Kroniky beskydských draků - Tajná mise Salamandr - Jan Tkáč",
+    "authors": [
+      "Jan Tkáč"
+    ],
+    "date": "2026-09-24T11:32:58.184571+00:00"
+  },
+  {
+    "title": "Popel k popelu",
+    "url": "https://www.kosmas.cz/knihy/573585/popel-k-popelu/",
+    "description": "Popel k popelu - Egon Trnka",
+    "authors": [
+      "Egon Trnka"
+    ],
+    "date": "2026-09-24T11:32:57.184571+00:00"
+  },
+  {
+    "title": "Come This Madness",
+    "url": "https://www.kosmas.cz/knihy/569928/come-this-madness/",
+    "description": "Come This Madness - Europe",
+    "authors": [
+      "Europe"
+    ],
+    "date": "2026-09-24T11:32:56.184571+00:00"
+  },
+  {
+    "title": "Julie Lakatošová",
+    "url": "https://www.kosmas.cz/knihy/570062/julie-lakatosova/",
+    "description": "Julie Lakatošová - Jana Guljuškina",
+    "authors": [
+      "Jana Guljuškina"
+    ],
+    "date": "2026-09-24T11:32:55.184571+00:00"
+  },
+  {
+    "title": "Na startovním roštu",
+    "url": "https://www.kosmas.cz/knihy/570158/na-startovnim-rostu/",
+    "description": "Na startovním roštu - Luke Smith",
+    "authors": [
+      "Luke Smith"
+    ],
+    "date": "2026-09-24T11:32:54.184571+00:00"
+  },
+  {
     "title": "Domácí procvičování - Matematika 1. ročník",
     "url": "https://www.kosmas.cz/knihy/572989/domaci-procvicovani-matematika-1.-rocnik/",
     "description": "Domácí procvičování - Matematika 1. ročník - Petr Šulc",
@@ -1629,179 +1807,5 @@
       "Martina Murphy"
     ],
     "date": "2026-09-13T11:36:24.230154+00:00"
-  },
-  {
-    "title": "Právní a společenské důsledky samoty a osamělosti",
-    "url": "https://www.kosmas.cz/knihy/573070/pravni-a-spolecenske-dusledky-samoty-a-osamelosti/",
-    "description": "Právní a společenské důsledky samoty a osamělosti - Daniela Kovářová",
-    "authors": [
-      "Daniela Kovářová"
-    ],
-    "date": "2026-09-13T11:36:23.230154+00:00"
-  },
-  {
-    "title": "Deník psa Bressona",
-    "url": "https://www.kosmas.cz/knihy/573090/denik-psa-bressona/",
-    "description": "Deník psa Bressona - Veronika Souralová",
-    "authors": [
-      "Veronika Souralová"
-    ],
-    "date": "2026-09-13T11:36:22.230154+00:00"
-  },
-  {
-    "title": "Deník malého poseroutky 3 - Poslední kapka",
-    "url": "https://www.kosmas.cz/knihy/573093/denik-maleho-poseroutky-3-posledni-kapka/",
-    "description": "Deník malého poseroutky 3 - Poslední kapka - Jeff Kinney",
-    "authors": [
-      "Jeff Kinney"
-    ],
-    "date": "2026-09-13T11:36:21.230154+00:00"
-  },
-  {
-    "title": "Andulčina andulata",
-    "url": "https://www.kosmas.cz/knihy/572520/andulcina-andulata/",
-    "description": "Andulčina andulata - Patrik Hartl",
-    "authors": [
-      "Patrik Hartl"
-    ],
-    "date": "2026-09-12T10:33:58.471637+00:00"
-  },
-  {
-    "title": "Zmizelá Šumava – S Emilem pěšky",
-    "url": "https://www.kosmas.cz/knihy/572597/zmizela-sumava-s-emilem-pesky/",
-    "description": "Zmizelá Šumava – S Emilem pěšky - Emil Kintzl",
-    "authors": [
-      "Emil Kintzl"
-    ],
-    "date": "2026-09-12T10:33:57.471637+00:00"
-  },
-  {
-    "title": "Dášeňka čili život štěněte",
-    "url": "https://www.kosmas.cz/knihy/572598/dasenka-cili-zivot-stenete/",
-    "description": "Dášeňka čili život štěněte - Karel Čapek",
-    "authors": [
-      "Karel Čapek"
-    ],
-    "date": "2026-09-12T10:33:56.471637+00:00"
-  },
-  {
-    "title": "Tak jsme se potkali",
-    "url": "https://www.kosmas.cz/knihy/572152/tak-jsme-se-potkali/",
-    "description": "Tak jsme se potkali - Kasie Westová",
-    "authors": [
-      "Kasie Westová"
-    ],
-    "date": "2026-09-12T10:33:55.471637+00:00"
-  },
-  {
-    "title": "Tsunami: Prázdniny v rytmu",
-    "url": "https://www.kosmas.cz/knihy/572153/tsunami-prazdniny-v-rytmu/",
-    "description": "Tsunami: Prázdniny v rytmu - Barbora Vajsejtlová",
-    "authors": [
-      "Barbora Vajsejtlová"
-    ],
-    "date": "2026-09-12T10:33:54.471637+00:00"
-  },
-  {
-    "title": "Druhá světová válka",
-    "url": "https://www.kosmas.cz/knihy/572741/druha-svetova-valka/",
-    "description": "Druhá světová válka - Dominic Sandbrook",
-    "authors": [
-      "Dominic Sandbrook"
-    ],
-    "date": "2026-09-12T10:33:53.471637+00:00"
-  },
-  {
-    "title": "Česnečka a upír",
-    "url": "https://www.kosmas.cz/knihy/572742/cesnecka-a-upir/",
-    "description": "Česnečka a upír - Bree Paulsen",
-    "authors": [
-      "Bree Paulsen"
-    ],
-    "date": "2026-09-12T10:33:52.471637+00:00"
-  },
-  {
-    "title": "Real Madrid (Fotbalové superhvězdy)",
-    "url": "https://www.kosmas.cz/knihy/572810/real-madrid-fotbalove-superhvezdy/",
-    "description": "Real Madrid (Fotbalové superhvězdy) - Dan Green, Simon Mugford",
-    "authors": [
-      "Dan Green",
-      "Simon Mugford"
-    ],
-    "date": "2026-09-12T10:33:51.471637+00:00"
-  },
-  {
-    "title": "Adventní kalendář se samolepkami Prasátko Peppa",
-    "url": "https://www.kosmas.cz/knihy/565780/adventni-kalendar-se-samolepkami-prasatko-peppa/",
-    "description": "Adventní kalendář se samolepkami Prasátko Peppa",
-    "authors": [],
-    "date": "2026-09-12T10:33:47.471637+00:00"
-  },
-  {
-    "title": "Adventní kalendář se samolepkami Ledové království",
-    "url": "https://www.kosmas.cz/knihy/565781/adventni-kalendar-se-samolepkami-ledove-kralovstvi/",
-    "description": "Adventní kalendář se samolepkami Ledové království",
-    "authors": [],
-    "date": "2026-09-12T10:33:46.471637+00:00"
-  },
-  {
-    "title": "Adventní kalendář se samolepkami Lilo & Stitch",
-    "url": "https://www.kosmas.cz/knihy/565782/adventni-kalendar-se-samolepkami-lilo-stitch/",
-    "description": "Adventní kalendář se samolepkami Lilo & Stitch",
-    "authors": [],
-    "date": "2026-09-12T10:33:45.471637+00:00"
-  },
-  {
-    "title": "0 1 2",
-    "url": "https://www.kosmas.cz/knihy/565283/0-1-2/",
-    "description": "0 1 2 - Daniel Wisser",
-    "authors": [
-      "Daniel Wisser"
-    ],
-    "date": "2026-09-12T10:33:44.471637+00:00"
-  },
-  {
-    "title": "Moje nejmilejší kočka",
-    "url": "https://www.kosmas.cz/knihy/565289/moje-nejmilejsi-kocka/",
-    "description": "Moje nejmilejší kočka",
-    "authors": [],
-    "date": "2026-09-12T10:33:43.471637+00:00"
-  },
-  {
-    "title": "Na kole kolem Pyrenejského ostrova",
-    "url": "https://www.kosmas.cz/knihy/572119/na-kole-kolem-pyrenejskeho-ostrova/",
-    "description": "Na kole kolem Pyrenejského ostrova - Vladimír Petrů",
-    "authors": [
-      "Vladimír Petrů"
-    ],
-    "date": "2026-09-12T10:33:42.471637+00:00"
-  },
-  {
-    "title": "Z kolébky do hrobu",
-    "url": "https://www.kosmas.cz/knihy/572149/z-kolebky-do-hrobu/",
-    "description": "Z kolébky do hrobu - Rachel Amphlett",
-    "authors": [
-      "Rachel Amphlett"
-    ],
-    "date": "2026-09-12T10:33:41.471637+00:00"
-  },
-  {
-    "title": "Pán prokletých jezdců",
-    "url": "https://www.kosmas.cz/knihy/572150/pan-prokletych-jezdcu/",
-    "description": "Pán prokletých jezdců - František Kalenda",
-    "authors": [
-      "František Kalenda"
-    ],
-    "date": "2026-09-12T10:33:40.471637+00:00"
-  },
-  {
-    "title": "Vyvrácené duše",
-    "url": "https://www.kosmas.cz/knihy/572258/vyvracene-duse/",
-    "description": "Vyvrácené duše - Emil Tréval, Petr Boček",
-    "authors": [
-      "Emil Tréval",
-      "Petr Boček"
-    ],
-    "date": "2026-09-11T11:04:42.747181+00:00"
   }
 ]

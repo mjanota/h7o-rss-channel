@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:33:10 +0000</lastBuildDate>
+    <item>
+      <title>Román, ručně kolorováno</title>
+      <link>https://www.h7o.cz/clanky/14611-roman-rucne-kolorovano</link>
+      <description>Rodinná historická sága „Lázár“ maďarského spisovatele Nelia Biedermanna je literární senzací. Jenže se ukazuje, že mezinárodní bestseller je spíš jen soubor kolorovaných pohlednic, v nichž barvy působí trošku nepřirozeně.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14611-roman-rucne-kolorovano</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Singapur platí za čtení</title>
       <link>https://www.h7o.cz/clanky/14612-singapur-plati-za-cteni</link>
@@ -434,13 +441,6 @@
       <description>„Mít společné zlozvyky vyvolává pocit lidské sounáležitosti. Připomíná nám to, že na pozadí ideologických přesvědčení jsme všichni jenom lidé,“ píše politoložka Anna Durnová ve svém sloupku.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14558-rychlejsi-nez-fotobunka</guid>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Přihořívá</title>
-      <link>https://www.h7o.cz/clanky/14557-prihoriva</link>
-      <description>První, co vás zabije, bude horko, tvrdí klimatický novinář Jeff Goodell v knize „Vedro. Život a smrt na spálené planetě“. Jeho kniha balancuje mezi kvalitní investigativní žurnalistikou a varovným environmentálním svědectvím.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14557-prihoriva</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-24 11:33:13 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Knihkupectví Love Island
+2. Konec zrcadlového bludiště
+3. Jelen, vlk a motýl
+4. Živoucí lék
+5. Wetemaa: Hrútvang
+6. Národ ve stínu
+7. Santova vesnička
+8. Amazing 22
+9. Život bez studu - Soucitný průvodce odbourávání studu
+10. Matematika pro 2 ročník základní školy 2.díl
+11. Úžasný život a lásky Nelly Carterové
+12. Divadlo Járy Cimrmana
+13. Dědictví stínů
+14. Vraždy ve Snowdonii
+15. Císařství ohně a žáru
+16. Kroniky beskydských draků - Tajná mise Salamandr
+17. Popel k popelu
+18. Come This Madness
+19. Julie Lakatošová
+20. Na startovním roštu
+
+---
+
+## 🕐 2026-09-24 11:33:10 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Román, ručně kolorováno
+
+---
+
 ## 🕐 2026-09-23 11:20:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -245,53 +292,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-09-17 11:28:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Art & Antiques 8-9/2026
-2. Téměř dokonalá
-3. A Bůh nikde
-4. Moderní učebnice hry na klávesy
-5. Stray Kids
-6. Cesta k přijímačkám s Robinem
-7. Běžící češtinář – příprava na přijímačky, 9. třída
-8. Běžící češtinář – příprava na přijímačky, 5. třída
-9. Běžící češtinář – příprava na přijímačky, 7. třída
-10. Nové příběhy se šťastným koncem – Nezbedný mýval
-11. Za oponou emocí
-12. Samolepková knížka – Roztomilé kočky
-13. Když máma spala
-14. Pomněnkové matky
-15. Poslední dopis
-16. Železné hory
-17. Milenci mocných: Moc, sex a ambice
-18. Pohádky kocoura Šikuly
-19. Všechno bylo krásné a nic nebolelo
-20. Větrné město - box
-
----
-
-## 🕐 2026-09-17 11:28:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Praha, hlavní město 20. století
 
 ---
 
