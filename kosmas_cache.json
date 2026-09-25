@@ -1,5 +1,179 @@
 [
   {
+    "title": "Neboj se tmy",
+    "url": "https://www.kosmas.cz/knihy/572750/neboj-se-tmy/",
+    "description": "Neboj se tmy - Per Moritz Stenborg",
+    "authors": [
+      "Per Moritz Stenborg"
+    ],
+    "date": "2026-09-25T11:39:25.706506+00:00"
+  },
+  {
+    "title": "Haleluja!",
+    "url": "https://www.kosmas.cz/knihy/573097/haleluja/",
+    "description": "Haleluja! - Hana Hegerová",
+    "authors": [
+      "Hana Hegerová"
+    ],
+    "date": "2026-09-25T11:39:24.706506+00:00"
+  },
+  {
+    "title": "Dětské detektivní příběhy s hádankou aneb Pátrači zasahují",
+    "url": "https://www.kosmas.cz/knihy/573929/detske-detektivni-pribehy-s-hadankou-aneb-patraci-zasahuji/",
+    "description": "Dětské detektivní příběhy s hádankou aneb Pátrači zasahují - Jaroslav Major, Alan Piskač",
+    "authors": [
+      "Jaroslav Major",
+      "Alan Piskač"
+    ],
+    "date": "2026-09-25T11:39:23.706506+00:00"
+  },
+  {
+    "title": "Svět koní - Čti a hraj si s námi",
+    "url": "https://www.kosmas.cz/knihy/573320/svet-koni-cti-a-hraj-si-s-nami/",
+    "description": "Svět koní - Čti a hraj si s námi",
+    "authors": [],
+    "date": "2026-09-25T11:39:22.706506+00:00"
+  },
+  {
+    "title": "Samolepková knížka – Kamarádi pejsci",
+    "url": "https://www.kosmas.cz/knihy/573488/samolepkova-knizka-kamaradi-pejsci/",
+    "description": "Samolepková knížka – Kamarádi pejsci - Jana Sedláčková",
+    "authors": [
+      "Jana Sedláčková"
+    ],
+    "date": "2026-09-25T11:39:21.706506+00:00"
+  },
+  {
+    "title": "Pastevcovy zápisky 3",
+    "url": "https://www.kosmas.cz/knihy/573496/pastevcovy-zapisky-3/",
+    "description": "Pastevcovy zápisky 3 - František Groessl",
+    "authors": [
+      "František Groessl"
+    ],
+    "date": "2026-09-25T11:39:20.706506+00:00"
+  },
+  {
+    "title": "Létající andělé",
+    "url": "https://www.kosmas.cz/knihy/573797/letajici-andele/",
+    "description": "Létající andělé - Danielle Steel",
+    "authors": [
+      "Danielle Steel"
+    ],
+    "date": "2026-09-25T11:39:19.706506+00:00"
+  },
+  {
+    "title": "Dark Verse - kniha druhá: Smrťák",
+    "url": "https://www.kosmas.cz/knihy/573958/dark-verse-kniha-druha-smrtak/",
+    "description": "Dark Verse - kniha druhá: Smrťák - RuNyx",
+    "authors": [
+      "RuNyx"
+    ],
+    "date": "2026-09-25T11:39:18.706506+00:00"
+  },
+  {
+    "title": "Tajemství pana M.",
+    "url": "https://www.kosmas.cz/knihy/573959/tajemstvi-pana-m/",
+    "description": "Tajemství pana M. - Natálie Pospíšilová, Pavel Šimák",
+    "authors": [
+      "Natálie Pospíšilová",
+      "Pavel Šimák"
+    ],
+    "date": "2026-09-25T11:39:17.706506+00:00"
+  },
+  {
+    "title": "Okna plná dálek",
+    "url": "https://www.kosmas.cz/knihy/573960/okna-plna-dalek/",
+    "description": "Okna plná dálek - Rainer Maria Rilke",
+    "authors": [
+      "Rainer Maria Rilke"
+    ],
+    "date": "2026-09-25T11:39:16.706506+00:00"
+  },
+  {
+    "title": "Tajemství kreslení Minecraftu",
+    "url": "https://www.kosmas.cz/knihy/573961/tajemstvi-kresleni-minecraftu/",
+    "description": "Tajemství kreslení Minecraftu - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-09-25T11:39:15.706506+00:00"
+  },
+  {
+    "title": "Muž, který sázel stromy - grafický román",
+    "url": "https://www.kosmas.cz/knihy/573962/muz-ktery-sazel-stromy-graficky-roman/",
+    "description": "Muž, který sázel stromy - grafický román - Jean Giono",
+    "authors": [
+      "Jean Giono"
+    ],
+    "date": "2026-09-25T11:39:14.706506+00:00"
+  },
+  {
+    "title": "Rafinované rozdíly pro chytré děti",
+    "url": "https://www.kosmas.cz/knihy/573964/rafinovane-rozdily-pro-chytre-deti/",
+    "description": "Rafinované rozdíly pro chytré děti",
+    "authors": [],
+    "date": "2026-09-25T11:39:13.706506+00:00"
+  },
+  {
+    "title": "A Little Princess / Malá princezna",
+    "url": "https://www.kosmas.cz/knihy/573965/a-little-princess-mala-princezna/",
+    "description": "A Little Princess / Malá princezna",
+    "authors": [],
+    "date": "2026-09-25T11:39:12.706506+00:00"
+  },
+  {
+    "title": "The Case-Book of Sherlock Holmes B1-B2 (Zápisník Sherlocka Holmese) - Zrcadlová četba",
+    "url": "https://www.kosmas.cz/knihy/573966/the-case-book-of-sherlock-holmes-b1-b2-zapisnik-sherlocka-holmese---cetba/",
+    "description": "The Case-Book of Sherlock Holmes B1-B2 (Zápisník Sherlocka Holmese) - Zrcadlová četba",
+    "authors": [],
+    "date": "2026-09-25T11:39:11.706506+00:00"
+  },
+  {
+    "title": "Krok do prázdna",
+    "url": "https://www.kosmas.cz/knihy/573969/krok-do-prazdna/",
+    "description": "Krok do prázdna - Ilona Dobrovolná",
+    "authors": [
+      "Ilona Dobrovolná"
+    ],
+    "date": "2026-09-25T11:39:10.706506+00:00"
+  },
+  {
+    "title": "Nedokonaná vražda",
+    "url": "https://www.kosmas.cz/knihy/573970/nedokonana-vrazda/",
+    "description": "Nedokonaná vražda - Stanislav Češka",
+    "authors": [
+      "Stanislav Češka"
+    ],
+    "date": "2026-09-25T11:39:09.706506+00:00"
+  },
+  {
+    "title": "Přezrálé moruše",
+    "url": "https://www.kosmas.cz/knihy/573971/prezrale-moruse/",
+    "description": "Přezrálé moruše - Jana Klimečková",
+    "authors": [
+      "Jana Klimečková"
+    ],
+    "date": "2026-09-25T11:39:08.706506+00:00"
+  },
+  {
+    "title": "Anička na řece",
+    "url": "https://www.kosmas.cz/knihy/573973/anicka-na-rece/",
+    "description": "Anička na řece - Ivana Peroutková",
+    "authors": [
+      "Ivana Peroutková"
+    ],
+    "date": "2026-09-25T11:39:07.706506+00:00"
+  },
+  {
+    "title": "Klub Zlatá hříva: První závody",
+    "url": "https://www.kosmas.cz/knihy/573974/klub-zlata-hriva-prvni-zavody/",
+    "description": "Klub Zlatá hříva: První závody - Táňa Šťastná",
+    "authors": [
+      "Táňa Šťastná"
+    ],
+    "date": "2026-09-25T11:39:06.706506+00:00"
+  },
+  {
     "title": "Knihkupectví Love Island",
     "url": "https://www.kosmas.cz/knihy/572908/knihkupectvi-love-island/",
     "description": "Knihkupectví Love Island - Kate Frost",
@@ -1624,188 +1798,5 @@
       "T. Kingfisher"
     ],
     "date": "2026-09-14T12:30:32.741002+00:00"
-  },
-  {
-    "title": "Death Row",
-    "url": "https://www.kosmas.cz/knihy/573205/death-row/",
-    "description": "Death Row - Freida McFadden",
-    "authors": [
-      "Freida McFadden"
-    ],
-    "date": "2026-09-14T12:30:31.741002+00:00"
-  },
-  {
-    "title": "Fantastic Beasts: The Secrets of Dumbledore",
-    "url": "https://www.kosmas.cz/knihy/573206/fantastic-beasts-the-secrets-of-dumbledore/",
-    "description": "Fantastic Beasts: The Secrets of Dumbledore - Joanne K. Rowlingová",
-    "authors": [
-      "Joanne K. Rowlingová"
-    ],
-    "date": "2026-09-14T12:30:30.741002+00:00"
-  },
-  {
-    "title": "The Knave and the Moon",
-    "url": "https://www.kosmas.cz/knihy/573210/the-knave-and-the-moon/",
-    "description": "The Knave and the Moon - Rachel Gillig",
-    "authors": [
-      "Rachel Gillig"
-    ],
-    "date": "2026-09-14T12:30:29.741002+00:00"
-  },
-  {
-    "title": "The Neverfear",
-    "url": "https://www.kosmas.cz/knihy/573212/the-neverfear/",
-    "description": "The Neverfear - Katherine Rundellová",
-    "authors": [
-      "Katherine Rundellová"
-    ],
-    "date": "2026-09-14T12:30:28.741002+00:00"
-  },
-  {
-    "title": "Verity",
-    "url": "https://www.kosmas.cz/knihy/573218/verity/",
-    "description": "Verity - Colleen Hooverová",
-    "authors": [
-      "Colleen Hooverová"
-    ],
-    "date": "2026-09-14T12:30:27.741002+00:00"
-  },
-  {
-    "title": "Klekánice",
-    "url": "https://www.kosmas.cz/knihy/573356/klekanice/",
-    "description": "Klekánice - Tereza Bartošová",
-    "authors": [
-      "Tereza Bartošová"
-    ],
-    "date": "2026-09-14T12:30:26.741002+00:00"
-  },
-  {
-    "title": "Alpy",
-    "url": "https://www.kosmas.cz/knihy/573383/alpy/",
-    "description": "Alpy - Michael Pröttel",
-    "authors": [
-      "Michael Pröttel"
-    ],
-    "date": "2026-09-14T12:30:25.741002+00:00"
-  },
-  {
-    "title": "Vrozené srdeční vady v klinické praxi",
-    "url": "https://www.kosmas.cz/knihy/573385/vrozene-srdecni-vady-v-klinicke-praxi/",
-    "description": "Vrozené srdeční vady v klinické praxi - Jan Pavlíček, kolektiv",
-    "authors": [
-      "Jan Pavlíček",
-      "kolektiv"
-    ],
-    "date": "2026-09-14T12:30:23.741002+00:00"
-  },
-  {
-    "title": "Fotovoltaika",
-    "url": "https://www.kosmas.cz/knihy/573386/fotovoltaika/",
-    "description": "Fotovoltaika - Roman Vaverka",
-    "authors": [
-      "Roman Vaverka"
-    ],
-    "date": "2026-09-14T12:30:22.741002+00:00"
-  },
-  {
-    "title": "Počkej chvilku",
-    "url": "https://www.kosmas.cz/knihy/573387/pockej-chvilku/",
-    "description": "Počkej chvilku - Rachel Williams",
-    "authors": [
-      "Rachel Williams"
-    ],
-    "date": "2026-09-14T12:30:21.741002+00:00"
-  },
-  {
-    "title": "Encyklopedie jízdy na koni",
-    "url": "https://www.kosmas.cz/knihy/573388/encyklopedie-jizdy-na-koni/",
-    "description": "Encyklopedie jízdy na koni - Jagoda Bojarczuk",
-    "authors": [
-      "Jagoda Bojarczuk"
-    ],
-    "date": "2026-09-14T12:30:20.741002+00:00"
-  },
-  {
-    "title": "Please Form Pairs",
-    "url": "https://www.kosmas.cz/knihy/572867/please-form-pairs/",
-    "description": "Please Form Pairs - Chiren Kina",
-    "authors": [
-      "Chiren Kina"
-    ],
-    "date": "2026-09-13T11:36:40.230154+00:00"
-  },
-  {
-    "title": "I Hope This Email Finds You in Hell",
-    "url": "https://www.kosmas.cz/knihy/572871/i-hope-this-email-finds-you-in-hell/",
-    "description": "I Hope This Email Finds You in Hell - Reed Mackenzie",
-    "authors": [
-      "Reed Mackenzie"
-    ],
-    "date": "2026-09-13T11:36:38.230154+00:00"
-  },
-  {
-    "title": "Blightfall",
-    "url": "https://www.kosmas.cz/knihy/572873/blightfall/",
-    "description": "Blightfall - Janci Patterson, Brandon Sanderson",
-    "authors": [
-      "Janci Patterson",
-      "Brandon Sanderson"
-    ],
-    "date": "2026-09-13T11:36:37.230154+00:00"
-  },
-  {
-    "title": "Tempest",
-    "url": "https://www.kosmas.cz/knihy/572874/tempest/",
-    "description": "Tempest - Victoria Aveyardová",
-    "authors": [
-      "Victoria Aveyardová"
-    ],
-    "date": "2026-09-13T11:36:36.230154+00:00"
-  },
-  {
-    "title": "Odyssey",
-    "url": "https://www.kosmas.cz/knihy/572876/odyssey/",
-    "description": "Odyssey - Homéros",
-    "authors": [
-      "Homéros"
-    ],
-    "date": "2026-09-13T11:36:35.230154+00:00"
-  },
-  {
-    "title": "Fearful",
-    "url": "https://www.kosmas.cz/knihy/572920/fearful/",
-    "description": "Fearful - Lauren Roberts",
-    "authors": [
-      "Lauren Roberts"
-    ],
-    "date": "2026-09-13T11:36:33.230154+00:00"
-  },
-  {
-    "title": "Nejisté útočiště",
-    "url": "https://www.kosmas.cz/knihy/572969/nejiste-utociste/",
-    "description": "Nejisté útočiště - Kateřina Čapková, Michal Frankl",
-    "authors": [
-      "Kateřina Čapková",
-      "Michal Frankl"
-    ],
-    "date": "2026-09-13T11:36:31.230154+00:00"
-  },
-  {
-    "title": "Statečná Máša a šeptající slon",
-    "url": "https://www.kosmas.cz/knihy/573067/statecna-masa-a-septajici-slon/",
-    "description": "Statečná Máša a šeptající slon - Michaela Narecki",
-    "authors": [
-      "Michaela Narecki"
-    ],
-    "date": "2026-09-13T11:36:25.230154+00:00"
-  },
-  {
-    "title": "Označená",
-    "url": "https://www.kosmas.cz/knihy/573069/oznacena/",
-    "description": "Označená - Martina Murphy",
-    "authors": [
-      "Martina Murphy"
-    ],
-    "date": "2026-09-13T11:36:24.230154+00:00"
   }
 ]
