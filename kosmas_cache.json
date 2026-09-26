@@ -1,5 +1,120 @@
 [
   {
+    "title": "Rány",
+    "url": "https://www.kosmas.cz/knihy/572626/rany/",
+    "description": "Rány - Petra Dvořáková",
+    "authors": [
+      "Petra Dvořáková"
+    ],
+    "date": "2026-09-26T11:13:29.564167+00:00"
+  },
+  {
+    "title": "Generace XY/XX",
+    "url": "https://www.kosmas.cz/knihy/573584/generace-xy-xx/",
+    "description": "Generace XY/XX - kolektiv autorů, Tomáš Prokůpek",
+    "authors": [
+      "kolektiv autorů",
+      "Tomáš Prokůpek"
+    ],
+    "date": "2026-09-26T11:13:28.564167+00:00"
+  },
+  {
+    "title": "Kalendář Česká příroda 2027",
+    "url": "https://www.kosmas.cz/knihy/573658/kalendar-ceska-priroda-2027/",
+    "description": "Kalendář Česká příroda 2027",
+    "authors": [],
+    "date": "2026-09-26T11:13:27.564167+00:00"
+  },
+  {
+    "title": "MAXI rodinný plánovač 2027",
+    "url": "https://www.kosmas.cz/knihy/573702/maxi-rodinny-planovac-2027/",
+    "description": "MAXI rodinný plánovač 2027",
+    "authors": [],
+    "date": "2026-09-26T11:13:26.564167+00:00"
+  },
+  {
+    "title": "Minecraft - Stavební chuťovky 6",
+    "url": "https://www.kosmas.cz/knihy/573755/minecraft-stavebni-chutovky-6/",
+    "description": "Minecraft - Stavební chuťovky 6 - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-09-26T11:13:25.564167+00:00"
+  },
+  {
+    "title": "Mazlíček snů",
+    "url": "https://www.kosmas.cz/knihy/573763/mazlicek-snu/",
+    "description": "Mazlíček snů - Altea Villa",
+    "authors": [
+      "Altea Villa"
+    ],
+    "date": "2026-09-26T11:13:24.564167+00:00"
+  },
+  {
+    "title": "Bluey - Výlet",
+    "url": "https://www.kosmas.cz/knihy/573768/bluey-vylet/",
+    "description": "Bluey - Výlet - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-09-26T11:13:23.564167+00:00"
+  },
+  {
+    "title": "Samolepková knížka – Veselí koně",
+    "url": "https://www.kosmas.cz/knihy/573769/samolepkova-knizka-veseli-kone/",
+    "description": "Samolepková knížka – Veselí koně - Jana Sedláčková",
+    "authors": [
+      "Jana Sedláčková"
+    ],
+    "date": "2026-09-26T11:13:22.564167+00:00"
+  },
+  {
+    "title": "Princezna a jednorožec - Kouzelné překvapení",
+    "url": "https://www.kosmas.cz/knihy/573774/princezna-a-jednorozec-kouzelne-prekvapeni/",
+    "description": "Princezna a jednorožec - Kouzelné překvapení - Zanni Louise, Kyla May",
+    "authors": [
+      "Zanni Louise",
+      "Kyla May"
+    ],
+    "date": "2026-09-26T11:13:21.564167+00:00"
+  },
+  {
+    "title": "Rodokmen ticha",
+    "url": "https://www.kosmas.cz/knihy/569690/rodokmen-ticha/",
+    "description": "Rodokmen ticha - Barbora Englischová",
+    "authors": [
+      "Barbora Englischová"
+    ],
+    "date": "2026-09-26T11:13:13.564167+00:00"
+  },
+  {
+    "title": "151 pádů na polární expedici Kungsleden",
+    "url": "https://www.kosmas.cz/knihy/569727/151-padu-na-polarni-expedici-kungsleden/",
+    "description": "151 pádů na polární expedici Kungsleden - Lucie Kutrová",
+    "authors": [
+      "Lucie Kutrová"
+    ],
+    "date": "2026-09-26T11:13:12.564167+00:00"
+  },
+  {
+    "title": "Popel ve vlasech",
+    "url": "https://www.kosmas.cz/knihy/569442/popel-ve-vlasech/",
+    "description": "Popel ve vlasech - Markéta Prášková",
+    "authors": [
+      "Markéta Prášková"
+    ],
+    "date": "2026-09-26T11:13:11.564167+00:00"
+  },
+  {
+    "title": "Zlatostříbrná fotbalová alej",
+    "url": "https://www.kosmas.cz/knihy/568611/zlatostribrna-fotbalova-alej/",
+    "description": "Zlatostříbrná fotbalová alej - Felix Boom",
+    "authors": [
+      "Felix Boom"
+    ],
+    "date": "2026-09-26T11:13:10.564167+00:00"
+  },
+  {
     "title": "Neboj se tmy",
     "url": "https://www.kosmas.cz/knihy/572750/neboj-se-tmy/",
     "description": "Neboj se tmy - Per Moritz Stenborg",
@@ -1681,122 +1796,5 @@
       "Andrew Collins"
     ],
     "date": "2026-09-15T11:33:43.386674+00:00"
-  },
-  {
-    "title": "Bruno Schulz",
-    "url": "https://www.kosmas.cz/knihy/573153/bruno-schulz/",
-    "description": "Bruno Schulz - Benjamin Balint",
-    "authors": [
-      "Benjamin Balint"
-    ],
-    "date": "2026-09-15T11:33:42.386674+00:00"
-  },
-  {
-    "title": "Obrana Odyssea",
-    "url": "https://www.kosmas.cz/knihy/573156/obrana-odyssea/",
-    "description": "Obrana Odyssea - Lubomír Martínek",
-    "authors": [
-      "Lubomír Martínek"
-    ],
-    "date": "2026-09-15T11:33:41.386674+00:00"
-  },
-  {
-    "title": "Barevná matematika 2 pro 2.ročník základní školy",
-    "url": "https://www.kosmas.cz/knihy/572977/barevna-matematika-2-pro-2.rocnik-zakladni-skoly/",
-    "description": "Barevná matematika 2 pro 2.ročník základní školy - Michaela Kaslová",
-    "authors": [
-      "Michaela Kaslová"
-    ],
-    "date": "2026-09-15T11:33:40.386674+00:00"
-  },
-  {
-    "title": "Pidižvouk",
-    "url": "https://www.kosmas.cz/knihy/572306/pidizvouk/",
-    "description": "Pidižvouk - Martin Daneš",
-    "authors": [
-      "Martin Daneš"
-    ],
-    "date": "2026-09-15T11:33:39.386674+00:00"
-  },
-  {
-    "title": "Válka světů",
-    "url": "https://www.kosmas.cz/knihy/573199/valka-svetu/",
-    "description": "Válka světů - Herbert George Wells",
-    "authors": [
-      "Herbert George Wells"
-    ],
-    "date": "2026-09-15T11:33:37.386674+00:00"
-  },
-  {
-    "title": "Summer Country Escape",
-    "url": "https://www.kosmas.cz/knihy/572870/summer-country-escape/",
-    "description": "Summer Country Escape - Julie Caplin",
-    "authors": [
-      "Julie Caplin"
-    ],
-    "date": "2026-09-14T12:30:39.741002+00:00"
-  },
-  {
-    "title": "Slaying the Vampire Conqueror",
-    "url": "https://www.kosmas.cz/knihy/572872/slaying-the-vampire-conqueror/",
-    "description": "Slaying the Vampire Conqueror - Carissa Broadbent",
-    "authors": [
-      "Carissa Broadbent"
-    ],
-    "date": "2026-09-14T12:30:38.741002+00:00"
-  },
-  {
-    "title": "A Day for Bread, Soup and Cats",
-    "url": "https://www.kosmas.cz/knihy/572875/a-day-for-bread-soup-and-cats/",
-    "description": "A Day for Bread, Soup and Cats - Yoko Mure",
-    "authors": [
-      "Yoko Mure"
-    ],
-    "date": "2026-09-14T12:30:37.741002+00:00"
-  },
-  {
-    "title": "Hunger Games Classic",
-    "url": "https://www.kosmas.cz/knihy/572919/hunger-games-classic/",
-    "description": "Hunger Games Classic - Suzanne Collins",
-    "authors": [
-      "Suzanne Collins"
-    ],
-    "date": "2026-09-14T12:30:36.741002+00:00"
-  },
-  {
-    "title": "Rok Prasete",
-    "url": "https://www.kosmas.cz/knihy/573188/rok-prasete/",
-    "description": "Rok Prasete - Carmen Mola",
-    "authors": [
-      "Carmen Mola"
-    ],
-    "date": "2026-09-14T12:30:35.741002+00:00"
-  },
-  {
-    "title": "Duše krve a popela",
-    "url": "https://www.kosmas.cz/knihy/573193/duse-krve-a-popela/",
-    "description": "Duše krve a popela - Jennifer L. Armentroutová",
-    "authors": [
-      "Jennifer L. Armentroutová"
-    ],
-    "date": "2026-09-14T12:30:34.741002+00:00"
-  },
-  {
-    "title": "Bridget and Gabe Are Not Okay",
-    "url": "https://www.kosmas.cz/knihy/573203/bridget-and-gabe-are-not-okay/",
-    "description": "Bridget and Gabe Are Not Okay - Lex Croucher",
-    "authors": [
-      "Lex Croucher"
-    ],
-    "date": "2026-09-14T12:30:33.741002+00:00"
-  },
-  {
-    "title": "Daggerbound",
-    "url": "https://www.kosmas.cz/knihy/573204/daggerbound/",
-    "description": "Daggerbound - T. Kingfisher",
-    "authors": [
-      "T. Kingfisher"
-    ],
-    "date": "2026-09-14T12:30:32.741002+00:00"
   }
 ]

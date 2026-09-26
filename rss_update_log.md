@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-26 11:13:29 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Rány
+2. Generace XY/XX
+3. Kalendář Česká příroda 2027
+4. MAXI rodinný plánovač 2027
+5. Minecraft - Stavební chuťovky 6
+6. Mazlíček snů
+7. Bluey - Výlet
+8. Samolepková knížka – Veselí koně
+9. Princezna a jednorožec - Kouzelné překvapení
+10. Rodokmen ticha
+11. 151 pádů na polární expedici Kungsleden
+12. Popel ve vlasech
+13. Zlatostříbrná fotbalová alej
+
+---
+
+## 🕐 2026-09-26 11:13:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-25 11:39:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -262,36 +298,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-09-20 11:07:53 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-09-19 10:45:13 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 7
-
-**Tituly nových položek:**
-
-1. Vzácný klenot
-2. Adam a Eva
-3. Máte rozepnutej batoh!
-4. Když loví Železný vlk
-5. Jezdci na velrybách
-6. Forbíny obrazů
-7. Pravda, nebo lež
-
----
-
-## 🕐 2026-09-19 10:45:04 UTC
 
 **Zdroj:** H7O - Časopis Host
 
