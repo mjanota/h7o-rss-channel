@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-27 11:52:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 12
+
+**Tituly nových položek:**
+
+1. Korn III- Remember Who You Are
+2. Kouzlo starých mostů v Čechách a na Moravě
+3. Plánovací kalendář •  kalendár 2027 nástěnný
+4. Kalendář World Wonders
+5. Síla odolnosti
+6. Záhadná vagina
+7. Medvědí škola
+8. Kde bydlí zvířátka
+9. Čteme s obrázky - Kočičiny kocourka Bertíka
+10. Mistr kompromisu – Antonín Švehla
+11. Volání hlubiny
+12. Města a sny
+
+---
+
+## 🕐 2026-09-27 11:52:21 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-26 11:13:29 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -273,37 +308,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Když o osudu knih rozhodují algoritmy a influenceři
-
----
-
-## 🕐 2026-09-20 11:07:54 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 8
-
-**Tituly nových položek:**
-
-1. Bass Persuades
-2. 40 let totálního masakrru
-3. Osudový žeton
-4. Rangers III.
-5. Lovci žen
-6. Omalovánky se strašidly
-7. Nástěnný kalendář 2027– Jiří Trnka – Zlatý věk
-8. Domaluj, vystřihni, postav
-
----
-
-## 🕐 2026-09-20 11:07:53 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
