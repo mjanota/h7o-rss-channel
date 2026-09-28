@@ -7,7 +7,77 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:38:16 +0000</lastBuildDate>
+    <item>
+      <title>Policejní vozidla</title>
+      <link>https://www.kosmas.cz/knihy/572817/policejni-vozidla/</link>
+      <description>Policejní vozidla - Francesco Tomasinelli</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572817/policejni-vozidla/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Démanty noci</title>
+      <link>https://www.kosmas.cz/knihy/573084/demanty-noci/</link>
+      <description>Démanty noci - Arnošt Lustig</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573084/demanty-noci/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vyškrabovací obrázky - Duhová zvířátka</title>
+      <link>https://www.kosmas.cz/knihy/573277/vyskrabovaci-obrazky-duhova-zviratka/</link>
+      <description>Vyškrabovací obrázky - Duhová zvířátka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573277/vyskrabovaci-obrazky-duhova-zviratka/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pravidla českého pravopisu</title>
+      <link>https://www.kosmas.cz/knihy/573287/pravidla-ceskeho-pravopisu/</link>
+      <description>Pravidla českého pravopisu - TZ-one</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573287/pravidla-ceskeho-pravopisu/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jednorožci - Čti a hraj si s námi</title>
+      <link>https://www.kosmas.cz/knihy/573319/jednorozci-cti-a-hraj-si-s-nami/</link>
+      <description>Jednorožci - Čti a hraj si s námi</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573319/jednorozci-cti-a-hraj-si-s-nami/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hrf hif huf</title>
+      <link>https://www.kosmas.cz/knihy/573430/hrf-hif-huf/</link>
+      <description>Hrf hif huf - Magdalena Rutová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573430/hrf-hif-huf/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuzný Lože</title>
+      <link>https://www.kosmas.cz/knihy/573446/nuzny-loze/</link>
+      <description>Nuzný Lože - Gabriela Poláková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573446/nuzny-loze/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heebie-Jeebies v CBGB´s: Tajná historie židovského punku</title>
+      <link>https://www.kosmas.cz/knihy/573470/heebie-jeebies-v-cbgb-s-tajna-historie-zidovskeho-punku/</link>
+      <description>Heebie-Jeebies v CBGB´s: Tajná historie židovského punku - Steven Lee Beeber</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573470/heebie-jeebies-v-cbgb-s-tajna-historie-zidovskeho-punku/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Francis (František) Korbel</title>
+      <link>https://www.kosmas.cz/knihy/573502/francis-frantisek-korbel/</link>
+      <description>Francis (František) Korbel - Jaroslav Olša jr.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573502/francis-frantisek-korbel/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Punkové rodičovství</title>
+      <link>https://www.kosmas.cz/knihy/572629/punkove-rodicovstvi/</link>
+      <description>Punkové rodičovství - Kristina Typovská</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572629/punkove-rodicovstvi/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:01 +0000</pubDate>
+    </item>
     <item>
       <title>Korn III- Remember Who You Are</title>
       <link>https://www.kosmas.cz/knihy/572979/korn-iii-remember-who-you-are/</link>
@@ -637,76 +707,6 @@
       <description>14 krajů naší vlasti - David Vávra</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/573792/14-kraju-nasi-vlasti/</guid>
       <pubDate>Tue, 22 Sep 2026 11:23:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nelži svému srdci</title>
-      <link>https://www.kosmas.cz/knihy/573804/nelzi-svemu-srdci/</link>
-      <description>Nelži svému srdci - Mishell Debnárová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573804/nelzi-svemu-srdci/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tajemná ruka s bodcem</title>
-      <link>https://www.kosmas.cz/knihy/572548/tajemna-ruka-s-bodcem/</link>
-      <description>Tajemná ruka s bodcem - Václav Mráz</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572548/tajemna-ruka-s-bodcem/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Černá kapradina</title>
-      <link>https://www.kosmas.cz/knihy/573083/cerna-kapradina/</link>
-      <description>Černá kapradina - M. K. Hardy</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573083/cerna-kapradina/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tanči srdcem</title>
-      <link>https://www.kosmas.cz/knihy/573165/tanci-srdcem/</link>
-      <description>Tanči srdcem - Alexis Daria</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573165/tanci-srdcem/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>HR bizár - To nevymyslíš!</title>
-      <link>https://www.kosmas.cz/knihy/571992/hr-bizar-to-nevymyslis/</link>
-      <description>HR bizár - To nevymyslíš! - Lucie Štáfová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571992/hr-bizar-to-nevymyslis/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kortizol v rovnováze</title>
-      <link>https://www.kosmas.cz/knihy/572128/kortizol-v-rovnovaze/</link>
-      <description>Kortizol v rovnováze - Marina Wrightová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/572128/kortizol-v-rovnovaze/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Osm zpravodajců</title>
-      <link>https://www.kosmas.cz/knihy/571345/osm-zpravodajcu/</link>
-      <description>Osm zpravodajců - Jiří Mikulka, Tomáš Řepa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571345/osm-zpravodajcu/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kočičí král</title>
-      <link>https://www.kosmas.cz/knihy/571350/kocici-kral/</link>
-      <description>Kočičí král - Martina Boučková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571350/kocici-kral/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Můj pes</title>
-      <link>https://www.kosmas.cz/knihy/571352/muj-pes/</link>
-      <description>Můj pes - Olivia Wakefordová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571352/muj-pes/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malá kniha etikety stolování</title>
-      <link>https://www.kosmas.cz/knihy/570308/mala-kniha-etikety-stolovani/</link>
-      <description>Malá kniha etikety stolování - Ladislav Špaček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/570308/mala-kniha-etikety-stolovani/</guid>
-      <pubDate>Tue, 22 Sep 2026 11:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 27 Sep 2026 11:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:38:15 +0000</lastBuildDate>
     <item>
       <title>Hamid Ismailov: Jen tak v Praze</title>
       <link>https://www.h7o.cz/clanky/14613-hamid-ismailov-jen-tak-v-praze</link>
@@ -434,13 +434,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14559-o-zvucich-vseho-druhu</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Řeky větvící se podzemím</title>
-      <link>https://www.h7o.cz/clanky/14572-reky-vetvici-se-podzemim</link>
-      <description>Minulý týden ve Francii zemřela ve věku 88 let význačná česká spisovatelka, překladatelka, esejistka a historička umění Věra Linhartová. Za jejím životem a tvorbou se ohlíží Jakub Vaněk.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14572-reky-vetvici-se-podzemim</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

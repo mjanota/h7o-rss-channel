@@ -1,5 +1,91 @@
 [
   {
+    "title": "Policejní vozidla",
+    "url": "https://www.kosmas.cz/knihy/572817/policejni-vozidla/",
+    "description": "Policejní vozidla - Francesco Tomasinelli",
+    "authors": [
+      "Francesco Tomasinelli"
+    ],
+    "date": "2026-09-28T13:38:16.777834+00:00"
+  },
+  {
+    "title": "Démanty noci",
+    "url": "https://www.kosmas.cz/knihy/573084/demanty-noci/",
+    "description": "Démanty noci - Arnošt Lustig",
+    "authors": [
+      "Arnošt Lustig"
+    ],
+    "date": "2026-09-28T13:38:15.777834+00:00"
+  },
+  {
+    "title": "Vyškrabovací obrázky - Duhová zvířátka",
+    "url": "https://www.kosmas.cz/knihy/573277/vyskrabovaci-obrazky-duhova-zviratka/",
+    "description": "Vyškrabovací obrázky - Duhová zvířátka",
+    "authors": [],
+    "date": "2026-09-28T13:38:13.777834+00:00"
+  },
+  {
+    "title": "Pravidla českého pravopisu",
+    "url": "https://www.kosmas.cz/knihy/573287/pravidla-ceskeho-pravopisu/",
+    "description": "Pravidla českého pravopisu - TZ-one",
+    "authors": [
+      "TZ-one"
+    ],
+    "date": "2026-09-28T13:38:11.777834+00:00"
+  },
+  {
+    "title": "Jednorožci - Čti a hraj si s námi",
+    "url": "https://www.kosmas.cz/knihy/573319/jednorozci-cti-a-hraj-si-s-nami/",
+    "description": "Jednorožci - Čti a hraj si s námi",
+    "authors": [],
+    "date": "2026-09-28T13:38:10.777834+00:00"
+  },
+  {
+    "title": "Hrf hif huf",
+    "url": "https://www.kosmas.cz/knihy/573430/hrf-hif-huf/",
+    "description": "Hrf hif huf - Magdalena Rutová",
+    "authors": [
+      "Magdalena Rutová"
+    ],
+    "date": "2026-09-28T13:38:08.777834+00:00"
+  },
+  {
+    "title": "Nuzný Lože",
+    "url": "https://www.kosmas.cz/knihy/573446/nuzny-loze/",
+    "description": "Nuzný Lože - Gabriela Poláková",
+    "authors": [
+      "Gabriela Poláková"
+    ],
+    "date": "2026-09-28T13:38:07.777834+00:00"
+  },
+  {
+    "title": "Heebie-Jeebies v CBGB´s: Tajná historie židovského punku",
+    "url": "https://www.kosmas.cz/knihy/573470/heebie-jeebies-v-cbgb-s-tajna-historie-zidovskeho-punku/",
+    "description": "Heebie-Jeebies v CBGB´s: Tajná historie židovského punku - Steven Lee Beeber",
+    "authors": [
+      "Steven Lee Beeber"
+    ],
+    "date": "2026-09-28T13:38:06.777834+00:00"
+  },
+  {
+    "title": "Francis (František) Korbel",
+    "url": "https://www.kosmas.cz/knihy/573502/francis-frantisek-korbel/",
+    "description": "Francis (František) Korbel - Jaroslav Olša jr.",
+    "authors": [
+      "Jaroslav Olša jr."
+    ],
+    "date": "2026-09-28T13:38:03.777834+00:00"
+  },
+  {
+    "title": "Punkové rodičovství",
+    "url": "https://www.kosmas.cz/knihy/572629/punkove-rodicovstvi/",
+    "description": "Punkové rodičovství - Kristina Typovská",
+    "authors": [
+      "Kristina Typovská"
+    ],
+    "date": "2026-09-28T13:38:01.777834+00:00"
+  },
+  {
     "title": "Korn III- Remember Who You Are",
     "url": "https://www.kosmas.cz/knihy/572979/korn-iii-remember-who-you-are/",
     "description": "Korn III- Remember Who You Are - Korn",
@@ -1693,101 +1779,5 @@
       "Douglas M. Kelley"
     ],
     "date": "2026-09-16T11:20:13.710724+00:00"
-  },
-  {
-    "title": "Karanténa",
-    "url": "https://www.kosmas.cz/knihy/573283/karantena/",
-    "description": "Karanténa - Petr Horák, Tomáš Jiránek, Jiří Razskazov",
-    "authors": [
-      "Petr Horák",
-      "Tomáš Jiránek",
-      "Jiří Razskazov"
-    ],
-    "date": "2026-09-16T11:20:12.710724+00:00"
-  },
-  {
-    "title": "Křižánky včera a dnes",
-    "url": "https://www.kosmas.cz/knihy/573402/krizanky-vcera-a-dnes/",
-    "description": "Křižánky včera a dnes - Jiří Houska, Milan Šustr, Adam Trávníček",
-    "authors": [
-      "Jiří Houska",
-      "Milan Šustr",
-      "Adam Trávníček"
-    ],
-    "date": "2026-09-16T11:20:11.710724+00:00"
-  },
-  {
-    "title": "Jílové u Prahy včera a dnes",
-    "url": "https://www.kosmas.cz/knihy/573403/jilove-u-prahy-vcera-a-dnes/",
-    "description": "Jílové u Prahy včera a dnes - Michael Antony, Šárka Juřinová, Alena Mullerová",
-    "authors": [
-      "Michael Antony",
-      "Šárka Juřinová",
-      "Alena Mullerová"
-    ],
-    "date": "2026-09-16T11:20:10.710724+00:00"
-  },
-  {
-    "title": "Poslední víla",
-    "url": "https://www.kosmas.cz/knihy/573500/posledni-vila/",
-    "description": "Poslední víla - Magdalena Takáčová",
-    "authors": [
-      "Magdalena Takáčová"
-    ],
-    "date": "2026-09-16T11:20:09.710724+00:00"
-  },
-  {
-    "title": "Žít jako učedníci",
-    "url": "https://www.kosmas.cz/knihy/572671/zit-jako-ucednici/",
-    "description": "Žít jako učedníci - Rowan Williams",
-    "authors": [
-      "Rowan Williams"
-    ],
-    "date": "2026-09-16T11:20:08.710724+00:00"
-  },
-  {
-    "title": "Síla všestrannosti",
-    "url": "https://www.kosmas.cz/knihy/572672/sila-vsestrannosti/",
-    "description": "Síla všestrannosti - David Epstein",
-    "authors": [
-      "David Epstein"
-    ],
-    "date": "2026-09-16T11:20:07.710724+00:00"
-  },
-  {
-    "title": "Mezi hořícími květinami",
-    "url": "https://www.kosmas.cz/knihy/572740/mezi-horicimi-kvetinami/",
-    "description": "Mezi hořícími květinami - Samantha Shannonová",
-    "authors": [
-      "Samantha Shannonová"
-    ],
-    "date": "2026-09-16T11:20:06.710724+00:00"
-  },
-  {
-    "title": "Mé pravé jméno je Elisabeth",
-    "url": "https://www.kosmas.cz/knihy/564908/me-prave-jmeno-je-elisabeth/",
-    "description": "Mé pravé jméno je Elisabeth - Adèle Yonová",
-    "authors": [
-      "Adèle Yonová"
-    ],
-    "date": "2026-09-16T11:20:05.710724+00:00"
-  },
-  {
-    "title": "Rilla z Ingleside",
-    "url": "https://www.kosmas.cz/knihy/572151/rilla-z-ingleside/",
-    "description": "Rilla z Ingleside - Lucy Maud Montgomeryová",
-    "authors": [
-      "Lucy Maud Montgomeryová"
-    ],
-    "date": "2026-09-15T11:33:56.386674+00:00"
-  },
-  {
-    "title": "Chlast",
-    "url": "https://www.kosmas.cz/knihy/573416/chlast/",
-    "description": "Chlast - Ondřej Sysel",
-    "authors": [
-      "Ondřej Sysel"
-    ],
-    "date": "2026-09-15T11:33:55.386674+00:00"
   }
 ]

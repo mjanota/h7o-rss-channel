@@ -5,6 +5,39 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-28 13:38:16 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 10
+
+**Tituly nových položek:**
+
+1. Policejní vozidla
+2. Démanty noci
+3. Vyškrabovací obrázky - Duhová zvířátka
+4. Pravidla českého pravopisu
+5. Jednorožci - Čti a hraj si s námi
+6. Hrf hif huf
+7. Nuzný Lože
+8. Heebie-Jeebies v CBGB´s: Tajná historie židovského punku
+9. Francis (František) Korbel
+10. Punkové rodičovství
+
+---
+
+## 🕐 2026-09-28 13:38:15 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-09-27 11:52:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -261,53 +294,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Pravdu je třeba vynést z ohně
-
----
-
-## 🕐 2026-09-21 12:37:05 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Žebrák - zapomenuté příběhy
-2. Bylo pozdě, pro mnohé už navždy
-3. Vystřihovánky - Pohádkové hrady
-4. Disney - Kuchařka mladých svišťů
-5. SpongeBob - Knížka na celý rok
-6. Rychlá kola
-7. Když Duben přichází
-8. Lesní sny
-9. Lovkyně ústřic
-10. Počkej na mě
-11. Popel ve vlasech
-12. Tři zločiny na dvoře Karla IV.
-13. Ve stínu jeřabiny
-14. Bass Persuades
-15. Na dvorku i na poli
-16. Příšerky - Hádanky se samolepkami - svítí ve tmě
-17. Vůně napalmu
-18. Černá kapradina
-19. Pohádky poslední záchrany (rodičů)
-20. Strava vytrvalců
-
----
-
-## 🕐 2026-09-21 12:37:03 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Když o osudu knih rozhodují algoritmy a influenceři
 
 ---
 
