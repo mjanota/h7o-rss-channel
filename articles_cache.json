@@ -1,13 +1,5 @@
 [
   {
-    "title": "O zvucích všeho druhu",
-    "url": "https://www.h7o.cz/clanky/14559-o-zvucich-vseho-druhu",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
-    "date": "2026-07-01T00:00:00",
-    "author": "Karolína Stehlíková",
-    "category": "sloupek"
-  },
-  {
     "title": "Hrdinu, prosím",
     "url": "https://www.h7o.cz/clanky/14535-hrdinu-prosim",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
@@ -486,5 +478,13 @@
     "date": "2026-09-25T00:00:00",
     "author": "Ondřej Nezbeda",
     "category": "beletrie"
+  },
+  {
+    "title": "Únava z obličejů",
+    "url": "https://www.h7o.cz/clanky/14614-unava-z-obliceju",
+    "description": "„Nechovám k lidem používajícím přední kameru averzi a selfies těch, které mám rád, svůj skromný lajk klidně poskytnu. Přesto mě někdy přepadá únava z obličejů a pocit, že bych mnohem raději viděl, jak tito lidé vidí,“ píše ve svém pravidelném sloupku pro Host básník Lubomír Tichý.",
+    "date": "2026-09-29T00:00:00",
+    "author": "Lubomír Tichý",
+    "category": "sloupek"
   }
 ]
