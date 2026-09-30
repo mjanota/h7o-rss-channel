@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hrdinu, prosím",
-    "url": "https://www.h7o.cz/clanky/14535-hrdinu-prosim",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
-    "date": "2026-07-02T00:00:00",
-    "author": "Vratislav Maňák",
-    "category": "sloupek"
-  },
-  {
     "title": "Déjà vu v České televizi",
     "url": "https://www.h7o.cz/clanky/14560-dej-vu-v-ceske-televizi",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
@@ -486,5 +478,13 @@
     "date": "2026-09-29T00:00:00",
     "author": "Lubomír Tichý",
     "category": "sloupek"
+  },
+  {
+    "title": "Dvojnásobný Booker?",
+    "url": "https://www.h7o.cz/clanky/14615-dvojnasobny-booker",
+    "description": "Bookerova cena oznámila užší nominace. Prestižní ocenění mohou získat mimo jiné už podruhé dřívější laureáti Marlon James a Douglas Stuart.",
+    "date": "2026-09-30T00:00:00",
+    "author": "Ondřej Nezbeda",
+    "category": "zprávy"
   }
 ]

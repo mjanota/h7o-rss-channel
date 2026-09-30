@@ -1,5 +1,187 @@
 [
   {
+    "title": "Kavárna druhých šancí",
+    "url": "https://www.kosmas.cz/knihy/574057/kavarna-druhych-sanci/",
+    "description": "Kavárna druhých šancí - Phaedra Patrick",
+    "authors": [
+      "Phaedra Patrick"
+    ],
+    "date": "2026-09-30T12:23:10.071238+00:00"
+  },
+  {
+    "title": "Hvězda nad arabským peklem",
+    "url": "https://www.kosmas.cz/knihy/574092/hvezda-nad-arabskym-peklem/",
+    "description": "Hvězda nad arabským peklem - Monika Wurmová",
+    "authors": [
+      "Monika Wurmová"
+    ],
+    "date": "2026-09-30T12:23:09.071238+00:00"
+  },
+  {
+    "title": "Seznam",
+    "url": "https://www.kosmas.cz/knihy/571098/seznam/",
+    "description": "Seznam - Steve Berry",
+    "authors": [
+      "Steve Berry"
+    ],
+    "date": "2026-09-30T12:23:08.071238+00:00"
+  },
+  {
+    "title": "Ela a kniha času",
+    "url": "https://www.kosmas.cz/knihy/574125/ela-a-kniha-casu/",
+    "description": "Ela a kniha času - S Black",
+    "authors": [
+      "S Black"
+    ],
+    "date": "2026-09-30T12:23:07.071238+00:00"
+  },
+  {
+    "title": "Řehka",
+    "url": "https://www.kosmas.cz/knihy/574128/rehka/",
+    "description": "Řehka - Ivan Hamšík, Karel Řehka",
+    "authors": [
+      "Ivan Hamšík",
+      "Karel Řehka"
+    ],
+    "date": "2026-09-30T12:23:06.071238+00:00"
+  },
+  {
+    "title": "Štěně, které se ztratilo o Vánocích",
+    "url": "https://www.kosmas.cz/knihy/573998/stene-ktere-se-ztratilo-o-vanocich/",
+    "description": "Štěně, které se ztratilo o Vánocích - Rose Waterbrooková",
+    "authors": [
+      "Rose Waterbrooková"
+    ],
+    "date": "2026-09-30T12:23:05.071238+00:00"
+  },
+  {
+    "title": "Lamine Yamal",
+    "url": "https://www.kosmas.cz/knihy/574131/lamine-yamal/",
+    "description": "Lamine Yamal - Luca Caioli",
+    "authors": [
+      "Luca Caioli"
+    ],
+    "date": "2026-09-30T12:23:04.071238+00:00"
+  },
+  {
+    "title": "My, hasiči",
+    "url": "https://www.kosmas.cz/knihy/574132/my-hasici/",
+    "description": "My, hasiči - Jan David",
+    "authors": [
+      "Jan David"
+    ],
+    "date": "2026-09-30T12:23:03.071238+00:00"
+  },
+  {
+    "title": "Píseň nad městem",
+    "url": "https://www.kosmas.cz/knihy/571790/pisen-nad-mestem/",
+    "description": "Píseň nad městem - Ewald Arenz",
+    "authors": [
+      "Ewald Arenz"
+    ],
+    "date": "2026-09-30T12:23:02.071238+00:00"
+  },
+  {
+    "title": "Já tomu říkám zen – jak tomu říkáš ty",
+    "url": "https://www.kosmas.cz/knihy/573442/ja-tomu-rikam-zen-jak-tomu-rikas-ty/",
+    "description": "Já tomu říkám zen – jak tomu říkáš ty - Jan Jeřábek",
+    "authors": [
+      "Jan Jeřábek"
+    ],
+    "date": "2026-09-30T12:23:01.071238+00:00"
+  },
+  {
+    "title": "Brouci, motýli, stonožky, štíři a další",
+    "url": "https://www.kosmas.cz/knihy/572813/brouci-motyli-stonozky-stiri-a-dalsi/",
+    "description": "Brouci, motýli, stonožky, štíři a další - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-09-30T12:23:00.071238+00:00"
+  },
+  {
+    "title": "Krušnohorsko za císaře pána",
+    "url": "https://www.kosmas.cz/knihy/572815/krusnohorsko-za-cisare-pana/",
+    "description": "Krušnohorsko za císaře pána - Pavel Scheufler",
+    "authors": [
+      "Pavel Scheufler"
+    ],
+    "date": "2026-09-30T12:22:59.071238+00:00"
+  },
+  {
+    "title": "Lada",
+    "url": "https://www.kosmas.cz/knihy/572843/lada/",
+    "description": "Lada - Josef Lada, Jiří Olič, Lev Pavluch, Viktor Lada",
+    "authors": [
+      "Josef Lada",
+      "Jiří Olič",
+      "Lev Pavluch",
+      "Viktor Lada"
+    ],
+    "date": "2026-09-30T12:22:58.071238+00:00"
+  },
+  {
+    "title": "Kniha rekordů Formule 1",
+    "url": "https://www.kosmas.cz/knihy/572877/kniha-rekordu-formule-1/",
+    "description": "Kniha rekordů Formule 1 - Bruce Jones",
+    "authors": [
+      "Bruce Jones"
+    ],
+    "date": "2026-09-30T12:22:57.071238+00:00"
+  },
+  {
+    "title": "Antická atletika",
+    "url": "https://www.kosmas.cz/knihy/572883/anticka-atletika/",
+    "description": "Antická atletika - Jean-Manuel Roubineau",
+    "authors": [
+      "Jean-Manuel Roubineau"
+    ],
+    "date": "2026-09-30T12:22:56.071238+00:00"
+  },
+  {
+    "title": "Kostra v kopcích",
+    "url": "https://www.kosmas.cz/knihy/572026/kostra-v-kopcich/",
+    "description": "Kostra v kopcích - Simon Brett",
+    "authors": [
+      "Simon Brett"
+    ],
+    "date": "2026-09-30T12:22:55.071238+00:00"
+  },
+  {
+    "title": "A pak listy zašeptaly...",
+    "url": "https://www.kosmas.cz/knihy/570223/a-pak-listy-zaseptaly/",
+    "description": "A pak listy zašeptaly... - Lukáš Frank",
+    "authors": [
+      "Lukáš Frank"
+    ],
+    "date": "2026-09-30T12:22:54.071238+00:00"
+  },
+  {
+    "title": "Dny ze skla",
+    "url": "https://www.kosmas.cz/knihy/570409/dny-ze-skla/",
+    "description": "Dny ze skla - Nicoletta Verna",
+    "authors": [
+      "Nicoletta Verna"
+    ],
+    "date": "2026-09-30T12:22:53.071238+00:00"
+  },
+  {
+    "title": "Noc baby jagy",
+    "url": "https://www.kosmas.cz/knihy/565757/noc-baby-jagy/",
+    "description": "Noc baby jagy - Akira Ótani",
+    "authors": [
+      "Akira Ótani"
+    ],
+    "date": "2026-09-30T12:22:52.071238+00:00"
+  },
+  {
+    "title": "Kalendář Česká krajina 2027",
+    "url": "https://www.kosmas.cz/knihy/573657/kalendar-ceska-krajina-2027/",
+    "description": "Kalendář Česká krajina 2027",
+    "authors": [],
+    "date": "2026-09-30T12:22:51.071238+00:00"
+  },
+  {
     "title": "Denní diář A5 Memory bílý s gumičkou 2027",
     "url": "https://www.kosmas.cz/knihy/573676/denni-diar-a5-memory-bily-s-gumickou-2027/",
     "description": "Denní diář A5 Memory bílý s gumičkou 2027",
@@ -1568,188 +1750,5 @@
       "Jiří Beňovský"
     ],
     "date": "2026-09-18T11:01:15.100375+00:00"
-  },
-  {
-    "title": "Přízrak jiné moderny",
-    "url": "https://www.kosmas.cz/knihy/573461/prizrak-jine-moderny/",
-    "description": "Přízrak jiné moderny - Michal Ajvaz",
-    "authors": [
-      "Michal Ajvaz"
-    ],
-    "date": "2026-09-18T11:01:14.100375+00:00"
-  },
-  {
-    "title": "Princezna Adiva",
-    "url": "https://www.kosmas.cz/knihy/573549/princezna-adiva/",
-    "description": "Princezna Adiva - Oldřiška Ciprová",
-    "authors": [
-      "Oldřiška Ciprová"
-    ],
-    "date": "2026-09-18T11:01:13.100375+00:00"
-  },
-  {
-    "title": "Pauza pro duši",
-    "url": "https://www.kosmas.cz/knihy/573575/pauza-pro-dusi/",
-    "description": "Pauza pro duši - Barbara Nesvadbová",
-    "authors": [
-      "Barbara Nesvadbová"
-    ],
-    "date": "2026-09-18T11:01:12.100375+00:00"
-  },
-  {
-    "title": "Malá kniha etikety stolování",
-    "url": "https://www.kosmas.cz/knihy/573576/mala-kniha-etikety-stolovani/",
-    "description": "Malá kniha etikety stolování - Ladislav Špaček",
-    "authors": [
-      "Ladislav Špaček"
-    ],
-    "date": "2026-09-18T11:01:11.100375+00:00"
-  },
-  {
-    "title": "Bestie",
-    "url": "https://www.kosmas.cz/knihy/573621/bestie/",
-    "description": "Bestie - Dominik Dán",
-    "authors": [
-      "Dominik Dán"
-    ],
-    "date": "2026-09-18T11:01:09.100375+00:00"
-  },
-  {
-    "title": "Krutí",
-    "url": "https://www.kosmas.cz/knihy/573627/kruti/",
-    "description": "Krutí - V.E. Schwab",
-    "authors": [
-      "V.E. Schwab"
-    ],
-    "date": "2026-09-18T11:01:07.100375+00:00"
-  },
-  {
-    "title": "Nechte se vést",
-    "url": "https://www.kosmas.cz/knihy/572324/nechte-se-vest/",
-    "description": "Nechte se vést - Laura Lynne Jacksonová",
-    "authors": [
-      "Laura Lynne Jacksonová"
-    ],
-    "date": "2026-09-18T11:01:06.100375+00:00"
-  },
-  {
-    "title": "Art & Antiques 8-9/2026",
-    "url": "https://www.kosmas.cz/knihy/563301/art-antiques-8-9-2026/",
-    "description": "Art & Antiques 8-9/2026",
-    "authors": [],
-    "date": "2026-09-17T11:28:17.367411+00:00"
-  },
-  {
-    "title": "Téměř dokonalá",
-    "url": "https://www.kosmas.cz/knihy/573091/temer-dokonala/",
-    "description": "Téměř dokonalá - Michala Ries",
-    "authors": [
-      "Michala Ries"
-    ],
-    "date": "2026-09-17T11:28:16.367411+00:00"
-  },
-  {
-    "title": "A Bůh nikde",
-    "url": "https://www.kosmas.cz/knihy/573133/a-buh-nikde/",
-    "description": "A Bůh nikde - Zdeněk Grmolec",
-    "authors": [
-      "Zdeněk Grmolec"
-    ],
-    "date": "2026-09-17T11:28:15.367411+00:00"
-  },
-  {
-    "title": "Moderní učebnice hry na klávesy",
-    "url": "https://www.kosmas.cz/knihy/573267/moderni-ucebnice-hry-na-klavesy/",
-    "description": "Moderní učebnice hry na klávesy - Jiří Dočkal",
-    "authors": [
-      "Jiří Dočkal"
-    ],
-    "date": "2026-09-17T11:28:14.367411+00:00"
-  },
-  {
-    "title": "Stray Kids",
-    "url": "https://www.kosmas.cz/knihy/573273/stray-kids/",
-    "description": "Stray Kids - Future Publishing",
-    "authors": [
-      "Future Publishing"
-    ],
-    "date": "2026-09-17T11:28:13.367411+00:00"
-  },
-  {
-    "title": "Cesta k přijímačkám s Robinem",
-    "url": "https://www.kosmas.cz/knihy/573280/cesta-k-prijimackam-s-robinem/",
-    "description": "Cesta k přijímačkám s Robinem - Marika Otta, Robin Řežábek",
-    "authors": [
-      "Marika Otta",
-      "Robin Řežábek"
-    ],
-    "date": "2026-09-17T11:28:12.367411+00:00"
-  },
-  {
-    "title": "Běžící češtinář – příprava na přijímačky, 9. třída",
-    "url": "https://www.kosmas.cz/knihy/573289/bezici-cestinar-priprava-na-prijimacky-9.-trida/",
-    "description": "Běžící češtinář – příprava na přijímačky, 9. třída - Jarmil Vepřek",
-    "authors": [
-      "Jarmil Vepřek"
-    ],
-    "date": "2026-09-17T11:28:11.367411+00:00"
-  },
-  {
-    "title": "Běžící češtinář – příprava na přijímačky, 5. třída",
-    "url": "https://www.kosmas.cz/knihy/573291/bezici-cestinar-priprava-na-prijimacky-5.-trida/",
-    "description": "Běžící češtinář – příprava na přijímačky, 5. třída - Jarmil Vepřek",
-    "authors": [
-      "Jarmil Vepřek"
-    ],
-    "date": "2026-09-17T11:28:10.367411+00:00"
-  },
-  {
-    "title": "Běžící češtinář – příprava na přijímačky, 7. třída",
-    "url": "https://www.kosmas.cz/knihy/573292/bezici-cestinar-priprava-na-prijimacky-7.-trida/",
-    "description": "Běžící češtinář – příprava na přijímačky, 7. třída - Jarmil Vepřek",
-    "authors": [
-      "Jarmil Vepřek"
-    ],
-    "date": "2026-09-17T11:28:09.367411+00:00"
-  },
-  {
-    "title": "Nové příběhy se šťastným koncem – Nezbedný mýval",
-    "url": "https://www.kosmas.cz/knihy/573357/nove-pribehy-se-stastnym-koncem-nezbedny-myval/",
-    "description": "Nové příběhy se šťastným koncem – Nezbedný mýval - Zuzana Pospíšilová",
-    "authors": [
-      "Zuzana Pospíšilová"
-    ],
-    "date": "2026-09-17T11:28:08.367411+00:00"
-  },
-  {
-    "title": "Za oponou emocí",
-    "url": "https://www.kosmas.cz/knihy/573360/za-oponou-emoci/",
-    "description": "Za oponou emocí - Petr Kosek, Jakub Vávra, Lenka Veitová, kolektiv",
-    "authors": [
-      "Petr Kosek",
-      "Jakub Vávra",
-      "Lenka Veitová",
-      "kolektiv"
-    ],
-    "date": "2026-09-17T11:28:07.367411+00:00"
-  },
-  {
-    "title": "Samolepková knížka – Roztomilé kočky",
-    "url": "https://www.kosmas.cz/knihy/573366/samolepkova-knizka-roztomile-kocky/",
-    "description": "Samolepková knížka – Roztomilé kočky - Malgorzata Detnerová, Jana Sedláčková",
-    "authors": [
-      "Malgorzata Detnerová",
-      "Jana Sedláčková"
-    ],
-    "date": "2026-09-17T11:28:06.367411+00:00"
-  },
-  {
-    "title": "Když máma spala",
-    "url": "https://www.kosmas.cz/knihy/573400/kdyz-mama-spala/",
-    "description": "Když máma spala - Beatrice Landovská",
-    "authors": [
-      "Beatrice Landovská"
-    ],
-    "date": "2026-09-17T11:28:05.367411+00:00"
   }
 ]

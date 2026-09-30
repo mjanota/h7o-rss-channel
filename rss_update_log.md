@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-09-30 12:23:10 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Kavárna druhých šancí
+2. Hvězda nad arabským peklem
+3. Seznam
+4. Ela a kniha času
+5. Řehka
+6. Štěně, které se ztratilo o Vánocích
+7. Lamine Yamal
+8. My, hasiči
+9. Píseň nad městem
+10. Já tomu říkám zen – jak tomu říkáš ty
+11. Brouci, motýli, stonožky, štíři a další
+12. Krušnohorsko za císaře pána
+13. Lada
+14. Kniha rekordů Formule 1
+15. Antická atletika
+16. Kostra v kopcích
+17. A pak listy zašeptaly...
+18. Dny ze skla
+19. Noc baby jagy
+20. Kalendář Česká krajina 2027
+
+---
+
+## 🕐 2026-09-30 12:23:09 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Dvojnásobný Booker?
+
+---
+
 ## 🕐 2026-09-29 12:37:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Román, ručně kolorováno
-
----
-
-## 🕐 2026-09-23 11:20:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Domácí procvičování - Matematika 1. ročník
-2. Domácí procvičování - Čeština 2. ročník
-3. Domácí procvičování - Čeština 3. ročník
-4. Domácí procvičování - Čeština 4. ročník
-5. Domácí procvičování - Čeština 5. ročník
-6. Domácí procvičování - Matematika 2. ročník
-7. Domácí procvičování - Matematika 3. ročník
-8. Domácí procvičování - Matematika 4. ročník
-9. Domácí procvičování - Matematika 5. ročník
-10. Aby škola dávala smysl
-11. Adaptace na vesnici
-12. Maxikniha pro předškoláky
-13. Snídaně na střeše vět
-14. Nedisponovatelnost
-15. Pracující suverén
-16. Černá zátoka
-17. Než roztaje sníh
-18. Vražda v hotelu Grand Alpine
-19. Můj čtenářský deník pro 1. stupeň
-20. Nová literatura 2 - učebnice
-
----
-
-## 🕐 2026-09-23 11:20:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Singapur platí za čtení
 
 ---
 
