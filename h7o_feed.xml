@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:58:19 +0000</lastBuildDate>
+    <item>
+      <title>Naděje není prognostika</title>
+      <link>https://www.h7o.cz/clanky/14616-nadeje-neni-prognostika</link>
+      <description>V Centru současného umění DOX dnes začíná festival umění, literatury a vzdělávání FALL. Heslem letošního ročníku organizátoři učinili výrok Naděje je stav mysli. Odkazují tím na Václava Havla, který by příští pondělí oslavil devadesátiny.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14616-nadeje-neni-prognostika</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dvojnásobný Booker?</title>
       <link>https://www.h7o.cz/clanky/14615-dvojnasobny-booker</link>
@@ -427,13 +434,6 @@
       <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Pokračujeme v sérii článků věnovaných českému hostování textem Jana Jindřicha Karáska o dětské literatuře.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14536-co-strezi-zahrada-detska-literatura-ve-frankfurtu</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Déjà vu v České televizi</title>
-      <link>https://www.h7o.cz/clanky/14560-dej-vu-v-ceske-televizi</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14560-dej-vu-v-ceske-televizi</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

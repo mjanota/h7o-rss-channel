@@ -1,5 +1,184 @@
 [
   {
+    "title": "Pláč straky",
+    "url": "https://www.kosmas.cz/knihy/572751/plac-straky/",
+    "description": "Pláč straky - Dana Beranová",
+    "authors": [
+      "Dana Beranová"
+    ],
+    "date": "2026-10-01T12:58:21.350796+00:00"
+  },
+  {
+    "title": "Česká teorie divadla jako hra a kvadratura kruhu",
+    "url": "https://www.kosmas.cz/knihy/572918/ceska-teorie-divadla-jako-hra-a-kvadratura-kruhu/",
+    "description": "Česká teorie divadla jako hra a kvadratura kruhu - Jan Hyvnar",
+    "authors": [
+      "Jan Hyvnar"
+    ],
+    "date": "2026-10-01T12:58:20.350796+00:00"
+  },
+  {
+    "title": "...abych vysvětlil budoucím pokolením",
+    "url": "https://www.kosmas.cz/knihy/572985/...abych-vysvetlil-budoucim-pokolenim/",
+    "description": "...abych vysvětlil budoucím pokolením - Antonín Špáta",
+    "authors": [
+      "Antonín Špáta"
+    ],
+    "date": "2026-10-01T12:58:19.350796+00:00"
+  },
+  {
+    "title": "365 nízkosacharidových receptů",
+    "url": "https://www.kosmas.cz/knihy/573789/365-nizkosacharidovych-receptu/",
+    "description": "365 nízkosacharidových receptů",
+    "authors": [],
+    "date": "2026-10-01T12:58:18.350796+00:00"
+  },
+  {
+    "title": "Esterčini otcové",
+    "url": "https://www.kosmas.cz/knihy/573860/estercini-otcove/",
+    "description": "Esterčini otcové - Hana Radulićová",
+    "authors": [
+      "Hana Radulićová"
+    ],
+    "date": "2026-10-01T12:58:17.350796+00:00"
+  },
+  {
+    "title": "Pražské stíny",
+    "url": "https://www.kosmas.cz/knihy/571926/prazske-stiny/",
+    "description": "Pražské stíny - Martin Becker, Tabea Soergel",
+    "authors": [
+      "Martin Becker",
+      "Tabea Soergel"
+    ],
+    "date": "2026-10-01T12:58:16.350796+00:00"
+  },
+  {
+    "title": "Digitální pevnost",
+    "url": "https://www.kosmas.cz/knihy/572109/digitalni-pevnost/",
+    "description": "Digitální pevnost - Dan Brown",
+    "authors": [
+      "Dan Brown"
+    ],
+    "date": "2026-10-01T12:58:15.350796+00:00"
+  },
+  {
+    "title": "Babča Gruffalová",
+    "url": "https://www.kosmas.cz/knihy/571630/babca-gruffalova/",
+    "description": "Babča Gruffalová - Julia Donaldson",
+    "authors": [
+      "Julia Donaldson"
+    ],
+    "date": "2026-10-01T12:58:14.350796+00:00"
+  },
+  {
+    "title": "Zdena Koubková: Příběh české rekordwoman",
+    "url": "https://www.kosmas.cz/knihy/572169/zdena-koubkova-pribeh-ceske-rekordwoman/",
+    "description": "Zdena Koubková: Příběh české rekordwoman - Pavel Kovář",
+    "authors": [
+      "Pavel Kovář"
+    ],
+    "date": "2026-10-01T12:58:13.350796+00:00"
+  },
+  {
+    "title": "Noc zmaru",
+    "url": "https://www.kosmas.cz/knihy/570120/noc-zmaru/",
+    "description": "Noc zmaru - Lars Mytting",
+    "authors": [
+      "Lars Mytting"
+    ],
+    "date": "2026-10-01T12:58:12.350796+00:00"
+  },
+  {
+    "title": "Merry Fucking Christmas",
+    "url": "https://www.kosmas.cz/knihy/570233/merry-fucking-christmas/",
+    "description": "Merry Fucking Christmas - Tess M. Puffrová",
+    "authors": [
+      "Tess M. Puffrová"
+    ],
+    "date": "2026-10-01T12:58:11.350796+00:00"
+  },
+  {
+    "title": "Ztracené případy",
+    "url": "https://www.kosmas.cz/knihy/570387/ztracene-pripady/",
+    "description": "Ztracené případy - John McMahon",
+    "authors": [
+      "John McMahon"
+    ],
+    "date": "2026-10-01T12:58:10.350796+00:00"
+  },
+  {
+    "title": "Právo pod plachtami",
+    "url": "https://www.kosmas.cz/knihy/573799/pravo-pod-plachtami/",
+    "description": "Právo pod plachtami - Jan Onheiser",
+    "authors": [
+      "Jan Onheiser"
+    ],
+    "date": "2026-10-01T12:58:09.350796+00:00"
+  },
+  {
+    "title": "My, hasiči",
+    "url": "https://www.kosmas.cz/knihy/573870/my-hasici/",
+    "description": "My, hasiči - Jan David",
+    "authors": [
+      "Jan David"
+    ],
+    "date": "2026-10-01T12:58:08.350796+00:00"
+  },
+  {
+    "title": "Dobřanské eklogy",
+    "url": "https://www.kosmas.cz/knihy/573957/dobranske-eklogy/",
+    "description": "Dobřanské eklogy - Jarmila Fríbová",
+    "authors": [
+      "Jarmila Fríbová"
+    ],
+    "date": "2026-10-01T12:58:07.350796+00:00"
+  },
+  {
+    "title": "Knížka pro duchovní radost",
+    "url": "https://www.kosmas.cz/knihy/573190/knizka-pro-duchovni-radost/",
+    "description": "Knížka pro duchovní radost - Apolinarie Rubešová",
+    "authors": [
+      "Apolinarie Rubešová"
+    ],
+    "date": "2026-10-01T12:58:06.350796+00:00"
+  },
+  {
+    "title": "Jsme jen náhoda?",
+    "url": "https://www.kosmas.cz/knihy/573191/jsme-jen-nahoda/",
+    "description": "Jsme jen náhoda? - Eduard Kejnovský",
+    "authors": [
+      "Eduard Kejnovský"
+    ],
+    "date": "2026-10-01T12:58:05.350796+00:00"
+  },
+  {
+    "title": "Hledá se Jane",
+    "url": "https://www.kosmas.cz/knihy/573211/hleda-se-jane/",
+    "description": "Hledá se Jane - Heather Marshall",
+    "authors": [
+      "Heather Marshall"
+    ],
+    "date": "2026-10-01T12:58:04.350796+00:00"
+  },
+  {
+    "title": "Sherlock Holmes – Stříbrný lysáček",
+    "url": "https://www.kosmas.cz/knihy/574042/sherlock-holmes-stribrny-lysacek/",
+    "description": "Sherlock Holmes – Stříbrný lysáček - Stephanie Baudet",
+    "authors": [
+      "Stephanie Baudet"
+    ],
+    "date": "2026-10-01T12:58:03.350796+00:00"
+  },
+  {
+    "title": "Židovka a démon",
+    "url": "https://www.kosmas.cz/knihy/574043/zidovka-a-demon/",
+    "description": "Židovka a démon - Eva Sychrová",
+    "authors": [
+      "Eva Sychrová"
+    ],
+    "date": "2026-10-01T12:58:02.350796+00:00"
+  },
+  {
     "title": "Kavárna druhých šancí",
     "url": "https://www.kosmas.cz/knihy/574057/kavarna-druhych-sanci/",
     "description": "Kavárna druhých šancí - Phaedra Patrick",
@@ -1573,182 +1752,5 @@
       "Jana Kalusová"
     ],
     "date": "2026-09-20T11:07:48.203370+00:00"
-  },
-  {
-    "title": "Nástěnný kalendář 2027– Jiří Trnka – Zlatý věk",
-    "url": "https://www.kosmas.cz/knihy/572612/nastenny-kalendar-2027-jiri-trnka-zlaty-vek/",
-    "description": "Nástěnný kalendář 2027– Jiří Trnka – Zlatý věk - Klára Trnková",
-    "authors": [
-      "Klára Trnková"
-    ],
-    "date": "2026-09-20T11:07:47.203370+00:00"
-  },
-  {
-    "title": "Domaluj, vystřihni, postav",
-    "url": "https://www.kosmas.cz/knihy/572613/domaluj-vystrihni-postav/",
-    "description": "Domaluj, vystřihni, postav - Radka Kneblová",
-    "authors": [
-      "Radka Kneblová"
-    ],
-    "date": "2026-09-20T11:07:46.203370+00:00"
-  },
-  {
-    "title": "Vzácný klenot",
-    "url": "https://www.kosmas.cz/knihy/573161/vzacny-klenot/",
-    "description": "Vzácný klenot - Mimi Matthews",
-    "authors": [
-      "Mimi Matthews"
-    ],
-    "date": "2026-09-19T10:45:13.960345+00:00"
-  },
-  {
-    "title": "Adam a Eva",
-    "url": "https://www.kosmas.cz/knihy/573201/adam-a-eva/",
-    "description": "Adam a Eva - Radim Hladík, Jaroslav Hutka",
-    "authors": [
-      "Radim Hladík",
-      "Jaroslav Hutka"
-    ],
-    "date": "2026-09-19T10:45:12.960345+00:00"
-  },
-  {
-    "title": "Máte rozepnutej batoh!",
-    "url": "https://www.kosmas.cz/knihy/573209/mate-rozepnutej-batoh/",
-    "description": "Máte rozepnutej batoh! - Jan Rejžek",
-    "authors": [
-      "Jan Rejžek"
-    ],
-    "date": "2026-09-19T10:45:11.960345+00:00"
-  },
-  {
-    "title": "Když loví Železný vlk",
-    "url": "https://www.kosmas.cz/knihy/573330/kdyz-lovi-zelezny-vlk/",
-    "description": "Když loví Železný vlk - Ondřej Pivoda",
-    "authors": [
-      "Ondřej Pivoda"
-    ],
-    "date": "2026-09-19T10:45:10.960345+00:00"
-  },
-  {
-    "title": "Jezdci na velrybách",
-    "url": "https://www.kosmas.cz/knihy/573332/jezdci-na-velrybach/",
-    "description": "Jezdci na velrybách - Ondřej Pivoda",
-    "authors": [
-      "Ondřej Pivoda"
-    ],
-    "date": "2026-09-19T10:45:09.960345+00:00"
-  },
-  {
-    "title": "Forbíny obrazů",
-    "url": "https://www.kosmas.cz/knihy/573472/forbiny-obrazu/",
-    "description": "Forbíny obrazů - Václav Hájek",
-    "authors": [
-      "Václav Hájek"
-    ],
-    "date": "2026-09-19T10:44:58.960345+00:00"
-  },
-  {
-    "title": "Pravda, nebo lež",
-    "url": "https://www.kosmas.cz/knihy/573588/pravda-nebo-lez/",
-    "description": "Pravda, nebo lež - Colleen Hooverová",
-    "authors": [
-      "Colleen Hooverová"
-    ],
-    "date": "2026-09-19T10:44:54.960345+00:00"
-  },
-  {
-    "title": "Hledám odpovědi",
-    "url": "https://www.kosmas.cz/knihy/565136/hledam-odpovedi/",
-    "description": "Hledám odpovědi - Arnošt Lustig",
-    "authors": [
-      "Arnošt Lustig"
-    ],
-    "date": "2026-09-18T11:01:25.100375+00:00"
-  },
-  {
-    "title": "Bydlíme na zahradě",
-    "url": "https://www.kosmas.cz/knihy/573148/bydlime-na-zahrade/",
-    "description": "Bydlíme na zahradě - Tereza Svobodová",
-    "authors": [
-      "Tereza Svobodová"
-    ],
-    "date": "2026-09-18T11:01:24.100375+00:00"
-  },
-  {
-    "title": "Japonská letadla druhé světové války",
-    "url": "https://www.kosmas.cz/knihy/573345/japonska-letadla-druhe-svetove-valky/",
-    "description": "Japonská letadla druhé světové války - Thomas Newdick",
-    "authors": [
-      "Thomas Newdick"
-    ],
-    "date": "2026-09-18T11:01:23.100375+00:00"
-  },
-  {
-    "title": "Kreativní proměny a recyklace",
-    "url": "https://www.kosmas.cz/knihy/573346/kreativni-promeny-a-recyklace/",
-    "description": "Kreativní proměny a recyklace",
-    "authors": [],
-    "date": "2026-09-18T11:01:22.100375+00:00"
-  },
-  {
-    "title": "Atomové návyky – Workbook",
-    "url": "https://www.kosmas.cz/knihy/573347/atomove-navyky-workbook/",
-    "description": "Atomové návyky – Workbook - James Clear",
-    "authors": [
-      "James Clear"
-    ],
-    "date": "2026-09-18T11:01:21.100375+00:00"
-  },
-  {
-    "title": "Pletení prsty pro začátečníky",
-    "url": "https://www.kosmas.cz/knihy/573349/pleteni-prsty-pro-zacatecniky/",
-    "description": "Pletení prsty pro začátečníky",
-    "authors": [],
-    "date": "2026-09-18T11:01:20.100375+00:00"
-  },
-  {
-    "title": "Háčkujeme Amigurumi",
-    "url": "https://www.kosmas.cz/knihy/573350/hackujeme-amigurumi/",
-    "description": "Háčkujeme Amigurumi",
-    "authors": [],
-    "date": "2026-09-18T11:01:19.100375+00:00"
-  },
-  {
-    "title": "Lovec příšer",
-    "url": "https://www.kosmas.cz/knihy/573355/lovec-priser/",
-    "description": "Lovec příšer - Jeff Gunhus",
-    "authors": [
-      "Jeff Gunhus"
-    ],
-    "date": "2026-09-18T11:01:18.100375+00:00"
-  },
-  {
-    "title": "Kognitivně-behaviorální terapie v praxi",
-    "url": "https://www.kosmas.cz/knihy/573431/kognitivne-behavioralni-terapie-v-praxi/",
-    "description": "Kognitivně-behaviorální terapie v praxi - Roman Pešek, Ján Praško, Petr Štípek",
-    "authors": [
-      "Roman Pešek",
-      "Ján Praško",
-      "Petr Štípek"
-    ],
-    "date": "2026-09-18T11:01:17.100375+00:00"
-  },
-  {
-    "title": "Hranice",
-    "url": "https://www.kosmas.cz/knihy/573439/hranice/",
-    "description": "Hranice - Lewis Baston",
-    "authors": [
-      "Lewis Baston"
-    ],
-    "date": "2026-09-18T11:01:16.100375+00:00"
-  },
-  {
-    "title": "Druhé vědomí",
-    "url": "https://www.kosmas.cz/knihy/573459/druhe-vedomi/",
-    "description": "Druhé vědomí - Jiří Beňovský",
-    "authors": [
-      "Jiří Beňovský"
-    ],
-    "date": "2026-09-18T11:01:15.100375+00:00"
   }
 ]

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-01 12:58:21 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Pláč straky
+2. Česká teorie divadla jako hra a kvadratura kruhu
+3. ...abych vysvětlil budoucím pokolením
+4. 365 nízkosacharidových receptů
+5. Esterčini otcové
+6. Pražské stíny
+7. Digitální pevnost
+8. Babča Gruffalová
+9. Zdena Koubková: Příběh české rekordwoman
+10. Noc zmaru
+11. Merry Fucking Christmas
+12. Ztracené případy
+13. Právo pod plachtami
+14. My, hasiči
+15. Dobřanské eklogy
+16. Knížka pro duchovní radost
+17. Jsme jen náhoda?
+18. Hledá se Jane
+19. Sherlock Holmes – Stříbrný lysáček
+20. Židovka a démon
+
+---
+
+## 🕐 2026-10-01 12:58:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Naděje není prognostika
+
+---
+
 ## 🕐 2026-09-30 12:23:10 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hamid Ismailov: Jen tak v Praze
-
----
-
-## 🕐 2026-09-24 11:33:13 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Knihkupectví Love Island
-2. Konec zrcadlového bludiště
-3. Jelen, vlk a motýl
-4. Živoucí lék
-5. Wetemaa: Hrútvang
-6. Národ ve stínu
-7. Santova vesnička
-8. Amazing 22
-9. Život bez studu - Soucitný průvodce odbourávání studu
-10. Matematika pro 2 ročník základní školy 2.díl
-11. Úžasný život a lásky Nelly Carterové
-12. Divadlo Járy Cimrmana
-13. Dědictví stínů
-14. Vraždy ve Snowdonii
-15. Císařství ohně a žáru
-16. Kroniky beskydských draků - Tajná mise Salamandr
-17. Popel k popelu
-18. Come This Madness
-19. Julie Lakatošová
-20. Na startovním roštu
-
----
-
-## 🕐 2026-09-24 11:33:10 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Román, ručně kolorováno
 
 ---
 

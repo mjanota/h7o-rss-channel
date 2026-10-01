@@ -1,13 +1,5 @@
 [
   {
-    "title": "Déjà vu v České televizi",
-    "url": "https://www.h7o.cz/clanky/14560-dej-vu-v-ceske-televizi",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
-    "date": "2026-07-03T00:00:00",
-    "author": "Karel Hvížďala",
-    "category": "sloupek"
-  },
-  {
     "title": "Ruština v Bělorusku",
     "url": "https://www.h7o.cz/clanky/14561-rustina-v-belorusku",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek překladatele Libora Dvořáka z roku 2021.",
@@ -485,6 +477,14 @@
     "description": "Bookerova cena oznámila užší nominace. Prestižní ocenění mohou získat mimo jiné už podruhé dřívější laureáti Marlon James a Douglas Stuart.",
     "date": "2026-09-30T00:00:00",
     "author": "Ondřej Nezbeda",
+    "category": "zprávy"
+  },
+  {
+    "title": "Naděje není prognostika",
+    "url": "https://www.h7o.cz/clanky/14616-nadeje-neni-prognostika",
+    "description": "V Centru současného umění DOX dnes začíná festival umění, literatury a vzdělávání FALL. Heslem letošního ročníku organizátoři učinili výrok Naděje je stav mysli. Odkazují tím na Václava Havla, který by příští pondělí oslavil devadesátiny.",
+    "date": "2026-10-01T00:00:00",
+    "author": "Jan Němec",
     "category": "zprávy"
   }
 ]
