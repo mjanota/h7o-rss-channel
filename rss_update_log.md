@@ -5,6 +5,50 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-02 12:20:37 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 17
+
+**Tituly nových položek:**
+
+1. Annie Bot
+2. Příběh české reklamy v 1. polovině 20. století
+3. Moderní dětská a dorostová psychiatrie
+4. Děs
+5. Navzdory všemu
+6. Život zálesáka
+7. Prague, My Love
+8. Křečkopedie
+9. Superletí
+10. Malý atlas lokomotiv 2027
+11. Kontexty 4/2026
+12. Gábinin Kouzelný domek - Mňau-žasné pohádky
+13. Podkin Jednoouško: Uki a vyhnanci
+14. Kočky a jejich magie
+15. S ex až na věky
+16. I slunce vychází
+17. Když se narodí SOVA
+
+---
+
+## 🕐 2026-10-02 12:20:34 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Norská lekce z Frankfurtu
+
+---
+
 ## 🕐 2026-10-01 12:58:21 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +290,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-09-25 11:39:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Neboj se tmy
-2. Haleluja!
-3. Dětské detektivní příběhy s hádankou aneb Pátrači zasahují
-4. Svět koní - Čti a hraj si s námi
-5. Samolepková knížka – Kamarádi pejsci
-6. Pastevcovy zápisky 3
-7. Létající andělé
-8. Dark Verse - kniha druhá: Smrťák
-9. Tajemství pana M.
-10. Okna plná dálek
-11. Tajemství kreslení Minecraftu
-12. Muž, který sázel stromy - grafický román
-13. Rafinované rozdíly pro chytré děti
-14. A Little Princess / Malá princezna
-15. The Case-Book of Sherlock Holmes B1-B2 (Zápisník Sherlocka Holmese) - Zrcadlová četba
-16. Krok do prázdna
-17. Nedokonaná vražda
-18. Přezrálé moruše
-19. Anička na řece
-20. Klub Zlatá hříva: První závody
-
----
-
-## 🕐 2026-09-25 11:39:24 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hamid Ismailov: Jen tak v Praze
 
 ---
 

@@ -1,5 +1,163 @@
 [
   {
+    "title": "Annie Bot",
+    "url": "https://www.kosmas.cz/knihy/573449/annie-bot/",
+    "description": "Annie Bot - Sierra Greer",
+    "authors": [
+      "Sierra Greer"
+    ],
+    "date": "2026-10-02T12:20:37.147865+00:00"
+  },
+  {
+    "title": "Příběh české reklamy v 1. polovině 20. století",
+    "url": "https://www.kosmas.cz/knihy/572645/pribeh-ceske-reklamy-v-1.-polovine-20.-stoleti/",
+    "description": "Příběh české reklamy v 1. polovině 20. století - Dušan Pavlů",
+    "authors": [
+      "Dušan Pavlů"
+    ],
+    "date": "2026-10-02T12:20:36.147865+00:00"
+  },
+  {
+    "title": "Moderní dětská a dorostová psychiatrie",
+    "url": "https://www.kosmas.cz/knihy/572646/moderni-detska-a-dorostova-psychiatrie/",
+    "description": "Moderní dětská a dorostová psychiatrie - eds Dud Iva, Michal Hrdlička, Jana Kocourková, Jiří Koutek",
+    "authors": [
+      "eds Dud Iva",
+      "Michal Hrdlička",
+      "Jana Kocourková",
+      "Jiří Koutek"
+    ],
+    "date": "2026-10-02T12:20:35.147865+00:00"
+  },
+  {
+    "title": "Děs",
+    "url": "https://www.kosmas.cz/knihy/572141/des/",
+    "description": "Děs - Robert Bryndza",
+    "authors": [
+      "Robert Bryndza"
+    ],
+    "date": "2026-10-02T12:20:34.147865+00:00"
+  },
+  {
+    "title": "Navzdory všemu",
+    "url": "https://www.kosmas.cz/knihy/574171/navzdory-vsemu/",
+    "description": "Navzdory všemu - Corinne Michaels",
+    "authors": [
+      "Corinne Michaels"
+    ],
+    "date": "2026-10-02T12:20:33.147865+00:00"
+  },
+  {
+    "title": "Život zálesáka",
+    "url": "https://www.kosmas.cz/knihy/572182/zivot-zalesaka/",
+    "description": "Život zálesáka - Matěj Houška",
+    "authors": [
+      "Matěj Houška"
+    ],
+    "date": "2026-10-02T12:20:32.147865+00:00"
+  },
+  {
+    "title": "Prague, My Love",
+    "url": "https://www.kosmas.cz/knihy/572582/prague-my-love/",
+    "description": "Prague, My Love - Ivan Klíma",
+    "authors": [
+      "Ivan Klíma"
+    ],
+    "date": "2026-10-02T12:20:31.147865+00:00"
+  },
+  {
+    "title": "Křečkopedie",
+    "url": "https://www.kosmas.cz/knihy/573839/kreckopedie/",
+    "description": "Křečkopedie - Denisa Štefunková, Balázs Horváth",
+    "authors": [
+      "Denisa Štefunková",
+      "Balázs Horváth"
+    ],
+    "date": "2026-10-02T12:20:30.147865+00:00"
+  },
+  {
+    "title": "Superletí",
+    "url": "https://www.kosmas.cz/knihy/573891/superleti/",
+    "description": "Superletí - Eric Topol",
+    "authors": [
+      "Eric Topol"
+    ],
+    "date": "2026-10-02T12:20:29.147865+00:00"
+  },
+  {
+    "title": "Malý atlas lokomotiv 2027",
+    "url": "https://www.kosmas.cz/knihy/574105/maly-atlas-lokomotiv-2027/",
+    "description": "Malý atlas lokomotiv 2027 - Jaromír Bittner, Jaroslav Křenek, Bohumil Skála, Milan Šrámek",
+    "authors": [
+      "Jaromír Bittner",
+      "Jaroslav Křenek",
+      "Bohumil Skála",
+      "Milan Šrámek"
+    ],
+    "date": "2026-10-02T12:20:28.147865+00:00"
+  },
+  {
+    "title": "Kontexty 4/2026",
+    "url": "https://www.kosmas.cz/knihy/574151/kontexty-4-2026/",
+    "description": "Kontexty 4/2026",
+    "authors": [],
+    "date": "2026-10-02T12:20:27.147865+00:00"
+  },
+  {
+    "title": "Gábinin Kouzelný domek - Mňau-žasné pohádky",
+    "url": "https://www.kosmas.cz/knihy/573858/gabinin-kouzelny-domek-mnau-zasne-pohadky/",
+    "description": "Gábinin Kouzelný domek - Mňau-žasné pohádky - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-10-02T12:20:24.147865+00:00"
+  },
+  {
+    "title": "Podkin Jednoouško: Uki a vyhnanci",
+    "url": "https://www.kosmas.cz/knihy/574202/podkin-jednoousko-uki-a-vyhnanci/",
+    "description": "Podkin Jednoouško: Uki a vyhnanci - Kieran Larwood",
+    "authors": [
+      "Kieran Larwood"
+    ],
+    "date": "2026-10-02T12:20:23.147865+00:00"
+  },
+  {
+    "title": "Kočky a jejich magie",
+    "url": "https://www.kosmas.cz/knihy/574203/kocky-a-jejich-magie/",
+    "description": "Kočky a jejich magie - Klára Nevečeřalová",
+    "authors": [
+      "Klára Nevečeřalová"
+    ],
+    "date": "2026-10-02T12:20:22.147865+00:00"
+  },
+  {
+    "title": "S ex až na věky",
+    "url": "https://www.kosmas.cz/knihy/574211/s-ex-az-na-veky/",
+    "description": "S ex až na věky - Portia MacIntosh",
+    "authors": [
+      "Portia MacIntosh"
+    ],
+    "date": "2026-10-02T12:20:21.147865+00:00"
+  },
+  {
+    "title": "I slunce vychází",
+    "url": "https://www.kosmas.cz/knihy/574244/i-slunce-vychazi/",
+    "description": "I slunce vychází - Ernest Hemingway",
+    "authors": [
+      "Ernest Hemingway"
+    ],
+    "date": "2026-10-02T12:20:20.147865+00:00"
+  },
+  {
+    "title": "Když se narodí SOVA",
+    "url": "https://www.kosmas.cz/knihy/574248/kdyz-se-narodi-sova/",
+    "description": "Když se narodí SOVA - Rose Harkness",
+    "authors": [
+      "Rose Harkness"
+    ],
+    "date": "2026-10-02T12:20:19.147865+00:00"
+  },
+  {
     "title": "Pláč straky",
     "url": "https://www.kosmas.cz/knihy/572751/plac-straky/",
     "description": "Pláč straky - Dana Beranová",
@@ -1603,154 +1761,5 @@
       "Jo Thomas"
     ],
     "date": "2026-09-21T12:36:57.772007+00:00"
-  },
-  {
-    "title": "Počkej na mě",
-    "url": "https://www.kosmas.cz/knihy/573559/pockej-na-me/",
-    "description": "Počkej na mě - Hana Marie Körnerová",
-    "authors": [
-      "Hana Marie Körnerová"
-    ],
-    "date": "2026-09-21T12:36:56.772007+00:00"
-  },
-  {
-    "title": "Popel ve vlasech",
-    "url": "https://www.kosmas.cz/knihy/573560/popel-ve-vlasech/",
-    "description": "Popel ve vlasech - Markéta Prášková",
-    "authors": [
-      "Markéta Prášková"
-    ],
-    "date": "2026-09-21T12:36:55.772007+00:00"
-  },
-  {
-    "title": "Tři zločiny na dvoře Karla IV.",
-    "url": "https://www.kosmas.cz/knihy/573562/tri-zlociny-na-dvore-karla-iv/",
-    "description": "Tři zločiny na dvoře Karla IV. - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-09-21T12:36:54.772007+00:00"
-  },
-  {
-    "title": "Ve stínu jeřabiny",
-    "url": "https://www.kosmas.cz/knihy/573563/ve-stinu-jerabiny/",
-    "description": "Ve stínu jeřabiny - Štěpán Javůrek",
-    "authors": [
-      "Štěpán Javůrek"
-    ],
-    "date": "2026-09-21T12:36:53.772007+00:00"
-  },
-  {
-    "title": "Bass Persuades",
-    "url": "https://www.kosmas.cz/knihy/573609/bass-persuades/",
-    "description": "Bass Persuades - Miley Cyrus",
-    "authors": [
-      "Miley Cyrus"
-    ],
-    "date": "2026-09-21T12:36:52.772007+00:00"
-  },
-  {
-    "title": "Na dvorku i na poli",
-    "url": "https://www.kosmas.cz/knihy/573674/na-dvorku-i-na-poli/",
-    "description": "Na dvorku i na poli",
-    "authors": [],
-    "date": "2026-09-21T12:36:51.772007+00:00"
-  },
-  {
-    "title": "Příšerky - Hádanky se samolepkami - svítí ve tmě",
-    "url": "https://www.kosmas.cz/knihy/573675/priserky-hadanky-se-samolepkami-sviti-ve-tme/",
-    "description": "Příšerky - Hádanky se samolepkami - svítí ve tmě",
-    "authors": [],
-    "date": "2026-09-21T12:36:50.772007+00:00"
-  },
-  {
-    "title": "Vůně napalmu",
-    "url": "https://www.kosmas.cz/knihy/573145/vune-napalmu/",
-    "description": "Vůně napalmu - Dalibor Vácha",
-    "authors": [
-      "Dalibor Vácha"
-    ],
-    "date": "2026-09-21T12:36:49.772007+00:00"
-  },
-  {
-    "title": "Černá kapradina",
-    "url": "https://www.kosmas.cz/knihy/573731/cerna-kapradina/",
-    "description": "Černá kapradina - M. K. Hardy",
-    "authors": [
-      "M. K. Hardy"
-    ],
-    "date": "2026-09-21T12:36:48.772007+00:00"
-  },
-  {
-    "title": "Pohádky poslední záchrany (rodičů)",
-    "url": "https://www.kosmas.cz/knihy/571353/pohadky-posledni-zachrany-rodicu/",
-    "description": "Pohádky poslední záchrany (rodičů) - Michaela Janečková",
-    "authors": [
-      "Michaela Janečková"
-    ],
-    "date": "2026-09-21T12:36:47.772007+00:00"
-  },
-  {
-    "title": "Strava vytrvalců",
-    "url": "https://www.kosmas.cz/knihy/572644/strava-vytrvalcu/",
-    "description": "Strava vytrvalců - Matt Fitzgerald",
-    "authors": [
-      "Matt Fitzgerald"
-    ],
-    "date": "2026-09-21T12:36:46.772007+00:00"
-  },
-  {
-    "title": "Bass Persuades",
-    "url": "https://www.kosmas.cz/knihy/573611/bass-persuades/",
-    "description": "Bass Persuades - Miley Cyrus",
-    "authors": [
-      "Miley Cyrus"
-    ],
-    "date": "2026-09-20T11:07:54.203370+00:00"
-  },
-  {
-    "title": "40 let totálního masakrru",
-    "url": "https://www.kosmas.cz/knihy/569888/40-let-totalniho-masakrru/",
-    "description": "40 let totálního masakrru - Debustrol",
-    "authors": [
-      "Debustrol"
-    ],
-    "date": "2026-09-20T11:07:53.203370+00:00"
-  },
-  {
-    "title": "Osudový žeton",
-    "url": "https://www.kosmas.cz/knihy/572162/osudovy-zeton/",
-    "description": "Osudový žeton - Sharon J. Bolton",
-    "authors": [
-      "Sharon J. Bolton"
-    ],
-    "date": "2026-09-20T11:07:52.203370+00:00"
-  },
-  {
-    "title": "Rangers III.",
-    "url": "https://www.kosmas.cz/knihy/572546/rangers-iii/",
-    "description": "Rangers III. - The Rangers",
-    "authors": [
-      "The Rangers"
-    ],
-    "date": "2026-09-20T11:07:50.203370+00:00"
-  },
-  {
-    "title": "Lovci žen",
-    "url": "https://www.kosmas.cz/knihy/572549/lovci-zen/",
-    "description": "Lovci žen - Kern",
-    "authors": [
-      "Kern"
-    ],
-    "date": "2026-09-20T11:07:49.203370+00:00"
-  },
-  {
-    "title": "Omalovánky se strašidly",
-    "url": "https://www.kosmas.cz/knihy/572611/omalovanky-se-strasidly/",
-    "description": "Omalovánky se strašidly - Jana Kalusová",
-    "authors": [
-      "Jana Kalusová"
-    ],
-    "date": "2026-09-20T11:07:48.203370+00:00"
   }
 ]
