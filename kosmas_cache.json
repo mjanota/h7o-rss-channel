@@ -1,5 +1,150 @@
 [
   {
+    "title": "Trashing Day",
+    "url": "https://www.kosmas.cz/knihy/573468/trashing-day/",
+    "description": "Trashing Day - Rebecca Yarros",
+    "authors": [
+      "Rebecca Yarros"
+    ],
+    "date": "2026-10-03T11:30:35.890036+00:00"
+  },
+  {
+    "title": "A Ghostly Little Book",
+    "url": "https://www.kosmas.cz/knihy/574263/a-ghostly-little-book/",
+    "description": "A Ghostly Little Book - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-10-03T11:30:31.890036+00:00"
+  },
+  {
+    "title": "Big Bad Wolf, Maple Hollow 1",
+    "url": "https://www.kosmas.cz/knihy/574264/big-bad-wolf-maple-hollow-1/",
+    "description": "Big Bad Wolf, Maple Hollow 1 - Laurie Gilmore",
+    "authors": [
+      "Laurie Gilmore"
+    ],
+    "date": "2026-10-03T11:30:30.890036+00:00"
+  },
+  {
+    "title": "Dead Beat",
+    "url": "https://www.kosmas.cz/knihy/574265/dead-beat/",
+    "description": "Dead Beat - Leigh Bardugo",
+    "authors": [
+      "Leigh Bardugo"
+    ],
+    "date": "2026-10-03T11:30:29.890036+00:00"
+  },
+  {
+    "title": "Dungeon Crawler Carl",
+    "url": "https://www.kosmas.cz/knihy/574267/dungeon-crawler-carl/",
+    "description": "Dungeon Crawler Carl - Matt Dinniman",
+    "authors": [
+      "Matt Dinniman"
+    ],
+    "date": "2026-10-03T11:30:28.890036+00:00"
+  },
+  {
+    "title": "Escape Me",
+    "url": "https://www.kosmas.cz/knihy/574268/escape-me/",
+    "description": "Escape Me - Tahereh Mafi",
+    "authors": [
+      "Tahereh Mafi"
+    ],
+    "date": "2026-10-03T11:30:27.890036+00:00"
+  },
+  {
+    "title": "Homo Irrealis",
+    "url": "https://www.kosmas.cz/knihy/574269/homo-irrealis/",
+    "description": "Homo Irrealis - André Aciman",
+    "authors": [
+      "André Aciman"
+    ],
+    "date": "2026-10-03T11:30:26.890036+00:00"
+  },
+  {
+    "title": "In One Brief Moment All Eternity",
+    "url": "https://www.kosmas.cz/knihy/574270/in-one-brief-moment-all-eternity/",
+    "description": "In One Brief Moment All Eternity - Elif Shafak",
+    "authors": [
+      "Elif Shafak"
+    ],
+    "date": "2026-10-03T11:30:25.890036+00:00"
+  },
+  {
+    "title": "Klara and the Sun",
+    "url": "https://www.kosmas.cz/knihy/574271/klara-and-the-sun/",
+    "description": "Klara and the Sun - Kazuo Ishiguro",
+    "authors": [
+      "Kazuo Ishiguro"
+    ],
+    "date": "2026-10-03T11:30:24.890036+00:00"
+  },
+  {
+    "title": "Most Dangerous Games",
+    "url": "https://www.kosmas.cz/knihy/574280/most-dangerous-games/",
+    "description": "Most Dangerous Games - MrBeast, James Patterson",
+    "authors": [
+      "MrBeast",
+      "James Patterson"
+    ],
+    "date": "2026-10-03T11:30:23.890036+00:00"
+  },
+  {
+    "title": "Mothsblood",
+    "url": "https://www.kosmas.cz/knihy/574282/mothsblood/",
+    "description": "Mothsblood - Lynn D. Jung",
+    "authors": [
+      "Lynn D. Jung"
+    ],
+    "date": "2026-10-03T11:30:22.890036+00:00"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "url": "https://www.kosmas.cz/knihy/574283/pride-and-prejudice/",
+    "description": "Pride and Prejudice - Jane Austenová",
+    "authors": [
+      "Jane Austenová"
+    ],
+    "date": "2026-10-03T11:30:21.890036+00:00"
+  },
+  {
+    "title": "Quicksilver",
+    "url": "https://www.kosmas.cz/knihy/574285/quicksilver/",
+    "description": "Quicksilver - Callie Hart",
+    "authors": [
+      "Callie Hart"
+    ],
+    "date": "2026-10-03T11:30:20.890036+00:00"
+  },
+  {
+    "title": "Room on the Sea",
+    "url": "https://www.kosmas.cz/knihy/574286/room-on-the-sea/",
+    "description": "Room on the Sea - André Aciman",
+    "authors": [
+      "André Aciman"
+    ],
+    "date": "2026-10-03T11:30:19.890036+00:00"
+  },
+  {
+    "title": "Escape Me",
+    "url": "https://www.kosmas.cz/knihy/574287/escape-me/",
+    "description": "Escape Me - Tahereh Mafi",
+    "authors": [
+      "Tahereh Mafi"
+    ],
+    "date": "2026-10-03T11:30:18.890036+00:00"
+  },
+  {
+    "title": "Stowaways",
+    "url": "https://www.kosmas.cz/knihy/574288/stowaways/",
+    "description": "Stowaways - André Aciman",
+    "authors": [
+      "André Aciman"
+    ],
+    "date": "2026-10-03T11:30:17.890036+00:00"
+  },
+  {
     "title": "Annie Bot",
     "url": "https://www.kosmas.cz/knihy/573449/annie-bot/",
     "description": "Annie Bot - Sierra Greer",
@@ -1616,150 +1761,5 @@
       "Martina Boučková"
     ],
     "date": "2026-09-22T11:23:36.303952+00:00"
-  },
-  {
-    "title": "Můj pes",
-    "url": "https://www.kosmas.cz/knihy/571352/muj-pes/",
-    "description": "Můj pes - Olivia Wakefordová",
-    "authors": [
-      "Olivia Wakefordová"
-    ],
-    "date": "2026-09-22T11:23:35.303952+00:00"
-  },
-  {
-    "title": "Malá kniha etikety stolování",
-    "url": "https://www.kosmas.cz/knihy/570308/mala-kniha-etikety-stolovani/",
-    "description": "Malá kniha etikety stolování - Ladislav Špaček",
-    "authors": [
-      "Ladislav Špaček"
-    ],
-    "date": "2026-09-22T11:23:34.303952+00:00"
-  },
-  {
-    "title": "Pauza pro duši",
-    "url": "https://www.kosmas.cz/knihy/570311/pauza-pro-dusi/",
-    "description": "Pauza pro duši - Barbara Nesvadbová",
-    "authors": [
-      "Barbara Nesvadbová"
-    ],
-    "date": "2026-09-22T11:23:33.303952+00:00"
-  },
-  {
-    "title": "Huberta Kočičková",
-    "url": "https://www.kosmas.cz/knihy/570064/huberta-kocickova/",
-    "description": "Huberta Kočičková - Jitka Ludvíková",
-    "authors": [
-      "Jitka Ludvíková"
-    ],
-    "date": "2026-09-22T11:23:32.303952+00:00"
-  },
-  {
-    "title": "Jeho dcera",
-    "url": "https://www.kosmas.cz/knihy/569733/jeho-dcera/",
-    "description": "Jeho dcera - Chiara Marchelli",
-    "authors": [
-      "Chiara Marchelli"
-    ],
-    "date": "2026-09-22T11:23:31.303952+00:00"
-  },
-  {
-    "title": "Život není Lucifér",
-    "url": "https://www.kosmas.cz/knihy/572696/zivot-neni-lucifer/",
-    "description": "Život není Lucifér - Petr Brožovský",
-    "authors": [
-      "Petr Brožovský"
-    ],
-    "date": "2026-09-22T11:23:30.303952+00:00"
-  },
-  {
-    "title": "Sammie a děda",
-    "url": "https://www.kosmas.cz/knihy/573364/sammie-a-deda/",
-    "description": "Sammie a děda - Enne Koens",
-    "authors": [
-      "Enne Koens"
-    ],
-    "date": "2026-09-22T11:23:29.303952+00:00"
-  },
-  {
-    "title": "Žebrák - zapomenuté příběhy",
-    "url": "https://www.kosmas.cz/knihy/572358/zebrak-zapomenute-pribehy/",
-    "description": "Žebrák - zapomenuté příběhy - Jindřich Procházka",
-    "authors": [
-      "Jindřich Procházka"
-    ],
-    "date": "2026-09-21T12:37:05.772007+00:00"
-  },
-  {
-    "title": "Bylo pozdě, pro mnohé už navždy",
-    "url": "https://www.kosmas.cz/knihy/572555/bylo-pozde-pro-mnohe-uz-navzdy/",
-    "description": "Bylo pozdě, pro mnohé už navždy - David Seltenreich",
-    "authors": [
-      "David Seltenreich"
-    ],
-    "date": "2026-09-21T12:37:04.772007+00:00"
-  },
-  {
-    "title": "Vystřihovánky - Pohádkové hrady",
-    "url": "https://www.kosmas.cz/knihy/573288/vystrihovanky-pohadkove-hrady/",
-    "description": "Vystřihovánky - Pohádkové hrady - Josef Kropáček",
-    "authors": [
-      "Josef Kropáček"
-    ],
-    "date": "2026-09-21T12:37:03.772007+00:00"
-  },
-  {
-    "title": "Disney - Kuchařka mladých svišťů",
-    "url": "https://www.kosmas.cz/knihy/573299/disney-kucharka-mladych-svistu/",
-    "description": "Disney - Kuchařka mladých svišťů - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-09-21T12:37:02.772007+00:00"
-  },
-  {
-    "title": "SpongeBob - Knížka na celý rok",
-    "url": "https://www.kosmas.cz/knihy/573130/spongebob-knizka-na-cely-rok/",
-    "description": "SpongeBob - Knížka na celý rok - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-09-21T12:37:01.772007+00:00"
-  },
-  {
-    "title": "Rychlá kola",
-    "url": "https://www.kosmas.cz/knihy/573365/rychla-kola/",
-    "description": "Rychlá kola - Madeleine Birch, Sue Reeves",
-    "authors": [
-      "Madeleine Birch",
-      "Sue Reeves"
-    ],
-    "date": "2026-09-21T12:37:00.772007+00:00"
-  },
-  {
-    "title": "Když Duben přichází",
-    "url": "https://www.kosmas.cz/knihy/573533/kdyz-duben-prichazi/",
-    "description": "Když Duben přichází - Jaroslav Foglar",
-    "authors": [
-      "Jaroslav Foglar"
-    ],
-    "date": "2026-09-21T12:36:59.772007+00:00"
-  },
-  {
-    "title": "Lesní sny",
-    "url": "https://www.kosmas.cz/knihy/573554/lesni-sny/",
-    "description": "Lesní sny - Johan Theorin",
-    "authors": [
-      "Johan Theorin"
-    ],
-    "date": "2026-09-21T12:36:58.772007+00:00"
-  },
-  {
-    "title": "Lovkyně ústřic",
-    "url": "https://www.kosmas.cz/knihy/573556/lovkyne-ustric/",
-    "description": "Lovkyně ústřic - Jo Thomas",
-    "authors": [
-      "Jo Thomas"
-    ],
-    "date": "2026-09-21T12:36:57.772007+00:00"
   }
 ]

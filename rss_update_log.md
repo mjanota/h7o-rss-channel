@@ -5,6 +5,45 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-03 11:30:36 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Trashing Day
+2. A Ghostly Little Book
+3. Big Bad Wolf, Maple Hollow 1
+4. Dead Beat
+5. Dungeon Crawler Carl
+6. Escape Me
+7. Homo Irrealis
+8. In One Brief Moment All Eternity
+9. Klara and the Sun
+10. Most Dangerous Games
+11. Mothsblood
+12. Pride and Prejudice
+13. Quicksilver
+14. Room on the Sea
+15. Escape Me
+16. Stowaways
+
+---
+
+## 🕐 2026-10-03 11:30:35 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-02 12:20:37 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -248,42 +287,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-09-27 11:52:21 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-09-26 11:13:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Rány
-2. Generace XY/XX
-3. Kalendář Česká příroda 2027
-4. MAXI rodinný plánovač 2027
-5. Minecraft - Stavební chuťovky 6
-6. Mazlíček snů
-7. Bluey - Výlet
-8. Samolepková knížka – Veselí koně
-9. Princezna a jednorožec - Kouzelné překvapení
-10. Rodokmen ticha
-11. 151 pádů na polární expedici Kungsleden
-12. Popel ve vlasech
-13. Zlatostříbrná fotbalová alej
-
----
-
-## 🕐 2026-09-26 11:13:27 UTC
 
 **Zdroj:** H7O - Časopis Host
 
