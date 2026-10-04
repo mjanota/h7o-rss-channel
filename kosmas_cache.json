@@ -1,5 +1,22 @@
 [
   {
+    "title": "Guinness World Records 2027",
+    "url": "https://www.kosmas.cz/knihy/573946/guinness-world-records-2027/",
+    "description": "Guinness World Records 2027",
+    "authors": [],
+    "date": "2026-10-04T12:11:38.790439+00:00"
+  },
+  {
+    "title": "The Ascendent",
+    "url": "https://www.kosmas.cz/knihy/574289/the-ascendent/",
+    "description": "The Ascendent - Bree Grenwich, Parker Lennox",
+    "authors": [
+      "Bree Grenwich",
+      "Parker Lennox"
+    ],
+    "date": "2026-10-04T12:11:20.790439+00:00"
+  },
+  {
     "title": "Trashing Day",
     "url": "https://www.kosmas.cz/knihy/573468/trashing-day/",
     "description": "Trashing Day - Rebecca Yarros",
@@ -1742,24 +1759,5 @@
       "Marina Wrightová"
     ],
     "date": "2026-09-22T11:23:38.303952+00:00"
-  },
-  {
-    "title": "Osm zpravodajců",
-    "url": "https://www.kosmas.cz/knihy/571345/osm-zpravodajcu/",
-    "description": "Osm zpravodajců - Jiří Mikulka, Tomáš Řepa",
-    "authors": [
-      "Jiří Mikulka",
-      "Tomáš Řepa"
-    ],
-    "date": "2026-09-22T11:23:37.303952+00:00"
-  },
-  {
-    "title": "Kočičí král",
-    "url": "https://www.kosmas.cz/knihy/571350/kocici-kral/",
-    "description": "Kočičí král - Martina Boučková",
-    "authors": [
-      "Martina Boučková"
-    ],
-    "date": "2026-09-22T11:23:36.303952+00:00"
   }
 ]

@@ -5,6 +5,31 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-04 12:11:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 2
+
+**Tituly nových položek:**
+
+1. Guinness World Records 2027
+2. The Ascendent
+
+---
+
+## 🕐 2026-10-04 12:11:38 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-03 11:30:36 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -252,41 +277,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-09-28 13:38:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-09-27 11:52:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. Korn III- Remember Who You Are
-2. Kouzlo starých mostů v Čechách a na Moravě
-3. Plánovací kalendář •  kalendár 2027 nástěnný
-4. Kalendář World Wonders
-5. Síla odolnosti
-6. Záhadná vagina
-7. Medvědí škola
-8. Kde bydlí zvířátka
-9. Čteme s obrázky - Kočičiny kocourka Bertíka
-10. Mistr kompromisu – Antonín Švehla
-11. Volání hlubiny
-12. Města a sny
-
----
-
-## 🕐 2026-09-27 11:52:21 UTC
 
 **Zdroj:** H7O - Časopis Host
 
