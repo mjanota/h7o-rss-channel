@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-05 14:21:49 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Tenisovník
+2. Barevná kniha zábavy pro seniory
+3. Nalepování pro malé i velké
+4. Česká literatura 4/2026
+5. Má rusínská vyšívanka
+6. Úvod do křesťanské etiky
+7. Historická sociologie I
+8. As Long As the Lemon Trees Grow
+9. Brain Damage
+10. Diary of a Wimpy Kid 20: Partypooper
+11. Eldritch
+12. Free Falling
+13. Freyja
+14. How to Hold Someone in your Heart
+15. Keeping 13
+16. More Days at the Morisaki Bookshop
+17. Days + More Days at the Morisaki Bookshop
+18. Pablo and Splash: Viking Voyage
+19. Saddle Storm
+20. The Deal
+
+---
+
+## 🕐 2026-10-05 14:21:47 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Podezřele dobrý román
+
+---
+
 ## 🕐 2026-10-04 12:11:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -250,39 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Únava z obličejů
-
----
-
-## 🕐 2026-09-28 13:38:16 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 10
-
-**Tituly nových položek:**
-
-1. Policejní vozidla
-2. Démanty noci
-3. Vyškrabovací obrázky - Duhová zvířátka
-4. Pravidla českého pravopisu
-5. Jednorožci - Čti a hraj si s námi
-6. Hrf hif huf
-7. Nuzný Lože
-8. Heebie-Jeebies v CBGB´s: Tajná historie židovského punku
-9. Francis (František) Korbel
-10. Punkové rodičovství
-
----
-
-## 🕐 2026-09-28 13:38:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

@@ -8,14 +8,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Co střeží Zahrada: Dětská literatura ve Frankfurtu",
-    "url": "https://www.h7o.cz/clanky/14536-co-strezi-zahrada-detska-literatura-ve-frankfurtu",
-    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Pokračujeme v sérii článků věnovaných českému hostování textem Jana Jindřicha Karáska o dětské literatuře.",
-    "date": "2026-07-07T00:00:00",
-    "author": "Jan Jindřich Karásek",
-    "category": "téma"
-  },
-  {
     "title": "Boj o Českou televizi je bojem o monopol na interpretace",
     "url": "https://www.h7o.cz/clanky/14563-boj-o-ceskou-televizi-je-bojem-o-monopol-na-interpretace",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
@@ -494,5 +486,13 @@
     "date": "2026-10-02T00:00:00",
     "author": "Ondřej Nezbeda",
     "category": "rozhovor"
+  },
+  {
+    "title": "Podezřele dobrý román",
+    "url": "https://www.h7o.cz/clanky/14618-podezrele-dobry-roman",
+    "description": "Francouzský literární svět se v posledních měsících pořádně otřásá. Sotva se vzpamatoval z jarní aféry, kdy po propuštění šéfredaktora Oliviera Nory z nakladatelství Grasset, vlastněného pravicovým oligarchou Vincentem Bollorém, odešly téměř tři stovky autorů a autorek, vynořil se další skandál.",
+    "date": "2026-10-05T00:00:00",
+    "author": "Míla Janišová",
+    "category": "komentář"
   }
 ]

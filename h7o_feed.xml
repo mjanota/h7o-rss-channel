@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:21:47 +0000</lastBuildDate>
+    <item>
+      <title>Podezřele dobrý román</title>
+      <link>https://www.h7o.cz/clanky/14618-podezrele-dobry-roman</link>
+      <description>Francouzský literární svět se v posledních měsících pořádně otřásá. Sotva se vzpamatoval z jarní aféry, kdy po propuštění šéfredaktora Oliviera Nory z nakladatelství Grasset, vlastněného pravicovým oligarchou Vincentem Bollorém, odešly téměř tři stovky autorů a autorek, vynořil se další skandál.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14618-podezrele-dobry-roman</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Norská lekce z Frankfurtu</title>
       <link>https://www.h7o.cz/clanky/14617-norska-lekce-z-frankfurtu</link>
@@ -434,13 +441,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek překladatele Libora Dvořáka z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14561-rustina-v-belorusku</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Co střeží Zahrada: Dětská literatura ve Frankfurtu</title>
-      <link>https://www.h7o.cz/clanky/14536-co-strezi-zahrada-detska-literatura-ve-frankfurtu</link>
-      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Pokračujeme v sérii článků věnovaných českému hostování textem Jana Jindřicha Karáska o dětské literatuře.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14536-co-strezi-zahrada-detska-literatura-ve-frankfurtu</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
