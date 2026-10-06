@@ -1,5 +1,187 @@
 [
   {
+    "title": "Fyzika / Encyklopedie velkých objevů a osobností",
+    "url": "https://www.kosmas.cz/knihy/574185/fyzika-encyklopedie-velkych-objevu-a-osobnosti/",
+    "description": "Fyzika / Encyklopedie velkých objevů a osobností - Ivo Kraus",
+    "authors": [
+      "Ivo Kraus"
+    ],
+    "date": "2026-10-06T13:11:25.188444+00:00"
+  },
+  {
+    "title": "(Ne)podařený exil",
+    "url": "https://www.kosmas.cz/knihy/574186/ne-podareny-exil/",
+    "description": "(Ne)podařený exil - Milan Sovilj",
+    "authors": [
+      "Milan Sovilj"
+    ],
+    "date": "2026-10-06T13:11:24.188444+00:00"
+  },
+  {
+    "title": "Krajina a její architektura",
+    "url": "https://www.kosmas.cz/knihy/574187/krajina-a-jeji-architektura/",
+    "description": "Krajina a její architektura - Jana Tichá",
+    "authors": [
+      "Jana Tichá"
+    ],
+    "date": "2026-10-06T13:11:23.188444+00:00"
+  },
+  {
+    "title": "Radioaktivita a ionizující záření kolem nás",
+    "url": "https://www.kosmas.cz/knihy/574189/radioaktivita-a-ionizujici-zareni-kolem-nas/",
+    "description": "Radioaktivita a ionizující záření kolem nás - František Podzimek",
+    "authors": [
+      "František Podzimek"
+    ],
+    "date": "2026-10-06T13:11:22.188444+00:00"
+  },
+  {
+    "title": "Knihovny v době nových médií",
+    "url": "https://www.kosmas.cz/knihy/574222/knihovny-v-dobe-novych-medii/",
+    "description": "Knihovny v době nových médií - Zbyšek Stýblo",
+    "authors": [
+      "Zbyšek Stýblo"
+    ],
+    "date": "2026-10-06T13:11:21.188444+00:00"
+  },
+  {
+    "title": "Prostory pro gastronomii",
+    "url": "https://www.kosmas.cz/knihy/574223/prostory-pro-gastronomii/",
+    "description": "Prostory pro gastronomii - Zbyšek Stýblo",
+    "authors": [
+      "Zbyšek Stýblo"
+    ],
+    "date": "2026-10-06T13:11:20.188444+00:00"
+  },
+  {
+    "title": "Architektura na červeném seznamu / normální je nebourat",
+    "url": "https://www.kosmas.cz/knihy/574224/architektura-na-cervenem-seznamu-normalni-je-nebourat/",
+    "description": "Architektura na červeném seznamu / normální je nebourat - Petr Vorlík",
+    "authors": [
+      "Petr Vorlík"
+    ],
+    "date": "2026-10-06T13:11:19.188444+00:00"
+  },
+  {
+    "title": "Grafická prezentace architektury",
+    "url": "https://www.kosmas.cz/knihy/574228/graficka-prezentace-architektury/",
+    "description": "Grafická prezentace architektury - Zuzana Pešková, kol.",
+    "authors": [
+      "Zuzana Pešková",
+      "kol."
+    ],
+    "date": "2026-10-06T13:11:18.188444+00:00"
+  },
+  {
+    "title": "Zóna setkávání - nástroj rozvoje veřejného prostoru",
+    "url": "https://www.kosmas.cz/knihy/574239/zona-setkavani-nastroj-rozvoje-verejneho-prostoru/",
+    "description": "Zóna setkávání - nástroj rozvoje veřejného prostoru - Karel Hájek",
+    "authors": [
+      "Karel Hájek"
+    ],
+    "date": "2026-10-06T13:11:17.188444+00:00"
+  },
+  {
+    "title": "Anatomie dítěte - Nipioanatomie 1. díl",
+    "url": "https://www.kosmas.cz/knihy/574242/anatomie-ditete-nipioanatomie-1.-dil/",
+    "description": "Anatomie dítěte - Nipioanatomie 1. díl - Ivan Dylevský",
+    "authors": [
+      "Ivan Dylevský"
+    ],
+    "date": "2026-10-06T13:11:16.188444+00:00"
+  },
+  {
+    "title": "Anatomie dítěte - Nipioanatomie 2. díl",
+    "url": "https://www.kosmas.cz/knihy/574243/anatomie-ditete-nipioanatomie-2.-dil/",
+    "description": "Anatomie dítěte - Nipioanatomie 2. díl - Ivan Dylevský",
+    "authors": [
+      "Ivan Dylevský"
+    ],
+    "date": "2026-10-06T13:11:15.188444+00:00"
+  },
+  {
+    "title": "Dorian se vrací do budoucnosti",
+    "url": "https://www.kosmas.cz/knihy/574476/dorian-se-vraci-do-budoucnosti/",
+    "description": "Dorian se vrací do budoucnosti - Martin Vopěnka",
+    "authors": [
+      "Martin Vopěnka"
+    ],
+    "date": "2026-10-06T13:11:14.188444+00:00"
+  },
+  {
+    "title": "Jako lovná zvěř",
+    "url": "https://www.kosmas.cz/knihy/574479/jako-lovna-zver/",
+    "description": "Jako lovná zvěř - Josef Klíma",
+    "authors": [
+      "Josef Klíma"
+    ],
+    "date": "2026-10-06T13:11:13.188444+00:00"
+  },
+  {
+    "title": "0 1 2",
+    "url": "https://www.kosmas.cz/knihy/574481/0-1-2/",
+    "description": "0 1 2 - Daniel Wisser",
+    "authors": [
+      "Daniel Wisser"
+    ],
+    "date": "2026-10-06T13:11:12.188444+00:00"
+  },
+  {
+    "title": "Když andělům chybí křídla",
+    "url": "https://www.kosmas.cz/knihy/574497/kdyz-andelum-chybi-kridla/",
+    "description": "Když andělům chybí křídla - Hanka Hosnedlová",
+    "authors": [
+      "Hanka Hosnedlová"
+    ],
+    "date": "2026-10-06T13:11:11.188444+00:00"
+  },
+  {
+    "title": "Prinz Aberjaja",
+    "url": "https://www.kosmas.cz/knihy/573118/prinz-aberjaja/",
+    "description": "Prinz Aberjaja - Ondřej Cikán",
+    "authors": [
+      "Ondřej Cikán"
+    ],
+    "date": "2026-10-06T13:11:10.188444+00:00"
+  },
+  {
+    "title": "Ve vůních opojných",
+    "url": "https://www.kosmas.cz/knihy/573258/ve-vunich-opojnych/",
+    "description": "Ve vůních opojných - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-10-06T13:11:09.188444+00:00"
+  },
+  {
+    "title": "Můj první atlas vozidel",
+    "url": "https://www.kosmas.cz/knihy/573863/muj-prvni-atlas-vozidel/",
+    "description": "Můj první atlas vozidel - Peter Nieländer",
+    "authors": [
+      "Peter Nieländer"
+    ],
+    "date": "2026-10-06T13:11:08.188444+00:00"
+  },
+  {
+    "title": "Světložár",
+    "url": "https://www.kosmas.cz/knihy/572747/svetlozar/",
+    "description": "Světložár - Moira Buffini",
+    "authors": [
+      "Moira Buffini"
+    ],
+    "date": "2026-10-06T13:11:07.188444+00:00"
+  },
+  {
+    "title": "Pomoc ženské duši",
+    "url": "https://www.kosmas.cz/knihy/572193/pomoc-zenske-dusi/",
+    "description": "Pomoc ženské duši - Eva Karlasová, Alena Večeřová-Procházková",
+    "authors": [
+      "Eva Karlasová",
+      "Alena Večeřová-Procházková"
+    ],
+    "date": "2026-10-06T13:11:06.188444+00:00"
+  },
+  {
     "title": "Tenisovník",
     "url": "https://www.kosmas.cz/knihy/573050/tenisovnik/",
     "description": "Tenisovník - Petr Feldstein, Anna Novotná",
@@ -1578,188 +1760,5 @@
       "Brionni Nwosu"
     ],
     "date": "2026-09-24T11:33:03.184571+00:00"
-  },
-  {
-    "title": "Divadlo Járy Cimrmana",
-    "url": "https://www.kosmas.cz/knihy/564912/divadlo-jary-cimrmana/",
-    "description": "Divadlo Járy Cimrmana - Tomáš Maleček, Zdeněk Svěrák, kol.",
-    "authors": [
-      "Tomáš Maleček",
-      "Zdeněk Svěrák",
-      "kol."
-    ],
-    "date": "2026-09-24T11:33:02.184571+00:00"
-  },
-  {
-    "title": "Dědictví stínů",
-    "url": "https://www.kosmas.cz/knihy/573578/dedictvi-stinu/",
-    "description": "Dědictví stínů - Holly Renee",
-    "authors": [
-      "Holly Renee"
-    ],
-    "date": "2026-09-24T11:33:01.184571+00:00"
-  },
-  {
-    "title": "Vraždy ve Snowdonii",
-    "url": "https://www.kosmas.cz/knihy/573579/vrazdy-ve-snowdonii/",
-    "description": "Vraždy ve Snowdonii - Simon McCleave",
-    "authors": [
-      "Simon McCleave"
-    ],
-    "date": "2026-09-24T11:33:00.184571+00:00"
-  },
-  {
-    "title": "Císařství ohně a žáru",
-    "url": "https://www.kosmas.cz/knihy/573581/cisarstvi-ohne-a-zaru/",
-    "description": "Císařství ohně a žáru - Jarmila Mlčoušková",
-    "authors": [
-      "Jarmila Mlčoušková"
-    ],
-    "date": "2026-09-24T11:32:59.184571+00:00"
-  },
-  {
-    "title": "Kroniky beskydských draků - Tajná mise Salamandr",
-    "url": "https://www.kosmas.cz/knihy/573582/kroniky-beskydskych-draku-tajna-mise-salamandr/",
-    "description": "Kroniky beskydských draků - Tajná mise Salamandr - Jan Tkáč",
-    "authors": [
-      "Jan Tkáč"
-    ],
-    "date": "2026-09-24T11:32:58.184571+00:00"
-  },
-  {
-    "title": "Popel k popelu",
-    "url": "https://www.kosmas.cz/knihy/573585/popel-k-popelu/",
-    "description": "Popel k popelu - Egon Trnka",
-    "authors": [
-      "Egon Trnka"
-    ],
-    "date": "2026-09-24T11:32:57.184571+00:00"
-  },
-  {
-    "title": "Come This Madness",
-    "url": "https://www.kosmas.cz/knihy/569928/come-this-madness/",
-    "description": "Come This Madness - Europe",
-    "authors": [
-      "Europe"
-    ],
-    "date": "2026-09-24T11:32:56.184571+00:00"
-  },
-  {
-    "title": "Julie Lakatošová",
-    "url": "https://www.kosmas.cz/knihy/570062/julie-lakatosova/",
-    "description": "Julie Lakatošová - Jana Guljuškina",
-    "authors": [
-      "Jana Guljuškina"
-    ],
-    "date": "2026-09-24T11:32:55.184571+00:00"
-  },
-  {
-    "title": "Na startovním roštu",
-    "url": "https://www.kosmas.cz/knihy/570158/na-startovnim-rostu/",
-    "description": "Na startovním roštu - Luke Smith",
-    "authors": [
-      "Luke Smith"
-    ],
-    "date": "2026-09-24T11:32:54.184571+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Matematika 1. ročník",
-    "url": "https://www.kosmas.cz/knihy/572989/domaci-procvicovani-matematika-1.-rocnik/",
-    "description": "Domácí procvičování - Matematika 1. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:39.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Čeština 2. ročník",
-    "url": "https://www.kosmas.cz/knihy/573001/domaci-procvicovani-cestina-2.-rocnik/",
-    "description": "Domácí procvičování - Čeština 2. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:38.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Čeština 3. ročník",
-    "url": "https://www.kosmas.cz/knihy/573002/domaci-procvicovani-cestina-3.-rocnik/",
-    "description": "Domácí procvičování - Čeština 3. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:37.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Čeština 4. ročník",
-    "url": "https://www.kosmas.cz/knihy/573003/domaci-procvicovani-cestina-4.-rocnik/",
-    "description": "Domácí procvičování - Čeština 4. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:36.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Čeština 5. ročník",
-    "url": "https://www.kosmas.cz/knihy/573005/domaci-procvicovani-cestina-5.-rocnik/",
-    "description": "Domácí procvičování - Čeština 5. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:35.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Matematika 2. ročník",
-    "url": "https://www.kosmas.cz/knihy/573007/domaci-procvicovani-matematika-2.-rocnik/",
-    "description": "Domácí procvičování - Matematika 2. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:34.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Matematika 3. ročník",
-    "url": "https://www.kosmas.cz/knihy/573010/domaci-procvicovani-matematika-3.-rocnik/",
-    "description": "Domácí procvičování - Matematika 3. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:33.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Matematika 4. ročník",
-    "url": "https://www.kosmas.cz/knihy/573012/domaci-procvicovani-matematika-4.-rocnik/",
-    "description": "Domácí procvičování - Matematika 4. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:32.524043+00:00"
-  },
-  {
-    "title": "Domácí procvičování - Matematika 5. ročník",
-    "url": "https://www.kosmas.cz/knihy/573013/domaci-procvicovani-matematika-5.-rocnik/",
-    "description": "Domácí procvičování - Matematika 5. ročník - Petr Šulc",
-    "authors": [
-      "Petr Šulc"
-    ],
-    "date": "2026-09-23T11:20:31.524043+00:00"
-  },
-  {
-    "title": "Aby škola dávala smysl",
-    "url": "https://www.kosmas.cz/knihy/573092/aby-skola-davala-smysl/",
-    "description": "Aby škola dávala smysl - Štěpánka Cimlová, Robert Čapek",
-    "authors": [
-      "Štěpánka Cimlová",
-      "Robert Čapek"
-    ],
-    "date": "2026-09-23T11:20:30.524043+00:00"
-  },
-  {
-    "title": "Adaptace na vesnici",
-    "url": "https://www.kosmas.cz/knihy/573337/adaptace-na-vesnici/",
-    "description": "Adaptace na vesnici - Nikol Kulová",
-    "authors": [
-      "Nikol Kulová"
-    ],
-    "date": "2026-09-23T11:20:29.524043+00:00"
   }
 ]

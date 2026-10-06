@@ -1,13 +1,5 @@
 [
   {
-    "title": "Ruština v Bělorusku",
-    "url": "https://www.h7o.cz/clanky/14561-rustina-v-belorusku",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek překladatele Libora Dvořáka z roku 2021.",
-    "date": "2026-07-08T00:00:00",
-    "author": "Libor Dvořák",
-    "category": "sloupek"
-  },
-  {
     "title": "Boj o Českou televizi je bojem o monopol na interpretace",
     "url": "https://www.h7o.cz/clanky/14563-boj-o-ceskou-televizi-je-bojem-o-monopol-na-interpretace",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
@@ -494,5 +486,13 @@
     "date": "2026-10-05T00:00:00",
     "author": "Míla Janišová",
     "category": "komentář"
+  },
+  {
+    "title": "Malá literatura u velkého moře",
+    "url": "https://www.h7o.cz/clanky/14620-mala-literatura-u-velkeho-more",
+    "description": "Zpráva o čestném hostování Česka na Frankfurtském knižním veletrhu a jeho prozatímní přípravy zatím u literární veřejnosti vyvolaly hlavně obvyklé brblání, jestli celý ten nákladný cirkus vůbec k něčemu bude. Brblání ovšem není pouze český národní sport, němčina má pro tutéž etologickou reakci…",
+    "date": "2026-10-06T00:00:00",
+    "author": "Ondřej Nezbeda",
+    "category": "téma"
   }
 ]

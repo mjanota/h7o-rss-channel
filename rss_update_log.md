@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-06 13:11:25 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Fyzika / Encyklopedie velkých objevů a osobností
+2. (Ne)podařený exil
+3. Krajina a její architektura
+4. Radioaktivita a ionizující záření kolem nás
+5. Knihovny v době nových médií
+6. Prostory pro gastronomii
+7. Architektura na červeném seznamu / normální je nebourat
+8. Grafická prezentace architektury
+9. Zóna setkávání - nástroj rozvoje veřejného prostoru
+10. Anatomie dítěte - Nipioanatomie 1. díl
+11. Anatomie dítěte - Nipioanatomie 2. díl
+12. Dorian se vrací do budoucnosti
+13. Jako lovná zvěř
+14. 0 1 2
+15. Když andělům chybí křídla
+16. Prinz Aberjaja
+17. Ve vůních opojných
+18. Můj první atlas vozidel
+19. Světložár
+20. Pomoc ženské duši
+
+---
+
+## 🕐 2026-10-06 13:11:23 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Malá literatura u velkého moře
+
+---
+
 ## 🕐 2026-10-05 14:21:49 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,52 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Dvojnásobný Booker?
-
----
-
-## 🕐 2026-09-29 12:37:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Denní diář A5 Memory bílý s gumičkou 2027
-2. Denní diář B6 Print Pop žlutý 2027
-3. Denní diář B6 Vario Lyra Paris 2027
-4. Týdenní diář A5 Vario Lyra Paris 2027
-5. Týdenní diář B6 Bylinkový Louka s gumičkou 2027
-6. Pod opálovým nebem
-7. Zvrácená mysl
-8. Kletba stínů a ledu
-9. Váš mozek se dokáže změnit
-10. Vražda v hotelu Grand Alpine
-11. Denní diář A5 Nebrasca angl. červený 2027
-12. Denní diář A5 Print Plus černý 2027
-13. Týdenní diář A5 Memory bílý s gumičkou 2027
-14. Týdenní diář A5 Memory červený s gumičkou
-15. Týdenní diář A5 Nebrasca angl. červený
-16. Týdenní diář A5 Print Plus černý 2027
-17. Týdenní diář A5 Twin s poznámkami Abstract 2027
-18. Týdenní diář A5 Twin s poznámkami Spiral 2027
-19. Kapesní diář A6 Memory bílý s gumičkou 2027
-
----
-
-## 🕐 2026-09-29 12:37:52 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Únava z obličejů
 
 ---
 
