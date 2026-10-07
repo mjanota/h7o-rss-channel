@@ -1,5 +1,187 @@
 [
   {
+    "title": "Prague 1900–2025",
+    "url": "https://www.kosmas.cz/knihy/572040/prague-1900-2025/",
+    "description": "Prague 1900–2025 - Zdeněk Lukeš, Pavel Hroch",
+    "authors": [
+      "Zdeněk Lukeš",
+      "Pavel Hroch"
+    ],
+    "date": "2026-10-07T13:08:23.440529+00:00"
+  },
+  {
+    "title": "Země světa - 10/2026 - Okcitánie",
+    "url": "https://www.kosmas.cz/knihy/563720/zeme-sveta-10-2026-okcitanie/",
+    "description": "Země světa - 10/2026 - Okcitánie",
+    "authors": [],
+    "date": "2026-10-07T13:08:22.440529+00:00"
+  },
+  {
+    "title": "Kronika komunistického teroru 1948–1953",
+    "url": "https://www.kosmas.cz/knihy/564125/kronika-komunistickeho-teroru-1948-1953/",
+    "description": "Kronika komunistického teroru 1948–1953 - Jiří Padevět",
+    "authors": [
+      "Jiří Padevět"
+    ],
+    "date": "2026-10-07T13:08:21.440529+00:00"
+  },
+  {
+    "title": "Krakonoš",
+    "url": "https://www.kosmas.cz/knihy/564308/krakonos/",
+    "description": "Krakonoš - Ivana Čornejová",
+    "authors": [
+      "Ivana Čornejová"
+    ],
+    "date": "2026-10-07T13:08:20.440529+00:00"
+  },
+  {
+    "title": "Robert Záruba",
+    "url": "https://www.kosmas.cz/knihy/558023/robert-zaruba/",
+    "description": "Robert Záruba - Zuzana Burešová",
+    "authors": [
+      "Zuzana Burešová"
+    ],
+    "date": "2026-10-07T13:08:19.440529+00:00"
+  },
+  {
+    "title": "Kathulos",
+    "url": "https://www.kosmas.cz/knihy/574084/kathulos/",
+    "description": "Kathulos - Robert Ervin Howard",
+    "authors": [
+      "Robert Ervin Howard"
+    ],
+    "date": "2026-10-07T13:08:18.440529+00:00"
+  },
+  {
+    "title": "Souhvězdí léta",
+    "url": "https://www.kosmas.cz/knihy/574096/souhvezdi-leta/",
+    "description": "Souhvězdí léta - Sára Valnohová",
+    "authors": [
+      "Sára Valnohová"
+    ],
+    "date": "2026-10-07T13:08:17.440529+00:00"
+  },
+  {
+    "title": "Adriena Šimotová. Radost ze života",
+    "url": "https://www.kosmas.cz/knihy/574107/adriena-simotova.-radost-ze-zivota/",
+    "description": "Adriena Šimotová. Radost ze života - Marie Klimešová",
+    "authors": [
+      "Marie Klimešová"
+    ],
+    "date": "2026-10-07T13:08:16.440529+00:00"
+  },
+  {
+    "title": "Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze",
+    "url": "https://www.kosmas.cz/knihy/574108/milada-horakova-a-jedna-tatova-ponozka-aneb-pribeh-o-odvaze/",
+    "description": "Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze - Zdeněk Král",
+    "authors": [
+      "Zdeněk Král"
+    ],
+    "date": "2026-10-07T13:08:15.440529+00:00"
+  },
+  {
+    "title": "Zeď",
+    "url": "https://www.kosmas.cz/knihy/574170/zed/",
+    "description": "Zeď - Marlen Haushofer",
+    "authors": [
+      "Marlen Haushofer"
+    ],
+    "date": "2026-10-07T13:08:14.440529+00:00"
+  },
+  {
+    "title": "Případ muže z lahve",
+    "url": "https://www.kosmas.cz/knihy/574197/pripad-muze-z-lahve/",
+    "description": "Případ muže z lahve - Markéta Forró",
+    "authors": [
+      "Markéta Forró"
+    ],
+    "date": "2026-10-07T13:08:13.440529+00:00"
+  },
+  {
+    "title": "Kroniky Lučných vrchů 3 - Stíny v šeru",
+    "url": "https://www.kosmas.cz/knihy/574208/kroniky-lucnych-vrchu-3-stiny-v-seru/",
+    "description": "Kroniky Lučných vrchů 3 - Stíny v šeru - Zbyněk Moravec",
+    "authors": [
+      "Zbyněk Moravec"
+    ],
+    "date": "2026-10-07T13:08:12.440529+00:00"
+  },
+  {
+    "title": "Rork - Velké evropské komiksy (základní verze)",
+    "url": "https://www.kosmas.cz/knihy/574216/rork-velke-evropske-komiksy-zakladni-verze/",
+    "description": "Rork - Velké evropské komiksy (základní verze) - Andreas",
+    "authors": [
+      "Andreas"
+    ],
+    "date": "2026-10-07T13:08:11.440529+00:00"
+  },
+  {
+    "title": "Delicious in Dungeon - Chuť podzemí 3",
+    "url": "https://www.kosmas.cz/knihy/574219/delicious-in-dungeon-chut-podzemi-3/",
+    "description": "Delicious in Dungeon - Chuť podzemí 3 - Rjóko Kui",
+    "authors": [
+      "Rjóko Kui"
+    ],
+    "date": "2026-10-07T13:08:10.440529+00:00"
+  },
+  {
+    "title": "Mládí na hřišti 12: Protože si chci promluvit",
+    "url": "https://www.kosmas.cz/knihy/574220/mladi-na-hristi-12-protoze-si-chci-promluvit/",
+    "description": "Mládí na hřišti 12: Protože si chci promluvit - Kódži Miura",
+    "authors": [
+      "Kódži Miura"
+    ],
+    "date": "2026-10-07T13:08:09.440529+00:00"
+  },
+  {
+    "title": "Král všech developerů 3",
+    "url": "https://www.kosmas.cz/knihy/574227/kral-vsech-developeru-3/",
+    "description": "Král všech developerů 3 - I Hjonmin, Mun Pekkjong",
+    "authors": [
+      "I Hjonmin",
+      "Mun Pekkjong"
+    ],
+    "date": "2026-10-07T13:08:08.440529+00:00"
+  },
+  {
+    "title": "SpongeBob 10/2026",
+    "url": "https://www.kosmas.cz/knihy/574230/spongebob-10-2026/",
+    "description": "SpongeBob 10/2026 - kolektiv autorů",
+    "authors": [
+      "kolektiv autorů"
+    ],
+    "date": "2026-10-07T13:08:07.440529+00:00"
+  },
+  {
+    "title": "Láska ve střihu cosplaye 15",
+    "url": "https://www.kosmas.cz/knihy/574231/laska-ve-strihu-cosplaye-15/",
+    "description": "Láska ve střihu cosplaye 15 - Šin'iči Fukuda",
+    "authors": [
+      "Šin'iči Fukuda"
+    ],
+    "date": "2026-10-07T13:08:06.440529+00:00"
+  },
+  {
+    "title": "Modrá CREW 48: Habemus bastard 1",
+    "url": "https://www.kosmas.cz/knihy/574232/modra-crew-48-habemus-bastard-1/",
+    "description": "Modrá CREW 48: Habemus bastard 1 - Jacky Schwartzmann, Sylvain Vallée",
+    "authors": [
+      "Jacky Schwartzmann",
+      "Sylvain Vallée"
+    ],
+    "date": "2026-10-07T13:08:05.440529+00:00"
+  },
+  {
+    "title": "Star Wars - Vrcholná Republika: Hranice rovnováhy - Precedens",
+    "url": "https://www.kosmas.cz/knihy/574234/star-wars-vrcholna-republika-hranice-rovnovahy-precedens/",
+    "description": "Star Wars - Vrcholná Republika: Hranice rovnováhy - Precedens - Daniel José Older, Tomio Ogata",
+    "authors": [
+      "Daniel José Older",
+      "Tomio Ogata"
+    ],
+    "date": "2026-10-07T13:08:04.440529+00:00"
+  },
+  {
     "title": "Fyzika / Encyklopedie velkých objevů a osobností",
     "url": "https://www.kosmas.cz/knihy/574185/fyzika-encyklopedie-velkych-objevu-a-osobnosti/",
     "description": "Fyzika / Encyklopedie velkých objevů a osobností - Ivo Kraus",
@@ -1590,175 +1772,5 @@
       "kolektiv"
     ],
     "date": "2026-09-25T11:39:15.706506+00:00"
-  },
-  {
-    "title": "Muž, který sázel stromy - grafický román",
-    "url": "https://www.kosmas.cz/knihy/573962/muz-ktery-sazel-stromy-graficky-roman/",
-    "description": "Muž, který sázel stromy - grafický román - Jean Giono",
-    "authors": [
-      "Jean Giono"
-    ],
-    "date": "2026-09-25T11:39:14.706506+00:00"
-  },
-  {
-    "title": "Rafinované rozdíly pro chytré děti",
-    "url": "https://www.kosmas.cz/knihy/573964/rafinovane-rozdily-pro-chytre-deti/",
-    "description": "Rafinované rozdíly pro chytré děti",
-    "authors": [],
-    "date": "2026-09-25T11:39:13.706506+00:00"
-  },
-  {
-    "title": "A Little Princess / Malá princezna",
-    "url": "https://www.kosmas.cz/knihy/573965/a-little-princess-mala-princezna/",
-    "description": "A Little Princess / Malá princezna",
-    "authors": [],
-    "date": "2026-09-25T11:39:12.706506+00:00"
-  },
-  {
-    "title": "The Case-Book of Sherlock Holmes B1-B2 (Zápisník Sherlocka Holmese) - Zrcadlová četba",
-    "url": "https://www.kosmas.cz/knihy/573966/the-case-book-of-sherlock-holmes-b1-b2-zapisnik-sherlocka-holmese---cetba/",
-    "description": "The Case-Book of Sherlock Holmes B1-B2 (Zápisník Sherlocka Holmese) - Zrcadlová četba",
-    "authors": [],
-    "date": "2026-09-25T11:39:11.706506+00:00"
-  },
-  {
-    "title": "Krok do prázdna",
-    "url": "https://www.kosmas.cz/knihy/573969/krok-do-prazdna/",
-    "description": "Krok do prázdna - Ilona Dobrovolná",
-    "authors": [
-      "Ilona Dobrovolná"
-    ],
-    "date": "2026-09-25T11:39:10.706506+00:00"
-  },
-  {
-    "title": "Nedokonaná vražda",
-    "url": "https://www.kosmas.cz/knihy/573970/nedokonana-vrazda/",
-    "description": "Nedokonaná vražda - Stanislav Češka",
-    "authors": [
-      "Stanislav Češka"
-    ],
-    "date": "2026-09-25T11:39:09.706506+00:00"
-  },
-  {
-    "title": "Přezrálé moruše",
-    "url": "https://www.kosmas.cz/knihy/573971/prezrale-moruse/",
-    "description": "Přezrálé moruše - Jana Klimečková",
-    "authors": [
-      "Jana Klimečková"
-    ],
-    "date": "2026-09-25T11:39:08.706506+00:00"
-  },
-  {
-    "title": "Anička na řece",
-    "url": "https://www.kosmas.cz/knihy/573973/anicka-na-rece/",
-    "description": "Anička na řece - Ivana Peroutková",
-    "authors": [
-      "Ivana Peroutková"
-    ],
-    "date": "2026-09-25T11:39:07.706506+00:00"
-  },
-  {
-    "title": "Klub Zlatá hříva: První závody",
-    "url": "https://www.kosmas.cz/knihy/573974/klub-zlata-hriva-prvni-zavody/",
-    "description": "Klub Zlatá hříva: První závody - Táňa Šťastná",
-    "authors": [
-      "Táňa Šťastná"
-    ],
-    "date": "2026-09-25T11:39:06.706506+00:00"
-  },
-  {
-    "title": "Knihkupectví Love Island",
-    "url": "https://www.kosmas.cz/knihy/572908/knihkupectvi-love-island/",
-    "description": "Knihkupectví Love Island - Kate Frost",
-    "authors": [
-      "Kate Frost"
-    ],
-    "date": "2026-09-24T11:33:13.184571+00:00"
-  },
-  {
-    "title": "Konec zrcadlového bludiště",
-    "url": "https://www.kosmas.cz/knihy/572897/konec-zrcadloveho-bludiste/",
-    "description": "Konec zrcadlového bludiště - Ivo Fencl",
-    "authors": [
-      "Ivo Fencl"
-    ],
-    "date": "2026-09-24T11:33:12.184571+00:00"
-  },
-  {
-    "title": "Jelen, vlk a motýl",
-    "url": "https://www.kosmas.cz/knihy/573796/jelen-vlk-a-motyl/",
-    "description": "Jelen, vlk a motýl - Aneta Plšková",
-    "authors": [
-      "Aneta Plšková"
-    ],
-    "date": "2026-09-24T11:33:11.184571+00:00"
-  },
-  {
-    "title": "Živoucí lék",
-    "url": "https://www.kosmas.cz/knihy/573836/zivouci-lek/",
-    "description": "Živoucí lék - Lina Zeldovich",
-    "authors": [
-      "Lina Zeldovich"
-    ],
-    "date": "2026-09-24T11:33:10.184571+00:00"
-  },
-  {
-    "title": "Wetemaa: Hrútvang",
-    "url": "https://www.kosmas.cz/knihy/573877/wetemaa-hrutvang/",
-    "description": "Wetemaa: Hrútvang - Adam Andres",
-    "authors": [
-      "Adam Andres"
-    ],
-    "date": "2026-09-24T11:33:09.184571+00:00"
-  },
-  {
-    "title": "Národ ve stínu",
-    "url": "https://www.kosmas.cz/knihy/573939/narod-ve-stinu/",
-    "description": "Národ ve stínu - Chris Horton",
-    "authors": [
-      "Chris Horton"
-    ],
-    "date": "2026-09-24T11:33:08.184571+00:00"
-  },
-  {
-    "title": "Santova vesnička",
-    "url": "https://www.kosmas.cz/knihy/573941/santova-vesnicka/",
-    "description": "Santova vesnička",
-    "authors": [],
-    "date": "2026-09-24T11:33:07.184571+00:00"
-  },
-  {
-    "title": "Amazing 22",
-    "url": "https://www.kosmas.cz/knihy/573955/amazing-22/",
-    "description": "Amazing 22",
-    "authors": [],
-    "date": "2026-09-24T11:33:06.184571+00:00"
-  },
-  {
-    "title": "Život bez studu - Soucitný průvodce odbourávání studu",
-    "url": "https://www.kosmas.cz/knihy/573956/zivot-bez-studu-soucitny-pruvodce-odbouravani-studu/",
-    "description": "Život bez studu - Soucitný průvodce odbourávání studu - David Bedrick",
-    "authors": [
-      "David Bedrick"
-    ],
-    "date": "2026-09-24T11:33:05.184571+00:00"
-  },
-  {
-    "title": "Matematika pro 2 ročník základní školy 2.díl",
-    "url": "https://www.kosmas.cz/knihy/572970/matematika-pro-2-rocnik-zakladni-skoly-2.dil/",
-    "description": "Matematika pro 2 ročník základní školy 2.díl - Miroslava Čížková Pišlova",
-    "authors": [
-      "Miroslava Čížková Pišlova"
-    ],
-    "date": "2026-09-24T11:33:04.184571+00:00"
-  },
-  {
-    "title": "Úžasný život a lásky Nelly Carterové",
-    "url": "https://www.kosmas.cz/knihy/573089/uzasny-zivot-a-lasky-nelly-carterove/",
-    "description": "Úžasný život a lásky Nelly Carterové - Brionni Nwosu",
-    "authors": [
-      "Brionni Nwosu"
-    ],
-    "date": "2026-09-24T11:33:03.184571+00:00"
   }
 ]

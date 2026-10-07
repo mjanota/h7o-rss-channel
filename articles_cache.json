@@ -8,14 +8,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Kluci z paneláku",
-    "url": "https://www.h7o.cz/clanky/14537-kluci-z-panelaku",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
-    "date": "2026-07-09T00:00:00",
-    "author": "Vratislav Maňák",
-    "category": "sloupek"
-  },
-  {
     "title": "Digitální koronaslovníček aneb Čeština v době pandemické",
     "url": "https://www.h7o.cz/clanky/14565-digitalni-koronaslovnicek-aneb-cestina-v-dobe-pandemicke",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
@@ -493,6 +485,14 @@
     "description": "Zpráva o čestném hostování Česka na Frankfurtském knižním veletrhu a jeho prozatímní přípravy zatím u literární veřejnosti vyvolaly hlavně obvyklé brblání, jestli celý ten nákladný cirkus vůbec k něčemu bude. Brblání ovšem není pouze český národní sport, němčina má pro tutéž etologickou reakci…",
     "date": "2026-10-06T00:00:00",
     "author": "Ondřej Nezbeda",
+    "category": "téma"
+  },
+  {
+    "title": "Jednat slovy. Laskavost vlaštovky má větší váhu než zákony vládců",
+    "url": "https://www.h7o.cz/clanky/14621-jednat-slovy-laskavost-vlastovky-ma-vetsi-vahu-nez-zakony-vladcu",
+    "description": "Včera večer byl slavnostně zahájen Frankfurtský knižní veletrh, na němž je Česko čestným hostem. Přinášíme zahajovací projev Radky Denemarkové.",
+    "date": "2026-10-07T00:00:00",
+    "author": "Radka Denemarková",
     "category": "téma"
   }
 ]

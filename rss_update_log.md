@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-07 13:08:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Prague 1900–2025
+2. Země světa - 10/2026 - Okcitánie
+3. Kronika komunistického teroru 1948–1953
+4. Krakonoš
+5. Robert Záruba
+6. Kathulos
+7. Souhvězdí léta
+8. Adriena Šimotová. Radost ze života
+9. Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze
+10. Zeď
+11. Případ muže z lahve
+12. Kroniky Lučných vrchů 3 - Stíny v šeru
+13. Rork - Velké evropské komiksy (základní verze)
+14. Delicious in Dungeon - Chuť podzemí 3
+15. Mládí na hřišti 12: Protože si chci promluvit
+16. Král všech developerů 3
+17. SpongeBob 10/2026
+18. Láska ve střihu cosplaye 15
+19. Modrá CREW 48: Habemus bastard 1
+20. Star Wars - Vrcholná Republika: Hranice rovnováhy - Precedens
+
+---
+
+## 🕐 2026-10-07 13:08:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Jednat slovy. Laskavost vlaštovky má větší váhu než zákony vládců
+
+---
+
 ## 🕐 2026-10-06 13:11:25 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Naděje není prognostika
-
----
-
-## 🕐 2026-09-30 12:23:10 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Kavárna druhých šancí
-2. Hvězda nad arabským peklem
-3. Seznam
-4. Ela a kniha času
-5. Řehka
-6. Štěně, které se ztratilo o Vánocích
-7. Lamine Yamal
-8. My, hasiči
-9. Píseň nad městem
-10. Já tomu říkám zen – jak tomu říkáš ty
-11. Brouci, motýli, stonožky, štíři a další
-12. Krušnohorsko za císaře pána
-13. Lada
-14. Kniha rekordů Formule 1
-15. Antická atletika
-16. Kostra v kopcích
-17. A pak listy zašeptaly...
-18. Dny ze skla
-19. Noc baby jagy
-20. Kalendář Česká krajina 2027
-
----
-
-## 🕐 2026-09-30 12:23:09 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Dvojnásobný Booker?
 
 ---
 
