@@ -1,13 +1,5 @@
 [
   {
-    "title": "Boj o Českou televizi je bojem o monopol na interpretace",
-    "url": "https://www.h7o.cz/clanky/14563-boj-o-ceskou-televizi-je-bojem-o-monopol-na-interpretace",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
-    "date": "2026-07-10T00:00:00",
-    "author": "Karel Hvížďala",
-    "category": "sloupek"
-  },
-  {
     "title": "Digitální koronaslovníček aneb Čeština v době pandemické",
     "url": "https://www.h7o.cz/clanky/14565-digitalni-koronaslovnicek-aneb-cestina-v-dobe-pandemicke",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
@@ -493,6 +485,14 @@
     "description": "Včera večer byl slavnostně zahájen Frankfurtský knižní veletrh, na němž je Česko čestným hostem. Přinášíme zahajovací projev Radky Denemarkové.",
     "date": "2026-10-07T00:00:00",
     "author": "Radka Denemarková",
+    "category": "téma"
+  },
+  {
+    "title": "V této zemi mluví německy",
+    "url": "https://www.h7o.cz/clanky/14622-v-teto-zemi-mluvi-nemecky",
+    "description": "Přestože dnes odpoledne světem prolétne zřejmě nejdůležitější zpráva literárního světa — jméno laureáta Nobelovy ceny za literaturu — v německém Frankfurtu začal dlouho očekávaný knižní veletrh. V příštích třech dnech bude přímo z místa reportovat redaktor Hosta Václav Maxmilián.",
+    "date": "2026-10-08T00:00:00",
+    "author": "Václav Maxmilián",
     "category": "téma"
   }
 ]

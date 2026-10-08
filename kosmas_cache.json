@@ -1,5 +1,181 @@
 [
   {
+    "title": "Hlasy propasti",
+    "url": "https://www.kosmas.cz/knihy/574213/hlasy-propasti/",
+    "description": "Hlasy propasti - Dušan Valent",
+    "authors": [
+      "Dušan Valent"
+    ],
+    "date": "2026-10-08T13:15:36.525655+00:00"
+  },
+  {
+    "title": "Tajný večírek",
+    "url": "https://www.kosmas.cz/knihy/574354/tajny-vecirek/",
+    "description": "Tajný večírek - Patricia Gibneyová",
+    "authors": [
+      "Patricia Gibneyová"
+    ],
+    "date": "2026-10-08T13:15:35.525655+00:00"
+  },
+  {
+    "title": "Šerosvit v duši",
+    "url": "https://www.kosmas.cz/knihy/574447/serosvit-v-dusi/",
+    "description": "Šerosvit v duši - Lucie Ortega",
+    "authors": [
+      "Lucie Ortega"
+    ],
+    "date": "2026-10-08T13:15:34.525655+00:00"
+  },
+  {
+    "title": "Dvůr hadů a tajemství",
+    "url": "https://www.kosmas.cz/knihy/574567/dvur-hadu-a-tajemstvi/",
+    "description": "Dvůr hadů a tajemství - Eliza Raine",
+    "authors": [
+      "Eliza Raine"
+    ],
+    "date": "2026-10-08T13:15:33.525655+00:00"
+  },
+  {
+    "title": "Encyklopedie komiksu v Československu 1945 - 1989 2. díl",
+    "url": "https://www.kosmas.cz/knihy/574041/encyklopedie-komiksu-v-ceskoslovensku-1945-1989-2.-dil/",
+    "description": "Encyklopedie komiksu v Československu 1945 - 1989 2. díl - Josef Ládek, Robert Pavelka",
+    "authors": [
+      "Josef Ládek",
+      "Robert Pavelka"
+    ],
+    "date": "2026-10-08T13:15:32.525655+00:00"
+  },
+  {
+    "title": "Zatímco sněžilo",
+    "url": "https://www.kosmas.cz/knihy/574576/zatimco-snezilo/",
+    "description": "Zatímco sněžilo - Julia London",
+    "authors": [
+      "Julia London"
+    ],
+    "date": "2026-10-08T13:15:31.525655+00:00"
+  },
+  {
+    "title": "Dračí oheň - Děti osudu",
+    "url": "https://www.kosmas.cz/knihy/574579/draci-ohen-deti-osudu/",
+    "description": "Dračí oheň - Děti osudu - Kristina Hlaváčková",
+    "authors": [
+      "Kristina Hlaváčková"
+    ],
+    "date": "2026-10-08T13:15:30.525655+00:00"
+  },
+  {
+    "title": "Kočička Hamley a vánoční tajemství",
+    "url": "https://www.kosmas.cz/knihy/574501/kocicka-hamley-a-vanocni-tajemstvi/",
+    "description": "Kočička Hamley a vánoční tajemství - Sandra J. Paulová",
+    "authors": [
+      "Sandra J. Paulová"
+    ],
+    "date": "2026-10-08T13:15:29.525655+00:00"
+  },
+  {
+    "title": "Krvavá koruna",
+    "url": "https://www.kosmas.cz/knihy/574641/krvava-koruna/",
+    "description": "Krvavá koruna - Zdeňka Husáková",
+    "authors": [
+      "Zdeňka Husáková"
+    ],
+    "date": "2026-10-08T13:15:28.525655+00:00"
+  },
+  {
+    "title": "Květinová fantazie",
+    "url": "https://www.kosmas.cz/knihy/574642/kvetinova-fantazie/",
+    "description": "Květinová fantazie - Melpomeni Chatzipanagiotouová",
+    "authors": [
+      "Melpomeni Chatzipanagiotouová"
+    ],
+    "date": "2026-10-08T13:15:27.525655+00:00"
+  },
+  {
+    "title": "Následuj mě v rytmu Vánoc",
+    "url": "https://www.kosmas.cz/knihy/572198/nasleduj-me-v-rytmu-vanoc/",
+    "description": "Následuj mě v rytmu Vánoc - Adéla Rosípalová, Alena Štraubová",
+    "authors": [
+      "Adéla Rosípalová",
+      "Alena Štraubová"
+    ],
+    "date": "2026-10-08T13:15:26.525655+00:00"
+  },
+  {
+    "title": "Za pohádkou s čertíkem Chloupkem",
+    "url": "https://www.kosmas.cz/knihy/574495/za-pohadkou-s-certikem-chloupkem/",
+    "description": "Za pohádkou s čertíkem Chloupkem - Renáta Navrátilová",
+    "authors": [
+      "Renáta Navrátilová"
+    ],
+    "date": "2026-10-08T13:15:25.525655+00:00"
+  },
+  {
+    "title": "Frida A1/A2",
+    "url": "https://www.kosmas.cz/knihy/574578/frida-a1-a2/",
+    "description": "Frida A1/A2 - Barbora Vázquezová",
+    "authors": [
+      "Barbora Vázquezová"
+    ],
+    "date": "2026-10-08T13:15:24.525655+00:00"
+  },
+  {
+    "title": "Rudi, ty seš vůl!",
+    "url": "https://www.kosmas.cz/knihy/574647/rudi-ty-ses-vul/",
+    "description": "Rudi, ty seš vůl! - Félix Šťastný",
+    "authors": [
+      "Félix Šťastný"
+    ],
+    "date": "2026-10-08T13:15:23.525655+00:00"
+  },
+  {
+    "title": "Příběhy o Erikovi 3",
+    "url": "https://www.kosmas.cz/knihy/574650/pribehy-o-erikovi-3/",
+    "description": "Příběhy o Erikovi 3 - Major Slik",
+    "authors": [
+      "Major Slik"
+    ],
+    "date": "2026-10-08T13:15:22.525655+00:00"
+  },
+  {
+    "title": "Máte pravdu? To nestačí.",
+    "url": "https://www.kosmas.cz/knihy/573448/mate-pravdu-to-nestaci/",
+    "description": "Máte pravdu? To nestačí. - Radim Pařík",
+    "authors": [
+      "Radim Pařík"
+    ],
+    "date": "2026-10-08T13:15:21.525655+00:00"
+  },
+  {
+    "title": "Nejužitečnější hráč",
+    "url": "https://www.kosmas.cz/knihy/573851/nejuzitecnejsi-hrac/",
+    "description": "Nejužitečnější hráč - A.M. Woody",
+    "authors": [
+      "A.M. Woody"
+    ],
+    "date": "2026-10-08T13:15:20.525655+00:00"
+  },
+  {
+    "title": "Mezi námi bandity",
+    "url": "https://www.kosmas.cz/knihy/574150/mezi-nami-bandity/",
+    "description": "Mezi námi bandity",
+    "authors": [],
+    "date": "2026-10-08T13:15:19.525655+00:00"
+  },
+  {
+    "title": "Dobré chutnání",
+    "url": "https://www.kosmas.cz/knihy/574152/dobre-chutnani/",
+    "description": "Dobré chutnání",
+    "authors": [],
+    "date": "2026-10-08T13:15:18.525655+00:00"
+  },
+  {
+    "title": "Ela hop!",
+    "url": "https://www.kosmas.cz/knihy/574153/ela-hop/",
+    "description": "Ela hop!",
+    "authors": [],
+    "date": "2026-10-08T13:15:17.525655+00:00"
+  },
+  {
     "title": "Prague 1900–2025",
     "url": "https://www.kosmas.cz/knihy/572040/prague-1900-2025/",
     "description": "Prague 1900–2025 - Zdeněk Lukeš, Pavel Hroch",
@@ -1591,186 +1767,5 @@
     "description": "MAXI rodinný plánovač 2027",
     "authors": [],
     "date": "2026-09-26T11:13:26.564167+00:00"
-  },
-  {
-    "title": "Minecraft - Stavební chuťovky 6",
-    "url": "https://www.kosmas.cz/knihy/573755/minecraft-stavebni-chutovky-6/",
-    "description": "Minecraft - Stavební chuťovky 6 - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-09-26T11:13:25.564167+00:00"
-  },
-  {
-    "title": "Mazlíček snů",
-    "url": "https://www.kosmas.cz/knihy/573763/mazlicek-snu/",
-    "description": "Mazlíček snů - Altea Villa",
-    "authors": [
-      "Altea Villa"
-    ],
-    "date": "2026-09-26T11:13:24.564167+00:00"
-  },
-  {
-    "title": "Bluey - Výlet",
-    "url": "https://www.kosmas.cz/knihy/573768/bluey-vylet/",
-    "description": "Bluey - Výlet - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-09-26T11:13:23.564167+00:00"
-  },
-  {
-    "title": "Samolepková knížka – Veselí koně",
-    "url": "https://www.kosmas.cz/knihy/573769/samolepkova-knizka-veseli-kone/",
-    "description": "Samolepková knížka – Veselí koně - Jana Sedláčková",
-    "authors": [
-      "Jana Sedláčková"
-    ],
-    "date": "2026-09-26T11:13:22.564167+00:00"
-  },
-  {
-    "title": "Princezna a jednorožec - Kouzelné překvapení",
-    "url": "https://www.kosmas.cz/knihy/573774/princezna-a-jednorozec-kouzelne-prekvapeni/",
-    "description": "Princezna a jednorožec - Kouzelné překvapení - Zanni Louise, Kyla May",
-    "authors": [
-      "Zanni Louise",
-      "Kyla May"
-    ],
-    "date": "2026-09-26T11:13:21.564167+00:00"
-  },
-  {
-    "title": "Rodokmen ticha",
-    "url": "https://www.kosmas.cz/knihy/569690/rodokmen-ticha/",
-    "description": "Rodokmen ticha - Barbora Englischová",
-    "authors": [
-      "Barbora Englischová"
-    ],
-    "date": "2026-09-26T11:13:13.564167+00:00"
-  },
-  {
-    "title": "151 pádů na polární expedici Kungsleden",
-    "url": "https://www.kosmas.cz/knihy/569727/151-padu-na-polarni-expedici-kungsleden/",
-    "description": "151 pádů na polární expedici Kungsleden - Lucie Kutrová",
-    "authors": [
-      "Lucie Kutrová"
-    ],
-    "date": "2026-09-26T11:13:12.564167+00:00"
-  },
-  {
-    "title": "Popel ve vlasech",
-    "url": "https://www.kosmas.cz/knihy/569442/popel-ve-vlasech/",
-    "description": "Popel ve vlasech - Markéta Prášková",
-    "authors": [
-      "Markéta Prášková"
-    ],
-    "date": "2026-09-26T11:13:11.564167+00:00"
-  },
-  {
-    "title": "Zlatostříbrná fotbalová alej",
-    "url": "https://www.kosmas.cz/knihy/568611/zlatostribrna-fotbalova-alej/",
-    "description": "Zlatostříbrná fotbalová alej - Felix Boom",
-    "authors": [
-      "Felix Boom"
-    ],
-    "date": "2026-09-26T11:13:10.564167+00:00"
-  },
-  {
-    "title": "Neboj se tmy",
-    "url": "https://www.kosmas.cz/knihy/572750/neboj-se-tmy/",
-    "description": "Neboj se tmy - Per Moritz Stenborg",
-    "authors": [
-      "Per Moritz Stenborg"
-    ],
-    "date": "2026-09-25T11:39:25.706506+00:00"
-  },
-  {
-    "title": "Haleluja!",
-    "url": "https://www.kosmas.cz/knihy/573097/haleluja/",
-    "description": "Haleluja! - Hana Hegerová",
-    "authors": [
-      "Hana Hegerová"
-    ],
-    "date": "2026-09-25T11:39:24.706506+00:00"
-  },
-  {
-    "title": "Dětské detektivní příběhy s hádankou aneb Pátrači zasahují",
-    "url": "https://www.kosmas.cz/knihy/573929/detske-detektivni-pribehy-s-hadankou-aneb-patraci-zasahuji/",
-    "description": "Dětské detektivní příběhy s hádankou aneb Pátrači zasahují - Jaroslav Major, Alan Piskač",
-    "authors": [
-      "Jaroslav Major",
-      "Alan Piskač"
-    ],
-    "date": "2026-09-25T11:39:23.706506+00:00"
-  },
-  {
-    "title": "Svět koní - Čti a hraj si s námi",
-    "url": "https://www.kosmas.cz/knihy/573320/svet-koni-cti-a-hraj-si-s-nami/",
-    "description": "Svět koní - Čti a hraj si s námi",
-    "authors": [],
-    "date": "2026-09-25T11:39:22.706506+00:00"
-  },
-  {
-    "title": "Samolepková knížka – Kamarádi pejsci",
-    "url": "https://www.kosmas.cz/knihy/573488/samolepkova-knizka-kamaradi-pejsci/",
-    "description": "Samolepková knížka – Kamarádi pejsci - Jana Sedláčková",
-    "authors": [
-      "Jana Sedláčková"
-    ],
-    "date": "2026-09-25T11:39:21.706506+00:00"
-  },
-  {
-    "title": "Pastevcovy zápisky 3",
-    "url": "https://www.kosmas.cz/knihy/573496/pastevcovy-zapisky-3/",
-    "description": "Pastevcovy zápisky 3 - František Groessl",
-    "authors": [
-      "František Groessl"
-    ],
-    "date": "2026-09-25T11:39:20.706506+00:00"
-  },
-  {
-    "title": "Létající andělé",
-    "url": "https://www.kosmas.cz/knihy/573797/letajici-andele/",
-    "description": "Létající andělé - Danielle Steel",
-    "authors": [
-      "Danielle Steel"
-    ],
-    "date": "2026-09-25T11:39:19.706506+00:00"
-  },
-  {
-    "title": "Dark Verse - kniha druhá: Smrťák",
-    "url": "https://www.kosmas.cz/knihy/573958/dark-verse-kniha-druha-smrtak/",
-    "description": "Dark Verse - kniha druhá: Smrťák - RuNyx",
-    "authors": [
-      "RuNyx"
-    ],
-    "date": "2026-09-25T11:39:18.706506+00:00"
-  },
-  {
-    "title": "Tajemství pana M.",
-    "url": "https://www.kosmas.cz/knihy/573959/tajemstvi-pana-m/",
-    "description": "Tajemství pana M. - Natálie Pospíšilová, Pavel Šimák",
-    "authors": [
-      "Natálie Pospíšilová",
-      "Pavel Šimák"
-    ],
-    "date": "2026-09-25T11:39:17.706506+00:00"
-  },
-  {
-    "title": "Okna plná dálek",
-    "url": "https://www.kosmas.cz/knihy/573960/okna-plna-dalek/",
-    "description": "Okna plná dálek - Rainer Maria Rilke",
-    "authors": [
-      "Rainer Maria Rilke"
-    ],
-    "date": "2026-09-25T11:39:16.706506+00:00"
-  },
-  {
-    "title": "Tajemství kreslení Minecraftu",
-    "url": "https://www.kosmas.cz/knihy/573961/tajemstvi-kresleni-minecraftu/",
-    "description": "Tajemství kreslení Minecraftu - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-09-25T11:39:15.706506+00:00"
   }
 ]

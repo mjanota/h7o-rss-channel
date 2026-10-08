@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-08 13:15:36 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Hlasy propasti
+2. Tajný večírek
+3. Šerosvit v duši
+4. Dvůr hadů a tajemství
+5. Encyklopedie komiksu v Československu 1945 - 1989 2. díl
+6. Zatímco sněžilo
+7. Dračí oheň - Děti osudu
+8. Kočička Hamley a vánoční tajemství
+9. Krvavá koruna
+10. Květinová fantazie
+11. Následuj mě v rytmu Vánoc
+12. Za pohádkou s čertíkem Chloupkem
+13. Frida A1/A2
+14. Rudi, ty seš vůl!
+15. Příběhy o Erikovi 3
+16. Máte pravdu? To nestačí.
+17. Nejužitečnější hráč
+18. Mezi námi bandity
+19. Dobré chutnání
+20. Ela hop!
+
+---
+
+## 🕐 2026-10-08 13:15:35 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. V této zemi mluví německy
+
+---
+
 ## 🕐 2026-10-07 13:08:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Norská lekce z Frankfurtu
-
----
-
-## 🕐 2026-10-01 12:58:21 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Pláč straky
-2. Česká teorie divadla jako hra a kvadratura kruhu
-3. ...abych vysvětlil budoucím pokolením
-4. 365 nízkosacharidových receptů
-5. Esterčini otcové
-6. Pražské stíny
-7. Digitální pevnost
-8. Babča Gruffalová
-9. Zdena Koubková: Příběh české rekordwoman
-10. Noc zmaru
-11. Merry Fucking Christmas
-12. Ztracené případy
-13. Právo pod plachtami
-14. My, hasiči
-15. Dobřanské eklogy
-16. Knížka pro duchovní radost
-17. Jsme jen náhoda?
-18. Hledá se Jane
-19. Sherlock Holmes – Stříbrný lysáček
-20. Židovka a démon
-
----
-
-## 🕐 2026-10-01 12:58:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Naděje není prognostika
 
 ---
 
