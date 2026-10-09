@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-09 13:02:33 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Inkoust barvy hrůzy
+2. Mýty o Notre-Dame
+3. Loučení s posvátnem?
+4. Juha
+5. Sezona černých ovcí 1
+6. List Českým
+7. Já s ní (m) žasnu
+8. Život a...
+9. Felix
+10. Volání oceánu
+11. Tatínku, vyprávěj - Kniha pro předávání příběhů
+12. Redeeming 6
+13. Drahá Marto
+14. Bohyně krve a kostí
+15. Arlo a havran
+16. Dívka jménem Willow: Mlžný tanec
+17. Dcera sváru
+18. Bárnaby - bubák zpod postele
+19. Divotvorci: Kniha druhá
+20. Hvězdy NHL 2027
+
+---
+
+## 🕐 2026-10-09 13:02:32 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Co lze říct beze slov
+
+---
+
 ## 🕐 2026-10-08 13:15:36 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -254,50 +301,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-02 12:20:37 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 17
-
-**Tituly nových položek:**
-
-1. Annie Bot
-2. Příběh české reklamy v 1. polovině 20. století
-3. Moderní dětská a dorostová psychiatrie
-4. Děs
-5. Navzdory všemu
-6. Život zálesáka
-7. Prague, My Love
-8. Křečkopedie
-9. Superletí
-10. Malý atlas lokomotiv 2027
-11. Kontexty 4/2026
-12. Gábinin Kouzelný domek - Mňau-žasné pohádky
-13. Podkin Jednoouško: Uki a vyhnanci
-14. Kočky a jejich magie
-15. S ex až na věky
-16. I slunce vychází
-17. Když se narodí SOVA
-
----
-
-## 🕐 2026-10-02 12:20:34 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Norská lekce z Frankfurtu
 
 ---
 
