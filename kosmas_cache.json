@@ -1,5 +1,87 @@
 [
   {
+    "title": "Jíst a být",
+    "url": "https://www.kosmas.cz/knihy/574154/jist-a-byt/",
+    "description": "Jíst a být - Radim Brázda",
+    "authors": [
+      "Radim Brázda"
+    ],
+    "date": "2026-10-10T12:19:12.634689+00:00"
+  },
+  {
+    "title": "P. S. Líbíš se mi",
+    "url": "https://www.kosmas.cz/knihy/574674/p.-s.-libis-se-mi/",
+    "description": "P. S. Líbíš se mi - Kasie West",
+    "authors": [
+      "Kasie West"
+    ],
+    "date": "2026-10-10T12:19:05.634689+00:00"
+  },
+  {
+    "title": "Jednorožec Sněhovka",
+    "url": "https://www.kosmas.cz/knihy/574675/jednorozec-snehovka/",
+    "description": "Jednorožec Sněhovka - Tereza Pařízková, Lota Slezáková",
+    "authors": [
+      "Tereza Pařízková",
+      "Lota Slezáková"
+    ],
+    "date": "2026-10-10T12:19:04.634689+00:00"
+  },
+  {
+    "title": "Karmínový úsvit",
+    "url": "https://www.kosmas.cz/knihy/574676/karminovy-usvit/",
+    "description": "Karmínový úsvit - Veronika Darnel",
+    "authors": [
+      "Veronika Darnel"
+    ],
+    "date": "2026-10-10T12:19:03.634689+00:00"
+  },
+  {
+    "title": "Q a kouzelná prakniha",
+    "url": "https://www.kosmas.cz/knihy/574678/q-a-kouzelna-prakniha/",
+    "description": "Q a kouzelná prakniha - Ivona Březinová",
+    "authors": [
+      "Ivona Březinová"
+    ],
+    "date": "2026-10-10T12:19:02.634689+00:00"
+  },
+  {
+    "title": "Půlnoční krámek zázraků",
+    "url": "https://www.kosmas.cz/knihy/574679/pulnocni-kramek-zazraku/",
+    "description": "Půlnoční krámek zázraků - Kateřina Šardická",
+    "authors": [
+      "Kateřina Šardická"
+    ],
+    "date": "2026-10-10T12:19:01.634689+00:00"
+  },
+  {
+    "title": "Sametová koruna",
+    "url": "https://www.kosmas.cz/knihy/574680/sametova-koruna/",
+    "description": "Sametová koruna - Lena Valenová",
+    "authors": [
+      "Lena Valenová"
+    ],
+    "date": "2026-10-10T12:19:00.634689+00:00"
+  },
+  {
+    "title": "Poníci z Lillasundu - Zachráněné přátelství",
+    "url": "https://www.kosmas.cz/knihy/574570/ponici-z-lillasundu-zachranene-pratelstvi/",
+    "description": "Poníci z Lillasundu - Zachráněné přátelství - Kathrin Orso",
+    "authors": [
+      "Kathrin Orso"
+    ],
+    "date": "2026-10-10T12:18:59.634689+00:00"
+  },
+  {
+    "title": "Vánoce u myšek",
+    "url": "https://www.kosmas.cz/knihy/574723/vanoce-u-mysek/",
+    "description": "Vánoce u myšek - Daniela Krolupperová",
+    "authors": [
+      "Daniela Krolupperová"
+    ],
+    "date": "2026-10-10T12:18:58.634689+00:00"
+  },
+  {
     "title": "Inkoust barvy hrůzy",
     "url": "https://www.kosmas.cz/knihy/574063/inkoust-barvy-hruzy/",
     "description": "Inkoust barvy hrůzy - Sabina Křováková",
@@ -1708,76 +1790,5 @@
     "description": "Týdenní diář A5 Print Plus černý 2027",
     "authors": [],
     "date": "2026-09-29T12:37:37.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Twin s poznámkami Abstract 2027",
-    "url": "https://www.kosmas.cz/knihy/573688/tydenni-diar-a5-twin-s-poznamkami-abstract-2027/",
-    "description": "Týdenní diář A5 Twin s poznámkami Abstract 2027",
-    "authors": [],
-    "date": "2026-09-29T12:37:36.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Twin s poznámkami Spiral 2027",
-    "url": "https://www.kosmas.cz/knihy/573689/tydenni-diar-a5-twin-s-poznamkami-spiral-2027/",
-    "description": "Týdenní diář A5 Twin s poznámkami Spiral 2027",
-    "authors": [],
-    "date": "2026-09-29T12:37:35.369659+00:00"
-  },
-  {
-    "title": "Kapesní diář A6 Memory bílý s gumičkou 2027",
-    "url": "https://www.kosmas.cz/knihy/573692/kapesni-diar-a6-memory-bily-s-gumickou-2027/",
-    "description": "Kapesní diář A6 Memory bílý s gumičkou 2027",
-    "authors": [],
-    "date": "2026-09-29T12:37:34.369659+00:00"
-  },
-  {
-    "title": "Policejní vozidla",
-    "url": "https://www.kosmas.cz/knihy/572817/policejni-vozidla/",
-    "description": "Policejní vozidla - Francesco Tomasinelli",
-    "authors": [
-      "Francesco Tomasinelli"
-    ],
-    "date": "2026-09-28T13:38:16.777834+00:00"
-  },
-  {
-    "title": "Démanty noci",
-    "url": "https://www.kosmas.cz/knihy/573084/demanty-noci/",
-    "description": "Démanty noci - Arnošt Lustig",
-    "authors": [
-      "Arnošt Lustig"
-    ],
-    "date": "2026-09-28T13:38:15.777834+00:00"
-  },
-  {
-    "title": "Vyškrabovací obrázky - Duhová zvířátka",
-    "url": "https://www.kosmas.cz/knihy/573277/vyskrabovaci-obrazky-duhova-zviratka/",
-    "description": "Vyškrabovací obrázky - Duhová zvířátka",
-    "authors": [],
-    "date": "2026-09-28T13:38:13.777834+00:00"
-  },
-  {
-    "title": "Pravidla českého pravopisu",
-    "url": "https://www.kosmas.cz/knihy/573287/pravidla-ceskeho-pravopisu/",
-    "description": "Pravidla českého pravopisu - TZ-one",
-    "authors": [
-      "TZ-one"
-    ],
-    "date": "2026-09-28T13:38:11.777834+00:00"
-  },
-  {
-    "title": "Jednorožci - Čti a hraj si s námi",
-    "url": "https://www.kosmas.cz/knihy/573319/jednorozci-cti-a-hraj-si-s-nami/",
-    "description": "Jednorožci - Čti a hraj si s námi",
-    "authors": [],
-    "date": "2026-09-28T13:38:10.777834+00:00"
-  },
-  {
-    "title": "Hrf hif huf",
-    "url": "https://www.kosmas.cz/knihy/573430/hrf-hif-huf/",
-    "description": "Hrf hif huf - Magdalena Rutová",
-    "authors": [
-      "Magdalena Rutová"
-    ],
-    "date": "2026-09-28T13:38:08.777834+00:00"
   }
 ]

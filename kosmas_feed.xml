@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Jíst a být</title>
+      <link>https://www.kosmas.cz/knihy/574154/jist-a-byt/</link>
+      <description>Jíst a být - Radim Brázda</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574154/jist-a-byt/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>P. S. Líbíš se mi</title>
+      <link>https://www.kosmas.cz/knihy/574674/p.-s.-libis-se-mi/</link>
+      <description>P. S. Líbíš se mi - Kasie West</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574674/p.-s.-libis-se-mi/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jednorožec Sněhovka</title>
+      <link>https://www.kosmas.cz/knihy/574675/jednorozec-snehovka/</link>
+      <description>Jednorožec Sněhovka - Tereza Pařízková, Lota Slezáková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574675/jednorozec-snehovka/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Karmínový úsvit</title>
+      <link>https://www.kosmas.cz/knihy/574676/karminovy-usvit/</link>
+      <description>Karmínový úsvit - Veronika Darnel</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574676/karminovy-usvit/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q a kouzelná prakniha</title>
+      <link>https://www.kosmas.cz/knihy/574678/q-a-kouzelna-prakniha/</link>
+      <description>Q a kouzelná prakniha - Ivona Březinová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574678/q-a-kouzelna-prakniha/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Půlnoční krámek zázraků</title>
+      <link>https://www.kosmas.cz/knihy/574679/pulnocni-kramek-zazraku/</link>
+      <description>Půlnoční krámek zázraků - Kateřina Šardická</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574679/pulnocni-kramek-zazraku/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sametová koruna</title>
+      <link>https://www.kosmas.cz/knihy/574680/sametova-koruna/</link>
+      <description>Sametová koruna - Lena Valenová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574680/sametova-koruna/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poníci z Lillasundu - Zachráněné přátelství</title>
+      <link>https://www.kosmas.cz/knihy/574570/ponici-z-lillasundu-zachranene-pratelstvi/</link>
+      <description>Poníci z Lillasundu - Zachráněné přátelství - Kathrin Orso</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574570/ponici-z-lillasundu-zachranene-pratelstvi/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vánoce u myšek</title>
+      <link>https://www.kosmas.cz/knihy/574723/vanoce-u-mysek/</link>
+      <description>Vánoce u myšek - Daniela Krolupperová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574723/vanoce-u-mysek/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:18:58 +0000</pubDate>
+    </item>
     <item>
       <title>Inkoust barvy hrůzy</title>
       <link>https://www.kosmas.cz/knihy/574063/inkoust-barvy-hruzy/</link>
@@ -644,69 +707,6 @@
       <description>Eldritch - Keri Lake</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/574321/eldritch/</guid>
       <pubDate>Mon, 05 Oct 2026 14:21:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Falling</title>
-      <link>https://www.kosmas.cz/knihy/574324/free-falling/</link>
-      <description>Free Falling - Lyla Sage</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574324/free-falling/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Freyja</title>
-      <link>https://www.kosmas.cz/knihy/574326/freyja/</link>
-      <description>Freyja - Margrét Ann Thors</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574326/freyja/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Hold Someone in your Heart</title>
-      <link>https://www.kosmas.cz/knihy/574329/how-to-hold-someone-in-your-heart/</link>
-      <description>How to Hold Someone in your Heart - Mizuki Tsujimura</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574329/how-to-hold-someone-in-your-heart/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keeping 13</title>
-      <link>https://www.kosmas.cz/knihy/574331/keeping-13/</link>
-      <description>Keeping 13 - Chloe Walsh</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574331/keeping-13/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>More Days at the Morisaki Bookshop</title>
-      <link>https://www.kosmas.cz/knihy/574334/more-days-at-the-morisaki-bookshop/</link>
-      <description>More Days at the Morisaki Bookshop - Satoshi Yagisawa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574334/more-days-at-the-morisaki-bookshop/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Days + More Days at the Morisaki Bookshop</title>
-      <link>https://www.kosmas.cz/knihy/574335/days-more-days-at-the-morisaki-bookshop/</link>
-      <description>Days + More Days at the Morisaki Bookshop - Satoshi Yagisawa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574335/days-more-days-at-the-morisaki-bookshop/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pablo and Splash: Viking Voyage</title>
-      <link>https://www.kosmas.cz/knihy/574336/pablo-and-splash-viking-voyage/</link>
-      <description>Pablo and Splash: Viking Voyage - Sheena Dempsey</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574336/pablo-and-splash-viking-voyage/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saddle Storm</title>
-      <link>https://www.kosmas.cz/knihy/574339/saddle-storm/</link>
-      <description>Saddle Storm - Roxanne Tully</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574339/saddle-storm/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Deal</title>
-      <link>https://www.kosmas.cz/knihy/574342/the-deal/</link>
-      <description>The Deal - Elle Kennedy</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574342/the-deal/</guid>
-      <pubDate>Mon, 05 Oct 2026 14:21:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
