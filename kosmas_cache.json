@@ -1,5 +1,42 @@
 [
   {
+    "title": "Skřítek a lišák",
+    "url": "https://www.kosmas.cz/knihy/573606/skritek-a-lisak/",
+    "description": "Skřítek a lišák - Astrid Lindgrenová",
+    "authors": [
+      "Astrid Lindgrenová"
+    ],
+    "date": "2026-10-11T12:35:55.068436+00:00"
+  },
+  {
+    "title": "Bílé vrány",
+    "url": "https://www.kosmas.cz/knihy/573608/bile-vrany/",
+    "description": "Bílé vrány - Hynek Čapka",
+    "authors": [
+      "Hynek Čapka"
+    ],
+    "date": "2026-10-11T12:35:54.068436+00:00"
+  },
+  {
+    "title": "Jiří Schelinger",
+    "url": "https://www.kosmas.cz/knihy/574254/jiri-schelinger/",
+    "description": "Jiří Schelinger - Petr Bošnakov, Milan Schelinger",
+    "authors": [
+      "Petr Bošnakov",
+      "Milan Schelinger"
+    ],
+    "date": "2026-10-11T12:35:49.068436+00:00"
+  },
+  {
+    "title": "Praha - vícejazyčná",
+    "url": "https://www.kosmas.cz/knihy/574255/praha-vicejazycna/",
+    "description": "Praha - vícejazyčná - Libor Sváček",
+    "authors": [
+      "Libor Sváček"
+    ],
+    "date": "2026-10-11T12:35:48.068436+00:00"
+  },
+  {
     "title": "Jíst a být",
     "url": "https://www.kosmas.cz/knihy/574154/jist-a-byt/",
     "description": "Jíst a být - Radim Brázda",
@@ -1762,33 +1799,5 @@
     "description": "Denní diář A5 Print Plus černý 2027",
     "authors": [],
     "date": "2026-09-29T12:37:41.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Memory bílý s gumičkou 2027",
-    "url": "https://www.kosmas.cz/knihy/573684/tydenni-diar-a5-memory-bily-s-gumickou-2027/",
-    "description": "Týdenní diář A5 Memory bílý s gumičkou 2027",
-    "authors": [],
-    "date": "2026-09-29T12:37:40.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Memory červený s gumičkou",
-    "url": "https://www.kosmas.cz/knihy/573685/tydenni-diar-a5-memory-cerveny-s-gumickou/",
-    "description": "Týdenní diář A5 Memory červený s gumičkou",
-    "authors": [],
-    "date": "2026-09-29T12:37:39.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Nebrasca angl. červený",
-    "url": "https://www.kosmas.cz/knihy/573686/tydenni-diar-a5-nebrasca-angl.-cerveny/",
-    "description": "Týdenní diář A5 Nebrasca angl. červený",
-    "authors": [],
-    "date": "2026-09-29T12:37:38.369659+00:00"
-  },
-  {
-    "title": "Týdenní diář A5 Print Plus černý 2027",
-    "url": "https://www.kosmas.cz/knihy/573687/tydenni-diar-a5-print-plus-cerny-2027/",
-    "description": "Týdenní diář A5 Print Plus černý 2027",
-    "authors": [],
-    "date": "2026-09-29T12:37:37.369659+00:00"
   }
 ]

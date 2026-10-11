@@ -5,6 +5,33 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-11 12:35:55 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 4
+
+**Tituly nových položek:**
+
+1. Skřítek a lišák
+2. Bílé vrány
+3. Jiří Schelinger
+4. Praha - vícejazyčná
+
+---
+
+## 🕐 2026-10-11 12:35:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-10 12:19:17 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -273,31 +300,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Podezřele dobrý román
-
----
-
-## 🕐 2026-10-04 12:11:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 2
-
-**Tituly nových položek:**
-
-1. Guinness World Records 2027
-2. The Ascendent
-
----
-
-## 🕐 2026-10-04 12:11:38 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
