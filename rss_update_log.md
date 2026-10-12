@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-12 15:09:01 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Smrtící čepel
+2. 5 × 3 + 1. Soutěž Havlovské aktovky
+3. Život mezi řádky
+4. Molekulární patologie a genetika maligních nádorů
+5. Láska, labutě a plasty
+6. Samoty
+7. Wednesday: Závod o Poeův pohár!
+8. Imunita a mikrobiom
+9. Oči jsou to nejlepší
+10. Kletba moře
+11. Jezero kostí
+12. Tohle je Rusko
+13. Myšák z hor a cesta za hvězdami
+14. Skutečné zdraví
+15. Sebeobrana v praxi
+16. Deník mileniálky
+17. Sběratelka písní
+18. Krupiérka
+
+---
+
+## 🕐 2026-10-12 15:08:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Zrovna poslouchala vítr
+
+---
+
 ## 🕐 2026-10-11 12:35:55 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -253,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Malá literatura u velkého moře
-
----
-
-## 🕐 2026-10-05 14:21:49 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Tenisovník
-2. Barevná kniha zábavy pro seniory
-3. Nalepování pro malé i velké
-4. Česká literatura 4/2026
-5. Má rusínská vyšívanka
-6. Úvod do křesťanské etiky
-7. Historická sociologie I
-8. As Long As the Lemon Trees Grow
-9. Brain Damage
-10. Diary of a Wimpy Kid 20: Partypooper
-11. Eldritch
-12. Free Falling
-13. Freyja
-14. How to Hold Someone in your Heart
-15. Keeping 13
-16. More Days at the Morisaki Bookshop
-17. Days + More Days at the Morisaki Bookshop
-18. Pablo and Splash: Viking Voyage
-19. Saddle Storm
-20. The Deal
-
----
-
-## 🕐 2026-10-05 14:21:47 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Podezřele dobrý román
 
 ---
 

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Cestovat",
-    "url": "https://www.h7o.cz/clanky/14538-cestovat",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
-    "date": "2026-07-14T00:00:00",
-    "author": "Dora Kaprálová",
-    "category": "sloupek"
-  },
-  {
     "title": "Dívky z továrny na lidi",
     "url": "https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-10T00:00:00",
     "author": "Václav Maxmilián",
     "category": "téma"
+  },
+  {
+    "title": "Zrovna poslouchala vítr",
+    "url": "https://www.h7o.cz/clanky/14625-zrovna-poslouchala-vitr",
+    "description": "Nobelovu cenu za literaturu získala Anne Carson. Švédská Akademie ocenila autorčin „hravý dialog s klasickou tradicí a antikou“.",
+    "date": "2026-10-12T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

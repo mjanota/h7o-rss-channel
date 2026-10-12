@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:08:59 +0000</lastBuildDate>
+    <item>
+      <title>Zrovna poslouchala vítr</title>
+      <link>https://www.h7o.cz/clanky/14625-zrovna-poslouchala-vitr</link>
+      <description>Nobelovu cenu za literaturu získala Anne Carson. Švédská Akademie ocenila autorčin „hravý dialog s klasickou tradicí a antikou“.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14625-zrovna-poslouchala-vitr</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Pozorování knih je uklidňující</title>
       <link>https://www.h7o.cz/clanky/14624-pozorovani-knih-je-uklidnujici</link>
@@ -441,13 +448,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi</guid>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cestovat</title>
-      <link>https://www.h7o.cz/clanky/14538-cestovat</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14538-cestovat</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
