@@ -1,13 +1,5 @@
 [
   {
-    "title": "Dívky z továrny na lidi",
-    "url": "https://www.h7o.cz/clanky/14566-divky-z-tovarny-na-lidi",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Michaela Webera z roku 2021.",
-    "date": "2026-07-15T00:00:00",
-    "author": "Michael Weber",
-    "category": "sloupek"
-  },
-  {
     "title": "Česká stopa ve světě",
     "url": "https://www.h7o.cz/clanky/14539-ceska-stopa-ve-svete",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-12T00:00:00",
     "author": "Zdeněk Staszek",
     "category": "zprávy"
+  },
+  {
+    "title": "Smuteční průvod světem plastů",
+    "url": "https://www.h7o.cz/clanky/14626-smutecni-pruvod-svetem-plastu",
+    "description": "Jaký tvar přisoudit Zemi? Může to být kostka… — kostka, s níž si Bůh hází. A zatímco se všechno mění v plast, těla chátrají a umírají. Na rozdíl od plastu tak trvalá nejsou. Elfriede Jelinek ve svém textu „Popel“ z roku 2024 tematizuje stesk nad úmrtím nejbližšího člověka, ale i environmentální žal…",
+    "date": "2026-10-13T00:00:00",
+    "author": "Markéta Pospišilíková",
+    "category": "recenze"
   }
 ]

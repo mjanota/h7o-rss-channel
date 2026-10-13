@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-13 14:01:18 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Deluxe dárkový set Tlapková patrola
+2. Deluxe dárkový set Prasátko Peppa
+3. Deluxe dárkový set Ledové království
+4. Deluxe dárkový set Lilo & Stitch
+5. Deluxe dárkový set Spiderman
+6. Biologie traumatu
+7. Online marketing: Od webových stránek k sociálním sítím
+8. Živoucí lék
+9. Nová éra hubnutí
+10. Vývoj aplikací ve SwiftUI
+11. Jezero kostí
+12. Ve dvou se to lépe táhne
+13. Dospívání na Samoi
+14. Případ Y
+15. Organic Name Reaction Flashcards / Kartičky jmenných organických chemických reakcí
+16. Tak jsem potkala jednoho chlápka…
+17. Vypůjčené štěstí
+18. Vánoční pohádky
+19. Disney Princezna - Vaříme s princeznou
+
+---
+
+## 🕐 2026-10-13 14:01:16 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Smuteční průvod světem plastů
+
+---
+
 ## 🕐 2026-10-12 15:09:01 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Jednat slovy. Laskavost vlaštovky má větší váhu než zákony vládců
-
----
-
-## 🕐 2026-10-06 13:11:25 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Fyzika / Encyklopedie velkých objevů a osobností
-2. (Ne)podařený exil
-3. Krajina a její architektura
-4. Radioaktivita a ionizující záření kolem nás
-5. Knihovny v době nových médií
-6. Prostory pro gastronomii
-7. Architektura na červeném seznamu / normální je nebourat
-8. Grafická prezentace architektury
-9. Zóna setkávání - nástroj rozvoje veřejného prostoru
-10. Anatomie dítěte - Nipioanatomie 1. díl
-11. Anatomie dítěte - Nipioanatomie 2. díl
-12. Dorian se vrací do budoucnosti
-13. Jako lovná zvěř
-14. 0 1 2
-15. Když andělům chybí křídla
-16. Prinz Aberjaja
-17. Ve vůních opojných
-18. Můj první atlas vozidel
-19. Světložár
-20. Pomoc ženské duši
-
----
-
-## 🕐 2026-10-06 13:11:23 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Malá literatura u velkého moře
 
 ---
 
