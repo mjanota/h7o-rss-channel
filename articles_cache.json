@@ -1,13 +1,5 @@
 [
   {
-    "title": "Česká stopa ve světě",
-    "url": "https://www.h7o.cz/clanky/14539-ceska-stopa-ve-svete",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
-    "date": "2026-07-16T00:00:00",
-    "author": "Vratislav Maňák",
-    "category": "sloupek"
-  },
-  {
     "title": "Útoky na Českou televizi: válka dvou kultur",
     "url": "https://www.h7o.cz/clanky/14564-utoky-na-ceskou-televizi-valka-dvou-kultur",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
@@ -502,5 +494,13 @@
     "date": "2026-10-13T00:00:00",
     "author": "Markéta Pospišilíková",
     "category": "recenze"
+  },
+  {
+    "title": "Co získáváme a co ztrácíme poslechem audioknih",
+    "url": "https://www.h7o.cz/clanky/14619-co-ziskavame-a-co-ztracime-poslechem-audioknih",
+    "description": "Česká literatura zamířila na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, co nám přináší poslech audioknih.",
+    "date": "2026-10-14T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

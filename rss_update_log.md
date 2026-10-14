@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-14 11:37:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Největší fotbalové hvězdy
+2. Dívka jménem Willow: Šepot lesa
+3. Překlep a Škraloup
+4. Dědictví portugalských templářů
+5. Smrt pána z Valdeka
+6. Vraždy v lázních
+7. Očima starý holky
+8. Dvůr hadů a tajemství
+9. Čím budu, až vyrostu?
+10. Dědictví a jiné katastrofy
+11. Ticho mezi námi
+12. Ošklivé holky
+13. Šerosvit v duši
+14. Mystery Man
+15. Pohádka pro Tebe
+16. Kouzelná Beruška a Černý Kocour - Vaříme s Beruškou
+17. Hrdinové formule 1 – všechno, nebo nic
+18. 365 neuvěřitelných rekordů pro děti
+19. K Vánocům chci prostě Hugha
+20. Královsky chlupaté Vánoce
+
+---
+
+## 🕐 2026-10-14 11:37:55 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Co získáváme a co ztrácíme poslechem audioknih
+
+---
+
 ## 🕐 2026-10-13 14:01:18 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
