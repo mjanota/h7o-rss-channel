@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-15 11:16:19 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Algoritmus džungle
+2. The Legend of the Golem: Legenda o Golemovi (anglicky)
+3. Útěk Kryšpína N.
+4. Sylvester Stallone: Schody
+5. Za každým světlem stín
+6. Session beers
+7. Andělé v černém
+8. Oči jsou to nejlepší
+9. Na Ullově prahu
+10. Samá voda
+11. „Kara ben Nemsí“ z Kroměříže. Turecko a Írán očima Jana Rypky
+12. Radostné příběhy Čtyřlístku 2009
+13. Bez slunce: Disco Inferno
+14. Když Afrikakorps vládl v Americe
+15. Auťáky
+16. Radecký
+17. Někde v krajním bodě
+18. Je na tom něco dobrého
+19. Oprátka za osm mrtvých
+20. Rytíř Sovík
+
+---
+
+## 🕐 2026-10-15 11:16:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Proč by člověk potřeboval odvahu, aby řekl pravdu?
+
+---
+
 ## 🕐 2026-10-14 11:37:56 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -297,53 +344,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. V této zemi mluví německy
-
----
-
-## 🕐 2026-10-07 13:08:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Prague 1900–2025
-2. Země světa - 10/2026 - Okcitánie
-3. Kronika komunistického teroru 1948–1953
-4. Krakonoš
-5. Robert Záruba
-6. Kathulos
-7. Souhvězdí léta
-8. Adriena Šimotová. Radost ze života
-9. Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze
-10. Zeď
-11. Případ muže z lahve
-12. Kroniky Lučných vrchů 3 - Stíny v šeru
-13. Rork - Velké evropské komiksy (základní verze)
-14. Delicious in Dungeon - Chuť podzemí 3
-15. Mládí na hřišti 12: Protože si chci promluvit
-16. Král všech developerů 3
-17. SpongeBob 10/2026
-18. Láska ve střihu cosplaye 15
-19. Modrá CREW 48: Habemus bastard 1
-20. Star Wars - Vrcholná Republika: Hranice rovnováhy - Precedens
-
----
-
-## 🕐 2026-10-07 13:08:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Jednat slovy. Laskavost vlaštovky má větší váhu než zákony vládců
 
 ---
 

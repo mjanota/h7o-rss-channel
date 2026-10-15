@@ -1,13 +1,5 @@
 [
   {
-    "title": "Útoky na Českou televizi: válka dvou kultur",
-    "url": "https://www.h7o.cz/clanky/14564-utoky-na-ceskou-televizi-valka-dvou-kultur",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Karla Hvížďaly z roku 2021, který komentuje tehdejší krizi v České televizi.",
-    "date": "2026-07-17T00:00:00",
-    "author": "Karel Hvížďala",
-    "category": "sloupek"
-  },
-  {
     "title": "Gatsby žije!",
     "url": "https://www.h7o.cz/clanky/14562-gatsby-zije",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme sloupek Richarda Olehly z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-14T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Proč by člověk potřeboval odvahu, aby řekl pravdu?",
+    "url": "https://www.h7o.cz/clanky/14629-proc-by-clovek-potreboval-odvahu-aby-rekl-pravdu",
+    "description": "Zahajovací projev Radky Denemarkové na veletrhu ve Frankfurtu označila česká média za odvážný. Co však o něm říká to, co v něm nepadlo? Přinášíme komentář Vesny Evans.",
+    "date": "2026-10-15T00:00:00",
+    "author": "Vesna Evans",
+    "category": "komentář"
   }
 ]
