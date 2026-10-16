@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-16 11:10:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Studánka
+2. Čekárna číslo tři
+3. Kočičí král
+4. Parta charty mastí karty
+5. Chvění
+6. Mindf*ck (4–5) – komplet
+7. Hotýlek V Jabloňovém sadu
+8. Ticho mezi námi
+9. Dědictví a jiné katastrofy
+10. Vraždi všímavě na kraji světa
+11. Hrozálie, superslavná čarodějka
+12. Zuzka a Špunťa v zemi komiksů
+13. Doktoři - Jejich genialita, poslání a zázraky
+14. Cesta Tarotu
+15. Nesmírná gravitace koblih
+16. Políbeno ohněm
+17. Divoký skejt
+18. Češka v šátku
+19. Slavnost bezvýznamnosti
+20. Mystické příběhy pragmatika 2
+
+---
+
+## 🕐 2026-10-16 11:10:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Česko je půvabná, vypatlaná země
+
+---
+
 ## 🕐 2026-10-15 11:16:19 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -297,53 +344,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Co lze říct beze slov
-
----
-
-## 🕐 2026-10-08 13:15:36 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Hlasy propasti
-2. Tajný večírek
-3. Šerosvit v duši
-4. Dvůr hadů a tajemství
-5. Encyklopedie komiksu v Československu 1945 - 1989 2. díl
-6. Zatímco sněžilo
-7. Dračí oheň - Děti osudu
-8. Kočička Hamley a vánoční tajemství
-9. Krvavá koruna
-10. Květinová fantazie
-11. Následuj mě v rytmu Vánoc
-12. Za pohádkou s čertíkem Chloupkem
-13. Frida A1/A2
-14. Rudi, ty seš vůl!
-15. Příběhy o Erikovi 3
-16. Máte pravdu? To nestačí.
-17. Nejužitečnější hráč
-18. Mezi námi bandity
-19. Dobré chutnání
-20. Ela hop!
-
----
-
-## 🕐 2026-10-08 13:15:35 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. V této zemi mluví německy
 
 ---
 

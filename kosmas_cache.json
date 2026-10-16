@@ -1,5 +1,189 @@
 [
   {
+    "title": "Studánka",
+    "url": "https://www.kosmas.cz/knihy/575050/studanka/",
+    "description": "Studánka - Veronika Skalecká",
+    "authors": [
+      "Veronika Skalecká"
+    ],
+    "date": "2026-10-16T11:10:53.630350+00:00"
+  },
+  {
+    "title": "Čekárna číslo tři",
+    "url": "https://www.kosmas.cz/knihy/575149/cekarna-cislo-tri/",
+    "description": "Čekárna číslo tři - Faycal Berrouche",
+    "authors": [
+      "Faycal Berrouche"
+    ],
+    "date": "2026-10-16T11:10:52.630350+00:00"
+  },
+  {
+    "title": "Kočičí král",
+    "url": "https://www.kosmas.cz/knihy/575151/kocici-kral/",
+    "description": "Kočičí král - Martina Boučková",
+    "authors": [
+      "Martina Boučková"
+    ],
+    "date": "2026-10-16T11:10:51.630350+00:00"
+  },
+  {
+    "title": "Parta charty mastí karty",
+    "url": "https://www.kosmas.cz/knihy/575152/parta-charty-masti-karty/",
+    "description": "Parta charty mastí karty - Pavel Kohout",
+    "authors": [
+      "Pavel Kohout"
+    ],
+    "date": "2026-10-16T11:10:50.630350+00:00"
+  },
+  {
+    "title": "Chvění",
+    "url": "https://www.kosmas.cz/knihy/575153/chveni/",
+    "description": "Chvění - Maria Pourchet",
+    "authors": [
+      "Maria Pourchet"
+    ],
+    "date": "2026-10-16T11:10:49.630350+00:00"
+  },
+  {
+    "title": "Mindf*ck (4–5) – komplet",
+    "url": "https://www.kosmas.cz/knihy/575157/mindf-ck-4-5-komplet/",
+    "description": "Mindf*ck (4–5) – komplet - S. T. Abby",
+    "authors": [
+      "S. T. Abby"
+    ],
+    "date": "2026-10-16T11:10:48.630350+00:00"
+  },
+  {
+    "title": "Hotýlek V Jabloňovém sadu",
+    "url": "https://www.kosmas.cz/knihy/575158/hotylek-v-jablonovem-sadu/",
+    "description": "Hotýlek V Jabloňovém sadu - Valerie Bowmanová",
+    "authors": [
+      "Valerie Bowmanová"
+    ],
+    "date": "2026-10-16T11:10:47.630350+00:00"
+  },
+  {
+    "title": "Ticho mezi námi",
+    "url": "https://www.kosmas.cz/knihy/573143/ticho-mezi-nami/",
+    "description": "Ticho mezi námi - Kristina Hattenhauer",
+    "authors": [
+      "Kristina Hattenhauer"
+    ],
+    "date": "2026-10-16T11:10:46.630350+00:00"
+  },
+  {
+    "title": "Dědictví a jiné katastrofy",
+    "url": "https://www.kosmas.cz/knihy/573144/dedictvi-a-jine-katastrofy/",
+    "description": "Dědictví a jiné katastrofy - Jana Jurmanová, Dagmar Lachmanová, Radmila Tomšů",
+    "authors": [
+      "Jana Jurmanová",
+      "Dagmar Lachmanová",
+      "Radmila Tomšů"
+    ],
+    "date": "2026-10-16T11:10:45.630350+00:00"
+  },
+  {
+    "title": "Vraždi všímavě na kraji světa",
+    "url": "https://www.kosmas.cz/knihy/573226/vrazdi-vsimave-na-kraji-sveta/",
+    "description": "Vraždi všímavě na kraji světa - Karsten Dusse",
+    "authors": [
+      "Karsten Dusse"
+    ],
+    "date": "2026-10-16T11:10:44.630350+00:00"
+  },
+  {
+    "title": "Hrozálie, superslavná čarodějka",
+    "url": "https://www.kosmas.cz/knihy/573240/hrozalie-superslavna-carodejka/",
+    "description": "Hrozálie, superslavná čarodějka - Susanna Isernová",
+    "authors": [
+      "Susanna Isernová"
+    ],
+    "date": "2026-10-16T11:10:43.630350+00:00"
+  },
+  {
+    "title": "Zuzka a Špunťa v zemi komiksů",
+    "url": "https://www.kosmas.cz/knihy/573253/zuzka-a-spunta-v-zemi-komiksu/",
+    "description": "Zuzka a Špunťa v zemi komiksů - Jan Pomykač, Tomáš Prokůpek",
+    "authors": [
+      "Jan Pomykač",
+      "Tomáš Prokůpek"
+    ],
+    "date": "2026-10-16T11:10:42.630350+00:00"
+  },
+  {
+    "title": "Doktoři - Jejich genialita, poslání a zázraky",
+    "url": "https://www.kosmas.cz/knihy/573519/doktori-jejich-genialita-poslani-a-zazraky/",
+    "description": "Doktoři - Jejich genialita, poslání a zázraky - Petr Šámal",
+    "authors": [
+      "Petr Šámal"
+    ],
+    "date": "2026-10-16T11:10:41.630350+00:00"
+  },
+  {
+    "title": "Cesta Tarotu",
+    "url": "https://www.kosmas.cz/knihy/572901/cesta-tarotu/",
+    "description": "Cesta Tarotu - Marianne Costa, Alejandro Jodorowsky",
+    "authors": [
+      "Marianne Costa",
+      "Alejandro Jodorowsky"
+    ],
+    "date": "2026-10-16T11:10:40.630350+00:00"
+  },
+  {
+    "title": "Nesmírná gravitace koblih",
+    "url": "https://www.kosmas.cz/knihy/573102/nesmirna-gravitace-koblih/",
+    "description": "Nesmírná gravitace koblih - Pavel Houska",
+    "authors": [
+      "Pavel Houska"
+    ],
+    "date": "2026-10-16T11:10:39.630350+00:00"
+  },
+  {
+    "title": "Políbeno ohněm",
+    "url": "https://www.kosmas.cz/knihy/572344/polibeno-ohnem/",
+    "description": "Políbeno ohněm - Josef Kroutvor",
+    "authors": [
+      "Josef Kroutvor"
+    ],
+    "date": "2026-10-16T11:10:38.630350+00:00"
+  },
+  {
+    "title": "Divoký skejt",
+    "url": "https://www.kosmas.cz/knihy/564918/divoky-skejt/",
+    "description": "Divoký skejt - Brandon Dumais",
+    "authors": [
+      "Brandon Dumais"
+    ],
+    "date": "2026-10-16T11:10:37.630350+00:00"
+  },
+  {
+    "title": "Češka v šátku",
+    "url": "https://www.kosmas.cz/knihy/574309/ceska-v-satku/",
+    "description": "Češka v šátku - Kateřina Richterová Gamal",
+    "authors": [
+      "Kateřina Richterová Gamal"
+    ],
+    "date": "2026-10-16T11:10:36.630350+00:00"
+  },
+  {
+    "title": "Slavnost bezvýznamnosti",
+    "url": "https://www.kosmas.cz/knihy/574440/slavnost-bezvyznamnosti/",
+    "description": "Slavnost bezvýznamnosti - Milan Kundera",
+    "authors": [
+      "Milan Kundera"
+    ],
+    "date": "2026-10-16T11:10:35.630350+00:00"
+  },
+  {
+    "title": "Mystické příběhy pragmatika 2",
+    "url": "https://www.kosmas.cz/knihy/574496/mysticke-pribehy-pragmatika-2/",
+    "description": "Mystické příběhy pragmatika 2 - Miroslav Rousek",
+    "authors": [
+      "Miroslav Rousek"
+    ],
+    "date": "2026-10-16T11:10:34.630350+00:00"
+  },
+  {
     "title": "Algoritmus džungle",
     "url": "https://www.kosmas.cz/knihy/571534/algoritmus-dzungle/",
     "description": "Algoritmus džungle - Barbora Englischová",
@@ -1628,184 +1812,5 @@
       "Jeff Kinney"
     ],
     "date": "2026-10-05T14:21:40.403268+00:00"
-  },
-  {
-    "title": "Eldritch",
-    "url": "https://www.kosmas.cz/knihy/574321/eldritch/",
-    "description": "Eldritch - Keri Lake",
-    "authors": [
-      "Keri Lake"
-    ],
-    "date": "2026-10-05T14:21:39.403268+00:00"
-  },
-  {
-    "title": "Free Falling",
-    "url": "https://www.kosmas.cz/knihy/574324/free-falling/",
-    "description": "Free Falling - Lyla Sage",
-    "authors": [
-      "Lyla Sage"
-    ],
-    "date": "2026-10-05T14:21:38.403268+00:00"
-  },
-  {
-    "title": "Freyja",
-    "url": "https://www.kosmas.cz/knihy/574326/freyja/",
-    "description": "Freyja - Margrét Ann Thors",
-    "authors": [
-      "Margrét Ann Thors"
-    ],
-    "date": "2026-10-05T14:21:37.403268+00:00"
-  },
-  {
-    "title": "How to Hold Someone in your Heart",
-    "url": "https://www.kosmas.cz/knihy/574329/how-to-hold-someone-in-your-heart/",
-    "description": "How to Hold Someone in your Heart - Mizuki Tsujimura",
-    "authors": [
-      "Mizuki Tsujimura"
-    ],
-    "date": "2026-10-05T14:21:36.403268+00:00"
-  },
-  {
-    "title": "Keeping 13",
-    "url": "https://www.kosmas.cz/knihy/574331/keeping-13/",
-    "description": "Keeping 13 - Chloe Walsh",
-    "authors": [
-      "Chloe Walsh"
-    ],
-    "date": "2026-10-05T14:21:35.403268+00:00"
-  },
-  {
-    "title": "More Days at the Morisaki Bookshop",
-    "url": "https://www.kosmas.cz/knihy/574334/more-days-at-the-morisaki-bookshop/",
-    "description": "More Days at the Morisaki Bookshop - Satoshi Yagisawa",
-    "authors": [
-      "Satoshi Yagisawa"
-    ],
-    "date": "2026-10-05T14:21:34.403268+00:00"
-  },
-  {
-    "title": "Days + More Days at the Morisaki Bookshop",
-    "url": "https://www.kosmas.cz/knihy/574335/days-more-days-at-the-morisaki-bookshop/",
-    "description": "Days + More Days at the Morisaki Bookshop - Satoshi Yagisawa",
-    "authors": [
-      "Satoshi Yagisawa"
-    ],
-    "date": "2026-10-05T14:21:33.403268+00:00"
-  },
-  {
-    "title": "Pablo and Splash: Viking Voyage",
-    "url": "https://www.kosmas.cz/knihy/574336/pablo-and-splash-viking-voyage/",
-    "description": "Pablo and Splash: Viking Voyage - Sheena Dempsey",
-    "authors": [
-      "Sheena Dempsey"
-    ],
-    "date": "2026-10-05T14:21:32.403268+00:00"
-  },
-  {
-    "title": "Saddle Storm",
-    "url": "https://www.kosmas.cz/knihy/574339/saddle-storm/",
-    "description": "Saddle Storm - Roxanne Tully",
-    "authors": [
-      "Roxanne Tully"
-    ],
-    "date": "2026-10-05T14:21:31.403268+00:00"
-  },
-  {
-    "title": "The Deal",
-    "url": "https://www.kosmas.cz/knihy/574342/the-deal/",
-    "description": "The Deal - Elle Kennedy",
-    "authors": [
-      "Elle Kennedy"
-    ],
-    "date": "2026-10-05T14:21:30.403268+00:00"
-  },
-  {
-    "title": "Guinness World Records 2027",
-    "url": "https://www.kosmas.cz/knihy/573946/guinness-world-records-2027/",
-    "description": "Guinness World Records 2027",
-    "authors": [],
-    "date": "2026-10-04T12:11:38.790439+00:00"
-  },
-  {
-    "title": "The Ascendent",
-    "url": "https://www.kosmas.cz/knihy/574289/the-ascendent/",
-    "description": "The Ascendent - Bree Grenwich, Parker Lennox",
-    "authors": [
-      "Bree Grenwich",
-      "Parker Lennox"
-    ],
-    "date": "2026-10-04T12:11:20.790439+00:00"
-  },
-  {
-    "title": "Trashing Day",
-    "url": "https://www.kosmas.cz/knihy/573468/trashing-day/",
-    "description": "Trashing Day - Rebecca Yarros",
-    "authors": [
-      "Rebecca Yarros"
-    ],
-    "date": "2026-10-03T11:30:35.890036+00:00"
-  },
-  {
-    "title": "A Ghostly Little Book",
-    "url": "https://www.kosmas.cz/knihy/574263/a-ghostly-little-book/",
-    "description": "A Ghostly Little Book - kolektiv autorů",
-    "authors": [
-      "kolektiv autorů"
-    ],
-    "date": "2026-10-03T11:30:31.890036+00:00"
-  },
-  {
-    "title": "Big Bad Wolf, Maple Hollow 1",
-    "url": "https://www.kosmas.cz/knihy/574264/big-bad-wolf-maple-hollow-1/",
-    "description": "Big Bad Wolf, Maple Hollow 1 - Laurie Gilmore",
-    "authors": [
-      "Laurie Gilmore"
-    ],
-    "date": "2026-10-03T11:30:30.890036+00:00"
-  },
-  {
-    "title": "Dead Beat",
-    "url": "https://www.kosmas.cz/knihy/574265/dead-beat/",
-    "description": "Dead Beat - Leigh Bardugo",
-    "authors": [
-      "Leigh Bardugo"
-    ],
-    "date": "2026-10-03T11:30:29.890036+00:00"
-  },
-  {
-    "title": "Dungeon Crawler Carl",
-    "url": "https://www.kosmas.cz/knihy/574267/dungeon-crawler-carl/",
-    "description": "Dungeon Crawler Carl - Matt Dinniman",
-    "authors": [
-      "Matt Dinniman"
-    ],
-    "date": "2026-10-03T11:30:28.890036+00:00"
-  },
-  {
-    "title": "Escape Me",
-    "url": "https://www.kosmas.cz/knihy/574268/escape-me/",
-    "description": "Escape Me - Tahereh Mafi",
-    "authors": [
-      "Tahereh Mafi"
-    ],
-    "date": "2026-10-03T11:30:27.890036+00:00"
-  },
-  {
-    "title": "Homo Irrealis",
-    "url": "https://www.kosmas.cz/knihy/574269/homo-irrealis/",
-    "description": "Homo Irrealis - André Aciman",
-    "authors": [
-      "André Aciman"
-    ],
-    "date": "2026-10-03T11:30:26.890036+00:00"
-  },
-  {
-    "title": "In One Brief Moment All Eternity",
-    "url": "https://www.kosmas.cz/knihy/574270/in-one-brief-moment-all-eternity/",
-    "description": "In One Brief Moment All Eternity - Elif Shafak",
-    "authors": [
-      "Elif Shafak"
-    ],
-    "date": "2026-10-03T11:30:25.890036+00:00"
   }
 ]
