@@ -5,6 +5,44 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-17 10:30:10 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Kuchyň
+2. Roztoč si pohádku: Tři prasátka
+3. Výpravy za hudbami světa
+4. Kartograf Pavel Josef Šafařík
+5. Slavnost bezvýznamnosti
+6. 20000 mil pod mořem
+7. Jeden dech za druhým
+8. Divadelní noviny 7/2026
+9. Na špičce jehly
+10. Jsem příšera pod postelí
+11. Mezi hořícími květinami
+12. Vražda a jiné volnočasové aktivity
+13. Práce snů
+14. Lepení dřeva
+15. Spánek
+
+---
+
+## 🕐 2026-10-17 10:30:07 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-16 11:10:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -297,53 +335,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Pozorování knih je uklidňující
-
----
-
-## 🕐 2026-10-09 13:02:33 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Inkoust barvy hrůzy
-2. Mýty o Notre-Dame
-3. Loučení s posvátnem?
-4. Juha
-5. Sezona černých ovcí 1
-6. List Českým
-7. Já s ní (m) žasnu
-8. Život a...
-9. Felix
-10. Volání oceánu
-11. Tatínku, vyprávěj - Kniha pro předávání příběhů
-12. Redeeming 6
-13. Drahá Marto
-14. Bohyně krve a kostí
-15. Arlo a havran
-16. Dívka jménem Willow: Mlžný tanec
-17. Dcera sváru
-18. Bárnaby - bubák zpod postele
-19. Divotvorci: Kniha druhá
-20. Hvězdy NHL 2027
-
----
-
-## 🕐 2026-10-09 13:02:32 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Co lze říct beze slov
 
 ---
 
