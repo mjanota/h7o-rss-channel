@@ -7,7 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:50:18 +0000</lastBuildDate>
+    <item>
+      <title>Jak tenké jsou hranice</title>
+      <link>https://www.kosmas.cz/knihy/574837/jak-tenke-jsou-hranice/</link>
+      <description>Jak tenké jsou hranice - Katarína Brányiková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574837/jak-tenke-jsou-hranice/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Misunderstood</title>
+      <link>https://www.kosmas.cz/knihy/574840/misunderstood/</link>
+      <description>Misunderstood - Vojtěch Valoušek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574840/misunderstood/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:50:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Písečníci a probuzení krále</title>
+      <link>https://www.kosmas.cz/knihy/575134/pisecnici-a-probuzeni-krale/</link>
+      <description>Písečníci a probuzení krále - Václav Dvořák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575134/pisecnici-a-probuzeni-krale/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odolej mi</title>
+      <link>https://www.kosmas.cz/knihy/575165/odolej-mi/</link>
+      <description>Odolej mi - Mack Becka</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575165/odolej-mi/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Svědomí. Kdo chce mír, připravuje se na válku</title>
+      <link>https://www.kosmas.cz/knihy/575166/svedomi.-kdo-chce-mir-pripravuje-se-na-valku/</link>
+      <description>Svědomí. Kdo chce mír, připravuje se na válku - Jana Brázdilová, Pavlína Saudková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575166/svedomi.-kdo-chce-mir-pripravuje-se-na-valku/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:49:59 +0000</pubDate>
+    </item>
     <item>
       <title>Kuchyň</title>
       <link>https://www.kosmas.cz/knihy/573787/kuchyn/</link>
@@ -672,41 +707,6 @@
       <description>Smrtící čepel - C. L. Werner</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/574443/smrtici-cepel/</guid>
       <pubDate>Mon, 12 Oct 2026 15:09:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>5 × 3 + 1. Soutěž Havlovské aktovky</title>
-      <link>https://www.kosmas.cz/knihy/574444/5-3-1.-soutez-havlovske-aktovky/</link>
-      <description>5 × 3 + 1. Soutěž Havlovské aktovky - Jiřina Hofmanová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574444/5-3-1.-soutez-havlovske-aktovky/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Život mezi řádky</title>
-      <link>https://www.kosmas.cz/knihy/574601/zivot-mezi-radky/</link>
-      <description>Život mezi řádky - Roisin Meaney</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574601/zivot-mezi-radky/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:08:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Molekulární patologie a genetika maligních nádorů</title>
-      <link>https://www.kosmas.cz/knihy/574603/molekularni-patologie-a-genetika-malignich-nadoru/</link>
-      <description>Molekulární patologie a genetika maligních nádorů - Jozef Škarda</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574603/molekularni-patologie-a-genetika-malignich-nadoru/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:08:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Láska, labutě a plasty</title>
-      <link>https://www.kosmas.cz/knihy/574620/laska-labute-a-plasty/</link>
-      <description>Láska, labutě a plasty - Jan Burian</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574620/laska-labute-a-plasty/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Samoty</title>
-      <link>https://www.kosmas.cz/knihy/574622/samoty/</link>
-      <description>Samoty - Hmlisto</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574622/samoty/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:08:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

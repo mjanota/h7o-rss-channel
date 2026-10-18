@@ -5,6 +5,34 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-18 10:50:18 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 5
+
+**Tituly nových položek:**
+
+1. Jak tenké jsou hranice
+2. Misunderstood
+3. Písečníci a probuzení krále
+4. Odolej mi
+5. Svědomí. Kdo chce mír, připravuje se na válku
+
+---
+
+## 🕐 2026-10-18 10:50:18 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-17 10:30:10 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -299,42 +327,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-10 12:19:17 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Jíst a být
-2. P. S. Líbíš se mi
-3. Jednorožec Sněhovka
-4. Karmínový úsvit
-5. Q a kouzelná prakniha
-6. Půlnoční krámek zázraků
-7. Sametová koruna
-8. Poníci z Lillasundu - Zachráněné přátelství
-9. Vánoce u myšek
-
----
-
-## 🕐 2026-10-10 12:19:15 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Pozorování knih je uklidňující
 
 ---
 
