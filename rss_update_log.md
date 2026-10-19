@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-19 12:52:04 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Předkyně / Forewomen
+2. Uberšvejk
+3. Vladimír Hron
+4. Film a doba 3/2026
+5. Laboratoř Palestina
+6. Rok s Pichlíkem a Chlupáčem
+7. Jak se dostat na Wapiti do USA
+8. Střípky z loveckého deníku
+9. Na špičce jehly
+10. Krvavá lázeň
+11. Poslední jednorožec
+12. Já, Claudius
+13. Vraždy na Ledňáčkově vrchu
+14. Kouzelné příběhy
+15. Ňuňáčci
+16. Krev & růže
+17. Rukojmí
+18. Bolest, která se naučila mluvit
+19. Až moc pozdě
+20. Hraničářův učeň - Kniha druhá - Hořící most
+
+---
+
+## 🕐 2026-10-19 12:52:02 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Bez názvu
+
+---
+
 ## 🕐 2026-10-18 10:50:18 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -300,33 +347,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Zrovna poslouchala vítr
-
----
-
-## 🕐 2026-10-11 12:35:55 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 4
-
-**Tituly nových položek:**
-
-1. Skřítek a lišák
-2. Bílé vrány
-3. Jiří Schelinger
-4. Praha - vícejazyčná
-
----
-
-## 🕐 2026-10-11 12:35:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

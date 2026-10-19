@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hladit psa, jako by byl jediným domovem",
-    "url": "https://www.h7o.cz/clanky/14540-hladit-psa-jako-by-byl-jedinym-domovem",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
-    "date": "2026-07-21T00:00:00",
-    "author": "Dora Kaprálová",
-    "category": "sloupek"
-  },
-  {
     "title": "Vivant studiosi",
     "url": "https://www.h7o.cz/clanky/14541-vivant-studiosi",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-16T00:00:00",
     "author": "Kryštof Mec",
     "category": "rozhovor"
+  },
+  {
+    "title": "Bez názvu",
+    "url": "https://www.h7o.cz/clanky/14631-bez-nazvu",
+    "description": "I za těch nejhezčích dnů proniká válka do naší imaginace. Jistě, plašičky jsou ve vinohradech kvůli špačkům a dron nade mnou bzučí proto, že ten turista v kšiltovce chce mít ještě hezčí fotky z výletu. I tak mě to rozčiluje, píše Jan Němec ve svém fejetonu.",
+    "date": "2026-10-19T00:00:00",
+    "author": "Jan Němec",
+    "category": "komentář"
   }
 ]
