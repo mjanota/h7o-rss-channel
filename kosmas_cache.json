@@ -1,5 +1,184 @@
 [
   {
+    "title": "Vánoční jezevčík",
+    "url": "https://www.kosmas.cz/knihy/574843/vanocni-jezevcik/",
+    "description": "Vánoční jezevčík - Bella Swift",
+    "authors": [
+      "Bella Swift"
+    ],
+    "date": "2026-10-20T11:21:10.589392+00:00"
+  },
+  {
+    "title": "YouCat - Milovat navěky",
+    "url": "https://www.kosmas.cz/knihy/574873/youcat-milovat-naveky/",
+    "description": "YouCat - Milovat navěky",
+    "authors": [],
+    "date": "2026-10-20T11:21:09.589392+00:00"
+  },
+  {
+    "title": "Na život není nikdo sám",
+    "url": "https://www.kosmas.cz/knihy/574875/na-zivot-neni-nikdo-sam/",
+    "description": "Na život není nikdo sám - Josef Nuzík, Jiří Gračka",
+    "authors": [
+      "Josef Nuzík",
+      "Jiří Gračka"
+    ],
+    "date": "2026-10-20T11:21:08.589392+00:00"
+  },
+  {
+    "title": "365 dní s papežem Lvem XIV.",
+    "url": "https://www.kosmas.cz/knihy/574877/365-dni-s-papezem-lvem-xiv/",
+    "description": "365 dní s papežem Lvem XIV.",
+    "authors": [],
+    "date": "2026-10-20T11:21:07.589392+00:00"
+  },
+  {
+    "title": "Bible ke křtu",
+    "url": "https://www.kosmas.cz/knihy/574878/bible-ke-krtu/",
+    "description": "Bible ke křtu - Lizzie Ribbonsová",
+    "authors": [
+      "Lizzie Ribbonsová"
+    ],
+    "date": "2026-10-20T11:21:06.589392+00:00"
+  },
+  {
+    "title": "Ta druhá láska",
+    "url": "https://www.kosmas.cz/knihy/574879/ta-druha-laska/",
+    "description": "Ta druhá láska - Oldřich Selucký",
+    "authors": [
+      "Oldřich Selucký"
+    ],
+    "date": "2026-10-20T11:21:05.589392+00:00"
+  },
+  {
+    "title": "Tvůj křest a biřmování s promluvami papeže Františka",
+    "url": "https://www.kosmas.cz/knihy/574880/tvuj-krest-a-birmovani-s-promluvami-papeze-frantiska/",
+    "description": "Tvůj křest a biřmování s promluvami papeže Františka - Radek Tichý",
+    "authors": [
+      "Radek Tichý"
+    ],
+    "date": "2026-10-20T11:21:04.589392+00:00"
+  },
+  {
+    "title": "Velká ilustrovaná Bible",
+    "url": "https://www.kosmas.cz/knihy/574881/velka-ilustrovana-bible/",
+    "description": "Velká ilustrovaná Bible - Guiliano Ferri, Anselm Grün",
+    "authors": [
+      "Guiliano Ferri",
+      "Anselm Grün"
+    ],
+    "date": "2026-10-20T11:21:03.589392+00:00"
+  },
+  {
+    "title": "Páni a otroci",
+    "url": "https://www.kosmas.cz/knihy/574995/pani-a-otroci/",
+    "description": "Páni a otroci - Markéta Hejkalová",
+    "authors": [
+      "Markéta Hejkalová"
+    ],
+    "date": "2026-10-20T11:21:02.589392+00:00"
+  },
+  {
+    "title": "Povídám, povídám pohádky",
+    "url": "https://www.kosmas.cz/knihy/575034/povidam-povidam-pohadky/",
+    "description": "Povídám, povídám pohádky - Vojtěch Kubašta",
+    "authors": [
+      "Vojtěch Kubašta"
+    ],
+    "date": "2026-10-20T11:21:01.589392+00:00"
+  },
+  {
+    "title": "Ledové království - Čtyři pohádky",
+    "url": "https://www.kosmas.cz/knihy/575035/ledove-kralovstvi-ctyri-pohadky/",
+    "description": "Ledové království - Čtyři pohádky - Valentina Cambi",
+    "authors": [
+      "Valentina Cambi"
+    ],
+    "date": "2026-10-20T11:21:00.589392+00:00"
+  },
+  {
+    "title": "Star Wars - 5minutové příběhy z předaleké galaxie",
+    "url": "https://www.kosmas.cz/knihy/575037/star-wars-5minutove-pribehy-z-predaleke-galaxie/",
+    "description": "Star Wars - 5minutové příběhy z předaleké galaxie - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-10-20T11:20:59.589392+00:00"
+  },
+  {
+    "title": "Disney - 5minutové huňaté pohádky",
+    "url": "https://www.kosmas.cz/knihy/575038/disney-5minutove-hunate-pohadky/",
+    "description": "Disney - 5minutové huňaté pohádky - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-10-20T11:20:58.589392+00:00"
+  },
+  {
+    "title": "Ostudní zrádci",
+    "url": "https://www.kosmas.cz/knihy/575072/ostudni-zradci/",
+    "description": "Ostudní zrádci - Julie Soto",
+    "authors": [
+      "Julie Soto"
+    ],
+    "date": "2026-10-20T11:20:57.589392+00:00"
+  },
+  {
+    "title": "Kotva",
+    "url": "https://www.kosmas.cz/knihy/575094/kotva/",
+    "description": "Kotva - Kristina Ohlssonová",
+    "authors": [
+      "Kristina Ohlssonová"
+    ],
+    "date": "2026-10-20T11:20:56.589392+00:00"
+  },
+  {
+    "title": "Tiché panenky",
+    "url": "https://www.kosmas.cz/knihy/575095/tiche-panenky/",
+    "description": "Tiché panenky - Rita Herron",
+    "authors": [
+      "Rita Herron"
+    ],
+    "date": "2026-10-20T11:20:55.589392+00:00"
+  },
+  {
+    "title": "Až shoří voda",
+    "url": "https://www.kosmas.cz/knihy/575105/az-shori-voda/",
+    "description": "Až shoří voda - Evita Naušová",
+    "authors": [
+      "Evita Naušová"
+    ],
+    "date": "2026-10-20T11:20:54.589392+00:00"
+  },
+  {
+    "title": "Na tenkém ledě",
+    "url": "https://www.kosmas.cz/knihy/575170/na-tenkem-lede/",
+    "description": "Na tenkém ledě - Andrew Child, Lee Child",
+    "authors": [
+      "Andrew Child",
+      "Lee Child"
+    ],
+    "date": "2026-10-20T11:20:53.589392+00:00"
+  },
+  {
+    "title": "Věda Superšpiona, Věda, Smrt a Technologie ve světě Jamese Bonda",
+    "url": "https://www.kosmas.cz/knihy/575176/veda-superspiona-veda-smrt-a-technologie-ve-svete-jamese-bonda/",
+    "description": "Věda Superšpiona, Věda, Smrt a Technologie ve světě Jamese Bonda - Kathryn Harkup",
+    "authors": [
+      "Kathryn Harkup"
+    ],
+    "date": "2026-10-20T11:20:52.589392+00:00"
+  },
+  {
+    "title": "Krev & růže",
+    "url": "https://www.kosmas.cz/knihy/575203/krev-ruze/",
+    "description": "Krev & růže - Callie Hart",
+    "authors": [
+      "Callie Hart"
+    ],
+    "date": "2026-10-20T11:20:51.589392+00:00"
+  },
+  {
     "title": "Předkyně / Forewomen",
     "url": "https://www.kosmas.cz/knihy/574273/predkyne-forewomen/",
     "description": "Předkyně / Forewomen - Jana Orlová",
@@ -1628,179 +1807,5 @@
       "Melpomeni Chatzipanagiotouová"
     ],
     "date": "2026-10-08T13:15:27.525655+00:00"
-  },
-  {
-    "title": "Následuj mě v rytmu Vánoc",
-    "url": "https://www.kosmas.cz/knihy/572198/nasleduj-me-v-rytmu-vanoc/",
-    "description": "Následuj mě v rytmu Vánoc - Adéla Rosípalová, Alena Štraubová",
-    "authors": [
-      "Adéla Rosípalová",
-      "Alena Štraubová"
-    ],
-    "date": "2026-10-08T13:15:26.525655+00:00"
-  },
-  {
-    "title": "Za pohádkou s čertíkem Chloupkem",
-    "url": "https://www.kosmas.cz/knihy/574495/za-pohadkou-s-certikem-chloupkem/",
-    "description": "Za pohádkou s čertíkem Chloupkem - Renáta Navrátilová",
-    "authors": [
-      "Renáta Navrátilová"
-    ],
-    "date": "2026-10-08T13:15:25.525655+00:00"
-  },
-  {
-    "title": "Frida A1/A2",
-    "url": "https://www.kosmas.cz/knihy/574578/frida-a1-a2/",
-    "description": "Frida A1/A2 - Barbora Vázquezová",
-    "authors": [
-      "Barbora Vázquezová"
-    ],
-    "date": "2026-10-08T13:15:24.525655+00:00"
-  },
-  {
-    "title": "Rudi, ty seš vůl!",
-    "url": "https://www.kosmas.cz/knihy/574647/rudi-ty-ses-vul/",
-    "description": "Rudi, ty seš vůl! - Félix Šťastný",
-    "authors": [
-      "Félix Šťastný"
-    ],
-    "date": "2026-10-08T13:15:23.525655+00:00"
-  },
-  {
-    "title": "Příběhy o Erikovi 3",
-    "url": "https://www.kosmas.cz/knihy/574650/pribehy-o-erikovi-3/",
-    "description": "Příběhy o Erikovi 3 - Major Slik",
-    "authors": [
-      "Major Slik"
-    ],
-    "date": "2026-10-08T13:15:22.525655+00:00"
-  },
-  {
-    "title": "Máte pravdu? To nestačí.",
-    "url": "https://www.kosmas.cz/knihy/573448/mate-pravdu-to-nestaci/",
-    "description": "Máte pravdu? To nestačí. - Radim Pařík",
-    "authors": [
-      "Radim Pařík"
-    ],
-    "date": "2026-10-08T13:15:21.525655+00:00"
-  },
-  {
-    "title": "Nejužitečnější hráč",
-    "url": "https://www.kosmas.cz/knihy/573851/nejuzitecnejsi-hrac/",
-    "description": "Nejužitečnější hráč - A.M. Woody",
-    "authors": [
-      "A.M. Woody"
-    ],
-    "date": "2026-10-08T13:15:20.525655+00:00"
-  },
-  {
-    "title": "Mezi námi bandity",
-    "url": "https://www.kosmas.cz/knihy/574150/mezi-nami-bandity/",
-    "description": "Mezi námi bandity",
-    "authors": [],
-    "date": "2026-10-08T13:15:19.525655+00:00"
-  },
-  {
-    "title": "Dobré chutnání",
-    "url": "https://www.kosmas.cz/knihy/574152/dobre-chutnani/",
-    "description": "Dobré chutnání",
-    "authors": [],
-    "date": "2026-10-08T13:15:18.525655+00:00"
-  },
-  {
-    "title": "Ela hop!",
-    "url": "https://www.kosmas.cz/knihy/574153/ela-hop/",
-    "description": "Ela hop!",
-    "authors": [],
-    "date": "2026-10-08T13:15:17.525655+00:00"
-  },
-  {
-    "title": "Prague 1900–2025",
-    "url": "https://www.kosmas.cz/knihy/572040/prague-1900-2025/",
-    "description": "Prague 1900–2025 - Zdeněk Lukeš, Pavel Hroch",
-    "authors": [
-      "Zdeněk Lukeš",
-      "Pavel Hroch"
-    ],
-    "date": "2026-10-07T13:08:23.440529+00:00"
-  },
-  {
-    "title": "Země světa - 10/2026 - Okcitánie",
-    "url": "https://www.kosmas.cz/knihy/563720/zeme-sveta-10-2026-okcitanie/",
-    "description": "Země světa - 10/2026 - Okcitánie",
-    "authors": [],
-    "date": "2026-10-07T13:08:22.440529+00:00"
-  },
-  {
-    "title": "Kronika komunistického teroru 1948–1953",
-    "url": "https://www.kosmas.cz/knihy/564125/kronika-komunistickeho-teroru-1948-1953/",
-    "description": "Kronika komunistického teroru 1948–1953 - Jiří Padevět",
-    "authors": [
-      "Jiří Padevět"
-    ],
-    "date": "2026-10-07T13:08:21.440529+00:00"
-  },
-  {
-    "title": "Krakonoš",
-    "url": "https://www.kosmas.cz/knihy/564308/krakonos/",
-    "description": "Krakonoš - Ivana Čornejová",
-    "authors": [
-      "Ivana Čornejová"
-    ],
-    "date": "2026-10-07T13:08:20.440529+00:00"
-  },
-  {
-    "title": "Robert Záruba",
-    "url": "https://www.kosmas.cz/knihy/558023/robert-zaruba/",
-    "description": "Robert Záruba - Zuzana Burešová",
-    "authors": [
-      "Zuzana Burešová"
-    ],
-    "date": "2026-10-07T13:08:19.440529+00:00"
-  },
-  {
-    "title": "Kathulos",
-    "url": "https://www.kosmas.cz/knihy/574084/kathulos/",
-    "description": "Kathulos - Robert Ervin Howard",
-    "authors": [
-      "Robert Ervin Howard"
-    ],
-    "date": "2026-10-07T13:08:18.440529+00:00"
-  },
-  {
-    "title": "Souhvězdí léta",
-    "url": "https://www.kosmas.cz/knihy/574096/souhvezdi-leta/",
-    "description": "Souhvězdí léta - Sára Valnohová",
-    "authors": [
-      "Sára Valnohová"
-    ],
-    "date": "2026-10-07T13:08:17.440529+00:00"
-  },
-  {
-    "title": "Adriena Šimotová. Radost ze života",
-    "url": "https://www.kosmas.cz/knihy/574107/adriena-simotova.-radost-ze-zivota/",
-    "description": "Adriena Šimotová. Radost ze života - Marie Klimešová",
-    "authors": [
-      "Marie Klimešová"
-    ],
-    "date": "2026-10-07T13:08:16.440529+00:00"
-  },
-  {
-    "title": "Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze",
-    "url": "https://www.kosmas.cz/knihy/574108/milada-horakova-a-jedna-tatova-ponozka-aneb-pribeh-o-odvaze/",
-    "description": "Milada Horáková a jedna tátova ponožka aneb Příběh o odvaze - Zdeněk Král",
-    "authors": [
-      "Zdeněk Král"
-    ],
-    "date": "2026-10-07T13:08:15.440529+00:00"
-  },
-  {
-    "title": "Zeď",
-    "url": "https://www.kosmas.cz/knihy/574170/zed/",
-    "description": "Zeď - Marlen Haushofer",
-    "authors": [
-      "Marlen Haushofer"
-    ],
-    "date": "2026-10-07T13:08:14.440529+00:00"
   }
 ]

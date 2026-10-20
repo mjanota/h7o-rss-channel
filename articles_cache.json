@@ -8,14 +8,6 @@
     "category": "sloupek"
   },
   {
-    "title": "Strategie čítanky",
-    "url": "https://www.h7o.cz/clanky/14567-strategie-citanky",
-    "description": "Červenec patří na H70 archivnímu čtení. Tentokrát přinášíme delší text Evžena Gála o maďarsku, literárním kánonu a politice z roku 2021.",
-    "date": "2026-07-22T00:00:00",
-    "author": "Evžen Gál",
-    "category": "téma"
-  },
-  {
     "title": "O jazykové optimalizaci",
     "url": "https://www.h7o.cz/clanky/14568-o-jazykove-optimalizaci",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-19T00:00:00",
     "author": "Jan Němec",
     "category": "komentář"
+  },
+  {
+    "title": "Mezi plátnem a stránkou",
+    "url": "https://www.h7o.cz/clanky/14632-mezi-platnem-a-strankou",
+    "description": "Česká literatura složitě hledá jazyk pro dnešní krize, zatímco výtvarní umělci v nich už dávno suverénně operují. Proč se spisovatelé uzavírají ve svých pracovnách, když galerie nabízejí laboratoře myšlení? Pokud chceme romány, které skutečně zachytí tep doby, neměla by literatura opustit svou…",
+    "date": "2026-10-20T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

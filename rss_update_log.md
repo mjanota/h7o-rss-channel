@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-20 11:21:10 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Vánoční jezevčík
+2. YouCat - Milovat navěky
+3. Na život není nikdo sám
+4. 365 dní s papežem Lvem XIV.
+5. Bible ke křtu
+6. Ta druhá láska
+7. Tvůj křest a biřmování s promluvami papeže Františka
+8. Velká ilustrovaná Bible
+9. Páni a otroci
+10. Povídám, povídám pohádky
+11. Ledové království - Čtyři pohádky
+12. Star Wars - 5minutové příběhy z předaleké galaxie
+13. Disney - 5minutové huňaté pohádky
+14. Ostudní zrádci
+15. Kotva
+16. Tiché panenky
+17. Až shoří voda
+18. Na tenkém ledě
+19. Věda Superšpiona, Věda, Smrt a Technologie ve světě Jamese Bonda
+20. Krev & růže
+
+---
+
+## 🕐 2026-10-20 11:21:08 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Mezi plátnem a stránkou
+
+---
+
 ## 🕐 2026-10-19 12:52:04 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -302,51 +349,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Smuteční průvod světem plastů
-
----
-
-## 🕐 2026-10-12 15:09:01 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Smrtící čepel
-2. 5 × 3 + 1. Soutěž Havlovské aktovky
-3. Život mezi řádky
-4. Molekulární patologie a genetika maligních nádorů
-5. Láska, labutě a plasty
-6. Samoty
-7. Wednesday: Závod o Poeův pohár!
-8. Imunita a mikrobiom
-9. Oči jsou to nejlepší
-10. Kletba moře
-11. Jezero kostí
-12. Tohle je Rusko
-13. Myšák z hor a cesta za hvězdami
-14. Skutečné zdraví
-15. Sebeobrana v praxi
-16. Deník mileniálky
-17. Sběratelka písní
-18. Krupiérka
-
----
-
-## 🕐 2026-10-12 15:08:59 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Zrovna poslouchala vítr
 
 ---
 
