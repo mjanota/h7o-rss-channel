@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:36:27 +0000</lastBuildDate>
+    <item>
+      <title>Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí</title>
+      <link>https://www.h7o.cz/clanky/14633-konec-sally-rooney-ve-velke-britanii-podporila-propalestinske-hnuti</link>
+      <description>Knihy Sally Rooney se nesmí prodávat ve Velké Británii. Irská spisovatelka totiž finančně podporuje aktivistické hnutí Palestine Action.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14633-konec-sally-rooney-ve-velke-britanii-podporila-propalestinske-hnuti</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mezi plátnem a stránkou</title>
       <link>https://www.h7o.cz/clanky/14632-mezi-platnem-a-strankou</link>
@@ -441,13 +448,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14568-o-jazykove-optimalizaci</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vivant studiosi</title>
-      <link>https://www.h7o.cz/clanky/14541-vivant-studiosi</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14541-vivant-studiosi</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

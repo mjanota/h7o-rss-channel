@@ -1,5 +1,181 @@
 [
   {
+    "title": "Tam, kde žijí knihy",
+    "url": "https://www.kosmas.cz/knihy/574851/tam-kde-ziji-knihy/",
+    "description": "Tam, kde žijí knihy - Daniel Fiala",
+    "authors": [
+      "Daniel Fiala"
+    ],
+    "date": "2026-10-21T11:36:31.410364+00:00"
+  },
+  {
+    "title": "Tim a Tom – Jak se o Vánocích splnily myší sny",
+    "url": "https://www.kosmas.cz/knihy/574883/tim-a-tom-jak-se-o-vanocich-splnily-mysi-sny/",
+    "description": "Tim a Tom – Jak se o Vánocích splnily myší sny - Renata Špačková",
+    "authors": [
+      "Renata Špačková"
+    ],
+    "date": "2026-10-21T11:36:30.410364+00:00"
+  },
+  {
+    "title": "Souhvězdí",
+    "url": "https://www.kosmas.cz/knihy/574894/souhvezdi/",
+    "description": "Souhvězdí - Lenka Vrtišková Nejezchlebová",
+    "authors": [
+      "Lenka Vrtišková Nejezchlebová"
+    ],
+    "date": "2026-10-21T11:36:29.410364+00:00"
+  },
+  {
+    "title": "Co se dělá o Vánocích?",
+    "url": "https://www.kosmas.cz/knihy/574952/co-se-dela-o-vanocich/",
+    "description": "Co se dělá o Vánocích?",
+    "authors": [],
+    "date": "2026-10-21T11:36:28.410364+00:00"
+  },
+  {
+    "title": "Bláznivá dobrodružství Vladyho Drákuly – Nebezpečná výprava",
+    "url": "https://www.kosmas.cz/knihy/575104/blazniva-dobrodruzstvi-vladyho-drakuly-nebezpecna-vyprava/",
+    "description": "Bláznivá dobrodružství Vladyho Drákuly – Nebezpečná výprava - Petra Klabouchová",
+    "authors": [
+      "Petra Klabouchová"
+    ],
+    "date": "2026-10-21T11:36:27.410364+00:00"
+  },
+  {
+    "title": "Vychovej hrdinu",
+    "url": "https://www.kosmas.cz/knihy/575140/vychovej-hrdinu/",
+    "description": "Vychovej hrdinu - Michal Novotný",
+    "authors": [
+      "Michal Novotný"
+    ],
+    "date": "2026-10-21T11:36:26.410364+00:00"
+  },
+  {
+    "title": "Cvičení s říkankou pro malé děti",
+    "url": "https://www.kosmas.cz/knihy/575183/cviceni-s-rikankou-pro-male-deti/",
+    "description": "Cvičení s říkankou pro malé děti - Helena Vévodová",
+    "authors": [
+      "Helena Vévodová"
+    ],
+    "date": "2026-10-21T11:36:25.410364+00:00"
+  },
+  {
+    "title": "Divadelní noviny 8/2026",
+    "url": "https://www.kosmas.cz/knihy/575252/divadelni-noviny-8-2026/",
+    "description": "Divadelní noviny 8/2026",
+    "authors": [],
+    "date": "2026-10-21T11:36:24.410364+00:00"
+  },
+  {
+    "title": "Nelítostná stvoření",
+    "url": "https://www.kosmas.cz/knihy/575274/nelitostna-stvoreni/",
+    "description": "Nelítostná stvoření - T.J. Geissinger",
+    "authors": [
+      "T.J. Geissinger"
+    ],
+    "date": "2026-10-21T11:36:23.410364+00:00"
+  },
+  {
+    "title": "Barbie - Staň se známou návrhářkou",
+    "url": "https://www.kosmas.cz/knihy/573477/barbie-stan-se-znamou-navrharkou/",
+    "description": "Barbie - Staň se známou návrhářkou - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-10-21T11:36:22.410364+00:00"
+  },
+  {
+    "title": "Od poupátka k uschlé růži",
+    "url": "https://www.kosmas.cz/knihy/573592/od-poupatka-k-uschle-ruzi/",
+    "description": "Od poupátka k uschlé růži - Ivanka Devátá",
+    "authors": [
+      "Ivanka Devátá"
+    ],
+    "date": "2026-10-21T11:36:21.410364+00:00"
+  },
+  {
+    "title": "Poslední Namsara",
+    "url": "https://www.kosmas.cz/knihy/573639/posledni-namsara/",
+    "description": "Poslední Namsara - Kristen Ciccarelli",
+    "authors": [
+      "Kristen Ciccarelli"
+    ],
+    "date": "2026-10-21T11:36:20.410364+00:00"
+  },
+  {
+    "title": "Matcha kuchařka",
+    "url": "https://www.kosmas.cz/knihy/573641/matcha-kucharka/",
+    "description": "Matcha kuchařka - Lucia Červeňová",
+    "authors": [
+      "Lucia Červeňová"
+    ],
+    "date": "2026-10-21T11:36:19.410364+00:00"
+  },
+  {
+    "title": "Deník mileniálky",
+    "url": "https://www.kosmas.cz/knihy/573647/denik-milenialky/",
+    "description": "Deník mileniálky - LaFrnda",
+    "authors": [
+      "LaFrnda"
+    ],
+    "date": "2026-10-21T11:36:18.410364+00:00"
+  },
+  {
+    "title": "Tajemství vánočního krámku",
+    "url": "https://www.kosmas.cz/knihy/573722/tajemstvi-vanocniho-kramku/",
+    "description": "Tajemství vánočního krámku - Jemma Hatt",
+    "authors": [
+      "Jemma Hatt"
+    ],
+    "date": "2026-10-21T11:36:17.410364+00:00"
+  },
+  {
+    "title": "Barbie - Staň se úspěšnou návrhářkou",
+    "url": "https://www.kosmas.cz/knihy/573284/barbie-stan-se-uspesnou-navrharkou/",
+    "description": "Barbie - Staň se úspěšnou návrhářkou - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-10-21T11:36:16.410364+00:00"
+  },
+  {
+    "title": "Pomocná škola Bixley",
+    "url": "https://www.kosmas.cz/knihy/285765/pomocna-skola-bixley/",
+    "description": "Pomocná škola Bixley - Ivan Blatný",
+    "authors": [
+      "Ivan Blatný"
+    ],
+    "date": "2026-10-21T11:36:15.410364+00:00"
+  },
+  {
+    "title": "Česká lekce",
+    "url": "https://www.kosmas.cz/knihy/573749/ceska-lekce/",
+    "description": "Česká lekce - Marek Migalski",
+    "authors": [
+      "Marek Migalski"
+    ],
+    "date": "2026-10-21T11:36:14.410364+00:00"
+  },
+  {
+    "title": "Bromantasy",
+    "url": "https://www.kosmas.cz/knihy/573892/bromantasy/",
+    "description": "Bromantasy - Máire Roche",
+    "authors": [
+      "Máire Roche"
+    ],
+    "date": "2026-10-21T11:36:13.410364+00:00"
+  },
+  {
+    "title": "Lost Hills 2 - Kaňon kostí",
+    "url": "https://www.kosmas.cz/knihy/574462/lost-hills-2-kanon-kosti/",
+    "description": "Lost Hills 2 - Kaňon kostí - Lee Goldberg",
+    "authors": [
+      "Lee Goldberg"
+    ],
+    "date": "2026-10-21T11:36:12.410364+00:00"
+  },
+  {
     "title": "Vánoční jezevčík",
     "url": "https://www.kosmas.cz/knihy/574843/vanocni-jezevcik/",
     "description": "Vánoční jezevčík - Bella Swift",
@@ -1625,187 +1801,5 @@
       "Kelly Anderson"
     ],
     "date": "2026-10-09T13:02:24.055597+00:00"
-  },
-  {
-    "title": "Tatínku, vyprávěj - Kniha pro předávání příběhů",
-    "url": "https://www.kosmas.cz/knihy/574652/tatinku-vypravej-kniha-pro-predavani-pribehu/",
-    "description": "Tatínku, vyprávěj - Kniha pro předávání příběhů - Monika Kopřivová",
-    "authors": [
-      "Monika Kopřivová"
-    ],
-    "date": "2026-10-09T13:02:23.055597+00:00"
-  },
-  {
-    "title": "Redeeming 6",
-    "url": "https://www.kosmas.cz/knihy/574655/redeeming-6/",
-    "description": "Redeeming 6 - Chloe Walsh",
-    "authors": [
-      "Chloe Walsh"
-    ],
-    "date": "2026-10-09T13:02:22.055597+00:00"
-  },
-  {
-    "title": "Drahá Marto",
-    "url": "https://www.kosmas.cz/knihy/574658/draha-marto/",
-    "description": "Drahá Marto - Miriam Blahová",
-    "authors": [
-      "Miriam Blahová"
-    ],
-    "date": "2026-10-09T13:02:21.055597+00:00"
-  },
-  {
-    "title": "Bohyně krve a kostí",
-    "url": "https://www.kosmas.cz/knihy/574659/bohyne-krve-a-kosti/",
-    "description": "Bohyně krve a kostí - Jennifer L. Armentroutová, Marek Holý",
-    "authors": [
-      "Jennifer L. Armentroutová",
-      "Marek Holý"
-    ],
-    "date": "2026-10-09T13:02:20.055597+00:00"
-  },
-  {
-    "title": "Arlo a havran",
-    "url": "https://www.kosmas.cz/knihy/574665/arlo-a-havran/",
-    "description": "Arlo a havran - Lucy Flemingová",
-    "authors": [
-      "Lucy Flemingová"
-    ],
-    "date": "2026-10-09T13:02:19.055597+00:00"
-  },
-  {
-    "title": "Dívka jménem Willow: Mlžný tanec",
-    "url": "https://www.kosmas.cz/knihy/574667/divka-jmenem-willow-mlzny-tanec/",
-    "description": "Dívka jménem Willow: Mlžný tanec - Sabine Bohlmannová",
-    "authors": [
-      "Sabine Bohlmannová"
-    ],
-    "date": "2026-10-09T13:02:18.055597+00:00"
-  },
-  {
-    "title": "Dcera sváru",
-    "url": "https://www.kosmas.cz/knihy/574669/dcera-svaru/",
-    "description": "Dcera sváru - Bree Grenwich",
-    "authors": [
-      "Bree Grenwich"
-    ],
-    "date": "2026-10-09T13:02:17.055597+00:00"
-  },
-  {
-    "title": "Bárnaby - bubák zpod postele",
-    "url": "https://www.kosmas.cz/knihy/574670/barnaby-bubak-zpod-postele/",
-    "description": "Bárnaby - bubák zpod postele - Sandra Vebrová",
-    "authors": [
-      "Sandra Vebrová"
-    ],
-    "date": "2026-10-09T13:02:16.055597+00:00"
-  },
-  {
-    "title": "Divotvorci: Kniha druhá",
-    "url": "https://www.kosmas.cz/knihy/574672/divotvorci-kniha-druha/",
-    "description": "Divotvorci: Kniha druhá - Karel Hradil",
-    "authors": [
-      "Karel Hradil"
-    ],
-    "date": "2026-10-09T13:02:15.055597+00:00"
-  },
-  {
-    "title": "Hvězdy NHL 2027",
-    "url": "https://www.kosmas.cz/knihy/574673/hvezdy-nhl-2027/",
-    "description": "Hvězdy NHL 2027 - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-10-09T13:02:14.055597+00:00"
-  },
-  {
-    "title": "Hlasy propasti",
-    "url": "https://www.kosmas.cz/knihy/574213/hlasy-propasti/",
-    "description": "Hlasy propasti - Dušan Valent",
-    "authors": [
-      "Dušan Valent"
-    ],
-    "date": "2026-10-08T13:15:36.525655+00:00"
-  },
-  {
-    "title": "Tajný večírek",
-    "url": "https://www.kosmas.cz/knihy/574354/tajny-vecirek/",
-    "description": "Tajný večírek - Patricia Gibneyová",
-    "authors": [
-      "Patricia Gibneyová"
-    ],
-    "date": "2026-10-08T13:15:35.525655+00:00"
-  },
-  {
-    "title": "Šerosvit v duši",
-    "url": "https://www.kosmas.cz/knihy/574447/serosvit-v-dusi/",
-    "description": "Šerosvit v duši - Lucie Ortega",
-    "authors": [
-      "Lucie Ortega"
-    ],
-    "date": "2026-10-08T13:15:34.525655+00:00"
-  },
-  {
-    "title": "Dvůr hadů a tajemství",
-    "url": "https://www.kosmas.cz/knihy/574567/dvur-hadu-a-tajemstvi/",
-    "description": "Dvůr hadů a tajemství - Eliza Raine",
-    "authors": [
-      "Eliza Raine"
-    ],
-    "date": "2026-10-08T13:15:33.525655+00:00"
-  },
-  {
-    "title": "Encyklopedie komiksu v Československu 1945 - 1989 2. díl",
-    "url": "https://www.kosmas.cz/knihy/574041/encyklopedie-komiksu-v-ceskoslovensku-1945-1989-2.-dil/",
-    "description": "Encyklopedie komiksu v Československu 1945 - 1989 2. díl - Josef Ládek, Robert Pavelka",
-    "authors": [
-      "Josef Ládek",
-      "Robert Pavelka"
-    ],
-    "date": "2026-10-08T13:15:32.525655+00:00"
-  },
-  {
-    "title": "Zatímco sněžilo",
-    "url": "https://www.kosmas.cz/knihy/574576/zatimco-snezilo/",
-    "description": "Zatímco sněžilo - Julia London",
-    "authors": [
-      "Julia London"
-    ],
-    "date": "2026-10-08T13:15:31.525655+00:00"
-  },
-  {
-    "title": "Dračí oheň - Děti osudu",
-    "url": "https://www.kosmas.cz/knihy/574579/draci-ohen-deti-osudu/",
-    "description": "Dračí oheň - Děti osudu - Kristina Hlaváčková",
-    "authors": [
-      "Kristina Hlaváčková"
-    ],
-    "date": "2026-10-08T13:15:30.525655+00:00"
-  },
-  {
-    "title": "Kočička Hamley a vánoční tajemství",
-    "url": "https://www.kosmas.cz/knihy/574501/kocicka-hamley-a-vanocni-tajemstvi/",
-    "description": "Kočička Hamley a vánoční tajemství - Sandra J. Paulová",
-    "authors": [
-      "Sandra J. Paulová"
-    ],
-    "date": "2026-10-08T13:15:29.525655+00:00"
-  },
-  {
-    "title": "Krvavá koruna",
-    "url": "https://www.kosmas.cz/knihy/574641/krvava-koruna/",
-    "description": "Krvavá koruna - Zdeňka Husáková",
-    "authors": [
-      "Zdeňka Husáková"
-    ],
-    "date": "2026-10-08T13:15:28.525655+00:00"
-  },
-  {
-    "title": "Květinová fantazie",
-    "url": "https://www.kosmas.cz/knihy/574642/kvetinova-fantazie/",
-    "description": "Květinová fantazie - Melpomeni Chatzipanagiotouová",
-    "authors": [
-      "Melpomeni Chatzipanagiotouová"
-    ],
-    "date": "2026-10-08T13:15:27.525655+00:00"
   }
 ]

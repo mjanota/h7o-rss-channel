@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-21 11:36:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Tam, kde žijí knihy
+2. Tim a Tom – Jak se o Vánocích splnily myší sny
+3. Souhvězdí
+4. Co se dělá o Vánocích?
+5. Bláznivá dobrodružství Vladyho Drákuly – Nebezpečná výprava
+6. Vychovej hrdinu
+7. Cvičení s říkankou pro malé děti
+8. Divadelní noviny 8/2026
+9. Nelítostná stvoření
+10. Barbie - Staň se známou návrhářkou
+11. Od poupátka k uschlé růži
+12. Poslední Namsara
+13. Matcha kuchařka
+14. Deník mileniálky
+15. Tajemství vánočního krámku
+16. Barbie - Staň se úspěšnou návrhářkou
+17. Pomocná škola Bixley
+18. Česká lekce
+19. Bromantasy
+20. Lost Hills 2 - Kaňon kostí
+
+---
+
+## 🕐 2026-10-21 11:36:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí
+
+---
+
 ## 🕐 2026-10-20 11:21:10 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -303,52 +350,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Co získáváme a co ztrácíme poslechem audioknih
-
----
-
-## 🕐 2026-10-13 14:01:18 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Deluxe dárkový set Tlapková patrola
-2. Deluxe dárkový set Prasátko Peppa
-3. Deluxe dárkový set Ledové království
-4. Deluxe dárkový set Lilo & Stitch
-5. Deluxe dárkový set Spiderman
-6. Biologie traumatu
-7. Online marketing: Od webových stránek k sociálním sítím
-8. Živoucí lék
-9. Nová éra hubnutí
-10. Vývoj aplikací ve SwiftUI
-11. Jezero kostí
-12. Ve dvou se to lépe táhne
-13. Dospívání na Samoi
-14. Případ Y
-15. Organic Name Reaction Flashcards / Kartičky jmenných organických chemických reakcí
-16. Tak jsem potkala jednoho chlápka…
-17. Vypůjčené štěstí
-18. Vánoční pohádky
-19. Disney Princezna - Vaříme s princeznou
-
----
-
-## 🕐 2026-10-13 14:01:16 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Smuteční průvod světem plastů
 
 ---
 

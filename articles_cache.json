@@ -1,13 +1,5 @@
 [
   {
-    "title": "Vivant studiosi",
-    "url": "https://www.h7o.cz/clanky/14541-vivant-studiosi",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
-    "date": "2026-07-23T00:00:00",
-    "author": "Vratislav Maňák",
-    "category": "sloupek"
-  },
-  {
     "title": "O jazykové optimalizaci",
     "url": "https://www.h7o.cz/clanky/14568-o-jazykove-optimalizaci",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-20T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí",
+    "url": "https://www.h7o.cz/clanky/14633-konec-sally-rooney-ve-velke-britanii-podporila-propalestinske-hnuti",
+    "description": "Knihy Sally Rooney se nesmí prodávat ve Velké Británii. Irská spisovatelka totiž finančně podporuje aktivistické hnutí Palestine Action.",
+    "date": "2026-10-21T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]
