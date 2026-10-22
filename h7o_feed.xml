@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:36:14 +0000</lastBuildDate>
+    <item>
+      <title>Zacyklený básník Jiří Volf</title>
+      <link>https://www.h7o.cz/clanky/14634-zacykleny-basnik-jiri-volf</link>
+      <description>Ve své monografii „Ztracený básník Jiří Volf“ umělkyně a literární vědkyně Anna Luňáková vypráví příběh českého exulanta a zároveň v češtině poprvé zpřístupňuje jeho básnické dílo. O Volfově poezii a o tom, jak zapadá do české literatury, referuje Kryštof Mec.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14634-zacykleny-basnik-jiri-volf</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí</title>
       <link>https://www.h7o.cz/clanky/14633-konec-sally-rooney-ve-velke-britanii-podporila-propalestinske-hnuti</link>
@@ -441,13 +448,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Pavla Pilcha z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14569-smutne-konce</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O jazykové optimalizaci</title>
-      <link>https://www.h7o.cz/clanky/14568-o-jazykove-optimalizaci</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14568-o-jazykove-optimalizaci</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
