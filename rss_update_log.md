@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-23 11:25:31 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Jsme tady
+2. Dcera sváru – limitovaná edice s 3D ořízkou
+3. Kabala
+4. Kolejová vozidla a technika na železnici
+5. Bohatství z písku
+6. Živé terče
+7. Veselé Vánoce a šťastný nový rok - Vystřihovánky Richarda Vyškovského
+8. W.I.T.C.H. Komiks 31 - 33
+9. Kuchaři smrti
+10. Není ryba jako ryba
+11. Harry Potter a Kámen mudrců - ilustrované vydání
+12. Detektiv Krvinka: Putování lidským tělem
+13. Vlakové šílenství - Jak železnice spojily svět a přepsaly dějiny
+14. Život je na tyhle sr.čky moc krátký
+15. Wildflovers: Znovuzrození
+16. Růže pro Algernon
+17. Deník tety z Lemura
+18. Jak to bylo dál
+19. Lucie
+20. Pod hvězdou svatého Jakuba
+
+---
+
+## 🕐 2026-10-23 11:25:29 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Hledáme, jak se zastavit
+
+---
+
 ## 🕐 2026-10-22 11:36:15 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -255,53 +302,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-16 11:10:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Studánka
-2. Čekárna číslo tři
-3. Kočičí král
-4. Parta charty mastí karty
-5. Chvění
-6. Mindf*ck (4–5) – komplet
-7. Hotýlek V Jabloňovém sadu
-8. Ticho mezi námi
-9. Dědictví a jiné katastrofy
-10. Vraždi všímavě na kraji světa
-11. Hrozálie, superslavná čarodějka
-12. Zuzka a Špunťa v zemi komiksů
-13. Doktoři - Jejich genialita, poslání a zázraky
-14. Cesta Tarotu
-15. Nesmírná gravitace koblih
-16. Políbeno ohněm
-17. Divoký skejt
-18. Češka v šátku
-19. Slavnost bezvýznamnosti
-20. Mystické příběhy pragmatika 2
-
----
-
-## 🕐 2026-10-16 11:10:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Česko je půvabná, vypatlaná země
 
 ---
 
