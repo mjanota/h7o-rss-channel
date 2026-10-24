@@ -5,6 +5,45 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-24 10:44:43 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 16
+
+**Tituly nových položek:**
+
+1. Růže pro Algernon
+2. Paskvil
+3. Veselé povídky a nadpřirozené příběhy ze života
+4. Navzdory všemu
+5. Věř si
+6. Mapa českých pivovarů - Průvodce po pivních velikánech i trendy minipivovarech
+7. Lightfall: Mezi světy
+8. Star Wars - Věk Republiky: Hrdinové
+9. Asterix IX-XII
+10. Závidím - Vzpomínka na Jiřího Grossmanna
+11. Ivančice včera a dnes
+12. Chrudim včera a dnes I.
+13. Loverboy
+14. Babička víla
+15. Australský ovčák slaví Vánoce
+16. Pohodové vánoční tvoření
+
+---
+
+## 🕐 2026-10-24 10:44:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-23 11:25:31 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -258,44 +297,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-10-18 10:50:18 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-10-17 10:30:10 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Kuchyň
-2. Roztoč si pohádku: Tři prasátka
-3. Výpravy za hudbami světa
-4. Kartograf Pavel Josef Šafařík
-5. Slavnost bezvýznamnosti
-6. 20000 mil pod mořem
-7. Jeden dech za druhým
-8. Divadelní noviny 7/2026
-9. Na špičce jehly
-10. Jsem příšera pod postelí
-11. Mezi hořícími květinami
-12. Vražda a jiné volnočasové aktivity
-13. Práce snů
-14. Lepení dřeva
-15. Spánek
-
----
-
-## 🕐 2026-10-17 10:30:07 UTC
 
 **Zdroj:** H7O - Časopis Host
 
