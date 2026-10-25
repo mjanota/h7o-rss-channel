@@ -5,6 +5,42 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-25 11:09:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 13
+
+**Tituly nových položek:**
+
+1. Spiknutí. Stín fašismu nad Bílým domem
+2. Za plazy a obojživelníky na konec světa
+3. Břehy Strusky
+4. Muž ze studny
+5. Vraždy v lázních
+6. Domaluj, vystřihni vánoční ozdoby
+7. Temný vektor
+8. Pipinky
+9. Gaia, psina rodiny
+10. Když se narodí KAPYBARA
+11. Potíže malého zrzka
+12. Dcérečka u plotny
+13. Poslední penalta - Fotbalová dobrodružství
+
+---
+
+## 🕐 2026-10-25 11:09:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-24 10:44:43 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -275,34 +311,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Bez názvu
-
----
-
-## 🕐 2026-10-18 10:50:18 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 5
-
-**Tituly nových položek:**
-
-1. Jak tenké jsou hranice
-2. Misunderstood
-3. Písečníci a probuzení krále
-4. Odolej mi
-5. Svědomí. Kdo chce mír, připravuje se na válku
-
----
-
-## 🕐 2026-10-18 10:50:18 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
