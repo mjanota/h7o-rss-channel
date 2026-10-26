@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-26 12:45:08 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Za obzorem republika
+2. NOS4A2
+3. Kniha o Jizerských horách
+4. Bílá velryba
+5. Zrození Venuše
+6. Továrna na ovce
+7. Abandoning a Cat
+8. Caraval
+9. Little Liar (Deluxe Edition)
+10. Little Stranger (Deluxe Edition)
+11. Bound and Unbound
+12. Dvě studie o federalismu
+13. Classical Mythology
+14. Finale
+15. Incendiary
+16. Legendary
+17. Queen of Shadows and Ruin
+18. Storm of Ink and Blood
+19. Tales of Horror and the Supernatural
+20. The Sixth Faction
+
+---
+
+## 🕐 2026-10-26 12:45:06 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. O důležitosti atraktivních přebalů knih
+
+---
+
 ## 🕐 2026-10-25 11:09:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

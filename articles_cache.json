@@ -1,13 +1,5 @@
 [
   {
-    "title": "Z rakvičky do světa",
-    "url": "https://www.h7o.cz/clanky/14542-z-rakvicky-do-sveta",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Dory Kaprálové z roku 2021.",
-    "date": "2026-07-28T00:00:00",
-    "author": "Dora Kaprálová",
-    "category": "sloupek"
-  },
-  {
     "title": "Hledání sebe",
     "url": "https://www.h7o.cz/clanky/14570-hledani-sebe",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Magdy de Bruin Hüblové z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-23T00:00:00",
     "author": "Andrea Popelová",
     "category": "recenze"
+  },
+  {
+    "title": "O důležitosti atraktivních přebalů knih",
+    "url": "https://www.h7o.cz/clanky/14636-o-dulezitosti-atraktivnich-prebalu-knih",
+    "description": "Knižní obálka už dávno neslouží jen jako obal příběhu. Proměnila se v klíčovou digitální komoditu a lifestylovou rekvizitu sociálních sítí. V éře instagramových zátiší se první čtenářský akt odehrává už na displeji telefonu. To na jedné straně vede k algoritmické sterilitě, ale také to rodí rebelii…",
+    "date": "2026-10-26T00:00:00",
+    "author": "Jan Jindřich Karásek",
+    "category": "téma"
   }
 ]

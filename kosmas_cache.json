@@ -1,5 +1,183 @@
 [
   {
+    "title": "Za obzorem republika",
+    "url": "https://www.kosmas.cz/knihy/574841/za-obzorem-republika/",
+    "description": "Za obzorem republika - Michal Rak",
+    "authors": [
+      "Michal Rak"
+    ],
+    "date": "2026-10-26T12:45:08.557947+00:00"
+  },
+  {
+    "title": "NOS4A2",
+    "url": "https://www.kosmas.cz/knihy/574941/nos4a2/",
+    "description": "NOS4A2 - Joe Hill",
+    "authors": [
+      "Joe Hill"
+    ],
+    "date": "2026-10-26T12:45:07.557947+00:00"
+  },
+  {
+    "title": "Kniha o Jizerských horách",
+    "url": "https://www.kosmas.cz/knihy/575008/kniha-o-jizerskych-horach/",
+    "description": "Kniha o Jizerských horách - Miloslav Nevrlý",
+    "authors": [
+      "Miloslav Nevrlý"
+    ],
+    "date": "2026-10-26T12:45:06.557947+00:00"
+  },
+  {
+    "title": "Bílá velryba",
+    "url": "https://www.kosmas.cz/knihy/574761/bila-velryba/",
+    "description": "Bílá velryba - Herman Melville",
+    "authors": [
+      "Herman Melville"
+    ],
+    "date": "2026-10-26T12:45:05.557947+00:00"
+  },
+  {
+    "title": "Zrození Venuše",
+    "url": "https://www.kosmas.cz/knihy/574762/zrozeni-venuse/",
+    "description": "Zrození Venuše - Antonín Polách",
+    "authors": [
+      "Antonín Polách"
+    ],
+    "date": "2026-10-26T12:45:04.557947+00:00"
+  },
+  {
+    "title": "Továrna na ovce",
+    "url": "https://www.kosmas.cz/knihy/575054/tovarna-na-ovce/",
+    "description": "Továrna na ovce - Tomáš Vránek",
+    "authors": [
+      "Tomáš Vránek"
+    ],
+    "date": "2026-10-26T12:45:03.557947+00:00"
+  },
+  {
+    "title": "Abandoning a Cat",
+    "url": "https://www.kosmas.cz/knihy/575171/abandoning-a-cat/",
+    "description": "Abandoning a Cat - Haruki Murakami",
+    "authors": [
+      "Haruki Murakami"
+    ],
+    "date": "2026-10-26T12:45:02.557947+00:00"
+  },
+  {
+    "title": "Caraval",
+    "url": "https://www.kosmas.cz/knihy/575173/caraval/",
+    "description": "Caraval - Stephanie Garberová",
+    "authors": [
+      "Stephanie Garberová"
+    ],
+    "date": "2026-10-26T12:45:01.557947+00:00"
+  },
+  {
+    "title": "Little Liar (Deluxe Edition)",
+    "url": "https://www.kosmas.cz/knihy/575178/little-liar-deluxe-edition/",
+    "description": "Little Liar (Deluxe Edition) - Leigh Rivers",
+    "authors": [
+      "Leigh Rivers"
+    ],
+    "date": "2026-10-26T12:45:00.557947+00:00"
+  },
+  {
+    "title": "Little Stranger (Deluxe Edition)",
+    "url": "https://www.kosmas.cz/knihy/575180/little-stranger-deluxe-edition/",
+    "description": "Little Stranger (Deluxe Edition) - Leigh Rivers",
+    "authors": [
+      "Leigh Rivers"
+    ],
+    "date": "2026-10-26T12:44:59.557947+00:00"
+  },
+  {
+    "title": "Bound and Unbound",
+    "url": "https://www.kosmas.cz/knihy/575182/bound-and-unbound/",
+    "description": "Bound and Unbound - Ali Hazelwood",
+    "authors": [
+      "Ali Hazelwood"
+    ],
+    "date": "2026-10-26T12:44:58.557947+00:00"
+  },
+  {
+    "title": "Dvě studie o federalismu",
+    "url": "https://www.kosmas.cz/knihy/575228/dve-studie-o-federalismu/",
+    "description": "Dvě studie o federalismu - Václav Ryneš",
+    "authors": [
+      "Václav Ryneš"
+    ],
+    "date": "2026-10-26T12:44:57.557947+00:00"
+  },
+  {
+    "title": "Classical Mythology",
+    "url": "https://www.kosmas.cz/knihy/575304/classical-mythology/",
+    "description": "Classical Mythology",
+    "authors": [],
+    "date": "2026-10-26T12:44:56.557947+00:00"
+  },
+  {
+    "title": "Finale",
+    "url": "https://www.kosmas.cz/knihy/575305/finale/",
+    "description": "Finale - Stephanie Garberová",
+    "authors": [
+      "Stephanie Garberová"
+    ],
+    "date": "2026-10-26T12:44:55.557947+00:00"
+  },
+  {
+    "title": "Incendiary",
+    "url": "https://www.kosmas.cz/knihy/575306/incendiary/",
+    "description": "Incendiary - LJ Claren",
+    "authors": [
+      "LJ Claren"
+    ],
+    "date": "2026-10-26T12:44:54.557947+00:00"
+  },
+  {
+    "title": "Legendary",
+    "url": "https://www.kosmas.cz/knihy/575309/legendary/",
+    "description": "Legendary - Stephanie Garberová",
+    "authors": [
+      "Stephanie Garberová"
+    ],
+    "date": "2026-10-26T12:44:53.557947+00:00"
+  },
+  {
+    "title": "Queen of Shadows and Ruin",
+    "url": "https://www.kosmas.cz/knihy/575310/queen-of-shadows-and-ruin/",
+    "description": "Queen of Shadows and Ruin - Nisha J. Tuli",
+    "authors": [
+      "Nisha J. Tuli"
+    ],
+    "date": "2026-10-26T12:44:52.557947+00:00"
+  },
+  {
+    "title": "Storm of Ink and Blood",
+    "url": "https://www.kosmas.cz/knihy/575311/storm-of-ink-and-blood/",
+    "description": "Storm of Ink and Blood - Nisha J. Tuli",
+    "authors": [
+      "Nisha J. Tuli"
+    ],
+    "date": "2026-10-26T12:44:51.557947+00:00"
+  },
+  {
+    "title": "Tales of Horror and the Supernatural",
+    "url": "https://www.kosmas.cz/knihy/575321/tales-of-horror-and-the-supernatural/",
+    "description": "Tales of Horror and the Supernatural - Arthur Conan Doyle",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "date": "2026-10-26T12:44:50.557947+00:00"
+  },
+  {
+    "title": "The Sixth Faction",
+    "url": "https://www.kosmas.cz/knihy/575324/the-sixth-faction/",
+    "description": "The Sixth Faction - Veronica Roth",
+    "authors": [
+      "Veronica Roth"
+    ],
+    "date": "2026-10-26T12:44:49.557947+00:00"
+  },
+  {
     "title": "Spiknutí. Stín fašismu nad Bílým domem",
     "url": "https://www.kosmas.cz/knihy/573630/spiknuti.-stin-fasismu-nad-bilym-domem/",
     "description": "Spiknutí. Stín fašismu nad Bílým domem - Thomas Snégaroff",
@@ -1617,191 +1795,5 @@
       "Hana Lamková"
     ],
     "date": "2026-10-15T11:16:08.894471+00:00"
-  },
-  {
-    "title": "Bez slunce: Disco Inferno",
-    "url": "https://www.kosmas.cz/knihy/573614/bez-slunce-disco-inferno/",
-    "description": "Bez slunce: Disco Inferno - Jean-Christophe Grangé",
-    "authors": [
-      "Jean-Christophe Grangé"
-    ],
-    "date": "2026-10-15T11:16:07.894471+00:00"
-  },
-  {
-    "title": "Když Afrikakorps vládl v Americe",
-    "url": "https://www.kosmas.cz/knihy/571587/kdyz-afrikakorps-vladl-v-americe/",
-    "description": "Když Afrikakorps vládl v Americe - Milan Vodička",
-    "authors": [
-      "Milan Vodička"
-    ],
-    "date": "2026-10-15T11:16:06.894471+00:00"
-  },
-  {
-    "title": "Auťáky",
-    "url": "https://www.kosmas.cz/knihy/570668/autaky/",
-    "description": "Auťáky - David Lauda",
-    "authors": [
-      "David Lauda"
-    ],
-    "date": "2026-10-15T11:16:05.894471+00:00"
-  },
-  {
-    "title": "Radecký",
-    "url": "https://www.kosmas.cz/knihy/563729/radecky/",
-    "description": "Radecký - Alan Sked",
-    "authors": [
-      "Alan Sked"
-    ],
-    "date": "2026-10-15T11:16:04.894471+00:00"
-  },
-  {
-    "title": "Někde v krajním bodě",
-    "url": "https://www.kosmas.cz/knihy/574628/nekde-v-krajnim-bode/",
-    "description": "Někde v krajním bodě - Claudiu Komartin",
-    "authors": [
-      "Claudiu Komartin"
-    ],
-    "date": "2026-10-15T11:16:03.894471+00:00"
-  },
-  {
-    "title": "Je na tom něco dobrého",
-    "url": "https://www.kosmas.cz/knihy/574632/je-na-tom-neco-dobreho/",
-    "description": "Je na tom něco dobrého - Adin Lujca, Dominika Křesťanová",
-    "authors": [
-      "Adin Lujca",
-      "Dominika Křesťanová"
-    ],
-    "date": "2026-10-15T11:16:02.894471+00:00"
-  },
-  {
-    "title": "Oprátka za osm mrtvých",
-    "url": "https://www.kosmas.cz/knihy/574661/opratka-za-osm-mrtvych/",
-    "description": "Oprátka za osm mrtvých - Roman Cílek",
-    "authors": [
-      "Roman Cílek"
-    ],
-    "date": "2026-10-15T11:16:01.894471+00:00"
-  },
-  {
-    "title": "Rytíř Sovík",
-    "url": "https://www.kosmas.cz/knihy/574793/rytir-sovik/",
-    "description": "Rytíř Sovík - Denise Christopher",
-    "authors": [
-      "Denise Christopher"
-    ],
-    "date": "2026-10-15T11:16:00.894471+00:00"
-  },
-  {
-    "title": "Největší fotbalové hvězdy",
-    "url": "https://www.kosmas.cz/knihy/574396/nejvetsi-fotbalove-hvezdy/",
-    "description": "Největší fotbalové hvězdy - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-10-14T11:37:56.325579+00:00"
-  },
-  {
-    "title": "Dívka jménem Willow: Šepot lesa",
-    "url": "https://www.kosmas.cz/knihy/574668/divka-jmenem-willow-sepot-lesa/",
-    "description": "Dívka jménem Willow: Šepot lesa - Sabine Bohlmannová",
-    "authors": [
-      "Sabine Bohlmannová"
-    ],
-    "date": "2026-10-14T11:37:55.325579+00:00"
-  },
-  {
-    "title": "Překlep a Škraloup",
-    "url": "https://www.kosmas.cz/knihy/574742/preklep-a-skraloup/",
-    "description": "Překlep a Škraloup - Barbora Klárová, Tomáš Končinský",
-    "authors": [
-      "Barbora Klárová",
-      "Tomáš Končinský"
-    ],
-    "date": "2026-10-14T11:37:54.325579+00:00"
-  },
-  {
-    "title": "Dědictví portugalských templářů",
-    "url": "https://www.kosmas.cz/knihy/574820/dedictvi-portugalskych-templaru/",
-    "description": "Dědictví portugalských templářů - Vlastimil Vondruška",
-    "authors": [
-      "Vlastimil Vondruška"
-    ],
-    "date": "2026-10-14T11:37:53.325579+00:00"
-  },
-  {
-    "title": "Smrt pána z Valdeka",
-    "url": "https://www.kosmas.cz/knihy/574821/smrt-pana-z-valdeka/",
-    "description": "Smrt pána z Valdeka - Richard Dostál",
-    "authors": [
-      "Richard Dostál"
-    ],
-    "date": "2026-10-14T11:37:52.325579+00:00"
-  },
-  {
-    "title": "Vraždy v lázních",
-    "url": "https://www.kosmas.cz/knihy/574822/vrazdy-v-laznich/",
-    "description": "Vraždy v lázních - František Niedl",
-    "authors": [
-      "František Niedl"
-    ],
-    "date": "2026-10-14T11:37:51.325579+00:00"
-  },
-  {
-    "title": "Očima starý holky",
-    "url": "https://www.kosmas.cz/knihy/574865/ocima-stary-holky/",
-    "description": "Očima starý holky - Irena Obermannová",
-    "authors": [
-      "Irena Obermannová"
-    ],
-    "date": "2026-10-14T11:37:50.325579+00:00"
-  },
-  {
-    "title": "Dvůr hadů a tajemství",
-    "url": "https://www.kosmas.cz/knihy/574866/dvur-hadu-a-tajemstvi/",
-    "description": "Dvůr hadů a tajemství - Eliza Raine",
-    "authors": [
-      "Eliza Raine"
-    ],
-    "date": "2026-10-14T11:37:49.325579+00:00"
-  },
-  {
-    "title": "Čím budu, až vyrostu?",
-    "url": "https://www.kosmas.cz/knihy/574869/cim-budu-az-vyrostu/",
-    "description": "Čím budu, až vyrostu? - Anne Suessová",
-    "authors": [
-      "Anne Suessová"
-    ],
-    "date": "2026-10-14T11:37:48.325579+00:00"
-  },
-  {
-    "title": "Dědictví a jiné katastrofy",
-    "url": "https://www.kosmas.cz/knihy/574922/dedictvi-a-jine-katastrofy/",
-    "description": "Dědictví a jiné katastrofy - Jana Jurmanová, Dagmar Lachmanová, Radmila Tomšů",
-    "authors": [
-      "Jana Jurmanová",
-      "Dagmar Lachmanová",
-      "Radmila Tomšů"
-    ],
-    "date": "2026-10-14T11:37:47.325579+00:00"
-  },
-  {
-    "title": "Ticho mezi námi",
-    "url": "https://www.kosmas.cz/knihy/574923/ticho-mezi-nami/",
-    "description": "Ticho mezi námi - Kristina Hattenhauer",
-    "authors": [
-      "Kristina Hattenhauer"
-    ],
-    "date": "2026-10-14T11:37:46.325579+00:00"
-  },
-  {
-    "title": "Ošklivé holky",
-    "url": "https://www.kosmas.cz/knihy/574948/osklive-holky/",
-    "description": "Ošklivé holky - Lisa Bjärbo, Joanna Lindbäck, Sara Ohlsson",
-    "authors": [
-      "Lisa Bjärbo",
-      "Joanna Lindbäck",
-      "Sara Ohlsson"
-    ],
-    "date": "2026-10-14T11:37:45.325579+00:00"
   }
 ]
