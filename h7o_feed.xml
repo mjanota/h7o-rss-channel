@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:58:27 +0000</lastBuildDate>
+    <item>
+      <title>Halucinační trip v poli slaměných panáků</title>
+      <link>https://www.h7o.cz/clanky/14637-halucinacni-trip-v-poli-slamenych-panaku</link>
+      <description>„Karáskova avantgardní vize lepšího světa je pro mě ale poněkud děsivá, a to zejména svou neinformovanou bohorovností. Úplně nejvíc ale možná předpokladem, že nás spasí ‚research-based‘ tvorba.“ Kritickou reakci na článek „Mezi plátnem a stránkou“ Jana Jindřicha Karáska napsal Jan Musil.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14637-halucinacni-trip-v-poli-slamenych-panaku</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>O důležitosti atraktivních přebalů knih</title>
       <link>https://www.h7o.cz/clanky/14636-o-dulezitosti-atraktivnich-prebalu-knih</link>
@@ -441,13 +448,6 @@
       <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14543-bramburky-s-vajecnou-emulzi</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hledání sebe</title>
-      <link>https://www.h7o.cz/clanky/14570-hledani-sebe</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Magdy de Bruin Hüblové z roku 2021.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14570-hledani-sebe</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

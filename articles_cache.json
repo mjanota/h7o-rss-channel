@@ -1,13 +1,5 @@
 [
   {
-    "title": "Hledání sebe",
-    "url": "https://www.h7o.cz/clanky/14570-hledani-sebe",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Magdy de Bruin Hüblové z roku 2021.",
-    "date": "2026-07-29T00:00:00",
-    "author": "Magda de Bruin Hüblová",
-    "category": "sloupek"
-  },
-  {
     "title": "Brambůrky s vaječnou emulzí",
     "url": "https://www.h7o.cz/clanky/14543-bramburky-s-vajecnou-emulzi",
     "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Vratislava Maňáka z roku 2021.",
@@ -502,5 +494,13 @@
     "date": "2026-10-26T00:00:00",
     "author": "Jan Jindřich Karásek",
     "category": "téma"
+  },
+  {
+    "title": "Halucinační trip v poli slaměných panáků",
+    "url": "https://www.h7o.cz/clanky/14637-halucinacni-trip-v-poli-slamenych-panaku",
+    "description": "„Karáskova avantgardní vize lepšího světa je pro mě ale poněkud děsivá, a to zejména svou neinformovanou bohorovností. Úplně nejvíc ale možná předpokladem, že nás spasí ‚research-based‘ tvorba.“ Kritickou reakci na článek „Mezi plátnem a stránkou“ Jana Jindřicha Karáska napsal Jan Musil.",
+    "date": "2026-10-27T00:00:00",
+    "author": "Jan Musil",
+    "category": "komentář"
   }
 ]

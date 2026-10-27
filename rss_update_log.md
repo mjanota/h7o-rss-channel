@@ -5,6 +5,51 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-27 11:58:28 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Chlapská dílna - Mistrovský průvodce pro práci se dřevem, nástroje, postupy a techniky
+2. Básníci
+3. Všechno nejlepší- 50 let řemesla, receptů a příběhů
+4. Katalog vybraných nápisů okresu Semily od 15. století do roku 1800
+5. Alchymie, její teorie a praxe
+6. Vynález zkázy
+7. Moje krabička vzpomínek
+8. Ošklivé holky
+9. Až na krev
+10. Nejkrásnější podzim
+11. Dívky v hlubinách
+12. Tanči srdcem
+13. Jako lovná zvěř
+14. Kognitivně behaviorální terapie - Základy a něco navíc
+15. Miro Švolík: 1975–2025
+16. Cíl neznámý
+17. České moře Nový pohled na kulturní dějiny
+18. Na vysoké noze
+
+---
+
+## 🕐 2026-10-27 11:58:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Halucinační trip v poli slaměných panáků
+
+---
+
 ## 🕐 2026-10-26 12:45:08 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -264,100 +309,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí
-
----
-
-## 🕐 2026-10-20 11:21:10 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Vánoční jezevčík
-2. YouCat - Milovat navěky
-3. Na život není nikdo sám
-4. 365 dní s papežem Lvem XIV.
-5. Bible ke křtu
-6. Ta druhá láska
-7. Tvůj křest a biřmování s promluvami papeže Františka
-8. Velká ilustrovaná Bible
-9. Páni a otroci
-10. Povídám, povídám pohádky
-11. Ledové království - Čtyři pohádky
-12. Star Wars - 5minutové příběhy z předaleké galaxie
-13. Disney - 5minutové huňaté pohádky
-14. Ostudní zrádci
-15. Kotva
-16. Tiché panenky
-17. Až shoří voda
-18. Na tenkém ledě
-19. Věda Superšpiona, Věda, Smrt a Technologie ve světě Jamese Bonda
-20. Krev & růže
-
----
-
-## 🕐 2026-10-20 11:21:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Mezi plátnem a stránkou
-
----
-
-## 🕐 2026-10-19 12:52:04 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Předkyně / Forewomen
-2. Uberšvejk
-3. Vladimír Hron
-4. Film a doba 3/2026
-5. Laboratoř Palestina
-6. Rok s Pichlíkem a Chlupáčem
-7. Jak se dostat na Wapiti do USA
-8. Střípky z loveckého deníku
-9. Na špičce jehly
-10. Krvavá lázeň
-11. Poslední jednorožec
-12. Já, Claudius
-13. Vraždy na Ledňáčkově vrchu
-14. Kouzelné příběhy
-15. Ňuňáčci
-16. Krev & růže
-17. Rukojmí
-18. Bolest, která se naučila mluvit
-19. Až moc pozdě
-20. Hraničářův učeň - Kniha druhá - Hořící most
-
----
-
-## 🕐 2026-10-19 12:52:02 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Bez názvu
 
 ---
 
