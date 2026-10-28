@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-28 12:36:53 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 12
+
+**Tituly nových položek:**
+
+1. Příběhy exkluzivity / Tales of Exclusivity
+2. Sonický život
+3. Hodinky: Esence času
+4. Zdeněk Jirotka: Dobrá rada pana Bartoše a jiné hry
+5. Vánoce se zvířátky
+6. Přepis
+7. Karel VI. Schwarzenberg - komplet
+8. Skok do hlavně
+9. Hanba
+10. Tajemství keltského šamanismu
+11. Tajná cvičení na posílení sexuální energie
+12. Černá zátoka
+
+---
+
+## 🕐 2026-10-28 12:36:51 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-27 11:58:28 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -262,53 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Zacyklený básník Jiří Volf
-
----
-
-## 🕐 2026-10-21 11:36:31 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Tam, kde žijí knihy
-2. Tim a Tom – Jak se o Vánocích splnily myší sny
-3. Souhvězdí
-4. Co se dělá o Vánocích?
-5. Bláznivá dobrodružství Vladyho Drákuly – Nebezpečná výprava
-6. Vychovej hrdinu
-7. Cvičení s říkankou pro malé děti
-8. Divadelní noviny 8/2026
-9. Nelítostná stvoření
-10. Barbie - Staň se známou návrhářkou
-11. Od poupátka k uschlé růži
-12. Poslední Namsara
-13. Matcha kuchařka
-14. Deník mileniálky
-15. Tajemství vánočního krámku
-16. Barbie - Staň se úspěšnou návrhářkou
-17. Pomocná škola Bixley
-18. Česká lekce
-19. Bromantasy
-20. Lost Hills 2 - Kaňon kostí
-
----
-
-## 🕐 2026-10-21 11:36:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Konec Sally Rooney ve Velké Británii. Podpořila propalestinské hnutí
 
 ---
 
