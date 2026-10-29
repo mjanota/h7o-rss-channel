@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:46:43 +0000</lastBuildDate>
+    <item>
+      <title>Poznámky z Ukrajiny I: Bachmut v krymskotatarské restauraci</title>
+      <link>https://www.h7o.cz/clanky/14638-poznamky-z-ukrajiny-i-bachmut-v-krymskotatarske-restauraci</link>
+      <description>Ten papírek nesmí posádka vozu ztratit. Kontrolnyj talon, na který ukrajinský pohraničník napíše registrační značku vozu a počet osob v něm. Básník a publicista Ivan Motýl překročil hranice na polsko-ukrajinském přechodu Korczowa/Краковець a o západní Ukrajině připravil pětidílnou reportáž.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14638-poznamky-z-ukrajiny-i-bachmut-v-krymskotatarske-restauraci</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Halucinační trip v poli slaměných panáků</title>
       <link>https://www.h7o.cz/clanky/14637-halucinacni-trip-v-poli-slamenych-panaku</link>
@@ -434,13 +441,6 @@
       <description>Minulé úterý zemřel ve třiasedmdesáti letech brněnský knihkupec Michal Ženíšek. Jeho knihkupectví v Alfa pasáži bylo místem, kam se někteří vraceli a jiní báli vejít. Na svého přítele vzpomíná Petr Minařík, spolumajitel nakladatelství Větrné mlýny.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14573-stoprocentni-rabat</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Buď zdráv!</title>
-      <link>https://www.h7o.cz/clanky/14571-bud-zdrav</link>
-      <description>Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14571-bud-zdrav</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

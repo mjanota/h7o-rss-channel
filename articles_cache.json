@@ -1,13 +1,5 @@
 [
   {
-    "title": "Buď zdráv!",
-    "url": "https://www.h7o.cz/clanky/14571-bud-zdrav",
-    "description": "Červenec patří na H70 archivnímu čtení, zejména sloupkům. Tentokrát přinášíme fejeton Karolíny Stehlíkové z roku 2021.",
-    "date": "2026-07-31T00:00:00",
-    "author": "Karolína Stehlíková",
-    "category": "sloupek"
-  },
-  {
     "title": "Stoprocentní rabat",
     "url": "https://www.h7o.cz/clanky/14573-stoprocentni-rabat",
     "description": "Minulé úterý zemřel ve třiasedmdesáti letech brněnský knihkupec Michal Ženíšek. Jeho knihkupectví v Alfa pasáži bylo místem, kam se někteří vraceli a jiní báli vejít. Na svého přítele vzpomíná Petr Minařík, spolumajitel nakladatelství Větrné mlýny.",
@@ -494,5 +486,13 @@
     "date": "2026-10-27T00:00:00",
     "author": "Jan Musil",
     "category": "komentář"
+  },
+  {
+    "title": "Poznámky z Ukrajiny I: Bachmut v krymskotatarské restauraci",
+    "url": "https://www.h7o.cz/clanky/14638-poznamky-z-ukrajiny-i-bachmut-v-krymskotatarske-restauraci",
+    "description": "Ten papírek nesmí posádka vozu ztratit. Kontrolnyj talon, na který ukrajinský pohraničník napíše registrační značku vozu a počet osob v něm. Básník a publicista Ivan Motýl překročil hranice na polsko-ukrajinském přechodu Korczowa/Краковець a o západní Ukrajině připravil pětidílnou reportáž.",
+    "date": "2026-10-29T00:00:00",
+    "author": "Ivan Motýl",
+    "category": "seriál"
   }
 ]

@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-29 12:46:44 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Vánoční trampoty mrzutého sýčka
+2. Proti proudu
+3. Diář plný radosti
+4. Píseň dlaska
+5. Znamenité ženy v počátcích českých dějin
+6. Harry Potter a princ dvojí krve
+7. Coco Wyo - Cozy Kapybary
+8. Red mama
+9. Stopy divočiny - 7 000 kilometrů pěšky napříč Chile
+10. Krvavé město
+11. Pavouk v banánu
+12. Vykoupení
+13. God Is a Pickle - Recepty a příběhy českého zavařování
+14. 111 míst v Plzni, která musíte vidět
+15. Hořící dívky
+
+---
+
+## 🕐 2026-10-29 12:46:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Poznámky z Ukrajiny I: Bachmut v krymskotatarské restauraci
+
+---
+
 ## 🕐 2026-10-28 12:36:53 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,52 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Hledáme, jak se zastavit
-
----
-
-## 🕐 2026-10-22 11:36:15 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Královna dračích legend
-2. Livonsko a středověká Rus
-3. Stará garda: Recepty a příběhy, které by neměly zůstat zapomenuty
-4. Evropská architektura
-5. Sam Altman: Optimista
-6. Hranice věčnosti
-7. Husa fotr pusa
-8. Náhlé ticho
-9. Kde je zakopán pes
-10. Lucie Svěcená
-11. Santa a syn
-12. Budapešť 1944-1945
-13. Růže
-14. Chytré čtení s Mušlenkou: Andělské Vánoce
-15. Roztomilé kapybary - COZY omalovánky
-16. Vyškrabovací kartičky: Spirály
-17. Vyškrabovací kartičky: Neon
-18. Hry s míčem pro děti
-19. Interní propedeutika - praktická, přehledná, multimediální
-
----
-
-## 🕐 2026-10-22 11:36:14 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Zacyklený básník Jiří Volf
 
 ---
 
