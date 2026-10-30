@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-30 12:38:28 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Klid, nepadáme
+2. Václav Moravec - Vlastním hlasem
+3. Primo z Primoštenu
+4. Vzlety a pády – komplet (box)
+5. Minus 60
+6. Superštěňátka: Tonka a Jonáš jsou tu hned
+7. Prvotní hřích
+8. Sběratel knih
+9. Pozvání
+10. Velká knihovna Zítřka
+11. Vládci jídla
+12. Vydrýsek Theo: Kamínek odvahy
+13. Cesta k finanční svobodě
+14. Absurdita života
+15. Nech zajíce běžet
+16. Osm zpravodajců
+17. Dětské zubní lékařství
+18. Dopis pro princeznu
+19. Sudoku bez notifikací (modrá)
+
+---
+
+## 🕐 2026-10-30 12:38:27 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Vaculíkovská zvětšenina
+
+---
+
 ## 🕐 2026-10-29 12:46:44 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +292,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-23 11:25:31 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Jsme tady
-2. Dcera sváru – limitovaná edice s 3D ořízkou
-3. Kabala
-4. Kolejová vozidla a technika na železnici
-5. Bohatství z písku
-6. Živé terče
-7. Veselé Vánoce a šťastný nový rok - Vystřihovánky Richarda Vyškovského
-8. W.I.T.C.H. Komiks 31 - 33
-9. Kuchaři smrti
-10. Není ryba jako ryba
-11. Harry Potter a Kámen mudrců - ilustrované vydání
-12. Detektiv Krvinka: Putování lidským tělem
-13. Vlakové šílenství - Jak železnice spojily svět a přepsaly dějiny
-14. Život je na tyhle sr.čky moc krátký
-15. Wildflovers: Znovuzrození
-16. Růže pro Algernon
-17. Deník tety z Lemura
-18. Jak to bylo dál
-19. Lucie
-20. Pod hvězdou svatého Jakuba
-
----
-
-## 🕐 2026-10-23 11:25:29 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Hledáme, jak se zastavit
 
 ---
 
