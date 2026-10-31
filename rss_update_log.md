@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-10-31 12:07:00 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Vražda v Marble Hall
+2. Mýty starověkého Egypta
+3. Bitcoin za všechny prachy
+4. V jiné lize
+5. Zločin a tresť
+6. Deset tisíc stehů
+7. Kočka, která zachránila Vánoce
+8. Úsvit bohů a běsů
+9. Kocourek a kouzelné Vánoce
+10. Lustr pro papeže
+11. Koho hledá Františka?
+12. Snad příští Vánoce
+13. Divočák Jindříšek
+14. Pravidla vnitřní gramatiky
+15. Slavná Nemesis
+16. Filmové políčko
+17. Černé zrcadlo
+18. Sto roků samoty
+
+---
+
+## 🕐 2026-10-31 12:06:59 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-30 12:38:28 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -247,45 +288,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-10-25 11:09:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-10-24 10:44:43 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 16
-
-**Tituly nových položek:**
-
-1. Růže pro Algernon
-2. Paskvil
-3. Veselé povídky a nadpřirozené příběhy ze života
-4. Navzdory všemu
-5. Věř si
-6. Mapa českých pivovarů - Průvodce po pivních velikánech i trendy minipivovarech
-7. Lightfall: Mezi světy
-8. Star Wars - Věk Republiky: Hrdinové
-9. Asterix IX-XII
-10. Závidím - Vzpomínka na Jiřího Grossmanna
-11. Ivančice včera a dnes
-12. Chrudim včera a dnes I.
-13. Loverboy
-14. Babička víla
-15. Australský ovčák slaví Vánoce
-16. Pohodové vánoční tvoření
-
----
-
-## 🕐 2026-10-24 10:44:41 UTC
 
 **Zdroj:** H7O - Časopis Host
 
