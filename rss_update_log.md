@@ -5,6 +5,41 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-01 13:06:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 12
+
+**Tituly nových položek:**
+
+1. 99 způsobů, jak zemřít
+2. Tchaj-pan - limitovaná edice
+3. Alchemised - exkluzivní box
+4. Očima terapeuta
+5. Smutný šašek, který se rozhodl nebýt smutný
+6. Tomáš Garrigue Masaryk
+7. Ela v zemi draků
+8. Vrahovo děvče
+9. Tři světy - Caesar dobývá Galii
+10. Filmové právo: Autorskoprávní perspektiva
+11. Paměť a dějiny č. 3/2026
+12. Tera a Spejs
+
+---
+
+## 🕐 2026-11-01 13:06:44 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-10-31 12:07:00 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -258,42 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. O důležitosti atraktivních přebalů knih
-
----
-
-## 🕐 2026-10-25 11:09:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 13
-
-**Tituly nových položek:**
-
-1. Spiknutí. Stín fašismu nad Bílým domem
-2. Za plazy a obojživelníky na konec světa
-3. Břehy Strusky
-4. Muž ze studny
-5. Vraždy v lázních
-6. Domaluj, vystřihni vánoční ozdoby
-7. Temný vektor
-8. Pipinky
-9. Gaia, psina rodiny
-10. Když se narodí KAPYBARA
-11. Potíže malého zrzka
-12. Dcérečka u plotny
-13. Poslední penalta - Fotbalová dobrodružství
-
----
-
-## 🕐 2026-10-25 11:09:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

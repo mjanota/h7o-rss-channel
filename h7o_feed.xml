@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:06:44 +0000</lastBuildDate>
     <item>
       <title>Vaculíkovská zvětšenina</title>
       <link>https://www.h7o.cz/clanky/14639-vaculikovska-zvetsenina</link>
@@ -441,13 +441,6 @@
       <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současné české poezii.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14574-jak-ucinit-vlastni-ja-citelnym-ceska-poezie-ve-frankfurtu</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stoprocentní rabat</title>
-      <link>https://www.h7o.cz/clanky/14573-stoprocentni-rabat</link>
-      <description>Minulé úterý zemřel ve třiasedmdesáti letech brněnský knihkupec Michal Ženíšek. Jeho knihkupectví v Alfa pasáži bylo místem, kam se někteří vraceli a jiní báli vejít. Na svého přítele vzpomíná Petr Minařík, spolumajitel nakladatelství Větrné mlýny.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14573-stoprocentni-rabat</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
