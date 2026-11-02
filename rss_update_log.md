@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-02 15:30:23 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Pozoruhodné příběhy chemických prvků
+2. Sestřička vypráví
+3. Obličejová jóga
+4. Ségry
+5. Omalovánkový adventní kalendář
+6. Deníček Camille G box: Od Jedničky po Pětečku
+7. Fenomén Podyjí
+8. Přežila jsem Osvětim
+9. Tajnej
+10. Žraloci a malé ryby
+11. Furt je to stejný
+12. Coco Wyo - Cozy Cafe
+13. Tajemství kvantové fyziky
+14. Hladový mozek
+15. Kluci jako my
+16. Křížovky – o kočkách
+17. Křížovky – o psech
+18. Když se žena zamiluje
+19. Poslední chlapec z Osvětimi
+20. Háčkované čtverce: Kreativní barevné vzory
+
+---
+
+## 🕐 2026-11-02 15:30:22 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. O dobrovolné bezdětnosti a o vzteku, který je tabu
+
+---
+
 ## 🕐 2026-11-01 13:06:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -246,53 +293,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Halucinační trip v poli slaměných panáků
-
----
-
-## 🕐 2026-10-26 12:45:08 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Za obzorem republika
-2. NOS4A2
-3. Kniha o Jizerských horách
-4. Bílá velryba
-5. Zrození Venuše
-6. Továrna na ovce
-7. Abandoning a Cat
-8. Caraval
-9. Little Liar (Deluxe Edition)
-10. Little Stranger (Deluxe Edition)
-11. Bound and Unbound
-12. Dvě studie o federalismu
-13. Classical Mythology
-14. Finale
-15. Incendiary
-16. Legendary
-17. Queen of Shadows and Ruin
-18. Storm of Ink and Blood
-19. Tales of Horror and the Supernatural
-20. The Sixth Faction
-
----
-
-## 🕐 2026-10-26 12:45:06 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. O důležitosti atraktivních přebalů knih
 
 ---
 

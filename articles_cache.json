@@ -1,13 +1,5 @@
 [
   {
-    "title": "Jak učinit vlastní já čitelným: Česká poezie ve Frankfurtu",
-    "url": "https://www.h7o.cz/clanky/14574-jak-ucinit-vlastni-ja-citelnym-ceska-poezie-ve-frankfurtu",
-    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současné české poezii.",
-    "date": "2026-08-04T00:00:00",
-    "author": "Jan Jindřich Karásek",
-    "category": "téma"
-  },
-  {
     "title": "Knihovny z druhé ruky",
     "url": "https://www.h7o.cz/clanky/14575-knihovny-z-druhe-ruky",
     "description": "Technologický závod mezi vývojáři AI vyžaduje přísun tréninkových dat. Roste proto zájem o staré knihy, které anonymní zájemci po celém světě nakupují po tisících.",
@@ -494,5 +486,13 @@
     "date": "2026-10-30T00:00:00",
     "author": "Ondřej Nezbeda",
     "category": "recenze"
+  },
+  {
+    "title": "O dobrovolné bezdětnosti a o vzteku, který je tabu",
+    "url": "https://www.h7o.cz/clanky/14640-o-dobrovolne-bezdetnosti-a-o-vzteku-ktery-je-tabu",
+    "description": "Norská spisovatelka Linn Strømsborg (* 1986) o sobě říká, že píše odmalička. A když se jí někdo zeptá, o čem jsou její romány, pokaždé zopakuje tutéž větu: „Píšu úplně obyčejné příběhy o obyčejných lidech.“ Rozhovor s ní pro H7O vedla Daniela Mrázová.",
+    "date": "2026-11-02T00:00:00",
+    "author": "Daniela Mrázová",
+    "category": "rozhovor"
   }
 ]

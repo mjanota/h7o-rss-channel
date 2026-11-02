@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:30:22 +0000</lastBuildDate>
+    <item>
+      <title>O dobrovolné bezdětnosti a o vzteku, který je tabu</title>
+      <link>https://www.h7o.cz/clanky/14640-o-dobrovolne-bezdetnosti-a-o-vzteku-ktery-je-tabu</link>
+      <description>Norská spisovatelka Linn Strømsborg (* 1986) o sobě říká, že píše odmalička. A když se jí někdo zeptá, o čem jsou její romány, pokaždé zopakuje tutéž větu: „Píšu úplně obyčejné příběhy o obyčejných lidech.“ Rozhovor s ní pro H7O vedla Daniela Mrázová.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14640-o-dobrovolne-bezdetnosti-a-o-vzteku-ktery-je-tabu</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vaculíkovská zvětšenina</title>
       <link>https://www.h7o.cz/clanky/14639-vaculikovska-zvetsenina</link>
@@ -434,13 +441,6 @@
       <description>Technologický závod mezi vývojáři AI vyžaduje přísun tréninkových dat. Roste proto zájem o staré knihy, které anonymní zájemci po celém světě nakupují po tisících.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14575-knihovny-z-druhe-ruky</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak učinit vlastní já čitelným: Česká poezie ve Frankfurtu</title>
-      <link>https://www.h7o.cz/clanky/14574-jak-ucinit-vlastni-ja-citelnym-ceska-poezie-ve-frankfurtu</link>
-      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. Sérii článků věnovaných českému hostování otevíráme textem Jana Jindřicha Karáska o současné české poezii.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14574-jak-ucinit-vlastni-ja-citelnym-ceska-poezie-ve-frankfurtu</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
