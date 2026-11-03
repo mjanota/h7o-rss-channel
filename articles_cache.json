@@ -1,13 +1,5 @@
 [
   {
-    "title": "Knihovny z druhé ruky",
-    "url": "https://www.h7o.cz/clanky/14575-knihovny-z-druhe-ruky",
-    "description": "Technologický závod mezi vývojáři AI vyžaduje přísun tréninkových dat. Roste proto zájem o staré knihy, které anonymní zájemci po celém světě nakupují po tisících.",
-    "date": "2026-08-05T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Temná paralela i velkolepé dobrodružství",
     "url": "https://www.h7o.cz/clanky/14576-temna-paralela-i-velkolepe-dobrodruzstvi",
     "description": "Tři týdny od premiéry zaznamenala Odyssea Christophera Nolana jeho nejúspěšnější start v kinech. Zároveň je snímek mezi kritiky hodnocen tak vysoce, jak si o tom většina současných blockbusterů může nechat jen zdát.",
@@ -494,5 +486,13 @@
     "date": "2026-11-02T00:00:00",
     "author": "Daniela Mrázová",
     "category": "rozhovor"
+  },
+  {
+    "title": "Zázraky Václava Jamka",
+    "url": "https://www.h7o.cz/clanky/14642-zazraky-vaclava-jamka",
+    "description": "Spisovatel, básník, esejista a překladatel Václav Jamek v neděli obdržel Státní cenu za literaturu. Odemykáme kritiku Magdaleny Platzové, v níž se věnuje oceněné autobiografické próze „Rok s ostatními sirotky“.",
+    "date": "2026-11-03T00:00:00",
+    "author": "Magdaléna Platzová",
+    "category": "recenze"
   }
 ]

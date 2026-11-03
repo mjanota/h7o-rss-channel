@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-03 13:59:21 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Kráskozvíře
+2. Barmanka a jiné povídky
+3. Tajemství staré fotografie
+4. Synopse mého života
+5. Koktavé strašidlo
+6. Karibské tajemství
+7. Deníky apatykářky 7
+8. Vysoké otáčky
+9. Zvláštní druh a jiné příběhy
+10. Olympijský mýtus
+11. FOTBAL - Fakta a rekordy
+12. Touhy a sny
+13. Fascinující zvířata
+14. Velký závod - příběh a magnetická hra
+15. O spravedlnosti I v Teologické sumě
+16. Terapeut v troskách
+17. Boty za diamanty, Příběhy naděje v časech chaosu
+18. Sporťákovy psí pohádky
+19. Kulička a jiné povídky
+20. Pokušení magie
+
+---
+
+## 🕐 2026-11-03 13:59:19 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Zázraky Václava Jamka
+
+---
+
 ## 🕐 2026-11-02 15:30:23 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -248,51 +295,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-27 11:58:28 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Chlapská dílna - Mistrovský průvodce pro práci se dřevem, nástroje, postupy a techniky
-2. Básníci
-3. Všechno nejlepší- 50 let řemesla, receptů a příběhů
-4. Katalog vybraných nápisů okresu Semily od 15. století do roku 1800
-5. Alchymie, její teorie a praxe
-6. Vynález zkázy
-7. Moje krabička vzpomínek
-8. Ošklivé holky
-9. Až na krev
-10. Nejkrásnější podzim
-11. Dívky v hlubinách
-12. Tanči srdcem
-13. Jako lovná zvěř
-14. Kognitivně behaviorální terapie - Základy a něco navíc
-15. Miro Švolík: 1975–2025
-16. Cíl neznámý
-17. České moře Nový pohled na kulturní dějiny
-18. Na vysoké noze
-
----
-
-## 🕐 2026-10-27 11:58:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Halucinační trip v poli slaměných panáků
 
 ---
 
