@@ -1,5 +1,188 @@
 [
   {
+    "title": "Lišák Zrzoun, velký lump a drzoun",
+    "url": "https://www.kosmas.cz/knihy/575647/lisak-zrzoun-velky-lump-a-drzoun/",
+    "description": "Lišák Zrzoun, velký lump a drzoun - Jeremiáš Dudek, Oskar Straka",
+    "authors": [
+      "Jeremiáš Dudek",
+      "Oskar Straka"
+    ],
+    "date": "2026-11-04T14:15:06.657305+00:00"
+  },
+  {
+    "title": "Ďáblova pevnost",
+    "url": "https://www.kosmas.cz/knihy/575686/dablova-pevnost/",
+    "description": "Ďáblova pevnost - Juraj Červenák",
+    "authors": [
+      "Juraj Červenák"
+    ],
+    "date": "2026-11-04T14:15:05.657305+00:00"
+  },
+  {
+    "title": "Evangelium podle Matouše",
+    "url": "https://www.kosmas.cz/knihy/574905/evangelium-podle-matouse/",
+    "description": "Evangelium podle Matouše - Ladislav Heryán",
+    "authors": [
+      "Ladislav Heryán"
+    ],
+    "date": "2026-11-04T14:15:04.657305+00:00"
+  },
+  {
+    "title": "Trampoty malinkého kotěte – Oslava narozenin",
+    "url": "https://www.kosmas.cz/knihy/575283/trampoty-malinkeho-kotete-oslava-narozenin/",
+    "description": "Trampoty malinkého kotěte – Oslava narozenin - Maddy Mara",
+    "authors": [
+      "Maddy Mara"
+    ],
+    "date": "2026-11-04T14:15:03.657305+00:00"
+  },
+  {
+    "title": "Zlatá kniha komiksů",
+    "url": "https://www.kosmas.cz/knihy/575286/zlata-kniha-komiksu/",
+    "description": "Zlatá kniha komiksů - Václav Šorel",
+    "authors": [
+      "Václav Šorel"
+    ],
+    "date": "2026-11-04T14:15:02.657305+00:00"
+  },
+  {
+    "title": "Cringe klub",
+    "url": "https://www.kosmas.cz/knihy/575291/cringe-klub/",
+    "description": "Cringe klub - Emily-Jane Clark",
+    "authors": [
+      "Emily-Jane Clark"
+    ],
+    "date": "2026-11-04T14:15:01.657305+00:00"
+  },
+  {
+    "title": "Moderní učebnice hry na kytaru",
+    "url": "https://www.kosmas.cz/knihy/575323/moderni-ucebnice-hry-na-kytaru/",
+    "description": "Moderní učebnice hry na kytaru - Michaela Medek",
+    "authors": [
+      "Michaela Medek"
+    ],
+    "date": "2026-11-04T14:15:00.657305+00:00"
+  },
+  {
+    "title": "Návesní kaple jižních Čech a přilehlé Moravy II.1.",
+    "url": "https://www.kosmas.cz/knihy/576018/navesni-kaple-jiznich-cech-a-prilehle-moravy-ii.1/",
+    "description": "Návesní kaple jižních Čech a přilehlé Moravy II.1. - Pavel Hájek, Zdenka Paloušová",
+    "authors": [
+      "Pavel Hájek",
+      "Zdenka Paloušová"
+    ],
+    "date": "2026-11-04T14:14:59.657305+00:00"
+  },
+  {
+    "title": "Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži",
+    "url": "https://www.kosmas.cz/knihy/576019/portretni-miniatury-ve-sbirkach-narodniho-pamatkoveho-ustavu-uzemni---kromerizi/",
+    "description": "Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži - Ludmila Ourodová-Hronková, Olga Trmalová, Lenka Vaňková",
+    "authors": [
+      "Ludmila Ourodová-Hronková",
+      "Olga Trmalová",
+      "Lenka Vaňková"
+    ],
+    "date": "2026-11-04T14:14:58.657305+00:00"
+  },
+  {
+    "title": "Amálka a pihy",
+    "url": "https://www.kosmas.cz/knihy/575056/amalka-a-pihy/",
+    "description": "Amálka a pihy - David Vacke",
+    "authors": [
+      "David Vacke"
+    ],
+    "date": "2026-11-04T14:14:57.657305+00:00"
+  },
+  {
+    "title": "Hynek a mravenci",
+    "url": "https://www.kosmas.cz/knihy/575057/hynek-a-mravenci/",
+    "description": "Hynek a mravenci - David Vacke",
+    "authors": [
+      "David Vacke"
+    ],
+    "date": "2026-11-04T14:14:56.657305+00:00"
+  },
+  {
+    "title": "Základy neurověd",
+    "url": "https://www.kosmas.cz/knihy/576034/zaklady-neuroved/",
+    "description": "Základy neurověd - Jaromír Mysliveček",
+    "authors": [
+      "Jaromír Mysliveček"
+    ],
+    "date": "2026-11-04T14:14:55.657305+00:00"
+  },
+  {
+    "title": "Býčí hora",
+    "url": "https://www.kosmas.cz/knihy/576130/byci-hora/",
+    "description": "Býčí hora - Brian Panowich",
+    "authors": [
+      "Brian Panowich"
+    ],
+    "date": "2026-11-04T14:14:54.657305+00:00"
+  },
+  {
+    "title": "Pan",
+    "url": "https://www.kosmas.cz/knihy/576131/pan/",
+    "description": "Pan - Michael W Clune",
+    "authors": [
+      "Michael W Clune"
+    ],
+    "date": "2026-11-04T14:14:53.657305+00:00"
+  },
+  {
+    "title": "Hravá písanka 1-1. díl",
+    "url": "https://www.kosmas.cz/knihy/571257/hrava-pisanka-1-1.-dil/",
+    "description": "Hravá písanka 1-1. díl",
+    "authors": [],
+    "date": "2026-11-04T14:14:52.657305+00:00"
+  },
+  {
+    "title": "Noční vrabčák",
+    "url": "https://www.kosmas.cz/knihy/571336/nocni-vrabcak/",
+    "description": "Noční vrabčák - Shelly Sandersová",
+    "authors": [
+      "Shelly Sandersová"
+    ],
+    "date": "2026-11-04T14:14:51.657305+00:00"
+  },
+  {
+    "title": "Maggie Smrtivzdorná: Království, které mě nezabije",
+    "url": "https://www.kosmas.cz/knihy/571338/maggie-smrtivzdorna-kralovstvi-ktere-me-nezabije/",
+    "description": "Maggie Smrtivzdorná: Království, které mě nezabije - Ilona Andrews",
+    "authors": [
+      "Ilona Andrews"
+    ],
+    "date": "2026-11-04T14:14:50.657305+00:00"
+  },
+  {
+    "title": "Jistě, pane ministře 2.",
+    "url": "https://www.kosmas.cz/knihy/565964/jiste-pane-ministre-2/",
+    "description": "Jistě, pane ministře 2. - Antony Jay, Jonathan Lynn",
+    "authors": [
+      "Antony Jay",
+      "Jonathan Lynn"
+    ],
+    "date": "2026-11-04T14:14:49.657305+00:00"
+  },
+  {
+    "title": "Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden.",
+    "url": "https://www.kosmas.cz/knihy/574703/kalendarium.-52-tydnu-pribehu-z-ceskych-dejin.-kazdy-den-jeden/",
+    "description": "Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden. - Jonáš Drobík",
+    "authors": [
+      "Jonáš Drobík"
+    ],
+    "date": "2026-11-04T14:14:48.657305+00:00"
+  },
+  {
+    "title": "Chvíle, kdy přicházíš",
+    "url": "https://www.kosmas.cz/knihy/575277/chvile-kdy-prichazis/",
+    "description": "Chvíle, kdy přicházíš - Anežka Wiewiorková",
+    "authors": [
+      "Anežka Wiewiorková"
+    ],
+    "date": "2026-11-04T14:14:47.657305+00:00"
+  },
+  {
     "title": "Kráskozvíře",
     "url": "https://www.kosmas.cz/knihy/575218/kraskozvire/",
     "description": "Kráskozvíře - Aleš T. Rájský",
@@ -1615,184 +1798,5 @@
       "Antonia Wesseling"
     ],
     "date": "2026-10-24T10:44:27.340371+00:00"
-  },
-  {
-    "title": "Babička víla",
-    "url": "https://www.kosmas.cz/knihy/574515/babicka-vila/",
-    "description": "Babička víla - Vít Brukner",
-    "authors": [
-      "Vít Brukner"
-    ],
-    "date": "2026-10-24T10:44:26.340371+00:00"
-  },
-  {
-    "title": "Australský ovčák slaví Vánoce",
-    "url": "https://www.kosmas.cz/knihy/574849/australsky-ovcak-slavi-vanoce/",
-    "description": "Australský ovčák slaví Vánoce - Leona Tomšů",
-    "authors": [
-      "Leona Tomšů"
-    ],
-    "date": "2026-10-24T10:44:25.340371+00:00"
-  },
-  {
-    "title": "Pohodové vánoční tvoření",
-    "url": "https://www.kosmas.cz/knihy/574889/pohodove-vanocni-tvoreni/",
-    "description": "Pohodové vánoční tvoření",
-    "authors": [],
-    "date": "2026-10-24T10:44:24.340371+00:00"
-  },
-  {
-    "title": "Jsme tady",
-    "url": "https://www.kosmas.cz/knihy/574586/jsme-tady/",
-    "description": "Jsme tady - Dalibor Vácha",
-    "authors": [
-      "Dalibor Vácha"
-    ],
-    "date": "2026-10-23T11:25:31.927544+00:00"
-  },
-  {
-    "title": "Dcera sváru – limitovaná edice s 3D ořízkou",
-    "url": "https://www.kosmas.cz/knihy/574666/dcera-svaru-limitovana-edice-s-3d-orizkou/",
-    "description": "Dcera sváru – limitovaná edice s 3D ořízkou - Bree Grenwich",
-    "authors": [
-      "Bree Grenwich"
-    ],
-    "date": "2026-10-23T11:25:30.927544+00:00"
-  },
-  {
-    "title": "Kabala",
-    "url": "https://www.kosmas.cz/knihy/574693/kabala/",
-    "description": "Kabala - Gérard Encausse-Papus",
-    "authors": [
-      "Gérard Encausse-Papus"
-    ],
-    "date": "2026-10-23T11:25:29.927544+00:00"
-  },
-  {
-    "title": "Kolejová vozidla a technika na železnici",
-    "url": "https://www.kosmas.cz/knihy/575347/kolejova-vozidla-a-technika-na-zeleznici/",
-    "description": "Kolejová vozidla a technika na železnici - Josef Schrötter",
-    "authors": [
-      "Josef Schrötter"
-    ],
-    "date": "2026-10-23T11:25:28.927544+00:00"
-  },
-  {
-    "title": "Bohatství z písku",
-    "url": "https://www.kosmas.cz/knihy/575348/bohatstvi-z-pisku/",
-    "description": "Bohatství z písku - Ruta Sepetys",
-    "authors": [
-      "Ruta Sepetys"
-    ],
-    "date": "2026-10-23T11:25:27.927544+00:00"
-  },
-  {
-    "title": "Živé terče",
-    "url": "https://www.kosmas.cz/knihy/575349/zive-terce/",
-    "description": "Živé terče - Wendy Dranfield",
-    "authors": [
-      "Wendy Dranfield"
-    ],
-    "date": "2026-10-23T11:25:26.927544+00:00"
-  },
-  {
-    "title": "Veselé Vánoce a šťastný nový rok - Vystřihovánky Richarda Vyškovského",
-    "url": "https://www.kosmas.cz/knihy/575351/vesele-vanoce-a-stastny-novy-rok-vystrihovanky-richarda-vyskovskeho/",
-    "description": "Veselé Vánoce a šťastný nový rok - Vystřihovánky Richarda Vyškovského - Richard Vyškovský",
-    "authors": [
-      "Richard Vyškovský"
-    ],
-    "date": "2026-10-23T11:25:25.927544+00:00"
-  },
-  {
-    "title": "W.I.T.C.H. Komiks 31 - 33",
-    "url": "https://www.kosmas.cz/knihy/575352/w.i.t.c.h.-komiks-31-33/",
-    "description": "W.I.T.C.H. Komiks 31 - 33 - kolektiv",
-    "authors": [
-      "kolektiv"
-    ],
-    "date": "2026-10-23T11:25:24.927544+00:00"
-  },
-  {
-    "title": "Kuchaři smrti",
-    "url": "https://www.kosmas.cz/knihy/575443/kuchari-smrti/",
-    "description": "Kuchaři smrti - Milan Říský",
-    "authors": [
-      "Milan Říský"
-    ],
-    "date": "2026-10-23T11:25:23.927544+00:00"
-  },
-  {
-    "title": "Není ryba jako ryba",
-    "url": "https://www.kosmas.cz/knihy/575483/neni-ryba-jako-ryba/",
-    "description": "Není ryba jako ryba - Dominika Kloučková",
-    "authors": [
-      "Dominika Kloučková"
-    ],
-    "date": "2026-10-23T11:25:22.927544+00:00"
-  },
-  {
-    "title": "Harry Potter a Kámen mudrců - ilustrované vydání",
-    "url": "https://www.kosmas.cz/knihy/575484/harry-potter-a-kamen-mudrcu-ilustrovane-vydani/",
-    "description": "Harry Potter a Kámen mudrců - ilustrované vydání - Joanne K. Rowlingová",
-    "authors": [
-      "Joanne K. Rowlingová"
-    ],
-    "date": "2026-10-23T11:25:21.927544+00:00"
-  },
-  {
-    "title": "Detektiv Krvinka: Putování lidským tělem",
-    "url": "https://www.kosmas.cz/knihy/575485/detektiv-krvinka-putovani-lidskym-telem/",
-    "description": "Detektiv Krvinka: Putování lidským tělem - Helena Haraštová, Tereza Kubíčková",
-    "authors": [
-      "Helena Haraštová",
-      "Tereza Kubíčková"
-    ],
-    "date": "2026-10-23T11:25:20.927544+00:00"
-  },
-  {
-    "title": "Vlakové šílenství - Jak železnice spojily svět a přepsaly dějiny",
-    "url": "https://www.kosmas.cz/knihy/575488/vlakove-silenstvi-jak-zeleznice-spojily-svet-a-prepsaly-dejiny/",
-    "description": "Vlakové šílenství - Jak železnice spojily svět a přepsaly dějiny - Christian Wolmar",
-    "authors": [
-      "Christian Wolmar"
-    ],
-    "date": "2026-10-23T11:25:19.927544+00:00"
-  },
-  {
-    "title": "Život je na tyhle sr.čky moc krátký",
-    "url": "https://www.kosmas.cz/knihy/575491/zivot-je-na-tyhle-sr.cky-moc-kratky/",
-    "description": "Život je na tyhle sr.čky moc krátký - Lea Blumenthalová",
-    "authors": [
-      "Lea Blumenthalová"
-    ],
-    "date": "2026-10-23T11:25:18.927544+00:00"
-  },
-  {
-    "title": "Wildflovers: Znovuzrození",
-    "url": "https://www.kosmas.cz/knihy/575492/wildflovers-znovuzrozeni/",
-    "description": "Wildflovers: Znovuzrození - Micalea Smeltzer",
-    "authors": [
-      "Micalea Smeltzer"
-    ],
-    "date": "2026-10-23T11:25:17.927544+00:00"
-  },
-  {
-    "title": "Růže pro Algernon",
-    "url": "https://www.kosmas.cz/knihy/574251/ruze-pro-algernon/",
-    "description": "Růže pro Algernon - Aleš Brichta",
-    "authors": [
-      "Aleš Brichta"
-    ],
-    "date": "2026-10-23T11:25:16.927544+00:00"
-  },
-  {
-    "title": "Deník tety z Lemura",
-    "url": "https://www.kosmas.cz/knihy/574281/denik-tety-z-lemura/",
-    "description": "Deník tety z Lemura - Lucie Vránová",
-    "authors": [
-      "Lucie Vránová"
-    ],
-    "date": "2026-10-23T11:25:15.927544+00:00"
   }
 ]

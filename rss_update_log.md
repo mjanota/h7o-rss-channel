@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-04 14:15:06 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Lišák Zrzoun, velký lump a drzoun
+2. Ďáblova pevnost
+3. Evangelium podle Matouše
+4. Trampoty malinkého kotěte – Oslava narozenin
+5. Zlatá kniha komiksů
+6. Cringe klub
+7. Moderní učebnice hry na kytaru
+8. Návesní kaple jižních Čech a přilehlé Moravy II.1.
+9. Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži
+10. Amálka a pihy
+11. Hynek a mravenci
+12. Základy neurověd
+13. Býčí hora
+14. Pan
+15. Hravá písanka 1-1. díl
+16. Noční vrabčák
+17. Maggie Smrtivzdorná: Království, které mě nezabije
+18. Jistě, pane ministře 2.
+19. Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden.
+20. Chvíle, kdy přicházíš
+
+---
+
+## 🕐 2026-11-04 14:15:05 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Jak se točí obrazy moravského folkloru
+
+---
+
 ## 🕐 2026-11-03 13:59:21 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -260,41 +307,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Poznámky z Ukrajiny I: Bachmut v krymskotatarské restauraci
-
----
-
-## 🕐 2026-10-28 12:36:53 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. Příběhy exkluzivity / Tales of Exclusivity
-2. Sonický život
-3. Hodinky: Esence času
-4. Zdeněk Jirotka: Dobrá rada pana Bartoše a jiné hry
-5. Vánoce se zvířátky
-6. Přepis
-7. Karel VI. Schwarzenberg - komplet
-8. Skok do hlavně
-9. Hanba
-10. Tajemství keltského šamanismu
-11. Tajná cvičení na posílení sexuální energie
-12. Černá zátoka
-
----
-
-## 🕐 2026-10-28 12:36:51 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 
