@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:28:32 +0000</lastBuildDate>
+    <item>
+      <title>Poznámky z Ukrajiny II: Byl jednou jeden dům</title>
+      <link>https://www.h7o.cz/clanky/14643-poznamky-z-ukrajiny-ii-byl-jednou-jeden-dum</link>
+      <description>Před devítipodlažním deskáčem v Chotkevyčově ulici číslo 56 v ukrajinském Lvově si dělám poznámky, s čím vším panelák ze sovětské éry souvisí. Útok ruské rakety zabil v tomto domě basketbalistu Viktora Kobzystého. Další část pětidílné reportáže Ivana Motýla o západní Ukrajině.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14643-poznamky-z-ukrajiny-ii-byl-jednou-jeden-dum</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Jak se točí obrazy moravského folkloru</title>
       <link>https://www.h7o.cz/clanky/14641-jak-se-toci-obrazy-moravskeho-folkloru</link>
@@ -434,13 +441,6 @@
       <description>Spolu s uložením manželů Kunderových do hrobu na brněnském Ústředním hřbitově vyšla „Pomalost“.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14578-pomalost-radsi-rychle-zapomenout</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hlasy proti zapomnění</title>
-      <link>https://www.h7o.cz/clanky/14577-hlasy-proti-zapomneni</link>
-      <description>Sbírka básní „Babí Jar. Hlasy“ Marianny Kijanovské vyšla několik let před plnohodnotnou ruskou invazí na Ukrajinu. V současném kontextu se čte jinak — jako vizionářské dílo, píše v recenzi Andrea Vatulíková.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14577-hlasy-proti-zapomneni</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-05 14:28:33 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Obrázky ze staré české Sydney
+2. Vlídná povzbuzení na každý den
+3. Laskavé slovo na každý den
+4. Šťastné a zadané
+5. Království ohně a osudu
+6. Skleněná lebka
+7. Rezonance
+8. Nepřátelé s výhodami
+9. Stín bohyně
+10. Svět podle Ašéry
+11. Hry a výchova v přírodě
+12. Dárek nad dárky
+13. Puer Aeternus
+14. Stmívá se brzy
+15. V bojovém režimu
+16. Lékaři pod pěti kruhy: Rozhodnutí bez aplausu
+17. Za gorilami a delfíny aneb křížem krážem východní Afrikou
+18. Mont Ventoux, Za vrcholky Tour De France
+19. Tyhle místa ze mě nesedřeš
+20. Stoikův průvodce pro každý den
+
+---
+
+## 🕐 2026-11-05 14:28:32 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Poznámky z Ukrajiny II: Byl jednou jeden dům
+
+---
+
 ## 🕐 2026-11-04 14:15:06 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -265,48 +312,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Vaculíkovská zvětšenina
-
----
-
-## 🕐 2026-10-29 12:46:44 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Vánoční trampoty mrzutého sýčka
-2. Proti proudu
-3. Diář plný radosti
-4. Píseň dlaska
-5. Znamenité ženy v počátcích českých dějin
-6. Harry Potter a princ dvojí krve
-7. Coco Wyo - Cozy Kapybary
-8. Red mama
-9. Stopy divočiny - 7 000 kilometrů pěšky napříč Chile
-10. Krvavé město
-11. Pavouk v banánu
-12. Vykoupení
-13. God Is a Pickle - Recepty a příběhy českého zavařování
-14. 111 míst v Plzni, která musíte vidět
-15. Hořící dívky
-
----
-
-## 🕐 2026-10-29 12:46:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Poznámky z Ukrajiny I: Bachmut v krymskotatarské restauraci
 
 ---
 
