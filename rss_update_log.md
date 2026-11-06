@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-06 14:05:32 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Marvel - 100 příběhů o superhrdinech
+2. Semínek
+3. Alex Ferguson: Zápasy mého života
+4. Dvůr křídel a zmaru
+5. Jógové karty
+6. Lékaři pod pěti kruhy: Rozhodnutí bez aplausu
+7. Nadaní
+8. Kouzelné čtení - Minikniha - Kouzelná slovíčka
+9. Stojí za čekání
+10. Bílé vrány
+11. Smyčka
+12. Bulvární historie
+13. Takové velké štěstí
+14. Zdena Koubková: Příběh české rekordwoman
+15. Slunce, které nezapadlo
+16. Velká cvičebnice na každý den pro předškoláky
+17. Mad Zone - Průvodce po místech, ze kterých mrazí
+18. Obsluhoval jsem kdekoho
+19. Útěk na toskánskou vinici
+
+---
+
+## 🕐 2026-11-06 14:05:31 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Příběh o mistrech nápodoby
+
+---
+
 ## 🕐 2026-11-05 14:28:33 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -266,52 +312,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-10-30 12:38:28 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Klid, nepadáme
-2. Václav Moravec - Vlastním hlasem
-3. Primo z Primoštenu
-4. Vzlety a pády – komplet (box)
-5. Minus 60
-6. Superštěňátka: Tonka a Jonáš jsou tu hned
-7. Prvotní hřích
-8. Sběratel knih
-9. Pozvání
-10. Velká knihovna Zítřka
-11. Vládci jídla
-12. Vydrýsek Theo: Kamínek odvahy
-13. Cesta k finanční svobodě
-14. Absurdita života
-15. Nech zajíce běžet
-16. Osm zpravodajců
-17. Dětské zubní lékařství
-18. Dopis pro princeznu
-19. Sudoku bez notifikací (modrá)
-
----
-
-## 🕐 2026-10-30 12:38:27 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Vaculíkovská zvětšenina
 
 ---
 
