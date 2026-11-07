@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:49:42 +0000</lastBuildDate>
+    <item>
+      <title>Rabín, kněz a černovláska</title>
+      <link>https://www.kosmas.cz/knihy/576000/rabin-knez-a-cernovlaska/</link>
+      <description>Rabín, kněz a černovláska - Kristina Cysařová, David Maxa, Marek Orko Vácha</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576000/rabin-knez-a-cernovlaska/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak se narodila moje sestřička</title>
+      <link>https://www.kosmas.cz/knihy/576006/jak-se-narodila-moje-sestricka/</link>
+      <description>Jak se narodila moje sestřička - Milena Jeřábková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576006/jak-se-narodila-moje-sestricka/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Černá vdovám nesluší</title>
+      <link>https://www.kosmas.cz/knihy/576047/cerna-vdovam-neslusi/</link>
+      <description>Černá vdovám nesluší - Eva Francová, Veronika Hurdová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576047/cerna-vdovam-neslusi/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>První v cíli</title>
+      <link>https://www.kosmas.cz/knihy/576051/prvni-v-cili/</link>
+      <description>První v cíli - Rebecca J. Caffery</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576051/prvni-v-cili/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Divoké automobilové devadesátky</title>
+      <link>https://www.kosmas.cz/knihy/576066/divoke-automobilove-devadesatky/</link>
+      <description>Divoké automobilové devadesátky - Patricio Malundo</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576066/divoke-automobilove-devadesatky/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odpouštění</title>
+      <link>https://www.kosmas.cz/knihy/576202/odpousteni/</link>
+      <description>Odpouštění - Marián Balázs, Fedor Gál, Miroslava Kaněrová, Ondrej Kotsch</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576202/odpousteni/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajemství Pomněnkové knihovny</title>
+      <link>https://www.kosmas.cz/knihy/576294/tajemstvi-pomnenkove-knihovny/</link>
+      <description>Tajemství Pomněnkové knihovny - Heather Webberová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576294/tajemstvi-pomnenkove-knihovny/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nejen české tradice Bavorovské hospodyňky</title>
+      <link>https://www.kosmas.cz/knihy/575416/nejen-ceske-tradice-bavorovske-hospodynky/</link>
+      <description>Nejen české tradice Bavorovské hospodyňky - Veronika Králíková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575416/nejen-ceske-tradice-bavorovske-hospodynky/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Infekce</title>
+      <link>https://www.kosmas.cz/knihy/576312/infekce/</link>
+      <description>Infekce - Vojtěch Mornstein</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576312/infekce/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:24 +0000</pubDate>
+    </item>
     <item>
       <title>Marvel - 100 příběhů o superhrdinech</title>
       <link>https://www.kosmas.cz/knihy/574916/marvel-100-pribehu-o-superhrdinech/</link>
@@ -644,69 +707,6 @@
       <description>Coco Wyo - Cozy Cafe</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/575742/coco-wyo-cozy-cafe/</guid>
       <pubDate>Mon, 02 Nov 2026 15:30:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tajemství kvantové fyziky</title>
-      <link>https://www.kosmas.cz/knihy/575756/tajemstvi-kvantove-fyziky/</link>
-      <description>Tajemství kvantové fyziky - Rebecca Mileham</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575756/tajemstvi-kvantove-fyziky/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hladový mozek</title>
-      <link>https://www.kosmas.cz/knihy/575787/hladovy-mozek/</link>
-      <description>Hladový mozek - Stephan Guyenet</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575787/hladovy-mozek/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kluci jako my</title>
-      <link>https://www.kosmas.cz/knihy/573251/kluci-jako-my/</link>
-      <description>Kluci jako my - Eva Pospíšilová, Klára Pospíšilová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573251/kluci-jako-my/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Křížovky – o kočkách</title>
-      <link>https://www.kosmas.cz/knihy/573414/krizovky-o-kockach/</link>
-      <description>Křížovky – o kočkách</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573414/krizovky-o-kockach/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Křížovky – o psech</title>
-      <link>https://www.kosmas.cz/knihy/573415/krizovky-o-psech/</link>
-      <description>Křížovky – o psech</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573415/krizovky-o-psech/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Když se žena zamiluje</title>
-      <link>https://www.kosmas.cz/knihy/573437/kdyz-se-zena-zamiluje/</link>
-      <description>Když se žena zamiluje - Jiří Pánek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573437/kdyz-se-zena-zamiluje/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poslední chlapec z Osvětimi</title>
-      <link>https://www.kosmas.cz/knihy/573438/posledni-chlapec-z-osvetimi/</link>
-      <description>Poslední chlapec z Osvětimi - Moshe (Mjetek) Bomberg</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/573438/posledni-chlapec-z-osvetimi/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Háčkované čtverce: Kreativní barevné vzory</title>
-      <link>https://www.kosmas.cz/knihy/568563/hackovane-ctverce-kreativni-barevne-vzory/</link>
-      <description>Háčkované čtverce: Kreativní barevné vzory - Leonie Morgan</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/568563/hackovane-ctverce-kreativni-barevne-vzory/</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>99 způsobů, jak zemřít</title>
-      <link>https://www.kosmas.cz/knihy/575490/99-zpusobu-jak-zemrit/</link>
-      <description>99 způsobů, jak zemřít - Ashely Alker</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575490/99-zpusobu-jak-zemrit/</guid>
-      <pubDate>Sun, 01 Nov 2026 13:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

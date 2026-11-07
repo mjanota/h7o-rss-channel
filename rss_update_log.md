@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-07 12:49:42 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. Rabín, kněz a černovláska
+2. Jak se narodila moje sestřička
+3. Černá vdovám nesluší
+4. První v cíli
+5. Divoké automobilové devadesátky
+6. Odpouštění
+7. Tajemství Pomněnkové knihovny
+8. Nejen české tradice Bavorovské hospodyňky
+9. Infekce
+
+---
+
+## 🕐 2026-11-07 12:49:41 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-06 14:05:32 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -265,47 +297,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-11-01 13:06:44 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-10-31 12:07:00 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Vražda v Marble Hall
-2. Mýty starověkého Egypta
-3. Bitcoin za všechny prachy
-4. V jiné lize
-5. Zločin a tresť
-6. Deset tisíc stehů
-7. Kočka, která zachránila Vánoce
-8. Úsvit bohů a běsů
-9. Kocourek a kouzelné Vánoce
-10. Lustr pro papeže
-11. Koho hledá Františka?
-12. Snad příští Vánoce
-13. Divočák Jindříšek
-14. Pravidla vnitřní gramatiky
-15. Slavná Nemesis
-16. Filmové políčko
-17. Černé zrcadlo
-18. Sto roků samoty
-
----
-
-## 🕐 2026-10-31 12:06:59 UTC
 
 **Zdroj:** H7O - Časopis Host
 
