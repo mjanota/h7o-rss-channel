@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-08 13:10:41 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Domácí strašidla
+2. Minus jedna
+3. Historky pod peřinou
+4. Šerosvět
+5. Bez rozloučení
+6. Spartakus
+7. Staromilcova panská kuchařka
+
+---
+
+## 🕐 2026-11-08 13:10:40 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-07 12:49:42 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -268,41 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. O dobrovolné bezdětnosti a o vzteku, který je tabu
-
----
-
-## 🕐 2026-11-01 13:06:46 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 12
-
-**Tituly nových položek:**
-
-1. 99 způsobů, jak zemřít
-2. Tchaj-pan - limitovaná edice
-3. Alchemised - exkluzivní box
-4. Očima terapeuta
-5. Smutný šašek, který se rozhodl nebýt smutný
-6. Tomáš Garrigue Masaryk
-7. Ela v zemi draků
-8. Vrahovo děvče
-9. Tři světy - Caesar dobývá Galii
-10. Filmové právo: Autorskoprávní perspektiva
-11. Paměť a dějiny č. 3/2026
-12. Tera a Spejs
-
----
-
-## 🕐 2026-11-01 13:06:44 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

@@ -1,5 +1,70 @@
 [
   {
+    "title": "Domácí strašidla",
+    "url": "https://www.kosmas.cz/knihy/574824/domaci-strasidla/",
+    "description": "Domácí strašidla - Eva Přikrylová, Vladimír Přikryl",
+    "authors": [
+      "Eva Přikrylová",
+      "Vladimír Přikryl"
+    ],
+    "date": "2026-11-08T13:10:41.204245+00:00"
+  },
+  {
+    "title": "Minus jedna",
+    "url": "https://www.kosmas.cz/knihy/576305/minus-jedna/",
+    "description": "Minus jedna - Tereza Sedláček",
+    "authors": [
+      "Tereza Sedláček"
+    ],
+    "date": "2026-11-08T13:10:29.204245+00:00"
+  },
+  {
+    "title": "Historky pod peřinou",
+    "url": "https://www.kosmas.cz/knihy/573936/historky-pod-perinou/",
+    "description": "Historky pod peřinou - Lucie Macháčková",
+    "authors": [
+      "Lucie Macháčková"
+    ],
+    "date": "2026-11-08T13:10:28.204245+00:00"
+  },
+  {
+    "title": "Šerosvět",
+    "url": "https://www.kosmas.cz/knihy/576308/serosvet/",
+    "description": "Šerosvět - Alex Aster",
+    "authors": [
+      "Alex Aster"
+    ],
+    "date": "2026-11-08T13:10:27.204245+00:00"
+  },
+  {
+    "title": "Bez rozloučení",
+    "url": "https://www.kosmas.cz/knihy/576315/bez-rozlouceni/",
+    "description": "Bez rozloučení - Harlan Coben, Reese Witherspoon",
+    "authors": [
+      "Harlan Coben",
+      "Reese Witherspoon"
+    ],
+    "date": "2026-11-08T13:10:25.204245+00:00"
+  },
+  {
+    "title": "Spartakus",
+    "url": "https://www.kosmas.cz/knihy/576317/spartakus/",
+    "description": "Spartakus - James Leslie Mitchell",
+    "authors": [
+      "James Leslie Mitchell"
+    ],
+    "date": "2026-11-08T13:10:24.204245+00:00"
+  },
+  {
+    "title": "Staromilcova panská kuchařka",
+    "url": "https://www.kosmas.cz/knihy/575414/staromilcova-panska-kucharka/",
+    "description": "Staromilcova panská kuchařka - Vítězslav Ivičič",
+    "authors": [
+      "Vítězslav Ivičič"
+    ],
+    "date": "2026-11-08T13:10:22.204245+00:00"
+  },
+  {
     "title": "Rabín, kněz a černovláska",
     "url": "https://www.kosmas.cz/knihy/576000/rabin-knez-a-cernovlaska/",
     "description": "Rabín, kněz a černovláska - Kristina Cysařová, David Maxa, Marek Orko Vácha",
@@ -1742,68 +1807,5 @@
       "Melissa Welliver"
     ],
     "date": "2026-10-27T11:58:19.102807+00:00"
-  },
-  {
-    "title": "Nejkrásnější podzim",
-    "url": "https://www.kosmas.cz/knihy/573849/nejkrasnejsi-podzim/",
-    "description": "Nejkrásnější podzim - Erin Branscom",
-    "authors": [
-      "Erin Branscom"
-    ],
-    "date": "2026-10-27T11:58:18.102807+00:00"
-  },
-  {
-    "title": "Dívky v hlubinách",
-    "url": "https://www.kosmas.cz/knihy/572623/divky-v-hlubinach/",
-    "description": "Dívky v hlubinách - Lisa Reganová",
-    "authors": [
-      "Lisa Reganová"
-    ],
-    "date": "2026-10-27T11:58:17.102807+00:00"
-  },
-  {
-    "title": "Tanči srdcem",
-    "url": "https://www.kosmas.cz/knihy/575649/tanci-srdcem/",
-    "description": "Tanči srdcem - Alexis Daria",
-    "authors": [
-      "Alexis Daria"
-    ],
-    "date": "2026-10-27T11:58:16.102807+00:00"
-  },
-  {
-    "title": "Jako lovná zvěř",
-    "url": "https://www.kosmas.cz/knihy/573903/jako-lovna-zver/",
-    "description": "Jako lovná zvěř - Josef Klíma",
-    "authors": [
-      "Josef Klíma"
-    ],
-    "date": "2026-10-27T11:58:15.102807+00:00"
-  },
-  {
-    "title": "Kognitivně behaviorální terapie - Základy a něco navíc",
-    "url": "https://www.kosmas.cz/knihy/573185/kognitivne-behavioralni-terapie-zaklady-a-neco-navic/",
-    "description": "Kognitivně behaviorální terapie - Základy a něco navíc - Judith S. Becková",
-    "authors": [
-      "Judith S. Becková"
-    ],
-    "date": "2026-10-27T11:58:14.102807+00:00"
-  },
-  {
-    "title": "Miro Švolík: 1975–2025",
-    "url": "https://www.kosmas.cz/knihy/570989/miro-svolik-1975-2025/",
-    "description": "Miro Švolík: 1975–2025 - Miro Švolík",
-    "authors": [
-      "Miro Švolík"
-    ],
-    "date": "2026-10-27T11:58:13.102807+00:00"
-  },
-  {
-    "title": "Cíl neznámý",
-    "url": "https://www.kosmas.cz/knihy/575046/cil-neznamy/",
-    "description": "Cíl neznámý - Agatha Christie",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "date": "2026-10-27T11:58:12.102807+00:00"
   }
 ]
