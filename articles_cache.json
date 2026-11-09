@@ -1,13 +1,5 @@
 [
   {
-    "title": "Prosekat si vlastní cestu, když ta vedlejší je vám protivná",
-    "url": "https://www.h7o.cz/clanky/14579-prosekat-si-vlastni-cestu-kdyz-ta-vedlejsi-je-vam-protivna",
-    "description": "„Občas se mi sešly tak povedené texty, že mi přišlo nejlepší se o to postarat vlastními silami,“ komentuje rozšíření projektu Nedělní chvilka poezieCZ jeho zakladatel Karel Škrabal. Spolu s redaktorem Filipem Klegou přibližují, proč se vydali na nakladatelskou cestu a jak vybírají své souputnictvo.",
-    "date": "2026-08-11T00:00:00",
-    "author": "Jan B. Peňás",
-    "category": "rozhovor"
-  },
-  {
     "title": "Trest za queer literaturu",
     "url": "https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu",
     "description": "Bývalý šéf ruského nakladatelství Popcorn Books dostal u moskevského soudu podmínku za „LGBTQ+ extremismus“.",
@@ -494,5 +486,13 @@
     "date": "2026-11-06T00:00:00",
     "author": "Petr A. Bílek",
     "category": "recenze"
+  },
+  {
+    "title": "Geryonovská meditace",
+    "url": "https://www.h7o.cz/clanky/14645-geryonovska-meditace",
+    "description": "Co má společného postava Geryona z „Autobiografie rudé“ Anne Carsonové s Geryonem z jedné eseje Vernon Lee? Nad tím se ve své eseji zamýšlí Martin Bedřich.",
+    "date": "2026-11-09T00:00:00",
+    "author": "Martin Bedřich",
+    "category": "téma"
   }
 ]

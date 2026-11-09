@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:56:39 +0000</lastBuildDate>
+    <item>
+      <title>Geryonovská meditace</title>
+      <link>https://www.h7o.cz/clanky/14645-geryonovska-meditace</link>
+      <description>Co má společného postava Geryona z „Autobiografie rudé“ Anne Carsonové s Geryonem z jedné eseje Vernon Lee? Nad tím se ve své eseji zamýšlí Martin Bedřich.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14645-geryonovska-meditace</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Příběh o mistrech nápodoby</title>
       <link>https://www.h7o.cz/clanky/14644-pribeh-o-mistrech-napodoby</link>
@@ -434,13 +441,6 @@
       <description>Bývalý šéf ruského nakladatelství Popcorn Books dostal u moskevského soudu podmínku za „LGBTQ+ extremismus“.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prosekat si vlastní cestu, když ta vedlejší je vám protivná</title>
-      <link>https://www.h7o.cz/clanky/14579-prosekat-si-vlastni-cestu-kdyz-ta-vedlejsi-je-vam-protivna</link>
-      <description>„Občas se mi sešly tak povedené texty, že mi přišlo nejlepší se o to postarat vlastními silami,“ komentuje rozšíření projektu Nedělní chvilka poezieCZ jeho zakladatel Karel Škrabal. Spolu s redaktorem Filipem Klegou přibližují, proč se vydali na nakladatelskou cestu a jak vybírají své souputnictvo.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14579-prosekat-si-vlastni-cestu-kdyz-ta-vedlejsi-je-vam-protivna</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

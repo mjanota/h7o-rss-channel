@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-09 15:56:40 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Šťastné a zadané
+2. BigTrip.cz: Cesta kolem světa
+3. Magic Mag from Prague 1
+4. Oremus
+5. Maturitní rok
+6. Až černokněžníkům praskne obruč
+7. Růže
+8. Pařížská tanečnice
+9. Tak jsem potkala jednoho chlápka…
+10. Tajné životy čísel
+11. Naslouchejte svému dítěti
+12. Tlukot srdce - Autobiografie
+13. Utajovane programy a patenty
+14. Správná pětka na Tajemných blatech
+15. Já, Claudius
+16. Vraždi všímavě na kraji světa
+17. Madam komisařka a pomsta po letech
+18. Madam komisařka a zmizelý Angličan
+19. Střeva v klidu, Jak dostat zažívací potíže pod kontrolu
+
+---
+
+## 🕐 2026-11-09 15:56:39 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Geryonovská meditace
+
+---
+
 ## 🕐 2026-11-08 13:10:41 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Zázraky Václava Jamka
-
----
-
-## 🕐 2026-11-02 15:30:23 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Pozoruhodné příběhy chemických prvků
-2. Sestřička vypráví
-3. Obličejová jóga
-4. Ségry
-5. Omalovánkový adventní kalendář
-6. Deníček Camille G box: Od Jedničky po Pětečku
-7. Fenomén Podyjí
-8. Přežila jsem Osvětim
-9. Tajnej
-10. Žraloci a malé ryby
-11. Furt je to stejný
-12. Coco Wyo - Cozy Cafe
-13. Tajemství kvantové fyziky
-14. Hladový mozek
-15. Kluci jako my
-16. Křížovky – o kočkách
-17. Křížovky – o psech
-18. Když se žena zamiluje
-19. Poslední chlapec z Osvětimi
-20. Háčkované čtverce: Kreativní barevné vzory
-
----
-
-## 🕐 2026-11-02 15:30:22 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. O dobrovolné bezdětnosti a o vzteku, který je tabu
 
 ---
 

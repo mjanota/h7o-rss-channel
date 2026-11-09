@@ -1,5 +1,178 @@
 [
   {
+    "title": "Šťastné a zadané",
+    "url": "https://www.kosmas.cz/knihy/576096/stastne-a-zadane/",
+    "description": "Šťastné a zadané - Abby Jimenez",
+    "authors": [
+      "Abby Jimenez"
+    ],
+    "date": "2026-11-09T15:56:40.279577+00:00"
+  },
+  {
+    "title": "BigTrip.cz: Cesta kolem světa",
+    "url": "https://www.kosmas.cz/knihy/576106/bigtrip.cz-cesta-kolem-sveta/",
+    "description": "BigTrip.cz: Cesta kolem světa - Ladislav Bezděk, Kateřina Bezděková",
+    "authors": [
+      "Ladislav Bezděk",
+      "Kateřina Bezděková"
+    ],
+    "date": "2026-11-09T15:56:39.279577+00:00"
+  },
+  {
+    "title": "Magic Mag from Prague 1",
+    "url": "https://www.kosmas.cz/knihy/576196/magic-mag-from-prague-1/",
+    "description": "Magic Mag from Prague 1",
+    "authors": [],
+    "date": "2026-11-09T15:56:38.279577+00:00"
+  },
+  {
+    "title": "Oremus",
+    "url": "https://www.kosmas.cz/knihy/576233/oremus/",
+    "description": "Oremus - Radek Tichý",
+    "authors": [
+      "Radek Tichý"
+    ],
+    "date": "2026-11-09T15:56:37.279577+00:00"
+  },
+  {
+    "title": "Maturitní rok",
+    "url": "https://www.kosmas.cz/knihy/576257/maturitni-rok/",
+    "description": "Maturitní rok - Pavel Pecina",
+    "authors": [
+      "Pavel Pecina"
+    ],
+    "date": "2026-11-09T15:56:36.279577+00:00"
+  },
+  {
+    "title": "Až černokněžníkům praskne obruč",
+    "url": "https://www.kosmas.cz/knihy/574562/az-cernokneznikum-praskne-obruc/",
+    "description": "Až černokněžníkům praskne obruč - Igor Lukeš, Aleš Palán",
+    "authors": [
+      "Igor Lukeš",
+      "Aleš Palán"
+    ],
+    "date": "2026-11-09T15:56:35.279577+00:00"
+  },
+  {
+    "title": "Růže",
+    "url": "https://www.kosmas.cz/knihy/576346/ruze/",
+    "description": "Růže - Oksana Vasjakinová",
+    "authors": [
+      "Oksana Vasjakinová"
+    ],
+    "date": "2026-11-09T15:56:34.279577+00:00"
+  },
+  {
+    "title": "Pařížská tanečnice",
+    "url": "https://www.kosmas.cz/knihy/574120/parizska-tanecnice/",
+    "description": "Pařížská tanečnice - Doron Darmon",
+    "authors": [
+      "Doron Darmon"
+    ],
+    "date": "2026-11-09T15:56:33.279577+00:00"
+  },
+  {
+    "title": "Tak jsem potkala jednoho chlápka…",
+    "url": "https://www.kosmas.cz/knihy/576351/tak-jsem-potkala-jednoho-chlapka/",
+    "description": "Tak jsem potkala jednoho chlápka… - Alexandra Potter",
+    "authors": [
+      "Alexandra Potter"
+    ],
+    "date": "2026-11-09T15:56:32.279577+00:00"
+  },
+  {
+    "title": "Tajné životy čísel",
+    "url": "https://www.kosmas.cz/knihy/576352/tajne-zivoty-cisel/",
+    "description": "Tajné životy čísel - Kate Kitagawa, Timothy Revell",
+    "authors": [
+      "Kate Kitagawa",
+      "Timothy Revell"
+    ],
+    "date": "2026-11-09T15:56:31.279577+00:00"
+  },
+  {
+    "title": "Naslouchejte svému dítěti",
+    "url": "https://www.kosmas.cz/knihy/576353/naslouchejte-svemu-diteti/",
+    "description": "Naslouchejte svému dítěti - Naomi Aldortová",
+    "authors": [
+      "Naomi Aldortová"
+    ],
+    "date": "2026-11-09T15:56:30.279577+00:00"
+  },
+  {
+    "title": "Tlukot srdce - Autobiografie",
+    "url": "https://www.kosmas.cz/knihy/576358/tlukot-srdce-autobiografie/",
+    "description": "Tlukot srdce - Autobiografie - Björn Borg, Patricia Borg",
+    "authors": [
+      "Björn Borg",
+      "Patricia Borg"
+    ],
+    "date": "2026-11-09T15:56:29.279577+00:00"
+  },
+  {
+    "title": "Utajovane programy a patenty",
+    "url": "https://www.kosmas.cz/knihy/576360/utajovane-programy-a-patenty/",
+    "description": "Utajovane programy a patenty - Jana Horkelová",
+    "authors": [
+      "Jana Horkelová"
+    ],
+    "date": "2026-11-09T15:56:28.279577+00:00"
+  },
+  {
+    "title": "Správná pětka na Tajemných blatech",
+    "url": "https://www.kosmas.cz/knihy/576363/spravna-petka-na-tajemnych-blatech/",
+    "description": "Správná pětka na Tajemných blatech - Enid Blytonová",
+    "authors": [
+      "Enid Blytonová"
+    ],
+    "date": "2026-11-09T15:56:27.279577+00:00"
+  },
+  {
+    "title": "Já, Claudius",
+    "url": "https://www.kosmas.cz/knihy/576364/ja-claudius/",
+    "description": "Já, Claudius - Robert Graves",
+    "authors": [
+      "Robert Graves"
+    ],
+    "date": "2026-11-09T15:56:26.279577+00:00"
+  },
+  {
+    "title": "Vraždi všímavě na kraji světa",
+    "url": "https://www.kosmas.cz/knihy/576366/vrazdi-vsimave-na-kraji-sveta/",
+    "description": "Vraždi všímavě na kraji světa - Karsten Dusse",
+    "authors": [
+      "Karsten Dusse"
+    ],
+    "date": "2026-11-09T15:56:24.279577+00:00"
+  },
+  {
+    "title": "Madam komisařka a pomsta po letech",
+    "url": "https://www.kosmas.cz/knihy/576367/madam-komisarka-a-pomsta-po-letech/",
+    "description": "Madam komisařka a pomsta po letech - Pierre Martin",
+    "authors": [
+      "Pierre Martin"
+    ],
+    "date": "2026-11-09T15:56:23.279577+00:00"
+  },
+  {
+    "title": "Madam komisařka a zmizelý Angličan",
+    "url": "https://www.kosmas.cz/knihy/576368/madam-komisarka-a-zmizely-anglican/",
+    "description": "Madam komisařka a zmizelý Angličan - Pierre Martin",
+    "authors": [
+      "Pierre Martin"
+    ],
+    "date": "2026-11-09T15:56:22.279577+00:00"
+  },
+  {
+    "title": "Střeva v klidu, Jak dostat zažívací potíže pod kontrolu",
+    "url": "https://www.kosmas.cz/knihy/576369/streva-v-klidu-jak-dostat-zazivaci-potize-pod-kontrolu/",
+    "description": "Střeva v klidu, Jak dostat zažívací potíže pod kontrolu - Ulrich Selz",
+    "authors": [
+      "Ulrich Selz"
+    ],
+    "date": "2026-11-09T15:56:21.279577+00:00"
+  },
+  {
     "title": "Domácí strašidla",
     "url": "https://www.kosmas.cz/knihy/574824/domaci-strasidla/",
     "description": "Domácí strašidla - Eva Přikrylová, Vladimír Přikryl",
@@ -1636,176 +1809,5 @@
       "Thurston Moore"
     ],
     "date": "2026-10-28T12:36:52.754832+00:00"
-  },
-  {
-    "title": "Hodinky: Esence času",
-    "url": "https://www.kosmas.cz/knihy/571494/hodinky-esence-casu/",
-    "description": "Hodinky: Esence času - Paco Guarnacia",
-    "authors": [
-      "Paco Guarnacia"
-    ],
-    "date": "2026-10-28T12:36:51.754832+00:00"
-  },
-  {
-    "title": "Zdeněk Jirotka: Dobrá rada pana Bartoše a jiné hry",
-    "url": "https://www.kosmas.cz/knihy/564175/zdenek-jirotka-dobra-rada-pana-bartose-a-jine-hry/",
-    "description": "Zdeněk Jirotka: Dobrá rada pana Bartoše a jiné hry - Erik Gilk, Lenka Jungmannová",
-    "authors": [
-      "Erik Gilk",
-      "Lenka Jungmannová"
-    ],
-    "date": "2026-10-28T12:36:50.754832+00:00"
-  },
-  {
-    "title": "Vánoce se zvířátky",
-    "url": "https://www.kosmas.cz/knihy/571477/vanoce-se-zviratky/",
-    "description": "Vánoce se zvířátky - Guilia Dragone",
-    "authors": [
-      "Guilia Dragone"
-    ],
-    "date": "2026-10-28T12:36:49.754832+00:00"
-  },
-  {
-    "title": "Přepis",
-    "url": "https://www.kosmas.cz/knihy/570996/prepis/",
-    "description": "Přepis - Ben Lerner",
-    "authors": [
-      "Ben Lerner"
-    ],
-    "date": "2026-10-28T12:36:48.754832+00:00"
-  },
-  {
-    "title": "Karel VI. Schwarzenberg - komplet",
-    "url": "https://www.kosmas.cz/knihy/225911/karel-vi.-schwarzenberg-komplet/",
-    "description": "Karel VI. Schwarzenberg - komplet - Jan M. Heller",
-    "authors": [
-      "Jan M. Heller"
-    ],
-    "date": "2026-10-28T12:36:47.754832+00:00"
-  },
-  {
-    "title": "Skok do hlavně",
-    "url": "https://www.kosmas.cz/knihy/574560/skok-do-hlavne/",
-    "description": "Skok do hlavně - Jiří Miček",
-    "authors": [
-      "Jiří Miček"
-    ],
-    "date": "2026-10-28T12:36:43.754832+00:00"
-  },
-  {
-    "title": "Hanba",
-    "url": "https://www.kosmas.cz/knihy/575288/hanba/",
-    "description": "Hanba - Lina Areklew",
-    "authors": [
-      "Lina Areklew"
-    ],
-    "date": "2026-10-28T12:36:40.754832+00:00"
-  },
-  {
-    "title": "Tajemství keltského šamanismu",
-    "url": "https://www.kosmas.cz/knihy/575598/tajemstvi-keltskeho-samanismu/",
-    "description": "Tajemství keltského šamanismu - McCrimmon",
-    "authors": [
-      "McCrimmon"
-    ],
-    "date": "2026-10-28T12:36:37.754832+00:00"
-  },
-  {
-    "title": "Tajná cvičení na posílení sexuální energie",
-    "url": "https://www.kosmas.cz/knihy/575601/tajna-cviceni-na-posileni-sexualni-energie/",
-    "description": "Tajná cvičení na posílení sexuální energie - Mantak Chia, Michael Winn",
-    "authors": [
-      "Mantak Chia",
-      "Michael Winn"
-    ],
-    "date": "2026-10-28T12:36:36.754832+00:00"
-  },
-  {
-    "title": "Černá zátoka",
-    "url": "https://www.kosmas.cz/knihy/575629/cerna-zatoka/",
-    "description": "Černá zátoka - Peter May",
-    "authors": [
-      "Peter May"
-    ],
-    "date": "2026-10-28T12:36:34.754832+00:00"
-  },
-  {
-    "title": "Chlapská dílna - Mistrovský průvodce pro práci se dřevem, nástroje, postupy a techniky",
-    "url": "https://www.kosmas.cz/knihy/574361/chlapska-dilna-mistrovsky-pruvodce-pro-praci-se-drevem-nastroje---a-techniky/",
-    "description": "Chlapská dílna - Mistrovský průvodce pro práci se dřevem, nástroje, postupy a techniky",
-    "authors": [],
-    "date": "2026-10-27T11:58:28.102807+00:00"
-  },
-  {
-    "title": "Básníci",
-    "url": "https://www.kosmas.cz/knihy/574272/basnici/",
-    "description": "Básníci - Josef Gabriš",
-    "authors": [
-      "Josef Gabriš"
-    ],
-    "date": "2026-10-27T11:58:27.102807+00:00"
-  },
-  {
-    "title": "Všechno nejlepší- 50 let řemesla, receptů a příběhů",
-    "url": "https://www.kosmas.cz/knihy/575201/vsechno-nejlepsi-50-let-remesla-receptu-a-pribehu/",
-    "description": "Všechno nejlepší- 50 let řemesla, receptů a příběhů - Mirka van Gils Slavíková",
-    "authors": [
-      "Mirka van Gils Slavíková"
-    ],
-    "date": "2026-10-27T11:58:26.102807+00:00"
-  },
-  {
-    "title": "Katalog vybraných nápisů okresu Semily od 15. století do roku 1800",
-    "url": "https://www.kosmas.cz/knihy/575250/katalog-vybranych-napisu-okresu-semily-od-15.-stoleti-do-roku-1800/",
-    "description": "Katalog vybraných nápisů okresu Semily od 15. století do roku 1800 - Pavel Jakubec",
-    "authors": [
-      "Pavel Jakubec"
-    ],
-    "date": "2026-10-27T11:58:25.102807+00:00"
-  },
-  {
-    "title": "Alchymie, její teorie a praxe",
-    "url": "https://www.kosmas.cz/knihy/575269/alchymie-jeji-teorie-a-praxe/",
-    "description": "Alchymie, její teorie a praxe - Pierre de Lasenic",
-    "authors": [
-      "Pierre de Lasenic"
-    ],
-    "date": "2026-10-27T11:58:24.102807+00:00"
-  },
-  {
-    "title": "Vynález zkázy",
-    "url": "https://www.kosmas.cz/knihy/575447/vynalez-zkazy/",
-    "description": "Vynález zkázy - Jules Verne",
-    "authors": [
-      "Jules Verne"
-    ],
-    "date": "2026-10-27T11:58:23.102807+00:00"
-  },
-  {
-    "title": "Moje krabička vzpomínek",
-    "url": "https://www.kosmas.cz/knihy/575619/moje-krabicka-vzpominek/",
-    "description": "Moje krabička vzpomínek",
-    "authors": [],
-    "date": "2026-10-27T11:58:21.102807+00:00"
-  },
-  {
-    "title": "Ošklivé holky",
-    "url": "https://www.kosmas.cz/knihy/574948/osklive-holky/",
-    "description": "Ošklivé holky - Lisa Bjärbo, Joanna Lindbäck, Sara Ohlsson",
-    "authors": [
-      "Lisa Bjärbo",
-      "Joanna Lindbäck",
-      "Sara Ohlsson"
-    ],
-    "date": "2026-10-27T11:58:20.102807+00:00"
-  },
-  {
-    "title": "Až na krev",
-    "url": "https://www.kosmas.cz/knihy/575645/az-na-krev/",
-    "description": "Až na krev - Melissa Welliver",
-    "authors": [
-      "Melissa Welliver"
-    ],
-    "date": "2026-10-27T11:58:19.102807+00:00"
   }
 ]
