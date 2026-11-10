@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:43:39 +0000</lastBuildDate>
+    <item>
+      <title>Trezor</title>
+      <link>https://www.kosmas.cz/knihy/575572/trezor/</link>
+      <description>Trezor - Karel Gott</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575572/trezor/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madam komisařka a zmizelý Angličan</title>
+      <link>https://www.kosmas.cz/knihy/575187/madam-komisarka-a-zmizely-anglican/</link>
+      <description>Madam komisařka a zmizelý Angličan - Pierre Martin</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575187/madam-komisarka-a-zmizely-anglican/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Madam komisařka a pomsta po letech</title>
+      <link>https://www.kosmas.cz/knihy/575195/madam-komisarka-a-pomsta-po-letech/</link>
+      <description>Madam komisařka a pomsta po letech - Pierre Martin</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575195/madam-komisarka-a-pomsta-po-letech/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Batoh plný strachů</title>
+      <link>https://www.kosmas.cz/knihy/575703/batoh-plny-strachu/</link>
+      <description>Batoh plný strachů - Zuzana Červenková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575703/batoh-plny-strachu/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mysl začíná smysly: Zvuky</title>
+      <link>https://www.kosmas.cz/knihy/575758/mysl-zacina-smysly-zvuky/</link>
+      <description>Mysl začíná smysly: Zvuky - Ivana Pecháčková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575758/mysl-zacina-smysly-zvuky/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>LEGO® Harry Potter™ Lekce kouzlení</title>
+      <link>https://www.kosmas.cz/knihy/575761/lego-harry-potter-lekce-kouzleni/</link>
+      <description>LEGO® Harry Potter™ Lekce kouzlení - kolektiv</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575761/lego-harry-potter-lekce-kouzleni/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asterix (01.) - Asterix z Galie</title>
+      <link>https://www.kosmas.cz/knihy/575778/asterix-01.-asterix-z-galie/</link>
+      <description>Asterix (01.) - Asterix z Galie - Uderzo Albert, Albert Uderzo</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575778/asterix-01.-asterix-z-galie/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pivo po česku</title>
+      <link>https://www.kosmas.cz/knihy/575790/pivo-po-cesku/</link>
+      <description>Pivo po česku - Marcela Titzlová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575790/pivo-po-cesku/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nauč se kouzlit</title>
+      <link>https://www.kosmas.cz/knihy/575460/nauc-se-kouzlit/</link>
+      <description>Nauč se kouzlit - Eleonora Barsotti</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575460/nauc-se-kouzlit/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dance Context Journal 2026 - Politikum v tanci</title>
+      <link>https://www.kosmas.cz/knihy/576026/dance-context-journal-2026-politikum-v-tanci/</link>
+      <description>Dance Context Journal 2026 - Politikum v tanci</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576026/dance-context-journal-2026-politikum-v-tanci/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Na vlastní kůži</title>
+      <link>https://www.kosmas.cz/knihy/576046/na-vlastni-kuzi/</link>
+      <description>Na vlastní kůži - Mariana Zapata</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576046/na-vlastni-kuzi/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Takhle by Vánoce přece neměly vypadat...</title>
+      <link>https://www.kosmas.cz/knihy/576048/takhle-by-vanoce-prece-nemely-vypadat/</link>
+      <description>Takhle by Vánoce přece neměly vypadat... - Filip Dvořák</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576048/takhle-by-vanoce-prece-nemely-vypadat/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Království ohně a osudu</title>
+      <link>https://www.kosmas.cz/knihy/576092/kralovstvi-ohne-a-osudu/</link>
+      <description>Království ohně a osudu - Holly Renee</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576092/kralovstvi-ohne-a-osudu/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skleněná lebka</title>
+      <link>https://www.kosmas.cz/knihy/576093/sklenena-lebka/</link>
+      <description>Skleněná lebka - Ladislav Loukota</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576093/sklenena-lebka/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splněné touhy</title>
+      <link>https://www.kosmas.cz/knihy/576095/splnene-touhy/</link>
+      <description>Splněné touhy - Alessandra Torre</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576095/splnene-touhy/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rezonance</title>
+      <link>https://www.kosmas.cz/knihy/576098/rezonance/</link>
+      <description>Rezonance - Erik Tylš</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576098/rezonance/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Do nebe pojedeme trabantem</title>
+      <link>https://www.kosmas.cz/knihy/576104/do-nebe-pojedeme-trabantem/</link>
+      <description>Do nebe pojedeme trabantem - Martin Vaculík</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576104/do-nebe-pojedeme-trabantem/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jdu s hlavou vztyčenou</title>
+      <link>https://www.kosmas.cz/knihy/576105/jdu-s-hlavou-vztycenou/</link>
+      <description>Jdu s hlavou vztyčenou - Daniel Anýž</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576105/jdu-s-hlavou-vztycenou/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Splněný sen o F1</title>
+      <link>https://www.kosmas.cz/knihy/576287/splneny-sen-o-f1/</link>
+      <description>Splněný sen o F1 - Petr Dufek</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576287/splneny-sen-o-f1/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snít nestačí. Musíš letět!</title>
+      <link>https://www.kosmas.cz/knihy/576289/snit-nestaci.-musis-letet/</link>
+      <description>Snít nestačí. Musíš letět! - Kateřina Borutová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576289/snit-nestaci.-musis-letet/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:43:20 +0000</pubDate>
+    </item>
     <item>
       <title>Šťastné a zadané</title>
       <link>https://www.kosmas.cz/knihy/576096/stastne-a-zadane/</link>
@@ -567,146 +707,6 @@
       <description>Cringe klub - Emily-Jane Clark</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/575291/cringe-klub/</guid>
       <pubDate>Wed, 04 Nov 2026 14:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moderní učebnice hry na kytaru</title>
-      <link>https://www.kosmas.cz/knihy/575323/moderni-ucebnice-hry-na-kytaru/</link>
-      <description>Moderní učebnice hry na kytaru - Michaela Medek</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575323/moderni-ucebnice-hry-na-kytaru/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Návesní kaple jižních Čech a přilehlé Moravy II.1.</title>
-      <link>https://www.kosmas.cz/knihy/576018/navesni-kaple-jiznich-cech-a-prilehle-moravy-ii.1/</link>
-      <description>Návesní kaple jižních Čech a přilehlé Moravy II.1. - Pavel Hájek, Zdenka Paloušová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576018/navesni-kaple-jiznich-cech-a-prilehle-moravy-ii.1/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži</title>
-      <link>https://www.kosmas.cz/knihy/576019/portretni-miniatury-ve-sbirkach-narodniho-pamatkoveho-ustavu-uzemni---kromerizi/</link>
-      <description>Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži - Ludmila Ourodová-Hronková, Olga Trmalová, Lenka Vaňková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576019/portretni-miniatury-ve-sbirkach-narodniho-pamatkoveho-ustavu-uzemni---kromerizi/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amálka a pihy</title>
-      <link>https://www.kosmas.cz/knihy/575056/amalka-a-pihy/</link>
-      <description>Amálka a pihy - David Vacke</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575056/amalka-a-pihy/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hynek a mravenci</title>
-      <link>https://www.kosmas.cz/knihy/575057/hynek-a-mravenci/</link>
-      <description>Hynek a mravenci - David Vacke</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575057/hynek-a-mravenci/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Základy neurověd</title>
-      <link>https://www.kosmas.cz/knihy/576034/zaklady-neuroved/</link>
-      <description>Základy neurověd - Jaromír Mysliveček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576034/zaklady-neuroved/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Býčí hora</title>
-      <link>https://www.kosmas.cz/knihy/576130/byci-hora/</link>
-      <description>Býčí hora - Brian Panowich</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576130/byci-hora/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pan</title>
-      <link>https://www.kosmas.cz/knihy/576131/pan/</link>
-      <description>Pan - Michael W Clune</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576131/pan/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hravá písanka 1-1. díl</title>
-      <link>https://www.kosmas.cz/knihy/571257/hrava-pisanka-1-1.-dil/</link>
-      <description>Hravá písanka 1-1. díl</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571257/hrava-pisanka-1-1.-dil/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noční vrabčák</title>
-      <link>https://www.kosmas.cz/knihy/571336/nocni-vrabcak/</link>
-      <description>Noční vrabčák - Shelly Sandersová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571336/nocni-vrabcak/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Maggie Smrtivzdorná: Království, které mě nezabije</title>
-      <link>https://www.kosmas.cz/knihy/571338/maggie-smrtivzdorna-kralovstvi-ktere-me-nezabije/</link>
-      <description>Maggie Smrtivzdorná: Království, které mě nezabije - Ilona Andrews</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571338/maggie-smrtivzdorna-kralovstvi-ktere-me-nezabije/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jistě, pane ministře 2.</title>
-      <link>https://www.kosmas.cz/knihy/565964/jiste-pane-ministre-2/</link>
-      <description>Jistě, pane ministře 2. - Antony Jay, Jonathan Lynn</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/565964/jiste-pane-ministre-2/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden.</title>
-      <link>https://www.kosmas.cz/knihy/574703/kalendarium.-52-tydnu-pribehu-z-ceskych-dejin.-kazdy-den-jeden/</link>
-      <description>Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden. - Jonáš Drobík</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574703/kalendarium.-52-tydnu-pribehu-z-ceskych-dejin.-kazdy-den-jeden/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chvíle, kdy přicházíš</title>
-      <link>https://www.kosmas.cz/knihy/575277/chvile-kdy-prichazis/</link>
-      <description>Chvíle, kdy přicházíš - Anežka Wiewiorková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575277/chvile-kdy-prichazis/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:14:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kráskozvíře</title>
-      <link>https://www.kosmas.cz/knihy/575218/kraskozvire/</link>
-      <description>Kráskozvíře - Aleš T. Rájský</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575218/kraskozvire/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Barmanka a jiné povídky</title>
-      <link>https://www.kosmas.cz/knihy/575334/barmanka-a-jine-povidky/</link>
-      <description>Barmanka a jiné povídky - Kamila Holásková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575334/barmanka-a-jine-povidky/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tajemství staré fotografie</title>
-      <link>https://www.kosmas.cz/knihy/574699/tajemstvi-stare-fotografie/</link>
-      <description>Tajemství staré fotografie - Pavla Plachá</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574699/tajemstvi-stare-fotografie/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synopse mého života</title>
-      <link>https://www.kosmas.cz/knihy/574724/synopse-meho-zivota/</link>
-      <description>Synopse mého života - Jiří Kárnet</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574724/synopse-meho-zivota/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Koktavé strašidlo</title>
-      <link>https://www.kosmas.cz/knihy/574827/koktave-strasidlo/</link>
-      <description>Koktavé strašidlo - Miloslav Švandrlík</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574827/koktave-strasidlo/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Karibské tajemství</title>
-      <link>https://www.kosmas.cz/knihy/574940/karibske-tajemstvi/</link>
-      <description>Karibské tajemství - Agatha Christie</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574940/karibske-tajemstvi/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:59:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,5 @@
 [
   {
-    "title": "Trest za queer literaturu",
-    "url": "https://www.h7o.cz/clanky/14580-trest-za-queer-literaturu",
-    "description": "Bývalý šéf ruského nakladatelství Popcorn Books dostal u moskevského soudu podmínku za „LGBTQ+ extremismus“.",
-    "date": "2026-08-12T00:00:00",
-    "author": "Zdeněk Staszek",
-    "category": "zprávy"
-  },
-  {
     "title": "Návrat ke knize jako artefaktu",
     "url": "https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu",
     "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, že kniha jako artefakt zažívá renesanci.",
@@ -494,5 +486,13 @@
     "date": "2026-11-09T00:00:00",
     "author": "Martin Bedřich",
     "category": "téma"
+  },
+  {
+    "title": "Optimistická apokalypsa. Bookerovu cenu poprvé získal autor sci-fi",
+    "url": "https://www.h7o.cz/clanky/14647-optimisticka-apokalypsa-bookerovu-cenu-poprve-ziskal-autor-sci-fi",
+    "description": "Bookerovu cenu letos získal M. John Harrison za román „The End of Everything“. Jde o prvního Bookera pro autora sci-fi.",
+    "date": "2026-11-10T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

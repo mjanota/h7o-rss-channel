@@ -1,5 +1,184 @@
 [
   {
+    "title": "Trezor",
+    "url": "https://www.kosmas.cz/knihy/575572/trezor/",
+    "description": "Trezor - Karel Gott",
+    "authors": [
+      "Karel Gott"
+    ],
+    "date": "2026-11-10T14:43:39.916627+00:00"
+  },
+  {
+    "title": "Madam komisařka a zmizelý Angličan",
+    "url": "https://www.kosmas.cz/knihy/575187/madam-komisarka-a-zmizely-anglican/",
+    "description": "Madam komisařka a zmizelý Angličan - Pierre Martin",
+    "authors": [
+      "Pierre Martin"
+    ],
+    "date": "2026-11-10T14:43:38.916627+00:00"
+  },
+  {
+    "title": "Madam komisařka a pomsta po letech",
+    "url": "https://www.kosmas.cz/knihy/575195/madam-komisarka-a-pomsta-po-letech/",
+    "description": "Madam komisařka a pomsta po letech - Pierre Martin",
+    "authors": [
+      "Pierre Martin"
+    ],
+    "date": "2026-11-10T14:43:37.916627+00:00"
+  },
+  {
+    "title": "Batoh plný strachů",
+    "url": "https://www.kosmas.cz/knihy/575703/batoh-plny-strachu/",
+    "description": "Batoh plný strachů - Zuzana Červenková",
+    "authors": [
+      "Zuzana Červenková"
+    ],
+    "date": "2026-11-10T14:43:36.916627+00:00"
+  },
+  {
+    "title": "Mysl začíná smysly: Zvuky",
+    "url": "https://www.kosmas.cz/knihy/575758/mysl-zacina-smysly-zvuky/",
+    "description": "Mysl začíná smysly: Zvuky - Ivana Pecháčková",
+    "authors": [
+      "Ivana Pecháčková"
+    ],
+    "date": "2026-11-10T14:43:35.916627+00:00"
+  },
+  {
+    "title": "LEGO® Harry Potter™ Lekce kouzlení",
+    "url": "https://www.kosmas.cz/knihy/575761/lego-harry-potter-lekce-kouzleni/",
+    "description": "LEGO® Harry Potter™ Lekce kouzlení - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-11-10T14:43:34.916627+00:00"
+  },
+  {
+    "title": "Asterix (01.) - Asterix z Galie",
+    "url": "https://www.kosmas.cz/knihy/575778/asterix-01.-asterix-z-galie/",
+    "description": "Asterix (01.) - Asterix z Galie - Uderzo Albert, Albert Uderzo",
+    "authors": [
+      "Uderzo Albert",
+      "Albert Uderzo"
+    ],
+    "date": "2026-11-10T14:43:33.916627+00:00"
+  },
+  {
+    "title": "Pivo po česku",
+    "url": "https://www.kosmas.cz/knihy/575790/pivo-po-cesku/",
+    "description": "Pivo po česku - Marcela Titzlová",
+    "authors": [
+      "Marcela Titzlová"
+    ],
+    "date": "2026-11-10T14:43:32.916627+00:00"
+  },
+  {
+    "title": "Nauč se kouzlit",
+    "url": "https://www.kosmas.cz/knihy/575460/nauc-se-kouzlit/",
+    "description": "Nauč se kouzlit - Eleonora Barsotti",
+    "authors": [
+      "Eleonora Barsotti"
+    ],
+    "date": "2026-11-10T14:43:31.916627+00:00"
+  },
+  {
+    "title": "Dance Context Journal 2026 - Politikum v tanci",
+    "url": "https://www.kosmas.cz/knihy/576026/dance-context-journal-2026-politikum-v-tanci/",
+    "description": "Dance Context Journal 2026 - Politikum v tanci",
+    "authors": [],
+    "date": "2026-11-10T14:43:30.916627+00:00"
+  },
+  {
+    "title": "Na vlastní kůži",
+    "url": "https://www.kosmas.cz/knihy/576046/na-vlastni-kuzi/",
+    "description": "Na vlastní kůži - Mariana Zapata",
+    "authors": [
+      "Mariana Zapata"
+    ],
+    "date": "2026-11-10T14:43:29.916627+00:00"
+  },
+  {
+    "title": "Takhle by Vánoce přece neměly vypadat...",
+    "url": "https://www.kosmas.cz/knihy/576048/takhle-by-vanoce-prece-nemely-vypadat/",
+    "description": "Takhle by Vánoce přece neměly vypadat... - Filip Dvořák",
+    "authors": [
+      "Filip Dvořák"
+    ],
+    "date": "2026-11-10T14:43:28.916627+00:00"
+  },
+  {
+    "title": "Království ohně a osudu",
+    "url": "https://www.kosmas.cz/knihy/576092/kralovstvi-ohne-a-osudu/",
+    "description": "Království ohně a osudu - Holly Renee",
+    "authors": [
+      "Holly Renee"
+    ],
+    "date": "2026-11-10T14:43:27.916627+00:00"
+  },
+  {
+    "title": "Skleněná lebka",
+    "url": "https://www.kosmas.cz/knihy/576093/sklenena-lebka/",
+    "description": "Skleněná lebka - Ladislav Loukota",
+    "authors": [
+      "Ladislav Loukota"
+    ],
+    "date": "2026-11-10T14:43:26.916627+00:00"
+  },
+  {
+    "title": "Splněné touhy",
+    "url": "https://www.kosmas.cz/knihy/576095/splnene-touhy/",
+    "description": "Splněné touhy - Alessandra Torre",
+    "authors": [
+      "Alessandra Torre"
+    ],
+    "date": "2026-11-10T14:43:25.916627+00:00"
+  },
+  {
+    "title": "Rezonance",
+    "url": "https://www.kosmas.cz/knihy/576098/rezonance/",
+    "description": "Rezonance - Erik Tylš",
+    "authors": [
+      "Erik Tylš"
+    ],
+    "date": "2026-11-10T14:43:24.916627+00:00"
+  },
+  {
+    "title": "Do nebe pojedeme trabantem",
+    "url": "https://www.kosmas.cz/knihy/576104/do-nebe-pojedeme-trabantem/",
+    "description": "Do nebe pojedeme trabantem - Martin Vaculík",
+    "authors": [
+      "Martin Vaculík"
+    ],
+    "date": "2026-11-10T14:43:23.916627+00:00"
+  },
+  {
+    "title": "Jdu s hlavou vztyčenou",
+    "url": "https://www.kosmas.cz/knihy/576105/jdu-s-hlavou-vztycenou/",
+    "description": "Jdu s hlavou vztyčenou - Daniel Anýž",
+    "authors": [
+      "Daniel Anýž"
+    ],
+    "date": "2026-11-10T14:43:22.916627+00:00"
+  },
+  {
+    "title": "Splněný sen o F1",
+    "url": "https://www.kosmas.cz/knihy/576287/splneny-sen-o-f1/",
+    "description": "Splněný sen o F1 - Petr Dufek",
+    "authors": [
+      "Petr Dufek"
+    ],
+    "date": "2026-11-10T14:43:21.916627+00:00"
+  },
+  {
+    "title": "Snít nestačí. Musíš letět!",
+    "url": "https://www.kosmas.cz/knihy/576289/snit-nestaci.-musis-letet/",
+    "description": "Snít nestačí. Musíš letět! - Kateřina Borutová",
+    "authors": [
+      "Kateřina Borutová"
+    ],
+    "date": "2026-11-10T14:43:20.916627+00:00"
+  },
+  {
     "title": "Šťastné a zadané",
     "url": "https://www.kosmas.cz/knihy/576096/stastne-a-zadane/",
     "description": "Šťastné a zadané - Abby Jimenez",
@@ -1622,192 +1801,5 @@
       "Tomáš Řepa"
     ],
     "date": "2026-10-30T12:38:12.906228+00:00"
-  },
-  {
-    "title": "Dětské zubní lékařství",
-    "url": "https://www.kosmas.cz/knihy/571625/detske-zubni-lekarstvi/",
-    "description": "Dětské zubní lékařství - Romana Ivančaková Koberová, Vlasta Merglová, kolektiv",
-    "authors": [
-      "Romana Ivančaková Koberová",
-      "Vlasta Merglová",
-      "kolektiv"
-    ],
-    "date": "2026-10-30T12:38:11.906228+00:00"
-  },
-  {
-    "title": "Dopis pro princeznu",
-    "url": "https://www.kosmas.cz/knihy/575945/dopis-pro-princeznu/",
-    "description": "Dopis pro princeznu - Ilona Fišerová, Filip Škoda",
-    "authors": [
-      "Ilona Fišerová",
-      "Filip Škoda"
-    ],
-    "date": "2026-10-30T12:38:10.906228+00:00"
-  },
-  {
-    "title": "Sudoku bez notifikací (modrá)",
-    "url": "https://www.kosmas.cz/knihy/575273/sudoku-bez-notifikaci-modra/",
-    "description": "Sudoku bez notifikací (modrá)",
-    "authors": [],
-    "date": "2026-10-30T12:38:09.906228+00:00"
-  },
-  {
-    "title": "Vánoční trampoty mrzutého sýčka",
-    "url": "https://www.kosmas.cz/knihy/574848/vanocni-trampoty-mrzuteho-sycka/",
-    "description": "Vánoční trampoty mrzutého sýčka - Britta Sabbagová",
-    "authors": [
-      "Britta Sabbagová"
-    ],
-    "date": "2026-10-29T12:46:40.052782+00:00"
-  },
-  {
-    "title": "Proti proudu",
-    "url": "https://www.kosmas.cz/knihy/574896/proti-proudu/",
-    "description": "Proti proudu - Vladislava Kejstová",
-    "authors": [
-      "Vladislava Kejstová"
-    ],
-    "date": "2026-10-29T12:46:39.052782+00:00"
-  },
-  {
-    "title": "Diář plný radosti",
-    "url": "https://www.kosmas.cz/knihy/574933/diar-plny-radosti/",
-    "description": "Diář plný radosti - Olga Bušková",
-    "authors": [
-      "Olga Bušková"
-    ],
-    "date": "2026-10-29T12:46:38.052782+00:00"
-  },
-  {
-    "title": "Píseň dlaska",
-    "url": "https://www.kosmas.cz/knihy/574953/pisen-dlaska/",
-    "description": "Píseň dlaska - Aneta Pham",
-    "authors": [
-      "Aneta Pham"
-    ],
-    "date": "2026-10-29T12:46:37.052782+00:00"
-  },
-  {
-    "title": "Znamenité ženy v počátcích českých dějin",
-    "url": "https://www.kosmas.cz/knihy/575136/znamenite-zeny-v-pocatcich-ceskych-dejin/",
-    "description": "Znamenité ženy v počátcích českých dějin - Vratislav Vaníček",
-    "authors": [
-      "Vratislav Vaníček"
-    ],
-    "date": "2026-10-29T12:46:36.052782+00:00"
-  },
-  {
-    "title": "Harry Potter a princ dvojí krve",
-    "url": "https://www.kosmas.cz/knihy/575139/harry-potter-a-princ-dvoji-krve/",
-    "description": "Harry Potter a princ dvojí krve - Joanne K. Rowlingová",
-    "authors": [
-      "Joanne K. Rowlingová"
-    ],
-    "date": "2026-10-29T12:46:35.052782+00:00"
-  },
-  {
-    "title": "Coco Wyo - Cozy Kapybary",
-    "url": "https://www.kosmas.cz/knihy/575350/coco-wyo-cozy-kapybary/",
-    "description": "Coco Wyo - Cozy Kapybary - kol.",
-    "authors": [
-      "kol."
-    ],
-    "date": "2026-10-29T12:46:33.052782+00:00"
-  },
-  {
-    "title": "Red mama",
-    "url": "https://www.kosmas.cz/knihy/575525/red-mama/",
-    "description": "Red mama - Alice Kršíková",
-    "authors": [
-      "Alice Kršíková"
-    ],
-    "date": "2026-10-29T12:46:32.052782+00:00"
-  },
-  {
-    "title": "Stopy divočiny - 7 000 kilometrů pěšky napříč Chile",
-    "url": "https://www.kosmas.cz/knihy/575531/stopy-divociny-7-000-kilometru-pesky-napric-chile/",
-    "description": "Stopy divočiny - 7 000 kilometrů pěšky napříč Chile - Ivan Mitrus, Daniel Pumr, Jakub Šolc",
-    "authors": [
-      "Ivan Mitrus",
-      "Daniel Pumr",
-      "Jakub Šolc"
-    ],
-    "date": "2026-10-29T12:46:31.052782+00:00"
-  },
-  {
-    "title": "Krvavé město",
-    "url": "https://www.kosmas.cz/knihy/575655/krvave-mesto/",
-    "description": "Krvavé město - Roxann Hill",
-    "authors": [
-      "Roxann Hill"
-    ],
-    "date": "2026-10-29T12:46:30.052782+00:00"
-  },
-  {
-    "title": "Pavouk v banánu",
-    "url": "https://www.kosmas.cz/knihy/575745/pavouk-v-bananu/",
-    "description": "Pavouk v banánu - Karel Doležal",
-    "authors": [
-      "Karel Doležal"
-    ],
-    "date": "2026-10-29T12:46:29.052782+00:00"
-  },
-  {
-    "title": "Vykoupení",
-    "url": "https://www.kosmas.cz/knihy/575746/vykoupeni/",
-    "description": "Vykoupení - Wilbur Smith",
-    "authors": [
-      "Wilbur Smith"
-    ],
-    "date": "2026-10-29T12:46:28.052782+00:00"
-  },
-  {
-    "title": "God Is a Pickle - Recepty a příběhy českého zavařování",
-    "url": "https://www.kosmas.cz/knihy/574362/god-is-a-pickle-recepty-a-pribehy-ceskeho-zavarovani/",
-    "description": "God Is a Pickle - Recepty a příběhy českého zavařování - Marek Bartoš, Šárka Otevřel Camrdová",
-    "authors": [
-      "Marek Bartoš",
-      "Šárka Otevřel Camrdová"
-    ],
-    "date": "2026-10-29T12:46:27.052782+00:00"
-  },
-  {
-    "title": "111 míst v Plzni, která musíte vidět",
-    "url": "https://www.kosmas.cz/knihy/574391/111-mist-v-plzni-ktera-musite-videt/",
-    "description": "111 míst v Plzni, která musíte vidět - Filip Koryta",
-    "authors": [
-      "Filip Koryta"
-    ],
-    "date": "2026-10-29T12:46:26.052782+00:00"
-  },
-  {
-    "title": "Hořící dívky",
-    "url": "https://www.kosmas.cz/knihy/573436/horici-divky/",
-    "description": "Hořící dívky - Rita Herron",
-    "authors": [
-      "Rita Herron"
-    ],
-    "date": "2026-10-29T12:46:25.052782+00:00"
-  },
-  {
-    "title": "Příběhy exkluzivity / Tales of Exclusivity",
-    "url": "https://www.kosmas.cz/knihy/575287/pribehy-exkluzivity-tales-of-exclusivity/",
-    "description": "Příběhy exkluzivity / Tales of Exclusivity - Magdalena Dědičová, Adam Havlík, Michaela Janečková, Pavel Vančát",
-    "authors": [
-      "Magdalena Dědičová",
-      "Adam Havlík",
-      "Michaela Janečková",
-      "Pavel Vančát"
-    ],
-    "date": "2026-10-28T12:36:53.754832+00:00"
-  },
-  {
-    "title": "Sonický život",
-    "url": "https://www.kosmas.cz/knihy/573242/sonicky-zivot/",
-    "description": "Sonický život - Thurston Moore",
-    "authors": [
-      "Thurston Moore"
-    ],
-    "date": "2026-10-28T12:36:52.754832+00:00"
   }
 ]

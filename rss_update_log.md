@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-10 14:43:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Trezor
+2. Madam komisařka a zmizelý Angličan
+3. Madam komisařka a pomsta po letech
+4. Batoh plný strachů
+5. Mysl začíná smysly: Zvuky
+6. LEGO® Harry Potter™ Lekce kouzlení
+7. Asterix (01.) - Asterix z Galie
+8. Pivo po česku
+9. Nauč se kouzlit
+10. Dance Context Journal 2026 - Politikum v tanci
+11. Na vlastní kůži
+12. Takhle by Vánoce přece neměly vypadat...
+13. Království ohně a osudu
+14. Skleněná lebka
+15. Splněné touhy
+16. Rezonance
+17. Do nebe pojedeme trabantem
+18. Jdu s hlavou vztyčenou
+19. Splněný sen o F1
+20. Snít nestačí. Musíš letět!
+
+---
+
+## 🕐 2026-11-10 14:43:39 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Optimistická apokalypsa. Bookerovu cenu poprvé získal autor sci-fi
+
+---
+
 ## 🕐 2026-11-09 15:56:40 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -250,53 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Jak se točí obrazy moravského folkloru
-
----
-
-## 🕐 2026-11-03 13:59:21 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Kráskozvíře
-2. Barmanka a jiné povídky
-3. Tajemství staré fotografie
-4. Synopse mého života
-5. Koktavé strašidlo
-6. Karibské tajemství
-7. Deníky apatykářky 7
-8. Vysoké otáčky
-9. Zvláštní druh a jiné příběhy
-10. Olympijský mýtus
-11. FOTBAL - Fakta a rekordy
-12. Touhy a sny
-13. Fascinující zvířata
-14. Velký závod - příběh a magnetická hra
-15. O spravedlnosti I v Teologické sumě
-16. Terapeut v troskách
-17. Boty za diamanty, Příběhy naděje v časech chaosu
-18. Sporťákovy psí pohádky
-19. Kulička a jiné povídky
-20. Pokušení magie
-
----
-
-## 🕐 2026-11-03 13:59:19 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Zázraky Václava Jamka
 
 ---
 
