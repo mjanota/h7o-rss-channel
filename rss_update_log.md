@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-11 13:58:48 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Krev strážkyně, Fantaskní román z Krumlova
+2. Jak se Václav z Humpolce stal králem hašiše v Káthmándú
+3. Vila
+4. Dobrá smrt Lucie H.
+5. Ostrá slova
+6. Zvrácené pouto
+7. Velké a vzácné věci
+8. Naše věc
+9. Tajemství a výklad pohádek: O statečném kováři
+10. Jak okouzlit hraběte
+11. Smažák a další jídla, která máme rádi
+12. Aby byl táta zase veselej
+13. Jsem podvolená
+14. Zlobíš se na mě?
+15. Šerosvět
+16. Křehkost lidství
+17. Dědečku, vyprávěj o pečení
+18. Polární záře: Portálový strom – 1. část
+19. Alenka v říši idejí
+20. Kde ji ptáci volají jménem
+
+---
+
+## 🕐 2026-11-11 13:58:46 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Rod mužský (ne)životný
+
+---
+
 ## 🕐 2026-11-10 14:43:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky

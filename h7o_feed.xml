@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:58:46 +0000</lastBuildDate>
+    <item>
+      <title>Rod mužský (ne)životný</title>
+      <link>https://www.h7o.cz/clanky/14646-rod-muzsky-ne-zivotny</link>
+      <description>Co znamená být mužem, když odhlédneme od společenských rolí, kulturních stereotypů a očekávání, jež se k mužství vážou? Výstava „Andros“ v Centru současného umění DOX, kurátorovaná spisovatelem Vratislavem Maňákem, sleduje mužské tělo v okamžiku, kdy přestává být samozřejmým důkazem mužské identity.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14646-rod-muzsky-ne-zivotny</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Optimistická apokalypsa. Bookerovu cenu poprvé získal autor sci-fi</title>
       <link>https://www.h7o.cz/clanky/14647-optimisticka-apokalypsa-bookerovu-cenu-poprve-ziskal-autor-sci-fi</link>
@@ -434,13 +441,6 @@
       <description>Svou básnickou skladbu o zneužívání Joshua Mensch rozkládá do stovek vět uvozených slovem „protože“ — protože tak komplexní, bolavou a matoucí zkušenost nelze než vyjádřit básní.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14582-proc-sakra-tolik-protoze</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Návrat ke knize jako artefaktu</title>
-      <link>https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu</link>
-      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o tom, že kniha jako artefakt zažívá renesanci.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14581-navrat-ke-knize-jako-artefaktu</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
