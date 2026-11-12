@@ -1,13 +1,5 @@
 [
   {
-    "title": "Proč sakra tolik protože",
-    "url": "https://www.h7o.cz/clanky/14582-proc-sakra-tolik-protoze",
-    "description": "Svou básnickou skladbu o zneužívání Joshua Mensch rozkládá do stovek vět uvozených slovem „protože“ — protože tak komplexní, bolavou a matoucí zkušenost nelze než vyjádřit básní.",
-    "date": "2026-08-14T00:00:00",
-    "author": "Kryštof Mec",
-    "category": "recenze"
-  },
-  {
     "title": "Marginalizace překladů, optimalizace nákladů",
     "url": "https://www.h7o.cz/clanky/14583-marginalizace-prekladu-optimalizace-nakladu",
     "description": "Anna Štádlerová patří mezi nejtalentovanější překladatelky své generace, letos na jaře získala Magnesii Literu za převod románu „Slavné časy“ NoViolet Bulawayo. Je také absolventkou Ústavu translatologie FF UK, který nyní vedení fakulty chce kontroverzně zrušit. V rozhovoru si povídáme o jejím…",
@@ -494,5 +486,13 @@
     "date": "2026-11-11T00:00:00",
     "author": "Nina Sládeková",
     "category": "recenze"
+  },
+  {
+    "title": "Poznámky z Ukrajiny III: Židle pro nezvěstné a plný hřbitov",
+    "url": "https://www.h7o.cz/clanky/14648-poznamky-z-ukrajiny-iii-zidle-pro-nezvestne-a-plny-hrbitov",
+    "description": "Až ve Lvově postaví památník Hrdinů Ukrajiny, hlavní vchod budou střežit verše básníka Maxyma Kryvcova, jenž v zákopech zahynul v lednu 2024: „Až se mě zeptají, co pro mě znamená válka, bez váhání odpovím — jména.“ Další část reportážního seriálu ze západní Ukrajiny.",
+    "date": "2026-11-12T00:00:00",
+    "author": "Ivan Motýl",
+    "category": "seriál"
   }
 ]

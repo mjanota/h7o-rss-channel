@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-12 14:59:26 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Jak se Honzík naučil zavazovat tkaničku
+2. Pod čarou
+3. Křídla snění
+4. Toulky první republikou 51–75
+5. Eleonora z Lobkovic
+6. Záhady slečny Ashfordové - Večírek v Toskánsku
+7. Domov pro Marťany
+8. Krysař
+9. Ledové střepy
+10. Dotek temnoty
+11. Diagnostika dítěte předškolního věku
+12. Marža z krvi
+13. (Ne)dokonalé vzpomínky
+14. O prynckovi
+15. Finská sauna
+16. Kočičí dny
+17. Kabala pro systémové inženýrství v éře AI
+18. Medvídek Pú - Plyšový deník
+19. K-pop: Boj s temnotou
+20. Conan z Cimmerie I.
+
+---
+
+## 🕐 2026-11-12 14:59:25 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Poznámky z Ukrajiny III: Židle pro nezvěstné a plný hřbitov
+
+---
+
 ## 🕐 2026-11-11 13:58:48 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -250,100 +297,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Příběh o mistrech nápodoby
-
----
-
-## 🕐 2026-11-05 14:28:33 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Obrázky ze staré české Sydney
-2. Vlídná povzbuzení na každý den
-3. Laskavé slovo na každý den
-4. Šťastné a zadané
-5. Království ohně a osudu
-6. Skleněná lebka
-7. Rezonance
-8. Nepřátelé s výhodami
-9. Stín bohyně
-10. Svět podle Ašéry
-11. Hry a výchova v přírodě
-12. Dárek nad dárky
-13. Puer Aeternus
-14. Stmívá se brzy
-15. V bojovém režimu
-16. Lékaři pod pěti kruhy: Rozhodnutí bez aplausu
-17. Za gorilami a delfíny aneb křížem krážem východní Afrikou
-18. Mont Ventoux, Za vrcholky Tour De France
-19. Tyhle místa ze mě nesedřeš
-20. Stoikův průvodce pro každý den
-
----
-
-## 🕐 2026-11-05 14:28:32 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Poznámky z Ukrajiny II: Byl jednou jeden dům
-
----
-
-## 🕐 2026-11-04 14:15:06 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Lišák Zrzoun, velký lump a drzoun
-2. Ďáblova pevnost
-3. Evangelium podle Matouše
-4. Trampoty malinkého kotěte – Oslava narozenin
-5. Zlatá kniha komiksů
-6. Cringe klub
-7. Moderní učebnice hry na kytaru
-8. Návesní kaple jižních Čech a přilehlé Moravy II.1.
-9. Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži
-10. Amálka a pihy
-11. Hynek a mravenci
-12. Základy neurověd
-13. Býčí hora
-14. Pan
-15. Hravá písanka 1-1. díl
-16. Noční vrabčák
-17. Maggie Smrtivzdorná: Království, které mě nezabije
-18. Jistě, pane ministře 2.
-19. Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden.
-20. Chvíle, kdy přicházíš
-
----
-
-## 🕐 2026-11-04 14:15:05 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Jak se točí obrazy moravského folkloru
 
 ---
 
