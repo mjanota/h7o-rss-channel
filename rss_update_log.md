@@ -5,6 +5,47 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-14 13:21:29 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 18
+
+**Tituly nových položek:**
+
+1. Svatá chvíle
+2. S kým by Amélie nechodila
+3. Umění a síla diplomacie
+4. Naslouchejte svému dítěti
+5. New York
+6. Státověda. Stát. Jednotlivec. Konstitucionalismus
+7. My girl: Radost s tebou žít 3
+8. Bastard 2
+9. Batman 1: Nový den
+10. Barva z kosmu H. P. Lovecrafta
+11. Simpsonovi: Komiksová fofrovačka
+12. One Piece 18: Přichází Ace
+13. Medailistka 4
+14. Stitch a samuraj 2
+15. Černá ambrozie
+16. Rozhovory o vzdělávací politice
+17. Rýmy, které potají jezdívaly tramvají
+18. TraDiář 2027
+
+---
+
+## 🕐 2026-11-14 13:21:28 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-13 14:25:20 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -259,38 +300,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-11-08 13:10:40 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-11-07 12:49:42 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 9
-
-**Tituly nových položek:**
-
-1. Rabín, kněz a černovláska
-2. Jak se narodila moje sestřička
-3. Černá vdovám nesluší
-4. První v cíli
-5. Divoké automobilové devadesátky
-6. Odpouštění
-7. Tajemství Pomněnkové knihovny
-8. Nejen české tradice Bavorovské hospodyňky
-9. Infekce
-
----
-
-## 🕐 2026-11-07 12:49:41 UTC
 
 **Zdroj:** H7O - Časopis Host
 
