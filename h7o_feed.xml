@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:48:43 +0000</lastBuildDate>
     <item>
       <title>Najít vlastní krok</title>
       <link>https://www.h7o.cz/clanky/14651-najit-vlastni-krok</link>
@@ -441,13 +441,6 @@
       <description>Nizozemské urbanistické plánování je známé konceptem „autoluw“, který lze popsat jako ulice, kde má auto až poslední místo. Nejedná se o pěší zóny, ale o ulice, kde je pořadí priorit ve veřejném prostoru obráceno zcela opačně. Text přinášíme ve spolupráci se slovenským internetovým deníkem Kapitál.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marginalizace překladů, optimalizace nákladů</title>
-      <link>https://www.h7o.cz/clanky/14583-marginalizace-prekladu-optimalizace-nakladu</link>
-      <description>Anna Štádlerová patří mezi nejtalentovanější překladatelky své generace, letos na jaře získala Magnesii Literu za převod románu „Slavné časy“ NoViolet Bulawayo. Je také absolventkou Ústavu translatologie FF UK, který nyní vedení fakulty chce kontroverzně zrušit. V rozhovoru si povídáme o jejím…</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14583-marginalizace-prekladu-optimalizace-nakladu</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

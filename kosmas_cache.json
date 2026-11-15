@@ -1,5 +1,141 @@
 [
   {
+    "title": "Hex 3: Černý trůn",
+    "url": "https://www.kosmas.cz/knihy/575314/hex-3-cerny-trun/",
+    "description": "Hex 3: Černý trůn - Zuzana Strachotová, Tomáš Košek",
+    "authors": [
+      "Zuzana Strachotová",
+      "Tomáš Košek"
+    ],
+    "date": "2026-11-15T13:48:43.697343+00:00"
+  },
+  {
+    "title": "Jak vycvičit draka",
+    "url": "https://www.kosmas.cz/knihy/575449/jak-vycvicit-draka/",
+    "description": "Jak vycvičit draka - Cressida Cowellová",
+    "authors": [
+      "Cressida Cowellová"
+    ],
+    "date": "2026-11-15T13:48:42.697343+00:00"
+  },
+  {
+    "title": "Jak vycvičit draka: Jak správně mluvit dracky",
+    "url": "https://www.kosmas.cz/knihy/575452/jak-vycvicit-draka-jak-spravne-mluvit-dracky/",
+    "description": "Jak vycvičit draka: Jak správně mluvit dracky - Cressida Cowellová",
+    "authors": [
+      "Cressida Cowellová"
+    ],
+    "date": "2026-11-15T13:48:41.697343+00:00"
+  },
+  {
+    "title": "Jak vycvičit draka: Jak zlomit dračí prokletí",
+    "url": "https://www.kosmas.cz/knihy/575454/jak-vycvicit-draka-jak-zlomit-draci-prokleti/",
+    "description": "Jak vycvičit draka: Jak zlomit dračí prokletí - Cressida Cowellová",
+    "authors": [
+      "Cressida Cowellová"
+    ],
+    "date": "2026-11-15T13:48:40.697343+00:00"
+  },
+  {
+    "title": "Nekonečné končiny (Píseň utonulých bohů)",
+    "url": "https://www.kosmas.cz/knihy/575455/nekonecne-konciny-pisen-utonulych-bohu/",
+    "description": "Nekonečné končiny (Píseň utonulých bohů) - Pascale Lacelle",
+    "authors": [
+      "Pascale Lacelle"
+    ],
+    "date": "2026-11-15T13:48:39.697343+00:00"
+  },
+  {
+    "title": "Stříbrná metalíza",
+    "url": "https://www.kosmas.cz/knihy/576065/stribrna-metaliza/",
+    "description": "Stříbrná metalíza - Tomáš Hučko",
+    "authors": [
+      "Tomáš Hučko"
+    ],
+    "date": "2026-11-15T13:48:38.697343+00:00"
+  },
+  {
+    "title": "Deník všedního smutku",
+    "url": "https://www.kosmas.cz/knihy/575229/denik-vsedniho-smutku/",
+    "description": "Deník všedního smutku - Mahmúd Darwíš",
+    "authors": [
+      "Mahmúd Darwíš"
+    ],
+    "date": "2026-11-15T13:48:37.697343+00:00"
+  },
+  {
+    "title": "Spoután v čepeli - Upíři z Chicaga 13",
+    "url": "https://www.kosmas.cz/knihy/575317/spoutan-v-cepeli-upiri-z-chicaga-13/",
+    "description": "Spoután v čepeli - Upíři z Chicaga 13 - Chloe Neill",
+    "authors": [
+      "Chloe Neill"
+    ],
+    "date": "2026-11-15T13:48:36.697343+00:00"
+  },
+  {
+    "title": "Sni dál, Ramono Rileyová",
+    "url": "https://www.kosmas.cz/knihy/575318/sni-dal-ramono-rileyova/",
+    "description": "Sni dál, Ramono Rileyová - Ashley Herring Blake",
+    "authors": [
+      "Ashley Herring Blake"
+    ],
+    "date": "2026-11-15T13:48:35.697343+00:00"
+  },
+  {
+    "title": "Jak vycvičit draka: Jak se stát pirátem",
+    "url": "https://www.kosmas.cz/knihy/575451/jak-vycvicit-draka-jak-se-stat-piratem/",
+    "description": "Jak vycvičit draka: Jak se stát pirátem - Cressida Cowellová",
+    "authors": [
+      "Cressida Cowellová"
+    ],
+    "date": "2026-11-15T13:48:34.697343+00:00"
+  },
+  {
+    "title": "Zakletá",
+    "url": "https://www.kosmas.cz/knihy/575458/zakleta/",
+    "description": "Zakletá - Laura Thalassa",
+    "authors": [
+      "Laura Thalassa"
+    ],
+    "date": "2026-11-15T13:48:33.697343+00:00"
+  },
+  {
+    "title": "Praprázdniny",
+    "url": "https://www.kosmas.cz/knihy/571603/praprazdniny/",
+    "description": "Praprázdniny - Ivona Březinová",
+    "authors": [
+      "Ivona Březinová"
+    ],
+    "date": "2026-11-15T13:48:32.697343+00:00"
+  },
+  {
+    "title": "Začátek, co nekončí",
+    "url": "https://www.kosmas.cz/knihy/571654/zacatek-co-nekonci/",
+    "description": "Začátek, co nekončí - Corinne Heyrman",
+    "authors": [
+      "Corinne Heyrman"
+    ],
+    "date": "2026-11-15T13:48:31.697343+00:00"
+  },
+  {
+    "title": "A svět byl mladý",
+    "url": "https://www.kosmas.cz/knihy/535801/a-svet-byl-mlady/",
+    "description": "A svět byl mladý - Carmen Kornová",
+    "authors": [
+      "Carmen Kornová"
+    ],
+    "date": "2026-11-15T13:48:30.697343+00:00"
+  },
+  {
+    "title": "Temný eros",
+    "url": "https://www.kosmas.cz/knihy/571679/temny-eros/",
+    "description": "Temný eros - Thomas Moore",
+    "authors": [
+      "Thomas Moore"
+    ],
+    "date": "2026-11-15T13:48:29.697343+00:00"
+  },
+  {
     "title": "Svatá chvíle",
     "url": "https://www.kosmas.cz/knihy/564906/svata-chvile/",
     "description": "Svatá chvíle - Honza Vojtko",
@@ -1694,140 +1830,5 @@
       "Michael W Clune"
     ],
     "date": "2026-11-04T14:14:53.657305+00:00"
-  },
-  {
-    "title": "Hravá písanka 1-1. díl",
-    "url": "https://www.kosmas.cz/knihy/571257/hrava-pisanka-1-1.-dil/",
-    "description": "Hravá písanka 1-1. díl",
-    "authors": [],
-    "date": "2026-11-04T14:14:52.657305+00:00"
-  },
-  {
-    "title": "Noční vrabčák",
-    "url": "https://www.kosmas.cz/knihy/571336/nocni-vrabcak/",
-    "description": "Noční vrabčák - Shelly Sandersová",
-    "authors": [
-      "Shelly Sandersová"
-    ],
-    "date": "2026-11-04T14:14:51.657305+00:00"
-  },
-  {
-    "title": "Maggie Smrtivzdorná: Království, které mě nezabije",
-    "url": "https://www.kosmas.cz/knihy/571338/maggie-smrtivzdorna-kralovstvi-ktere-me-nezabije/",
-    "description": "Maggie Smrtivzdorná: Království, které mě nezabije - Ilona Andrews",
-    "authors": [
-      "Ilona Andrews"
-    ],
-    "date": "2026-11-04T14:14:50.657305+00:00"
-  },
-  {
-    "title": "Jistě, pane ministře 2.",
-    "url": "https://www.kosmas.cz/knihy/565964/jiste-pane-ministre-2/",
-    "description": "Jistě, pane ministře 2. - Antony Jay, Jonathan Lynn",
-    "authors": [
-      "Antony Jay",
-      "Jonathan Lynn"
-    ],
-    "date": "2026-11-04T14:14:49.657305+00:00"
-  },
-  {
-    "title": "Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden.",
-    "url": "https://www.kosmas.cz/knihy/574703/kalendarium.-52-tydnu-pribehu-z-ceskych-dejin.-kazdy-den-jeden/",
-    "description": "Kalendárium. 52 týdnů příběhů z českých dějin. Každý den jeden. - Jonáš Drobík",
-    "authors": [
-      "Jonáš Drobík"
-    ],
-    "date": "2026-11-04T14:14:48.657305+00:00"
-  },
-  {
-    "title": "Chvíle, kdy přicházíš",
-    "url": "https://www.kosmas.cz/knihy/575277/chvile-kdy-prichazis/",
-    "description": "Chvíle, kdy přicházíš - Anežka Wiewiorková",
-    "authors": [
-      "Anežka Wiewiorková"
-    ],
-    "date": "2026-11-04T14:14:47.657305+00:00"
-  },
-  {
-    "title": "Kráskozvíře",
-    "url": "https://www.kosmas.cz/knihy/575218/kraskozvire/",
-    "description": "Kráskozvíře - Aleš T. Rájský",
-    "authors": [
-      "Aleš T. Rájský"
-    ],
-    "date": "2026-11-03T13:59:21.808974+00:00"
-  },
-  {
-    "title": "Barmanka a jiné povídky",
-    "url": "https://www.kosmas.cz/knihy/575334/barmanka-a-jine-povidky/",
-    "description": "Barmanka a jiné povídky - Kamila Holásková",
-    "authors": [
-      "Kamila Holásková"
-    ],
-    "date": "2026-11-03T13:59:20.808974+00:00"
-  },
-  {
-    "title": "Tajemství staré fotografie",
-    "url": "https://www.kosmas.cz/knihy/574699/tajemstvi-stare-fotografie/",
-    "description": "Tajemství staré fotografie - Pavla Plachá",
-    "authors": [
-      "Pavla Plachá"
-    ],
-    "date": "2026-11-03T13:59:19.808974+00:00"
-  },
-  {
-    "title": "Synopse mého života",
-    "url": "https://www.kosmas.cz/knihy/574724/synopse-meho-zivota/",
-    "description": "Synopse mého života - Jiří Kárnet",
-    "authors": [
-      "Jiří Kárnet"
-    ],
-    "date": "2026-11-03T13:59:18.808974+00:00"
-  },
-  {
-    "title": "Koktavé strašidlo",
-    "url": "https://www.kosmas.cz/knihy/574827/koktave-strasidlo/",
-    "description": "Koktavé strašidlo - Miloslav Švandrlík",
-    "authors": [
-      "Miloslav Švandrlík"
-    ],
-    "date": "2026-11-03T13:59:17.808974+00:00"
-  },
-  {
-    "title": "Karibské tajemství",
-    "url": "https://www.kosmas.cz/knihy/574940/karibske-tajemstvi/",
-    "description": "Karibské tajemství - Agatha Christie",
-    "authors": [
-      "Agatha Christie"
-    ],
-    "date": "2026-11-03T13:59:16.808974+00:00"
-  },
-  {
-    "title": "Deníky apatykářky 7",
-    "url": "https://www.kosmas.cz/knihy/575036/deniky-apatykarky-7/",
-    "description": "Deníky apatykářky 7 - Nacu Hjúga, Icuki Nanao",
-    "authors": [
-      "Nacu Hjúga",
-      "Icuki Nanao"
-    ],
-    "date": "2026-11-03T13:59:15.808974+00:00"
-  },
-  {
-    "title": "Vysoké otáčky",
-    "url": "https://www.kosmas.cz/knihy/575043/vysoke-otacky/",
-    "description": "Vysoké otáčky - Lauren Asher",
-    "authors": [
-      "Lauren Asher"
-    ],
-    "date": "2026-11-03T13:59:14.808974+00:00"
-  },
-  {
-    "title": "Zvláštní druh a jiné příběhy",
-    "url": "https://www.kosmas.cz/knihy/575618/zvlastni-druh-a-jine-pribehy/",
-    "description": "Zvláštní druh a jiné příběhy - Thomas Ha",
-    "authors": [
-      "Thomas Ha"
-    ],
-    "date": "2026-11-03T13:59:13.808974+00:00"
   }
 ]
