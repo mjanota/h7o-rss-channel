@@ -1,5 +1,146 @@
 [
   {
+    "title": "Odhalení",
+    "url": "https://www.kosmas.cz/knihy/576273/odhaleni/",
+    "description": "Odhalení - Wim Hof",
+    "authors": [
+      "Wim Hof"
+    ],
+    "date": "2026-11-16T15:31:08.946165+00:00"
+  },
+  {
+    "title": "Bridgertonovi – oficiální kuchařka",
+    "url": "https://www.kosmas.cz/knihy/576605/bridgertonovi-oficialni-kucharka/",
+    "description": "Bridgertonovi – oficiální kuchařka - Regula Ysewijn",
+    "authors": [
+      "Regula Ysewijn"
+    ],
+    "date": "2026-11-16T15:31:03.946165+00:00"
+  },
+  {
+    "title": "První krok",
+    "url": "https://www.kosmas.cz/knihy/573635/prvni-krok/",
+    "description": "První krok - Marie Horovitzová, Lenka Nora Návorková",
+    "authors": [
+      "Marie Horovitzová",
+      "Lenka Nora Návorková"
+    ],
+    "date": "2026-11-16T15:31:02.946165+00:00"
+  },
+  {
+    "title": "Horkovzdušná 2",
+    "url": "https://www.kosmas.cz/knihy/575692/horkovzdusna-2/",
+    "description": "Horkovzdušná 2 - Barbora Charvátová",
+    "authors": [
+      "Barbora Charvátová"
+    ],
+    "date": "2026-11-16T15:31:01.946165+00:00"
+  },
+  {
+    "title": "Zdravá a chutná strava při onemocnění srdce a cév",
+    "url": "https://www.kosmas.cz/knihy/575702/zdrava-a-chutna-strava-pri-onemocneni-srdce-a-cev/",
+    "description": "Zdravá a chutná strava při onemocnění srdce a cév - Andrea Flemmer",
+    "authors": [
+      "Andrea Flemmer"
+    ],
+    "date": "2026-11-16T15:31:00.946165+00:00"
+  },
+  {
+    "title": "Zubatý deník",
+    "url": "https://www.kosmas.cz/knihy/574654/zubaty-denik/",
+    "description": "Zubatý deník - Kateřina Bartoňková, Veronika Vávrová",
+    "authors": [
+      "Kateřina Bartoňková",
+      "Veronika Vávrová"
+    ],
+    "date": "2026-11-16T15:30:58.946165+00:00"
+  },
+  {
+    "title": "Někdo to udělat musel",
+    "url": "https://www.kosmas.cz/knihy/576662/nekdo-to-udelat-musel/",
+    "description": "Někdo to udělat musel - Radka Třeštíková, Velikovsky",
+    "authors": [
+      "Radka Třeštíková",
+      "Velikovsky"
+    ],
+    "date": "2026-11-16T15:30:57.946165+00:00"
+  },
+  {
+    "title": "Ze 150 kg k Ironman",
+    "url": "https://www.kosmas.cz/knihy/574617/ze-150-kg-k-ironman/",
+    "description": "Ze 150 kg k Ironman - Kateřina Křížová",
+    "authors": [
+      "Kateřina Křížová"
+    ],
+    "date": "2026-11-16T15:30:56.946165+00:00"
+  },
+  {
+    "title": "Koruna z peří",
+    "url": "https://www.kosmas.cz/knihy/575666/koruna-z-peri/",
+    "description": "Koruna z peří - Nicki Pau Preto",
+    "authors": [
+      "Nicki Pau Preto"
+    ],
+    "date": "2026-11-16T15:30:55.946165+00:00"
+  },
+  {
+    "title": "Láska jiskří sněhem",
+    "url": "https://www.kosmas.cz/knihy/576667/laska-jiskri-snehem/",
+    "description": "Láska jiskří sněhem - Misty Wilson",
+    "authors": [
+      "Misty Wilson"
+    ],
+    "date": "2026-11-16T15:30:54.946165+00:00"
+  },
+  {
+    "title": "Puncovaný muž",
+    "url": "https://www.kosmas.cz/knihy/574423/puncovany-muz/",
+    "description": "Puncovaný muž - Robert Galbraith",
+    "authors": [
+      "Robert Galbraith"
+    ],
+    "date": "2026-11-16T15:30:53.946165+00:00"
+  },
+  {
+    "title": "Klášterní práce",
+    "url": "https://www.kosmas.cz/knihy/576669/klasterni-prace/",
+    "description": "Klášterní práce - Barbara Baumann, Trudi Ziegler-Baumann",
+    "authors": [
+      "Barbara Baumann",
+      "Trudi Ziegler-Baumann"
+    ],
+    "date": "2026-11-16T15:30:52.946165+00:00"
+  },
+  {
+    "title": "Aby škola dávala smysl",
+    "url": "https://www.kosmas.cz/knihy/576670/aby-skola-davala-smysl/",
+    "description": "Aby škola dávala smysl - Štěpánka Cimlová, Robert Čapek, Robert Čapek",
+    "authors": [
+      "Štěpánka Cimlová",
+      "Robert Čapek",
+      "Robert Čapek"
+    ],
+    "date": "2026-11-16T15:30:51.946165+00:00"
+  },
+  {
+    "title": "Nero",
+    "url": "https://www.kosmas.cz/knihy/575750/nero/",
+    "description": "Nero - Conn Iggulden",
+    "authors": [
+      "Conn Iggulden"
+    ],
+    "date": "2026-11-16T15:30:50.946165+00:00"
+  },
+  {
+    "title": "Nazí se vody nebojí",
+    "url": "https://www.kosmas.cz/knihy/575459/nazi-se-vody-neboji/",
+    "description": "Nazí se vody nebojí - Matthieu Aikins",
+    "authors": [
+      "Matthieu Aikins"
+    ],
+    "date": "2026-11-16T15:30:49.946165+00:00"
+  },
+  {
     "title": "Hex 3: Černý trůn",
     "url": "https://www.kosmas.cz/knihy/575314/hex-3-cerny-trun/",
     "description": "Hex 3: Černý trůn - Zuzana Strachotová, Tomáš Košek",
@@ -1691,144 +1832,5 @@
       "Anna Beata Háblová"
     ],
     "date": "2026-11-05T14:28:15.288373+00:00"
-  },
-  {
-    "title": "Stoikův průvodce pro každý den",
-    "url": "https://www.kosmas.cz/knihy/573557/stoikuv-pruvodce-pro-kazdy-den/",
-    "description": "Stoikův průvodce pro každý den - Ryan Holiday",
-    "authors": [
-      "Ryan Holiday"
-    ],
-    "date": "2026-11-05T14:28:14.288373+00:00"
-  },
-  {
-    "title": "Lišák Zrzoun, velký lump a drzoun",
-    "url": "https://www.kosmas.cz/knihy/575647/lisak-zrzoun-velky-lump-a-drzoun/",
-    "description": "Lišák Zrzoun, velký lump a drzoun - Jeremiáš Dudek, Oskar Straka",
-    "authors": [
-      "Jeremiáš Dudek",
-      "Oskar Straka"
-    ],
-    "date": "2026-11-04T14:15:06.657305+00:00"
-  },
-  {
-    "title": "Ďáblova pevnost",
-    "url": "https://www.kosmas.cz/knihy/575686/dablova-pevnost/",
-    "description": "Ďáblova pevnost - Juraj Červenák",
-    "authors": [
-      "Juraj Červenák"
-    ],
-    "date": "2026-11-04T14:15:05.657305+00:00"
-  },
-  {
-    "title": "Evangelium podle Matouše",
-    "url": "https://www.kosmas.cz/knihy/574905/evangelium-podle-matouse/",
-    "description": "Evangelium podle Matouše - Ladislav Heryán",
-    "authors": [
-      "Ladislav Heryán"
-    ],
-    "date": "2026-11-04T14:15:04.657305+00:00"
-  },
-  {
-    "title": "Trampoty malinkého kotěte – Oslava narozenin",
-    "url": "https://www.kosmas.cz/knihy/575283/trampoty-malinkeho-kotete-oslava-narozenin/",
-    "description": "Trampoty malinkého kotěte – Oslava narozenin - Maddy Mara",
-    "authors": [
-      "Maddy Mara"
-    ],
-    "date": "2026-11-04T14:15:03.657305+00:00"
-  },
-  {
-    "title": "Zlatá kniha komiksů",
-    "url": "https://www.kosmas.cz/knihy/575286/zlata-kniha-komiksu/",
-    "description": "Zlatá kniha komiksů - Václav Šorel",
-    "authors": [
-      "Václav Šorel"
-    ],
-    "date": "2026-11-04T14:15:02.657305+00:00"
-  },
-  {
-    "title": "Cringe klub",
-    "url": "https://www.kosmas.cz/knihy/575291/cringe-klub/",
-    "description": "Cringe klub - Emily-Jane Clark",
-    "authors": [
-      "Emily-Jane Clark"
-    ],
-    "date": "2026-11-04T14:15:01.657305+00:00"
-  },
-  {
-    "title": "Moderní učebnice hry na kytaru",
-    "url": "https://www.kosmas.cz/knihy/575323/moderni-ucebnice-hry-na-kytaru/",
-    "description": "Moderní učebnice hry na kytaru - Michaela Medek",
-    "authors": [
-      "Michaela Medek"
-    ],
-    "date": "2026-11-04T14:15:00.657305+00:00"
-  },
-  {
-    "title": "Návesní kaple jižních Čech a přilehlé Moravy II.1.",
-    "url": "https://www.kosmas.cz/knihy/576018/navesni-kaple-jiznich-cech-a-prilehle-moravy-ii.1/",
-    "description": "Návesní kaple jižních Čech a přilehlé Moravy II.1. - Pavel Hájek, Zdenka Paloušová",
-    "authors": [
-      "Pavel Hájek",
-      "Zdenka Paloušová"
-    ],
-    "date": "2026-11-04T14:14:59.657305+00:00"
-  },
-  {
-    "title": "Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži",
-    "url": "https://www.kosmas.cz/knihy/576019/portretni-miniatury-ve-sbirkach-narodniho-pamatkoveho-ustavu-uzemni---kromerizi/",
-    "description": "Portrétní miniatury ve sbírkách Národního památkového ústavu, územní památkové správy v Kroměříži - Ludmila Ourodová-Hronková, Olga Trmalová, Lenka Vaňková",
-    "authors": [
-      "Ludmila Ourodová-Hronková",
-      "Olga Trmalová",
-      "Lenka Vaňková"
-    ],
-    "date": "2026-11-04T14:14:58.657305+00:00"
-  },
-  {
-    "title": "Amálka a pihy",
-    "url": "https://www.kosmas.cz/knihy/575056/amalka-a-pihy/",
-    "description": "Amálka a pihy - David Vacke",
-    "authors": [
-      "David Vacke"
-    ],
-    "date": "2026-11-04T14:14:57.657305+00:00"
-  },
-  {
-    "title": "Hynek a mravenci",
-    "url": "https://www.kosmas.cz/knihy/575057/hynek-a-mravenci/",
-    "description": "Hynek a mravenci - David Vacke",
-    "authors": [
-      "David Vacke"
-    ],
-    "date": "2026-11-04T14:14:56.657305+00:00"
-  },
-  {
-    "title": "Základy neurověd",
-    "url": "https://www.kosmas.cz/knihy/576034/zaklady-neuroved/",
-    "description": "Základy neurověd - Jaromír Mysliveček",
-    "authors": [
-      "Jaromír Mysliveček"
-    ],
-    "date": "2026-11-04T14:14:55.657305+00:00"
-  },
-  {
-    "title": "Býčí hora",
-    "url": "https://www.kosmas.cz/knihy/576130/byci-hora/",
-    "description": "Býčí hora - Brian Panowich",
-    "authors": [
-      "Brian Panowich"
-    ],
-    "date": "2026-11-04T14:14:54.657305+00:00"
-  },
-  {
-    "title": "Pan",
-    "url": "https://www.kosmas.cz/knihy/576131/pan/",
-    "description": "Pan - Michael W Clune",
-    "authors": [
-      "Michael W Clune"
-    ],
-    "date": "2026-11-04T14:14:53.657305+00:00"
   }
 ]

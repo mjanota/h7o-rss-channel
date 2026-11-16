@@ -1,13 +1,5 @@
 [
   {
-    "title": "Je snazší si představit zánik města než město bez aut",
-    "url": "https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut",
-    "description": "Nizozemské urbanistické plánování je známé konceptem „autoluw“, který lze popsat jako ulice, kde má auto až poslední místo. Nejedná se o pěší zóny, ale o ulice, kde je pořadí priorit ve veřejném prostoru obráceno zcela opačně. Text přinášíme ve spolupráci se slovenským internetovým deníkem Kapitál.",
-    "date": "2026-08-18T00:00:00",
-    "author": "Matúš Lupták",
-    "category": "téma"
-  },
-  {
     "title": "Kniha, která zachraňuje literaturu",
     "url": "https://www.h7o.cz/clanky/14585-kniha-ktera-zachranuje-literaturu",
     "description": "Na konci května vyšel třicátý druhý svazek edice Revolver Revue „Jedna věta“. Přináší záznamy římskokatolického kněze a publicisty Petra Beneše. Knihu recenzuje šéfredaktor nakladatelství Portál Martin Bedřich.",
@@ -494,5 +486,13 @@
     "date": "2026-11-13T00:00:00",
     "author": "Barbora Mrázová",
     "category": "recenze"
+  },
+  {
+    "title": "Klímovské legendy mají tuhý život",
+    "url": "https://www.h7o.cz/clanky/14652-klimovske-legendy-maji-tuhy-zivot",
+    "description": "V nakladatelství Torst letos vyšel poslední svazek „Sebraných spisů Ladislava Klímy“, věnovaný jeho dramatické tvorbě. S editorkou edice Erikou Abrams hovoříme o vydávání, překládání i objevování Klímových textů.",
+    "date": "2026-11-16T00:00:00",
+    "author": "Kryštof Kočtář",
+    "category": "rozhovor"
   }
 ]

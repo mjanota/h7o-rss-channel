@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:31:08 +0000</lastBuildDate>
+    <item>
+      <title>Klímovské legendy mají tuhý život</title>
+      <link>https://www.h7o.cz/clanky/14652-klimovske-legendy-maji-tuhy-zivot</link>
+      <description>V nakladatelství Torst letos vyšel poslední svazek „Sebraných spisů Ladislava Klímy“, věnovaný jeho dramatické tvorbě. S editorkou edice Erikou Abrams hovoříme o vydávání, překládání i objevování Klímových textů.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14652-klimovske-legendy-maji-tuhy-zivot</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Najít vlastní krok</title>
       <link>https://www.h7o.cz/clanky/14651-najit-vlastni-krok</link>
@@ -434,13 +441,6 @@
       <description>Na konci května vyšel třicátý druhý svazek edice Revolver Revue „Jedna věta“. Přináší záznamy římskokatolického kněze a publicisty Petra Beneše. Knihu recenzuje šéfredaktor nakladatelství Portál Martin Bedřich.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14585-kniha-ktera-zachranuje-literaturu</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Je snazší si představit zánik města než město bez aut</title>
-      <link>https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut</link>
-      <description>Nizozemské urbanistické plánování je známé konceptem „autoluw“, který lze popsat jako ulice, kde má auto až poslední místo. Nejedná se o pěší zóny, ale o ulice, kde je pořadí priorit ve veřejném prostoru obráceno zcela opačně. Text přinášíme ve spolupráci se slovenským internetovým deníkem Kapitál.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14584-je-snazsi-si-predstavit-zanik-mesta-nez-mesto-bez-aut</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

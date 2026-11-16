@@ -5,6 +5,48 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-16 15:31:08 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 15
+
+**Tituly nových položek:**
+
+1. Odhalení
+2. Bridgertonovi – oficiální kuchařka
+3. První krok
+4. Horkovzdušná 2
+5. Zdravá a chutná strava při onemocnění srdce a cév
+6. Zubatý deník
+7. Někdo to udělat musel
+8. Ze 150 kg k Ironman
+9. Koruna z peří
+10. Láska jiskří sněhem
+11. Puncovaný muž
+12. Klášterní práce
+13. Aby škola dávala smysl
+14. Nero
+15. Nazí se vody nebojí
+
+---
+
+## 🕐 2026-11-16 15:31:08 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Klímovské legendy mají tuhý život
+
+---
+
 ## 🕐 2026-11-15 13:48:43 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
