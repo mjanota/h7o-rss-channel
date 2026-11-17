@@ -5,6 +5,32 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-17 15:50:56 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 3
+
+**Tituly nových položek:**
+
+1. Vizuální smog jako příležitost
+2. Kosmetická guasha
+3. Nepečená radost ze severu
+
+---
+
+## 🕐 2026-11-17 15:50:55 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-16 15:31:08 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -263,99 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Rod mužský (ne)životný
-
----
-
-## 🕐 2026-11-10 14:43:39 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Trezor
-2. Madam komisařka a zmizelý Angličan
-3. Madam komisařka a pomsta po letech
-4. Batoh plný strachů
-5. Mysl začíná smysly: Zvuky
-6. LEGO® Harry Potter™ Lekce kouzlení
-7. Asterix (01.) - Asterix z Galie
-8. Pivo po česku
-9. Nauč se kouzlit
-10. Dance Context Journal 2026 - Politikum v tanci
-11. Na vlastní kůži
-12. Takhle by Vánoce přece neměly vypadat...
-13. Království ohně a osudu
-14. Skleněná lebka
-15. Splněné touhy
-16. Rezonance
-17. Do nebe pojedeme trabantem
-18. Jdu s hlavou vztyčenou
-19. Splněný sen o F1
-20. Snít nestačí. Musíš letět!
-
----
-
-## 🕐 2026-11-10 14:43:39 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Optimistická apokalypsa. Bookerovu cenu poprvé získal autor sci-fi
-
----
-
-## 🕐 2026-11-09 15:56:40 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Šťastné a zadané
-2. BigTrip.cz: Cesta kolem světa
-3. Magic Mag from Prague 1
-4. Oremus
-5. Maturitní rok
-6. Až černokněžníkům praskne obruč
-7. Růže
-8. Pařížská tanečnice
-9. Tak jsem potkala jednoho chlápka…
-10. Tajné životy čísel
-11. Naslouchejte svému dítěti
-12. Tlukot srdce - Autobiografie
-13. Utajovane programy a patenty
-14. Správná pětka na Tajemných blatech
-15. Já, Claudius
-16. Vraždi všímavě na kraji světa
-17. Madam komisařka a pomsta po letech
-18. Madam komisařka a zmizelý Angličan
-19. Střeva v klidu, Jak dostat zažívací potíže pod kontrolu
-
----
-
-## 🕐 2026-11-09 15:56:39 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Geryonovská meditace
 
 ---
 
