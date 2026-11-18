@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-18 15:29:22 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Silesia Noir
+2. Bridgertonovi – oficiální kuchařka
+3. Josef Blecha 2 – Portréty a karikatury slavných tváří
+4. Hlasy zločinu: 15 příběhů
+5. Rodičovská úzkost
+6. Apollyon
+7. Lucky Luke: Volání Západu
+8. Vetřelec 2: Obrození
+9. Bleach 48: God is Dead
+10. Ztracená hvězda
+11. Ta hladová věc v mých snech
+12. Vánoce jako z pohádky
+13. Smrt krále oblohy
+14. Zabíječ
+15. Hotel Hamaka - Pěšky po Komorských ostrovech
+16. Klidný kout v rušné zemi, Zápisky ze Sečuánu
+17. Operace Skákací hrad
+18. MEMO 2026/1
+19. Bohemiae Occidentalis Historica 2026/1
+20. Když pero mění svět
+
+---
+
+## 🕐 2026-11-18 15:29:21 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Obvinění a vyšetřování Davida Walliamse
+
+---
+
 ## 🕐 2026-11-17 15:50:56 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,53 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Poznámky z Ukrajiny III: Židle pro nezvěstné a plný hřbitov
-
----
-
-## 🕐 2026-11-11 13:58:48 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Krev strážkyně, Fantaskní román z Krumlova
-2. Jak se Václav z Humpolce stal králem hašiše v Káthmándú
-3. Vila
-4. Dobrá smrt Lucie H.
-5. Ostrá slova
-6. Zvrácené pouto
-7. Velké a vzácné věci
-8. Naše věc
-9. Tajemství a výklad pohádek: O statečném kováři
-10. Jak okouzlit hraběte
-11. Smažák a další jídla, která máme rádi
-12. Aby byl táta zase veselej
-13. Jsem podvolená
-14. Zlobíš se na mě?
-15. Šerosvět
-16. Křehkost lidství
-17. Dědečku, vyprávěj o pečení
-18. Polární záře: Portálový strom – 1. část
-19. Alenka v říši idejí
-20. Kde ji ptáci volají jménem
-
----
-
-## 🕐 2026-11-11 13:58:46 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Rod mužský (ne)životný
 
 ---
 

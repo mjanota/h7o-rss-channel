@@ -1,13 +1,5 @@
 [
   {
-    "title": "Chtěla bych být básnířkou bez filtru",
-    "url": "https://www.h7o.cz/clanky/14586-chtela-bych-byt-basnirkou-bez-filtru",
-    "description": "Již za týden začíná v Ostravě každoroční festival Inverze. Letos na něj mimo jiné zavítá londýnská básnířka Sami Rhymes. Povídali jsme si o tom, proč je pro ni veršování formou terapie, o hledání vlastní identity, cenzuře i o tom, proč některé básně zkrátka musíte slyšet naživo.",
-    "date": "2026-08-20T00:00:00",
-    "author": "Ondřej Hrabal",
-    "category": "rozhovor"
-  },
-  {
     "title": "Jak uspět ve Frankfurtu",
     "url": "https://www.h7o.cz/clanky/14587-jak-uspet-ve-frankfurtu",
     "description": "Slovinsko patří k nejúspěšnějším čestným hostům knižního veletrhu ve Frankfurtu. Přípravu programu vedla Katja Stergar, která popisuje, jak jejich strategie vznikala, proč vsadili na osobní vztahy s německými nakladateli namísto velkých gest a co by doporučila Česku, které se na roli čestného hosta…",
@@ -486,5 +478,13 @@
     "date": "2026-11-16T00:00:00",
     "author": "Kryštof Kočtář",
     "category": "rozhovor"
+  },
+  {
+    "title": "Obvinění a vyšetřování Davida Walliamse",
+    "url": "https://www.h7o.cz/clanky/14653-obvineni-a-vysetrovani-davida-walliamse",
+    "description": "Populární autor dětských knih, komik a bestsellerista David Walliams ztrácí zastoupení i prodeje. Nedávná investigativa upozornila na jeho sexuální predátorství.",
+    "date": "2026-11-18T00:00:00",
+    "author": "Zdeněk Staszek",
+    "category": "zprávy"
   }
 ]

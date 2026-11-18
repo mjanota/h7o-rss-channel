@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:29:21 +0000</lastBuildDate>
+    <item>
+      <title>Obvinění a vyšetřování Davida Walliamse</title>
+      <link>https://www.h7o.cz/clanky/14653-obvineni-a-vysetrovani-davida-walliamse</link>
+      <description>Populární autor dětských knih, komik a bestsellerista David Walliams ztrácí zastoupení i prodeje. Nedávná investigativa upozornila na jeho sexuální predátorství.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14653-obvineni-a-vysetrovani-davida-walliamse</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Klímovské legendy mají tuhý život</title>
       <link>https://www.h7o.cz/clanky/14652-klimovske-legendy-maji-tuhy-zivot</link>
@@ -427,13 +434,6 @@
       <description>Slovinsko patří k nejúspěšnějším čestným hostům knižního veletrhu ve Frankfurtu. Přípravu programu vedla Katja Stergar, která popisuje, jak jejich strategie vznikala, proč vsadili na osobní vztahy s německými nakladateli namísto velkých gest a co by doporučila Česku, které se na roli čestného hosta…</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14587-jak-uspet-ve-frankfurtu</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chtěla bych být básnířkou bez filtru</title>
-      <link>https://www.h7o.cz/clanky/14586-chtela-bych-byt-basnirkou-bez-filtru</link>
-      <description>Již za týden začíná v Ostravě každoroční festival Inverze. Letos na něj mimo jiné zavítá londýnská básnířka Sami Rhymes. Povídali jsme si o tom, proč je pro ni veršování formou terapie, o hledání vlastní identity, cenzuře i o tom, proč některé básně zkrátka musíte slyšet naživo.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14586-chtela-bych-byt-basnirkou-bez-filtru</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
