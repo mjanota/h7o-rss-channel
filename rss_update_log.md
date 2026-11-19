@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-19 15:36:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Rebel s příčinou
+2. Výpravy decentního muže
+3. Zářivé a temné roky fyziky
+4. Ubongo Shimo
+5. Lišák a Zajda
+6. Skupinová arteterapie
+7. Viola
+8. Principiální neurčitost
+9. SEO v kostce pro manažery a majitele firem
+10. Velká kniha pověstí z Náchodska a Hronovska
+11. Válka snů
+12. Skryté poklady
+13. Klidně zpomal
+14. Jak spolu (lépe) vycházet
+15. Okamžiky štěstí
+16. Zachování paměti
+17. Malé muzeum fotografie
+18. Kočka, mandarín a hvězdy
+19. Černá zátoka
+20. Byliny & houby a jejich příznivé účinky
+
+---
+
+## 🕐 2026-11-19 15:36:54 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Poznámky z Ukrajiny IV: Pamětní deska Švejkovi kdesi v Haliči
+
+---
+
 ## 🕐 2026-11-18 15:29:22 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -242,53 +289,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Najít vlastní krok
-
----
-
-## 🕐 2026-11-12 14:59:26 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Jak se Honzík naučil zavazovat tkaničku
-2. Pod čarou
-3. Křídla snění
-4. Toulky první republikou 51–75
-5. Eleonora z Lobkovic
-6. Záhady slečny Ashfordové - Večírek v Toskánsku
-7. Domov pro Marťany
-8. Krysař
-9. Ledové střepy
-10. Dotek temnoty
-11. Diagnostika dítěte předškolního věku
-12. Marža z krvi
-13. (Ne)dokonalé vzpomínky
-14. O prynckovi
-15. Finská sauna
-16. Kočičí dny
-17. Kabala pro systémové inženýrství v éře AI
-18. Medvídek Pú - Plyšový deník
-19. K-pop: Boj s temnotou
-20. Conan z Cimmerie I.
-
----
-
-## 🕐 2026-11-12 14:59:25 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Poznámky z Ukrajiny III: Židle pro nezvěstné a plný hřbitov
 
 ---
 
