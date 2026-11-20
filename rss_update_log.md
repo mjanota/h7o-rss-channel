@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-20 15:16:37 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Hurvínkovy pohádky naruby
+2. Jak Hurvínek Sněhurku na hlavu postavil
+3. Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku
+4. Tajemství starých olomouckých domů a uliček
+5. Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou
+6. Bůh je ti, blbečku, svědkem
+7. Poslední z kovářů
+8. Hra osudu
+9. Ven
+10. Tlapková patrola - Dinosauří film -  Velké dinosauří dobrodružství
+11. DOGMA
+12. Všichni nad Zábudou
+13. Hacking mysli - Cesta k digitální demokracii
+14. Na rok v Londýně
+15. Divočina: Jsem do tebe blázen
+16. Láska mimo plán
+17. Kontexty 5/2026
+18. Aplikovaný elektromagnetizmus
+19. Maly prync
+20. Old Surehand I. - V Llanu Estacadu
+
+---
+
+## 🕐 2026-11-20 15:16:36 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Ticho zní jinak, když mlčí tři
+
+---
+
 ## 🕐 2026-11-19 15:36:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,52 +290,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-11-13 14:25:20 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 19
-
-**Tituly nových položek:**
-
-1. Iluze dobré smrti 2
-2. Šťastni až za hrob
-3. Sestry a zločinné spiknutí
-4. Smrtící společnost
-5. Spiknutí na hradě Gutštejně
-6. Viola
-7. Metro mrtvých
-8. Noční směna
-9. Hrozba z Heliosu
-10. Prometheova játra
-11. Formování filmařiny
-12. Apollyon
-13. Tíha
-14. Navždy s tebou
-15. Zajímavosti českých hranic: jižní hranice
-16. Řecké mýty: Od Titánů k Ikarovi a Odysseovi
-17. Reni, zrzavá Liška
-18. Vesničanky
-19. Prožij den jako fosilie, oheň či plíseň
-
----
-
-## 🕐 2026-11-13 14:25:18 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Najít vlastní krok
 
 ---
 

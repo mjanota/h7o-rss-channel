@@ -1,5 +1,184 @@
 [
   {
+    "title": "Hurvínkovy pohádky naruby",
+    "url": "https://www.kosmas.cz/knihy/575968/hurvinkovy-pohadky-naruby/",
+    "description": "Hurvínkovy pohádky naruby",
+    "authors": [],
+    "date": "2026-11-20T15:16:37.430152+00:00"
+  },
+  {
+    "title": "Jak Hurvínek Sněhurku na hlavu postavil",
+    "url": "https://www.kosmas.cz/knihy/576059/jak-hurvinek-snehurku-na-hlavu-postavil/",
+    "description": "Jak Hurvínek Sněhurku na hlavu postavil - Miloš Kirschner, Vladimír Straka, Vladimír Straka",
+    "authors": [
+      "Miloš Kirschner",
+      "Vladimír Straka",
+      "Vladimír Straka"
+    ],
+    "date": "2026-11-20T15:16:36.430152+00:00"
+  },
+  {
+    "title": "Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku",
+    "url": "https://www.kosmas.cz/knihy/576060/jak-hurvinek-s-manickou-prestaveli-pernikovou-chaloupku/",
+    "description": "Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku - Miloš Kirschner",
+    "authors": [
+      "Miloš Kirschner"
+    ],
+    "date": "2026-11-20T15:16:35.430152+00:00"
+  },
+  {
+    "title": "Tajemství starých olomouckých domů a uliček",
+    "url": "https://www.kosmas.cz/knihy/576621/tajemstvi-starych-olomouckych-domu-a-ulicek/",
+    "description": "Tajemství starých olomouckých domů a uliček - Karel Zámečníček",
+    "authors": [
+      "Karel Zámečníček"
+    ],
+    "date": "2026-11-20T15:16:34.430152+00:00"
+  },
+  {
+    "title": "Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou",
+    "url": "https://www.kosmas.cz/knihy/576119/tim-burton-ukradene-vanoce-stin-nad-dynovou-kralovnou/",
+    "description": "Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou - Megan Shepherdová",
+    "authors": [
+      "Megan Shepherdová"
+    ],
+    "date": "2026-11-20T15:16:33.430152+00:00"
+  },
+  {
+    "title": "Bůh je ti, blbečku, svědkem",
+    "url": "https://www.kosmas.cz/knihy/576637/buh-je-ti-blbecku-svedkem/",
+    "description": "Bůh je ti, blbečku, svědkem - Felix Zöllner",
+    "authors": [
+      "Felix Zöllner"
+    ],
+    "date": "2026-11-20T15:16:32.430152+00:00"
+  },
+  {
+    "title": "Poslední z kovářů",
+    "url": "https://www.kosmas.cz/knihy/576638/posledni-z-kovaru/",
+    "description": "Poslední z kovářů - Michael Grúz",
+    "authors": [
+      "Michael Grúz"
+    ],
+    "date": "2026-11-20T15:16:31.430152+00:00"
+  },
+  {
+    "title": "Hra osudu",
+    "url": "https://www.kosmas.cz/knihy/576125/hra-osudu/",
+    "description": "Hra osudu - Scarlett St. Clair",
+    "authors": [
+      "Scarlett St. Clair"
+    ],
+    "date": "2026-11-20T15:16:30.430152+00:00"
+  },
+  {
+    "title": "Ven",
+    "url": "https://www.kosmas.cz/knihy/576141/ven/",
+    "description": "Ven - Ker Dukey",
+    "authors": [
+      "Ker Dukey"
+    ],
+    "date": "2026-11-20T15:16:29.430152+00:00"
+  },
+  {
+    "title": "Tlapková patrola - Dinosauří film -  Velké dinosauří dobrodružství",
+    "url": "https://www.kosmas.cz/knihy/576150/tlapkova-patrola-dinosauri-film-velke-dinosauri-dobrodruzstvi/",
+    "description": "Tlapková patrola - Dinosauří film -  Velké dinosauří dobrodružství - kolektiv",
+    "authors": [
+      "kolektiv"
+    ],
+    "date": "2026-11-20T15:16:28.430152+00:00"
+  },
+  {
+    "title": "DOGMA",
+    "url": "https://www.kosmas.cz/knihy/576704/dogma/",
+    "description": "DOGMA - Vladimír Kokolia",
+    "authors": [
+      "Vladimír Kokolia"
+    ],
+    "date": "2026-11-20T15:16:27.430152+00:00"
+  },
+  {
+    "title": "Všichni nad Zábudou",
+    "url": "https://www.kosmas.cz/knihy/576706/vsichni-nad-zabudou/",
+    "description": "Všichni nad Zábudou - Ondřej Macura",
+    "authors": [
+      "Ondřej Macura"
+    ],
+    "date": "2026-11-20T15:16:26.430152+00:00"
+  },
+  {
+    "title": "Hacking mysli - Cesta k digitální demokracii",
+    "url": "https://www.kosmas.cz/knihy/573933/hacking-mysli-cesta-k-digitalni-demokracii/",
+    "description": "Hacking mysli - Cesta k digitální demokracii - Josef Holý",
+    "authors": [
+      "Josef Holý"
+    ],
+    "date": "2026-11-20T15:16:25.430152+00:00"
+  },
+  {
+    "title": "Na rok v Londýně",
+    "url": "https://www.kosmas.cz/knihy/576819/na-rok-v-londyne/",
+    "description": "Na rok v Londýně - Elle Kennedy",
+    "authors": [
+      "Elle Kennedy"
+    ],
+    "date": "2026-11-20T15:16:24.430152+00:00"
+  },
+  {
+    "title": "Divočina: Jsem do tebe blázen",
+    "url": "https://www.kosmas.cz/knihy/576871/divocina-jsem-do-tebe-blazen/",
+    "description": "Divočina: Jsem do tebe blázen - Kristen Proby",
+    "authors": [
+      "Kristen Proby"
+    ],
+    "date": "2026-11-20T15:16:23.430152+00:00"
+  },
+  {
+    "title": "Láska mimo plán",
+    "url": "https://www.kosmas.cz/knihy/576872/laska-mimo-plan/",
+    "description": "Láska mimo plán - Dana Topinková",
+    "authors": [
+      "Dana Topinková"
+    ],
+    "date": "2026-11-20T15:16:22.430152+00:00"
+  },
+  {
+    "title": "Kontexty 5/2026",
+    "url": "https://www.kosmas.cz/knihy/576873/kontexty-5-2026/",
+    "description": "Kontexty 5/2026",
+    "authors": [],
+    "date": "2026-11-20T15:16:21.430152+00:00"
+  },
+  {
+    "title": "Aplikovaný elektromagnetizmus",
+    "url": "https://www.kosmas.cz/knihy/576874/aplikovany-elektromagnetizmus/",
+    "description": "Aplikovaný elektromagnetizmus - Daniel Mayer",
+    "authors": [
+      "Daniel Mayer"
+    ],
+    "date": "2026-11-20T15:16:20.430152+00:00"
+  },
+  {
+    "title": "Maly prync",
+    "url": "https://www.kosmas.cz/knihy/576877/maly-prync/",
+    "description": "Maly prync - Martin Müller, Antoine de Saint-Exupéry",
+    "authors": [
+      "Martin Müller",
+      "Antoine de Saint-Exupéry"
+    ],
+    "date": "2026-11-20T15:16:19.430152+00:00"
+  },
+  {
+    "title": "Old Surehand I. - V Llanu Estacadu",
+    "url": "https://www.kosmas.cz/knihy/576886/old-surehand-i.-v-llanu-estacadu/",
+    "description": "Old Surehand I. - V Llanu Estacadu - Karel May",
+    "authors": [
+      "Karel May"
+    ],
+    "date": "2026-11-20T15:16:18.430152+00:00"
+  },
+  {
     "title": "Rebel s příčinou",
     "url": "https://www.kosmas.cz/knihy/574176/rebel-s-pricinou/",
     "description": "Rebel s příčinou - Petr Štěpánek",
@@ -1647,191 +1826,5 @@
       "Timothy Revell"
     ],
     "date": "2026-11-09T15:56:31.279577+00:00"
-  },
-  {
-    "title": "Naslouchejte svému dítěti",
-    "url": "https://www.kosmas.cz/knihy/576353/naslouchejte-svemu-diteti/",
-    "description": "Naslouchejte svému dítěti - Naomi Aldortová",
-    "authors": [
-      "Naomi Aldortová"
-    ],
-    "date": "2026-11-09T15:56:30.279577+00:00"
-  },
-  {
-    "title": "Tlukot srdce - Autobiografie",
-    "url": "https://www.kosmas.cz/knihy/576358/tlukot-srdce-autobiografie/",
-    "description": "Tlukot srdce - Autobiografie - Björn Borg, Patricia Borg",
-    "authors": [
-      "Björn Borg",
-      "Patricia Borg"
-    ],
-    "date": "2026-11-09T15:56:29.279577+00:00"
-  },
-  {
-    "title": "Utajovane programy a patenty",
-    "url": "https://www.kosmas.cz/knihy/576360/utajovane-programy-a-patenty/",
-    "description": "Utajovane programy a patenty - Jana Horkelová",
-    "authors": [
-      "Jana Horkelová"
-    ],
-    "date": "2026-11-09T15:56:28.279577+00:00"
-  },
-  {
-    "title": "Správná pětka na Tajemných blatech",
-    "url": "https://www.kosmas.cz/knihy/576363/spravna-petka-na-tajemnych-blatech/",
-    "description": "Správná pětka na Tajemných blatech - Enid Blytonová",
-    "authors": [
-      "Enid Blytonová"
-    ],
-    "date": "2026-11-09T15:56:27.279577+00:00"
-  },
-  {
-    "title": "Já, Claudius",
-    "url": "https://www.kosmas.cz/knihy/576364/ja-claudius/",
-    "description": "Já, Claudius - Robert Graves",
-    "authors": [
-      "Robert Graves"
-    ],
-    "date": "2026-11-09T15:56:26.279577+00:00"
-  },
-  {
-    "title": "Vraždi všímavě na kraji světa",
-    "url": "https://www.kosmas.cz/knihy/576366/vrazdi-vsimave-na-kraji-sveta/",
-    "description": "Vraždi všímavě na kraji světa - Karsten Dusse",
-    "authors": [
-      "Karsten Dusse"
-    ],
-    "date": "2026-11-09T15:56:24.279577+00:00"
-  },
-  {
-    "title": "Madam komisařka a pomsta po letech",
-    "url": "https://www.kosmas.cz/knihy/576367/madam-komisarka-a-pomsta-po-letech/",
-    "description": "Madam komisařka a pomsta po letech - Pierre Martin",
-    "authors": [
-      "Pierre Martin"
-    ],
-    "date": "2026-11-09T15:56:23.279577+00:00"
-  },
-  {
-    "title": "Madam komisařka a zmizelý Angličan",
-    "url": "https://www.kosmas.cz/knihy/576368/madam-komisarka-a-zmizely-anglican/",
-    "description": "Madam komisařka a zmizelý Angličan - Pierre Martin",
-    "authors": [
-      "Pierre Martin"
-    ],
-    "date": "2026-11-09T15:56:22.279577+00:00"
-  },
-  {
-    "title": "Střeva v klidu, Jak dostat zažívací potíže pod kontrolu",
-    "url": "https://www.kosmas.cz/knihy/576369/streva-v-klidu-jak-dostat-zazivaci-potize-pod-kontrolu/",
-    "description": "Střeva v klidu, Jak dostat zažívací potíže pod kontrolu - Ulrich Selz",
-    "authors": [
-      "Ulrich Selz"
-    ],
-    "date": "2026-11-09T15:56:21.279577+00:00"
-  },
-  {
-    "title": "Domácí strašidla",
-    "url": "https://www.kosmas.cz/knihy/574824/domaci-strasidla/",
-    "description": "Domácí strašidla - Eva Přikrylová, Vladimír Přikryl",
-    "authors": [
-      "Eva Přikrylová",
-      "Vladimír Přikryl"
-    ],
-    "date": "2026-11-08T13:10:41.204245+00:00"
-  },
-  {
-    "title": "Minus jedna",
-    "url": "https://www.kosmas.cz/knihy/576305/minus-jedna/",
-    "description": "Minus jedna - Tereza Sedláček",
-    "authors": [
-      "Tereza Sedláček"
-    ],
-    "date": "2026-11-08T13:10:29.204245+00:00"
-  },
-  {
-    "title": "Historky pod peřinou",
-    "url": "https://www.kosmas.cz/knihy/573936/historky-pod-perinou/",
-    "description": "Historky pod peřinou - Lucie Macháčková",
-    "authors": [
-      "Lucie Macháčková"
-    ],
-    "date": "2026-11-08T13:10:28.204245+00:00"
-  },
-  {
-    "title": "Šerosvět",
-    "url": "https://www.kosmas.cz/knihy/576308/serosvet/",
-    "description": "Šerosvět - Alex Aster",
-    "authors": [
-      "Alex Aster"
-    ],
-    "date": "2026-11-08T13:10:27.204245+00:00"
-  },
-  {
-    "title": "Bez rozloučení",
-    "url": "https://www.kosmas.cz/knihy/576315/bez-rozlouceni/",
-    "description": "Bez rozloučení - Harlan Coben, Reese Witherspoon",
-    "authors": [
-      "Harlan Coben",
-      "Reese Witherspoon"
-    ],
-    "date": "2026-11-08T13:10:25.204245+00:00"
-  },
-  {
-    "title": "Spartakus",
-    "url": "https://www.kosmas.cz/knihy/576317/spartakus/",
-    "description": "Spartakus - James Leslie Mitchell",
-    "authors": [
-      "James Leslie Mitchell"
-    ],
-    "date": "2026-11-08T13:10:24.204245+00:00"
-  },
-  {
-    "title": "Staromilcova panská kuchařka",
-    "url": "https://www.kosmas.cz/knihy/575414/staromilcova-panska-kucharka/",
-    "description": "Staromilcova panská kuchařka - Vítězslav Ivičič",
-    "authors": [
-      "Vítězslav Ivičič"
-    ],
-    "date": "2026-11-08T13:10:22.204245+00:00"
-  },
-  {
-    "title": "Rabín, kněz a černovláska",
-    "url": "https://www.kosmas.cz/knihy/576000/rabin-knez-a-cernovlaska/",
-    "description": "Rabín, kněz a černovláska - Kristina Cysařová, David Maxa, Marek Orko Vácha",
-    "authors": [
-      "Kristina Cysařová",
-      "David Maxa",
-      "Marek Orko Vácha"
-    ],
-    "date": "2026-11-07T12:49:41.028034+00:00"
-  },
-  {
-    "title": "Jak se narodila moje sestřička",
-    "url": "https://www.kosmas.cz/knihy/576006/jak-se-narodila-moje-sestricka/",
-    "description": "Jak se narodila moje sestřička - Milena Jeřábková",
-    "authors": [
-      "Milena Jeřábková"
-    ],
-    "date": "2026-11-07T12:49:40.028034+00:00"
-  },
-  {
-    "title": "Černá vdovám nesluší",
-    "url": "https://www.kosmas.cz/knihy/576047/cerna-vdovam-neslusi/",
-    "description": "Černá vdovám nesluší - Eva Francová, Veronika Hurdová",
-    "authors": [
-      "Eva Francová",
-      "Veronika Hurdová"
-    ],
-    "date": "2026-11-07T12:49:39.028034+00:00"
-  },
-  {
-    "title": "První v cíli",
-    "url": "https://www.kosmas.cz/knihy/576051/prvni-v-cili/",
-    "description": "První v cíli - Rebecca J. Caffery",
-    "authors": [
-      "Rebecca J. Caffery"
-    ],
-    "date": "2026-11-07T12:49:38.028034+00:00"
   }
 ]
