@@ -1,5 +1,87 @@
 [
   {
+    "title": "Courání po Plzni",
+    "url": "https://www.kosmas.cz/knihy/569322/courani-po-plzni/",
+    "description": "Courání po Plzni - kol.",
+    "authors": [
+      "kol."
+    ],
+    "date": "2026-11-21T14:30:05.602238+00:00"
+  },
+  {
+    "title": "Kostky 3",
+    "url": "https://www.kosmas.cz/knihy/564823/kostky-3/",
+    "description": "Kostky 3 - Kieron Gillen",
+    "authors": [
+      "Kieron Gillen"
+    ],
+    "date": "2026-11-21T14:30:04.602238+00:00"
+  },
+  {
+    "title": "Horizont snů",
+    "url": "https://www.kosmas.cz/knihy/576485/horizont-snu/",
+    "description": "Horizont snů - Petr Hlubuček",
+    "authors": [
+      "Petr Hlubuček"
+    ],
+    "date": "2026-11-21T14:30:03.602238+00:00"
+  },
+  {
+    "title": "Spřízněná setkání",
+    "url": "https://www.kosmas.cz/knihy/576639/spriznena-setkani/",
+    "description": "Spřízněná setkání - Roman Erben",
+    "authors": [
+      "Roman Erben"
+    ],
+    "date": "2026-11-21T14:29:59.602238+00:00"
+  },
+  {
+    "title": "Dohry",
+    "url": "https://www.kosmas.cz/knihy/576640/dohry/",
+    "description": "Dohry - Roman Erben",
+    "authors": [
+      "Roman Erben"
+    ],
+    "date": "2026-11-21T14:29:58.602238+00:00"
+  },
+  {
+    "title": "Stará a nová hnízda",
+    "url": "https://www.kosmas.cz/knihy/576648/stara-a-nova-hnizda/",
+    "description": "Stará a nová hnízda - Tomáš Král",
+    "authors": [
+      "Tomáš Král"
+    ],
+    "date": "2026-11-21T14:29:57.602238+00:00"
+  },
+  {
+    "title": "Odborná němčina pro školy se stavebním zaměřením",
+    "url": "https://www.kosmas.cz/knihy/576875/odborna-nemcina-pro-skoly-se-stavebnim-zamerenim/",
+    "description": "Odborná němčina pro školy se stavebním zaměřením - Hildegarda Dorčáková, Šárka Sedláčková",
+    "authors": [
+      "Hildegarda Dorčáková",
+      "Šárka Sedláčková"
+    ],
+    "date": "2026-11-21T14:29:49.602238+00:00"
+  },
+  {
+    "title": "Příchod Divočiny",
+    "url": "https://www.kosmas.cz/knihy/576876/prichod-divociny/",
+    "description": "Příchod Divočiny - Vladimír Poklop",
+    "authors": [
+      "Vladimír Poklop"
+    ],
+    "date": "2026-11-21T14:29:48.602238+00:00"
+  },
+  {
+    "title": "Angelika - Královské slavnosti",
+    "url": "https://www.kosmas.cz/knihy/576884/angelika-kralovske-slavnosti/",
+    "description": "Angelika - Královské slavnosti - Anne Golon",
+    "authors": [
+      "Anne Golon"
+    ],
+    "date": "2026-11-21T14:29:46.602238+00:00"
+  },
+  {
     "title": "Hurvínkovy pohádky naruby",
     "url": "https://www.kosmas.cz/knihy/575968/hurvinkovy-pohadky-naruby/",
     "description": "Hurvínkovy pohádky naruby",
@@ -1744,87 +1826,5 @@
       "Abby Jimenez"
     ],
     "date": "2026-11-09T15:56:40.279577+00:00"
-  },
-  {
-    "title": "BigTrip.cz: Cesta kolem světa",
-    "url": "https://www.kosmas.cz/knihy/576106/bigtrip.cz-cesta-kolem-sveta/",
-    "description": "BigTrip.cz: Cesta kolem světa - Ladislav Bezděk, Kateřina Bezděková",
-    "authors": [
-      "Ladislav Bezděk",
-      "Kateřina Bezděková"
-    ],
-    "date": "2026-11-09T15:56:39.279577+00:00"
-  },
-  {
-    "title": "Magic Mag from Prague 1",
-    "url": "https://www.kosmas.cz/knihy/576196/magic-mag-from-prague-1/",
-    "description": "Magic Mag from Prague 1",
-    "authors": [],
-    "date": "2026-11-09T15:56:38.279577+00:00"
-  },
-  {
-    "title": "Oremus",
-    "url": "https://www.kosmas.cz/knihy/576233/oremus/",
-    "description": "Oremus - Radek Tichý",
-    "authors": [
-      "Radek Tichý"
-    ],
-    "date": "2026-11-09T15:56:37.279577+00:00"
-  },
-  {
-    "title": "Maturitní rok",
-    "url": "https://www.kosmas.cz/knihy/576257/maturitni-rok/",
-    "description": "Maturitní rok - Pavel Pecina",
-    "authors": [
-      "Pavel Pecina"
-    ],
-    "date": "2026-11-09T15:56:36.279577+00:00"
-  },
-  {
-    "title": "Až černokněžníkům praskne obruč",
-    "url": "https://www.kosmas.cz/knihy/574562/az-cernokneznikum-praskne-obruc/",
-    "description": "Až černokněžníkům praskne obruč - Igor Lukeš, Aleš Palán",
-    "authors": [
-      "Igor Lukeš",
-      "Aleš Palán"
-    ],
-    "date": "2026-11-09T15:56:35.279577+00:00"
-  },
-  {
-    "title": "Růže",
-    "url": "https://www.kosmas.cz/knihy/576346/ruze/",
-    "description": "Růže - Oksana Vasjakinová",
-    "authors": [
-      "Oksana Vasjakinová"
-    ],
-    "date": "2026-11-09T15:56:34.279577+00:00"
-  },
-  {
-    "title": "Pařížská tanečnice",
-    "url": "https://www.kosmas.cz/knihy/574120/parizska-tanecnice/",
-    "description": "Pařížská tanečnice - Doron Darmon",
-    "authors": [
-      "Doron Darmon"
-    ],
-    "date": "2026-11-09T15:56:33.279577+00:00"
-  },
-  {
-    "title": "Tak jsem potkala jednoho chlápka…",
-    "url": "https://www.kosmas.cz/knihy/576351/tak-jsem-potkala-jednoho-chlapka/",
-    "description": "Tak jsem potkala jednoho chlápka… - Alexandra Potter",
-    "authors": [
-      "Alexandra Potter"
-    ],
-    "date": "2026-11-09T15:56:32.279577+00:00"
-  },
-  {
-    "title": "Tajné životy čísel",
-    "url": "https://www.kosmas.cz/knihy/576352/tajne-zivoty-cisel/",
-    "description": "Tajné životy čísel - Kate Kitagawa, Timothy Revell",
-    "authors": [
-      "Kate Kitagawa",
-      "Timothy Revell"
-    ],
-    "date": "2026-11-09T15:56:31.279577+00:00"
   }
 ]

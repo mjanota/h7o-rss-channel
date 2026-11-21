@@ -5,6 +5,38 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-21 14:30:05 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 9
+
+**Tituly nových položek:**
+
+1. Courání po Plzni
+2. Kostky 3
+3. Horizont snů
+4. Spřízněná setkání
+5. Dohry
+6. Stará a nová hnízda
+7. Odborná němčina pro školy se stavebním zaměřením
+8. Příchod Divočiny
+9. Angelika - Královské slavnosti
+
+---
+
+## 🕐 2026-11-21 14:30:03 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-20 15:16:37 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,47 +275,6 @@ Uchovává záznamy za poslední týden.
 ---
 
 ## 🕐 2026-11-15 13:48:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
-
----
-
-## 🕐 2026-11-14 13:21:29 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 18
-
-**Tituly nových položek:**
-
-1. Svatá chvíle
-2. S kým by Amélie nechodila
-3. Umění a síla diplomacie
-4. Naslouchejte svému dítěti
-5. New York
-6. Státověda. Stát. Jednotlivec. Konstitucionalismus
-7. My girl: Radost s tebou žít 3
-8. Bastard 2
-9. Batman 1: Nový den
-10. Barva z kosmu H. P. Lovecrafta
-11. Simpsonovi: Komiksová fofrovačka
-12. One Piece 18: Přichází Ace
-13. Medailistka 4
-14. Stitch a samuraj 2
-15. Černá ambrozie
-16. Rozhovory o vzdělávací politice
-17. Rýmy, které potají jezdívaly tramvají
-18. TraDiář 2027
-
----
-
-## 🕐 2026-11-14 13:21:28 UTC
 
 **Zdroj:** H7O - Časopis Host
 
