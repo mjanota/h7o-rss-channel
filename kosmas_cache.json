@@ -1,5 +1,67 @@
 [
   {
+    "title": "Neboť Bůh tak miloval svět...",
+    "url": "https://www.kosmas.cz/knihy/576664/nebot-buh-tak-miloval-svet/",
+    "description": "Neboť Bůh tak miloval svět... - Markéta Žižkovská",
+    "authors": [
+      "Markéta Žižkovská"
+    ],
+    "date": "2026-11-22T14:26:03.858282+00:00"
+  },
+  {
+    "title": "U doktora nanečisto",
+    "url": "https://www.kosmas.cz/knihy/574612/u-doktora-nanecisto/",
+    "description": "U doktora nanečisto - Zdeňka Hanousková",
+    "authors": [
+      "Zdeňka Hanousková"
+    ],
+    "date": "2026-11-22T14:25:53.858282+00:00"
+  },
+  {
+    "title": "Tajný (sladký) život",
+    "url": "https://www.kosmas.cz/knihy/576897/tajny-sladky-zivot/",
+    "description": "Tajný (sladký) život - Ela Kara",
+    "authors": [
+      "Ela Kara"
+    ],
+    "date": "2026-11-22T14:25:52.858282+00:00"
+  },
+  {
+    "title": "Chobotnice",
+    "url": "https://www.kosmas.cz/knihy/576899/chobotnice/",
+    "description": "Chobotnice - Lubomír Černík",
+    "authors": [
+      "Lubomír Černík"
+    ],
+    "date": "2026-11-22T14:25:51.858282+00:00"
+  },
+  {
+    "title": "Křehká srdce",
+    "url": "https://www.kosmas.cz/knihy/576900/krehka-srdce/",
+    "description": "Křehká srdce - Peyton Corinne",
+    "authors": [
+      "Peyton Corinne"
+    ],
+    "date": "2026-11-22T14:25:50.858282+00:00"
+  },
+  {
+    "title": "Po Evropě se psem",
+    "url": "https://www.kosmas.cz/knihy/576905/po-evrope-se-psem/",
+    "description": "Po Evropě se psem - Angelika Mandler-Saul, Ulrike Miestinger",
+    "authors": [
+      "Angelika Mandler-Saul",
+      "Ulrike Miestinger"
+    ],
+    "date": "2026-11-22T14:25:49.858282+00:00"
+  },
+  {
+    "title": "Popelka královnou aneb Pohádky o tom, jak to bylo dál",
+    "url": "https://www.kosmas.cz/knihy/575969/popelka-kralovnou-aneb-pohadky-o-tom-jak-to-bylo-dal/",
+    "description": "Popelka královnou aneb Pohádky o tom, jak to bylo dál",
+    "authors": [],
+    "date": "2026-11-22T14:25:48.858282+00:00"
+  },
+  {
     "title": "Courání po Plzni",
     "url": "https://www.kosmas.cz/knihy/569322/courani-po-plzni/",
     "description": "Courání po Plzni - kol.",
@@ -1763,68 +1825,5 @@
       "Ladislav Loukota"
     ],
     "date": "2026-11-10T14:43:26.916627+00:00"
-  },
-  {
-    "title": "Splněné touhy",
-    "url": "https://www.kosmas.cz/knihy/576095/splnene-touhy/",
-    "description": "Splněné touhy - Alessandra Torre",
-    "authors": [
-      "Alessandra Torre"
-    ],
-    "date": "2026-11-10T14:43:25.916627+00:00"
-  },
-  {
-    "title": "Rezonance",
-    "url": "https://www.kosmas.cz/knihy/576098/rezonance/",
-    "description": "Rezonance - Erik Tylš",
-    "authors": [
-      "Erik Tylš"
-    ],
-    "date": "2026-11-10T14:43:24.916627+00:00"
-  },
-  {
-    "title": "Do nebe pojedeme trabantem",
-    "url": "https://www.kosmas.cz/knihy/576104/do-nebe-pojedeme-trabantem/",
-    "description": "Do nebe pojedeme trabantem - Martin Vaculík",
-    "authors": [
-      "Martin Vaculík"
-    ],
-    "date": "2026-11-10T14:43:23.916627+00:00"
-  },
-  {
-    "title": "Jdu s hlavou vztyčenou",
-    "url": "https://www.kosmas.cz/knihy/576105/jdu-s-hlavou-vztycenou/",
-    "description": "Jdu s hlavou vztyčenou - Daniel Anýž",
-    "authors": [
-      "Daniel Anýž"
-    ],
-    "date": "2026-11-10T14:43:22.916627+00:00"
-  },
-  {
-    "title": "Splněný sen o F1",
-    "url": "https://www.kosmas.cz/knihy/576287/splneny-sen-o-f1/",
-    "description": "Splněný sen o F1 - Petr Dufek",
-    "authors": [
-      "Petr Dufek"
-    ],
-    "date": "2026-11-10T14:43:21.916627+00:00"
-  },
-  {
-    "title": "Snít nestačí. Musíš letět!",
-    "url": "https://www.kosmas.cz/knihy/576289/snit-nestaci.-musis-letet/",
-    "description": "Snít nestačí. Musíš letět! - Kateřina Borutová",
-    "authors": [
-      "Kateřina Borutová"
-    ],
-    "date": "2026-11-10T14:43:20.916627+00:00"
-  },
-  {
-    "title": "Šťastné a zadané",
-    "url": "https://www.kosmas.cz/knihy/576096/stastne-a-zadane/",
-    "description": "Šťastné a zadané - Abby Jimenez",
-    "authors": [
-      "Abby Jimenez"
-    ],
-    "date": "2026-11-09T15:56:40.279577+00:00"
   }
 ]

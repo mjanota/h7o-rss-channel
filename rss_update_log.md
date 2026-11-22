@@ -5,6 +5,36 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-22 14:26:07 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 7
+
+**Tituly nových položek:**
+
+1. Neboť Bůh tak miloval svět...
+2. U doktora nanečisto
+3. Tajný (sladký) život
+4. Chobotnice
+5. Křehká srdce
+6. Po Evropě se psem
+7. Popelka královnou aneb Pohádky o tom, jak to bylo dál
+
+---
+
+## 🕐 2026-11-22 14:26:06 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 0
+
+---
+
 ## 🕐 2026-11-21 14:30:05 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -243,44 +273,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Klímovské legendy mají tuhý život
-
----
-
-## 🕐 2026-11-15 13:48:43 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Hex 3: Černý trůn
-2. Jak vycvičit draka
-3. Jak vycvičit draka: Jak správně mluvit dracky
-4. Jak vycvičit draka: Jak zlomit dračí prokletí
-5. Nekonečné končiny (Píseň utonulých bohů)
-6. Stříbrná metalíza
-7. Deník všedního smutku
-8. Spoután v čepeli - Upíři z Chicaga 13
-9. Sni dál, Ramono Rileyová
-10. Jak vycvičit draka: Jak se stát pirátem
-11. Zakletá
-12. Praprázdniny
-13. Začátek, co nekončí
-14. A svět byl mladý
-15. Temný eros
-
----
-
-## 🕐 2026-11-15 13:48:43 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

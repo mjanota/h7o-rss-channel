@@ -7,7 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sat, 21 Nov 2026 14:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:26:07 +0000</lastBuildDate>
+    <item>
+      <title>Neboť Bůh tak miloval svět...</title>
+      <link>https://www.kosmas.cz/knihy/576664/nebot-buh-tak-miloval-svet/</link>
+      <description>Neboť Bůh tak miloval svět... - Markéta Žižkovská</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576664/nebot-buh-tak-miloval-svet/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>U doktora nanečisto</title>
+      <link>https://www.kosmas.cz/knihy/574612/u-doktora-nanecisto/</link>
+      <description>U doktora nanečisto - Zdeňka Hanousková</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574612/u-doktora-nanecisto/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tajný (sladký) život</title>
+      <link>https://www.kosmas.cz/knihy/576897/tajny-sladky-zivot/</link>
+      <description>Tajný (sladký) život - Ela Kara</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576897/tajny-sladky-zivot/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chobotnice</title>
+      <link>https://www.kosmas.cz/knihy/576899/chobotnice/</link>
+      <description>Chobotnice - Lubomír Černík</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576899/chobotnice/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Křehká srdce</title>
+      <link>https://www.kosmas.cz/knihy/576900/krehka-srdce/</link>
+      <description>Křehká srdce - Peyton Corinne</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576900/krehka-srdce/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Po Evropě se psem</title>
+      <link>https://www.kosmas.cz/knihy/576905/po-evrope-se-psem/</link>
+      <description>Po Evropě se psem - Angelika Mandler-Saul, Ulrike Miestinger</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576905/po-evrope-se-psem/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Popelka královnou aneb Pohádky o tom, jak to bylo dál</title>
+      <link>https://www.kosmas.cz/knihy/575969/popelka-kralovnou-aneb-pohadky-o-tom-jak-to-bylo-dal/</link>
+      <description>Popelka královnou aneb Pohádky o tom, jak to bylo dál</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575969/popelka-kralovnou-aneb-pohadky-o-tom-jak-to-bylo-dal/</guid>
+      <pubDate>Sun, 22 Nov 2026 14:25:48 +0000</pubDate>
+    </item>
     <item>
       <title>Courání po Plzni</title>
       <link>https://www.kosmas.cz/knihy/569322/courani-po-plzni/</link>
@@ -658,55 +707,6 @@
       <description>Stříbrná metalíza - Tomáš Hučko</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/576065/stribrna-metaliza/</guid>
       <pubDate>Sun, 15 Nov 2026 13:48:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Deník všedního smutku</title>
-      <link>https://www.kosmas.cz/knihy/575229/denik-vsedniho-smutku/</link>
-      <description>Deník všedního smutku - Mahmúd Darwíš</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575229/denik-vsedniho-smutku/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spoután v čepeli - Upíři z Chicaga 13</title>
-      <link>https://www.kosmas.cz/knihy/575317/spoutan-v-cepeli-upiri-z-chicaga-13/</link>
-      <description>Spoután v čepeli - Upíři z Chicaga 13 - Chloe Neill</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575317/spoutan-v-cepeli-upiri-z-chicaga-13/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sni dál, Ramono Rileyová</title>
-      <link>https://www.kosmas.cz/knihy/575318/sni-dal-ramono-rileyova/</link>
-      <description>Sni dál, Ramono Rileyová - Ashley Herring Blake</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575318/sni-dal-ramono-rileyova/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak vycvičit draka: Jak se stát pirátem</title>
-      <link>https://www.kosmas.cz/knihy/575451/jak-vycvicit-draka-jak-se-stat-piratem/</link>
-      <description>Jak vycvičit draka: Jak se stát pirátem - Cressida Cowellová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575451/jak-vycvicit-draka-jak-se-stat-piratem/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zakletá</title>
-      <link>https://www.kosmas.cz/knihy/575458/zakleta/</link>
-      <description>Zakletá - Laura Thalassa</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575458/zakleta/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Praprázdniny</title>
-      <link>https://www.kosmas.cz/knihy/571603/praprazdniny/</link>
-      <description>Praprázdniny - Ivona Březinová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571603/praprazdniny/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Začátek, co nekončí</title>
-      <link>https://www.kosmas.cz/knihy/571654/zacatek-co-nekonci/</link>
-      <description>Začátek, co nekončí - Corinne Heyrman</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/571654/zacatek-co-nekonci/</guid>
-      <pubDate>Sun, 15 Nov 2026 13:48:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
