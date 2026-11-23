@@ -1,13 +1,5 @@
 [
   {
-    "title": "Smlouva s ďáblem je stále aktuální",
-    "url": "https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni",
-    "description": "Radka Bodzewicz v aktuální výstavě v galerii DOX zpracovává téma Fausta a jeho smlouvy s ďáblem. Každé patro výstavy věnuje jedné z ústředních postav Goethovy dramatické básně: Mefistofeles, Markétka, Faust. S malířkou hovoříme o literárních vlivech, spiritualitě a nebezpečí moderních technologií.",
-    "date": "2026-08-25T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "rozhovor"
-  },
-  {
     "title": "Ukrajina přichází o své knihy",
     "url": "https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy",
     "description": "Ukrajinští nakladatelé naléhají na prezidenta Volodymyra Zelenského, aby stát pomohl při obnově knižního průmyslu. Ruské útoky z posledních týdnů jej totiž uvrhly do existenční krize.",
@@ -485,6 +477,14 @@
     "description": "Z veršů slovenských básníků vyrůstá příběh o komplikovaném vztahu otce a syna, zrádnosti paměti i nejistotě rodičovství. Tomáš Hučko ve své druhé próze „Stříbrná metalíza“ skládá z fragmentů osobních vzpomínek a společenských reflexí obraz rodinných pout.",
     "date": "2026-11-20T00:00:00",
     "author": "Lubomír Tichý",
+    "category": "recenze"
+  },
+  {
+    "title": "Přefikčnit Twaina",
+    "url": "https://www.h7o.cz/clanky/14657-prefikcnit-twaina",
+    "description": "Pulitzerovu cenu za prózu loni dostal román Percivala Everetta „James“, převyprávění Twainova Huckleberryho Finna z pohledu černého otroka. Je to víc než jen záslužná záležitost?",
+    "date": "2026-11-23T00:00:00",
+    "author": "Jan Němec",
     "category": "recenze"
   }
 ]

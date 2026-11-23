@@ -5,6 +5,52 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-23 17:54:03 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 19
+
+**Tituly nových položek:**
+
+1. Kroniky Lučných vrchů 4 - Po stopách hadů
+2. Černý jazyk
+3. Minecraft - Příručka přežití
+4. Zapomenutá vražda
+5. Šťastné vajíčko
+6. Veterinární průvodce pro majitele psů
+7. Praktická příručka intenzivní medicíny
+8. Okna do nebe
+9. Vzpomeneš si na Trenčín?
+10. Minecraft - Stavební chuťovky
+11. Láska jiskří sněhem
+12. Zootropolis 2: Nick a Judy na stopě - Parádní podfuk
+13. Aviou Jižní Amerikou
+14. Slova kvetoucí v odlišnostech
+15. Anatomie katastrofy
+16. Loď bláznů - antologie domácí fantastiky
+17. Xylofon pro ufona
+18. Den Rozřazení
+19. Na útěku
+
+---
+
+## 🕐 2026-11-23 17:54:01 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Přefikčnit Twaina
+
+---
+
 ## 🕐 2026-11-22 14:26:07 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -231,48 +277,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-11-16 15:31:08 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 15
-
-**Tituly nových položek:**
-
-1. Odhalení
-2. Bridgertonovi – oficiální kuchařka
-3. První krok
-4. Horkovzdušná 2
-5. Zdravá a chutná strava při onemocnění srdce a cév
-6. Zubatý deník
-7. Někdo to udělat musel
-8. Ze 150 kg k Ironman
-9. Koruna z peří
-10. Láska jiskří sněhem
-11. Puncovaný muž
-12. Klášterní práce
-13. Aby škola dávala smysl
-14. Nero
-15. Nazí se vody nebojí
-
----
-
-## 🕐 2026-11-16 15:31:08 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Klímovské legendy mají tuhý život
 
 ---
 

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 22 Nov 2026 14:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:54:01 +0000</lastBuildDate>
+    <item>
+      <title>Přefikčnit Twaina</title>
+      <link>https://www.h7o.cz/clanky/14657-prefikcnit-twaina</link>
+      <description>Pulitzerovu cenu za prózu loni dostal román Percivala Everetta „James“, převyprávění Twainova Huckleberryho Finna z pohledu černého otroka. Je to víc než jen záslužná záležitost?</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14657-prefikcnit-twaina</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ticho zní jinak, když mlčí tři</title>
       <link>https://www.h7o.cz/clanky/14655-ticho-zni-jinak-kdyz-mlci-tri</link>
@@ -427,13 +434,6 @@
       <description>Ukrajinští nakladatelé naléhají na prezidenta Volodymyra Zelenského, aby stát pomohl při obnově knižního průmyslu. Ruské útoky z posledních týdnů jej totiž uvrhly do existenční krize.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Smlouva s ďáblem je stále aktuální</title>
-      <link>https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni</link>
-      <description>Radka Bodzewicz v aktuální výstavě v galerii DOX zpracovává téma Fausta a jeho smlouvy s ďáblem. Každé patro výstavy věnuje jedné z ústředních postav Goethovy dramatické básně: Mefistofeles, Markétka, Faust. S malířkou hovoříme o literárních vlivech, spiritualitě a nebezpečí moderních technologií.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14589-smlouva-s-dablem-je-stale-aktualni</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
