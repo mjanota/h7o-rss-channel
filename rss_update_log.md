@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-24 17:26:39 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Sokrates v teniskách
+2. Ve zpětném zrcátku
+3. Bezmocná – komplet
+4. Krásné české Vánoce - Josef Lada
+5. Star Wars - Za tajemstvím světů a míst
+6. V hlavách sériových vrahů: Děsivý vhled do myslí zabijáků
+7. Pat a Mat vymýšlejí zlepšováky
+8. Xylofon pro ufona
+9. Peppa Pig - Peppa na venkově
+10. Když pero mění svět
+11. Biomateriály
+12. Kuchařka pro mladé sportovce
+13. Pojednání o toleranci
+14. Mikulášská hudební besídka
+15. Pokemon Deluxe Character Guide
+16. Smutek, láska, otevřenost
+17. Agnes Aubert´s Mystical Cat Shelter
+18. Alice´s Adventures in Wonderland and Through the Looking Glass
+19. 496
+20. Krvavé rubíny
+
+---
+
+## 🕐 2026-11-24 17:26:37 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Neuhýbat před tím, co vidíme
+
+---
+
 ## 🕐 2026-11-23 17:54:03 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,32 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Obvinění a vyšetřování Davida Walliamse
-
----
-
-## 🕐 2026-11-17 15:50:56 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 3
-
-**Tituly nových položek:**
-
-1. Vizuální smog jako příležitost
-2. Kosmetická guasha
-3. Nepečená radost ze severu
-
----
-
-## 🕐 2026-11-17 15:50:55 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 0
 
 ---
 

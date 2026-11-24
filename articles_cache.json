@@ -1,13 +1,5 @@
 [
   {
-    "title": "Ukrajina přichází o své knihy",
-    "url": "https://www.h7o.cz/clanky/14591-ukrajina-prichazi-o-sve-knihy",
-    "description": "Ukrajinští nakladatelé naléhají na prezidenta Volodymyra Zelenského, aby stát pomohl při obnově knižního průmyslu. Ruské útoky z posledních týdnů jej totiž uvrhly do existenční krize.",
-    "date": "2026-08-26T00:00:00",
-    "author": "Václav Maxmilián",
-    "category": "zprávy"
-  },
-  {
     "title": "Imaginární pobřeží: co může české literatuře přinést moře",
     "url": "https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more",
     "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o metafoře Česka jako země na pobřeží, se kterou do Německa jedeme.",
@@ -486,5 +478,13 @@
     "date": "2026-11-23T00:00:00",
     "author": "Jan Němec",
     "category": "recenze"
+  },
+  {
+    "title": "Neuhýbat před tím, co vidíme",
+    "url": "https://www.h7o.cz/clanky/14656-neuhybat-pred-tim-co-vidime",
+    "description": "V brněnském HaDivadle je od jarní sezony k vidění hra Maxe Frische „Pan Biedermann a žháři“ z roku 1953. O tom, co je na Frischově díle stále živé a jaké nástrahy představují divadelní adaptace, hovoříme s dramaturgyní Janou Vaverkovou a režisérem Janem Doleželem. Připravila Bernardeta Babáková.",
+    "date": "2026-11-24T00:00:00",
+    "author": "Bernardeta Babáková",
+    "category": "rozhovor"
   }
 ]
