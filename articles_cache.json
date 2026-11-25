@@ -1,13 +1,5 @@
 [
   {
-    "title": "Imaginární pobřeží: co může české literatuře přinést moře",
-    "url": "https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more",
-    "description": "Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o metafoře Česka jako země na pobřeží, se kterou do Německa jedeme.",
-    "date": "2026-08-27T00:00:00",
-    "author": "Jan Jindřich Karásek",
-    "category": "téma"
-  },
-  {
     "title": "Frankfurt je jen začátek",
     "url": "https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek",
     "description": "Za úspěchem finského hostování na Frankfurtském knižním veletrhu v roce 2014 nestál jediný rok, ale léta příprav. Tiia Strandénová z organizace FILI mluví o práci s překladateli, budování partnerství i dlouhodobých dopadech projektu.",
@@ -486,5 +478,13 @@
     "date": "2026-11-24T00:00:00",
     "author": "Bernardeta Babáková",
     "category": "rozhovor"
+  },
+  {
+    "title": "Věčný zánik",
+    "url": "https://www.h7o.cz/clanky/14659-vecny-zanik",
+    "description": "„Možná se jedná o poslední monokulturní událost naší doby — poslední sdílený statek, než se všechno rozpadne do personalizovaných AI feedů,“ píše o kulturním fenoménu tohoto roku — minulý týden vydané hře GTA VI — publicista Jakub Jetmar.",
+    "date": "2026-11-25T00:00:00",
+    "author": "Jakub Jetmar",
+    "category": "sloupek"
   }
 ]

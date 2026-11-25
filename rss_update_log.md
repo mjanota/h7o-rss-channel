@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-25 17:02:54 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Vraždoku box
+2. Velké stroje - Hledej a objevuj
+3. Letadla - Hledej a objevuj
+4. Vlčák Kazan
+5. King Kong - Světová četba pro školáky
+6. Louskáček - Světová četba pro školáky
+7. Knoflíková válka - Světová četba pro školáky
+8. Velká kniha křížovek - Ukažte, co víte
+9. Velká kniha křížovek - Film a slavné osobnosti
+10. XXL Kniha sudoku
+11. Zvířátka - hledej a objevuj
+12. SOUBOR 100 HER Rodinná hra
+13. Království her - Rodinná hra
+14. Dostihy a Sázky
+15. Kamionem po celé Evropě Rodinná hra
+16. Země město - Cestovní hra
+17. Hrady & zámky ČR Pexeso
+18. PRAHA Pexeso
+19. Revizor, Úředníkovo ráno
+20. Salome
+
+---
+
+## 🕐 2026-11-25 17:02:52 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Věčný zánik
+
+---
+
 ## 🕐 2026-11-24 17:26:39 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Poznámky z Ukrajiny IV: Pamětní deska Švejkovi kdesi v Haliči
-
----
-
-## 🕐 2026-11-18 15:29:22 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Silesia Noir
-2. Bridgertonovi – oficiální kuchařka
-3. Josef Blecha 2 – Portréty a karikatury slavných tváří
-4. Hlasy zločinu: 15 příběhů
-5. Rodičovská úzkost
-6. Apollyon
-7. Lucky Luke: Volání Západu
-8. Vetřelec 2: Obrození
-9. Bleach 48: God is Dead
-10. Ztracená hvězda
-11. Ta hladová věc v mých snech
-12. Vánoce jako z pohádky
-13. Smrt krále oblohy
-14. Zabíječ
-15. Hotel Hamaka - Pěšky po Komorských ostrovech
-16. Klidný kout v rušné zemi, Zápisky ze Sečuánu
-17. Operace Skákací hrad
-18. MEMO 2026/1
-19. Bohemiae Occidentalis Historica 2026/1
-20. Když pero mění svět
-
----
-
-## 🕐 2026-11-18 15:29:21 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Obvinění a vyšetřování Davida Walliamse
 
 ---
 

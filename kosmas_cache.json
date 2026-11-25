@@ -1,5 +1,165 @@
 [
   {
+    "title": "Vraždoku box",
+    "url": "https://www.kosmas.cz/knihy/576527/vrazdoku-box/",
+    "description": "Vraždoku box - Manuel Garand",
+    "authors": [
+      "Manuel Garand"
+    ],
+    "date": "2026-11-25T17:02:54.822561+00:00"
+  },
+  {
+    "title": "Velké stroje - Hledej a objevuj",
+    "url": "https://www.kosmas.cz/knihy/576234/velke-stroje-hledej-a-objevuj/",
+    "description": "Velké stroje - Hledej a objevuj - Eduardo Trujillo",
+    "authors": [
+      "Eduardo Trujillo"
+    ],
+    "date": "2026-11-25T17:02:53.822561+00:00"
+  },
+  {
+    "title": "Letadla - Hledej a objevuj",
+    "url": "https://www.kosmas.cz/knihy/576235/letadla-hledej-a-objevuj/",
+    "description": "Letadla - Hledej a objevuj - Eduardo Trujillo",
+    "authors": [
+      "Eduardo Trujillo"
+    ],
+    "date": "2026-11-25T17:02:52.822561+00:00"
+  },
+  {
+    "title": "Vlčák Kazan",
+    "url": "https://www.kosmas.cz/knihy/576254/vlcak-kazan/",
+    "description": "Vlčák Kazan - James Oliver Curwood",
+    "authors": [
+      "James Oliver Curwood"
+    ],
+    "date": "2026-11-25T17:02:51.822561+00:00"
+  },
+  {
+    "title": "King Kong - Světová četba pro školáky",
+    "url": "https://www.kosmas.cz/knihy/576256/king-kong-svetova-cetba-pro-skolaky/",
+    "description": "King Kong - Světová četba pro školáky - Delos W. Lovelace",
+    "authors": [
+      "Delos W. Lovelace"
+    ],
+    "date": "2026-11-25T17:02:50.822561+00:00"
+  },
+  {
+    "title": "Louskáček - Světová četba pro školáky",
+    "url": "https://www.kosmas.cz/knihy/576258/louskacek-svetova-cetba-pro-skolaky/",
+    "description": "Louskáček - Světová četba pro školáky - James Oliver Curwood",
+    "authors": [
+      "James Oliver Curwood"
+    ],
+    "date": "2026-11-25T17:02:49.822561+00:00"
+  },
+  {
+    "title": "Knoflíková válka - Světová četba pro školáky",
+    "url": "https://www.kosmas.cz/knihy/576259/knoflikova-valka-svetova-cetba-pro-skolaky/",
+    "description": "Knoflíková válka - Světová četba pro školáky - Louis Pergaud",
+    "authors": [
+      "Louis Pergaud"
+    ],
+    "date": "2026-11-25T17:02:48.822561+00:00"
+  },
+  {
+    "title": "Velká kniha křížovek - Ukažte, co víte",
+    "url": "https://www.kosmas.cz/knihy/576261/velka-kniha-krizovek-ukazte-co-vite/",
+    "description": "Velká kniha křížovek - Ukažte, co víte",
+    "authors": [],
+    "date": "2026-11-25T17:02:47.822561+00:00"
+  },
+  {
+    "title": "Velká kniha křížovek - Film a slavné osobnosti",
+    "url": "https://www.kosmas.cz/knihy/576262/velka-kniha-krizovek-film-a-slavne-osobnosti/",
+    "description": "Velká kniha křížovek - Film a slavné osobnosti",
+    "authors": [],
+    "date": "2026-11-25T17:02:46.822561+00:00"
+  },
+  {
+    "title": "XXL Kniha sudoku",
+    "url": "https://www.kosmas.cz/knihy/576265/xxl-kniha-sudoku/",
+    "description": "XXL Kniha sudoku",
+    "authors": [],
+    "date": "2026-11-25T17:02:45.822561+00:00"
+  },
+  {
+    "title": "Zvířátka - hledej a objevuj",
+    "url": "https://www.kosmas.cz/knihy/576272/zviratka-hledej-a-objevuj/",
+    "description": "Zvířátka - hledej a objevuj - Eduardo Trujillo",
+    "authors": [
+      "Eduardo Trujillo"
+    ],
+    "date": "2026-11-25T17:02:44.822561+00:00"
+  },
+  {
+    "title": "SOUBOR 100 HER Rodinná hra",
+    "url": "https://www.kosmas.cz/knihy/576720/soubor-100-her-rodinna-hra/",
+    "description": "SOUBOR 100 HER Rodinná hra",
+    "authors": [],
+    "date": "2026-11-25T17:02:43.822561+00:00"
+  },
+  {
+    "title": "Království her - Rodinná hra",
+    "url": "https://www.kosmas.cz/knihy/576721/kralovstvi-her-rodinna-hra/",
+    "description": "Království her - Rodinná hra",
+    "authors": [],
+    "date": "2026-11-25T17:02:42.822561+00:00"
+  },
+  {
+    "title": "Dostihy a Sázky",
+    "url": "https://www.kosmas.cz/knihy/576722/dostihy-a-sazky/",
+    "description": "Dostihy a Sázky",
+    "authors": [],
+    "date": "2026-11-25T17:02:41.822561+00:00"
+  },
+  {
+    "title": "Kamionem po celé Evropě Rodinná hra",
+    "url": "https://www.kosmas.cz/knihy/576723/kamionem-po-cele-evrope-rodinna-hra/",
+    "description": "Kamionem po celé Evropě Rodinná hra",
+    "authors": [],
+    "date": "2026-11-25T17:02:40.822561+00:00"
+  },
+  {
+    "title": "Země město - Cestovní hra",
+    "url": "https://www.kosmas.cz/knihy/576724/zeme-mesto-cestovni-hra/",
+    "description": "Země město - Cestovní hra",
+    "authors": [],
+    "date": "2026-11-25T17:02:39.822561+00:00"
+  },
+  {
+    "title": "Hrady & zámky ČR Pexeso",
+    "url": "https://www.kosmas.cz/knihy/576725/hrady-zamky-cr-pexeso/",
+    "description": "Hrady & zámky ČR Pexeso",
+    "authors": [],
+    "date": "2026-11-25T17:02:38.822561+00:00"
+  },
+  {
+    "title": "PRAHA Pexeso",
+    "url": "https://www.kosmas.cz/knihy/576726/praha-pexeso/",
+    "description": "PRAHA Pexeso",
+    "authors": [],
+    "date": "2026-11-25T17:02:37.822561+00:00"
+  },
+  {
+    "title": "Revizor, Úředníkovo ráno",
+    "url": "https://www.kosmas.cz/knihy/576803/revizor-urednikovo-rano/",
+    "description": "Revizor, Úředníkovo ráno - Nikolaj Vasiljevič Gogol",
+    "authors": [
+      "Nikolaj Vasiljevič Gogol"
+    ],
+    "date": "2026-11-25T17:02:36.822561+00:00"
+  },
+  {
+    "title": "Salome",
+    "url": "https://www.kosmas.cz/knihy/576804/salome/",
+    "description": "Salome - Oscar Wilde",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "date": "2026-11-25T17:02:35.822561+00:00"
+  },
+  {
     "title": "Sokrates v teniskách",
     "url": "https://www.kosmas.cz/knihy/568042/sokrates-v-teniskach/",
     "description": "Sokrates v teniskách - Wiss Elke",
@@ -1638,190 +1798,5 @@
       "Chloe Liese"
     ],
     "date": "2026-11-13T14:25:07.847205+00:00"
-  },
-  {
-    "title": "Zajímavosti českých hranic: jižní hranice",
-    "url": "https://www.kosmas.cz/knihy/575698/zajimavosti-ceskych-hranic-jizni-hranice/",
-    "description": "Zajímavosti českých hranic: jižní hranice - Marek Beneš",
-    "authors": [
-      "Marek Beneš"
-    ],
-    "date": "2026-11-13T14:25:05.847205+00:00"
-  },
-  {
-    "title": "Řecké mýty: Od Titánů k Ikarovi a Odysseovi",
-    "url": "https://www.kosmas.cz/knihy/576077/recke-myty-od-titanu-k-ikarovi-a-odysseovi/",
-    "description": "Řecké mýty: Od Titánů k Ikarovi a Odysseovi - Martin J. Dougherty",
-    "authors": [
-      "Martin J. Dougherty"
-    ],
-    "date": "2026-11-13T14:25:04.847205+00:00"
-  },
-  {
-    "title": "Reni, zrzavá Liška",
-    "url": "https://www.kosmas.cz/knihy/576113/reni-zrzava-liska/",
-    "description": "Reni, zrzavá Liška - Vladimír Němec",
-    "authors": [
-      "Vladimír Němec"
-    ],
-    "date": "2026-11-13T14:25:03.847205+00:00"
-  },
-  {
-    "title": "Vesničanky",
-    "url": "https://www.kosmas.cz/knihy/575307/vesnicanky/",
-    "description": "Vesničanky - Joanna Kuciel-Frydryszak",
-    "authors": [
-      "Joanna Kuciel-Frydryszak"
-    ],
-    "date": "2026-11-13T14:25:02.847205+00:00"
-  },
-  {
-    "title": "Prožij den jako fosilie, oheň či plíseň",
-    "url": "https://www.kosmas.cz/knihy/576236/prozij-den-jako-fosilie-ohen-ci-plisen/",
-    "description": "Prožij den jako fosilie, oheň či plíseň - Mike Barfield",
-    "authors": [
-      "Mike Barfield"
-    ],
-    "date": "2026-11-13T14:25:01.847205+00:00"
-  },
-  {
-    "title": "Jak se Honzík naučil zavazovat tkaničku",
-    "url": "https://www.kosmas.cz/knihy/576127/jak-se-honzik-naucil-zavazovat-tkanicku/",
-    "description": "Jak se Honzík naučil zavazovat tkaničku - Oldřich Růžička",
-    "authors": [
-      "Oldřich Růžička"
-    ],
-    "date": "2026-11-12T14:59:26.577938+00:00"
-  },
-  {
-    "title": "Pod čarou",
-    "url": "https://www.kosmas.cz/knihy/575741/pod-carou/",
-    "description": "Pod čarou - Milan Koželuh",
-    "authors": [
-      "Milan Koželuh"
-    ],
-    "date": "2026-11-12T14:59:25.577938+00:00"
-  },
-  {
-    "title": "Křídla snění",
-    "url": "https://www.kosmas.cz/knihy/575759/kridla-sneni/",
-    "description": "Křídla snění - Anna Bright",
-    "authors": [
-      "Anna Bright"
-    ],
-    "date": "2026-11-12T14:59:24.577938+00:00"
-  },
-  {
-    "title": "Toulky první republikou 51–75",
-    "url": "https://www.kosmas.cz/knihy/576393/toulky-prvni-republikou-51-75/",
-    "description": "Toulky první republikou 51–75 - Ivo Malý, Tomáš Pánek, Dušan Radovanovič, Jitka Škápíková",
-    "authors": [
-      "Ivo Malý",
-      "Tomáš Pánek",
-      "Dušan Radovanovič",
-      "Jitka Škápíková"
-    ],
-    "date": "2026-11-12T14:59:23.577938+00:00"
-  },
-  {
-    "title": "Eleonora z Lobkovic",
-    "url": "https://www.kosmas.cz/knihy/575946/eleonora-z-lobkovic/",
-    "description": "Eleonora z Lobkovic - Jaroslava Černá",
-    "authors": [
-      "Jaroslava Černá"
-    ],
-    "date": "2026-11-12T14:59:22.577938+00:00"
-  },
-  {
-    "title": "Záhady slečny Ashfordové - Večírek v Toskánsku",
-    "url": "https://www.kosmas.cz/knihy/576002/zahady-slecny-ashfordove-vecirek-v-toskansku/",
-    "description": "Záhady slečny Ashfordové - Večírek v Toskánsku - Vivian Conroy",
-    "authors": [
-      "Vivian Conroy"
-    ],
-    "date": "2026-11-12T14:59:21.577938+00:00"
-  },
-  {
-    "title": "Domov pro Marťany",
-    "url": "https://www.kosmas.cz/knihy/576502/domov-pro-martany/",
-    "description": "Domov pro Marťany - Martina Drijverová",
-    "authors": [
-      "Martina Drijverová"
-    ],
-    "date": "2026-11-12T14:59:20.577938+00:00"
-  },
-  {
-    "title": "Krysař",
-    "url": "https://www.kosmas.cz/knihy/576503/krysar/",
-    "description": "Krysař - Viktor Dyk",
-    "authors": [
-      "Viktor Dyk"
-    ],
-    "date": "2026-11-12T14:59:19.577938+00:00"
-  },
-  {
-    "title": "Ledové střepy",
-    "url": "https://www.kosmas.cz/knihy/576504/ledove-strepy/",
-    "description": "Ledové střepy - Lenka Chalupová",
-    "authors": [
-      "Lenka Chalupová"
-    ],
-    "date": "2026-11-12T14:59:18.577938+00:00"
-  },
-  {
-    "title": "Dotek temnoty",
-    "url": "https://www.kosmas.cz/knihy/576505/dotek-temnoty/",
-    "description": "Dotek temnoty - Scarlett St. Clair",
-    "authors": [
-      "Scarlett St. Clair"
-    ],
-    "date": "2026-11-12T14:59:17.577938+00:00"
-  },
-  {
-    "title": "Diagnostika dítěte předškolního věku",
-    "url": "https://www.kosmas.cz/knihy/576040/diagnostika-ditete-predskolniho-veku/",
-    "description": "Diagnostika dítěte předškolního věku - Jiřina Bednářová, Vlasta Šmardová",
-    "authors": [
-      "Jiřina Bednářová",
-      "Vlasta Šmardová"
-    ],
-    "date": "2026-11-12T14:59:16.577938+00:00"
-  },
-  {
-    "title": "Marža z krvi",
-    "url": "https://www.kosmas.cz/knihy/576538/marza-z-krvi/",
-    "description": "Marža z krvi - Ľubomír Polaščín",
-    "authors": [
-      "Ľubomír Polaščín"
-    ],
-    "date": "2026-11-12T14:59:15.577938+00:00"
-  },
-  {
-    "title": "(Ne)dokonalé vzpomínky",
-    "url": "https://www.kosmas.cz/knihy/576545/ne-dokonale-vzpominky/",
-    "description": "(Ne)dokonalé vzpomínky - Ann M. Altman",
-    "authors": [
-      "Ann M. Altman"
-    ],
-    "date": "2026-11-12T14:59:14.577938+00:00"
-  },
-  {
-    "title": "O prynckovi",
-    "url": "https://www.kosmas.cz/knihy/576559/o-prynckovi/",
-    "description": "O prynckovi - Antoine de Saint-Exupéry, Erik Gliwitzky",
-    "authors": [
-      "Antoine de Saint-Exupéry",
-      "Erik Gliwitzky"
-    ],
-    "date": "2026-11-12T14:59:13.577938+00:00"
-  },
-  {
-    "title": "Finská sauna",
-    "url": "https://www.kosmas.cz/knihy/573247/finska-sauna/",
-    "description": "Finská sauna - Lassi A. Liikkanen",
-    "authors": [
-      "Lassi A. Liikkanen"
-    ],
-    "date": "2026-11-12T14:59:12.577938+00:00"
   }
 ]

@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:02:52 +0000</lastBuildDate>
+    <item>
+      <title>Věčný zánik</title>
+      <link>https://www.h7o.cz/clanky/14659-vecny-zanik</link>
+      <description>„Možná se jedná o poslední monokulturní událost naší doby — poslední sdílený statek, než se všechno rozpadne do personalizovaných AI feedů,“ píše o kulturním fenoménu tohoto roku — minulý týden vydané hře GTA VI — publicista Jakub Jetmar.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14659-vecny-zanik</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Neuhýbat před tím, co vidíme</title>
       <link>https://www.h7o.cz/clanky/14656-neuhybat-pred-tim-co-vidime</link>
@@ -427,13 +434,6 @@
       <description>Za úspěchem finského hostování na Frankfurtském knižním veletrhu v roce 2014 nestál jediný rok, ale léta příprav. Tiia Strandénová z organizace FILI mluví o práci s překladateli, budování partnerství i dlouhodobých dopadech projektu.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imaginární pobřeží: co může české literatuře přinést moře</title>
-      <link>https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more</link>
-      <description>Česká literatura v říjnu tohoto roku zamíří na veletrh do Frankfurtu. V sérii článků věnovaných českému hostování pokračujeme textem Jana Jindřicha Karáska o metafoře Česka jako země na pobřeží, se kterou do Německa jedeme.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14590-imaginarni-pobrezi-co-muze-ceske-literature-prinest-more</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
