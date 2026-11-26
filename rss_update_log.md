@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-26 16:43:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Můj rok 1960
+2. Můj rok 1968
+3. Můj rok 1951
+4. Speciální jednotka
+5. Přistěhovalci
+6. Stín temné královny - Žoldáci
+7. Žoldačka Darja
+8. Sucho
+9. Šťastné vajíčko
+10. Ve vlastním
+11. Pták Noh a ptáček Nožička - dárkové balení
+12. Česká říkadla, písničky a pohádky
+13. Miluju koně
+14. Pájin Klub mazlíčků: Utajené kotě
+15. Policejní vyjednavačka
+16. Na rok v Londýně
+17. Osmdesátky ve filmu
+18. Projekt vnitřní práce. Kniha druhá
+19. Můj rok 1950
+20. Blaženost Tisíckrát ráno
+
+---
+
+## 🕐 2026-11-26 16:43:43 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Poznámky z Ukrajiny V: Snění o Rusalce v Koperníkově ulici
+
+---
+
 ## 🕐 2026-11-25 17:02:54 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Tituly nových položek:**
 
 1. Ticho zní jinak, když mlčí tři
-
----
-
-## 🕐 2026-11-19 15:36:54 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Rebel s příčinou
-2. Výpravy decentního muže
-3. Zářivé a temné roky fyziky
-4. Ubongo Shimo
-5. Lišák a Zajda
-6. Skupinová arteterapie
-7. Viola
-8. Principiální neurčitost
-9. SEO v kostce pro manažery a majitele firem
-10. Velká kniha pověstí z Náchodska a Hronovska
-11. Válka snů
-12. Skryté poklady
-13. Klidně zpomal
-14. Jak spolu (lépe) vycházet
-15. Okamžiky štěstí
-16. Zachování paměti
-17. Malé muzeum fotografie
-18. Kočka, mandarín a hvězdy
-19. Černá zátoka
-20. Byliny & houby a jejich příznivé účinky
-
----
-
-## 🕐 2026-11-19 15:36:54 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Poznámky z Ukrajiny IV: Pamětní deska Švejkovi kdesi v Haliči
 
 ---
 

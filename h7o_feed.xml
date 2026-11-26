@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:43:43 +0000</lastBuildDate>
+    <item>
+      <title>Poznámky z Ukrajiny V: Snění o Rusalce v Koperníkově ulici</title>
+      <link>https://www.h7o.cz/clanky/14658-poznamky-z-ukrajiny-v-sneni-o-rusalce-v-kopernikove-ulici</link>
+      <description>Ruská exilová carevna Marie, petrohradský starosta Sobčak či Putin. I to jsou jména vyslovená u piva ve lvovské hospodě v Koperníkově ulici. „Zda je svět konečný či nekonečný, ponecháme rozboru fysiologů,“ napsal kdysi astronom Koperník. Poslední díl seriálu ze západní Ukrajiny.</description>
+      <guid isPermaLink="true">https://www.h7o.cz/clanky/14658-poznamky-z-ukrajiny-v-sneni-o-rusalce-v-kopernikove-ulici</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Věčný zánik</title>
       <link>https://www.h7o.cz/clanky/14659-vecny-zanik</link>
@@ -427,13 +434,6 @@
       <description>Stále nevíme, co bude s Ústavem translatologie na Filozofické fakultě UK a několika dalšími obory. Po rozhovoru s Annou Štádlerovou přinášíme další rozhovor k tématu, tentokrát s jinou výraznou překladatelkou Anežkou Charvátovou, která na zmíněném ústavu přímo vyučuje.</description>
       <guid isPermaLink="true">https://www.h7o.cz/clanky/14593-hezky-prelozena-kniha-je-prispevek-ke-svobode</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Frankfurt je jen začátek</title>
-      <link>https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</link>
-      <description>Za úspěchem finského hostování na Frankfurtském knižním veletrhu v roce 2014 nestál jediný rok, ale léta příprav. Tiia Strandénová z organizace FILI mluví o práci s překladateli, budování partnerství i dlouhodobých dopadech projektu.</description>
-      <guid isPermaLink="true">https://www.h7o.cz/clanky/14592-frankfurt-je-jen-zacatek</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
