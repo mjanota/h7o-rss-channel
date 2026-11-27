@@ -7,7 +7,147 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>cs</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:29:46 +0000</lastBuildDate>
+    <item>
+      <title>Čajovna</title>
+      <link>https://www.kosmas.cz/knihy/576359/cajovna/</link>
+      <description>Čajovna - Radim Hladík</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576359/cajovna/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Krvavý hejtman</title>
+      <link>https://www.kosmas.cz/knihy/576454/krvavy-hejtman/</link>
+      <description>Krvavý hejtman - Vlastimil Vondruška</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576454/krvavy-hejtman/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dědictví portugalských templářů</title>
+      <link>https://www.kosmas.cz/knihy/576476/dedictvi-portugalskych-templaru/</link>
+      <description>Dědictví portugalských templářů - Vlastimil Vondruška</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576476/dedictvi-portugalskych-templaru/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Putování a dobrodružství Nikodéma staršího</title>
+      <link>https://www.kosmas.cz/knihy/577039/putovani-a-dobrodruzstvi-nikodema-starsiho/</link>
+      <description>Putování a dobrodružství Nikodéma staršího - Alexej Dmitrijevič Skaldin</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577039/putovani-a-dobrodruzstvi-nikodema-starsiho/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>To ještě nevíš</title>
+      <link>https://www.kosmas.cz/knihy/577041/to-jeste-nevis/</link>
+      <description>To ještě nevíš - Štěpánka Fefferová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577041/to-jeste-nevis/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>1991</title>
+      <link>https://www.kosmas.cz/knihy/577042/1991/</link>
+      <description>1991 - Franck Thilliez</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577042/1991/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Až shoří voda</title>
+      <link>https://www.kosmas.cz/knihy/577043/az-shori-voda/</link>
+      <description>Až shoří voda - Evita Naušová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577043/az-shori-voda/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravý početník 5 - 2. díl</title>
+      <link>https://www.kosmas.cz/knihy/577063/hravy-pocetnik-5-2.-dil/</link>
+      <description>Hravý početník 5 - 2. díl - Jovanka Rybová, kol.</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577063/hravy-pocetnik-5-2.-dil/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procvičování pravopisu pro 2. ročník</title>
+      <link>https://www.kosmas.cz/knihy/577064/procvicovani-pravopisu-pro-2.-rocnik/</link>
+      <description>Procvičování pravopisu pro 2. ročník</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577064/procvicovani-pravopisu-pro-2.-rocnik/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procvičování pravopisu pro 7. ročník</title>
+      <link>https://www.kosmas.cz/knihy/577066/procvicovani-pravopisu-pro-7.-rocnik/</link>
+      <description>Procvičování pravopisu pro 7. ročník</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577066/procvicovani-pravopisu-pro-7.-rocnik/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procvičování pravopisu pro 6. ročník</title>
+      <link>https://www.kosmas.cz/knihy/577067/procvicovani-pravopisu-pro-6.-rocnik/</link>
+      <description>Procvičování pravopisu pro 6. ročník</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577067/procvicovani-pravopisu-pro-6.-rocnik/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Procvičování pravopisu pro 5. ročník</title>
+      <link>https://www.kosmas.cz/knihy/577068/procvicovani-pravopisu-pro-5.-rocnik/</link>
+      <description>Procvičování pravopisu pro 5. ročník</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577068/procvicovani-pravopisu-pro-5.-rocnik/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravá písanka 1-4. díl</title>
+      <link>https://www.kosmas.cz/knihy/577069/hrava-pisanka-1-4.-dil/</link>
+      <description>Hravá písanka 1-4. díl</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577069/hrava-pisanka-1-4.-dil/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravá literatura 8 – pracovní sešit</title>
+      <link>https://www.kosmas.cz/knihy/577072/hrava-literatura-8-pracovni-sesit/</link>
+      <description>Hravá literatura 8 – pracovní sešit</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577072/hrava-literatura-8-pracovni-sesit/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravá čeština 6 – pracovní sešit</title>
+      <link>https://www.kosmas.cz/knihy/577074/hrava-cestina-6-pracovni-sesit/</link>
+      <description>Hravá čeština 6 – pracovní sešit</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577074/hrava-cestina-6-pracovni-sesit/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravý dějepis 6 – pracovní sešit</title>
+      <link>https://www.kosmas.cz/knihy/577075/hravy-dejepis-6-pracovni-sesit/</link>
+      <description>Hravý dějepis 6 – pracovní sešit</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577075/hravy-dejepis-6-pracovni-sesit/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravá matematika 5 – pracovní sešit 1.díl</title>
+      <link>https://www.kosmas.cz/knihy/577076/hrava-matematika-5-pracovni-sesit-1.dil/</link>
+      <description>Hravá matematika 5 – pracovní sešit 1.díl</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577076/hrava-matematika-5-pracovni-sesit-1.dil/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hravý přírodopis 7 - pracovní sešit</title>
+      <link>https://www.kosmas.cz/knihy/577077/hravy-prirodopis-7-pracovni-sesit/</link>
+      <description>Hravý přírodopis 7 - pracovní sešit</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577077/hravy-prirodopis-7-pracovni-sesit/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vraždoku: Po stopách minulosti</title>
+      <link>https://www.kosmas.cz/knihy/577080/vrazdoku-po-stopach-minulosti/</link>
+      <description>Vraždoku: Po stopách minulosti - Manuel Garand</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577080/vrazdoku-po-stopach-minulosti/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Můj rok 1967</title>
+      <link>https://www.kosmas.cz/knihy/577082/muj-rok-1967/</link>
+      <description>Můj rok 1967 - Jarmila Frejtichová</description>
+      <guid isPermaLink="true">https://www.kosmas.cz/knihy/577082/muj-rok-1967/</guid>
+      <pubDate>Fri, 27 Nov 2026 16:29:27 +0000</pubDate>
+    </item>
     <item>
       <title>Můj rok 1960</title>
       <link>https://www.kosmas.cz/knihy/576186/muj-rok-1960/</link>
@@ -567,146 +707,6 @@
       <description>Neboť Bůh tak miloval svět... - Markéta Žižkovská</description>
       <guid isPermaLink="true">https://www.kosmas.cz/knihy/576664/nebot-buh-tak-miloval-svet/</guid>
       <pubDate>Sun, 22 Nov 2026 14:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>U doktora nanečisto</title>
-      <link>https://www.kosmas.cz/knihy/574612/u-doktora-nanecisto/</link>
-      <description>U doktora nanečisto - Zdeňka Hanousková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/574612/u-doktora-nanecisto/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tajný (sladký) život</title>
-      <link>https://www.kosmas.cz/knihy/576897/tajny-sladky-zivot/</link>
-      <description>Tajný (sladký) život - Ela Kara</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576897/tajny-sladky-zivot/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chobotnice</title>
-      <link>https://www.kosmas.cz/knihy/576899/chobotnice/</link>
-      <description>Chobotnice - Lubomír Černík</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576899/chobotnice/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Křehká srdce</title>
-      <link>https://www.kosmas.cz/knihy/576900/krehka-srdce/</link>
-      <description>Křehká srdce - Peyton Corinne</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576900/krehka-srdce/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Po Evropě se psem</title>
-      <link>https://www.kosmas.cz/knihy/576905/po-evrope-se-psem/</link>
-      <description>Po Evropě se psem - Angelika Mandler-Saul, Ulrike Miestinger</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576905/po-evrope-se-psem/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Popelka královnou aneb Pohádky o tom, jak to bylo dál</title>
-      <link>https://www.kosmas.cz/knihy/575969/popelka-kralovnou-aneb-pohadky-o-tom-jak-to-bylo-dal/</link>
-      <description>Popelka královnou aneb Pohádky o tom, jak to bylo dál</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575969/popelka-kralovnou-aneb-pohadky-o-tom-jak-to-bylo-dal/</guid>
-      <pubDate>Sun, 22 Nov 2026 14:25:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Courání po Plzni</title>
-      <link>https://www.kosmas.cz/knihy/569322/courani-po-plzni/</link>
-      <description>Courání po Plzni - kol.</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/569322/courani-po-plzni/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kostky 3</title>
-      <link>https://www.kosmas.cz/knihy/564823/kostky-3/</link>
-      <description>Kostky 3 - Kieron Gillen</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/564823/kostky-3/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Horizont snů</title>
-      <link>https://www.kosmas.cz/knihy/576485/horizont-snu/</link>
-      <description>Horizont snů - Petr Hlubuček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576485/horizont-snu/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:30:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spřízněná setkání</title>
-      <link>https://www.kosmas.cz/knihy/576639/spriznena-setkani/</link>
-      <description>Spřízněná setkání - Roman Erben</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576639/spriznena-setkani/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dohry</title>
-      <link>https://www.kosmas.cz/knihy/576640/dohry/</link>
-      <description>Dohry - Roman Erben</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576640/dohry/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stará a nová hnízda</title>
-      <link>https://www.kosmas.cz/knihy/576648/stara-a-nova-hnizda/</link>
-      <description>Stará a nová hnízda - Tomáš Král</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576648/stara-a-nova-hnizda/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Odborná němčina pro školy se stavebním zaměřením</title>
-      <link>https://www.kosmas.cz/knihy/576875/odborna-nemcina-pro-skoly-se-stavebnim-zamerenim/</link>
-      <description>Odborná němčina pro školy se stavebním zaměřením - Hildegarda Dorčáková, Šárka Sedláčková</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576875/odborna-nemcina-pro-skoly-se-stavebnim-zamerenim/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Příchod Divočiny</title>
-      <link>https://www.kosmas.cz/knihy/576876/prichod-divociny/</link>
-      <description>Příchod Divočiny - Vladimír Poklop</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576876/prichod-divociny/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Angelika - Královské slavnosti</title>
-      <link>https://www.kosmas.cz/knihy/576884/angelika-kralovske-slavnosti/</link>
-      <description>Angelika - Královské slavnosti - Anne Golon</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576884/angelika-kralovske-slavnosti/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:29:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hurvínkovy pohádky naruby</title>
-      <link>https://www.kosmas.cz/knihy/575968/hurvinkovy-pohadky-naruby/</link>
-      <description>Hurvínkovy pohádky naruby</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/575968/hurvinkovy-pohadky-naruby/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak Hurvínek Sněhurku na hlavu postavil</title>
-      <link>https://www.kosmas.cz/knihy/576059/jak-hurvinek-snehurku-na-hlavu-postavil/</link>
-      <description>Jak Hurvínek Sněhurku na hlavu postavil - Miloš Kirschner, Vladimír Straka, Vladimír Straka</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576059/jak-hurvinek-snehurku-na-hlavu-postavil/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku</title>
-      <link>https://www.kosmas.cz/knihy/576060/jak-hurvinek-s-manickou-prestaveli-pernikovou-chaloupku/</link>
-      <description>Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku - Miloš Kirschner</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576060/jak-hurvinek-s-manickou-prestaveli-pernikovou-chaloupku/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tajemství starých olomouckých domů a uliček</title>
-      <link>https://www.kosmas.cz/knihy/576621/tajemstvi-starych-olomouckych-domu-a-ulicek/</link>
-      <description>Tajemství starých olomouckých domů a uliček - Karel Zámečníček</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576621/tajemstvi-starych-olomouckych-domu-a-ulicek/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou</title>
-      <link>https://www.kosmas.cz/knihy/576119/tim-burton-ukradene-vanoce-stin-nad-dynovou-kralovnou/</link>
-      <description>Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou - Megan Shepherdová</description>
-      <guid isPermaLink="true">https://www.kosmas.cz/knihy/576119/tim-burton-ukradene-vanoce-stin-nad-dynovou-kralovnou/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:16:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

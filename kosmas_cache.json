@@ -1,5 +1,166 @@
 [
   {
+    "title": "Čajovna",
+    "url": "https://www.kosmas.cz/knihy/576359/cajovna/",
+    "description": "Čajovna - Radim Hladík",
+    "authors": [
+      "Radim Hladík"
+    ],
+    "date": "2026-11-27T16:29:46.422283+00:00"
+  },
+  {
+    "title": "Krvavý hejtman",
+    "url": "https://www.kosmas.cz/knihy/576454/krvavy-hejtman/",
+    "description": "Krvavý hejtman - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-11-27T16:29:45.422283+00:00"
+  },
+  {
+    "title": "Dědictví portugalských templářů",
+    "url": "https://www.kosmas.cz/knihy/576476/dedictvi-portugalskych-templaru/",
+    "description": "Dědictví portugalských templářů - Vlastimil Vondruška",
+    "authors": [
+      "Vlastimil Vondruška"
+    ],
+    "date": "2026-11-27T16:29:44.422283+00:00"
+  },
+  {
+    "title": "Putování a dobrodružství Nikodéma staršího",
+    "url": "https://www.kosmas.cz/knihy/577039/putovani-a-dobrodruzstvi-nikodema-starsiho/",
+    "description": "Putování a dobrodružství Nikodéma staršího - Alexej Dmitrijevič Skaldin",
+    "authors": [
+      "Alexej Dmitrijevič Skaldin"
+    ],
+    "date": "2026-11-27T16:29:43.422283+00:00"
+  },
+  {
+    "title": "To ještě nevíš",
+    "url": "https://www.kosmas.cz/knihy/577041/to-jeste-nevis/",
+    "description": "To ještě nevíš - Štěpánka Fefferová",
+    "authors": [
+      "Štěpánka Fefferová"
+    ],
+    "date": "2026-11-27T16:29:42.422283+00:00"
+  },
+  {
+    "title": "1991",
+    "url": "https://www.kosmas.cz/knihy/577042/1991/",
+    "description": "1991 - Franck Thilliez",
+    "authors": [
+      "Franck Thilliez"
+    ],
+    "date": "2026-11-27T16:29:41.422283+00:00"
+  },
+  {
+    "title": "Až shoří voda",
+    "url": "https://www.kosmas.cz/knihy/577043/az-shori-voda/",
+    "description": "Až shoří voda - Evita Naušová",
+    "authors": [
+      "Evita Naušová"
+    ],
+    "date": "2026-11-27T16:29:40.422283+00:00"
+  },
+  {
+    "title": "Hravý početník 5 - 2. díl",
+    "url": "https://www.kosmas.cz/knihy/577063/hravy-pocetnik-5-2.-dil/",
+    "description": "Hravý početník 5 - 2. díl - Jovanka Rybová, kol.",
+    "authors": [
+      "Jovanka Rybová",
+      "kol."
+    ],
+    "date": "2026-11-27T16:29:39.422283+00:00"
+  },
+  {
+    "title": "Procvičování pravopisu pro 2. ročník",
+    "url": "https://www.kosmas.cz/knihy/577064/procvicovani-pravopisu-pro-2.-rocnik/",
+    "description": "Procvičování pravopisu pro 2. ročník",
+    "authors": [],
+    "date": "2026-11-27T16:29:38.422283+00:00"
+  },
+  {
+    "title": "Procvičování pravopisu pro 7. ročník",
+    "url": "https://www.kosmas.cz/knihy/577066/procvicovani-pravopisu-pro-7.-rocnik/",
+    "description": "Procvičování pravopisu pro 7. ročník",
+    "authors": [],
+    "date": "2026-11-27T16:29:37.422283+00:00"
+  },
+  {
+    "title": "Procvičování pravopisu pro 6. ročník",
+    "url": "https://www.kosmas.cz/knihy/577067/procvicovani-pravopisu-pro-6.-rocnik/",
+    "description": "Procvičování pravopisu pro 6. ročník",
+    "authors": [],
+    "date": "2026-11-27T16:29:36.422283+00:00"
+  },
+  {
+    "title": "Procvičování pravopisu pro 5. ročník",
+    "url": "https://www.kosmas.cz/knihy/577068/procvicovani-pravopisu-pro-5.-rocnik/",
+    "description": "Procvičování pravopisu pro 5. ročník",
+    "authors": [],
+    "date": "2026-11-27T16:29:35.422283+00:00"
+  },
+  {
+    "title": "Hravá písanka 1-4. díl",
+    "url": "https://www.kosmas.cz/knihy/577069/hrava-pisanka-1-4.-dil/",
+    "description": "Hravá písanka 1-4. díl",
+    "authors": [],
+    "date": "2026-11-27T16:29:34.422283+00:00"
+  },
+  {
+    "title": "Hravá literatura 8 – pracovní sešit",
+    "url": "https://www.kosmas.cz/knihy/577072/hrava-literatura-8-pracovni-sesit/",
+    "description": "Hravá literatura 8 – pracovní sešit",
+    "authors": [],
+    "date": "2026-11-27T16:29:33.422283+00:00"
+  },
+  {
+    "title": "Hravá čeština 6 – pracovní sešit",
+    "url": "https://www.kosmas.cz/knihy/577074/hrava-cestina-6-pracovni-sesit/",
+    "description": "Hravá čeština 6 – pracovní sešit",
+    "authors": [],
+    "date": "2026-11-27T16:29:32.422283+00:00"
+  },
+  {
+    "title": "Hravý dějepis 6 – pracovní sešit",
+    "url": "https://www.kosmas.cz/knihy/577075/hravy-dejepis-6-pracovni-sesit/",
+    "description": "Hravý dějepis 6 – pracovní sešit",
+    "authors": [],
+    "date": "2026-11-27T16:29:31.422283+00:00"
+  },
+  {
+    "title": "Hravá matematika 5 – pracovní sešit 1.díl",
+    "url": "https://www.kosmas.cz/knihy/577076/hrava-matematika-5-pracovni-sesit-1.dil/",
+    "description": "Hravá matematika 5 – pracovní sešit 1.díl",
+    "authors": [],
+    "date": "2026-11-27T16:29:30.422283+00:00"
+  },
+  {
+    "title": "Hravý přírodopis 7 - pracovní sešit",
+    "url": "https://www.kosmas.cz/knihy/577077/hravy-prirodopis-7-pracovni-sesit/",
+    "description": "Hravý přírodopis 7 - pracovní sešit",
+    "authors": [],
+    "date": "2026-11-27T16:29:29.422283+00:00"
+  },
+  {
+    "title": "Vraždoku: Po stopách minulosti",
+    "url": "https://www.kosmas.cz/knihy/577080/vrazdoku-po-stopach-minulosti/",
+    "description": "Vraždoku: Po stopách minulosti - Manuel Garand",
+    "authors": [
+      "Manuel Garand"
+    ],
+    "date": "2026-11-27T16:29:28.422283+00:00"
+  },
+  {
+    "title": "Můj rok 1967",
+    "url": "https://www.kosmas.cz/knihy/577082/muj-rok-1967/",
+    "description": "Můj rok 1967 - Jarmila Frejtichová",
+    "authors": [
+      "Jarmila Frejtichová"
+    ],
+    "date": "2026-11-27T16:29:27.422283+00:00"
+  },
+  {
     "title": "Můj rok 1960",
     "url": "https://www.kosmas.cz/knihy/576186/muj-rok-1960/",
     "description": "Můj rok 1960 - Martin Ježek",
@@ -1617,192 +1778,5 @@
       "Mahmúd Darwíš"
     ],
     "date": "2026-11-15T13:48:37.697343+00:00"
-  },
-  {
-    "title": "Spoután v čepeli - Upíři z Chicaga 13",
-    "url": "https://www.kosmas.cz/knihy/575317/spoutan-v-cepeli-upiri-z-chicaga-13/",
-    "description": "Spoután v čepeli - Upíři z Chicaga 13 - Chloe Neill",
-    "authors": [
-      "Chloe Neill"
-    ],
-    "date": "2026-11-15T13:48:36.697343+00:00"
-  },
-  {
-    "title": "Sni dál, Ramono Rileyová",
-    "url": "https://www.kosmas.cz/knihy/575318/sni-dal-ramono-rileyova/",
-    "description": "Sni dál, Ramono Rileyová - Ashley Herring Blake",
-    "authors": [
-      "Ashley Herring Blake"
-    ],
-    "date": "2026-11-15T13:48:35.697343+00:00"
-  },
-  {
-    "title": "Jak vycvičit draka: Jak se stát pirátem",
-    "url": "https://www.kosmas.cz/knihy/575451/jak-vycvicit-draka-jak-se-stat-piratem/",
-    "description": "Jak vycvičit draka: Jak se stát pirátem - Cressida Cowellová",
-    "authors": [
-      "Cressida Cowellová"
-    ],
-    "date": "2026-11-15T13:48:34.697343+00:00"
-  },
-  {
-    "title": "Zakletá",
-    "url": "https://www.kosmas.cz/knihy/575458/zakleta/",
-    "description": "Zakletá - Laura Thalassa",
-    "authors": [
-      "Laura Thalassa"
-    ],
-    "date": "2026-11-15T13:48:33.697343+00:00"
-  },
-  {
-    "title": "Praprázdniny",
-    "url": "https://www.kosmas.cz/knihy/571603/praprazdniny/",
-    "description": "Praprázdniny - Ivona Březinová",
-    "authors": [
-      "Ivona Březinová"
-    ],
-    "date": "2026-11-15T13:48:32.697343+00:00"
-  },
-  {
-    "title": "Začátek, co nekončí",
-    "url": "https://www.kosmas.cz/knihy/571654/zacatek-co-nekonci/",
-    "description": "Začátek, co nekončí - Corinne Heyrman",
-    "authors": [
-      "Corinne Heyrman"
-    ],
-    "date": "2026-11-15T13:48:31.697343+00:00"
-  },
-  {
-    "title": "A svět byl mladý",
-    "url": "https://www.kosmas.cz/knihy/535801/a-svet-byl-mlady/",
-    "description": "A svět byl mladý - Carmen Kornová",
-    "authors": [
-      "Carmen Kornová"
-    ],
-    "date": "2026-11-15T13:48:30.697343+00:00"
-  },
-  {
-    "title": "Temný eros",
-    "url": "https://www.kosmas.cz/knihy/571679/temny-eros/",
-    "description": "Temný eros - Thomas Moore",
-    "authors": [
-      "Thomas Moore"
-    ],
-    "date": "2026-11-15T13:48:29.697343+00:00"
-  },
-  {
-    "title": "Svatá chvíle",
-    "url": "https://www.kosmas.cz/knihy/564906/svata-chvile/",
-    "description": "Svatá chvíle - Honza Vojtko",
-    "authors": [
-      "Honza Vojtko"
-    ],
-    "date": "2026-11-14T13:21:29.750975+00:00"
-  },
-  {
-    "title": "S kým by Amélie nechodila",
-    "url": "https://www.kosmas.cz/knihy/554851/s-kym-by-amelie-nechodila/",
-    "description": "S kým by Amélie nechodila - Igor Malijevský",
-    "authors": [
-      "Igor Malijevský"
-    ],
-    "date": "2026-11-14T13:21:28.750975+00:00"
-  },
-  {
-    "title": "Umění a síla diplomacie",
-    "url": "https://www.kosmas.cz/knihy/576149/umeni-a-sila-diplomacie/",
-    "description": "Umění a síla diplomacie - Aaron Wess Mitchell",
-    "authors": [
-      "Aaron Wess Mitchell"
-    ],
-    "date": "2026-11-14T13:21:27.750975+00:00"
-  },
-  {
-    "title": "Naslouchejte svému dítěti",
-    "url": "https://www.kosmas.cz/knihy/576271/naslouchejte-svemu-diteti/",
-    "description": "Naslouchejte svému dítěti - Naomi Aldortová",
-    "authors": [
-      "Naomi Aldortová"
-    ],
-    "date": "2026-11-14T13:21:24.750975+00:00"
-  },
-  {
-    "title": "New York",
-    "url": "https://www.kosmas.cz/knihy/576279/new-york/",
-    "description": "New York - Katy Cooper",
-    "authors": [
-      "Katy Cooper"
-    ],
-    "date": "2026-11-14T13:21:23.750975+00:00"
-  },
-  {
-    "title": "Státověda. Stát. Jednotlivec. Konstitucionalismus",
-    "url": "https://www.kosmas.cz/knihy/576282/statoveda.-stat.-jednotlivec.-konstitucionalismus/",
-    "description": "Státověda. Stát. Jednotlivec. Konstitucionalismus - Marek Antoš, Jan Grinc, Miluše Kindlová, Ondřej Preuss",
-    "authors": [
-      "Marek Antoš",
-      "Jan Grinc",
-      "Miluše Kindlová",
-      "Ondřej Preuss"
-    ],
-    "date": "2026-11-14T13:21:22.750975+00:00"
-  },
-  {
-    "title": "My girl: Radost s tebou žít 3",
-    "url": "https://www.kosmas.cz/knihy/576321/my-girl-radost-s-tebou-zit-3/",
-    "description": "My girl: Radost s tebou žít 3 - Mizu Sahara",
-    "authors": [
-      "Mizu Sahara"
-    ],
-    "date": "2026-11-14T13:21:21.750975+00:00"
-  },
-  {
-    "title": "Bastard 2",
-    "url": "https://www.kosmas.cz/knihy/576322/bastard-2/",
-    "description": "Bastard 2 - Carnby Kim",
-    "authors": [
-      "Carnby Kim"
-    ],
-    "date": "2026-11-14T13:21:20.750975+00:00"
-  },
-  {
-    "title": "Batman 1: Nový den",
-    "url": "https://www.kosmas.cz/knihy/576323/batman-1-novy-den/",
-    "description": "Batman 1: Nový den - Matt Fraction",
-    "authors": [
-      "Matt Fraction"
-    ],
-    "date": "2026-11-14T13:21:19.750975+00:00"
-  },
-  {
-    "title": "Barva z kosmu H. P. Lovecrafta",
-    "url": "https://www.kosmas.cz/knihy/576324/barva-z-kosmu-h.-p.-lovecrafta/",
-    "description": "Barva z kosmu H. P. Lovecrafta - Howard Phillips Lovecraft, Gó Tanabe",
-    "authors": [
-      "Howard Phillips Lovecraft",
-      "Gó Tanabe"
-    ],
-    "date": "2026-11-14T13:21:18.750975+00:00"
-  },
-  {
-    "title": "Simpsonovi: Komiksová fofrovačka",
-    "url": "https://www.kosmas.cz/knihy/576325/simpsonovi-komiksova-fofrovacka/",
-    "description": "Simpsonovi: Komiksová fofrovačka - Elma Blackburnová, Ty Templeton, Chuck Dixon, Eric Rogers",
-    "authors": [
-      "Elma Blackburnová",
-      "Ty Templeton",
-      "Chuck Dixon",
-      "Eric Rogers"
-    ],
-    "date": "2026-11-14T13:21:17.750975+00:00"
-  },
-  {
-    "title": "One Piece 18: Přichází Ace",
-    "url": "https://www.kosmas.cz/knihy/576326/one-piece-18-prichazi-ace/",
-    "description": "One Piece 18: Přichází Ace - Eiičiró Oda",
-    "authors": [
-      "Eiičiró Oda"
-    ],
-    "date": "2026-11-14T13:21:16.750975+00:00"
   }
 ]

@@ -5,6 +5,53 @@ Uchovává záznamy za poslední týden.
 
 ---
 
+## 🕐 2026-11-27 16:29:46 UTC
+
+**Zdroj:** Kosmas.cz - Novinky
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 20
+
+**Tituly nových položek:**
+
+1. Čajovna
+2. Krvavý hejtman
+3. Dědictví portugalských templářů
+4. Putování a dobrodružství Nikodéma staršího
+5. To ještě nevíš
+6. 1991
+7. Až shoří voda
+8. Hravý početník 5 - 2. díl
+9. Procvičování pravopisu pro 2. ročník
+10. Procvičování pravopisu pro 7. ročník
+11. Procvičování pravopisu pro 6. ročník
+12. Procvičování pravopisu pro 5. ročník
+13. Hravá písanka 1-4. díl
+14. Hravá literatura 8 – pracovní sešit
+15. Hravá čeština 6 – pracovní sešit
+16. Hravý dějepis 6 – pracovní sešit
+17. Hravá matematika 5 – pracovní sešit 1.díl
+18. Hravý přírodopis 7 - pracovní sešit
+19. Vraždoku: Po stopách minulosti
+20. Můj rok 1967
+
+---
+
+## 🕐 2026-11-27 16:29:44 UTC
+
+**Zdroj:** H7O - Časopis Host
+
+**Status:** ✅ Úspěch
+
+**Nové položky:** 1
+
+**Tituly nových položek:**
+
+1. Kabaret světa v nových textech Jiřího Suchého
+
+---
+
 ## 🕐 2026-11-26 16:43:46 UTC
 
 **Zdroj:** Kosmas.cz - Novinky
@@ -251,53 +298,6 @@ Uchovává záznamy za poslední týden.
 **Status:** ✅ Úspěch
 
 **Nové položky:** 0
-
----
-
-## 🕐 2026-11-20 15:16:37 UTC
-
-**Zdroj:** Kosmas.cz - Novinky
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 20
-
-**Tituly nových položek:**
-
-1. Hurvínkovy pohádky naruby
-2. Jak Hurvínek Sněhurku na hlavu postavil
-3. Jak Hurvínek s Máničkou přestavěli perníkovou chaloupku
-4. Tajemství starých olomouckých domů a uliček
-5. Tim Burton Ukradené Vánoce - Stín nad Dýňovou královnou
-6. Bůh je ti, blbečku, svědkem
-7. Poslední z kovářů
-8. Hra osudu
-9. Ven
-10. Tlapková patrola - Dinosauří film -  Velké dinosauří dobrodružství
-11. DOGMA
-12. Všichni nad Zábudou
-13. Hacking mysli - Cesta k digitální demokracii
-14. Na rok v Londýně
-15. Divočina: Jsem do tebe blázen
-16. Láska mimo plán
-17. Kontexty 5/2026
-18. Aplikovaný elektromagnetizmus
-19. Maly prync
-20. Old Surehand I. - V Llanu Estacadu
-
----
-
-## 🕐 2026-11-20 15:16:36 UTC
-
-**Zdroj:** H7O - Časopis Host
-
-**Status:** ✅ Úspěch
-
-**Nové položky:** 1
-
-**Tituly nových položek:**
-
-1. Ticho zní jinak, když mlčí tři
 
 ---
 
